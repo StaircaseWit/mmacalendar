@@ -1,4 +1,3 @@
-import { DAY_MS } from "./config.js";
 import type {
   CancelledBout,
   EventScheduleState,
@@ -108,7 +107,7 @@ export function reconcileEvents(
   store: EventStore,
   currentEvents: UfcEvent[],
   now = new Date(),
-  { trackMissing = true, retentionDays = 120 }: { trackMissing?: boolean; retentionDays?: number } = {},
+  { trackMissing = true }: { trackMissing?: boolean } = {},
 ): UfcEvent[] {
   store.events ??= {};
   const checkedAt = now.toISOString();
@@ -149,12 +148,16 @@ export function reconcileEvents(
       if (seen.has(slug)) continue;
       const cached = hydrateEvent(tracked.event);
       const start = eventStart(cached);
-      if (!start || start.valueOf() < now.valueOf() - retentionDays * DAY_MS) {
+      if (!start) {
         delete store.events[slug];
         continue;
       }
       tracked.missingChecks += 1;
-      if (!["cancelled", "postponed"].includes(tracked.status) && tracked.missingChecks >= 2) tracked.status = "unlisted";
+      if (
+        start > now
+        && !["cancelled", "postponed"].includes(tracked.status)
+        && tracked.missingChecks >= 2
+      ) tracked.status = "unlisted";
       store.events[slug] = tracked;
       output.push(attachStatus(cached, tracked, checkedAt));
     }

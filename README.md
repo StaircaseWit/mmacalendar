@@ -17,13 +17,15 @@ The generator is written in strict TypeScript. Its event, card, fighter, profile
   UFC · Main Card · 6 bouts
   📍 Desert Diamond Arena, Glendale, United States
   🕒 22:00–Sun 01:00 Ireland
-  Bout times are estimates and may shift as the card progresses.
+  --------------------------------
+  BOUTS
+  --------------------------------
 
-  🥊 6. 𝗝𝗲𝗮𝗻 𝗦𝗶𝗹𝘃𝗮 (#6) 🇧🇷 vs. 𝗝𝗼𝘀𝗲 𝗠𝗶𝗴𝘂𝗲𝗹 𝗗𝗲𝗹𝗴𝗮𝗱𝗼 🇲🇽 - 145lbs/66kg Featherweight · Est. Sun 00:30 Ireland
-      Silva: 17-3-0 | 29yo | Odds -425 (1.24)
-      Delgado: 12-2-0 | 28yo | Odds +325 (4.25)
+  🥊 6. 𝗝𝗲𝗮𝗻 𝗦𝗶𝗹𝘃𝗮 (#6) 🇧🇷 vs. 𝗝𝗼𝘀𝗲 𝗠𝗶𝗴𝘂𝗲𝗹 𝗗𝗲𝗹𝗴𝗮𝗱𝗼 🇲🇽 - 145lbs/66kg Featherweight
+      Silva: 17-3-0 | 29yo | Odds 🟢 -425 (1.24)
+      Delgado: 12-2-0 | 28yo | Odds 🔴 +325 (4.25)
       Odds history:
-        12 Sep: Silva -425 (1.24) | Delgado +325 (4.25)
+        12 Sep: Silva 🟢 -425 (1.24) | Delgado 🔴 +325 (4.25)
   ```
 
 - A link to the source UFC event and to the complete odds-change log.
@@ -34,8 +36,8 @@ The standard calendar description uses the `🥊` marker, bout order, and bold U
 
 ## Update policy
 
-- The workflow checks event and card details every six hours.
-- The feed retains a rolling 120-day archive of previous UFC events as well as upcoming cards.
+- The workflow checks event and card details every Monday and Friday at 06:17 UTC.
+- Once an event has been discovered, it remains in the feed permanently. This preserves an expanding archive rather than a rolling window.
 - Fighter records, birth dates, and family names are cached for seven days. Birth dates are used only to calculate age on the event date.
 - Odds are accepted into the calendar **no more than once every seven days**.
 - `data/odds-history.json` stores only the first snapshot and subsequent changes. The same history appears in each relevant calendar entry and in `docs/odds-history.html`.

@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Free, automatically updated MMA calendar feeds with detailed fight cards, local times, fighter records, rankings and odds history.">
+  <meta name="description" content="Calendar subscriptions for MMA organisations, with fight cards, local times, fighter records, rankings and odds history.">
   <meta name="color-scheme" content="dark">
   <title>MMA Calendar | Every fight, right on time</title>
   <style>
@@ -37,7 +37,8 @@
     nav a { color: var(--muted); font-size: 14px; font-weight: 650; text-decoration: none; }
     nav a:hover { color: var(--text); }
     .github-link { padding: 9px 13px; border: 1px solid var(--border); border-radius: 10px; }
-    .hero { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(320px, .8fr); gap: 68px; align-items: center; min-height: 610px; padding: 86px 0 70px; }
+    .hero { min-height: 0; padding: 110px 0 96px; }
+    .hero > div { max-width: 820px; }
     .eyebrow { display: inline-flex; align-items: center; gap: 9px; margin: 0 0 20px; color: #ffad99; font-size: 13px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
     .eyebrow::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--green); box-shadow: 0 0 0 5px rgba(85,214,139,.11); }
     h1 { max-width: 760px; margin: 0; font-size: clamp(48px, 7vw, 82px); line-height: .98; letter-spacing: -.065em; }
@@ -49,28 +50,7 @@
     .button.secondary { border-color: var(--border); background: rgba(255,255,255,.035); color: var(--text); }
     .button.secondary:hover { background: rgba(255,255,255,.075); border-color: #3c4658; }
     .button.small { min-height: 42px; padding: 0 14px; font-size: 14px; }
-    .calendar-visual { position: relative; padding: 22px; border: 1px solid var(--border); border-radius: 28px; background: linear-gradient(145deg, rgba(255,255,255,.07), rgba(255,255,255,.025)); box-shadow: 0 35px 90px rgba(0,0,0,.38); }
-    .calendar-visual::before { content: ""; position: absolute; inset: -1px; z-index: -1; border-radius: inherit; background: linear-gradient(145deg, rgba(255,91,53,.5), transparent 38%); filter: blur(18px); opacity: .45; }
-    .visual-top { display: flex; align-items: center; justify-content: space-between; padding: 4px 2px 20px; }
-    .visual-title { font-size: 14px; font-weight: 800; }
-    .live-pill, .status-pill { display: inline-flex; align-items: center; gap: 7px; padding: 6px 10px; border-radius: 999px; font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; }
-    .live-pill, .status-pill { background: rgba(85,214,139,.12); color: #81e5aa; }
-    .live-pill::before { content: ""; width: 6px; height: 6px; border-radius: 50%; background: var(--green); }
-    .fight-card { overflow: hidden; border: 1px solid var(--border); border-radius: 18px; background: #0c1017; }
-    .event-row { display: grid; grid-template-columns: 50px 1fr auto; gap: 14px; align-items: center; padding: 17px; border-bottom: 1px solid var(--border); }
-    .event-row:last-child { border-bottom: 0; }
-    .date-tile { display: grid; place-items: center; width: 48px; height: 50px; border-radius: 12px; background: var(--accent-soft); color: #ffad99; font-weight: 850; }
-    .date-tile span { display: block; font-size: 10px; line-height: 1; letter-spacing: .08em; }
-    .date-tile strong { display: block; margin-top: 4px; font-size: 15px; line-height: 1; }
-    .event-name { font-size: 14px; font-weight: 800; }
-    .event-meta { margin-top: 3px; color: var(--muted); font-size: 12px; }
-    .promotion-dot { width: 9px; height: 9px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 5px var(--accent-soft); }
-    .visual-footer { display: flex; justify-content: space-between; gap: 12px; padding: 17px 4px 2px; color: var(--muted); font-size: 12px; }
-    .metric-strip { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); overflow: hidden; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
-    .metric { min-width: 0; padding: 27px 30px; border-right: 1px solid var(--border); }
-    .metric:last-child { border-right: 0; }
-    .metric strong { display: block; font-size: 24px; letter-spacing: -.04em; }
-    .metric span { color: var(--muted); font-size: 13px; }
+    .status-pill { display: inline-flex; align-items: center; gap: 7px; padding: 6px 10px; border-radius: 999px; background: rgba(85,214,139,.12); color: #81e5aa; font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; }
     section { padding: 100px 0; }
     .section-heading { display: flex; align-items: end; justify-content: space-between; gap: 28px; margin-bottom: 36px; }
     .section-heading h2 { margin: 0; font-size: clamp(34px, 4vw, 52px); letter-spacing: -.045em; line-height: 1.04; }
@@ -83,10 +63,8 @@
     .promotion-name p { margin: 2px 0 0; color: var(--muted); font-size: 13px; }
     .feed-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); min-width: 0; gap: 16px; }
     .feed-card { display: flex; flex-direction: column; min-width: 0; min-height: 300px; padding: 22px; border: 1px solid var(--border); border-radius: 17px; background: var(--surface-raised); }
-    .feed-card.recommended { border-color: rgba(255,91,53,.65); box-shadow: inset 0 0 0 1px rgba(255,91,53,.12); }
     .feed-card-top { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
     .feed-number { color: #687184; font-size: 13px; font-weight: 850; }
-    .recommended-label { padding: 5px 8px; border-radius: 7px; background: var(--accent-soft); color: #ffad99; font-size: 10px; font-weight: 850; letter-spacing: .06em; text-transform: uppercase; }
     .feed-card h4 { margin: 20px 0 8px; font-size: 20px; letter-spacing: -.025em; }
     .feed-card > p { margin: 0; color: var(--muted); font-size: 14px; }
     .feed-url { display: block; overflow: hidden; margin: 18px 0; padding: 10px 11px; border-radius: 9px; background: #0c1017; color: #c2c9d5; font: 11px/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; text-overflow: ellipsis; white-space: nowrap; }
@@ -105,11 +83,6 @@
     .step h3 { margin: 10px 0 7px; font-size: 19px; }
     .step p { margin: 0; color: var(--muted); font-size: 14px; }
     .step a { color: #dce8fa; font-weight: 700; }
-    .feature-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
-    .feature { padding: 20px; border: 1px solid var(--border); border-radius: 15px; background: rgba(255,255,255,.025); }
-    .feature-icon { margin-bottom: 17px; font-size: 21px; }
-    .feature strong { display: block; font-size: 14px; }
-    .feature p { margin: 6px 0 0; color: var(--muted); font-size: 12px; }
     footer { padding: 35px 0 48px; border-top: 1px solid var(--border); }
     .footer-inner { display: flex; justify-content: space-between; gap: 22px; color: var(--muted); font-size: 13px; }
     .footer-links { display: flex; flex-wrap: wrap; gap: 18px; }
@@ -121,9 +94,6 @@
       .feed-card:last-child { grid-column: 1 / -1; }
     }
     @media (max-width: 900px) {
-      .hero { grid-template-columns: 1fr; gap: 48px; min-height: 0; }
-      .calendar-visual { max-width: 560px; }
-      .feature-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
       .coming-grid { grid-template-columns: 1fr; }
       .section-heading { align-items: start; flex-direction: column; }
     }
@@ -132,10 +102,8 @@
       nav a:not(.github-link) { display: none; }
       .hero { padding: 65px 0 55px; }
       h1 { font-size: clamp(46px, 15vw, 66px); }
-      .metric-strip, .feed-grid, .steps, .feature-grid { grid-template-columns: minmax(0, 1fr); }
+      .feed-grid, .steps { grid-template-columns: minmax(0, 1fr); }
       .feed-card:last-child { grid-column: auto; }
-      .metric { border-right: 0; border-bottom: 1px solid var(--border); }
-      .metric:last-child { border-bottom: 0; }
       section { padding: 72px 0; }
       .promotion-panel { padding: 18px; }
       .promotion-head { align-items: flex-start; }
@@ -152,31 +120,20 @@
   <main id="top">
     <div class="shell hero">
       <div>
-        <p class="eyebrow">Live fight schedules · automatically updated</p>
-        <h1><span class="gradient-text">Every fight.</span><br>Right on time.</h1>
-        <p class="hero-copy">Detailed MMA schedules for your calendar. Complete cards, fighter information, local times and weekly odds history. Subscribe once and the feed stays current.</p>
+        <p class="eyebrow">MMA calendar subscriptions</p>
+        <h1><span class="gradient-text">Fight schedules,</span><br>in your calendar.</h1>
+        <p class="hero-copy">Calendar subscriptions for different MMA organisations. UFC is available now, with ONE Championship, PFL and Rizin planned next.</p>
         <div class="hero-actions"><a class="button" href="#calendars">Choose a calendar <span aria-hidden="true">↓</span></a><a class="button secondary" href="#how-it-works">How subscriptions work</a></div>
       </div>
-      <div class="calendar-visual" aria-label="MMA promotions calendar preview">
-        <div class="visual-top"><span class="visual-title">Your fight calendar</span><span class="live-pill">Feeds live</span></div>
-        <div class="fight-card">
-          <div class="event-row"><div class="date-tile"><span>LIVE</span><strong>UFC</strong></div><div><div class="event-name">Full fight-card detail</div><div class="event-meta">Three subscription styles available</div></div><span class="promotion-dot" aria-hidden="true"></span></div>
-          <div class="event-row"><div class="date-tile"><span>NEXT</span><strong>ONE</strong></div><div><div class="event-name">ONE Championship</div><div class="event-meta">Promotion integration planned</div></div><span class="promotion-dot" style="background:#888;box-shadow:0 0 0 5px rgba(255,255,255,.06)" aria-hidden="true"></span></div>
-          <div class="event-row"><div class="date-tile"><span>NEXT</span><strong>PFL</strong></div><div><div class="event-name">PFL & Rizin</div><div class="event-meta">More promotions coming soon</div></div><span class="promotion-dot" style="background:#888;box-shadow:0 0 0 5px rgba(255,255,255,.06)" aria-hidden="true"></span></div>
-        </div>
-        <div class="visual-footer"><span id="feed-status">Checking feed status…</span><span>UTC → your time zone</span></div>
-      </div>
     </div>
-
-    <div class="metric-strip"><div class="metric"><strong>6 hours</strong><span>between automatic schedule checks</span></div><div class="metric"><strong>120 days</strong><span>of rolling event history</span></div><div class="metric"><strong>3 views</strong><span>split cards, complete events or estimated fights</span></div></div>
 
     <section class="shell" id="calendars">
       <div class="section-heading"><h2>Choose your view</h2><p>UFC is live now. Pick one calendar style, or combine them. Future schedule changes will arrive automatically.</p></div>
       <div class="promotion-panel">
         <div class="promotion-head"><div class="promotion-name"><span class="promotion-icon">UFC</span><div><h3>Ultimate Fighting Championship</h3><p>Events, fighters, rankings, records and odds</p></div></div><span class="status-pill">Available</span></div>
         <div class="feed-grid">
-          <article class="feed-card recommended">
-            <div class="feed-card-top"><span class="feed-number">01</span><span class="recommended-label">Recommended</span></div><h4>Split cards</h4><p>Early Prelims, Prelims and Main Card appear as separate calendar events.</p><code class="feed-url" data-url-for="ufc.ics"></code>
+          <article class="feed-card">
+            <div class="feed-card-top"><span class="feed-number">01</span></div><h4>Split cards</h4><p>Early Prelims, Prelims and Main Card appear as separate calendar events.</p><code class="feed-url" data-url-for="ufc.ics"></code>
             <div class="feed-actions"><button class="button small copy-feed" type="button" data-feed="ufc.ics">Copy subscription URL</button><a class="button secondary small" href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl" target="_blank" rel="noreferrer">Open Google Calendar ↗</a></div>
           </article>
           <article class="feed-card">
@@ -194,14 +151,10 @@
     </section>
 
     <section class="shell" id="how-it-works">
-      <div class="section-heading"><h2>Subscribe in three steps</h2><p>A subscription stays connected to the live feed. Downloading and importing an `.ics` file creates only a one-time copy.</p></div>
+      <div class="section-heading"><h2>Subscribe in three steps</h2><p>Choose a calendar, copy its address and add it to Google Calendar. Later updates will appear automatically.</p></div>
       <div class="steps"><div class="step"><span class="step-index">STEP 01</span><h3>Choose and copy</h3><p>Select a calendar style above and copy its subscription URL.</p></div><div class="step"><span class="step-index">STEP 02</span><h3>Open your calendar</h3><p>On a computer, open <a href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl" target="_blank" rel="noreferrer">Google Calendar’s From URL page ↗</a>.</p></div><div class="step"><span class="step-index">STEP 03</span><h3>Paste and subscribe</h3><p>Paste the URL and choose <strong>Add calendar</strong>. Google controls how quickly later updates appear.</p></div></div>
     </section>
 
-    <section class="shell">
-      <div class="section-heading"><h2>Built for changing cards</h2><p>MMA schedules move. The feeds are designed to preserve context instead of quietly losing an event.</p></div>
-      <div class="feature-grid"><div class="feature"><div class="feature-icon">↻</div><strong>Automatic updates</strong><p>Times, venues and card assignments are checked every six hours.</p></div><div class="feature"><div class="feature-icon">◷</div><strong>Local calendar time</strong><p>UTC timestamps let calendar clients display events in the selected time zone.</p></div><div class="feature"><div class="feature-icon">△</div><strong>Change tracking</strong><p>Dropped bouts and schedule changes remain visible instead of quietly disappearing.</p></div><div class="feature"><div class="feature-icon">±</div><strong>Weekly odds history</strong><p>American and decimal odds are recorded without excessive source requests.</p></div></div>
-    </section>
   </main>
 
   <footer><div class="shell footer-inner"><span>MMA Calendar · Fight schedules, simplified</span><div class="footer-links"><a href="odds-history.html">Odds history</a><a href="#calendars">Calendar feeds</a><a href="https://support.google.com/calendar/answer/37100?hl=en">Google subscription help</a></div></div></footer>
@@ -223,11 +176,6 @@
         catch { showToast("Copy was blocked. Select the URL shown above the button and copy it manually."); }
       });
     });
-    fetch(absoluteFeedUrl("ufc.ics"), { method: "HEAD" }).then((response) => {
-      if (!response.ok) throw new Error("Feed unavailable");
-      const modified = response.headers.get("last-modified");
-      document.querySelector("#feed-status").textContent = modified ? `Updated ${new Intl.DateTimeFormat(undefined, { dateStyle: "medium", timeStyle: "short" }).format(new Date(modified))}` : "UFC feeds online";
-    }).catch(() => { document.querySelector("#feed-status").textContent = "Status check unavailable"; });
   </script>
 </body>
 </html>

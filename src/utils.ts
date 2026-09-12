@@ -109,7 +109,7 @@ export function decimalOdds(americanOdds: string | null | undefined): string | n
 }
 
 export function shortFighterName(fighter: Pick<Fighter, "name" | "familyName">): string {
-  if (fighter.familyName) return fighter.familyName;
+  if (fighter.familyName && normalizedName(fighter.name).includes(normalizedName(fighter.familyName))) return fighter.familyName;
   const parts = cleanText(fighter.name).split(" ");
   if (/^(?:jr\.?|sr\.?|ii|iii|iv)$/i.test(parts.at(-1) ?? "") && parts.length > 1) parts.pop();
   return parts.at(-1) || fighter.name;

@@ -18,6 +18,8 @@ interface RenderCalendarOptions {
   displayTimeZoneLabel?: string;
 }
 
+const SECTION_BORDER = "--------------------------------";
+
 function escapeIcs(value: unknown = ""): string {
   return String(value)
     .replace(/\\/g, "\\\\")
@@ -59,10 +61,26 @@ function displayOdds(value: string | null | undefined): string {
   return decimal ? `${value} (${decimal})` : value;
 }
 
-function fighterDetail(fighter: Fighter, eventDate: Date): string {
+function oddsMarker(value: string | null | undefined, opponentValue: string | null | undefined): string {
+  const decimalValue = decimalOdds(value);
+  const opponentDecimalValue = decimalOdds(opponentValue);
+  if (!decimalValue) return "";
+  const decimal = Number(decimalValue);
+  const opponentDecimal = opponentDecimalValue ? Number(opponentDecimalValue) : null;
+  if (opponentDecimal !== null && decimal !== opponentDecimal) return decimal < opponentDecimal ? "🟢 " : "🔴 ";
+  const american = Number(value);
+  if (!Number.isFinite(american)) return "";
+  return american < 0 ? "🟢 " : "🔴 ";
+}
+
+function markedOdds(value: string | null | undefined, opponentValue: string | null | undefined): string {
+  return `${oddsMarker(value, opponentValue)}${displayOdds(value)}`;
+}
+
+function fighterDetail(fighter: Fighter, opponent: Fighter, eventDate: Date): string {
   const record = fighter.record ?? "record unavailable";
   const age = ageOnDate(fighter.birthDate, eventDate);
-  return `    ${shortFighterName(fighter)}: ${record} | ${age === null ? "age unavailable" : `${age}yo`} | Odds ${displayOdds(fighter.odds)}`;
+  return `    ${shortFighterName(fighter)}: ${record} | ${age === null ? "age unavailable" : `${age}yo`} | Odds ${markedOdds(fighter.odds, opponent.odds)}`;
 }
 
 function localDateKey(date: Date, timeZone: string): string {
@@ -128,28 +146,25 @@ function estimatedFightTime(event: UfcEvent, section: CardSection, sourceIndex: 
 }
 
 function fightDescription(
-  event: UfcEvent,
+  _event: UfcEvent,
   section: CardSection,
   fight: Fight,
   sourceIndex: number,
-  displayTimeZone: string,
-  displayTimeZoneLabel: string,
+  _displayTimeZone: string,
+  _displayTimeZoneLabel: string,
   boutNumberOverride?: number,
 ): string {
   const boutNumber = boutNumberOverride ?? section.fights.length - sourceIndex;
-  const estimate = estimatedFightTime(event, section, sourceIndex);
-  const includeWeekday = localDateKey(estimate, displayTimeZone) !== localDateKey(section.start!, displayTimeZone);
-  const estimatedLabel = `${localTime(estimate, displayTimeZone, includeWeekday)} ${displayTimeZoneLabel}`;
-  const summary = `🥊 ${boutNumber}. ${fighterLabel(fight.red, true)} vs. ${fighterLabel(fight.blue, true)} - ${describeWeightClass(fight.weightClass)} · Est. ${estimatedLabel}`;
+  const summary = `🥊 ${boutNumber}. ${fighterLabel(fight.red, true)} vs. ${fighterLabel(fight.blue, true)} - ${describeWeightClass(fight.weightClass)}`;
   const history = fight.oddsHistory ?? [];
   const historyLines = history.length
     ? ["    Odds history:", ...history.slice(-3).map((snapshot) => {
         const red = snapshot.odds?.[normalizedName(fight.red.name)] ?? "unavailable";
         const blue = snapshot.odds?.[normalizedName(fight.blue.name)] ?? "unavailable";
-        return `      ${formatShortCheckDate(snapshot.checkedAt)}: ${shortFighterName(fight.red)} ${displayOdds(red)} | ${shortFighterName(fight.blue)} ${displayOdds(blue)}`;
+        return `      ${formatShortCheckDate(snapshot.checkedAt)}: ${shortFighterName(fight.red)} ${markedOdds(red, blue)} | ${shortFighterName(fight.blue)} ${markedOdds(blue, red)}`;
       }), ...(history.length > 3 ? ["      Earlier changes: see full odds log"] : [])]
     : ["    Odds history: not checked yet"];
-  return [summary, fighterDetail(fight.red, section.start!), fighterDetail(fight.blue, section.start!), ...historyLines].join("\n");
+  return [summary, fighterDetail(fight.red, fight.blue, section.start!), fighterDetail(fight.blue, fight.red, section.start!), ...historyLines].join("\n");
 }
 
 function cancelledBoutDescription(bout: CancelledBout): string {
@@ -161,7 +176,9 @@ function cancelledBoutDescription(bout: CancelledBout): string {
 function cancelledBoutBlock(event: UfcEvent): string {
   if (!event.cancelledBouts?.length) return "";
   return [
-    "Cancelled or withdrawn bouts:",
+    SECTION_BORDER,
+    "CANCELLED OR WITHDRAWN BOUTS",
+    SECTION_BORDER,
     ...event.cancelledBouts.map(cancelledBoutDescription),
   ].join("\n");
 }
@@ -191,7 +208,6 @@ function eventOverview(event: UfcEvent, section: CardSection, displayTimeZone: s
     `UFC · ${section.label} · ${cardStatus}`,
     `📍 ${event.location || "Venue to be announced"}`,
     `🕒 ${localTime(section.start!, displayTimeZone)}–${endLabel} ${displayTimeZoneLabel}`,
-    "Bout times are estimates and may shift as the card progresses.",
   ];
   if (section.provisional) overview.push("This provisional entry updates automatically as UFC finalises the card.");
   return overview;
@@ -199,18 +215,19 @@ function eventOverview(event: UfcEvent, section: CardSection, displayTimeZone: s
 
 function htmlDescription(event: UfcEvent, section: CardSection, generatedAt: Date, publicBaseUrl: string, displayTimeZone: string, displayTimeZoneLabel: string): string {
   const overview = `<p>${eventOverview(event, section, displayTimeZone, displayTimeZoneLabel).map(htmlEscape).join("<br>")}</p>`;
+  const boutsHeading = `<p>${SECTION_BORDER}<br><strong>BOUTS</strong><br>${SECTION_BORDER}</p>`;
   const fights = section.fights.map((fight, index) => {
     const [matchup = "", ...details] = fightDescription(event, section, fight, index, displayTimeZone, displayTimeZoneLabel).split("\n");
     return `<p><strong>${htmlEscape(matchup)}</strong><br>${details.map((line) => htmlEscape(line.trimStart())).join("<br>")}</p>`;
   }).join("");
   const cancellations = event.cancelledBouts?.length
-    ? `<p><strong>Cancelled or withdrawn bouts</strong><br>${event.cancelledBouts.map((bout) => htmlEscape(cancelledBoutDescription(bout))).join("<br>")}</p>`
+    ? `<p>${SECTION_BORDER}<br><strong>CANCELLED OR WITHDRAWN BOUTS</strong><br>${SECTION_BORDER}<br>${event.cancelledBouts.map((bout) => htmlEscape(cancelledBoutDescription(bout))).join("<br>")}</p>`
     : "";
-  const source = `<p>Source: <a href="${htmlEscape(event.url)}">UFC.com</a>`;
+  const source = `<p>${SECTION_BORDER}<br>Source: <a href="${htmlEscape(event.url)}">UFC.com</a>`;
   const oddsLog = publicBaseUrl
     ? `<br>Full odds log: <a href="${htmlEscape(`${publicBaseUrl.replace(/\/$/, "")}/odds-history.html`)}">view history</a>`
     : "";
-  return `<html><body>${overview}${fights}${cancellations}${source}${oddsLog}<br>Calendar updated: ${htmlEscape(generatedAt.toISOString())}<br>${htmlEscape(scheduleStatusLine(event, generatedAt, displayTimeZone))}</p></body></html>`;
+  return `<html><body>${overview}${boutsHeading}${fights || "<p>No bouts announced yet.</p>"}${cancellations}${source}${oddsLog}<br>Calendar updated: ${htmlEscape(generatedAt.toISOString())}<br>${htmlEscape(scheduleStatusLine(event, generatedAt, displayTimeZone))}</p></body></html>`;
 }
 
 export function renderCalendar(events: UfcEvent[], {
@@ -228,8 +245,8 @@ export function renderCalendar(events: UfcEvent[], {
     "METHOD:PUBLISH",
     `X-WR-CALNAME:${escapeIcs(calendarName)}`,
     "X-WR-CALDESC:Automatically updated UFC cards with fighter details and weekly odds history.",
-    "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
-    "X-PUBLISHED-TTL:PT6H",
+    "REFRESH-INTERVAL;VALUE=DURATION:P3D",
+    "X-PUBLISHED-TTL:P3D",
   ];
 
   for (const event of events) {
@@ -237,13 +254,17 @@ export function renderCalendar(events: UfcEvent[], {
       if (!section.start) continue;
       const description = [
         eventOverview(event, section, displayTimeZone, displayTimeZoneLabel).join("\n"),
+        `${SECTION_BORDER}\nBOUTS\n${SECTION_BORDER}`,
+        section.fights.length ? "" : "No bouts announced yet.",
         ...section.fights.map((fight, index) => fightDescription(event, section, fight, index, displayTimeZone, displayTimeZoneLabel)),
         cancelledBoutBlock(event),
-        "",
-        `Source: ${event.url}`,
-        publicBaseUrl ? `Full odds log: ${publicBaseUrl.replace(/\/$/, "")}/odds-history.html` : "",
-        `Calendar updated: ${generatedAt.toISOString()}`,
-        scheduleStatusLine(event, generatedAt, displayTimeZone),
+        [
+          SECTION_BORDER,
+          `Source: ${event.url}`,
+          publicBaseUrl ? `Full odds log: ${publicBaseUrl.replace(/\/$/, "")}/odds-history.html` : "",
+          `Calendar updated: ${generatedAt.toISOString()}`,
+          scheduleStatusLine(event, generatedAt, displayTimeZone),
+        ].filter(Boolean).join("\n"),
       ].filter(Boolean).join("\n\n");
       lines.push(
         "BEGIN:VEVENT",
@@ -258,7 +279,6 @@ export function renderCalendar(events: UfcEvent[], {
         `URL:${escapeIcs(event.url)}`,
         `CATEGORIES:UFC,${escapeIcs(section.label)}`,
         `STATUS:${calendarEventStatus(event, Boolean(section.provisional))}`,
-        "TRANSP:TRANSPARENT",
         "END:VEVENT",
       );
     }
@@ -290,8 +310,8 @@ export function renderCombinedCalendar(events: UfcEvent[], {
     "METHOD:PUBLISH",
     `X-WR-CALNAME:${escapeIcs(calendarName)}`,
     "X-WR-CALDESC:One complete calendar entry per UFC event with all announced bouts.",
-    "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
-    "X-PUBLISHED-TTL:PT6H",
+    "REFRESH-INTERVAL;VALUE=DURATION:P3D",
+    "X-PUBLISHED-TTL:P3D",
   ];
 
   for (const event of events) {
@@ -317,16 +337,21 @@ export function renderCombinedCalendar(events: UfcEvent[], {
       }
     }
     const description = [
-      `UFC · Complete Event · ${totalFights ? `${totalFights} announced bouts` : "fight card TBD"}`,
-      `📍 ${event.location || "Venue to be announced"}`,
-      `🕒 ${localTime(bounds.start, displayTimeZone)}–${localTime(bounds.end, displayTimeZone, crossesDate)} ${displayTimeZoneLabel}`,
-      "Bout times are estimates and may shift as the card progresses.",
+      [
+        `UFC · Complete Event · ${totalFights ? `${totalFights} announced bouts` : "fight card TBD"}`,
+        `📍 ${event.location || "Venue to be announced"}`,
+        `🕒 ${localTime(bounds.start, displayTimeZone)}–${localTime(bounds.end, displayTimeZone, crossesDate)} ${displayTimeZoneLabel}`,
+      ].join("\n"),
+      `${SECTION_BORDER}\nBOUTS\n${SECTION_BORDER}`,
       ...sectionBlocks,
       cancelledBoutBlock(event),
-      `Source: ${event.url}`,
-      publicBaseUrl ? `Full odds log: ${publicBaseUrl.replace(/\/$/, "")}/odds-history.html` : "",
-      `Calendar updated: ${generatedAt.toISOString()}`,
-      scheduleStatusLine(event, generatedAt, displayTimeZone),
+      [
+        SECTION_BORDER,
+        `Source: ${event.url}`,
+        publicBaseUrl ? `Full odds log: ${publicBaseUrl.replace(/\/$/, "")}/odds-history.html` : "",
+        `Calendar updated: ${generatedAt.toISOString()}`,
+        scheduleStatusLine(event, generatedAt, displayTimeZone),
+      ].filter(Boolean).join("\n"),
     ].filter(Boolean).join("\n\n");
     const html = `<html><body><p>${htmlEscape(description).replace(/\n/g, "<br>")}</p></body></html>`;
     lines.push(
@@ -342,7 +367,6 @@ export function renderCombinedCalendar(events: UfcEvent[], {
       `URL:${escapeIcs(event.url)}`,
       "CATEGORIES:UFC,Complete Event",
       `STATUS:${calendarEventStatus(event, sections.some(({ provisional }) => provisional))}`,
-      "TRANSP:TRANSPARENT",
       "END:VEVENT",
     );
   }
@@ -375,8 +399,8 @@ export function renderEstimatedFightCalendar(events: UfcEvent[], {
     "METHOD:PUBLISH",
     `X-WR-CALNAME:${escapeIcs(calendarName)}`,
     "X-WR-CALDESC:Optional estimated UFC bout times that adapt to the calendar client's time zone.",
-    "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
-    "X-PUBLISHED-TTL:PT6H",
+    "REFRESH-INTERVAL;VALUE=DURATION:P3D",
+    "X-PUBLISHED-TTL:P3D",
   ];
 
   for (const event of events) {
@@ -413,7 +437,6 @@ export function renderEstimatedFightCalendar(events: UfcEvent[], {
           `CATEGORIES:UFC,Estimated Fight,${escapeIcs(section.label)}`,
           `RELATED-TO:${escapeIcs(`${event.slug}-${section.key}@ufc-detailed-calendar`)}`,
           `STATUS:${calendarEventStatus(event, true)}`,
-          "TRANSP:TRANSPARENT",
           "END:VEVENT",
         );
       });

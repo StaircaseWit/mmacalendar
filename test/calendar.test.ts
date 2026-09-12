@@ -49,6 +49,7 @@ test("formats weight and country fields", () => {
   assert.equal(decimalOdds("+325"), "4.25");
   assert.equal(ageOnDate("1996-12-13", new Date("2026-09-12T21:00:00Z")), 29);
   assert.equal(shortFighterName({ name: "Raul Rosas Jr." }), "Rosas");
+  assert.equal(shortFighterName({ name: "Regina Tarin", familyName: "Malpica Rivera" }), "Tarin");
   assert.equal(unicodeBold("Jean Silva"), "𝗝𝗲𝗮𝗻 𝗦𝗶𝗹𝘃𝗮");
 });
 
@@ -96,6 +97,17 @@ test("tracks reschedules and retains events missing from consecutive listings", 
   assert.equal(missingTwice[0].scheduleStatus?.state, "unlisted");
 });
 
+test("keeps completed events permanently when they leave the UFC listing", () => {
+  const store: EventStore = { events: {} };
+  const event = parseEventPage(eventHtml, "https://www.ufc.com/event/noche-test");
+  reconcileEvents(store, [event], new Date("2026-09-12T12:00:00Z"));
+
+  const retained = reconcileEvents(store, [], new Date("2028-09-12T12:00:00Z"));
+  assert.equal(retained.length, 1);
+  assert.equal(retained[0].title, "Noche UFC: Silva vs Delgado");
+  assert.equal(retained[0].scheduleStatus?.state, "scheduled");
+});
+
 test("retains bouts that disappear from an active UFC card", () => {
   const store: EventStore = { events: {} };
   const first = parseEventPage(eventHtml, "https://www.ufc.com/event/noche-test");
@@ -121,7 +133,7 @@ test("renders configured cancelled bouts at the bottom of event descriptions", (
     "noche-test": [{ redName: "Yair Rodriguez", blueName: "Jean Silva", reason: "Rodriguez injury" }],
   });
   const output = renderCalendar([event], { generatedAt: new Date("2026-09-12T12:00:00Z") }).replace(/\r\n[ \t]/g, "");
-  assert.match(output, /Cancelled or withdrawn bouts:/);
+  assert.match(output, /CANCELLED OR WITHDRAWN BOUTS/);
   assert.match(output, /✕ Yair Rodriguez vs\. Jean Silva \| Rodriguez injury/);
 });
 
@@ -150,12 +162,14 @@ test("renders UTC calendar data so calendar clients localise it", () => {
   assert.match(unfolded, /UFC · Prelims · 1 bout/);
   assert.match(unfolded, /🥊 1\. 𝗝𝗲𝗮𝗻 𝗦𝗶𝗹𝘃𝗮/);
   assert.match(unfolded, /145lbs\/66kg Featherweight/);
-  assert.match(unfolded, /Est\. 19:00 Ireland/);
-  assert.match(unfolded, /Silva: 17-3-0 \| 29yo \| Odds -425 \(1.24\)/);
-  assert.match(unfolded, /Delgado: 10-1-0 \| 27yo \| Odds \+325 \(4.25\)/);
-  assert.match(unfolded, /12 Sep: Silva -425 \(1.24\) \| Delgado \+325 \(4.25\)/);
+  assert.doesNotMatch(unfolded, /Est\. 19:00 Ireland/);
+  assert.match(unfolded, /Silva: 17-3-0 \| 29yo \| Odds 🟢 -425 \(1.24\)/);
+  assert.match(unfolded, /Delgado: 10-1-0 \| 27yo \| Odds 🔴 \+325 \(4.25\)/);
+  assert.match(unfolded, /12 Sep: Silva 🟢 -425 \(1.24\) \| Delgado 🔴 \+325 \(4.25\)/);
+  assert.match(unfolded, /--------------------------------\\nBOUTS/);
   assert.match(unfolded, /X-ALT-DESC;FMTTYPE=text\/html:<html><body><p>UFC/);
   assert.match(unfolded, /Event status: Scheduled · verified 12 Sep 2026/);
+  assert.doesNotMatch(unfolded, /TRANSP:TRANSPARENT/);
 
   const combinedOutput = renderCombinedCalendar([event], { generatedAt: new Date("2026-09-12T12:00:00Z") }).replace(/\r\n[ \t]/g, "");
   assert.equal((combinedOutput.match(/BEGIN:VEVENT/g) ?? []).length, 1);

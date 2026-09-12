@@ -13,7 +13,7 @@ on:
       - "docs/index.html"
       - ".github/workflows/update-calendar.yml"
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "17 6 * * 1,5"
 
 permissions:
   contents: write
