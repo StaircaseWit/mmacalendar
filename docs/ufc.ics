@@ -1,0 +1,526 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Detailed UFC Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Detailed UFC Calendar
+X-WR-CALDESC:Automatically updated UFC cards with fighter details and weekl
+ y odds history.
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ufc-fight-night-september-12-2026-prelims@ufc-detailed-calendar
+DTSTAMP:20260912T100137Z
+DTSTART:20260912T180000Z
+DTEND:20260912T210000Z
+SUMMARY:Prelims – Noche UFC: Silva vs Delgado
+DESCRIPTION:🥊 Tim Elliott 🇺🇸 vs. Edgar Chairez 🇲🇽 - Catchwei
+ ght\n    Elliott: 22-14-1 | Odds +175 (2.75) | Age 39\n    Chairez: 14-6-0
+  | Odds -210 (1.48) | Age 30\n    Odds history:\n      12 Sep 2026: Tim El
+ liott +175 (2.75) | Edgar Chairez -210 (1.48)\n\n🥊 Ignacio Bahamondes 
+ 🇨🇱 vs. Muslim Salikhov 🇷🇺 - 170lbs/77kg Welterweight\n    Baha
+ mondes: 17-7-0 | Odds -550 (1.18) | Age 29\n    Salikhov: 22-6-0 | Odds +4
+ 00 (5.00) | Age 42\n    Odds history:\n      12 Sep 2026: Ignacio Bahamond
+ es -550 (1.18) | Muslim Salikhov +400 (5.00)\n\n🥊 Yousri Belgaroui 🇳
+ 🇱 vs. Djorden Santos 🇧🇷 - 185lbs/84kg Middleweight\n    Belgaroui
+ : 10-3-0 | Odds -850 (1.12) | Age 34\n    Santos: 11-3-0 | Odds +575 (6.75
+ ) | Age 29\n    Odds history:\n      12 Sep 2026: Yousri Belgaroui -850 (1
+ .12) | Djorden Santos +575 (6.75)\n\n🥊 Drakkar Klose 🇺🇸 vs. Tommy
+  Gantt 🇺🇸 - 155lbs/70kg Lightweight\n    Klose: 16-3-1 | Odds +375 (
+ 4.75) | Age 38\n    Gantt: 12-0-0 | Odds -500 (1.20) | Age 33\n    Odds hi
+ story:\n      12 Sep 2026: Drakkar Klose +375 (4.75) | Tommy Gantt -500 (1
+ .20)\n\n🥊 Rafa Garcia 🇲🇽 vs. Rongzhu 🇨🇳 - 155lbs/70kg Light
+ weight\n    Garcia: 19-4-0 | Odds +145 (2.45) | Age 32\n    Zhu: 28-6-0 | 
+ Odds -175 (1.57) | Age 26\n    Odds history:\n      12 Sep 2026: Rafa Garc
+ ia +145 (2.45) | Rongzhu -175 (1.57)\n\n🥊 Sean King III 🇺🇸 vs. Je
+ ssie Rosas 🇲🇽 - 145lbs/66kg Featherweight\n    King III: 6-0-0 | Odd
+ s -190 (1.53) | Age 22\n    Rosas: 8-1-0 | Odds +160 (2.60) | Age 23\n    
+ Odds history:\n      12 Sep 2026: Sean King III -190 (1.53) | Jessie Rosas
+  +160 (2.60)\n\n🥊 JJ Aldrich (#15) 🇺🇸 vs. Regina Tarin 🇲🇽 -
+  125lbs/57kg Women's Flyweight\n    Aldrich: 15-7-0 | Odds unavailable | A
+ ge 33\n    Malpica Rivera: 8-0-0 | Odds +165 (2.65) | Age 21\n    Odds his
+ tory:\n      12 Sep 2026: JJ Aldrich unavailable | Regina Tarin +165 (2.65
+ )\n\nSource: https://www.ufc.com/event/ufc-fight-night-september-12-2026\n
+ \nCalendar updated: 2026-09-12T10:01:37.755Z
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><strong>🥊 Tim Elliott 🇺
+ 🇸 vs. Edgar Chairez 🇲🇽 - Catchweight</strong><br>Elliott: 22-14-1
+  | Odds +175 (2.75) | Age 39<br>Chairez: 14-6-0 | Odds -210 (1.48) | Age 3
+ 0<br>Odds history:<br>12 Sep 2026: Tim Elliott +175 (2.75) | Edgar Chairez
+  -210 (1.48)</p><p><strong>🥊 Ignacio Bahamondes 🇨🇱 vs. Muslim Sal
+ ikhov 🇷🇺 - 170lbs/77kg Welterweight</strong><br>Bahamondes: 17-7-0 |
+  Odds -550 (1.18) | Age 29<br>Salikhov: 22-6-0 | Odds +400 (5.00) | Age 42
+ <br>Odds history:<br>12 Sep 2026: Ignacio Bahamondes -550 (1.18) | Muslim 
+ Salikhov +400 (5.00)</p><p><strong>🥊 Yousri Belgaroui 🇳🇱 vs. Djor
+ den Santos 🇧🇷 - 185lbs/84kg Middleweight</strong><br>Belgaroui: 10-3
+ -0 | Odds -850 (1.12) | Age 34<br>Santos: 11-3-0 | Odds +575 (6.75) | Age 
+ 29<br>Odds history:<br>12 Sep 2026: Yousri Belgaroui -850 (1.12) | Djorden
+  Santos +575 (6.75)</p><p><strong>🥊 Drakkar Klose 🇺🇸 vs. Tommy Ga
+ ntt 🇺🇸 - 155lbs/70kg Lightweight</strong><br>Klose: 16-3-1 | Odds +3
+ 75 (4.75) | Age 38<br>Gantt: 12-0-0 | Odds -500 (1.20) | Age 33<br>Odds hi
+ story:<br>12 Sep 2026: Drakkar Klose +375 (4.75) | Tommy Gantt -500 (1.20)
+ </p><p><strong>🥊 Rafa Garcia 🇲🇽 vs. Rongzhu 🇨🇳 - 155lbs/70k
+ g Lightweight</strong><br>Garcia: 19-4-0 | Odds +145 (2.45) | Age 32<br>Zh
+ u: 28-6-0 | Odds -175 (1.57) | Age 26<br>Odds history:<br>12 Sep 2026: Raf
+ a Garcia +145 (2.45) | Rongzhu -175 (1.57)</p><p><strong>🥊 Sean King II
+ I 🇺🇸 vs. Jessie Rosas 🇲🇽 - 145lbs/66kg Featherweight</strong><
+ br>King III: 6-0-0 | Odds -190 (1.53) | Age 22<br>Rosas: 8-1-0 | Odds +160
+  (2.60) | Age 23<br>Odds history:<br>12 Sep 2026: Sean King III -190 (1.53
+ ) | Jessie Rosas +160 (2.60)</p><p><strong>🥊 JJ Aldrich (#15) 🇺🇸 
+ vs. Regina Tarin 🇲🇽 - 125lbs/57kg Women&#39\;s Flyweight</strong><br
+ >Aldrich: 15-7-0 | Odds unavailable | Age 33<br>Malpica Rivera: 8-0-0 | Od
+ ds +165 (2.65) | Age 21<br>Odds history:<br>12 Sep 2026: JJ Aldrich unavai
+ lable | Regina Tarin +165 (2.65)</p><p>Source: <a href="https://www.ufc.co
+ m/event/ufc-fight-night-september-12-2026">UFC.com</a><br>Calendar updated
+ : 2026-09-12T10:01:37.755Z</p></body></html>
+LOCATION:Desert Diamond Arena\, Glendale\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-september-12-2026
+CATEGORIES:UFC,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-september-12-2026-main-card@ufc-detailed-calendar
+DTSTAMP:20260912T100137Z
+DTSTART:20260912T210000Z
+DTEND:20260913T000000Z
+SUMMARY:Main Card – Noche UFC: Silva vs Delgado
+DESCRIPTION:🥊 Jean Silva (#6) 🇧🇷 vs. Jose Miguel Delgado 🇲🇽 
+ - 145lbs/66kg Featherweight\n    Silva: 17-3-0 | Odds -425 (1.24) | Age 29
+ \n    Delgado: 12-2-0 | Odds +325 (4.25) | Age 28\n    Odds history:\n    
+   12 Sep 2026: Jean Silva -425 (1.24) | Jose Miguel Delgado +325 (4.25)\n\
+ n🥊 Brandon Moreno (#8) 🇲🇽 vs. Joseph Morales 🇺🇸 - 125lbs/57
+ kg Flyweight\n    Moreno: 23-10-2 | Odds +100 (2.00) | Age 32\n    Morales
+ : 15-2-0 | Odds -120 (1.83) | Age 32\n    Odds history:\n      12 Sep 2026
+ : Brandon Moreno +100 (2.00) | Joseph Morales -120 (1.83)\n\n🥊 Tommy Mc
+ Millen 🇺🇸 vs. Marwan Rahiki 🇲🇦 - 145lbs/66kg Featherweight\n  
+   McMillen: 11-0-0 | Odds -165 (1.61) | Age 28\n    Rahiki: 9-0-0 | Odds +
+ 140 (2.40) | Age 24\n    Odds history:\n      12 Sep 2026: Tommy McMillen 
+ -165 (1.61) | Marwan Rahiki +140 (2.40)\n\n🥊 Manon Fiorot (#2) 🇫🇷
+  vs. Alexa Grasso (#3) 🇲🇽 - 125lbs/57kg Women's Flyweight\n    Fioro
+ t: 13-2-0 | Odds -240 (1.42) | Age 36\n    Grasso: 17-5-1 | Odds +195 (2.9
+ 5) | Age 33\n    Odds history:\n      12 Sep 2026: Manon Fiorot -240 (1.42
+ ) | Alexa Grasso +195 (2.95)\n\n🥊 Waldo Cortes Acosta (#5) 🇩🇴 vs.
+  Curtis Blaydes (#6) 🇺🇸 - 265lbs/120kg Heavyweight\n    Cortes Acost
+ a: 17-3-0 | Odds -205 (1.49) | Age 34\n    Blaydes: 19-6-0 | Odds +170 (2.
+ 70) | Age 35\n    Odds history:\n      12 Sep 2026: Waldo Cortes Acosta -2
+ 05 (1.49) | Curtis Blaydes +170 (2.70)\n\n🥊 David Martinez (#8) 🇲
+ 🇽 vs. Dan Ige 🇺🇸 - 135lbs/61kg Bantamweight\n    Martinez: 14-1-0
+  | Odds -380 (1.26) | Age 28\n    Ige: 19-10-0 | Odds +300 (4.00) | Age 35
+ \n    Odds history:\n      12 Sep 2026: David Martinez -380 (1.26) | Dan I
+ ge +300 (4.00)\n\nSource: https://www.ufc.com/event/ufc-fight-night-septem
+ ber-12-2026\n\nCalendar updated: 2026-09-12T10:01:37.755Z
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><strong>🥊 Jean Silva (#6) 
+ 🇧🇷 vs. Jose Miguel Delgado 🇲🇽 - 145lbs/66kg Featherweight</str
+ ong><br>Silva: 17-3-0 | Odds -425 (1.24) | Age 29<br>Delgado: 12-2-0 | Odd
+ s +325 (4.25) | Age 28<br>Odds history:<br>12 Sep 2026: Jean Silva -425 (1
+ .24) | Jose Miguel Delgado +325 (4.25)</p><p><strong>🥊 Brandon Moreno (
+ #8) 🇲🇽 vs. Joseph Morales 🇺🇸 - 125lbs/57kg Flyweight</strong><
+ br>Moreno: 23-10-2 | Odds +100 (2.00) | Age 32<br>Morales: 15-2-0 | Odds -
+ 120 (1.83) | Age 32<br>Odds history:<br>12 Sep 2026: Brandon Moreno +100 (
+ 2.00) | Joseph Morales -120 (1.83)</p><p><strong>🥊 Tommy McMillen 🇺
+ 🇸 vs. Marwan Rahiki 🇲🇦 - 145lbs/66kg Featherweight</strong><br>Mc
+ Millen: 11-0-0 | Odds -165 (1.61) | Age 28<br>Rahiki: 9-0-0 | Odds +140 (2
+ .40) | Age 24<br>Odds history:<br>12 Sep 2026: Tommy McMillen -165 (1.61) 
+ | Marwan Rahiki +140 (2.40)</p><p><strong>🥊 Manon Fiorot (#2) 🇫🇷 
+ vs. Alexa Grasso (#3) 🇲🇽 - 125lbs/57kg Women&#39\;s Flyweight</stron
+ g><br>Fiorot: 13-2-0 | Odds -240 (1.42) | Age 36<br>Grasso: 17-5-1 | Odds 
+ +195 (2.95) | Age 33<br>Odds history:<br>12 Sep 2026: Manon Fiorot -240 (1
+ .42) | Alexa Grasso +195 (2.95)</p><p><strong>🥊 Waldo Cortes Acosta (#5
+ ) 🇩🇴 vs. Curtis Blaydes (#6) 🇺🇸 - 265lbs/120kg Heavyweight</st
+ rong><br>Cortes Acosta: 17-3-0 | Odds -205 (1.49) | Age 34<br>Blaydes: 19-
+ 6-0 | Odds +170 (2.70) | Age 35<br>Odds history:<br>12 Sep 2026: Waldo Cor
+ tes Acosta -205 (1.49) | Curtis Blaydes +170 (2.70)</p><p><strong>🥊 Dav
+ id Martinez (#8) 🇲🇽 vs. Dan Ige 🇺🇸 - 135lbs/61kg Bantamweight<
+ /strong><br>Martinez: 14-1-0 | Odds -380 (1.26) | Age 28<br>Ige: 19-10-0 |
+  Odds +300 (4.00) | Age 35<br>Odds history:<br>12 Sep 2026: David Martinez
+  -380 (1.26) | Dan Ige +300 (4.00)</p><p>Source: <a href="https://www.ufc.
+ com/event/ufc-fight-night-september-12-2026">UFC.com</a><br>Calendar updat
+ ed: 2026-09-12T10:01:37.755Z</p></body></html>
+LOCATION:Desert Diamond Arena\, Glendale\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-september-12-2026
+CATEGORIES:UFC,Main Card
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cryptocom-ufc-331-early-prelims@ufc-detailed-calendar
+DTSTAMP:20260912T100137Z
+DTSTART:20260919T210000Z
+DTEND:20260919T230000Z
+SUMMARY:Early Prelims – Crypto.com UFC 331: Van vs Pantoja 2
+DESCRIPTION:🥊 Ryan Gandra 🇧🇷 vs. Ozzy Diaz 🇺🇸 - 185lbs/84kg 
+ Middleweight\n    Gandra: 10-1-0 | Odds unavailable | Age 31\n    Diaz: 10
+ -3-0 | Odds unavailable | Age 35\n    Odds history: not checked yet\n\n
+ 🥊 Edmen Shahbazyan 🇺🇸 vs. Brunno Ferreira 🇧🇷 - 185lbs/84kg 
+ Middleweight\n    Shahbazyan: 16-6-0 | Odds unavailable | Age 28\n    Ferr
+ eira: 15-4-0 | Odds unavailable | Age 33\n    Odds history: not checked ye
+ t\n\n🥊 Casey O'Neill (#12) 🇦🇺 vs. Eduarda Moura (#13) 🇧🇷 - 
+ 125lbs/57kg Women's Flyweight\n    O'Neill: 11-2-0 | Odds -180 (1.56) | Ag
+ e 28\n    Moura: 12-2-0 | Odds +150 (2.50) | Age 32\n    Odds history:\n  
+     12 Sep 2026: Casey O'Neill -180 (1.56) | Eduarda Moura +150 (2.50)\n\n
+ 🥊 Giga Chikadze 🇬🇪 vs. Joanderson Brito 🇧🇷 - 145lbs/66kg Fe
+ atherweight\n    Chikadze: 15-6-0 | Odds +270 (3.70) | Age 38\n    Brito: 
+ 19-5-1 | Odds -340 (1.29) | Age 31\n    Odds history:\n      12 Sep 2026: 
+ Giga Chikadze +270 (3.70) | Joanderson Brito -340 (1.29)\n\nSource: https:
+ //www.ufc.com/event/cryptocom-ufc-331\n\nCalendar updated: 2026-09-12T10:0
+ 1:37.755Z
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><strong>🥊 Ryan Gandra 🇧
+ 🇷 vs. Ozzy Diaz 🇺🇸 - 185lbs/84kg Middleweight</strong><br>Gandra:
+  10-1-0 | Odds unavailable | Age 31<br>Diaz: 10-3-0 | Odds unavailable | A
+ ge 35<br>Odds history: not checked yet</p><p><strong>🥊 Edmen Shahbazyan
+  🇺🇸 vs. Brunno Ferreira 🇧🇷 - 185lbs/84kg Middleweight</strong>
+ <br>Shahbazyan: 16-6-0 | Odds unavailable | Age 28<br>Ferreira: 15-4-0 | O
+ dds unavailable | Age 33<br>Odds history: not checked yet</p><p><strong>
+ 🥊 Casey O&#39\;Neill (#12) 🇦🇺 vs. Eduarda Moura (#13) 🇧🇷 - 
+ 125lbs/57kg Women&#39\;s Flyweight</strong><br>O&#39\;Neill: 11-2-0 | Odds
+  -180 (1.56) | Age 28<br>Moura: 12-2-0 | Odds +150 (2.50) | Age 32<br>Odds
+  history:<br>12 Sep 2026: Casey O&#39\;Neill -180 (1.56) | Eduarda Moura +
+ 150 (2.50)</p><p><strong>🥊 Giga Chikadze 🇬🇪 vs. Joanderson Brito 
+ 🇧🇷 - 145lbs/66kg Featherweight</strong><br>Chikadze: 15-6-0 | Odds +
+ 270 (3.70) | Age 38<br>Brito: 19-5-1 | Odds -340 (1.29) | Age 31<br>Odds h
+ istory:<br>12 Sep 2026: Giga Chikadze +270 (3.70) | Joanderson Brito -340 
+ (1.29)</p><p>Source: <a href="https://www.ufc.com/event/cryptocom-ufc-331"
+ >UFC.com</a><br>Calendar updated: 2026-09-12T10:01:37.755Z</p></body></htm
+ l>
+LOCATION:Crypto.com Arena\, Los Angeles\, United States
+URL:https://www.ufc.com/event/cryptocom-ufc-331
+CATEGORIES:UFC,Early Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cryptocom-ufc-331-prelims@ufc-detailed-calendar
+DTSTAMP:20260912T100137Z
+DTSTART:20260919T230000Z
+DTEND:20260920T010000Z
+SUMMARY:Prelims – Crypto.com UFC 331: Van vs Pantoja 2
+DESCRIPTION:🥊 Gable Steveson 🇺🇸 vs. Sean Sharaf 🇺🇸 - 265lbs/
+ 120kg Heavyweight\n    Steveson: 4-0-0 | Odds -1100 (1.09) | Age 26\n    S
+ haraf: 4-2-0 | Odds +700 (8.00) | Age 33\n    Odds history:\n      12 Sep 
+ 2026: Gable Steveson -1100 (1.09) | Sean Sharaf +700 (8.00)\n\n🥊 Marlon
+  Vera (#10) 🇪🇨 vs. Charles Jourdain 🇨🇦 - 135lbs/61kg Bantamwei
+ ght\n    Vera: 23-12-1 | Odds +200 (3.00) | Age 33\n    Jourdain: 18-8-1 |
+  Odds -245 (1.41) | Age 30\n    Odds history:\n      12 Sep 2026: Marlon V
+ era +200 (3.00) | Charles Jourdain -245 (1.41)\n\n🥊 Tai Tuivasa 🇦
+ 🇺 vs. Robelis Despaigne 🇨🇺 - 265lbs/120kg Heavyweight\n    Tuivas
+ a: 15-10-0 | Odds +500 (6.00) | Age 33\n    Despaigne: 5-2-0 | Odds -700 (
+ 1.14) | Age 38\n    Odds history:\n      12 Sep 2026: Tai Tuivasa +500 (6.
+ 00) | Robelis Despaigne -700 (1.14)\n\n🥊 Michael Aswell Jr. 🇺🇸 vs
+ . JooSang Yoo 🇰🇷 - 145lbs/66kg Featherweight\n    Aswell Jr.: 11-5-0
+  | Odds unavailable | Age 25\n    Yoo: 9-1-0 | Odds unavailable | Age 32\n
+     Odds history: not checked yet\n\nSource: https://www.ufc.com/event/cry
+ ptocom-ufc-331\n\nCalendar updated: 2026-09-12T10:01:37.755Z
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><strong>🥊 Gable Steveson 
+ 🇺🇸 vs. Sean Sharaf 🇺🇸 - 265lbs/120kg Heavyweight</strong><br>S
+ teveson: 4-0-0 | Odds -1100 (1.09) | Age 26<br>Sharaf: 4-2-0 | Odds +700 (
+ 8.00) | Age 33<br>Odds history:<br>12 Sep 2026: Gable Steveson -1100 (1.09
+ ) | Sean Sharaf +700 (8.00)</p><p><strong>🥊 Marlon Vera (#10) 🇪🇨 
+ vs. Charles Jourdain 🇨🇦 - 135lbs/61kg Bantamweight</strong><br>Vera:
+  23-12-1 | Odds +200 (3.00) | Age 33<br>Jourdain: 18-8-1 | Odds -245 (1.41
+ ) | Age 30<br>Odds history:<br>12 Sep 2026: Marlon Vera +200 (3.00) | Char
+ les Jourdain -245 (1.41)</p><p><strong>🥊 Tai Tuivasa 🇦🇺 vs. Robel
+ is Despaigne 🇨🇺 - 265lbs/120kg Heavyweight</strong><br>Tuivasa: 15-1
+ 0-0 | Odds +500 (6.00) | Age 33<br>Despaigne: 5-2-0 | Odds -700 (1.14) | A
+ ge 38<br>Odds history:<br>12 Sep 2026: Tai Tuivasa +500 (6.00) | Robelis D
+ espaigne -700 (1.14)</p><p><strong>🥊 Michael Aswell Jr. 🇺🇸 vs. Jo
+ oSang Yoo 🇰🇷 - 145lbs/66kg Featherweight</strong><br>Aswell Jr.: 11-
+ 5-0 | Odds unavailable | Age 25<br>Yoo: 9-1-0 | Odds unavailable | Age 32<
+ br>Odds history: not checked yet</p><p>Source: <a href="https://www.ufc.co
+ m/event/cryptocom-ufc-331">UFC.com</a><br>Calendar updated: 2026-09-12T10:
+ 01:37.755Z</p></body></html>
+LOCATION:Crypto.com Arena\, Los Angeles\, United States
+URL:https://www.ufc.com/event/cryptocom-ufc-331
+CATEGORIES:UFC,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cryptocom-ufc-331-main-card@ufc-detailed-calendar
+DTSTAMP:20260912T100137Z
+DTSTART:20260920T010000Z
+DTEND:20260920T040000Z
+SUMMARY:Main Card – Crypto.com UFC 331: Van vs Pantoja 2
+DESCRIPTION:🥊 Joshua Van (#C) 🇲🇲 vs. Alexandre Pantoja (#1) 🇧
+ 🇷 - 125lbs/57kg Flyweight · Title Bout\n    Van: 17-2-0 | Odds -125 (1
+ .80) | Age 24\n    Pantoja: 30-6-0 | Odds +100 (2.00) | Age 36\n    Odds h
+ istory:\n      12 Sep 2026: Joshua Van -125 (1.80) | Alexandre Pantoja +10
+ 0 (2.00)\n\n🥊 Arman Tsarukyan (#2) 🇦🇲 vs. Mauricio Ruffy (#7) 
+ 🇧🇷 - 155lbs/70kg Lightweight\n    Tsarukyan: 23-3-0 | Odds -380 (1.2
+ 6) | Age 29\n    Ruffy: 14-2-0 | Odds +300 (4.00) | Age 30\n    Odds histo
+ ry:\n      12 Sep 2026: Arman Tsarukyan -380 (1.26) | Mauricio Ruffy +300 
+ (4.00)\n\n🥊 Patricio Pitbull (#15) 🇧🇷 vs. Dooho Choi 🇰🇷 - 1
+ 45lbs/66kg Featherweight\n    Freire: 37-9-0 | Odds +200 (3.00) | Age 39\n
+     Choi: 17-4-1 | Odds -250 (1.40) | Age 35\n    Odds history:\n      12 
+ Sep 2026: Patricio Pitbull +200 (3.00) | Dooho Choi -250 (1.40)\n\n🥊 Re
+ nato Moicano (#11) 🇧🇷 vs. Brian Ortega 🇺🇸 - 155lbs/70kg Lightw
+ eight\n    Moicano: 21-7-1 | Odds -200 (1.50) | Age 37\n    Ortega: 16-5-0
+  | Odds +165 (2.65) | Age 35\n    Odds history:\n      12 Sep 2026: Renato
+  Moicano -200 (1.50) | Brian Ortega +165 (2.65)\n\n🥊 Alonzo Menifield (
+ #14) 🇺🇸 vs. Iwo Baraniewski 🇵🇱 - 205lbs/93kg Light Heavyweight
+ \n    Menifield: 18-6-1 | Odds +190 (2.90) | Age 38\n    Baraniewski: 9-0-
+ 0 | Odds -230 (1.43) | Age 27\n    Odds history:\n      12 Sep 2026: Alonz
+ o Menifield +190 (2.90) | Iwo Baraniewski -230 (1.43)\n\nSource: https://w
+ ww.ufc.com/event/cryptocom-ufc-331\n\nCalendar updated: 2026-09-12T10:01:3
+ 7.755Z
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><strong>🥊 Joshua Van (#C) 
+ 🇲🇲 vs. Alexandre Pantoja (#1) 🇧🇷 - 125lbs/57kg Flyweight · Ti
+ tle Bout</strong><br>Van: 17-2-0 | Odds -125 (1.80) | Age 24<br>Pantoja: 3
+ 0-6-0 | Odds +100 (2.00) | Age 36<br>Odds history:<br>12 Sep 2026: Joshua 
+ Van -125 (1.80) | Alexandre Pantoja +100 (2.00)</p><p><strong>🥊 Arman T
+ sarukyan (#2) 🇦🇲 vs. Mauricio Ruffy (#7) 🇧🇷 - 155lbs/70kg Ligh
+ tweight</strong><br>Tsarukyan: 23-3-0 | Odds -380 (1.26) | Age 29<br>Ruffy
+ : 14-2-0 | Odds +300 (4.00) | Age 30<br>Odds history:<br>12 Sep 2026: Arma
+ n Tsarukyan -380 (1.26) | Mauricio Ruffy +300 (4.00)</p><p><strong>🥊 Pa
+ tricio Pitbull (#15) 🇧🇷 vs. Dooho Choi 🇰🇷 - 145lbs/66kg Feathe
+ rweight</strong><br>Freire: 37-9-0 | Odds +200 (3.00) | Age 39<br>Choi: 17
+ -4-1 | Odds -250 (1.40) | Age 35<br>Odds history:<br>12 Sep 2026: Patricio
+  Pitbull +200 (3.00) | Dooho Choi -250 (1.40)</p><p><strong>🥊 Renato Mo
+ icano (#11) 🇧🇷 vs. Brian Ortega 🇺🇸 - 155lbs/70kg Lightweight</
+ strong><br>Moicano: 21-7-1 | Odds -200 (1.50) | Age 37<br>Ortega: 16-5-0 |
+  Odds +165 (2.65) | Age 35<br>Odds history:<br>12 Sep 2026: Renato Moicano
+  -200 (1.50) | Brian Ortega +165 (2.65)</p><p><strong>🥊 Alonzo Menifiel
+ d (#14) 🇺🇸 vs. Iwo Baraniewski 🇵🇱 - 205lbs/93kg Light Heavywei
+ ght</strong><br>Menifield: 18-6-1 | Odds +190 (2.90) | Age 38<br>Baraniews
+ ki: 9-0-0 | Odds -230 (1.43) | Age 27<br>Odds history:<br>12 Sep 2026: Alo
+ nzo Menifield +190 (2.90) | Iwo Baraniewski -230 (1.43)</p><p>Source: <a h
+ ref="https://www.ufc.com/event/cryptocom-ufc-331">UFC.com</a><br>Calendar 
+ updated: 2026-09-12T10:01:37.755Z</p></body></html>
+LOCATION:Crypto.com Arena\, Los Angeles\, United States
+URL:https://www.ufc.com/event/cryptocom-ufc-331
+CATEGORIES:UFC,Main Card
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-september-26-2026-prelims@ufc-detailed-calendar
+DTSTAMP:20260912T100137Z
+DTSTART:20260926T210000Z
+DTEND:20260927T000000Z
+SUMMARY:Prelims – UFC Fight Night: Rosas Jr. vs Barcelos
+DESCRIPTION:🥊 Rodolfo Bellato 🇧🇷 vs. Christian Edwards 🇺🇸 - 
+ 205lbs/93kg Light Heavyweight\n    Bellato: 13-3-1 | Odds unavailable | Ag
+ e 30\n    Edwards: 8-5-0 | Odds unavailable | Age unavailable\n    Odds hi
+ story: not checked yet\n\n🥊 Montel Jackson 🇺🇸 vs. Ricky Simon 
+ 🇺🇸 - 135lbs/61kg Bantamweight\n    Jackson: 15-4-0 | Odds unavailabl
+ e | Age 34\n    Simon: 22-7-1 | Odds unavailable | Age 34\n    Odds histor
+ y: not checked yet\n\n🥊 John Castaneda 🇺🇸 vs. Alatengheili 🇨
+ 🇳 - 135lbs/61kg Bantamweight\n    Castaneda: 21-8-1 | Odds unavailable 
+ | Age 34\n    Alateng: 17-10-2 | Odds unavailable | Age 34\n    Odds histo
+ ry: not checked yet\n\n🥊 Norma Dumont (#4) 🇧🇷 vs. Ailin Perez (#5
+ ) 🇦🇷 - 135lbs/61kg Women's Bantamweight\n    Dumont: 13-3-0 | Odds u
+ navailable | Age 35\n    Perez: 13-2-0 | Odds unavailable | Age 31\n    Od
+ ds history: not checked yet\n\n🥊 Vanessa Demopoulos 🇺🇸 vs. Yazmin
+  Jauregui 🇲🇽 - 115lbs/52kg Women's Strawweight\n    Demopoulos: 11-8
+ -0 | Odds unavailable | Age 38\n    Jauregui: 11-2-0 | Odds unavailable | 
+ Age 27\n    Odds history: not checked yet\n\nSource: https://www.ufc.com/e
+ vent/ufc-fight-night-september-26-2026\n\nCalendar updated: 2026-09-12T10:
+ 01:37.755Z
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><strong>🥊 Rodolfo Bellato 
+ 🇧🇷 vs. Christian Edwards 🇺🇸 - 205lbs/93kg Light Heavyweight</s
+ trong><br>Bellato: 13-3-1 | Odds unavailable | Age 30<br>Edwards: 8-5-0 | 
+ Odds unavailable | Age unavailable<br>Odds history: not checked yet</p><p>
+ <strong>🥊 Montel Jackson 🇺🇸 vs. Ricky Simon 🇺🇸 - 135lbs/61k
+ g Bantamweight</strong><br>Jackson: 15-4-0 | Odds unavailable | Age 34<br>
+ Simon: 22-7-1 | Odds unavailable | Age 34<br>Odds history: not checked yet
+ </p><p><strong>🥊 John Castaneda 🇺🇸 vs. Alatengheili 🇨🇳 - 13
+ 5lbs/61kg Bantamweight</strong><br>Castaneda: 21-8-1 | Odds unavailable | 
+ Age 34<br>Alateng: 17-10-2 | Odds unavailable | Age 34<br>Odds history: no
+ t checked yet</p><p><strong>🥊 Norma Dumont (#4) 🇧🇷 vs. Ailin Pere
+ z (#5) 🇦🇷 - 135lbs/61kg Women&#39\;s Bantamweight</strong><br>Dumont
+ : 13-3-0 | Odds unavailable | Age 35<br>Perez: 13-2-0 | Odds unavailable |
+  Age 31<br>Odds history: not checked yet</p><p><strong>🥊 Vanessa Demopo
+ ulos 🇺🇸 vs. Yazmin Jauregui 🇲🇽 - 115lbs/52kg Women&#39\;s Stra
+ wweight</strong><br>Demopoulos: 11-8-0 | Odds unavailable | Age 38<br>Jaur
+ egui: 11-2-0 | Odds unavailable | Age 27<br>Odds history: not checked yet<
+ /p><p>Source: <a href="https://www.ufc.com/event/ufc-fight-night-september
+ -26-2026">UFC.com</a><br>Calendar updated: 2026-09-12T10:01:37.755Z</p></b
+ ody></html>
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
+CATEGORIES:UFC,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-september-26-2026-main-card@ufc-detailed-calendar
+DTSTAMP:20260912T100137Z
+DTSTART:20260927T000000Z
+DTEND:20260927T030000Z
+SUMMARY:Main Card – UFC Fight Night: Rosas Jr. vs Barcelos
+DESCRIPTION:🥊 Raul Rosas Jr. (#12) 🇲🇽 vs. Raoni Barcelos (#13) 
+ 🇧🇷 - 135lbs/61kg Bantamweight\n    Rosas Jr.: 13-1-0 | Odds unavaila
+ ble | Age 21\n    Barcelos: 22-5-0 | Odds unavailable | Age 39\n    Odds h
+ istory: not checked yet\n\n🥊 Rodolfo Vieira 🇧🇷 vs. Robert Bryczek
+  🇵🇱 - 185lbs/84kg Middleweight\n    Vieira: 11-5-0 | Odds unavailabl
+ e | Age 37\n    Bryczek: 18-7-0 | Odds unavailable | Age 36\n    Odds hist
+ ory: not checked yet\n\n🥊 Brady Hiestand 🇺🇸 vs. Rinya Nakamura 
+ 🇯🇵 - 135lbs/61kg Bantamweight\n    Hiestand: 9-2-0 | Odds unavailabl
+ e | Age 27\n    Nakamura: 10-1-0 | Odds unavailable | Age 31\n    Odds his
+ tory: not checked yet\n\n🥊 Mehemmedeli Osmanli vs. Ilimbek Akylbek - 13
+ 5lbs/61kg Bantamweight\n    Osmanli: 0-0-0 | Odds unavailable | Age 22\n  
+   Akylbek: 0-0-0 | Odds unavailable | Age 23\n    Odds history: not checke
+ d yet\n\n🥊 Melissa Amaya vs. Valesca Machado - 115lbs/52kg Women's Stra
+ wweight\n    Amaya: 0-0-0 | Odds unavailable | Age 31\n    Machado: 0-1-0 
+ | Odds unavailable | Age 30\n    Odds history: not checked yet\n\n🥊 Jos
+ iah Harrell 🇺🇸 vs. Elves Brener 🇧🇷 - 155lbs/70kg Lightweight\n
+     Harrell: 11-1-0 | Odds unavailable | Age 27\n    Brener: 16-6-0 | Odds
+  unavailable | Age 29\n    Odds history: not checked yet\n\nSource: https:
+ //www.ufc.com/event/ufc-fight-night-september-26-2026\n\nCalendar updated:
+  2026-09-12T10:01:37.755Z
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><strong>🥊 Raul Rosas Jr. (#1
+ 2) 🇲🇽 vs. Raoni Barcelos (#13) 🇧🇷 - 135lbs/61kg Bantamweight</
+ strong><br>Rosas Jr.: 13-1-0 | Odds unavailable | Age 21<br>Barcelos: 22-5
+ -0 | Odds unavailable | Age 39<br>Odds history: not checked yet</p><p><str
+ ong>🥊 Rodolfo Vieira 🇧🇷 vs. Robert Bryczek 🇵🇱 - 185lbs/84kg
+  Middleweight</strong><br>Vieira: 11-5-0 | Odds unavailable | Age 37<br>Br
+ yczek: 18-7-0 | Odds unavailable | Age 36<br>Odds history: not checked yet
+ </p><p><strong>🥊 Brady Hiestand 🇺🇸 vs. Rinya Nakamura 🇯🇵 - 
+ 135lbs/61kg Bantamweight</strong><br>Hiestand: 9-2-0 | Odds unavailable | 
+ Age 27<br>Nakamura: 10-1-0 | Odds unavailable | Age 31<br>Odds history: no
+ t checked yet</p><p><strong>🥊 Mehemmedeli Osmanli vs. Ilimbek Akylbek -
+  135lbs/61kg Bantamweight</strong><br>Osmanli: 0-0-0 | Odds unavailable | 
+ Age 22<br>Akylbek: 0-0-0 | Odds unavailable | Age 23<br>Odds history: not 
+ checked yet</p><p><strong>🥊 Melissa Amaya vs. Valesca Machado - 115lbs/
+ 52kg Women&#39\;s Strawweight</strong><br>Amaya: 0-0-0 | Odds unavailable 
+ | Age 31<br>Machado: 0-1-0 | Odds unavailable | Age 30<br>Odds history: no
+ t checked yet</p><p><strong>🥊 Josiah Harrell 🇺🇸 vs. Elves Brener 
+ 🇧🇷 - 155lbs/70kg Lightweight</strong><br>Harrell: 11-1-0 | Odds unav
+ ailable | Age 27<br>Brener: 16-6-0 | Odds unavailable | Age 29<br>Odds his
+ tory: not checked yet</p><p>Source: <a href="https://www.ufc.com/event/ufc
+ -fight-night-september-26-2026">UFC.com</a><br>Calendar updated: 2026-09-1
+ 2T10:01:37.755Z</p></body></html>
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
+CATEGORIES:UFC,Main Card
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-332-early-prelims@ufc-detailed-calendar
+DTSTAMP:20260912T100137Z
+DTSTART:20261003T200000Z
+DTEND:20261003T220000Z
+SUMMARY:Early Prelims – UFC 332: Silva vs Wang
+DESCRIPTION:🥊 Johnny Walker 🇧🇷 vs. Mick Parkin 🇪🇳 - 265lbs/1
+ 20kg Heavyweight\n    Walker: 22-10-0 | Odds unavailable | Age 34\n    Par
+ kin: 10-1-0 | Odds unavailable | Age 31\n    Odds history: not checked yet
+ \n\n🥊 Rafael Dos Anjos 🇧🇷 vs. Alexander Hernandez 🇺🇸 - 155l
+ bs/70kg Lightweight\n    Dos Anjos: 32-17-0 | Odds unavailable | Age 41\n 
+    Hernandez: 18-9-0 | Odds unavailable | Age 34\n    Odds history: not ch
+ ecked yet\n\n🥊 Marvin Vettori 🇮🇹 vs. Ismail Naurdiev 🇲🇦 - 1
+ 85lbs/84kg Middleweight\n    Vettori: 19-10-1 | Odds unavailable | Age 33\
+ n    Naurdiev: 25-8-0 | Odds unavailable | Age 30\n    Odds history: not c
+ hecked yet\n\n🥊 Court McGee 🇺🇸 vs. Eric Nolan 🇺🇸 - 170lbs/7
+ 7kg Welterweight\n    McGee: 23-14-0 | Odds unavailable | Age 41\n    Nola
+ n: 8-5-0 | Odds unavailable | Age 29\n    Odds history: not checked yet\n\
+ nSource: https://www.ufc.com/event/ufc-332\n\nCalendar updated: 2026-09-12
+ T10:01:37.755Z
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><strong>🥊 Johnny Walker 🇧
+ 🇷 vs. Mick Parkin 🇪🇳 - 265lbs/120kg Heavyweight</strong><br>Walke
+ r: 22-10-0 | Odds unavailable | Age 34<br>Parkin: 10-1-0 | Odds unavailabl
+ e | Age 31<br>Odds history: not checked yet</p><p><strong>🥊 Rafael Dos 
+ Anjos 🇧🇷 vs. Alexander Hernandez 🇺🇸 - 155lbs/70kg Lightweight<
+ /strong><br>Dos Anjos: 32-17-0 | Odds unavailable | Age 41<br>Hernandez: 1
+ 8-9-0 | Odds unavailable | Age 34<br>Odds history: not checked yet</p><p><
+ strong>🥊 Marvin Vettori 🇮🇹 vs. Ismail Naurdiev 🇲🇦 - 185lbs/
+ 84kg Middleweight</strong><br>Vettori: 19-10-1 | Odds unavailable | Age 33
+ <br>Naurdiev: 25-8-0 | Odds unavailable | Age 30<br>Odds history: not chec
+ ked yet</p><p><strong>🥊 Court McGee 🇺🇸 vs. Eric Nolan 🇺🇸 - 
+ 170lbs/77kg Welterweight</strong><br>McGee: 23-14-0 | Odds unavailable | A
+ ge 41<br>Nolan: 8-5-0 | Odds unavailable | Age 29<br>Odds history: not che
+ cked yet</p><p>Source: <a href="https://www.ufc.com/event/ufc-332">UFC.com
+ </a><br>Calendar updated: 2026-09-12T10:01:37.755Z</p></body></html>
+LOCATION:Delta Center\, Salt Lake City\, United States
+URL:https://www.ufc.com/event/ufc-332
+CATEGORIES:UFC,Early Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-332-prelims@ufc-detailed-calendar
+DTSTAMP:20260912T100137Z
+DTSTART:20261003T220000Z
+DTEND:20261004T000000Z
+SUMMARY:Prelims – UFC 332: Silva vs Wang
+DESCRIPTION:🥊 Imanol Rodriguez 🇲🇽 vs. Alden Coria 🇺🇸 - 125lb
+ s/57kg Flyweight\n    Rodriguez: 7-0-0 | Odds unavailable | Age 26\n    Co
+ ria: 13-3-0 | Odds unavailable | Age 28\n    Odds history: not checked yet
+ \n\n🥊 Damian Pinas 🇦🇼 vs. Andrey Pulyaev 🇷🇺 - 185lbs/84kg M
+ iddleweight\n    Pinas: 10-1-0 | Odds unavailable | Age 24\n    Pulyaev: 1
+ 0-3-0 | Odds unavailable | Age 29\n    Odds history: not checked yet\n\n
+ 🥊 Marcus McGhee (#15) 🇺🇸 vs. Benardo Sopaj 🇦🇱 - 135lbs/61kg
+  Bantamweight\n    McGhee: 11-2-0 | Odds unavailable | Age 36\n    Sopaj: 
+ 13-3-0 | Odds unavailable | Age 26\n    Odds history: not checked yet\n\nS
+ ource: https://www.ufc.com/event/ufc-332\n\nCalendar updated: 2026-09-12T1
+ 0:01:37.755Z
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><strong>🥊 Imanol Rodriguez 
+ 🇲🇽 vs. Alden Coria 🇺🇸 - 125lbs/57kg Flyweight</strong><br>Rodr
+ iguez: 7-0-0 | Odds unavailable | Age 26<br>Coria: 13-3-0 | Odds unavailab
+ le | Age 28<br>Odds history: not checked yet</p><p><strong>🥊 Damian Pin
+ as 🇦🇼 vs. Andrey Pulyaev 🇷🇺 - 185lbs/84kg Middleweight</strong
+ ><br>Pinas: 10-1-0 | Odds unavailable | Age 24<br>Pulyaev: 10-3-0 | Odds u
+ navailable | Age 29<br>Odds history: not checked yet</p><p><strong>🥊 Ma
+ rcus McGhee (#15) 🇺🇸 vs. Benardo Sopaj 🇦🇱 - 135lbs/61kg Bantam
+ weight</strong><br>McGhee: 11-2-0 | Odds unavailable | Age 36<br>Sopaj: 13
+ -3-0 | Odds unavailable | Age 26<br>Odds history: not checked yet</p><p>So
+ urce: <a href="https://www.ufc.com/event/ufc-332">UFC.com</a><br>Calendar 
+ updated: 2026-09-12T10:01:37.755Z</p></body></html>
+LOCATION:Delta Center\, Salt Lake City\, United States
+URL:https://www.ufc.com/event/ufc-332
+CATEGORIES:UFC,Prelims
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-332-main-card@ufc-detailed-calendar
+DTSTAMP:20260912T100137Z
+DTSTART:20261004T000000Z
+DTEND:20261004T030000Z
+SUMMARY:Main Card – UFC 332: Silva vs Wang
+DESCRIPTION:🥊 Natalia Silva (#1) 🇧🇷 vs. Wang Cong (#8) 🇨🇳 - 
+ 125lbs/57kg Women's Flyweight · Title Bout\n    Silva: 20-5-1 | Odds -230
+  (1.43) | Age 29\n    Cong: 10-1-0 | Odds +190 (2.90) | Age 34\n    Odds h
+ istory:\n      12 Sep 2026: Natalia Silva -230 (1.43) | Wang Cong +190 (2.
+ 90)\n\n🥊 Deiveson Figueiredo (#9) 🇧🇷 vs. Payton Talbott (#11) 
+ 🇺🇸 - 135lbs/61kg Bantamweight\n    Figueiredo: 25-7-1 | Odds +410 (5
+ .10) | Age 38\n    Talbott: 11-1-0 | Odds -550 (1.18) | Age 28\n    Odds h
+ istory:\n      12 Sep 2026: Deiveson Figueiredo +410 (5.10) | Payton Talbo
+ tt -550 (1.18)\n\n🥊 King Green 🇺🇸 vs. Esteban Ribovics 🇦🇷 -
+  155lbs/70kg Lightweight\n    Green: 36-17-1 | Odds unavailable | Age 40\n
+     Ribovics: 16-3-0 | Odds unavailable | Age 30\n    Odds history: not ch
+ ecked yet\n\n🥊 Roberto Soldic 🇭🇷 vs. Khaos Williams 🇺🇸 - 17
+ 0lbs/77kg Welterweight\n    Soldic: 0-0-0 | Odds unavailable | Age 31\n   
+  Williams: 16-5-0 | Odds unavailable | Age 32\n    Odds history: not check
+ ed yet\n\n🥊 Ateba Gautier 🇨🇲 vs. Roman Kopylov 🇷🇺 - 185lbs/
+ 84kg Middleweight\n    Gautier: 11-1-0 | Odds unavailable | Age 24\n    Ko
+ pylov: 15-5-0 | Odds unavailable | Age 34\n    Odds history: not checked y
+ et\n\nSource: https://www.ufc.com/event/ufc-332\n\nCalendar updated: 2026-
+ 09-12T10:01:37.755Z
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p><strong>🥊 Natalia Silva (#1)
+  🇧🇷 vs. Wang Cong (#8) 🇨🇳 - 125lbs/57kg Women&#39\;s Flyweight
+  · Title Bout</strong><br>Silva: 20-5-1 | Odds -230 (1.43) | Age 29<br>Co
+ ng: 10-1-0 | Odds +190 (2.90) | Age 34<br>Odds history:<br>12 Sep 2026: Na
+ talia Silva -230 (1.43) | Wang Cong +190 (2.90)</p><p><strong>🥊 Deiveso
+ n Figueiredo (#9) 🇧🇷 vs. Payton Talbott (#11) 🇺🇸 - 135lbs/61kg
+  Bantamweight</strong><br>Figueiredo: 25-7-1 | Odds +410 (5.10) | Age 38<b
+ r>Talbott: 11-1-0 | Odds -550 (1.18) | Age 28<br>Odds history:<br>12 Sep 2
+ 026: Deiveson Figueiredo +410 (5.10) | Payton Talbott -550 (1.18)</p><p><s
+ trong>🥊 King Green 🇺🇸 vs. Esteban Ribovics 🇦🇷 - 155lbs/70kg
+  Lightweight</strong><br>Green: 36-17-1 | Odds unavailable | Age 40<br>Rib
+ ovics: 16-3-0 | Odds unavailable | Age 30<br>Odds history: not checked yet
+ </p><p><strong>🥊 Roberto Soldic 🇭🇷 vs. Khaos Williams 🇺🇸 - 
+ 170lbs/77kg Welterweight</strong><br>Soldic: 0-0-0 | Odds unavailable | Ag
+ e 31<br>Williams: 16-5-0 | Odds unavailable | Age 32<br>Odds history: not 
+ checked yet</p><p><strong>🥊 Ateba Gautier 🇨🇲 vs. Roman Kopylov 
+ 🇷🇺 - 185lbs/84kg Middleweight</strong><br>Gautier: 11-1-0 | Odds una
+ vailable | Age 24<br>Kopylov: 15-5-0 | Odds unavailable | Age 34<br>Odds h
+ istory: not checked yet</p><p>Source: <a href="https://www.ufc.com/event/u
+ fc-332">UFC.com</a><br>Calendar updated: 2026-09-12T10:01:37.755Z</p></bod
+ y></html>
+LOCATION:Delta Center\, Salt Lake City\, United States
+URL:https://www.ufc.com/event/ufc-332
+CATEGORIES:UFC,Main Card
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

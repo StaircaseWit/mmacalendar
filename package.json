@@ -1,0 +1,25 @@
+{
+  "name": "ufc-detailed-calendar",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.19.0",
+  "description": "A detailed, automatically updated UFC calendar feed generated from UFC.com.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "tsc",
+    "generate": "tsc && node dist/src/index.js",
+    "test": "tsc && node --test dist/test/*.test.js",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "cheerio": "1.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "24.10.1",
+    "domhandler": "5.0.3",
+    "typescript": "5.9.3"
+  }
+}
