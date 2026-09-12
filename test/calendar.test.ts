@@ -2,7 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import { parseAthletePage, parseEventPage, parseEventsListing } from "../src/ufc.js";
 import { renderCalendar, renderCombinedCalendar, renderEstimatedFightCalendar } from "../src/ics.js";
-import { reconcileEvents } from "../src/events.js";
+import { applyCancellationOverrides, reconcileEvents } from "../src/events.js";
 import { ageOnDate, decimalOdds, describeWeightClass, flagEmoji, shortFighterName, unicodeBold } from "../src/utils.js";
 import { oddsRefreshIsDue, updateOddsStore } from "../src/odds.js";
 import type { EventStore, OddsStore } from "../src/types.js";
@@ -94,6 +94,35 @@ test("tracks reschedules and retains events missing from consecutive listings", 
   reconcileEvents(store, [], new Date("2026-09-03T12:00:00Z"));
   const missingTwice = reconcileEvents(store, [], new Date("2026-09-04T12:00:00Z"));
   assert.equal(missingTwice[0].scheduleStatus?.state, "unlisted");
+});
+
+test("retains bouts that disappear from an active UFC card", () => {
+  const store: EventStore = { events: {} };
+  const first = parseEventPage(eventHtml, "https://www.ufc.com/event/noche-test");
+  reconcileEvents(store, [first], new Date("2026-09-01T12:00:00Z"));
+
+  const updatedHtml = eventHtml.replace(/<div class="c-listing-fight" data-fmid="1">[\s\S]*?<\/div>\n<\/div>\n<div id="main-card/, '<div id="main-card');
+  const updated = parseEventPage(updatedHtml, "https://www.ufc.com/event/noche-test");
+  const events = reconcileEvents(store, [updated], new Date("2026-09-02T12:00:00Z"));
+
+  assert.deepEqual(events[0].cancelledBouts, [{
+    id: "1",
+    redName: "Jean Silva",
+    blueName: "Jose Miguel Delgado",
+    weightClass: "Featherweight Bout",
+    reason: "Removed from the UFC card",
+    detectedAt: "2026-09-02T12:00:00.000Z",
+  }]);
+});
+
+test("renders configured cancelled bouts at the bottom of event descriptions", () => {
+  const event = parseEventPage(eventHtml, "https://www.ufc.com/event/noche-test");
+  applyCancellationOverrides([event], {
+    "noche-test": [{ redName: "Yair Rodriguez", blueName: "Jean Silva", reason: "Rodriguez injury" }],
+  });
+  const output = renderCalendar([event], { generatedAt: new Date("2026-09-12T12:00:00Z") }).replace(/\r\n[ \t]/g, "");
+  assert.match(output, /Cancelled or withdrawn bouts:/);
+  assert.match(output, /✕ Yair Rodriguez vs\. Jean Silva \| Rodriguez injury/);
 });
 
 test("preserves an explicit UFC cancellation in calendar status", () => {

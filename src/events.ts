@@ -1,11 +1,63 @@
 import { DAY_MS } from "./config.js";
 import type {
+  CancelledBout,
   EventScheduleState,
   EventStore,
   StoredUfcEvent,
   TrackedEvent,
   UfcEvent,
 } from "./types.js";
+import { normalizedName } from "./utils.js";
+
+function boutKey(redName: string, blueName: string): string {
+  return [normalizedName(redName), normalizedName(blueName)].sort().join("--");
+}
+
+function activeBoutKeys(event: UfcEvent): Set<string> {
+  return new Set(event.sections.flatMap(({ fights }) => fights.map(({ red, blue }) => boutKey(red.name, blue.name))));
+}
+
+function mergeCancelledBouts(event: UfcEvent, previous: UfcEvent | null, checkedAt: string): void {
+  const active = activeBoutKeys(event);
+  const cancelled = new Map<string, CancelledBout>();
+
+  for (const bout of [...(previous?.cancelledBouts ?? []), ...(event.cancelledBouts ?? [])]) {
+    const key = boutKey(bout.redName, bout.blueName);
+    if (!active.has(key)) cancelled.set(key, bout);
+  }
+
+  if (previous) {
+    for (const section of previous.sections) {
+      for (const fight of section.fights) {
+        const key = boutKey(fight.red.name, fight.blue.name);
+        if (active.has(key) || cancelled.has(key)) continue;
+        cancelled.set(key, {
+          id: fight.id,
+          redName: fight.red.name,
+          blueName: fight.blue.name,
+          weightClass: fight.weightClass,
+          reason: "Removed from the UFC card",
+          detectedAt: checkedAt,
+        });
+      }
+    }
+  }
+
+  event.cancelledBouts = [...cancelled.values()];
+}
+
+export function applyCancellationOverrides(
+  events: UfcEvent[],
+  overrides: Record<string, CancelledBout[]>,
+): void {
+  for (const event of events) {
+    const configured = overrides[event.slug] ?? [];
+    if (!configured.length) continue;
+    const merged = new Map((event.cancelledBouts ?? []).map((bout) => [boutKey(bout.redName, bout.blueName), bout]));
+    for (const bout of configured) merged.set(boutKey(bout.redName, bout.blueName), bout);
+    event.cancelledBouts = [...merged.values()];
+  }
+}
 
 function eventStart(event: UfcEvent): Date | null {
   return event.sections
@@ -67,6 +119,7 @@ export function reconcileEvents(
     seen.add(event.slug);
     const previous = store.events[event.slug];
     const previousEvent = previous ? hydrateEvent(previous.event) : null;
+    mergeCancelledBouts(event, previousEvent, checkedAt);
     const previousStart = previousEvent ? eventStart(previousEvent) : null;
     const currentStart = eventStart(event);
     let status: EventScheduleState = event.sourceStatus ?? "scheduled";

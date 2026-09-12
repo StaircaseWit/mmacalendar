@@ -26,6 +26,15 @@ export interface Fight {
   oddsHistory?: OddsSnapshot[];
 }
 
+export interface CancelledBout {
+  id?: string | null;
+  redName: string;
+  blueName: string;
+  weightClass?: string | null;
+  reason?: string | null;
+  detectedAt?: string;
+}
+
 export interface CardDefinition {
   key: string;
   label: string;
@@ -46,6 +55,7 @@ export interface UfcEvent {
   location: string;
   heroStart: Date | null;
   sections: CardSection[];
+  cancelledBouts?: CancelledBout[];
   sourceStatus?: "scheduled" | "postponed" | "cancelled";
   scheduleStatus?: EventScheduleStatus;
 }

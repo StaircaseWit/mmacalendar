@@ -41,6 +41,7 @@ The standard calendar description uses the `🥊` marker, bout order, and bold U
 - `data/odds-history.json` stores only the first snapshot and subsequent changes. The same history appears in each relevant calendar entry and in `docs/odds-history.html`.
 - Stable event IDs mean a changed time or fight card updates the existing calendar entry instead of creating a duplicate.
 - Every entry ends with a verified schedule status. Explicit UFC cancellations and postponements are preserved, date changes are labelled as reschedules, and events missing from two consecutive UFC listings remain visible as unconfirmed rather than silently disappearing.
+- When an announced bout disappears from a UFC card, it is retained under **Cancelled or withdrawn bouts**. `data/cancellations.json` provides a small backfill for cancellations that happened before this project began tracking the card.
 
 ## Calendar choices
 

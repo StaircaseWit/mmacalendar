@@ -8,7 +8,7 @@ import {
   shortFighterName,
   unicodeBold,
 } from "./utils.js";
-import type { CardSection, Fight, Fighter, UfcEvent } from "./types.js";
+import type { CancelledBout, CardSection, Fight, Fighter, UfcEvent } from "./types.js";
 
 interface RenderCalendarOptions {
   generatedAt?: Date;
@@ -152,6 +152,20 @@ function fightDescription(
   return [summary, fighterDetail(fight.red, section.start!), fighterDetail(fight.blue, section.start!), ...historyLines].join("\n");
 }
 
+function cancelledBoutDescription(bout: CancelledBout): string {
+  const weight = bout.weightClass ? ` · ${describeWeightClass(bout.weightClass)}` : "";
+  const reason = bout.reason ? ` | ${bout.reason}` : "";
+  return `✕ ${bout.redName} vs. ${bout.blueName}${weight}${reason}`;
+}
+
+function cancelledBoutBlock(event: UfcEvent): string {
+  if (!event.cancelledBouts?.length) return "";
+  return [
+    "Cancelled or withdrawn bouts:",
+    ...event.cancelledBouts.map(cancelledBoutDescription),
+  ].join("\n");
+}
+
 function sectionEnd(event: UfcEvent, section: CardSection): Date {
   const laterStarts = event.sections
     .map((candidate) => candidate.start)
@@ -189,11 +203,14 @@ function htmlDescription(event: UfcEvent, section: CardSection, generatedAt: Dat
     const [matchup = "", ...details] = fightDescription(event, section, fight, index, displayTimeZone, displayTimeZoneLabel).split("\n");
     return `<p><strong>${htmlEscape(matchup)}</strong><br>${details.map((line) => htmlEscape(line.trimStart())).join("<br>")}</p>`;
   }).join("");
+  const cancellations = event.cancelledBouts?.length
+    ? `<p><strong>Cancelled or withdrawn bouts</strong><br>${event.cancelledBouts.map((bout) => htmlEscape(cancelledBoutDescription(bout))).join("<br>")}</p>`
+    : "";
   const source = `<p>Source: <a href="${htmlEscape(event.url)}">UFC.com</a>`;
   const oddsLog = publicBaseUrl
     ? `<br>Full odds log: <a href="${htmlEscape(`${publicBaseUrl.replace(/\/$/, "")}/odds-history.html`)}">view history</a>`
     : "";
-  return `<html><body>${overview}${fights}${source}${oddsLog}<br>Calendar updated: ${htmlEscape(generatedAt.toISOString())}<br>${htmlEscape(scheduleStatusLine(event, generatedAt, displayTimeZone))}</p></body></html>`;
+  return `<html><body>${overview}${fights}${cancellations}${source}${oddsLog}<br>Calendar updated: ${htmlEscape(generatedAt.toISOString())}<br>${htmlEscape(scheduleStatusLine(event, generatedAt, displayTimeZone))}</p></body></html>`;
 }
 
 export function renderCalendar(events: UfcEvent[], {
@@ -221,6 +238,7 @@ export function renderCalendar(events: UfcEvent[], {
       const description = [
         eventOverview(event, section, displayTimeZone, displayTimeZoneLabel).join("\n"),
         ...section.fights.map((fight, index) => fightDescription(event, section, fight, index, displayTimeZone, displayTimeZoneLabel)),
+        cancelledBoutBlock(event),
         "",
         `Source: ${event.url}`,
         publicBaseUrl ? `Full odds log: ${publicBaseUrl.replace(/\/$/, "")}/odds-history.html` : "",
@@ -304,6 +322,7 @@ export function renderCombinedCalendar(events: UfcEvent[], {
       `🕒 ${localTime(bounds.start, displayTimeZone)}–${localTime(bounds.end, displayTimeZone, crossesDate)} ${displayTimeZoneLabel}`,
       "Bout times are estimates and may shift as the card progresses.",
       ...sectionBlocks,
+      cancelledBoutBlock(event),
       `Source: ${event.url}`,
       publicBaseUrl ? `Full odds log: ${publicBaseUrl.replace(/\/$/, "")}/odds-history.html` : "",
       `Calendar updated: ${generatedAt.toISOString()}`,

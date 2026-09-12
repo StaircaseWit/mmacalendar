@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:ufc-fight-night-may-16-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260516T210000Z
 DTEND:20260517T000000Z
 SUMMARY:Prelims – UFC Fight Night: Allen vs Costa
@@ -47,9 +47,9 @@ DESCRIPTION:UFC · Prelims · 7 bouts\n📍 Meta APEX\, Las Vegas\, United
  🇧🇷 - 115lbs/52kg Women's Strawweight · Est. 22:00 Ireland\n    Bann
  on: 7-3-0 | 32yo | Odds unavailable\n    Caliari: 9-4-0 | 29yo | Odds unav
  ailable\n    Odds history: not checked yet\n\nSource: https://www.ufc.com/
- event/ufc-fight-night-may-16-2026\n\nFull odds log: https://StaircaseWit.g
+ event/ufc-fight-night-may-16-2026\n\nFull odds log: https://staircasewit.g
  ithub.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:
- 16:28.027Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ 29:15.840Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  📍 Meta APEX\, Las Vegas\, United States<br>🕒 22:00–Sun 01:00 Irela
  nd<br>Bout times are estimates and may shift as the card progresses.</p><p
@@ -86,8 +86,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  ong><br>Bannon: 7-3-0 | 32yo | Odds unavailable<br>Caliari: 9-4-0 | 29yo |
   Odds unavailable<br>Odds history: not checked yet</p><p>Source: <a href="
  https://www.ufc.com/event/ufc-fight-night-may-16-2026">UFC.com</a><br>Full
-  odds log: <a href="https://StaircaseWit.github.io/mmacalendar/odds-histor
- y.html">view history</a><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>
+  odds log: <a href="https://staircasewit.github.io/mmacalendar/odds-histor
+ y.html">view history</a><br>Calendar updated: 2026-09-12T17:29:15.840Z<br>
  Event status: Scheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-may-16-2026
@@ -97,7 +97,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-may-16-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260517T000000Z
 DTEND:20260517T030000Z
 SUMMARY:Main Card – UFC Fight Night: Allen vs Costa
@@ -131,8 +131,8 @@ DESCRIPTION:UFC · Main Card · 6 bouts\n📍 Meta APEX\, Las Vegas\, Unite
    Veretennikov: 14-7-0 | 36yo | Odds unavailable\n    Williams: 16-5-0 | 3
  2yo | Odds unavailable\n    Odds history: not checked yet\n\nSource: https
  ://www.ufc.com/event/ufc-fight-night-may-16-2026\n\nFull odds log: https:/
- /StaircaseWit.github.io/mmacalendar/odds-history.html\n\nCalendar updated:
-  2026-09-12T17:16:28.027Z\n\nEvent status: Scheduled · verified 12 Sep 20
+ /staircasewit.github.io/mmacalendar/odds-history.html\n\nCalendar updated:
+  2026-09-12T17:29:15.840Z\n\nEvent status: Scheduled · verified 12 Sep 20
  26
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  📍 Meta APEX\, Las Vegas\, United States<br>🕒 01:00–04:00 Ireland<b
@@ -165,9 +165,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  rweight · Est. 01:00 Ireland</strong><br>Veretennikov: 14-7-0 | 36yo | Od
  ds unavailable<br>Williams: 16-5-0 | 32yo | Odds unavailable<br>Odds histo
  ry: not checked yet</p><p>Source: <a href="https://www.ufc.com/event/ufc-f
- ight-night-may-16-2026">UFC.com</a><br>Full odds log: <a href="https://Sta
- ircaseWit.github.io/mmacalendar/odds-history.html">view history</a><br>Cal
- endar updated: 2026-09-12T17:16:28.027Z<br>Event status: Scheduled · veri
+ ight-night-may-16-2026">UFC.com</a><br>Full odds log: <a href="https://sta
+ ircasewit.github.io/mmacalendar/odds-history.html">view history</a><br>Cal
+ endar updated: 2026-09-12T17:29:15.840Z<br>Event status: Scheduled · veri
  fied 12 Sep 2026</p></body></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-may-16-2026
@@ -177,7 +177,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-may-30-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260530T080000Z
 DTEND:20260530T110000Z
 SUMMARY:Prelims – UFC Fight Night: Song vs Figueiredo
@@ -213,8 +213,8 @@ DESCRIPTION:UFC · Prelims · 7 bouts\n📍 Galaxy Arena\, Macao\n🕒 09:0
  :00 Ireland\n    Lookboonmee: 10-5-0 | 30yo | Odds unavailable\n    Amorim
  : 11-2-0 | 30yo | Odds unavailable\n    Odds history: not checked yet\n\nS
  ource: https://www.ufc.com/event/ufc-fight-night-may-30-2026\n\nFull odds 
- log: https://StaircaseWit.github.io/mmacalendar/odds-history.html\n\nCalen
- dar updated: 2026-09-12T17:16:28.027Z\n\nEvent status: Scheduled · verifi
+ log: https://staircasewit.github.io/mmacalendar/odds-history.html\n\nCalen
+ dar updated: 2026-09-12T17:29:15.840Z\n\nEvent status: Scheduled · verifi
  ed 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  📍 Galaxy Arena\, Macao<br>🕒 09:00–12:00 Ireland<br>Bout times are 
@@ -250,9 +250,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  t. 09:00 Ireland</strong><br>Lookboonmee: 10-5-0 | 30yo | Odds unavailable
  <br>Amorim: 11-2-0 | 30yo | Odds unavailable<br>Odds history: not checked 
  yet</p><p>Source: <a href="https://www.ufc.com/event/ufc-fight-night-may-3
- 0-2026">UFC.com</a><br>Full odds log: <a href="https://StaircaseWit.github
+ 0-2026">UFC.com</a><br>Full odds log: <a href="https://staircasewit.github
  .io/mmacalendar/odds-history.html">view history</a><br>Calendar updated: 2
- 026-09-12T17:16:28.027Z<br>Event status: Scheduled · verified 12 Sep 2026
+ 026-09-12T17:29:15.840Z<br>Event status: Scheduled · verified 12 Sep 2026
  </p></body></html>
 LOCATION:Galaxy Arena\, Macao
 URL:https://www.ufc.com/event/ufc-fight-night-may-30-2026
@@ -262,7 +262,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-may-30-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260530T110000Z
 DTEND:20260530T140000Z
 SUMMARY:Main Card – UFC Fight Night: Song vs Figueiredo
@@ -296,8 +296,8 @@ DESCRIPTION:UFC · Main Card · 6 bouts\n📍 Galaxy Arena\, Macao\n🕒 12
  st. 12:00 Ireland\n    Perez: 26-11-0 | 34yo | Odds unavailable\n    Mudae
  rji: 20-7-0 | 30yo | Odds unavailable\n    Odds history: not checked yet\n
  \nSource: https://www.ufc.com/event/ufc-fight-night-may-30-2026\n\nFull od
- ds log: https://StaircaseWit.github.io/mmacalendar/odds-history.html\n\nCa
- lendar updated: 2026-09-12T17:16:28.027Z\n\nEvent status: Scheduled · ver
+ ds log: https://staircasewit.github.io/mmacalendar/odds-history.html\n\nCa
+ lendar updated: 2026-09-12T17:29:15.840Z\n\nEvent status: Scheduled · ver
  ified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  📍 Galaxy Arena\, Macao<br>🕒 12:00–15:00 Ireland<br>Bout times are 
@@ -331,8 +331,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  trong><br>Perez: 26-11-0 | 34yo | Odds unavailable<br>Mudaerji: 20-7-0 | 3
  0yo | Odds unavailable<br>Odds history: not checked yet</p><p>Source: <a h
  ref="https://www.ufc.com/event/ufc-fight-night-may-30-2026">UFC.com</a><br
- >Full odds log: <a href="https://StaircaseWit.github.io/mmacalendar/odds-h
- istory.html">view history</a><br>Calendar updated: 2026-09-12T17:16:28.027
+ >Full odds log: <a href="https://staircasewit.github.io/mmacalendar/odds-h
+ istory.html">view history</a><br>Calendar updated: 2026-09-12T17:29:15.840
  Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:Galaxy Arena\, Macao
 URL:https://www.ufc.com/event/ufc-fight-night-may-30-2026
@@ -342,7 +342,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-june-06-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260606T210000Z
 DTEND:20260607T000000Z
 SUMMARY:Prelims – UFC Fight Night: Muhammad vs Bonfim
@@ -380,8 +380,8 @@ DESCRIPTION:UFC · Prelims · 7 bouts\n📍 Meta APEX\, Las Vegas\, United
   Est. 22:00 Ireland\n    Souza: 17-6-0 | 31yo | Odds unavailable\n    Carn
  elossi: 15-5-0 | 33yo | Odds unavailable\n    Odds history: not checked ye
  t\n\nSource: https://www.ufc.com/event/ufc-fight-night-june-06-2026\n\nFul
- l odds log: https://StaircaseWit.github.io/mmacalendar/odds-history.html\n
- \nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEvent status: Scheduled ·
+ l odds log: https://staircasewit.github.io/mmacalendar/odds-history.html\n
+ \nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEvent status: Scheduled ·
   verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  📍 Meta APEX\, Las Vegas\, United States<br>🕒 22:00–Sun 01:00 Irela
@@ -419,9 +419,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  · Est. 22:00 Ireland</strong><br>Souza: 17-6-0 | 31yo | Odds unavailable<
  br>Carnelossi: 15-5-0 | 33yo | Odds unavailable<br>Odds history: not check
  ed yet</p><p>Source: <a href="https://www.ufc.com/event/ufc-fight-night-ju
- ne-06-2026">UFC.com</a><br>Full odds log: <a href="https://StaircaseWit.gi
+ ne-06-2026">UFC.com</a><br>Full odds log: <a href="https://staircasewit.gi
  thub.io/mmacalendar/odds-history.html">view history</a><br>Calendar update
- d: 2026-09-12T17:16:28.027Z<br>Event status: Scheduled · verified 12 Sep 
+ d: 2026-09-12T17:29:15.840Z<br>Event status: Scheduled · verified 12 Sep 
  2026</p></body></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-june-06-2026
@@ -431,7 +431,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-june-06-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260607T000000Z
 DTEND:20260607T030000Z
 SUMMARY:Main Card – UFC Fight Night: Muhammad vs Bonfim
@@ -460,8 +460,8 @@ DESCRIPTION:UFC · Main Card · 5 bouts\n📍 Meta APEX\, Las Vegas\, Unite
  d\n    Baraniewski: 9-0-0 | 27yo | Odds unavailable\n    Tafa: 7-6-0 | 29y
  o | Odds unavailable\n    Odds history: not checked yet\n\nSource: https:/
  /www.ufc.com/event/ufc-fight-night-june-06-2026\n\nFull odds log: https://
- StaircaseWit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 
- 2026-09-12T17:16:28.027Z\n\nEvent status: Scheduled · verified 12 Sep 202
+ staircasewit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 
+ 2026-09-12T17:29:15.840Z\n\nEvent status: Scheduled · verified 12 Sep 202
  6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  📍 Meta APEX\, Las Vegas\, United States<br>🕒 01:00–04:00 Ireland<b
@@ -489,9 +489,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  avyweight · Est. 01:00 Ireland</strong><br>Baraniewski: 9-0-0 | 27yo | Od
  ds unavailable<br>Tafa: 7-6-0 | 29yo | Odds unavailable<br>Odds history: n
  ot checked yet</p><p>Source: <a href="https://www.ufc.com/event/ufc-fight-
- night-june-06-2026">UFC.com</a><br>Full odds log: <a href="https://Stairca
- seWit.github.io/mmacalendar/odds-history.html">view history</a><br>Calenda
- r updated: 2026-09-12T17:16:28.027Z<br>Event status: Scheduled · verified
+ night-june-06-2026">UFC.com</a><br>Full odds log: <a href="https://stairca
+ sewit.github.io/mmacalendar/odds-history.html">view history</a><br>Calenda
+ r updated: 2026-09-12T17:29:15.840Z<br>Event status: Scheduled · verified
   12 Sep 2026</p></body></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-june-06-2026
@@ -501,7 +501,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-freedom-250-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260615T000000Z
 DTEND:20260615T030000Z
 SUMMARY:Main Card – UFC Freedom 250: Topuria vs Gaethje
@@ -538,8 +538,8 @@ DESCRIPTION:UFC · Main Card · 7 bouts\n📍 The White House\, Washington\
   - 145lbs/66kg Featherweight · Est. 01:00 Ireland\n    Lopes: 28-8-0 | 31
  yo | Odds unavailable\n    Garcia: 19-6-0 | 34yo | Odds unavailable\n    O
  dds history: not checked yet\n\nSource: https://www.ufc.com/event/ufc-free
- dom-250\n\nFull odds log: https://StaircaseWit.github.io/mmacalendar/odds-
- history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEvent status
+ dom-250\n\nFull odds log: https://staircasewit.github.io/mmacalendar/odds-
+ history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEvent status
  : Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 7 bouts<br>
  📍 The White House\, Washington\, United States<br>🕒 01:00–04:00 Ir
@@ -577,8 +577,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 7 bouts<br>
  es: 28-8-0 | 31yo | Odds unavailable<br>Garcia: 19-6-0 | 34yo | Odds unava
  ilable<br>Odds history: not checked yet</p><p>Source: <a href="https://www
  .ufc.com/event/ufc-freedom-250">UFC.com</a><br>Full odds log: <a href="htt
- ps://StaircaseWit.github.io/mmacalendar/odds-history.html">view history</a
- ><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>Event status: Scheduled
+ ps://staircasewit.github.io/mmacalendar/odds-history.html">view history</a
+ ><br>Calendar updated: 2026-09-12T17:29:15.840Z<br>Event status: Scheduled
   · verified 12 Sep 2026</p></body></html>
 LOCATION:The White House\, Washington\, United States
 URL:https://www.ufc.com/event/ufc-freedom-250
@@ -588,7 +588,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-june-20-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260620T210000Z
 DTEND:20260621T000000Z
 SUMMARY:Prelims – UFC Fight Night: Kape vs Horiguchi
@@ -626,8 +626,8 @@ DESCRIPTION:UFC · Prelims · 7 bouts\n📍 Meta APEX\, Las Vegas\, United
  d\n    Collins: 8-0-0 | 26yo | Odds unavailable\n    Tanzilovi: 10-2-0 | 2
  8yo | Odds unavailable\n    Odds history: not checked yet\n\nSource: https
  ://www.ufc.com/event/ufc-fight-night-june-20-2026\n\nFull odds log: https:
- //StaircaseWit.github.io/mmacalendar/odds-history.html\n\nCalendar updated
- : 2026-09-12T17:16:28.027Z\n\nEvent status: Scheduled · verified 12 Sep 2
+ //staircasewit.github.io/mmacalendar/odds-history.html\n\nCalendar updated
+ : 2026-09-12T17:29:15.840Z\n\nEvent status: Scheduled · verified 12 Sep 2
  026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  📍 Meta APEX\, Las Vegas\, United States<br>🕒 22:00–Sun 01:00 Irela
@@ -665,9 +665,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  d</strong><br>Collins: 8-0-0 | 26yo | Odds unavailable<br>Tanzilovi: 10-2-
  0 | 28yo | Odds unavailable<br>Odds history: not checked yet</p><p>Source:
   <a href="https://www.ufc.com/event/ufc-fight-night-june-20-2026">UFC.com<
- /a><br>Full odds log: <a href="https://StaircaseWit.github.io/mmacalendar/
- odds-history.html">view history</a><br>Calendar updated: 2026-09-12T17:16:
- 28.027Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body></htm
+ /a><br>Full odds log: <a href="https://staircasewit.github.io/mmacalendar/
+ odds-history.html">view history</a><br>Calendar updated: 2026-09-12T17:29:
+ 15.840Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body></htm
  l>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-june-20-2026
@@ -677,7 +677,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-june-20-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260621T000000Z
 DTEND:20260621T030000Z
 SUMMARY:Main Card – UFC Fight Night: Kape vs Horiguchi
@@ -707,8 +707,8 @@ DESCRIPTION:UFC · Main Card · 5 bouts\n📍 Meta APEX\, Las Vegas\, Unite
  d\n    Oliveira: 24-4-0 | 30yo | Odds unavailable\n    Fili: 25-14-0 | 35y
  o | Odds unavailable\n    Odds history: not checked yet\n\nSource: https:/
  /www.ufc.com/event/ufc-fight-night-june-20-2026\n\nFull odds log: https://
- StaircaseWit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 
- 2026-09-12T17:16:28.027Z\n\nEvent status: Scheduled · verified 12 Sep 202
+ staircasewit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 
+ 2026-09-12T17:29:15.840Z\n\nEvent status: Scheduled · verified 12 Sep 202
  6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  📍 Meta APEX\, Las Vegas\, United States<br>🕒 01:00–04:00 Ireland<b
@@ -737,9 +737,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  eight · Est. 01:00 Ireland</strong><br>Oliveira: 24-4-0 | 30yo | Odds una
  vailable<br>Fili: 25-14-0 | 35yo | Odds unavailable<br>Odds history: not c
  hecked yet</p><p>Source: <a href="https://www.ufc.com/event/ufc-fight-nigh
- t-june-20-2026">UFC.com</a><br>Full odds log: <a href="https://StaircaseWi
+ t-june-20-2026">UFC.com</a><br>Full odds log: <a href="https://staircasewi
  t.github.io/mmacalendar/odds-history.html">view history</a><br>Calendar up
- dated: 2026-09-12T17:16:28.027Z<br>Event status: Scheduled · verified 12 
+ dated: 2026-09-12T17:29:15.840Z<br>Event status: Scheduled · verified 12 
  Sep 2026</p></body></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-june-20-2026
@@ -749,7 +749,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-june-27-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260627T130000Z
 DTEND:20260627T160000Z
 SUMMARY:Prelims – UFC Fight Night: Fiziev vs Torres
@@ -787,9 +787,9 @@ DESCRIPTION:UFC · Prelims · 7 bouts\n📍 National Gymnastics Arena\, Bak
  𝗼 🇧🇷 - 170lbs/77kg Welterweight · Est. 14:00 Ireland\n    Abdull
  ayev: 20-3-0 | 29yo | Odds unavailable\n    Nascimento: 13-1-0 | 27yo | Od
  ds unavailable\n    Odds history: not checked yet\n\nSource: https://www.u
- fc.com/event/ufc-fight-night-june-27-2026\n\nFull odds log: https://Stairc
- aseWit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-0
- 9-12T17:16:28.027Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ fc.com/event/ufc-fight-night-june-27-2026\n\nFull odds log: https://stairc
+ asewit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-0
+ 9-12T17:29:15.840Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  📍 National Gymnastics Arena\, Baku\, Azerbaijan<br>🕒 14:00–17:00 I
  reland<br>Bout times are estimates and may shift as the card progresses.</
@@ -827,8 +827,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  llayev: 20-3-0 | 29yo | Odds unavailable<br>Nascimento: 13-1-0 | 27yo | Od
  ds unavailable<br>Odds history: not checked yet</p><p>Source: <a href="htt
  ps://www.ufc.com/event/ufc-fight-night-june-27-2026">UFC.com</a><br>Full o
- dds log: <a href="https://StaircaseWit.github.io/mmacalendar/odds-history.
- html">view history</a><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>Ev
+ dds log: <a href="https://staircasewit.github.io/mmacalendar/odds-history.
+ html">view history</a><br>Calendar updated: 2026-09-12T17:29:15.840Z<br>Ev
  ent status: Scheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:National Gymnastics Arena\, Baku\, Azerbaijan
 URL:https://www.ufc.com/event/ufc-fight-night-june-27-2026
@@ -838,7 +838,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-june-27-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260627T160000Z
 DTEND:20260627T190000Z
 SUMMARY:Main Card – UFC Fight Night: Fiziev vs Torres
@@ -872,8 +872,8 @@ DESCRIPTION:UFC · Main Card · 6 bouts\n📍 National Gymnastics Arena\, B
  s/84kg Middleweight · Est. 17:00 Ireland\n    Magomedov: 29-7-1 | 35yo | 
  Odds unavailable\n    Oleksiejczuk: 22-10-0 | 31yo | Odds unavailable\n   
   Odds history: not checked yet\n\nSource: https://www.ufc.com/event/ufc-fi
- ght-night-june-27-2026\n\nFull odds log: https://StaircaseWit.github.io/mm
- acalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\
+ ght-night-june-27-2026\n\nFull odds log: https://staircasewit.github.io/mm
+ acalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\
  n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  📍 National Gymnastics Arena\, Baku\, Azerbaijan<br>🕒 17:00–20:00 I
@@ -907,9 +907,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
   Ireland</strong><br>Magomedov: 29-7-1 | 35yo | Odds unavailable<br>Oleksi
  ejczuk: 22-10-0 | 31yo | Odds unavailable<br>Odds history: not checked yet
  </p><p>Source: <a href="https://www.ufc.com/event/ufc-fight-night-june-27-
- 2026">UFC.com</a><br>Full odds log: <a href="https://StaircaseWit.github.i
+ 2026">UFC.com</a><br>Full odds log: <a href="https://staircasewit.github.i
  o/mmacalendar/odds-history.html">view history</a><br>Calendar updated: 202
- 6-09-12T17:16:28.027Z<br>Event status: Scheduled · verified 12 Sep 2026</
+ 6-09-12T17:29:15.840Z<br>Event status: Scheduled · verified 12 Sep 2026</
  p></body></html>
 LOCATION:National Gymnastics Arena\, Baku\, Azerbaijan
 URL:https://www.ufc.com/event/ufc-fight-night-june-27-2026
@@ -919,7 +919,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-329-early-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
 SUMMARY:Early Prelims – UFC 329: McGregor vs Holloway 2
@@ -947,8 +947,8 @@ DESCRIPTION:UFC · Early Prelims · 5 bouts\n📍 T-Mobile Arena\, Las Vega
  7kg Flyweight · Est. 22:00 Ireland\n    Costa: 17-5-0 | 30yo | Odds unava
  ilable\n    Durden: 18-11-1 | 35yo | Odds unavailable\n    Odds history: n
  ot checked yet\n\nSource: https://www.ufc.com/event/ufc-329\n\nFull odds l
- og: https://StaircaseWit.github.io/mmacalendar/odds-history.html\n\nCalend
- ar updated: 2026-09-12T17:16:28.027Z\n\nEvent status: Scheduled · verifie
+ og: https://staircasewit.github.io/mmacalendar/odds-history.html\n\nCalend
+ ar updated: 2026-09-12T17:29:15.840Z\n\nEvent status: Scheduled · verifie
  d 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · 5 bouts
  <br>📍 T-Mobile Arena\, Las Vegas\, United States<br>🕒 22:00–Sun 00
@@ -976,8 +976,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · 5 bouts
  g><br>Costa: 17-5-0 | 30yo | Odds unavailable<br>Durden: 18-11-1 | 35yo | 
  Odds unavailable<br>Odds history: not checked yet</p><p>Source: <a href="h
  ttps://www.ufc.com/event/ufc-329">UFC.com</a><br>Full odds log: <a href="h
- ttps://StaircaseWit.github.io/mmacalendar/odds-history.html">view history<
- /a><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>Event status: Schedul
+ ttps://staircasewit.github.io/mmacalendar/odds-history.html">view history<
+ /a><br>Calendar updated: 2026-09-12T17:29:15.840Z<br>Event status: Schedul
  ed · verified 12 Sep 2026</p></body></html>
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-329
@@ -987,7 +987,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-329-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260711T230000Z
 DTEND:20260712T010000Z
 SUMMARY:Prelims – UFC 329: McGregor vs Holloway 2
@@ -1011,8 +1011,8 @@ DESCRIPTION:UFC · Prelims · 4 bouts\n📍 T-Mobile Arena\, Las Vegas\, Un
  𝗜𝗜 🇺🇸 - 145lbs/66kg Featherweight · Est. 00:00 Ireland\n    R
  iley: 14-0-0 | 27yo | Odds unavailable\n    Kamaka III: 18-8-1 | 31yo | Od
  ds unavailable\n    Odds history: not checked yet\n\nSource: https://www.u
- fc.com/event/ufc-329\n\nFull odds log: https://StaircaseWit.github.io/mmac
- alendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\
+ fc.com/event/ufc-329\n\nFull odds log: https://staircasewit.github.io/mmac
+ alendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\
  nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 4 bouts<br>
  📍 T-Mobile Arena\, Las Vegas\, United States<br>🕒 00:00–02:00 Irel
@@ -1036,8 +1036,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 4 bouts<br>
   00:00 Ireland</strong><br>Riley: 14-0-0 | 27yo | Odds unavailable<br>Kama
  ka III: 18-8-1 | 31yo | Odds unavailable<br>Odds history: not checked yet<
  /p><p>Source: <a href="https://www.ufc.com/event/ufc-329">UFC.com</a><br>F
- ull odds log: <a href="https://StaircaseWit.github.io/mmacalendar/odds-his
- tory.html">view history</a><br>Calendar updated: 2026-09-12T17:16:28.027Z<
+ ull odds log: <a href="https://staircasewit.github.io/mmacalendar/odds-his
+ tory.html">view history</a><br>Calendar updated: 2026-09-12T17:29:15.840Z<
  br>Event status: Scheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-329
@@ -1047,7 +1047,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-329-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260712T010000Z
 DTEND:20260712T040000Z
 SUMMARY:Main Card – UFC 329: McGregor vs Holloway 2
@@ -1076,9 +1076,9 @@ DESCRIPTION:UFC · Main Card · 5 bouts\n📍 T-Mobile Arena\, Las Vegas\,
  𝗶𝗻𝗻𝗲𝘆 🇺🇸 - 155lbs/70kg Lightweight · Est. 02:00 Irel
  and\n    Green: 36-17-1 | 39yo | Odds unavailable\n    McKinney: 18-9-0 | 
  31yo | Odds unavailable\n    Odds history: not checked yet\n\nSource: http
- s://www.ufc.com/event/ufc-329\n\nFull odds log: https://StaircaseWit.githu
- b.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:2
- 8.027Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ s://www.ufc.com/event/ufc-329\n\nFull odds log: https://staircasewit.githu
+ b.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:1
+ 5.840Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  📍 T-Mobile Arena\, Las Vegas\, United States<br>🕒 02:00–05:00 Irel
  and<br>Bout times are estimates and may shift as the card progresses.</p><
@@ -1106,9 +1106,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  weight · Est. 02:00 Ireland</strong><br>Green: 36-17-1 | 39yo | Odds unav
  ailable<br>McKinney: 18-9-0 | 31yo | Odds unavailable<br>Odds history: not
   checked yet</p><p>Source: <a href="https://www.ufc.com/event/ufc-329">UFC
- .com</a><br>Full odds log: <a href="https://StaircaseWit.github.io/mmacale
+ .com</a><br>Full odds log: <a href="https://staircasewit.github.io/mmacale
  ndar/odds-history.html">view history</a><br>Calendar updated: 2026-09-12T1
- 7:16:28.027Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body>
+ 7:29:15.840Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body>
  </html>
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-329
@@ -1118,7 +1118,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-july-18-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260718T210000Z
 DTEND:20260719T000000Z
 SUMMARY:Prelims – UFC Fight Night: Du Plessis vs Usman
@@ -1155,9 +1155,9 @@ DESCRIPTION:UFC · Prelims · 7 bouts\n📍 Paycom Center\, Oklahoma City\,
  𝘀𝗮 🇧🇷 - 125lbs/57kg Women's Flyweight · Est. 22:00 Ireland\n 
     Melisano: 6-2-0 | 29yo | Odds unavailable\n    Barbosa: 10-4-0 | 34yo |
   Odds unavailable\n    Odds history: not checked yet\n\nSource: https://ww
- w.ufc.com/event/ufc-fight-night-july-18-2026\n\nFull odds log: https://Sta
- ircaseWit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 202
- 6-09-12T17:16:28.027Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ w.ufc.com/event/ufc-fight-night-july-18-2026\n\nFull odds log: https://sta
+ ircasewit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 202
+ 6-09-12T17:29:15.840Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  📍 Paycom Center\, Oklahoma City\, United States<br>🕒 22:00–Sun 01:
  00 Ireland<br>Bout times are estimates and may shift as the card progresse
@@ -1194,8 +1194,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  r>Melisano: 6-2-0 | 29yo | Odds unavailable<br>Barbosa: 10-4-0 | 34yo | Od
  ds unavailable<br>Odds history: not checked yet</p><p>Source: <a href="htt
  ps://www.ufc.com/event/ufc-fight-night-july-18-2026">UFC.com</a><br>Full o
- dds log: <a href="https://StaircaseWit.github.io/mmacalendar/odds-history.
- html">view history</a><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>Ev
+ dds log: <a href="https://staircasewit.github.io/mmacalendar/odds-history.
+ html">view history</a><br>Calendar updated: 2026-09-12T17:29:15.840Z<br>Ev
  ent status: Scheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:Paycom Center\, Oklahoma City\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-july-18-2026
@@ -1205,7 +1205,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-july-18-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260719T000000Z
 DTEND:20260719T030000Z
 SUMMARY:Main Card – UFC Fight Night: Du Plessis vs Usman
@@ -1235,8 +1235,8 @@ DESCRIPTION:UFC · Main Card · 5 bouts\n📍 Paycom Center\, Oklahoma City
  eland\n    McMillen: 11-0-0 | 28yo | Odds unavailable\n    Montes: 12-2-0 
  | 32yo | Odds unavailable\n    Odds history: not checked yet\n\nSource: ht
  tps://www.ufc.com/event/ufc-fight-night-july-18-2026\n\nFull odds log: htt
- ps://StaircaseWit.github.io/mmacalendar/odds-history.html\n\nCalendar upda
- ted: 2026-09-12T17:16:28.027Z\n\nEvent status: Scheduled · verified 12 Se
+ ps://staircasewit.github.io/mmacalendar/odds-history.html\n\nCalendar upda
+ ted: 2026-09-12T17:29:15.840Z\n\nEvent status: Scheduled · verified 12 Se
  p 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  📍 Paycom Center\, Oklahoma City\, United States<br>🕒 01:00–04:00 I
@@ -1265,9 +1265,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  eatherweight · Est. 01:00 Ireland</strong><br>McMillen: 11-0-0 | 28yo | O
  dds unavailable<br>Montes: 12-2-0 | 32yo | Odds unavailable<br>Odds histor
  y: not checked yet</p><p>Source: <a href="https://www.ufc.com/event/ufc-fi
- ght-night-july-18-2026">UFC.com</a><br>Full odds log: <a href="https://Sta
- ircaseWit.github.io/mmacalendar/odds-history.html">view history</a><br>Cal
- endar updated: 2026-09-12T17:16:28.027Z<br>Event status: Scheduled · veri
+ ght-night-july-18-2026">UFC.com</a><br>Full odds log: <a href="https://sta
+ ircasewit.github.io/mmacalendar/odds-history.html">view history</a><br>Cal
+ endar updated: 2026-09-12T17:29:15.840Z<br>Event status: Scheduled · veri
  fied 12 Sep 2026</p></body></html>
 LOCATION:Paycom Center\, Oklahoma City\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-july-18-2026
@@ -1277,7 +1277,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-july-25-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260725T130000Z
 DTEND:20260725T160000Z
 SUMMARY:Prelims – UFC Fight Night: Ankalaev vs Guskov
@@ -1311,8 +1311,8 @@ DESCRIPTION:UFC · Prelims · 6 bouts\n📍 Etihad Arena\, Yas Island/Yas W
  st. 14:00 Ireland\n    Gibson: 22-13-0 | 38yo | Odds unavailable\n    Huss
  ein: 16-2-0 | 28yo | Odds unavailable\n    Odds history: not checked yet\n
  \nSource: https://www.ufc.com/event/ufc-fight-night-july-25-2026\n\nFull o
- dds log: https://StaircaseWit.github.io/mmacalendar/odds-history.html\n\nC
- alendar updated: 2026-09-12T17:16:28.027Z\n\nEvent status: Scheduled · ve
+ dds log: https://staircasewit.github.io/mmacalendar/odds-history.html\n\nC
+ alendar updated: 2026-09-12T17:29:15.840Z\n\nEvent status: Scheduled · ve
  rified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 6 bouts<br>
  📍 Etihad Arena\, Yas Island/Yas West\, United Arab Emirates<br>🕒 14:
@@ -1346,8 +1346,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 6 bouts<br>
  on: 22-13-0 | 38yo | Odds unavailable<br>Hussein: 16-2-0 | 28yo | Odds una
  vailable<br>Odds history: not checked yet</p><p>Source: <a href="https://w
  ww.ufc.com/event/ufc-fight-night-july-25-2026">UFC.com</a><br>Full odds lo
- g: <a href="https://StaircaseWit.github.io/mmacalendar/odds-history.html">
- view history</a><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>Event st
+ g: <a href="https://staircasewit.github.io/mmacalendar/odds-history.html">
+ view history</a><br>Calendar updated: 2026-09-12T17:29:15.840Z<br>Event st
  atus: Scheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-fight-night-july-25-2026
@@ -1357,7 +1357,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-july-25-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260725T160000Z
 DTEND:20260725T190000Z
 SUMMARY:Main Card – UFC Fight Night: Ankalaev vs Guskov
@@ -1391,8 +1391,8 @@ DESCRIPTION:UFC · Main Card · 6 bouts\n📍 Etihad Arena\, Yas Island/Yas
  st. 17:00 Ireland\n    Bonfim: 20-7-0 | 30yo | Odds unavailable\n    Sola:
   13-1-1 | 28yo | Odds unavailable\n    Odds history: not checked yet\n\nSo
  urce: https://www.ufc.com/event/ufc-fight-night-july-25-2026\n\nFull odds 
- log: https://StaircaseWit.github.io/mmacalendar/odds-history.html\n\nCalen
- dar updated: 2026-09-12T17:16:28.027Z\n\nEvent status: Scheduled · verifi
+ log: https://staircasewit.github.io/mmacalendar/odds-history.html\n\nCalen
+ dar updated: 2026-09-12T17:29:15.840Z\n\nEvent status: Scheduled · verifi
  ed 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  📍 Etihad Arena\, Yas Island/Yas West\, United Arab Emirates<br>🕒 17:
@@ -1426,8 +1426,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  /strong><br>Bonfim: 20-7-0 | 30yo | Odds unavailable<br>Sola: 13-1-1 | 28y
  o | Odds unavailable<br>Odds history: not checked yet</p><p>Source: <a hre
  f="https://www.ufc.com/event/ufc-fight-night-july-25-2026">UFC.com</a><br>
- Full odds log: <a href="https://StaircaseWit.github.io/mmacalendar/odds-hi
- story.html">view history</a><br>Calendar updated: 2026-09-12T17:16:28.027Z
+ Full odds log: <a href="https://staircasewit.github.io/mmacalendar/odds-hi
+ story.html">view history</a><br>Calendar updated: 2026-09-12T17:29:15.840Z
  <br>Event status: Scheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-fight-night-july-25-2026
@@ -1437,7 +1437,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-august-01-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260801T140000Z
 DTEND:20260801T170000Z
 SUMMARY:Prelims – UFC Fight Night: Medic vs Rodriguez
@@ -1479,8 +1479,8 @@ DESCRIPTION:UFC · Prelims · 8 bouts\n📍 Belgrade Arena\, BG\, Serbia\n
  and\n    Spasic: 7-2-0 | 32yo | Odds unavailable\n    Bruna Luciano: 8-2-1
   | 26yo | Odds unavailable\n    Odds history: not checked yet\n\nSource: h
  ttps://www.ufc.com/event/ufc-fight-night-august-01-2026\n\nFull odds log: 
- https://StaircaseWit.github.io/mmacalendar/odds-history.html\n\nCalendar u
- pdated: 2026-09-12T17:16:28.027Z\n\nEvent status: Scheduled · verified 12
+ https://staircasewit.github.io/mmacalendar/odds-history.html\n\nCalendar u
+ pdated: 2026-09-12T17:29:15.840Z\n\nEvent status: Scheduled · verified 12
   Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 8 bouts<br>
  📍 Belgrade Arena\, BG\, Serbia<br>🕒 15:00–18:00 Ireland<br>Bout ti
@@ -1522,9 +1522,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 8 bouts<br>
  rong><br>Spasic: 7-2-0 | 32yo | Odds unavailable<br>Bruna Luciano: 8-2-1 |
   26yo | Odds unavailable<br>Odds history: not checked yet</p><p>Source: <a
   href="https://www.ufc.com/event/ufc-fight-night-august-01-2026">UFC.com</
- a><br>Full odds log: <a href="https://StaircaseWit.github.io/mmacalendar/o
- dds-history.html">view history</a><br>Calendar updated: 2026-09-12T17:16:2
- 8.027Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body></html
+ a><br>Full odds log: <a href="https://staircasewit.github.io/mmacalendar/o
+ dds-history.html">view history</a><br>Calendar updated: 2026-09-12T17:29:1
+ 5.840Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body></html
  >
 LOCATION:Belgrade Arena\, BG\, Serbia
 URL:https://www.ufc.com/event/ufc-fight-night-august-01-2026
@@ -1534,7 +1534,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-august-01-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260801T170000Z
 DTEND:20260801T200000Z
 SUMMARY:Main Card – UFC Fight Night: Medic vs Rodriguez
@@ -1567,8 +1567,8 @@ DESCRIPTION:UFC · Main Card · 6 bouts\n📍 Belgrade Arena\, BG\, Serbia\
  Lightweight · Est. 18:00 Ireland\n    Janicic: 19-4-0 | 29yo | Odds unava
  ilable\n    Gugnon: 10-2-0 | 25yo | Odds unavailable\n    Odds history: no
  t checked yet\n\nSource: https://www.ufc.com/event/ufc-fight-night-august-
- 01-2026\n\nFull odds log: https://StaircaseWit.github.io/mmacalendar/odds-
- history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEvent status
+ 01-2026\n\nFull odds log: https://staircasewit.github.io/mmacalendar/odds-
+ history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEvent status
  : Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  📍 Belgrade Arena\, BG\, Serbia<br>🕒 18:00–21:00 Ireland<br>Bout ti
@@ -1601,9 +1601,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  and</strong><br>Janicic: 19-4-0 | 29yo | Odds unavailable<br>Gugnon: 10-2-
  0 | 25yo | Odds unavailable<br>Odds history: not checked yet</p><p>Source:
   <a href="https://www.ufc.com/event/ufc-fight-night-august-01-2026">UFC.co
- m</a><br>Full odds log: <a href="https://StaircaseWit.github.io/mmacalenda
- r/odds-history.html">view history</a><br>Calendar updated: 2026-09-12T17:1
- 6:28.027Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body></h
+ m</a><br>Full odds log: <a href="https://staircasewit.github.io/mmacalenda
+ r/odds-history.html">view history</a><br>Calendar updated: 2026-09-12T17:2
+ 9:15.840Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body></h
  tml>
 LOCATION:Belgrade Arena\, BG\, Serbia
 URL:https://www.ufc.com/event/ufc-fight-night-august-01-2026
@@ -1613,7 +1613,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-august-08-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260808T210000Z
 DTEND:20260809T000000Z
 SUMMARY:Prelims – UFC Fight Night: Gamrot vs Salkilld
@@ -1650,9 +1650,9 @@ DESCRIPTION:UFC · Prelims · 7 bouts\n📍 Meta APEX\, Las Vegas\, United
  🇷 - 115lbs/52kg Women's Strawweight · Est. 22:00 Ireland\n    Canuto: 
  7-2-0 | 23yo | Odds unavailable\n    Foro: 10-1-0 | 29yo | Odds unavailabl
  e\n    Odds history: not checked yet\n\nSource: https://www.ufc.com/event/
- ufc-fight-night-august-08-2026\n\nFull odds log: https://StaircaseWit.gith
- ub.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:
- 28.027Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ ufc-fight-night-august-08-2026\n\nFull odds log: https://staircasewit.gith
+ ub.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:
+ 15.840Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  📍 Meta APEX\, Las Vegas\, United States<br>🕒 22:00–Sun 01:00 Irela
  nd<br>Bout times are estimates and may shift as the card progresses.</p><p
@@ -1689,8 +1689,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  <br>Canuto: 7-2-0 | 23yo | Odds unavailable<br>Foro: 10-1-0 | 29yo | Odds 
  unavailable<br>Odds history: not checked yet</p><p>Source: <a href="https:
  //www.ufc.com/event/ufc-fight-night-august-08-2026">UFC.com</a><br>Full od
- ds log: <a href="https://StaircaseWit.github.io/mmacalendar/odds-history.h
- tml">view history</a><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>Eve
+ ds log: <a href="https://staircasewit.github.io/mmacalendar/odds-history.h
+ tml">view history</a><br>Calendar updated: 2026-09-12T17:29:15.840Z<br>Eve
  nt status: Scheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-august-08-2026
@@ -1700,7 +1700,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-august-08-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260809T000000Z
 DTEND:20260809T030000Z
 SUMMARY:Main Card – UFC Fight Night: Gamrot vs Salkilld
@@ -1729,9 +1729,9 @@ DESCRIPTION:UFC · Main Card · 5 bouts\n📍 Meta APEX\, Las Vegas\, Unite
  🇺🇸 - 170lbs/77kg Welterweight · Est. 01:00 Ireland\n    Goff: 9-5-0
   | 28yo | Odds unavailable\n    Miller: 8-0-0 | 26yo | Odds unavailable\n 
     Odds history: not checked yet\n\nSource: https://www.ufc.com/event/ufc-
- fight-night-august-08-2026\n\nFull odds log: https://StaircaseWit.github.i
- o/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.0
- 27Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ fight-night-august-08-2026\n\nFull odds log: https://staircasewit.github.i
+ o/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.8
+ 40Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  📍 Meta APEX\, Las Vegas\, United States<br>🕒 01:00–04:00 Ireland<b
  r>Bout times are estimates and may shift as the card progresses.</p><p><st
@@ -1759,9 +1759,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  01:00 Ireland</strong><br>Goff: 9-5-0 | 28yo | Odds unavailable<br>Miller:
   8-0-0 | 26yo | Odds unavailable<br>Odds history: not checked yet</p><p>So
  urce: <a href="https://www.ufc.com/event/ufc-fight-night-august-08-2026">U
- FC.com</a><br>Full odds log: <a href="https://StaircaseWit.github.io/mmaca
+ FC.com</a><br>Full odds log: <a href="https://staircasewit.github.io/mmaca
  lendar/odds-history.html">view history</a><br>Calendar updated: 2026-09-12
- T17:16:28.027Z<br>Event status: Scheduled · verified 12 Sep 2026</p></bod
+ T17:29:15.840Z<br>Event status: Scheduled · verified 12 Sep 2026</p></bod
  y></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-august-08-2026
@@ -1771,7 +1771,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-330-early-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260815T213000Z
 DTEND:20260815T230000Z
 SUMMARY:Early Prelims – UFC 330: Makhachev vs Machado Garry
@@ -1791,8 +1791,8 @@ DESCRIPTION:UFC · Early Prelims · 3 bouts\n📍 Xfinity Mobile Arena\, Ph
  𝗮𝗶 🇰🇬 - 170lbs/77kg Welterweight · Est. 22:30 Ireland\n    We
  lls: 14-4-1 | 39yo | Odds unavailable\n    Orolbai: 16-3-1 | 28yo | Odds u
  navailable\n    Odds history: not checked yet\n\nSource: https://www.ufc.c
- om/event/ufc-330\n\nFull odds log: https://StaircaseWit.github.io/mmacalen
- dar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEve
+ om/event/ufc-330\n\nFull odds log: https://staircasewit.github.io/mmacalen
+ dar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEve
  nt status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · 3 bouts
  <br>📍 Xfinity Mobile Arena\, Philadelphia\, United States<br>🕒 22:30
@@ -1812,8 +1812,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · 3 bouts
  rong><br>Wells: 14-4-1 | 39yo | Odds unavailable<br>Orolbai: 16-3-1 | 28yo
   | Odds unavailable<br>Odds history: not checked yet</p><p>Source: <a href
  ="https://www.ufc.com/event/ufc-330">UFC.com</a><br>Full odds log: <a href
- ="https://StaircaseWit.github.io/mmacalendar/odds-history.html">view histo
- ry</a><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>Event status: Sche
+ ="https://staircasewit.github.io/mmacalendar/odds-history.html">view histo
+ ry</a><br>Calendar updated: 2026-09-12T17:29:15.840Z<br>Event status: Sche
  duled · verified 12 Sep 2026</p></body></html>
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, United States
 URL:https://www.ufc.com/event/ufc-330
@@ -1823,7 +1823,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-330-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260815T230000Z
 DTEND:20260816T010000Z
 SUMMARY:Prelims – UFC 330: Makhachev vs Machado Garry
@@ -1847,8 +1847,8 @@ DESCRIPTION:UFC · Prelims · 4 bouts\n📍 Xfinity Mobile Arena\, Philadel
  𝗲 🇺🇸 - 185lbs/84kg Middleweight · Est. 00:00 Ireland\n    Luque:
   24-13-1 | 34yo | Odds unavailable\n    Gore: 8-4-0 | 32yo | Odds unavaila
  ble\n    Odds history: not checked yet\n\nSource: https://www.ufc.com/even
- t/ufc-330\n\nFull odds log: https://StaircaseWit.github.io/mmacalendar/odd
- s-history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEvent stat
+ t/ufc-330\n\nFull odds log: https://staircasewit.github.io/mmacalendar/odd
+ s-history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEvent stat
  us: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 4 bouts<br>
  📍 Xfinity Mobile Arena\, Philadelphia\, United States<br>🕒 00:00–0
@@ -1872,8 +1872,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 4 bouts<br>
  </strong><br>Luque: 24-13-1 | 34yo | Odds unavailable<br>Gore: 8-4-0 | 32y
  o | Odds unavailable<br>Odds history: not checked yet</p><p>Source: <a hre
  f="https://www.ufc.com/event/ufc-330">UFC.com</a><br>Full odds log: <a hre
- f="https://StaircaseWit.github.io/mmacalendar/odds-history.html">view hist
- ory</a><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>Event status: Sch
+ f="https://staircasewit.github.io/mmacalendar/odds-history.html">view hist
+ ory</a><br>Calendar updated: 2026-09-12T17:29:15.840Z<br>Event status: Sch
  eduled · verified 12 Sep 2026</p></body></html>
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, United States
 URL:https://www.ufc.com/event/ufc-330
@@ -1883,7 +1883,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-330-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260816T010000Z
 DTEND:20260816T040000Z
 SUMMARY:Main Card – UFC 330: Makhachev vs Machado Garry
@@ -1913,9 +1913,9 @@ DESCRIPTION:UFC · Main Card · 5 bouts\n📍 Xfinity Mobile Arena\, Philad
  𝗼𝘃𝗶𝗰𝘀 🇦🇷 - 155lbs/70kg Lightweight · Est. 02:00 Irel
  and\n    Barboza: 24-15-0 | 40yo | Odds unavailable\n    Ribovics: 16-3-0 
  | 30yo | Odds unavailable\n    Odds history: not checked yet\n\nSource: ht
- tps://www.ufc.com/event/ufc-330\n\nFull odds log: https://StaircaseWit.git
- hub.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16
- :28.027Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ tps://www.ufc.com/event/ufc-330\n\nFull odds log: https://staircasewit.git
+ hub.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29
+ :15.840Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  📍 Xfinity Mobile Arena\, Philadelphia\, United States<br>🕒 02:00–0
  5:00 Ireland<br>Bout times are estimates and may shift as the card progres
@@ -1944,9 +1944,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  ightweight · Est. 02:00 Ireland</strong><br>Barboza: 24-15-0 | 40yo | Odd
  s unavailable<br>Ribovics: 16-3-0 | 30yo | Odds unavailable<br>Odds histor
  y: not checked yet</p><p>Source: <a href="https://www.ufc.com/event/ufc-33
- 0">UFC.com</a><br>Full odds log: <a href="https://StaircaseWit.github.io/m
+ 0">UFC.com</a><br>Full odds log: <a href="https://staircasewit.github.io/m
  macalendar/odds-history.html">view history</a><br>Calendar updated: 2026-0
- 9-12T17:16:28.027Z<br>Event status: Scheduled · verified 12 Sep 2026</p><
+ 9-12T17:29:15.840Z<br>Event status: Scheduled · verified 12 Sep 2026</p><
  /body></html>
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, United States
 URL:https://www.ufc.com/event/ufc-330
@@ -1956,7 +1956,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-august-22-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260822T210000Z
 DTEND:20260823T000000Z
 SUMMARY:Prelims – UFC Fight Night: Hernandez vs Rodrigues
@@ -1993,8 +1993,8 @@ DESCRIPTION:UFC · Prelims · 7 bouts\n📍 Golden 1 Center\, Sacramento\,
  Women's Strawweight · Est. 22:00 Ireland\n    Dyer: 8-1-0 | 25yo | Odds u
  navailable\n    Reed: 8-6-0 | 33yo | Odds unavailable\n    Odds history: n
  ot checked yet\n\nSource: https://www.ufc.com/event/ufc-fight-night-august
- -22-2026\n\nFull odds log: https://StaircaseWit.github.io/mmacalendar/odds
- -history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEvent statu
+ -22-2026\n\nFull odds log: https://staircasewit.github.io/mmacalendar/odds
+ -history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEvent statu
  s: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  📍 Golden 1 Center\, Sacramento\, United States<br>🕒 22:00–Sun 01:0
@@ -2031,9 +2031,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  9\;s Strawweight · Est. 22:00 Ireland</strong><br>Dyer: 8-1-0 | 25yo | Od
  ds unavailable<br>Reed: 8-6-0 | 33yo | Odds unavailable<br>Odds history: n
  ot checked yet</p><p>Source: <a href="https://www.ufc.com/event/ufc-fight-
- night-august-22-2026">UFC.com</a><br>Full odds log: <a href="https://Stair
- caseWit.github.io/mmacalendar/odds-history.html">view history</a><br>Calen
- dar updated: 2026-09-12T17:16:28.027Z<br>Event status: Scheduled · verifi
+ night-august-22-2026">UFC.com</a><br>Full odds log: <a href="https://stair
+ casewit.github.io/mmacalendar/odds-history.html">view history</a><br>Calen
+ dar updated: 2026-09-12T17:29:15.840Z<br>Event status: Scheduled · verifi
  ed 12 Sep 2026</p></body></html>
 LOCATION:Golden 1 Center\, Sacramento\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-august-22-2026
@@ -2043,7 +2043,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-august-22-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260823T000000Z
 DTEND:20260823T030000Z
 SUMMARY:Main Card – UFC Fight Night: Hernandez vs Rodrigues
@@ -2077,8 +2077,8 @@ DESCRIPTION:UFC · Main Card · 6 bouts\n📍 Golden 1 Center\, Sacramento\
  1:00 Ireland\n    Wint: 8-0-0 | 30yo | Odds unavailable\n    Chatman: 5-2-
  0 | 29yo | Odds unavailable\n    Odds history: not checked yet\n\nSource: 
  https://www.ufc.com/event/ufc-fight-night-august-22-2026\n\nFull odds log:
-  https://StaircaseWit.github.io/mmacalendar/odds-history.html\n\nCalendar 
- updated: 2026-09-12T17:16:28.027Z\n\nEvent status: Scheduled · verified 1
+  https://staircasewit.github.io/mmacalendar/odds-history.html\n\nCalendar 
+ updated: 2026-09-12T17:29:15.840Z\n\nEvent status: Scheduled · verified 1
  2 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  📍 Golden 1 Center\, Sacramento\, United States<br>🕒 01:00–04:00 Ir
@@ -2112,8 +2112,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  rong><br>Wint: 8-0-0 | 30yo | Odds unavailable<br>Chatman: 5-2-0 | 29yo | 
  Odds unavailable<br>Odds history: not checked yet</p><p>Source: <a href="h
  ttps://www.ufc.com/event/ufc-fight-night-august-22-2026">UFC.com</a><br>Fu
- ll odds log: <a href="https://StaircaseWit.github.io/mmacalendar/odds-hist
- ory.html">view history</a><br>Calendar updated: 2026-09-12T17:16:28.027Z<b
+ ll odds log: <a href="https://staircasewit.github.io/mmacalendar/odds-hist
+ ory.html">view history</a><br>Calendar updated: 2026-09-12T17:29:15.840Z<b
  r>Event status: Scheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:Golden 1 Center\, Sacramento\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-august-22-2026
@@ -2123,7 +2123,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:road-to-ufc-season-5-semifinals-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260828T090000Z
 DTEND:20260828T120000Z
 SUMMARY:Main Card – Road To UFC: Maheshate vs Flowers
@@ -2139,8 +2139,8 @@ DESCRIPTION:UFC · Main Card · 2 bouts\n📍 Venue to be announced\n🕒 1
  ilable · Est. 10:00 Ireland\n    Maimaitijiang: 7-1-1 | 35yo | Odds unava
  ilable\n    Vines: 10-4-1 | 30yo | Odds unavailable\n    Odds history: not
   checked yet\n\nSource: https://www.ufc.com/event/road-to-ufc-season-5-sem
- ifinals\n\nFull odds log: https://StaircaseWit.github.io/mmacalendar/odds-
- history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEvent status
+ ifinals\n\nFull odds log: https://staircasewit.github.io/mmacalendar/odds-
+ history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEvent status
  : Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 2 bouts<br>
  📍 Venue to be announced<br>🕒 10:00–13:00 Ireland<br>Bout times are
@@ -2155,9 +2155,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 2 bouts<br>
  · Est. 10:00 Ireland</strong><br>Maimaitijiang: 7-1-1 | 35yo | Odds unava
  ilable<br>Vines: 10-4-1 | 30yo | Odds unavailable<br>Odds history: not che
  cked yet</p><p>Source: <a href="https://www.ufc.com/event/road-to-ufc-seas
- on-5-semifinals">UFC.com</a><br>Full odds log: <a href="https://StaircaseW
+ on-5-semifinals">UFC.com</a><br>Full odds log: <a href="https://staircasew
  it.github.io/mmacalendar/odds-history.html">view history</a><br>Calendar u
- pdated: 2026-09-12T17:16:28.027Z<br>Event status: Scheduled · verified 12
+ pdated: 2026-09-12T17:29:15.840Z<br>Event status: Scheduled · verified 12
   Sep 2026</p></body></html>
 LOCATION:
 URL:https://www.ufc.com/event/road-to-ufc-season-5-semifinals
@@ -2167,7 +2167,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-august-29-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260829T070000Z
 DTEND:20260829T100000Z
 SUMMARY:Prelims – UFC Fight Night: Nurmagomedov vs Song
@@ -2203,9 +2203,9 @@ DESCRIPTION:UFC · Prelims · 7 bouts\n📍 Oriental Sports Center\, Pudong
  𝗼𝗻 🇨🇦 - 170lbs/77kg Welterweight · Est. 08:00 Ireland\n    Me
  ng: 35-11-0 | 31yo | Odds unavailable\n    Nelson: 8-1-0 | 28yo | Odds una
  vailable\n    Odds history: not checked yet\n\nSource: https://www.ufc.com
- /event/ufc-fight-night-august-29-2026\n\nFull odds log: https://StaircaseW
+ /event/ufc-fight-night-august-29-2026\n\nFull odds log: https://staircasew
  it.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12
- T17:16:28.027Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ T17:29:15.840Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  📍 Oriental Sports Center\, Pudong District\, China<br>🕒 08:00–11:0
  0 Ireland<br>Bout times are estimates and may shift as the card progresses
@@ -2241,8 +2241,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  yo | Odds unavailable<br>Nelson: 8-1-0 | 28yo | Odds unavailable<br>Odds h
  istory: not checked yet</p><p>Source: <a href="https://www.ufc.com/event/u
  fc-fight-night-august-29-2026">UFC.com</a><br>Full odds log: <a href="http
- s://StaircaseWit.github.io/mmacalendar/odds-history.html">view history</a>
- <br>Calendar updated: 2026-09-12T17:16:28.027Z<br>Event status: Scheduled 
+ s://staircasewit.github.io/mmacalendar/odds-history.html">view history</a>
+ <br>Calendar updated: 2026-09-12T17:29:15.840Z<br>Event status: Scheduled 
  · verified 12 Sep 2026</p></body></html>
 LOCATION:Oriental Sports Center\, Pudong District\, China
 URL:https://www.ufc.com/event/ufc-fight-night-august-29-2026
@@ -2252,7 +2252,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-august-29-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260829T100000Z
 DTEND:20260829T130000Z
 SUMMARY:Main Card – UFC Fight Night: Nurmagomedov vs Song
@@ -2284,8 +2284,8 @@ DESCRIPTION:UFC · Main Card · 6 bouts\n📍 Oriental Sports Center\, Pudo
  🇪 - 125lbs/57kg Flyweight · Est. 11:00 Ireland\n    Hasan: 10-0-0 | 25
  yo | Odds unavailable\n    Rojas: 9-1-0 | 27yo | Odds unavailable\n    Odd
  s history: not checked yet\n\nSource: https://www.ufc.com/event/ufc-fight-
- night-august-29-2026\n\nFull odds log: https://StaircaseWit.github.io/mmac
- alendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\
+ night-august-29-2026\n\nFull odds log: https://staircasewit.github.io/mmac
+ alendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\
  nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  📍 Oriental Sports Center\, Pudong District\, China<br>🕒 11:00–14:0
@@ -2317,9 +2317,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  ight · Est. 11:00 Ireland</strong><br>Hasan: 10-0-0 | 25yo | Odds unavail
  able<br>Rojas: 9-1-0 | 27yo | Odds unavailable<br>Odds history: not checke
  d yet</p><p>Source: <a href="https://www.ufc.com/event/ufc-fight-night-aug
- ust-29-2026">UFC.com</a><br>Full odds log: <a href="https://StaircaseWit.g
+ ust-29-2026">UFC.com</a><br>Full odds log: <a href="https://staircasewit.g
  ithub.io/mmacalendar/odds-history.html">view history</a><br>Calendar updat
- ed: 2026-09-12T17:16:28.027Z<br>Event status: Scheduled · verified 12 Sep
+ ed: 2026-09-12T17:29:15.840Z<br>Event status: Scheduled · verified 12 Sep
   2026</p></body></html>
 LOCATION:Oriental Sports Center\, Pudong District\, China
 URL:https://www.ufc.com/event/ufc-fight-night-august-29-2026
@@ -2329,7 +2329,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-05-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260905T160000Z
 DTEND:20260905T190000Z
 SUMMARY:Prelims – UFC Fight Night: Hooker vs Parnasse
@@ -2371,8 +2371,8 @@ DESCRIPTION:UFC · Prelims · 8 bouts\n📍 Accor Arena\, Paris\, France\n
  's Strawweight · Est. 17:00 Ireland\n    Benouaich: 8-2-0 | 31yo | Odds u
  navailable\n    Montenegro: 6-2-0 | 27yo | Odds unavailable\n    Odds hist
  ory: not checked yet\n\nSource: https://www.ufc.com/event/ufc-fight-night-
- september-05-2026\n\nFull odds log: https://StaircaseWit.github.io/mmacale
- ndar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEv
+ september-05-2026\n\nFull odds log: https://staircasewit.github.io/mmacale
+ ndar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEv
  ent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 8 bouts<br>
  📍 Accor Arena\, Paris\, France<br>🕒 17:00–20:00 Ireland<br>Bout ti
@@ -2415,8 +2415,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 8 bouts<br>
   Odds unavailable<br>Montenegro: 6-2-0 | 27yo | Odds unavailable<br>Odds h
  istory: not checked yet</p><p>Source: <a href="https://www.ufc.com/event/u
  fc-fight-night-september-05-2026">UFC.com</a><br>Full odds log: <a href="h
- ttps://StaircaseWit.github.io/mmacalendar/odds-history.html">view history<
- /a><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>Event status: Schedul
+ ttps://staircasewit.github.io/mmacalendar/odds-history.html">view history<
+ /a><br>Calendar updated: 2026-09-12T17:29:15.840Z<br>Event status: Schedul
  ed · verified 12 Sep 2026</p></body></html>
 LOCATION:Accor Arena\, Paris\, France
 URL:https://www.ufc.com/event/ufc-fight-night-september-05-2026
@@ -2426,7 +2426,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-05-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260905T190000Z
 DTEND:20260905T220000Z
 SUMMARY:Main Card – UFC Fight Night: Hooker vs Parnasse
@@ -2459,8 +2459,8 @@ DESCRIPTION:UFC · Main Card · 6 bouts\n📍 Accor Arena\, Paris\, France\
  erweight · Est. 20:00 Ireland\n    Keita: 17-2-0 | 28yo | Odds unavailabl
  e\n    Naimov: 13-5-0 | 32yo | Odds unavailable\n    Odds history: not che
  cked yet\n\nSource: https://www.ufc.com/event/ufc-fight-night-september-05
- -2026\n\nFull odds log: https://StaircaseWit.github.io/mmacalendar/odds-hi
- story.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEvent status: 
+ -2026\n\nFull odds log: https://staircasewit.github.io/mmacalendar/odds-hi
+ story.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEvent status: 
  Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  📍 Accor Arena\, Paris\, France<br>🕒 20:00–23:00 Ireland<br>Bout ti
@@ -2493,9 +2493,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  eland</strong><br>Keita: 17-2-0 | 28yo | Odds unavailable<br>Naimov: 13-5-
  0 | 32yo | Odds unavailable<br>Odds history: not checked yet</p><p>Source:
   <a href="https://www.ufc.com/event/ufc-fight-night-september-05-2026">UFC
- .com</a><br>Full odds log: <a href="https://StaircaseWit.github.io/mmacale
+ .com</a><br>Full odds log: <a href="https://staircasewit.github.io/mmacale
  ndar/odds-history.html">view history</a><br>Calendar updated: 2026-09-12T1
- 7:16:28.027Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body>
+ 7:29:15.840Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body>
  </html>
 LOCATION:Accor Arena\, Paris\, France
 URL:https://www.ufc.com/event/ufc-fight-night-september-05-2026
@@ -2505,7 +2505,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-12-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260912T180000Z
 DTEND:20260912T210000Z
 SUMMARY:Prelims – Noche UFC: Silva vs Delgado
@@ -2544,11 +2544,13 @@ DESCRIPTION:UFC · Prelims · 7 bouts\n📍 Desert Diamond Arena\, Glendale
  𝗶𝗻𝗮 𝗧𝗮𝗿𝗶𝗻 🇲🇽 - 125lbs/57kg Women's Flyweight
   · Est. 19:00 Ireland\n    Aldrich: 15-7-0 | 33yo | Odds unavailable\n   
   Malpica Rivera: 8-0-0 | 21yo | Odds +165 (2.65)\n    Odds history:\n     
-  12 Sep: Aldrich unavailable | Malpica Rivera +165 (2.65)\n\nSource: https
- ://www.ufc.com/event/ufc-fight-night-september-12-2026\n\nFull odds log: h
- ttps://StaircaseWit.github.io/mmacalendar/odds-history.html\n\nCalendar up
- dated: 2026-09-12T17:16:28.027Z\n\nEvent status: Scheduled · verified 12 
- Sep 2026
+  12 Sep: Aldrich unavailable | Malpica Rivera +165 (2.65)\n\nCancelled or 
+ withdrawn bouts:\n✕ Kelvin Gastelum vs. Yousri Belgaroui | Gastelum with
+ drew\n✕ Yair Rodriguez vs. Jean Silva | Rodriguez injury\n✕ Rodrigo Ve
+ ra vs. Ramiro Jimenez | Vera visa issues\n\nSource: https://www.ufc.com/ev
+ ent/ufc-fight-night-september-12-2026\n\nFull odds log: https://staircasew
+ it.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12
+ T17:29:15.840Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  📍 Desert Diamond Arena\, Glendale\, United States<br>🕒 19:00–22:00
   Ireland<br>Bout times are estimates and may shift as the card progresses.
@@ -2586,11 +2588,14 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  bs/57kg Women&#39\;s Flyweight · Est. 19:00 Ireland</strong><br>Aldrich: 
  15-7-0 | 33yo | Odds unavailable<br>Malpica Rivera: 8-0-0 | 21yo | Odds +1
  65 (2.65)<br>Odds history:<br>12 Sep: Aldrich unavailable | Malpica Rivera
-  +165 (2.65)</p><p>Source: <a href="https://www.ufc.com/event/ufc-fight-ni
- ght-september-12-2026">UFC.com</a><br>Full odds log: <a href="https://Stai
- rcaseWit.github.io/mmacalendar/odds-history.html">view history</a><br>Cale
- ndar updated: 2026-09-12T17:16:28.027Z<br>Event status: Scheduled · verif
- ied 12 Sep 2026</p></body></html>
+  +165 (2.65)</p><p><strong>Cancelled or withdrawn bouts</strong><br>✕ Ke
+ lvin Gastelum vs. Yousri Belgaroui | Gastelum withdrew<br>✕ Yair Rodrigu
+ ez vs. Jean Silva | Rodriguez injury<br>✕ Rodrigo Vera vs. Ramiro Jimene
+ z | Vera visa issues</p><p>Source: <a href="https://www.ufc.com/event/ufc-
+ fight-night-september-12-2026">UFC.com</a><br>Full odds log: <a href="http
+ s://staircasewit.github.io/mmacalendar/odds-history.html">view history</a>
+ <br>Calendar updated: 2026-09-12T17:29:15.840Z<br>Event status: Scheduled 
+ · verified 12 Sep 2026</p></body></html>
 LOCATION:Desert Diamond Arena\, Glendale\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-12-2026
 CATEGORIES:UFC,Prelims
@@ -2599,7 +2604,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-12-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260912T210000Z
 DTEND:20260913T000000Z
 SUMMARY:Main Card – Noche UFC: Silva vs Delgado
@@ -2635,10 +2640,13 @@ DESCRIPTION:UFC · Main Card · 6 bouts\n📍 Desert Diamond Arena\, Glenda
  𝗻 𝗜𝗴𝗲 🇺🇸 - 135lbs/61kg Bantamweight · Est. 22:00 Irelan
  d\n    Martinez: 14-1-0 | 28yo | Odds -380 (1.26)\n    Ige: 19-10-0 | 35yo
   | Odds +300 (4.00)\n    Odds history:\n      12 Sep: Martinez -380 (1.26)
-  | Ige +300 (4.00)\n\nSource: https://www.ufc.com/event/ufc-fight-night-se
- ptember-12-2026\n\nFull odds log: https://StaircaseWit.github.io/mmacalend
- ar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEven
- t status: Scheduled · verified 12 Sep 2026
+  | Ige +300 (4.00)\n\nCancelled or withdrawn bouts:\n✕ Kelvin Gastelum v
+ s. Yousri Belgaroui | Gastelum withdrew\n✕ Yair Rodriguez vs. Jean Silva
+  | Rodriguez injury\n✕ Rodrigo Vera vs. Ramiro Jimenez | Vera visa issue
+ s\n\nSource: https://www.ufc.com/event/ufc-fight-night-september-12-2026\n
+ \nFull odds log: https://staircasewit.github.io/mmacalendar/odds-history.h
+ tml\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEvent status: Schedul
+ ed · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  📍 Desert Diamond Arena\, Glendale\, United States<br>🕒 22:00–Sun 0
  1:00 Ireland<br>Bout times are estimates and may shift as the card progres
@@ -2672,11 +2680,14 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
   🇲🇽 vs. 𝗗𝗮𝗻 𝗜𝗴𝗲 🇺🇸 - 135lbs/61kg Bantamweigh
  t · Est. 22:00 Ireland</strong><br>Martinez: 14-1-0 | 28yo | Odds -380 (1
  .26)<br>Ige: 19-10-0 | 35yo | Odds +300 (4.00)<br>Odds history:<br>12 Sep:
-  Martinez -380 (1.26) | Ige +300 (4.00)</p><p>Source: <a href="https://www
- .ufc.com/event/ufc-fight-night-september-12-2026">UFC.com</a><br>Full odds
-  log: <a href="https://StaircaseWit.github.io/mmacalendar/odds-history.htm
- l">view history</a><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>Event
-  status: Scheduled · verified 12 Sep 2026</p></body></html>
+  Martinez -380 (1.26) | Ige +300 (4.00)</p><p><strong>Cancelled or withdra
+ wn bouts</strong><br>✕ Kelvin Gastelum vs. Yousri Belgaroui | Gastelum w
+ ithdrew<br>✕ Yair Rodriguez vs. Jean Silva | Rodriguez injury<br>✕ Rod
+ rigo Vera vs. Ramiro Jimenez | Vera visa issues</p><p>Source: <a href="htt
+ ps://www.ufc.com/event/ufc-fight-night-september-12-2026">UFC.com</a><br>F
+ ull odds log: <a href="https://staircasewit.github.io/mmacalendar/odds-his
+ tory.html">view history</a><br>Calendar updated: 2026-09-12T17:29:15.840Z<
+ br>Event status: Scheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:Desert Diamond Arena\, Glendale\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-12-2026
 CATEGORIES:UFC,Main Card
@@ -2685,7 +2696,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cryptocom-ufc-331-early-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260919T210000Z
 DTEND:20260919T230000Z
 SUMMARY:Early Prelims – Crypto.com UFC 331: Van vs Pantoja 2
@@ -2711,8 +2722,8 @@ DESCRIPTION:UFC · Early Prelims · 4 bouts\n📍 Crypto.com Arena\, Los An
  o | Odds +270 (3.70)\n    Brito: 19-5-1 | 31yo | Odds -340 (1.29)\n    Odd
  s history:\n      12 Sep: Chikadze +270 (3.70) | Brito -340 (1.29)\n\nSour
  ce: https://www.ufc.com/event/cryptocom-ufc-331\n\nFull odds log: https://
- StaircaseWit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 
- 2026-09-12T17:16:28.027Z\n\nEvent status: Scheduled · verified 12 Sep 202
+ staircasewit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 
+ 2026-09-12T17:29:15.840Z\n\nEvent status: Scheduled · verified 12 Sep 202
  6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · 4 bouts
  <br>📍 Crypto.com Arena\, Los Angeles\, United States<br>🕒 22:00–Su
@@ -2737,9 +2748,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · 4 bouts
  eland</strong><br>Chikadze: 15-6-0 | 38yo | Odds +270 (3.70)<br>Brito: 19-
  5-1 | 31yo | Odds -340 (1.29)<br>Odds history:<br>12 Sep: Chikadze +270 (3
  .70) | Brito -340 (1.29)</p><p>Source: <a href="https://www.ufc.com/event/
- cryptocom-ufc-331">UFC.com</a><br>Full odds log: <a href="https://Staircas
- eWit.github.io/mmacalendar/odds-history.html">view history</a><br>Calendar
-  updated: 2026-09-12T17:16:28.027Z<br>Event status: Scheduled · verified 
+ cryptocom-ufc-331">UFC.com</a><br>Full odds log: <a href="https://staircas
+ ewit.github.io/mmacalendar/odds-history.html">view history</a><br>Calendar
+  updated: 2026-09-12T17:29:15.840Z<br>Event status: Scheduled · verified 
  12 Sep 2026</p></body></html>
 LOCATION:Crypto.com Arena\, Los Angeles\, United States
 URL:https://www.ufc.com/event/cryptocom-ufc-331
@@ -2749,7 +2760,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cryptocom-ufc-331-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260919T230000Z
 DTEND:20260920T010000Z
 SUMMARY:Prelims – Crypto.com UFC 331: Van vs Pantoja 2
@@ -2775,8 +2786,8 @@ DESCRIPTION:UFC · Prelims · 4 bouts\n📍 Crypto.com Arena\, Los Angeles\
  6kg Featherweight · Est. 00:00 Ireland\n    Aswell Jr.: 11-5-0 | 25yo | O
  dds unavailable\n    Yoo: 9-1-0 | 32yo | Odds unavailable\n    Odds histor
  y: not checked yet\n\nSource: https://www.ufc.com/event/cryptocom-ufc-331\
- n\nFull odds log: https://StaircaseWit.github.io/mmacalendar/odds-history.
- html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEvent status: Schedu
+ n\nFull odds log: https://staircasewit.github.io/mmacalendar/odds-history.
+ html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEvent status: Schedu
  led · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 4 bouts<br>
  📍 Crypto.com Arena\, Los Angeles\, United States<br>🕒 00:00–02:00 
@@ -2801,9 +2812,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 4 bouts<br>
  - 145lbs/66kg Featherweight · Est. 00:00 Ireland</strong><br>Aswell Jr.: 
  11-5-0 | 25yo | Odds unavailable<br>Yoo: 9-1-0 | 32yo | Odds unavailable<b
  r>Odds history: not checked yet</p><p>Source: <a href="https://www.ufc.com
- /event/cryptocom-ufc-331">UFC.com</a><br>Full odds log: <a href="https://S
- taircaseWit.github.io/mmacalendar/odds-history.html">view history</a><br>C
- alendar updated: 2026-09-12T17:16:28.027Z<br>Event status: Scheduled · ve
+ /event/cryptocom-ufc-331">UFC.com</a><br>Full odds log: <a href="https://s
+ taircasewit.github.io/mmacalendar/odds-history.html">view history</a><br>C
+ alendar updated: 2026-09-12T17:29:15.840Z<br>Event status: Scheduled · ve
  rified 12 Sep 2026</p></body></html>
 LOCATION:Crypto.com Arena\, Los Angeles\, United States
 URL:https://www.ufc.com/event/cryptocom-ufc-331
@@ -2813,7 +2824,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cryptocom-ufc-331-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260920T010000Z
 DTEND:20260920T040000Z
 SUMMARY:Main Card – Crypto.com UFC 331: Van vs Pantoja 2
@@ -2845,9 +2856,9 @@ DESCRIPTION:UFC · Main Card · 5 bouts\n📍 Crypto.com Arena\, Los Angele
  02:00 Ireland\n    Menifield: 18-6-1 | 38yo | Odds +190 (2.90)\n    Barani
  ewski: 9-0-0 | 27yo | Odds -230 (1.43)\n    Odds history:\n      12 Sep: M
  enifield +190 (2.90) | Baraniewski -230 (1.43)\n\nSource: https://www.ufc.
- com/event/cryptocom-ufc-331\n\nFull odds log: https://StaircaseWit.github.
- io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.
- 027Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ com/event/cryptocom-ufc-331\n\nFull odds log: https://staircasewit.github.
+ io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.
+ 840Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  📍 Crypto.com Arena\, Los Angeles\, United States<br>🕒 02:00–05:00 
  Ireland<br>Bout times are estimates and may shift as the card progresses.<
@@ -2878,8 +2889,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  90)<br>Baraniewski: 9-0-0 | 27yo | Odds -230 (1.43)<br>Odds history:<br>12
   Sep: Menifield +190 (2.90) | Baraniewski -230 (1.43)</p><p>Source: <a hre
  f="https://www.ufc.com/event/cryptocom-ufc-331">UFC.com</a><br>Full odds l
- og: <a href="https://StaircaseWit.github.io/mmacalendar/odds-history.html"
- >view history</a><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>Event s
+ og: <a href="https://staircasewit.github.io/mmacalendar/odds-history.html"
+ >view history</a><br>Calendar updated: 2026-09-12T17:29:15.840Z<br>Event s
  tatus: Scheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:Crypto.com Arena\, Los Angeles\, United States
 URL:https://www.ufc.com/event/cryptocom-ufc-331
@@ -2889,7 +2900,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-26-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260926T210000Z
 DTEND:20260927T000000Z
 SUMMARY:Prelims – UFC Fight Night: Rosas Jr. vs Barcelos
@@ -2918,9 +2929,9 @@ DESCRIPTION:UFC · Prelims · 5 bouts\n📍 Meta APEX\, Las Vegas\, United
  🇲🇽 - 115lbs/52kg Women's Strawweight · Est. 22:00 Ireland\n    Demo
  poulos: 11-8-0 | 38yo | Odds unavailable\n    Jauregui: 11-2-0 | 27yo | Od
  ds unavailable\n    Odds history: not checked yet\n\nSource: https://www.u
- fc.com/event/ufc-fight-night-september-26-2026\n\nFull odds log: https://S
- taircaseWit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 2
- 026-09-12T17:16:28.027Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ fc.com/event/ufc-fight-night-september-26-2026\n\nFull odds log: https://s
+ taircasewit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 2
+ 026-09-12T17:29:15.840Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 5 bouts<br>
  📍 Meta APEX\, Las Vegas\, United States<br>🕒 22:00–Sun 01:00 Irela
  nd<br>Bout times are estimates and may shift as the card progresses.</p><p
@@ -2949,8 +2960,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 5 bouts<br>
   38yo | Odds unavailable<br>Jauregui: 11-2-0 | 27yo | Odds unavailable<br>
  Odds history: not checked yet</p><p>Source: <a href="https://www.ufc.com/e
  vent/ufc-fight-night-september-26-2026">UFC.com</a><br>Full odds log: <a h
- ref="https://StaircaseWit.github.io/mmacalendar/odds-history.html">view hi
- story</a><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>Event status: S
+ ref="https://staircasewit.github.io/mmacalendar/odds-history.html">view hi
+ story</a><br>Calendar updated: 2026-09-12T17:29:15.840Z<br>Event status: S
  cheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
@@ -2960,7 +2971,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-26-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20260927T000000Z
 DTEND:20260927T030000Z
 SUMMARY:Main Card – UFC Fight Night: Rosas Jr. vs Barcelos
@@ -2993,8 +3004,8 @@ DESCRIPTION:UFC · Main Card · 6 bouts\n📍 Meta APEX\, Las Vegas\, Unite
  0kg Lightweight · Est. 01:00 Ireland\n    Harrell: 11-1-0 | 27yo | Odds u
  navailable\n    Brener: 16-6-0 | 29yo | Odds unavailable\n    Odds history
  : not checked yet\n\nSource: https://www.ufc.com/event/ufc-fight-night-sep
- tember-26-2026\n\nFull odds log: https://StaircaseWit.github.io/mmacalenda
- r/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEvent
+ tember-26-2026\n\nFull odds log: https://staircasewit.github.io/mmacalenda
+ r/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEvent
   status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  📍 Meta APEX\, Las Vegas\, United States<br>🕒 01:00–04:00 Ireland<b
@@ -3027,9 +3038,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  · Est. 01:00 Ireland</strong><br>Harrell: 11-1-0 | 27yo | Odds unavailabl
  e<br>Brener: 16-6-0 | 29yo | Odds unavailable<br>Odds history: not checked
   yet</p><p>Source: <a href="https://www.ufc.com/event/ufc-fight-night-sept
- ember-26-2026">UFC.com</a><br>Full odds log: <a href="https://StaircaseWit
+ ember-26-2026">UFC.com</a><br>Full odds log: <a href="https://staircasewit
  .github.io/mmacalendar/odds-history.html">view history</a><br>Calendar upd
- ated: 2026-09-12T17:16:28.027Z<br>Event status: Scheduled · verified 12 S
+ ated: 2026-09-12T17:29:15.840Z<br>Event status: Scheduled · verified 12 S
  ep 2026</p></body></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
@@ -3039,7 +3050,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-early-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261003T200000Z
 DTEND:20261003T220000Z
 SUMMARY:Early Prelims – UFC 332: Silva vs Wang
@@ -3063,9 +3074,9 @@ DESCRIPTION:UFC · Early Prelims · 4 bouts\n📍 Delta Center\, Salt Lake
  𝗡𝗼𝗹𝗮𝗻 🇺🇸 - 170lbs/77kg Welterweight · Est. 21:00 Ire
  land\n    McGee: 23-14-0 | 41yo | Odds unavailable\n    Nolan: 8-5-0 | 29y
  o | Odds unavailable\n    Odds history: not checked yet\n\nSource: https:/
- /www.ufc.com/event/ufc-332\n\nFull odds log: https://StaircaseWit.github.i
- o/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.0
- 27Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ /www.ufc.com/event/ufc-332\n\nFull odds log: https://staircasewit.github.i
+ o/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.8
+ 40Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · 4 bouts
  <br>📍 Delta Center\, Salt Lake City\, United States<br>🕒 21:00–23:
  00 Ireland<br>Bout times are estimates and may shift as the card progresse
@@ -3088,8 +3099,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · 4 bouts
  st. 21:00 Ireland</strong><br>McGee: 23-14-0 | 41yo | Odds unavailable<br>
  Nolan: 8-5-0 | 29yo | Odds unavailable<br>Odds history: not checked yet</p
  ><p>Source: <a href="https://www.ufc.com/event/ufc-332">UFC.com</a><br>Ful
- l odds log: <a href="https://StaircaseWit.github.io/mmacalendar/odds-histo
- ry.html">view history</a><br>Calendar updated: 2026-09-12T17:16:28.027Z<br
+ l odds log: <a href="https://staircasewit.github.io/mmacalendar/odds-histo
+ ry.html">view history</a><br>Calendar updated: 2026-09-12T17:29:15.840Z<br
  >Event status: Scheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
@@ -3099,7 +3110,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261003T220000Z
 DTEND:20261004T000000Z
 SUMMARY:Prelims – UFC 332: Silva vs Wang
@@ -3119,8 +3130,8 @@ DESCRIPTION:UFC · Prelims · 3 bouts\n📍 Delta Center\, Salt Lake City\,
  135lbs/61kg Bantamweight · Est. 23:00 Ireland\n    McGhee: 11-2-0 | 36yo 
  | Odds unavailable\n    Sopaj: 13-3-0 | 26yo | Odds unavailable\n    Odds 
  history: not checked yet\n\nSource: https://www.ufc.com/event/ufc-332\n\nF
- ull odds log: https://StaircaseWit.github.io/mmacalendar/odds-history.html
- \n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEvent status: Scheduled 
+ ull odds log: https://staircasewit.github.io/mmacalendar/odds-history.html
+ \n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEvent status: Scheduled 
  · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 3 bouts<br>
  📍 Delta Center\, Salt Lake City\, United States<br>🕒 23:00–Sun 01:
@@ -3139,9 +3150,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 3 bouts<br>
  135lbs/61kg Bantamweight · Est. 23:00 Ireland</strong><br>McGhee: 11-2-0 
  | 36yo | Odds unavailable<br>Sopaj: 13-3-0 | 26yo | Odds unavailable<br>Od
  ds history: not checked yet</p><p>Source: <a href="https://www.ufc.com/eve
- nt/ufc-332">UFC.com</a><br>Full odds log: <a href="https://StaircaseWit.gi
+ nt/ufc-332">UFC.com</a><br>Full odds log: <a href="https://staircasewit.gi
  thub.io/mmacalendar/odds-history.html">view history</a><br>Calendar update
- d: 2026-09-12T17:16:28.027Z<br>Event status: Scheduled · verified 12 Sep 
+ d: 2026-09-12T17:29:15.840Z<br>Event status: Scheduled · verified 12 Sep 
  2026</p></body></html>
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
@@ -3151,7 +3162,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261004T000000Z
 DTEND:20261004T030000Z
 SUMMARY:Main Card – UFC 332: Silva vs Wang
@@ -3181,8 +3192,8 @@ DESCRIPTION:UFC · Main Card · 5 bouts\n📍 Delta Center\, Salt Lake City
  🇷🇺 - 185lbs/84kg Middleweight · Est. 01:00 Ireland\n    Gautier: 11
  -1-0 | 24yo | Odds unavailable\n    Kopylov: 15-5-0 | 34yo | Odds unavaila
  ble\n    Odds history: not checked yet\n\nSource: https://www.ufc.com/even
- t/ufc-332\n\nFull odds log: https://StaircaseWit.github.io/mmacalendar/odd
- s-history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEvent stat
+ t/ufc-332\n\nFull odds log: https://staircasewit.github.io/mmacalendar/odd
+ s-history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEvent stat
  us: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  📍 Delta Center\, Salt Lake City\, United States<br>🕒 01:00–04:00 I
@@ -3212,8 +3223,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  1:00 Ireland</strong><br>Gautier: 11-1-0 | 24yo | Odds unavailable<br>Kopy
  lov: 15-5-0 | 34yo | Odds unavailable<br>Odds history: not checked yet</p>
  <p>Source: <a href="https://www.ufc.com/event/ufc-332">UFC.com</a><br>Full
-  odds log: <a href="https://StaircaseWit.github.io/mmacalendar/odds-histor
- y.html">view history</a><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>
+  odds log: <a href="https://staircasewit.github.io/mmacalendar/odds-histor
+ y.html">view history</a><br>Calendar updated: 2026-09-12T17:29:15.840Z<br>
  Event status: Scheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
@@ -3223,7 +3234,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-10-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261010T210000Z
 DTEND:20261011T000000Z
 SUMMARY:Prelims – UFC Fight Night: Allen vs Duncan
@@ -3231,17 +3242,17 @@ DESCRIPTION:UFC · Prelims · fight card TBD\n📍 Meta APEX\, Las Vegas\,
  United States\n🕒 22:00–Sun 01:00 Ireland\nBout times are estimates an
  d may shift as the card progresses.\nThis provisional entry updates automa
  tically as UFC finalises the card.\n\nSource: https://www.ufc.com/event/uf
- c-fight-night-october-10-2026\n\nFull odds log: https://StaircaseWit.githu
- b.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:2
- 8.027Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ c-fight-night-october-10-2026\n\nFull odds log: https://staircasewit.githu
+ b.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:1
+ 5.840Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · fight card TB
  D<br>📍 Meta APEX\, Las Vegas\, United States<br>🕒 22:00–Sun 01:00 
  Ireland<br>Bout times are estimates and may shift as the card progresses.<
  br>This provisional entry updates automatically as UFC finalises the card.
  </p><p>Source: <a href="https://www.ufc.com/event/ufc-fight-night-october-
- 10-2026">UFC.com</a><br>Full odds log: <a href="https://StaircaseWit.githu
+ 10-2026">UFC.com</a><br>Full odds log: <a href="https://staircasewit.githu
  b.io/mmacalendar/odds-history.html">view history</a><br>Calendar updated: 
- 2026-09-12T17:16:28.027Z<br>Event status: Scheduled · verified 12 Sep 202
+ 2026-09-12T17:29:15.840Z<br>Event status: Scheduled · verified 12 Sep 202
  6</p></body></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
@@ -3251,7 +3262,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-10-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261011T000000Z
 DTEND:20261011T030000Z
 SUMMARY:Main Card – UFC Fight Night: Allen vs Duncan
@@ -3264,9 +3275,9 @@ DESCRIPTION:UFC · Main Card · 1 bout announced · placement TBD\n📍 Met
  0) 🇪🇳 - 185lbs/84kg Middleweight · Est. Sat 22:00 Ireland\n    Alle
  n: 27-7-0 | 30yo | Odds unavailable\n    Duncan: 15-2-0 | 31yo | Odds unav
  ailable\n    Odds history: not checked yet\n\nSource: https://www.ufc.com/
- event/ufc-fight-night-october-10-2026\n\nFull odds log: https://StaircaseW
+ event/ufc-fight-night-october-10-2026\n\nFull odds log: https://staircasew
  it.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12
- T17:16:28.027Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ T17:29:15.840Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 1 bout anno
  unced · placement TBD<br>📍 Meta APEX\, Las Vegas\, United States<br>
  🕒 01:00–04:00 Ireland<br>Bout times are estimates and may shift as th
@@ -3278,8 +3289,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 1 bout anno
  0yo | Odds unavailable<br>Duncan: 15-2-0 | 31yo | Odds unavailable<br>Odds
   history: not checked yet</p><p>Source: <a href="https://www.ufc.com/event
  /ufc-fight-night-october-10-2026">UFC.com</a><br>Full odds log: <a href="h
- ttps://StaircaseWit.github.io/mmacalendar/odds-history.html">view history<
- /a><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>Event status: Schedul
+ ttps://staircasewit.github.io/mmacalendar/odds-history.html">view history<
+ /a><br>Calendar updated: 2026-09-12T17:29:15.840Z<br>Event status: Schedul
  ed · verified 12 Sep 2026</p></body></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
@@ -3289,7 +3300,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261017T210000Z
 DTEND:20261018T000000Z
 SUMMARY:Prelims – UFC Fight Night: Buckley vs Malott
@@ -3297,17 +3308,17 @@ DESCRIPTION:UFC · Prelims · fight card TBD\n📍 Rogers Place\, Edmonton\
  , Canada\n🕒 22:00–Sun 01:00 Ireland\nBout times are estimates and may
   shift as the card progresses.\nThis provisional entry updates automatical
  ly as UFC finalises the card.\n\nSource: https://www.ufc.com/event/ufc-fig
- ht-night-october-17-2026\n\nFull odds log: https://StaircaseWit.github.io/
- mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.027
+ ht-night-october-17-2026\n\nFull odds log: https://staircasewit.github.io/
+ mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.840
  Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · fight card TB
  D<br>📍 Rogers Place\, Edmonton\, Canada<br>🕒 22:00–Sun 01:00 Irela
  nd<br>Bout times are estimates and may shift as the card progresses.<br>Th
  is provisional entry updates automatically as UFC finalises the card.</p><
  p>Source: <a href="https://www.ufc.com/event/ufc-fight-night-october-17-20
- 26">UFC.com</a><br>Full odds log: <a href="https://StaircaseWit.github.io/
+ 26">UFC.com</a><br>Full odds log: <a href="https://staircasewit.github.io/
  mmacalendar/odds-history.html">view history</a><br>Calendar updated: 2026-
- 09-12T17:16:28.027Z<br>Event status: Scheduled · verified 12 Sep 2026</p>
+ 09-12T17:29:15.840Z<br>Event status: Scheduled · verified 12 Sep 2026</p>
  </body></html>
 LOCATION:Rogers Place\, Edmonton\, Canada
 URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
@@ -3317,7 +3328,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261018T000000Z
 DTEND:20261018T030000Z
 SUMMARY:Main Card – UFC Fight Night: Buckley vs Malott
@@ -3378,9 +3389,9 @@ DESCRIPTION:UFC · Main Card · 12 bouts announced · placement TBD\n📍 R
  𝗮 🇺🇸 - 185lbs/84kg Middleweight · Est. Sat 22:00 Ireland\n    Le
  blanc: 10-3-0 | 34yo | Odds unavailable\n    Urbina: 8-5-0 | 30yo | Odds u
  navailable\n    Odds history: not checked yet\n\nSource: https://www.ufc.c
- om/event/ufc-fight-night-october-17-2026\n\nFull odds log: https://Stairca
- seWit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09
- -12T17:16:28.027Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ om/event/ufc-fight-night-october-17-2026\n\nFull odds log: https://stairca
+ sewit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09
+ -12T17:29:15.840Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 12 bouts an
  nounced · placement TBD<br>📍 Rogers Place\, Edmonton\, Canada<br>🕒 
  01:00–04:00 Ireland<br>Bout times are estimates and may shift as the car
@@ -3442,9 +3453,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 12 bouts an
  rong><br>Leblanc: 10-3-0 | 34yo | Odds unavailable<br>Urbina: 8-5-0 | 30yo
   | Odds unavailable<br>Odds history: not checked yet</p><p>Source: <a href
  ="https://www.ufc.com/event/ufc-fight-night-october-17-2026">UFC.com</a><b
- r>Full odds log: <a href="https://StaircaseWit.github.io/mmacalendar/odds-
- history.html">view history</a><br>Calendar updated: 2026-09-12T17:16:28.02
- 7Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body></html>
+ r>Full odds log: <a href="https://staircasewit.github.io/mmacalendar/odds-
+ history.html">view history</a><br>Calendar updated: 2026-09-12T17:29:15.84
+ 0Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:Rogers Place\, Edmonton\, Canada
 URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
 CATEGORIES:UFC,Main Card
@@ -3453,7 +3464,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-early-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261024T140000Z
 DTEND:20261024T160000Z
 SUMMARY:Early Prelims – UFC 333: Volkanovski vs Evloev
@@ -3461,17 +3472,17 @@ DESCRIPTION:UFC · Early Prelims · fight card TBD\n📍 Etihad Arena\, Yas
   Island/Yas West\, United Arab Emirates\n🕒 15:00–17:00 Ireland\nBout 
  times are estimates and may shift as the card progresses.\nThis provisiona
  l entry updates automatically as UFC finalises the card.\n\nSource: https:
- //www.ufc.com/event/ufc-333\n\nFull odds log: https://StaircaseWit.github.
- io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.
- 027Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ //www.ufc.com/event/ufc-333\n\nFull odds log: https://staircasewit.github.
+ io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.
+ 840Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · fight c
  ard TBD<br>📍 Etihad Arena\, Yas Island/Yas West\, United Arab Emirates<
  br>🕒 15:00–17:00 Ireland<br>Bout times are estimates and may shift as
   the card progresses.<br>This provisional entry updates automatically as U
  FC finalises the card.</p><p>Source: <a href="https://www.ufc.com/event/uf
- c-333">UFC.com</a><br>Full odds log: <a href="https://StaircaseWit.github.
+ c-333">UFC.com</a><br>Full odds log: <a href="https://staircasewit.github.
  io/mmacalendar/odds-history.html">view history</a><br>Calendar updated: 20
- 26-09-12T17:16:28.027Z<br>Event status: Scheduled · verified 12 Sep 2026<
+ 26-09-12T17:29:15.840Z<br>Event status: Scheduled · verified 12 Sep 2026<
  /p></body></html>
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
@@ -3481,7 +3492,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261024T160000Z
 DTEND:20261024T180000Z
 SUMMARY:Prelims – UFC 333: Volkanovski vs Evloev
@@ -3489,17 +3500,17 @@ DESCRIPTION:UFC · Prelims · fight card TBD\n📍 Etihad Arena\, Yas Islan
  d/Yas West\, United Arab Emirates\n🕒 17:00–19:00 Ireland\nBout times 
  are estimates and may shift as the card progresses.\nThis provisional entr
  y updates automatically as UFC finalises the card.\n\nSource: https://www.
- ufc.com/event/ufc-333\n\nFull odds log: https://StaircaseWit.github.io/mma
- calendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n
+ ufc.com/event/ufc-333\n\nFull odds log: https://staircasewit.github.io/mma
+ calendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n
  \nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · fight card TB
  D<br>📍 Etihad Arena\, Yas Island/Yas West\, United Arab Emirates<br>
  🕒 17:00–19:00 Ireland<br>Bout times are estimates and may shift as th
  e card progresses.<br>This provisional entry updates automatically as UFC 
  finalises the card.</p><p>Source: <a href="https://www.ufc.com/event/ufc-3
- 33">UFC.com</a><br>Full odds log: <a href="https://StaircaseWit.github.io/
+ 33">UFC.com</a><br>Full odds log: <a href="https://staircasewit.github.io/
  mmacalendar/odds-history.html">view history</a><br>Calendar updated: 2026-
- 09-12T17:16:28.027Z<br>Event status: Scheduled · verified 12 Sep 2026</p>
+ 09-12T17:29:15.840Z<br>Event status: Scheduled · verified 12 Sep 2026</p>
  </body></html>
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
@@ -3509,7 +3520,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261024T180000Z
 DTEND:20261024T210000Z
 SUMMARY:Main Card – UFC 333: Volkanovski vs Evloev
@@ -3558,9 +3569,9 @@ DESCRIPTION:UFC · Main Card · 9 bouts announced · placement TBD\n📍 Et
  𝗹𝗼 𝗔𝗹𝗶𝗲𝘃 🇹🇯 - 155lbs/70kg Lightweight · Est. 1
  5:00 Ireland\n    Dawson: 24-3-1 | 32yo | Odds unavailable\n    Aliev: 12-
  0-0 | 25yo | Odds unavailable\n    Odds history: not checked yet\n\nSource
- : https://www.ufc.com/event/ufc-333\n\nFull odds log: https://StaircaseWit
+ : https://www.ufc.com/event/ufc-333\n\nFull odds log: https://staircasewit
  .github.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T1
- 7:16:28.027Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ 7:29:15.840Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 9 bouts ann
  ounced · placement TBD<br>📍 Etihad Arena\, Yas Island/Yas West\, Unite
  d Arab Emirates<br>🕒 19:00–22:00 Ireland<br>Bout times are estimates 
@@ -3609,8 +3620,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 9 bouts ann
  5:00 Ireland</strong><br>Dawson: 24-3-1 | 32yo | Odds unavailable<br>Aliev
  : 12-0-0 | 25yo | Odds unavailable<br>Odds history: not checked yet</p><p>
  Source: <a href="https://www.ufc.com/event/ufc-333">UFC.com</a><br>Full od
- ds log: <a href="https://StaircaseWit.github.io/mmacalendar/odds-history.h
- tml">view history</a><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>Eve
+ ds log: <a href="https://staircasewit.github.io/mmacalendar/odds-history.h
+ tml">view history</a><br>Calendar updated: 2026-09-12T17:29:15.840Z<br>Eve
  nt status: Scheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
@@ -3620,7 +3631,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-31-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261031T210000Z
 DTEND:20261101T000000Z
 SUMMARY:Prelims – UFC Fight Night: TBD vs TBD
@@ -3628,17 +3639,17 @@ DESCRIPTION:UFC · Prelims · fight card TBD\n📍 Meta APEX\, Las Vegas\,
  United States\n🕒 21:00–Sun 00:00 Ireland\nBout times are estimates an
  d may shift as the card progresses.\nThis provisional entry updates automa
  tically as UFC finalises the card.\n\nSource: https://www.ufc.com/event/uf
- c-fight-night-october-31-2026\n\nFull odds log: https://StaircaseWit.githu
- b.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:2
- 8.027Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ c-fight-night-october-31-2026\n\nFull odds log: https://staircasewit.githu
+ b.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:1
+ 5.840Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · fight card TB
  D<br>📍 Meta APEX\, Las Vegas\, United States<br>🕒 21:00–Sun 00:00 
  Ireland<br>Bout times are estimates and may shift as the card progresses.<
  br>This provisional entry updates automatically as UFC finalises the card.
  </p><p>Source: <a href="https://www.ufc.com/event/ufc-fight-night-october-
- 31-2026">UFC.com</a><br>Full odds log: <a href="https://StaircaseWit.githu
+ 31-2026">UFC.com</a><br>Full odds log: <a href="https://staircasewit.githu
  b.io/mmacalendar/odds-history.html">view history</a><br>Calendar updated: 
- 2026-09-12T17:16:28.027Z<br>Event status: Scheduled · verified 12 Sep 202
+ 2026-09-12T17:29:15.840Z<br>Event status: Scheduled · verified 12 Sep 202
  6</p></body></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
@@ -3648,7 +3659,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261101T000000Z
 DTEND:20261101T030000Z
 SUMMARY:Main Card – UFC Fight Night: TBD vs TBD
@@ -3665,8 +3676,8 @@ DESCRIPTION:UFC · Main Card · 2 bouts announced · placement TBD\n📍 Me
  s/84kg Middleweight · Est. Sat 21:00 Ireland\n    Klein: 6-3-0 | 31yo | O
  dds unavailable\n    Kropschot: 1-0-0 | 31yo | Odds unavailable\n    Odds 
  history: not checked yet\n\nSource: https://www.ufc.com/event/ufc-fight-ni
- ght-october-31-2026\n\nFull odds log: https://StaircaseWit.github.io/mmaca
- lendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\n
+ ght-october-31-2026\n\nFull odds log: https://staircasewit.github.io/mmaca
+ lendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\n
  Event status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 2 bouts ann
  ounced · placement TBD<br>📍 Meta APEX\, Las Vegas\, United States<br>
@@ -3683,8 +3694,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 2 bouts ann
  | Odds unavailable<br>Kropschot: 1-0-0 | 31yo | Odds unavailable<br>Odds h
  istory: not checked yet</p><p>Source: <a href="https://www.ufc.com/event/u
  fc-fight-night-october-31-2026">UFC.com</a><br>Full odds log: <a href="htt
- ps://StaircaseWit.github.io/mmacalendar/odds-history.html">view history</a
- ><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>Event status: Scheduled
+ ps://staircasewit.github.io/mmacalendar/odds-history.html">view history</a
+ ><br>Calendar updated: 2026-09-12T17:29:15.840Z<br>Event status: Scheduled
   · verified 12 Sep 2026</p></body></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
@@ -3694,7 +3705,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-november-07-2026-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261107T200000Z
 DTEND:20261107T220000Z
 SUMMARY:Prelims – UFC Fight Night: Bonfim vs Brady
@@ -3702,17 +3713,17 @@ DESCRIPTION:UFC · Prelims · fight card TBD\n📍 Meta APEX\, Las Vegas\,
  United States\n🕒 20:00–22:00 Ireland\nBout times are estimates and ma
  y shift as the card progresses.\nThis provisional entry updates automatica
  lly as UFC finalises the card.\n\nSource: https://www.ufc.com/event/ufc-fi
- ght-night-november-07-2026\n\nFull odds log: https://StaircaseWit.github.i
- o/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.0
- 27Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ ght-night-november-07-2026\n\nFull odds log: https://staircasewit.github.i
+ o/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.8
+ 40Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · fight card TB
  D<br>📍 Meta APEX\, Las Vegas\, United States<br>🕒 20:00–22:00 Irel
  and<br>Bout times are estimates and may shift as the card progresses.<br>T
  his provisional entry updates automatically as UFC finalises the card.</p>
  <p>Source: <a href="https://www.ufc.com/event/ufc-fight-night-november-07-
- 2026">UFC.com</a><br>Full odds log: <a href="https://StaircaseWit.github.i
+ 2026">UFC.com</a><br>Full odds log: <a href="https://staircasewit.github.i
  o/mmacalendar/odds-history.html">view history</a><br>Calendar updated: 202
- 6-09-12T17:16:28.027Z<br>Event status: Scheduled · verified 12 Sep 2026</
+ 6-09-12T17:29:15.840Z<br>Event status: Scheduled · verified 12 Sep 2026</
  p></body></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
@@ -3722,7 +3733,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261107T220000Z
 DTEND:20261108T010000Z
 SUMMARY:Main Card – UFC Fight Night: Bonfim vs Brady
@@ -3733,9 +3744,9 @@ DESCRIPTION:UFC · Main Card · 1 bout\n📍 Meta APEX\, Las Vegas\, United
  𝘆 (#6) 🇺🇸 - 170lbs/77kg Welterweight · Est. 22:00 Ireland\n    B
  onfim: 20-1-0 | 29yo | Odds unavailable\n    Brady: 19-2-0 | 33yo | Odds u
  navailable\n    Odds history: not checked yet\n\nSource: https://www.ufc.c
- om/event/ufc-fight-night-november-07-2026\n\nFull odds log: https://Stairc
- aseWit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-0
- 9-12T17:16:28.027Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+ om/event/ufc-fight-night-november-07-2026\n\nFull odds log: https://stairc
+ asewit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-0
+ 9-12T17:29:15.840Z\n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 1 bout<br>
  📍 Meta APEX\, Las Vegas\, United States<br>🕒 22:00–Sun 01:00 Irela
  nd<br>Bout times are estimates and may shift as the card progresses.</p><p
@@ -3745,8 +3756,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 1 bout<br>
  o | Odds unavailable<br>Brady: 19-2-0 | 33yo | Odds unavailable<br>Odds hi
  story: not checked yet</p><p>Source: <a href="https://www.ufc.com/event/uf
  c-fight-night-november-07-2026">UFC.com</a><br>Full odds log: <a href="htt
- ps://StaircaseWit.github.io/mmacalendar/odds-history.html">view history</a
- ><br>Calendar updated: 2026-09-12T17:16:28.027Z<br>Event status: Scheduled
+ ps://staircasewit.github.io/mmacalendar/odds-history.html">view history</a
+ ><br>Calendar updated: 2026-09-12T17:29:15.840Z<br>Event status: Scheduled
   · verified 12 Sep 2026</p></body></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
@@ -3756,7 +3767,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-early-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261114T220000Z
 DTEND:20261115T000000Z
 SUMMARY:Early Prelims – Polymarket UFC 334: TBD vs TBD
@@ -3764,17 +3775,17 @@ DESCRIPTION:UFC · Early Prelims · fight card TBD\n📍 Madison Square Gar
  den\, New York\, United States\n🕒 22:00–Sun 00:00 Ireland\nBout times
   are estimates and may shift as the card progresses.\nThis provisional ent
  ry updates automatically as UFC finalises the card.\n\nSource: https://www
- .ufc.com/event/ufc-334\n\nFull odds log: https://StaircaseWit.github.io/mm
- acalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\
+ .ufc.com/event/ufc-334\n\nFull odds log: https://staircasewit.github.io/mm
+ acalendar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\
  n\nEvent status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · fight c
  ard TBD<br>📍 Madison Square Garden\, New York\, United States<br>🕒 2
  2:00–Sun 00:00 Ireland<br>Bout times are estimates and may shift as the 
  card progresses.<br>This provisional entry updates automatically as UFC fi
  nalises the card.</p><p>Source: <a href="https://www.ufc.com/event/ufc-334
- ">UFC.com</a><br>Full odds log: <a href="https://StaircaseWit.github.io/mm
+ ">UFC.com</a><br>Full odds log: <a href="https://staircasewit.github.io/mm
  acalendar/odds-history.html">view history</a><br>Calendar updated: 2026-09
- -12T17:16:28.027Z<br>Event status: Scheduled · verified 12 Sep 2026</p></
+ -12T17:29:15.840Z<br>Event status: Scheduled · verified 12 Sep 2026</p></
  body></html>
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
@@ -3784,7 +3795,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261115T000000Z
 DTEND:20261115T020000Z
 SUMMARY:Prelims – Polymarket UFC 334: TBD vs TBD
@@ -3792,17 +3803,17 @@ DESCRIPTION:UFC · Prelims · fight card TBD\n📍 Madison Square Garden\,
  New York\, United States\n🕒 00:00–02:00 Ireland\nBout times are estim
  ates and may shift as the card progresses.\nThis provisional entry updates
   automatically as UFC finalises the card.\n\nSource: https://www.ufc.com/e
- vent/ufc-334\n\nFull odds log: https://StaircaseWit.github.io/mmacalendar/
- odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEvent s
+ vent/ufc-334\n\nFull odds log: https://staircasewit.github.io/mmacalendar/
+ odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEvent s
  tatus: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · fight card TB
  D<br>📍 Madison Square Garden\, New York\, United States<br>🕒 00:00
  –02:00 Ireland<br>Bout times are estimates and may shift as the card pro
  gresses.<br>This provisional entry updates automatically as UFC finalises 
  the card.</p><p>Source: <a href="https://www.ufc.com/event/ufc-334">UFC.co
- m</a><br>Full odds log: <a href="https://StaircaseWit.github.io/mmacalenda
- r/odds-history.html">view history</a><br>Calendar updated: 2026-09-12T17:1
- 6:28.027Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body></h
+ m</a><br>Full odds log: <a href="https://staircasewit.github.io/mmacalenda
+ r/odds-history.html">view history</a><br>Calendar updated: 2026-09-12T17:2
+ 9:15.840Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body></h
  tml>
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
@@ -3812,7 +3823,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261115T020000Z
 DTEND:20261115T050000Z
 SUMMARY:Main Card – Polymarket UFC 334: TBD vs TBD
@@ -3820,17 +3831,17 @@ DESCRIPTION:UFC · Main Card · fight card TBD\n📍 Madison Square Garden\
  , New York\, United States\n🕒 02:00–05:00 Ireland\nBout times are est
  imates and may shift as the card progresses.\nThis provisional entry updat
  es automatically as UFC finalises the card.\n\nSource: https://www.ufc.com
- /event/ufc-334\n\nFull odds log: https://StaircaseWit.github.io/mmacalenda
- r/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEvent
+ /event/ufc-334\n\nFull odds log: https://staircasewit.github.io/mmacalenda
+ r/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEvent
   status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · fight card 
  TBD<br>📍 Madison Square Garden\, New York\, United States<br>🕒 02:00
  –05:00 Ireland<br>Bout times are estimates and may shift as the card pro
  gresses.<br>This provisional entry updates automatically as UFC finalises 
  the card.</p><p>Source: <a href="https://www.ufc.com/event/ufc-334">UFC.co
- m</a><br>Full odds log: <a href="https://StaircaseWit.github.io/mmacalenda
- r/odds-history.html">view history</a><br>Calendar updated: 2026-09-12T17:1
- 6:28.027Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body></h
+ m</a><br>Full odds log: <a href="https://staircasewit.github.io/mmacalenda
+ r/odds-history.html">view history</a><br>Calendar updated: 2026-09-12T17:2
+ 9:15.840Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body></h
  tml>
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
@@ -3840,7 +3851,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-335-early-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261212T220000Z
 DTEND:20261213T000000Z
 SUMMARY:Early Prelims – UFC 335: TBD vs TBD
@@ -3848,17 +3859,17 @@ DESCRIPTION:UFC · Early Prelims · fight card TBD\n📍 T-Mobile Arena\, L
  as Vegas\, United States\n🕒 22:00–Sun 00:00 Ireland\nBout times are e
  stimates and may shift as the card progresses.\nThis provisional entry upd
  ates automatically as UFC finalises the card.\n\nSource: https://www.ufc.c
- om/event/ufc-335\n\nFull odds log: https://StaircaseWit.github.io/mmacalen
- dar/odds-history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEve
+ om/event/ufc-335\n\nFull odds log: https://staircasewit.github.io/mmacalen
+ dar/odds-history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEve
  nt status: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · fight c
  ard TBD<br>📍 T-Mobile Arena\, Las Vegas\, United States<br>🕒 22:00
  –Sun 00:00 Ireland<br>Bout times are estimates and may shift as the card
   progresses.<br>This provisional entry updates automatically as UFC finali
  ses the card.</p><p>Source: <a href="https://www.ufc.com/event/ufc-335">UF
- C.com</a><br>Full odds log: <a href="https://StaircaseWit.github.io/mmacal
+ C.com</a><br>Full odds log: <a href="https://staircasewit.github.io/mmacal
  endar/odds-history.html">view history</a><br>Calendar updated: 2026-09-12T
- 17:16:28.027Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body
+ 17:29:15.840Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body
  ></html>
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
@@ -3868,7 +3879,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-335-prelims@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261213T000000Z
 DTEND:20261213T020000Z
 SUMMARY:Prelims – UFC 335: TBD vs TBD
@@ -3876,16 +3887,16 @@ DESCRIPTION:UFC · Prelims · fight card TBD\n📍 T-Mobile Arena\, Las Veg
  as\, United States\n🕒 00:00–02:00 Ireland\nBout times are estimates a
  nd may shift as the card progresses.\nThis provisional entry updates autom
  atically as UFC finalises the card.\n\nSource: https://www.ufc.com/event/u
- fc-335\n\nFull odds log: https://StaircaseWit.github.io/mmacalendar/odds-h
- istory.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEvent status:
+ fc-335\n\nFull odds log: https://staircasewit.github.io/mmacalendar/odds-h
+ istory.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEvent status:
   Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · fight card TB
  D<br>📍 T-Mobile Arena\, Las Vegas\, United States<br>🕒 00:00–02:00
   Ireland<br>Bout times are estimates and may shift as the card progresses.
  <br>This provisional entry updates automatically as UFC finalises the card
  .</p><p>Source: <a href="https://www.ufc.com/event/ufc-335">UFC.com</a><br
- >Full odds log: <a href="https://StaircaseWit.github.io/mmacalendar/odds-h
- istory.html">view history</a><br>Calendar updated: 2026-09-12T17:16:28.027
+ >Full odds log: <a href="https://staircasewit.github.io/mmacalendar/odds-h
+ istory.html">view history</a><br>Calendar updated: 2026-09-12T17:29:15.840
  Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
@@ -3895,7 +3906,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-335-main-card@ufc-detailed-calendar
-DTSTAMP:20260912T171628Z
+DTSTAMP:20260912T172915Z
 DTSTART:20261213T020000Z
 DTEND:20261213T050000Z
 SUMMARY:Main Card – UFC 335: TBD vs TBD
@@ -3903,17 +3914,17 @@ DESCRIPTION:UFC · Main Card · fight card TBD\n📍 T-Mobile Arena\, Las V
  egas\, United States\n🕒 02:00–05:00 Ireland\nBout times are estimates
   and may shift as the card progresses.\nThis provisional entry updates aut
  omatically as UFC finalises the card.\n\nSource: https://www.ufc.com/event
- /ufc-335\n\nFull odds log: https://StaircaseWit.github.io/mmacalendar/odds
- -history.html\n\nCalendar updated: 2026-09-12T17:16:28.027Z\n\nEvent statu
+ /ufc-335\n\nFull odds log: https://staircasewit.github.io/mmacalendar/odds
+ -history.html\n\nCalendar updated: 2026-09-12T17:29:15.840Z\n\nEvent statu
  s: Scheduled · verified 12 Sep 2026
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · fight card 
  TBD<br>📍 T-Mobile Arena\, Las Vegas\, United States<br>🕒 02:00–05:
  00 Ireland<br>Bout times are estimates and may shift as the card progresse
  s.<br>This provisional entry updates automatically as UFC finalises the ca
  rd.</p><p>Source: <a href="https://www.ufc.com/event/ufc-335">UFC.com</a><
- br>Full odds log: <a href="https://StaircaseWit.github.io/mmacalendar/odds
- -history.html">view history</a><br>Calendar updated: 2026-09-12T17:16:28.0
- 27Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body></html>
+ br>Full odds log: <a href="https://staircasewit.github.io/mmacalendar/odds
+ -history.html">view history</a><br>Calendar updated: 2026-09-12T17:29:15.8
+ 40Z<br>Event status: Scheduled · verified 12 Sep 2026</p></body></html>
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
 CATEGORIES:UFC,Main Card

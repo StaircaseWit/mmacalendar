@@ -4,17 +4,18 @@ import { discoverUpcomingEventUrls, scrapeEvent } from "./ufc.js";
 import { mapWithConcurrency } from "./utils.js";
 import { attachStoredOdds, oddsRefreshIsDue, updateOddsStore } from "./odds.js";
 import { enrichFighterProfiles } from "./profiles.js";
-import { reconcileEvents } from "./events.js";
+import { applyCancellationOverrides, reconcileEvents } from "./events.js";
 import { readJson, writeJson } from "./state.js";
 import { renderCalendar, renderCombinedCalendar, renderEstimatedFightCalendar } from "./ics.js";
 import { renderOddsPage } from "./odds-page.js";
-import type { EventStore, FighterStore, OddsStore } from "./types.js";
+import type { CancelledBout, EventStore, FighterStore, OddsStore } from "./types.js";
 
 const root = process.cwd();
 const outputDirectory = resolve(root, "docs");
 const fighterStorePath = resolve(root, "data/fighters.json");
 const oddsStorePath = resolve(root, "data/odds-history.json");
 const eventStorePath = resolve(root, "data/events.json");
+const cancellationOverridesPath = resolve(root, "data/cancellations.json");
 const now = new Date();
 
 const configuredUrls = (process.env.UFC_EVENT_URLS ?? "").split(",").map((value) => value.trim()).filter(Boolean);
@@ -32,6 +33,9 @@ const scrapedEvents = (await mapWithConcurrency(eventUrls, 4, scrapeEvent))
   .filter((event) => event.title && event.sections.some((section) => section.start))
   .sort((left, right) => (left.heroStart?.valueOf() ?? Infinity) - (right.heroStart?.valueOf() ?? Infinity));
 if (!scrapedEvents.length) throw new Error("No usable UFC events were found; the existing published calendar was not overwritten.");
+
+const cancellationOverrides = await readJson<Record<string, CancelledBout[]>>(cancellationOverridesPath, {});
+applyCancellationOverrides(scrapedEvents, cancellationOverrides);
 
 const eventStore = await readJson<EventStore>(eventStorePath, { events: {} });
 const events = reconcileEvents(eventStore, scrapedEvents, now, { trackMissing: configuredUrls.length === 0 });
