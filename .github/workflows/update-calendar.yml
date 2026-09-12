@@ -10,6 +10,7 @@ on:
       - "package.json"
       - "pnpm-lock.yaml"
       - "tsconfig.json"
+      - "docs/index.html"
       - ".github/workflows/update-calendar.yml"
   schedule:
     - cron: "17 */6 * * *"
