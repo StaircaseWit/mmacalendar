@@ -72,6 +72,23 @@ export function formatCheckDate(value: string): string {
   return `${date.getUTCDate()} ${months[date.getUTCMonth()]} ${date.getUTCFullYear()}`;
 }
 
+export function formatShortCheckDate(value: string): string {
+  const date = new Date(value);
+  if (!dateIsValid(date)) return value;
+  const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  return `${date.getUTCDate()} ${months[date.getUTCMonth()]}`;
+}
+
+export function unicodeBold(value: string): string {
+  return [...value].map((character) => {
+    const code = character.codePointAt(0)!;
+    if (code >= 65 && code <= 90) return String.fromCodePoint(0x1d5d4 + code - 65);
+    if (code >= 97 && code <= 122) return String.fromCodePoint(0x1d5ee + code - 97);
+    if (code >= 48 && code <= 57) return String.fromCodePoint(0x1d7ec + code - 48);
+    return character;
+  }).join("");
+}
+
 export function ageOnDate(birthDate: string | null | undefined, onDate: Date): number | null {
   if (!birthDate || !dateIsValid(onDate)) return null;
   const birth = new Date(`${birthDate}T00:00:00Z`);

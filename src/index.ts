@@ -20,11 +20,12 @@ const eventUrls = configuredUrls.length
   ? configuredUrls
   : await discoverUpcomingEventUrls({
       now,
-      pages: (process.env.UFC_EVENT_PAGES ?? "0").split(",").map(Number).filter(Number.isFinite),
-      maxEvents: Number(process.env.MAX_EVENTS ?? 12),
+      pages: (process.env.UFC_EVENT_PAGES ?? "0,1,2").split(",").map(Number).filter(Number.isFinite),
+      maxEvents: Number(process.env.MAX_EVENTS ?? 50),
+      pastDays: Number(process.env.PAST_DAYS ?? 120),
     });
 
-console.log(`Found ${eventUrls.length} current/upcoming UFC event(s).`);
+console.log(`Found ${eventUrls.length} recent/upcoming UFC event(s).`);
 const events = (await mapWithConcurrency(eventUrls, 4, scrapeEvent))
   .filter((event) => event.title && event.sections.some((section) => section.start))
   .sort((left, right) => (left.heroStart?.valueOf() ?? Infinity) - (right.heroStart?.valueOf() ?? Infinity));
@@ -49,6 +50,8 @@ await Promise.all([
   writeFile(resolve(outputDirectory, "ufc.ics"), renderCalendar(events, {
     generatedAt: now,
     publicBaseUrl: process.env.PUBLIC_BASE_URL ?? "",
+    displayTimeZone: process.env.DISPLAY_TIME_ZONE ?? "Europe/Dublin",
+    displayTimeZoneLabel: process.env.DISPLAY_TIME_ZONE_LABEL ?? "Ireland",
   })),
   writeFile(resolve(outputDirectory, "odds-history.html"), renderOddsPage(oddsStore)),
 ]);

@@ -1,8 +1,8 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { parseAthletePage, parseEventPage } from "../src/ufc.js";
+import { parseAthletePage, parseEventPage, parseEventsListing } from "../src/ufc.js";
 import { renderCalendar } from "../src/ics.js";
-import { ageOnDate, decimalOdds, describeWeightClass, flagEmoji, shortFighterName } from "../src/utils.js";
+import { ageOnDate, decimalOdds, describeWeightClass, flagEmoji, shortFighterName, unicodeBold } from "../src/utils.js";
 import { oddsRefreshIsDue, updateOddsStore } from "../src/odds.js";
 import type { OddsStore } from "../src/types.js";
 
@@ -47,6 +47,14 @@ test("formats weight and country fields", () => {
   assert.equal(decimalOdds("+325"), "4.25");
   assert.equal(ageOnDate("1996-12-13", new Date("2026-09-12T21:00:00Z")), 29);
   assert.equal(shortFighterName({ name: "Raul Rosas Jr." }), "Rosas");
+  assert.equal(unicodeBold("Jean Silva"), "𝗝𝗲𝗮𝗻 𝗦𝗶𝗹𝘃𝗮");
+});
+
+test("keeps a bounded window of historical events", () => {
+  const listing = `<div class="c-card-event--result"><div class="c-card-event--result__date" data-main-card-timestamp="1789156800"></div><div class="c-card-event--result__headline"><a href="/event/recent">Recent</a></div></div>
+  <div class="c-card-event--result"><div class="c-card-event--result__date" data-main-card-timestamp="1777944000"></div><div class="c-card-event--result__headline"><a href="/event/too-old">Old</a></div></div>`;
+  const events = parseEventsListing(listing, new Date("2026-09-12T12:00:00Z"), 180, 120);
+  assert.deepEqual(events.map(({ url }) => url), ["https://www.ufc.com/event/recent"]);
 });
 
 test("renders UTC calendar data so calendar clients localise it", () => {
@@ -54,16 +62,22 @@ test("renders UTC calendar data so calendar clients localise it", () => {
   const fight = event.sections[0].fights[0];
   Object.assign(fight.red, { familyName: "Silva", record: "17-3-0", birthDate: "1996-12-13", odds: "-425", oddsHistory: [] });
   Object.assign(fight.blue, { familyName: "Delgado", record: "10-1-0", birthDate: "1998-11-17", odds: "+325", oddsHistory: [] });
-  fight.oddsHistory = [];
+  fight.oddsHistory = [{
+    checkedAt: "2026-09-12T12:00:00Z",
+    odds: { "jean silva": "-425", "jose miguel delgado": "+325" },
+  }];
   const output = renderCalendar([event], { generatedAt: new Date("2026-09-12T12:00:00Z") });
   const unfolded = output.replace(/\r\n[ \t]/g, "");
   assert.match(unfolded, /DTSTART:20260912T180000Z/);
   assert.match(unfolded, /SUMMARY:Prelims/);
-  assert.match(unfolded, /🥊 Jean Silva/);
+  assert.match(unfolded, /UFC · Prelims · 1 bout/);
+  assert.match(unfolded, /🥊 1\. 𝗝𝗲𝗮𝗻 𝗦𝗶𝗹𝘃𝗮/);
   assert.match(unfolded, /145lbs\/66kg Featherweight/);
-  assert.match(unfolded, /Silva: 17-3-0 \| Odds -425 \(1.24\) \| Age 29/);
-  assert.match(unfolded, /Delgado: 10-1-0 \| Odds \+325 \(4.25\) \| Age 27/);
-  assert.match(unfolded, /X-ALT-DESC;FMTTYPE=text\/html:<html><body><p><strong>🥊 Jean Silva/);
+  assert.match(unfolded, /Est\. 19:00 Ireland/);
+  assert.match(unfolded, /Silva: 17-3-0 \| 29yo \| Odds -425 \(1.24\)/);
+  assert.match(unfolded, /Delgado: 10-1-0 \| 27yo \| Odds \+325 \(4.25\)/);
+  assert.match(unfolded, /12 Sep: Silva -425 \(1.24\) \| Delgado \+325 \(4.25\)/);
+  assert.match(unfolded, /X-ALT-DESC;FMTTYPE=text\/html:<html><body><p>UFC/);
 });
 
 test("odds are checked weekly and unchanged values do not inflate history", () => {

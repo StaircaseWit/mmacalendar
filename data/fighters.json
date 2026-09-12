@@ -588,23 +588,1979 @@
       "record": "13-3-0",
       "checkedAt": "2026-09-12T09:16:28.445Z"
     },
-    "https://www.ufc.com/athlete/valesca-machado": {
-      "birthDate": "1996-05-06",
-      "familyName": "Machado",
-      "record": "0-1-0",
-      "checkedAt": "2026-09-12T10:38:29.342Z"
+    "https://www.ufc.com/athlete/tuco-tokkos": {
+      "birthDate": "1990-06-30",
+      "familyName": "Tokkos",
+      "record": "11-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
     },
-    "https://www.ufc.com/athlete/edmen-shahbazyan": {
-      "birthDate": "1997-11-20",
+    "https://www.ufc.com/athlete/artur-minev": {
+      "birthDate": "2003-09-27",
+      "familyName": "Minev",
+      "record": "7-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ivan-erslan": {
+      "birthDate": "1991-11-15",
+      "familyName": "Erslan",
+      "record": "15-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ketlen-vieira": {
+      "birthDate": "1991-08-26",
+      "familyName": "Vieira",
+      "record": "16-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/andre-petroski": {
+      "birthDate": "1991-06-12",
+      "familyName": "Petroski",
+      "record": "13-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/alice-ardelean": {
+      "birthDate": "1992-04-19",
+      "familyName": "Ardelean",
+      "record": "12-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/polyana-viana": {
+      "birthDate": "1992-06-14",
+      "familyName": "Viana",
+      "record": "13-9-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jacqueline-cavalcanti": {
+      "birthDate": "1997-08-29",
+      "familyName": "Cavalcanti",
+      "record": "10-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/dzhonatan-pirs-1": {
+      "birthDate": "1994-05-16",
+      "familyName": "Brundage",
+      "record": "12-9-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/lyudovit-klayn-1": {
+      "birthDate": "1988-12-10",
+      "familyName": "Barez",
+      "record": "17-8-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/luis-gurule": {
+      "birthDate": "1993-11-16",
+      "familyName": "Gurule",
+      "record": "11-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/arnold-allen": {
+      "birthDate": "1994-01-22",
+      "familyName": "Allen",
+      "record": "21-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/shauna-bannon": {
+      "birthDate": "1993-10-23",
+      "familyName": "Bannon",
+      "record": "7-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/nicolle-caliari": {
+      "birthDate": "1996-11-04",
+      "familyName": "Caliari",
+      "record": "9-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/daniel-santos": {
+      "birthDate": "1995-03-12",
+      "familyName": "Santos",
+      "record": "14-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/melquizael-costa": {
+      "birthDate": "1996-09-14",
+      "familyName": "Costa",
+      "record": "26-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/malcolm-wellmaker": {
+      "birthDate": "1994-06-04",
+      "familyName": "Wellmaker",
+      "record": "10-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/juan-diaz": {
+      "birthDate": "1998-06-03",
+      "familyName": "Diaz",
+      "record": "16-1-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/modestas-bukauskas": {
+      "birthDate": "1994-02-10",
+      "familyName": "Bukauskas",
+      "record": "21-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/timothy-cuamba": {
+      "birthDate": "1999-02-08",
+      "familyName": "Cuamba",
+      "record": "10-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/nikolay-veretennikov": {
+      "birthDate": "1989-12-22",
+      "familyName": "Veretennikov",
+      "record": "14-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/yi-sak-lee": {
+      "birthDate": "2000-01-01",
+      "familyName": "Lee",
+      "record": "8-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/luis-felipe-dias": {
+      "birthDate": "1995-01-17",
+      "familyName": "Felipe Dias",
+      "record": "18-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ding-meng": {
+      "birthDate": "1994-09-27",
+      "familyName": "Meng",
+      "record": "35-11-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jose-henrique": {
+      "birthDate": "2002-05-23",
+      "familyName": "Souza",
+      "record": "9-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/cody-haddon": {
+      "birthDate": "1998-09-08",
+      "familyName": "Haddon",
+      "record": "9-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/rei-tsuruya": {
+      "birthDate": "2002-06-22",
+      "familyName": "Tsuruya",
+      "record": "12-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/angela-hill": {
+      "birthDate": "1985-01-12",
+      "familyName": "Hill",
+      "record": "19-16-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/aoriqileng": {
+      "birthDate": "1993-06-25",
+      "familyName": "Aoriqileng",
+      "record": "26-14-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/xiong-jingnan": {
+      "birthDate": "1988-01-12",
+      "familyName": "Jingnan",
+      "record": "19-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/zhu-kangjie": {
+      "birthDate": "1996-01-16",
+      "familyName": "Kangjie",
+      "record": "21-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/loma-lookboonmee": {
+      "birthDate": "1996-01-18",
+      "familyName": "Lookboonmee",
+      "record": "10-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/rodrigo-vera": {
+      "birthDate": "1995-10-18",
+      "familyName": "Vera",
+      "record": "22-1-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jaqueline-amorim": {
+      "birthDate": "1995-06-24",
+      "familyName": "Amorim",
+      "record": "11-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/guram-kutateladze-1": {
+      "birthDate": "1998-08-16",
+      "familyName": "Mingyang",
+      "record": "19-8-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/sergei-pavlovich": {
+      "birthDate": "1992-05-13",
+      "familyName": "Pavlovich",
+      "record": "21-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/tallison-teixeira": {
+      "birthDate": "1999-12-07",
+      "familyName": "Teixeira",
+      "record": "9-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/kai-asakura": {
+      "birthDate": "1993-10-31",
+      "familyName": "Asakura",
+      "record": "23-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/cameron-smotherman": {
+      "birthDate": "1997-09-17",
+      "familyName": "Smotherman",
+      "record": "12-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jake-matthews": {
+      "birthDate": "1994-08-19",
+      "familyName": "Matthews",
+      "record": "23-8-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/carlston-harris": {
+      "birthDate": "1987-07-09",
+      "familyName": "Harris",
+      "record": "19-8-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/alex-perez": {
+      "birthDate": "1992-03-21",
+      "familyName": "Perez",
+      "record": "26-11-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/sumudaerji": {
+      "birthDate": "1996-01-20",
+      "familyName": "Mudaerji",
+      "record": "20-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/matt-schnell": {
+      "birthDate": "1990-01-15",
+      "familyName": "Schnell",
+      "record": "17-11-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/alessandro-costa": {
+      "birthDate": "1996-01-28",
+      "familyName": "Costa",
+      "record": "17-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/john-yannis": {
+      "birthDate": "1994-07-07",
+      "familyName": "Yannis",
+      "record": "10-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/bruno-silva": {
+      "birthDate": "1990-03-16",
+      "familyName": "Silva",
+      "record": "15-9-2",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/priscila-cachoeira": {
+      "birthDate": "1988-08-19",
+      "familyName": "Cachoeira",
+      "record": "13-9-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/chelsea-chandler": {
+      "birthDate": "1990-11-23",
+      "familyName": "Chandler",
+      "record": "7-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jordan-leavitt": {
+      "birthDate": "1995-06-02",
+      "familyName": "Leavitt",
+      "record": "13-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jeisla-chaves": {
+      "birthDate": "1997-02-02",
+      "familyName": "Chaves",
+      "record": "8-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/yuneisy-duben": {
+      "birthDate": "1996-07-08",
+      "familyName": "Duben",
+      "record": "6-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ariane-carnelossi": {
+      "birthDate": "1992-11-17",
+      "familyName": "Carnelossi",
+      "record": "15-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ketlen-souza": {
+      "birthDate": "1994-08-18",
+      "familyName": "Souza",
+      "record": "17-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/gabriel-bonfim": {
+      "birthDate": "1997-08-20",
+      "familyName": "Bonfim",
+      "record": "20-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/belal-muhammad": {
+      "birthDate": "1988-07-09",
+      "familyName": "Muhammad",
+      "record": "24-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/bryce-mitchell": {
+      "birthDate": "1994-10-04",
+      "familyName": "Mitchell",
+      "record": "19-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/fares-ziam": {
+      "birthDate": "1997-03-21",
+      "familyName": "Ziam",
+      "record": "18-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/tom-nolan": {
+      "birthDate": "2000-03-08",
+      "familyName": "Nolan",
+      "record": "11-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/santiago-luna": {
+      "birthDate": "2004-08-06",
+      "familyName": "Luna",
+      "record": "8-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/shiyunia-tafua": {
+      "birthDate": "1996-09-21",
+      "familyName": "Tafa",
+      "record": "7-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/alex-pereira": {
+      "birthDate": "1987-07-07",
+      "familyName": "Pereira",
+      "record": "13-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ilia-topuria": {
+      "birthDate": "1997-01-21",
+      "familyName": "Topuria",
+      "record": "17-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/justin-gaethje": {
+      "birthDate": "1988-11-14",
+      "familyName": "Gaethje",
+      "record": "28-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ciryl-gane": {
+      "birthDate": "1990-04-12",
+      "familyName": "Gane",
+      "record": "14-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/sean-omalley": {
+      "birthDate": "1994-10-24",
+      "familyName": "O'Malley",
+      "record": "20-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/aiemann-zahabi": {
+      "birthDate": "1987-11-19",
+      "familyName": "Zahabi",
+      "record": "14-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/josh-hokit": {
+      "birthDate": "1997-11-12",
+      "familyName": "Hokit",
+      "record": "10-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/derrick-lewis": {
+      "birthDate": "1985-02-07",
+      "familyName": "Lewis",
+      "record": "29-14-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/michael-chandler": {
+      "birthDate": "1986-04-24",
+      "familyName": "Chandler",
+      "record": "23-11-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/bo-nickal": {
+      "birthDate": "1996-01-14",
+      "familyName": "Nickal",
+      "record": "9-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/song-yadong": {
+      "birthDate": "1997-12-02",
+      "familyName": "Yadong",
+      "record": "24-9-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/kyle-daukaus": {
+      "birthDate": "1993-02-27",
+      "familyName": "Daukaus",
+      "record": "17-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/kevin-borjas": {
+      "birthDate": "1997-12-06",
+      "familyName": "Borjas",
+      "record": "11-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/diego-lopes": {
+      "birthDate": "1994-12-30",
+      "familyName": "Lopes",
+      "record": "28-8-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/andre-lima": {
+      "birthDate": "1999-02-04",
+      "familyName": "Lima",
+      "record": "12-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/steve-garcia": {
+      "birthDate": "1992-05-22",
+      "familyName": "Garcia",
+      "record": "19-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/bia-mesquita": {
+      "birthDate": "1991-04-07",
+      "familyName": "Mesquita",
+      "record": "8-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/melissa-mullins": {
+      "birthDate": "1991-07-23",
+      "familyName": "Mullins",
+      "record": "7-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/allan-nascimento": {
+      "birthDate": "1991-09-11",
+      "familyName": "Nascimento",
+      "record": "22-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/gaston-bolanos": {
+      "birthDate": "1992-09-14",
+      "familyName": "Bolanos",
+      "record": "9-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/mitch-raposo": {
+      "birthDate": "1998-10-16",
+      "familyName": "Raposo",
+      "record": "11-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/leon-shahbazyan": {
+      "birthDate": "1995-11-18",
       "familyName": "Shahbazyan",
-      "record": "16-6-0",
-      "checkedAt": "2026-09-12T10:38:29.342Z"
+      "record": "12-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
     },
-    "https://www.ufc.com/athlete/vanessa-demopoulos": {
-      "birthDate": "1988-09-22",
-      "familyName": "Demopoulos",
-      "record": "11-8-0",
-      "checkedAt": "2026-09-12T10:38:29.342Z"
+    "https://www.ufc.com/athlete/levan-chokheli": {
+      "birthDate": "1996-10-02",
+      "familyName": "Chokheli",
+      "record": "15-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/karol-rosa": {
+      "birthDate": "1994-12-30",
+      "familyName": "Rosa",
+      "record": "19-8-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/shane-collins": {
+      "birthDate": "2000-03-08",
+      "familyName": "Collins",
+      "record": "8-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/luana-santos": {
+      "birthDate": "2000-04-16",
+      "familyName": "Santos",
+      "record": "11-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/manel-kape": {
+      "birthDate": "1993-11-14",
+      "familyName": "Kape",
+      "record": "23-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/otari-tanzilovi": {
+      "birthDate": "1998-04-09",
+      "familyName": "Tanzilovi",
+      "record": "10-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/kyoji-horiguchi": {
+      "birthDate": "1990-10-12",
+      "familyName": "Horiguchi",
+      "record": "36-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/navajo-stirling": {
+      "birthDate": "1997-11-07",
+      "familyName": "Stirling",
+      "record": "11-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ion-cutelaba": {
+      "birthDate": "1993-12-14",
+      "familyName": "Cutelaba",
+      "record": "20-12-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/hyder-amil": {
+      "birthDate": "1990-05-28",
+      "familyName": "Amil",
+      "record": "11-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ches-skelli-0": {
+      "birthDate": "1997-12-17",
+      "familyName": "Rodriguez",
+      "record": "12-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/melsik-baghdasaryan": {
+      "birthDate": "1992-01-28",
+      "familyName": "Baghdasaryan",
+      "record": "8-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/murtazali-magomedov": {
+      "birthDate": "1999-08-08",
+      "familyName": "Magomedov",
+      "record": "11-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/vinicius-oliveira": {
+      "birthDate": "1995-11-30",
+      "familyName": "Oliveira",
+      "record": "24-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/brendan-allen": {
+      "birthDate": "1995-12-28",
+      "familyName": "Allen",
+      "record": "27-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/andre-fili": {
+      "birthDate": "1990-06-25",
+      "familyName": "Fili",
+      "record": "25-14-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/farman-hasanov": {
+      "birthDate": "1995-08-01",
+      "familyName": "Hasanov",
+      "record": "6-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/abdulrakhman-yakhyaev": {
+      "birthDate": "2001-01-03",
+      "familyName": "Yakhyaev",
+      "record": "10-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/julius-walker": {
+      "birthDate": "1999-07-16",
+      "familyName": "Walker",
+      "record": "7-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/nursulton-ruziboev": {
+      "birthDate": "1993-11-19",
+      "familyName": "Ruziboev",
+      "record": "37-10-2",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/kaan-ofli": {
+      "birthDate": "1993-06-19",
+      "familyName": "Ofli",
+      "record": "15-4-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/javier-reyes": {
+      "birthDate": "1993-10-13",
+      "familyName": "Reyes",
+      "record": "23-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/theodor-berggren": {
+      "birthDate": "2000-04-09",
+      "familyName": "Berggren",
+      "record": "8-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/daniil-donchenko": {
+      "birthDate": "2001-08-04",
+      "familyName": "Donchenko",
+      "record": "16-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/bekzat-almakhan": {
+      "birthDate": "1997-10-08",
+      "familyName": "Almakhan",
+      "record": "12-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jean-matsumoto": {
+      "birthDate": "1999-09-09",
+      "familyName": "Matsumoto",
+      "record": "18-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/tahir-abdullayev": {
+      "birthDate": "1997-02-02",
+      "familyName": "Abdullayev",
+      "record": "20-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jefferson-nascimento": {
+      "birthDate": "1998-11-19",
+      "familyName": "Nascimento",
+      "record": "13-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/rafael-fiziev": {
+      "birthDate": "1993-03-05",
+      "familyName": "Fiziev",
+      "record": "14-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/manuel-torres": {
+      "birthDate": "1995-03-25",
+      "familyName": "Torres",
+      "record": "17-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/shara-magomedov": {
+      "birthDate": "1994-05-16",
+      "familyName": "Magomedov",
+      "record": "17-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/michel-pereira": {
+      "birthDate": "1993-10-06",
+      "familyName": "Pereira",
+      "record": "32-15-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/nazim-sadykhov": {
+      "birthDate": "1994-05-16",
+      "familyName": "Sadykhov",
+      "record": "11-3-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/matheus-camilo": {
+      "birthDate": "2001-01-02",
+      "familyName": "Camilo",
+      "record": "11-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/asu-almabayev": {
+      "birthDate": "1994-01-25",
+      "familyName": "Almabayev",
+      "record": "24-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/charles-johnson": {
+      "birthDate": "1991-01-10",
+      "familyName": "Johnson",
+      "record": "20-9-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ikram-aliskerov": {
+      "birthDate": "1992-12-07",
+      "familyName": "Aliskerov",
+      "record": "18-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/michal-oleksiejczuk": {
+      "birthDate": "1995-02-22",
+      "familyName": "Oleksiejczuk",
+      "record": "22-10-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/abus-magomedov": {
+      "birthDate": "1990-09-02",
+      "familyName": "Magomedov",
+      "record": "29-7-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/tracy-cortez": {
+      "birthDate": "1993-12-10",
+      "familyName": "Cortez",
+      "record": "12-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/cesar-almeida": {
+      "birthDate": "1988-03-28",
+      "familyName": "Almeida",
+      "record": "7-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/john-garza": {
+      "birthDate": "2002-10-30",
+      "familyName": "Garza",
+      "record": "6-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/farid-basharat": {
+      "birthDate": "1997-08-02",
+      "familyName": "Basharat",
+      "record": "16-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/zachary-reese": {
+      "birthDate": "1994-03-24",
+      "familyName": "Reese",
+      "record": "10-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/cody-durden": {
+      "birthDate": "1991-03-29",
+      "familyName": "Durden",
+      "record": "18-11-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/nikita-krylov": {
+      "birthDate": "1992-03-07",
+      "familyName": "Krylov",
+      "record": "31-12-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/robert-whittaker": {
+      "birthDate": "1990-12-20",
+      "familyName": "Whittaker",
+      "record": "28-9-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/elisha-ellison": {
+      "birthDate": "1997-03-05",
+      "familyName": "Ellison",
+      "record": "5-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/adrian-yanez": {
+      "birthDate": "1993-11-29",
+      "familyName": "Yanez",
+      "record": "18-6-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/luke-riley": {
+      "birthDate": "1999-06-30",
+      "familyName": "Riley",
+      "record": "14-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/cody-garbrandt": {
+      "birthDate": "1991-07-07",
+      "familyName": "Garbrandt",
+      "record": "15-8-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/kai-kamaka": {
+      "birthDate": "1995-01-05",
+      "familyName": "Kamaka III",
+      "record": "18-8-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/conor-mcgregor": {
+      "birthDate": "1988-07-14",
+      "familyName": "McGregor",
+      "record": "22-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/max-holloway": {
+      "birthDate": "1991-12-04",
+      "familyName": "Holloway",
+      "record": "27-9-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/benoit-saint-denis": {
+      "birthDate": "1995-12-18",
+      "familyName": "Saint Denis",
+      "record": "17-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/paddy-pimblett": {
+      "birthDate": "1995-01-03",
+      "familyName": "Pimblett",
+      "record": "24-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/cory-sandhagen": {
+      "birthDate": "1992-04-20",
+      "familyName": "Sandhagen",
+      "record": "18-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/mario-bautista": {
+      "birthDate": "1993-07-01",
+      "familyName": "Bautista",
+      "record": "18-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/brandon-royval": {
+      "birthDate": "1992-08-16",
+      "familyName": "Royval",
+      "record": "18-9-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/loneer-kavanagh": {
+      "birthDate": "1999-06-09",
+      "familyName": "Kavanagh",
+      "record": "10-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/terrance-mckinney": {
+      "birthDate": "1994-09-15",
+      "familyName": "McKinney",
+      "record": "18-9-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/austin-bashi": {
+      "birthDate": "2001-09-29",
+      "familyName": "Bashi",
+      "record": "14-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jean-paul-lebosnoyani": {
+      "birthDate": "1999-01-27",
+      "familyName": "Lebosnoyani",
+      "record": "11-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/seokhyeon-ko": {
+      "birthDate": "1993-09-24",
+      "familyName": "Ko",
+      "record": "13-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/levi-rodrigues-jr": {
+      "birthDate": "1996-10-15",
+      "familyName": "Rodrigues Jr.",
+      "record": "5-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ezra-elliot": {
+      "birthDate": "2000-05-18",
+      "familyName": "Elliot",
+      "record": "8-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/felipe-franco": {
+      "birthDate": "2001-01-22",
+      "familyName": "Franco",
+      "record": "11-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/stewart-nicoll": {
+      "birthDate": "1994-11-04",
+      "familyName": "Nicoll",
+      "record": "8-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/damien-anderson": {
+      "birthDate": "1997-01-04",
+      "familyName": "Anderson",
+      "record": "5-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/rj-harris": {
+      "birthDate": "1998-10-01",
+      "familyName": "Harris",
+      "record": "6-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/dricus-du-plessis": {
+      "birthDate": "1994-01-14",
+      "familyName": "Du Plessis",
+      "record": "24-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/alvin-hines": {
+      "birthDate": "1991-10-20",
+      "familyName": "Hines",
+      "record": "7-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/anna-melisano": {
+      "birthDate": "1997-05-20",
+      "familyName": "Melisano",
+      "record": "6-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/dione-barbosa": {
+      "birthDate": "1992-05-08",
+      "familyName": "Barbosa",
+      "record": "10-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/kamaru-usman": {
+      "birthDate": "1987-05-11",
+      "familyName": "Usman",
+      "record": "21-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jared-cannonier": {
+      "birthDate": "1984-03-16",
+      "familyName": "Cannonier",
+      "record": "18-10-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/chase-hooper": {
+      "birthDate": "1999-09-13",
+      "familyName": "Hooper",
+      "record": "17-5-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/christian-leroy-duncan": {
+      "birthDate": "1995-07-24",
+      "familyName": "Duncan",
+      "record": "15-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/mitch-ramirez": {
+      "birthDate": "1992-11-03",
+      "familyName": "Ramirez",
+      "record": "8-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/tabatha-ricci": {
+      "birthDate": "1995-02-21",
+      "familyName": "Ricci",
+      "record": "12-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/fatima-kline": {
+      "birthDate": "2000-07-12",
+      "familyName": "Kline",
+      "record": "10-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/alberto-montes": {
+      "birthDate": "1994-05-31",
+      "familyName": "Montes",
+      "record": "12-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/thomas-petersen": {
+      "birthDate": "1995-03-30",
+      "familyName": "Petersen",
+      "record": "11-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/valter-walker": {
+      "birthDate": "1997-12-14",
+      "familyName": "Walker",
+      "record": "16-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/dustin-jacoby": {
+      "birthDate": "1988-04-04",
+      "familyName": "Jacoby",
+      "record": "22-10-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/muhammad-said": {
+      "birthDate": "1996-01-10",
+      "familyName": "Saidov",
+      "record": "10-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/sam-patterson": {
+      "birthDate": "1996-04-30",
+      "familyName": "Patterson",
+      "record": "15-3-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/santiago-ponzinibbio": {
+      "birthDate": "1986-09-26",
+      "familyName": "Ponzinibbio",
+      "record": "31-10-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/magomed-tuchalov": {
+      "birthDate": "1999-12-30",
+      "familyName": "Tuchalov",
+      "record": "7-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/brendson-ribeiro": {
+      "birthDate": "1996-09-08",
+      "familyName": "Ribeiro",
+      "record": "17-11-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/nurullo-aliev": {
+      "birthDate": "2000-12-08",
+      "familyName": "Aliev",
+      "record": "12-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/maiku-teihisu": {
+      "birthDate": "1992-10-07",
+      "familyName": "Davis",
+      "record": "12-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/cody-gibson": {
+      "birthDate": "1987-09-11",
+      "familyName": "Gibson",
+      "record": "22-13-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/abdul-hussein": {
+      "birthDate": "1997-08-02",
+      "familyName": "Hussein",
+      "record": "16-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/magomed-ankalaev": {
+      "birthDate": "1992-06-02",
+      "familyName": "Ankalaev",
+      "record": "22-2-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/bogdan-guskov": {
+      "birthDate": "1992-09-12",
+      "familyName": "Guskov",
+      "record": "18-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/steve-erceg": {
+      "birthDate": "1995-07-27",
+      "familyName": "Erceg",
+      "record": "14-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/magomed-zaynukov": {
+      "birthDate": "1995-01-02",
+      "familyName": "Zaynukov",
+      "record": "9-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ramazan-temirov": {
+      "birthDate": "1997-01-31",
+      "familyName": "Temirov",
+      "record": "20-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/damian-rzepecki": {
+      "birthDate": "2001-11-23",
+      "familyName": "Rzepecki",
+      "record": "10-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/rizvan-kuniev": {
+      "birthDate": "1992-03-10",
+      "familyName": "Kuniev",
+      "record": "14-3-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/tyrell-fortune": {
+      "birthDate": "1990-07-04",
+      "familyName": "Fortune",
+      "record": "18-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/abubakar-vagaev": {
+      "birthDate": "1993-04-14",
+      "familyName": "Vagaev",
+      "record": "25-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/saygid-izagakhmaev": {
+      "birthDate": "1994-09-03",
+      "familyName": "Izagakhmaev",
+      "record": "22-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ismael-bonfim": {
+      "birthDate": "1995-12-28",
+      "familyName": "Bonfim",
+      "record": "20-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/axel-sola": {
+      "birthDate": "1997-09-17",
+      "familyName": "Sola",
+      "record": "13-1-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/rutohito-kurain": {
+      "birthDate": "1995-02-22",
+      "familyName": "Klein",
+      "record": "24-6-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/tofiq-musayev": {
+      "birthDate": "1989-12-15",
+      "familyName": "Musayev",
+      "record": "24-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/michael-oliveira": {
+      "birthDate": "1998-01-21",
+      "familyName": "Oliveira",
+      "record": "10-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/oban-elliott": {
+      "birthDate": "1997-12-19",
+      "familyName": "Elliott",
+      "record": "12-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/borislav-nikolic": {
+      "birthDate": "1993-01-29",
+      "familyName": "Nikolic",
+      "record": "17-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/mark-vologdin": {
+      "birthDate": "2000-04-18",
+      "familyName": "Vologdin",
+      "record": "12-5-2",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/dennis-buzukja": {
+      "birthDate": "1997-10-01",
+      "familyName": "Buzukja",
+      "record": "12-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/bogdan-grad": {
+      "birthDate": "1995-09-28",
+      "familyName": "Grad",
+      "record": "16-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/nina-milosevic": {
+      "birthDate": "1996-08-08",
+      "familyName": "Milosevic",
+      "record": "9-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/mateusz-rebecki": {
+      "birthDate": "1992-11-03",
+      "familyName": "Rebecki",
+      "record": "21-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/kyle-prepolec": {
+      "birthDate": "1989-08-30",
+      "familyName": "Prepolec",
+      "record": "18-11-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/hailey-cowan": {
+      "birthDate": "1992-02-12",
+      "familyName": "Cowan",
+      "record": "7-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jovan-leka": {
+      "birthDate": "2002-03-15",
+      "familyName": "Leka",
+      "record": "14-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/alexander-poppeck": {
+      "birthDate": "1992-04-06",
+      "familyName": "Poppeck",
+      "record": "21-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/marina-spasic": {
+      "birthDate": "1994-07-11",
+      "familyName": "Spasic",
+      "record": "7-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/stephanie-bruna-luciano": {
+      "birthDate": "1999-12-16",
+      "familyName": "Bruna Luciano",
+      "record": "8-2-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/uros-medic": {
+      "birthDate": "1993-04-25",
+      "familyName": "Medic",
+      "record": "14-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/aleksandar-rakic": {
+      "birthDate": "1992-02-06",
+      "familyName": "Rakic",
+      "record": "15-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/daniel-rodriguez": {
+      "birthDate": "1986-12-31",
+      "familyName": "Rodriguez",
+      "record": "20-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jan-blachowicz": {
+      "birthDate": "1983-02-24",
+      "familyName": "Blachowicz",
+      "record": "29-12-2",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/marcin-tybura": {
+      "birthDate": "1985-11-09",
+      "familyName": "Tybura",
+      "record": "27-12-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/dusko-todorovic": {
+      "birthDate": "1994-05-19",
+      "familyName": "Todorovic",
+      "record": "13-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/robert-valentin-frey": {
+      "birthDate": "1995-03-31",
+      "familyName": "Valentin",
+      "record": "13-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/vlasto-cepo": {
+      "birthDate": "1995-01-25",
+      "familyName": "Cepo",
+      "record": "14-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/kiruhato-uruhina": {
+      "birthDate": "1996-04-05",
+      "familyName": "Urbina",
+      "record": "8-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/milos-janicic": {
+      "birthDate": "1997-05-03",
+      "familyName": "Janicic",
+      "record": "19-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/noah-gugnon": {
+      "birthDate": "2000-10-18",
+      "familyName": "Gugnon",
+      "record": "10-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/guilherme-pat": {
+      "birthDate": "1994-04-20",
+      "familyName": "Pat",
+      "record": "6-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/steven-asplund": {
+      "birthDate": "1998-07-16",
+      "familyName": "Asplund",
+      "record": "8-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/diyar-nurgozhay": {
+      "birthDate": "1997-04-22",
+      "familyName": "Nurgozhay",
+      "record": "12-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/bruno-lopes": {
+      "birthDate": "1993-04-24",
+      "familyName": "Lopes",
+      "record": "14-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/louie-sutherland": {
+      "birthDate": "1994-02-08",
+      "familyName": "Sutherland",
+      "record": "11-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jose-montanha-da-silva": {
+      "birthDate": "1996-08-25",
+      "familyName": "Montanha da Silva",
+      "record": "7-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/manoel-sousa": {
+      "birthDate": "1997-06-04",
+      "familyName": "Sousa",
+      "record": "15-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/richie-miranda": {
+      "birthDate": "1994-08-12",
+      "familyName": "Miranda",
+      "record": "13-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/miles-johns": {
+      "birthDate": "1994-03-30",
+      "familyName": "Johns",
+      "record": "16-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/gianni-vazquez": {
+      "birthDate": "1994-07-13",
+      "familyName": "Vazquez",
+      "record": "14-6-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/juliana-miller": {
+      "birthDate": "1996-05-07",
+      "familyName": "Miller",
+      "record": "6-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ravena-oliveira-morais": {
+      "birthDate": "1997-02-20",
+      "familyName": "Oliveira Morais",
+      "record": "7-5-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/gigi-canuto": {
+      "birthDate": "2002-11-16",
+      "familyName": "Canuto",
+      "record": "7-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/carol-foro": {
+      "birthDate": "1997-03-21",
+      "familyName": "Foro",
+      "record": "10-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/mateusz-gamrot": {
+      "birthDate": "1990-12-11",
+      "familyName": "Gamrot",
+      "record": "26-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/quillan-salkilld": {
+      "birthDate": "1999-12-28",
+      "familyName": "Salkilld",
+      "record": "13-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/diego-ferreira": {
+      "birthDate": "1985-01-18",
+      "familyName": "Ferreira",
+      "record": "20-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/billy-quarantillo": {
+      "birthDate": "1988-12-08",
+      "familyName": "Quarantillo",
+      "record": "18-8-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/yadier-del-valle": {
+      "birthDate": "1996-07-29",
+      "familyName": "del Valle",
+      "record": "11-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/darren-elkins": {
+      "birthDate": "1984-05-16",
+      "familyName": "Elkins",
+      "record": "29-13-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/amanda-lemos": {
+      "birthDate": "1987-05-22",
+      "familyName": "Lemos",
+      "record": "15-7-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/alexia-thainara": {
+      "birthDate": "1995-11-20",
+      "familyName": "Thainara",
+      "record": "15-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/billy-goff": {
+      "birthDate": "1998-06-18",
+      "familyName": "Goff",
+      "record": "9-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ty-miller": {
+      "birthDate": "2000-06-04",
+      "familyName": "Miller",
+      "record": "8-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/rafael-tobias": {
+      "birthDate": "2003-03-20",
+      "familyName": "Tobias",
+      "record": "14-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/neil-magny": {
+      "birthDate": "1987-08-03",
+      "familyName": "Magny",
+      "record": "32-15-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/lucas-fernando": {
+      "birthDate": "1997-01-10",
+      "familyName": "Fernando",
+      "record": "14-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ramiz-brahimaj": {
+      "birthDate": "1992-11-17",
+      "familyName": "Brahimaj",
+      "record": "13-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jeremiah-wells": {
+      "birthDate": "1986-10-30",
+      "familyName": "Wells",
+      "record": "14-4-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/myktybek-orolbai": {
+      "birthDate": "1998-02-10",
+      "familyName": "Orolbai",
+      "record": "16-3-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/bruno-korea-0": {
+      "birthDate": "1988-12-31",
+      "familyName": "Njokuani",
+      "record": "26-12-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/joel-alvarez": {
+      "birthDate": "1993-03-02",
+      "familyName": "Alvarez",
+      "record": "23-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/eduardo-chapolin": {
+      "birthDate": "1995-11-23",
+      "familyName": "Chapolin",
+      "record": "15-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/donte-johnson": {
+      "birthDate": "1999-01-25",
+      "familyName": "Johnson",
+      "record": "9-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/vicente-luque": {
+      "birthDate": "1991-11-27",
+      "familyName": "Luque",
+      "record": "24-13-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/tresean-gore": {
+      "birthDate": "1994-06-21",
+      "familyName": "Gore",
+      "record": "8-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/eric-mcconico": {
+      "birthDate": "1990-05-09",
+      "familyName": "McConico",
+      "record": "11-5-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/islam-makhachev": {
+      "birthDate": "1991-10-27",
+      "familyName": "Makhachev",
+      "record": "29-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ian-machado-garry": {
+      "birthDate": "1997-11-17",
+      "familyName": "Machado Garry",
+      "record": "17-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/mackenzie-dern": {
+      "birthDate": "1993-03-24",
+      "familyName": "Dern",
+      "record": "17-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/gillian-robertson": {
+      "birthDate": "1995-05-17",
+      "familyName": "Robertson",
+      "record": "17-9-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jalin-turner": {
+      "birthDate": "1995-05-18",
+      "familyName": "Turner",
+      "record": "16-9-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/kaue-fernandes": {
+      "birthDate": "1995-03-17",
+      "familyName": "Fernandes",
+      "record": "11-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/mansur-abdul-malik": {
+      "birthDate": "1997-10-07",
+      "familyName": "Abdul-Malik",
+      "record": "9-2-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/dustin-stoltzfus": {
+      "birthDate": "1991-11-15",
+      "familyName": "Stoltzfus",
+      "record": "17-8-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/edson-barboza": {
+      "birthDate": "1986-01-21",
+      "familyName": "Barboza",
+      "record": "24-15-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jamall-emmers": {
+      "birthDate": "1989-07-24",
+      "familyName": "Emmers",
+      "record": "23-8-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/shamil-gaziev": {
+      "birthDate": "1990-02-10",
+      "familyName": "Gaziev",
+      "record": "15-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/kennedy-nzechukwu": {
+      "birthDate": "1992-06-13",
+      "familyName": "Nzechukwu",
+      "record": "14-7-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/lerryan-douglas": {
+      "birthDate": "1995-04-27",
+      "familyName": "Douglas",
+      "record": "14-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/chris-padilla": {
+      "birthDate": "1995-09-14",
+      "familyName": "Padilla",
+      "record": "18-6-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/nasrat-haqparast": {
+      "birthDate": "1995-08-22",
+      "familyName": "Haqparast",
+      "record": "18-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/marcio-barbosa": {
+      "birthDate": "1998-05-22",
+      "familyName": "Barbosa",
+      "record": "19-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ryan-kuse": {
+      "birthDate": "1994-06-24",
+      "familyName": "Kuse",
+      "record": "9-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/stan-dorsainvil": {
+      "birthDate": "2000-05-12",
+      "familyName": "Dorsainvil",
+      "record": "6-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/gauge-young": {
+      "birthDate": "2000-07-14",
+      "familyName": "Young",
+      "record": "11-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/wes-schultz": {
+      "birthDate": "1996-08-09",
+      "familyName": "Schultz",
+      "record": "9-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jackson-mcvey": {
+      "birthDate": "1999-03-25",
+      "familyName": "McVey",
+      "record": "8-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/shanelle-dyer": {
+      "birthDate": "2001-04-23",
+      "familyName": "Dyer",
+      "record": "8-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/karlos-olberg-3": {
+      "birthDate": "1992-12-05",
+      "familyName": "Reed",
+      "record": "8-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/anthony-hernandez": {
+      "birthDate": "1993-10-18",
+      "familyName": "Hernandez",
+      "record": "15-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/gregory-rodrigues": {
+      "birthDate": "1992-02-17",
+      "familyName": "Rodrigues",
+      "record": "20-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/serghei-spivac": {
+      "birthDate": "1995-01-24",
+      "familyName": "Spivac",
+      "record": "18-7-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/vitor-petrino": {
+      "birthDate": "1997-08-28",
+      "familyName": "Petrino",
+      "record": "15-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/reinier-de-ridder": {
+      "birthDate": "1990-09-07",
+      "familyName": "de Ridder",
+      "record": "22-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/marquel-mederos": {
+      "birthDate": "1996-11-30",
+      "familyName": "Mederos",
+      "record": "12-1-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/roman-dolidze": {
+      "birthDate": "1988-07-15",
+      "familyName": "Dolidze",
+      "record": "15-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/mason-jones": {
+      "birthDate": "1995-04-26",
+      "familyName": "Jones",
+      "record": "18-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/anthony-wint": {
+      "birthDate": "1995-09-14",
+      "familyName": "Wint",
+      "record": "8-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/carli-judice": {
+      "birthDate": "1999-03-02",
+      "familyName": "Judice",
+      "record": "7-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/yilizhati-maimaitijiang": {
+      "birthDate": "1990-09-30",
+      "familyName": "Maimaitijiang",
+      "record": "7-1-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/darrius-flowers": {
+      "birthDate": "1994-08-25",
+      "familyName": "Flowers",
+      "record": "13-9-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/filipe-lins-3": {
+      "birthDate": "1999-12-01",
+      "familyName": "Maheshate",
+      "record": "12-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/terrance-chatman": {
+      "birthDate": "1997-05-05",
+      "familyName": "Chatman",
+      "record": "5-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/namsrai-batbayar": {
+      "birthDate": "2000-12-29",
+      "familyName": "Batbayar",
+      "record": "10-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/treston-vines": {
+      "birthDate": "1996-06-18",
+      "familyName": "Vines",
+      "record": "10-4-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/jack-jenkins": {
+      "birthDate": "1993-11-03",
+      "familyName": "Jenkins",
+      "record": "14-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/sean-woodson": {
+      "birthDate": "1992-06-07",
+      "familyName": "Woodson",
+      "record": "14-2-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/francesco-nuzzi": {
+      "birthDate": "1996-08-28",
+      "familyName": "Nuzzi",
+      "record": "12-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/shiyao-ron": {
+      "birthDate": "1998-04-13",
+      "familyName": "Long",
+      "record": "27-12-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/lawrence-lui": {
+      "birthDate": "1996-08-04",
+      "familyName": "Lui",
+      "record": "8-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/hector-de-sousa-santiago": {
+      "birthDate": "1993-03-21",
+      "familyName": "de Sousa Santiago",
+      "record": "7-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/denise-gomes": {
+      "birthDate": "1999-12-30",
+      "familyName": "Gomes",
+      "record": "13-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/cam-nelson": {
+      "birthDate": "1998-07-28",
+      "familyName": "Nelson",
+      "record": "8-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/kori-makkenna-7": {
+      "birthDate": "1998-03-05",
+      "familyName": "Polastri",
+      "record": "15-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/umar-nurmagomedov": {
+      "birthDate": "1996-01-03",
+      "familyName": "Nurmagomedov",
+      "record": "20-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/yan-xiaonan": {
+      "birthDate": "1989-06-16",
+      "familyName": "Yan",
+      "record": "19-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/liu-ce": {
+      "birthDate": "1996-09-04",
+      "familyName": "Ce",
+      "record": "4-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/bilal-hasan": {
+      "birthDate": "2001-07-16",
+      "familyName": "Hasan",
+      "record": "10-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/nilson-rojas": {
+      "birthDate": "1999-04-21",
+      "familyName": "Rojas",
+      "record": "9-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/morgan-charriere": {
+      "birthDate": "1995-10-26",
+      "familyName": "Charriere",
+      "record": "21-13-1",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/felipe-lima": {
+      "birthDate": "1998-05-07",
+      "familyName": "Lima",
+      "record": "15-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/mario-pinto": {
+      "birthDate": "1998-03-14",
+      "familyName": "Pinto",
+      "record": "13-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/ryan-spann": {
+      "birthDate": "1991-08-24",
+      "familyName": "Spann",
+      "record": "24-12-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/oumar-sy": {
+      "birthDate": "1995-11-21",
+      "familyName": "Sy",
+      "record": "12-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/nathaniel-wood": {
+      "birthDate": "1993-05-08",
+      "familyName": "Wood",
+      "record": "23-6-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/pavel-andrusca": {
+      "birthDate": "2002-05-08",
+      "familyName": "Andrusca",
+      "record": "9-0-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/michael-aljarouj": {
+      "birthDate": "1997-08-21",
+      "familyName": "Aljarouj",
+      "record": "13-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/fabia-sintes": {
+      "birthDate": "1994-07-27",
+      "familyName": "Sintes",
+      "record": "12-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/nora-cornolle": {
+      "birthDate": "1989-12-06",
+      "familyName": "Cornolle",
+      "record": "10-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/sofia-montenegro": {
+      "birthDate": "1999-06-18",
+      "familyName": "Montenegro",
+      "record": "6-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/salahdine-parnasse": {
+      "birthDate": "1997-12-04",
+      "familyName": "Parnasse",
+      "record": "24-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/klaudia-sygula": {
+      "birthDate": "1998-12-30",
+      "familyName": "Sygula",
+      "record": "8-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/matthieu-letho-duclos": {
+      "birthDate": "1995-04-04",
+      "familyName": "Letho Duclos",
+      "record": "11-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/delphine-benouaich": {
+      "birthDate": "1995-03-21",
+      "familyName": "Benouaich",
+      "record": "8-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/dan-hooker": {
+      "birthDate": "1990-02-13",
+      "familyName": "Hooker",
+      "record": "24-15-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/michael-page": {
+      "birthDate": "1987-04-07",
+      "familyName": "Page",
+      "record": "26-3-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/punahele-soriano": {
+      "birthDate": "1992-11-22",
+      "familyName": "Soriano",
+      "record": "13-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/kurtis-campbell": {
+      "birthDate": "2002-07-29",
+      "familyName": "Campbell",
+      "record": "9-1-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/trevor-peek": {
+      "birthDate": "1995-01-09",
+      "familyName": "Peek",
+      "record": "9-4-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/sean-brady": {
+      "birthDate": "1992-11-23",
+      "familyName": "Brady",
+      "record": "19-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/losene-keita": {
+      "birthDate": "1997-12-30",
+      "familyName": "Keita",
+      "record": "17-2-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
+    },
+    "https://www.ufc.com/athlete/muhammad-naimov": {
+      "birthDate": "1994-08-07",
+      "familyName": "Naimov",
+      "record": "13-5-0",
+      "checkedAt": "2026-09-12T11:01:15.065Z"
     }
   }
 }

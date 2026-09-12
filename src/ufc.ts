@@ -21,6 +21,7 @@ interface DiscoveryOptions {
   now?: Date;
   pages?: number[];
   maxEvents?: number;
+  pastDays?: number;
 }
 
 interface SchemaPerson {
@@ -37,10 +38,10 @@ interface StructuredDataEntry {
   familyName?: string;
 }
 
-export function parseEventsListing(html: string, now = new Date(), futureDays = 180): EventListing[] {
+export function parseEventsListing(html: string, now = new Date(), futureDays = 180, pastDays = 120): EventListing[] {
   const $ = cheerio.load(html);
   const found = new Map();
-  const earliest = now.valueOf() - 2 * DAY_MS;
+  const earliest = now.valueOf() - pastDays * DAY_MS;
   const latest = now.valueOf() + futureDays * DAY_MS;
 
   $(".c-card-event--result__headline a[href*='/event/']").each((_, link) => {
@@ -55,9 +56,9 @@ export function parseEventsListing(html: string, now = new Date(), futureDays = 
   return [...found.values()].sort((a, b) => a.start.valueOf() - b.start.valueOf());
 }
 
-export async function discoverUpcomingEventUrls({ now = new Date(), pages = [0], maxEvents = 12 }: DiscoveryOptions = {}): Promise<string[]> {
+export async function discoverUpcomingEventUrls({ now = new Date(), pages = [0, 1, 2], maxEvents = 50, pastDays = 120 }: DiscoveryOptions = {}): Promise<string[]> {
   const batches = await Promise.all(
-    pages.map(async (page) => parseEventsListing(await fetchText(`${UFC_ORIGIN}/events?page=${page}`), now)),
+    pages.map(async (page) => parseEventsListing(await fetchText(`${UFC_ORIGIN}/events?page=${page}`), now, 180, pastDays)),
   );
   const merged = new Map(batches.flat().map((event) => [event.url, event]));
   return [...merged.values()].sort((a, b) => a.start.valueOf() - b.start.valueOf()).slice(0, maxEvents).map(({ url }) => url);
