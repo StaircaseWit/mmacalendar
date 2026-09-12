@@ -48,7 +48,7 @@ function icsDate(date: Date): string {
 }
 
 function fighterLabel(fighter: Fighter, boldName = false): string {
-  const rank = fighter.rank ? ` (#${fighter.rank})` : "";
+  const rank = fighter.rank ? fighter.rank.toUpperCase() === "C" ? " (C)" : ` (#${fighter.rank})` : "";
   const flag = flagEmoji(fighter.countryCode);
   return `${boldName ? unicodeBold(fighter.name) : fighter.name}${rank}${flag ? ` ${flag}` : ""}`;
 }
@@ -79,11 +79,50 @@ function localTime(date: Date, timeZone: string, includeWeekday = false): string
   }).format(date);
 }
 
+function localDate(date: Date, timeZone: string): string {
+  const parts = Object.fromEntries(new Intl.DateTimeFormat("en-GB", {
+    day: "numeric",
+    month: "2-digit",
+    year: "numeric",
+    timeZone,
+  }).formatToParts(date).map(({ type, value }) => [type, value]));
+  const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  return `${Number(parts.day)} ${months[Number(parts.month) - 1]} ${parts.year}`;
+}
+
+function scheduleStatusLine(event: UfcEvent, generatedAt: Date, displayTimeZone: string): string {
+  const status = event.scheduleStatus;
+  const checkedAt = new Date(status?.checkedAt ?? generatedAt);
+  const verified = `verified ${localDate(checkedAt, displayTimeZone)}`;
+  switch (status?.state) {
+    case "cancelled": return `Event status: Cancelled · ${verified}`;
+    case "postponed": return `Event status: Postponed; new date TBD · ${verified}`;
+    case "rescheduled": {
+      const previous = status.previousStart ? new Date(status.previousStart) : null;
+      return `Event status: Rescheduled${previous ? `; previously ${localDate(previous, displayTimeZone)}` : ""} · ${verified}`;
+    }
+    case "unlisted": return `Event status: No longer listed by UFC; cancellation or postponement not yet confirmed · ${verified}`;
+    default: return `Event status: Scheduled · ${verified}`;
+  }
+}
+
+function calendarEventStatus(event: UfcEvent, provisional = false): "CANCELLED" | "TENTATIVE" | "CONFIRMED" {
+  if (event.scheduleStatus?.state === "cancelled") return "CANCELLED";
+  if (provisional || ["postponed", "unlisted"].includes(event.scheduleStatus?.state ?? "")) return "TENTATIVE";
+  return "CONFIRMED";
+}
+
 function estimatedFightTime(event: UfcEvent, section: CardSection, sourceIndex: number): Date {
+  const useWholeEventWindow = section.provisional
+    && section.fights.length > 0
+    && event.sections.some((candidate) => candidate.start && candidate.start < section.start!);
+  const start = useWholeEventWindow
+    ? event.sections.map(({ start }) => start).filter((value): value is Date => Boolean(value)).sort((a, b) => a.valueOf() - b.valueOf())[0]!
+    : section.start!;
   const end = sectionEnd(event, section);
   const boutNumber = section.fights.length - sourceIndex;
-  const interval = (end.valueOf() - section.start!.valueOf()) / Math.max(section.fights.length, 1);
-  const estimate = section.start!.valueOf() + (boutNumber - 1) * interval;
+  const interval = (end.valueOf() - start.valueOf()) / Math.max(section.fights.length, 1);
+  const estimate = start.valueOf() + (boutNumber - 1) * interval;
   const fiveMinutes = 5 * 60 * 1000;
   return new Date(Math.round(estimate / fiveMinutes) * fiveMinutes);
 }
@@ -95,8 +134,9 @@ function fightDescription(
   sourceIndex: number,
   displayTimeZone: string,
   displayTimeZoneLabel: string,
+  boutNumberOverride?: number,
 ): string {
-  const boutNumber = section.fights.length - sourceIndex;
+  const boutNumber = boutNumberOverride ?? section.fights.length - sourceIndex;
   const estimate = estimatedFightTime(event, section, sourceIndex);
   const includeWeekday = localDateKey(estimate, displayTimeZone) !== localDateKey(section.start!, displayTimeZone);
   const estimatedLabel = `${localTime(estimate, displayTimeZone, includeWeekday)} ${displayTimeZoneLabel}`;
@@ -130,12 +170,17 @@ function eventOverview(event: UfcEvent, section: CardSection, displayTimeZone: s
   const crossesDate = localDateKey(section.start!, displayTimeZone) !== localDateKey(end, displayTimeZone);
   const endLabel = localTime(end, displayTimeZone, crossesDate);
   const boutLabel = section.fights.length === 1 ? "1 bout" : `${section.fights.length} bouts`;
-  return [
-    `UFC · ${section.label} · ${boutLabel}`,
+  const cardStatus = section.provisional
+    ? section.fights.length ? `${boutLabel} announced · placement TBD` : "fight card TBD"
+    : boutLabel;
+  const overview = [
+    `UFC · ${section.label} · ${cardStatus}`,
     `📍 ${event.location || "Venue to be announced"}`,
     `🕒 ${localTime(section.start!, displayTimeZone)}–${endLabel} ${displayTimeZoneLabel}`,
     "Bout times are estimates and may shift as the card progresses.",
   ];
+  if (section.provisional) overview.push("This provisional entry updates automatically as UFC finalises the card.");
+  return overview;
 }
 
 function htmlDescription(event: UfcEvent, section: CardSection, generatedAt: Date, publicBaseUrl: string, displayTimeZone: string, displayTimeZoneLabel: string): string {
@@ -148,7 +193,7 @@ function htmlDescription(event: UfcEvent, section: CardSection, generatedAt: Dat
   const oddsLog = publicBaseUrl
     ? `<br>Full odds log: <a href="${htmlEscape(`${publicBaseUrl.replace(/\/$/, "")}/odds-history.html`)}">view history</a>`
     : "";
-  return `<html><body>${overview}${fights}${source}${oddsLog}<br>Calendar updated: ${htmlEscape(generatedAt.toISOString())}</p></body></html>`;
+  return `<html><body>${overview}${fights}${source}${oddsLog}<br>Calendar updated: ${htmlEscape(generatedAt.toISOString())}<br>${htmlEscape(scheduleStatusLine(event, generatedAt, displayTimeZone))}</p></body></html>`;
 }
 
 export function renderCalendar(events: UfcEvent[], {
@@ -180,6 +225,7 @@ export function renderCalendar(events: UfcEvent[], {
         `Source: ${event.url}`,
         publicBaseUrl ? `Full odds log: ${publicBaseUrl.replace(/\/$/, "")}/odds-history.html` : "",
         `Calendar updated: ${generatedAt.toISOString()}`,
+        scheduleStatusLine(event, generatedAt, displayTimeZone),
       ].filter(Boolean).join("\n\n");
       lines.push(
         "BEGIN:VEVENT",
@@ -193,10 +239,165 @@ export function renderCalendar(events: UfcEvent[], {
         `LOCATION:${escapeIcs(event.location)}`,
         `URL:${escapeIcs(event.url)}`,
         `CATEGORIES:UFC,${escapeIcs(section.label)}`,
-        "STATUS:CONFIRMED",
+        `STATUS:${calendarEventStatus(event, Boolean(section.provisional))}`,
         "TRANSP:TRANSPARENT",
         "END:VEVENT",
       );
+    }
+  }
+  lines.push("END:VCALENDAR");
+  return `${lines.map(foldLine).join("\r\n")}\r\n`;
+}
+
+function eventBounds(event: UfcEvent): { start: Date; end: Date } | null {
+  const sections = event.sections.filter((section): section is CardSection & { start: Date } => Boolean(section.start));
+  if (!sections.length) return null;
+  const start = sections.map(({ start }) => start).sort((left, right) => left.valueOf() - right.valueOf())[0]!;
+  const end = sections.map((section) => sectionEnd(event, section)).sort((left, right) => right.valueOf() - left.valueOf())[0]!;
+  return { start, end };
+}
+
+export function renderCombinedCalendar(events: UfcEvent[], {
+  generatedAt = new Date(),
+  calendarName = "Complete UFC Events",
+  publicBaseUrl = "",
+  displayTimeZone = "Europe/Dublin",
+  displayTimeZoneLabel = "Ireland",
+}: RenderCalendarOptions = {}): string {
+  const lines: string[] = [
+    "BEGIN:VCALENDAR",
+    "VERSION:2.0",
+    "PRODID:-//Detailed UFC Calendar//EN",
+    "CALSCALE:GREGORIAN",
+    "METHOD:PUBLISH",
+    `X-WR-CALNAME:${escapeIcs(calendarName)}`,
+    "X-WR-CALDESC:One complete calendar entry per UFC event with all announced bouts.",
+    "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
+    "X-PUBLISHED-TTL:PT6H",
+  ];
+
+  for (const event of events) {
+    const bounds = eventBounds(event);
+    if (!bounds) continue;
+    const sections = [...event.sections].filter(({ start }) => Boolean(start)).reverse();
+    const totalFights = sections.reduce((total, section) => total + section.fights.length, 0);
+    let boutNumber = totalFights;
+    const crossesDate = localDateKey(bounds.start, displayTimeZone) !== localDateKey(bounds.end, displayTimeZone);
+    const sectionBlocks: string[] = [];
+    for (const section of sections) {
+      const sectionStatus = section.provisional
+        ? section.fights.length ? `${section.fights.length} announced · placement TBD` : "fight card TBD"
+        : section.fights.length === 1 ? "1 bout" : `${section.fights.length} bouts`;
+      sectionBlocks.push(`── ${section.label.toUpperCase()} · ${sectionStatus} ──`);
+      if (!section.fights.length) {
+        sectionBlocks.push("No bouts assigned yet.");
+        continue;
+      }
+      for (let index = 0; index < section.fights.length; index += 1) {
+        sectionBlocks.push(fightDescription(event, section, section.fights[index]!, index, displayTimeZone, displayTimeZoneLabel, boutNumber));
+        boutNumber -= 1;
+      }
+    }
+    const description = [
+      `UFC · Complete Event · ${totalFights ? `${totalFights} announced bouts` : "fight card TBD"}`,
+      `📍 ${event.location || "Venue to be announced"}`,
+      `🕒 ${localTime(bounds.start, displayTimeZone)}–${localTime(bounds.end, displayTimeZone, crossesDate)} ${displayTimeZoneLabel}`,
+      "Bout times are estimates and may shift as the card progresses.",
+      ...sectionBlocks,
+      `Source: ${event.url}`,
+      publicBaseUrl ? `Full odds log: ${publicBaseUrl.replace(/\/$/, "")}/odds-history.html` : "",
+      `Calendar updated: ${generatedAt.toISOString()}`,
+      scheduleStatusLine(event, generatedAt, displayTimeZone),
+    ].filter(Boolean).join("\n\n");
+    const html = `<html><body><p>${htmlEscape(description).replace(/\n/g, "<br>")}</p></body></html>`;
+    lines.push(
+      "BEGIN:VEVENT",
+      `UID:${escapeIcs(`${event.slug}-combined@ufc-detailed-calendar`)}`,
+      `DTSTAMP:${icsDate(generatedAt)}`,
+      `DTSTART:${icsDate(bounds.start)}`,
+      `DTEND:${icsDate(bounds.end)}`,
+      `SUMMARY:${escapeIcs(event.title)}`,
+      `DESCRIPTION:${escapeIcs(description)}`,
+      `X-ALT-DESC;FMTTYPE=text/html:${escapeIcs(html)}`,
+      `LOCATION:${escapeIcs(event.location)}`,
+      `URL:${escapeIcs(event.url)}`,
+      "CATEGORIES:UFC,Complete Event",
+      `STATUS:${calendarEventStatus(event, sections.some(({ provisional }) => provisional))}`,
+      "TRANSP:TRANSPARENT",
+      "END:VEVENT",
+    );
+  }
+  lines.push("END:VCALENDAR");
+  return `${lines.map(foldLine).join("\r\n")}\r\n`;
+}
+
+function fightUid(event: UfcEvent, fight: Fight): string {
+  if (fight.id) return `${event.slug}-fight-${fight.id}@ufc-detailed-calendar`;
+  const names = [fight.red.name, fight.blue.name]
+    .map(normalizedName)
+    .sort()
+    .join("-")
+    .replace(/[^a-z0-9-]+/g, "-");
+  return `${event.slug}-fight-${names}@ufc-detailed-calendar`;
+}
+
+export function renderEstimatedFightCalendar(events: UfcEvent[], {
+  generatedAt = new Date(),
+  calendarName = "UFC Estimated Fight Times",
+  publicBaseUrl = "",
+  displayTimeZone = "Europe/Dublin",
+  displayTimeZoneLabel = "Ireland",
+}: RenderCalendarOptions = {}): string {
+  const lines: string[] = [
+    "BEGIN:VCALENDAR",
+    "VERSION:2.0",
+    "PRODID:-//Detailed UFC Calendar//EN",
+    "CALSCALE:GREGORIAN",
+    "METHOD:PUBLISH",
+    `X-WR-CALNAME:${escapeIcs(calendarName)}`,
+    "X-WR-CALDESC:Optional estimated UFC bout times that adapt to the calendar client's time zone.",
+    "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
+    "X-PUBLISHED-TTL:PT6H",
+  ];
+
+  for (const event of events) {
+    for (const section of event.sections) {
+      if (!section.start) continue;
+      if (sectionEnd(event, section) < generatedAt) continue;
+      section.fights.forEach((fight, index) => {
+        const boutNumber = section.fights.length - index;
+        const start = estimatedFightTime(event, section, index);
+        const end = new Date(start.valueOf() + 30 * 60 * 1000);
+        const [, ...details] = fightDescription(event, section, fight, index, displayTimeZone, displayTimeZoneLabel).split("\n");
+        const description = [
+          `Estimated bout time · UFC · ${section.provisional ? "card placement TBD" : section.label}`,
+          "The scheduled time may move as earlier fights finish.",
+          "",
+          ...details,
+          "",
+          `Event: ${event.title}`,
+          `Source: ${event.url}`,
+          publicBaseUrl ? `Main calendar: ${publicBaseUrl.replace(/\/$/, "")}/ufc.ics` : "",
+          `Calendar updated: ${generatedAt.toISOString()}`,
+          scheduleStatusLine(event, generatedAt, displayTimeZone),
+        ].filter(Boolean).join("\n");
+        lines.push(
+          "BEGIN:VEVENT",
+          `UID:${escapeIcs(fightUid(event, fight))}`,
+          `DTSTAMP:${icsDate(generatedAt)}`,
+          `DTSTART:${icsDate(start)}`,
+          `DTEND:${icsDate(end)}`,
+          `SUMMARY:${escapeIcs(`🥊 ${boutNumber}. ${fight.red.name} vs. ${fight.blue.name} (estimated)`)}`,
+          `DESCRIPTION:${escapeIcs(description)}`,
+          `LOCATION:${escapeIcs(event.location)}`,
+          `URL:${escapeIcs(event.url)}`,
+          `CATEGORIES:UFC,Estimated Fight,${escapeIcs(section.label)}`,
+          `RELATED-TO:${escapeIcs(`${event.slug}-${section.key}@ufc-detailed-calendar`)}`,
+          `STATUS:${calendarEventStatus(event, true)}`,
+          "TRANSP:TRANSPARENT",
+          "END:VEVENT",
+        );
+      });
     }
   }
   lines.push("END:VCALENDAR");

@@ -21,18 +21,26 @@
     <p>Automatically updated Early Prelims, Prelims, and Main Card events with fight records, rankings, countries, ages, and weekly odds history.</p>
     <div class="actions">
       <a class="button" id="google-calendar" href="#">Add to Google Calendar</a>
+      <a class="button secondary" id="combined-calendar" href="#">Add combined UFC events</a>
+      <a class="button secondary" id="fight-calendar" href="#">Add estimated fight times</a>
       <button class="secondary" id="copy-feed" type="button">Copy subscription URL</button>
       <a class="button secondary" href="odds-history.html">View odds history</a>
     </div>
     <h2>Subscribe</h2>
     <p>Subscription address: <code id="feed-url"></code></p>
     <p>In Google Calendar, choose <strong>Other calendars → From URL</strong> and paste the full subscription address above. Subscribing by URL allows future updates to appear automatically.</p>
+    <p>The combined calendar creates one entry per UFC event and places the Main Card, Prelims, and Early Prelims details together inside it.</p>
+    <p>The optional estimated-fight calendar creates one tentative entry per bout. Because those estimates are real calendar entries rather than text in a description, your calendar can display them in its current local time zone when you travel.</p>
     <p>Do not download and import the file as a one-time calendar if you want automatic updates.</p>
   </main>
   <script>
     const feedUrl = new URL("ufc.ics", window.location.href).href;
+    const combinedFeedUrl = new URL("ufc-combined.ics", window.location.href).href;
+    const fightFeedUrl = new URL("ufc-fights.ics", window.location.href).href;
     document.querySelector("#feed-url").textContent = feedUrl;
     document.querySelector("#google-calendar").href = `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(feedUrl)}`;
+    document.querySelector("#combined-calendar").href = `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(combinedFeedUrl)}`;
+    document.querySelector("#fight-calendar").href = `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(fightFeedUrl)}`;
     document.querySelector("#copy-feed").addEventListener("click", async (event) => {
       await navigator.clipboard.writeText(feedUrl);
       event.currentTarget.textContent = "Copied";

@@ -1,10 +1,11 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { parseAthletePage, parseEventPage, parseEventsListing } from "../src/ufc.js";
-import { renderCalendar } from "../src/ics.js";
+import { renderCalendar, renderCombinedCalendar, renderEstimatedFightCalendar } from "../src/ics.js";
+import { reconcileEvents } from "../src/events.js";
 import { ageOnDate, decimalOdds, describeWeightClass, flagEmoji, shortFighterName, unicodeBold } from "../src/utils.js";
 import { oddsRefreshIsDue, updateOddsStore } from "../src/odds.js";
-import type { OddsStore } from "../src/types.js";
+import type { EventStore, OddsStore } from "../src/types.js";
 
 const eventHtml = `
 <div class="c-hero__headline-prefix"><h1>Noche UFC</h1></div>
@@ -28,10 +29,11 @@ test("parses a UFC card even when UFC adds numeric ID suffixes", () => {
   const event = parseEventPage(eventHtml, "https://www.ufc.com/event/noche-test");
   assert.equal(event.title, "Noche UFC: Silva vs Delgado");
   assert.equal(event.location, "Desert Diamond Arena, Glendale, United States");
-  assert.equal(event.sections.length, 1);
+  assert.equal(event.sections.length, 2);
   assert.equal(event.sections[0].label, "Prelims");
   assert.equal(event.sections[0].fights[0].red.rank, "6");
   assert.equal(event.sections[0].fights[0].blue.countryCode, "MX");
+  assert.equal(event.sections[1].provisional, true);
 });
 
 test("parses record, family name and exact DOB from an athlete page", () => {
@@ -57,6 +59,52 @@ test("keeps a bounded window of historical events", () => {
   assert.deepEqual(events.map(({ url }) => url), ["https://www.ufc.com/event/recent"]);
 });
 
+test("keeps announced cards whose fight placement is not final", () => {
+  const provisionalHtml = `
+  <div class="c-hero__headline-prefix"><h1>UFC 333</h1></div>
+  <div class="c-hero__headline"><span class="e-divider__top">Volkanovski</span><span class="e-divider__bottom">Evloev</span></div>
+  <div class="c-hero__headline-suffix" data-timestamp="1792864800"></div>
+  <div class="field--name-venue">Etihad Arena, Abu Dhabi</div>
+  <div class="c-listing-viewing-option"><div class="c-listing-viewing-option__fight-card">Early Prelims</div><div class="c-listing-viewing-option__time" data-timestamp="1792850400"></div></div>
+  <div class="c-listing-viewing-option"><div class="c-listing-viewing-option__fight-card">Prelims</div><div class="c-listing-viewing-option__time" data-timestamp="1792857600"></div></div>
+  <div class="c-listing-viewing-option"><div class="c-listing-viewing-option__fight-card">Main Card</div><div class="c-listing-viewing-option__time" data-timestamp="1792864800"></div></div>
+  <div class="view-event-fights"><div class="c-listing-fight" data-fmid="333">
+    <div class="c-listing-fight__class--desktop"><div class="c-listing-fight__corner-rank">C</div><div class="c-listing-fight__class-text">Featherweight Title Bout</div><div class="c-listing-fight__corner-rank">#1</div></div>
+    <div class="c-listing-fight__corner-name--red">Alexander Volkanovski</div><div class="c-listing-fight__corner-name--blue">Movsar Evloev</div>
+  </div></div>`;
+  const event = parseEventPage(provisionalHtml, "https://www.ufc.com/event/ufc-333");
+  assert.deepEqual(event.sections.map(({ key }) => key), ["early-prelims", "prelims", "main-card"]);
+  assert.equal(event.sections[0].fights.length, 0);
+  assert.equal(event.sections[2].fights.length, 1);
+  assert.equal(event.sections[2].provisional, true);
+  assert.equal(event.sections[2].start?.toISOString(), "2026-10-24T18:00:00.000Z");
+});
+
+test("tracks reschedules and retains events missing from consecutive listings", () => {
+  const store: EventStore = { events: {} };
+  const first = parseEventPage(eventHtml, "https://www.ufc.com/event/noche-test");
+  const initial = reconcileEvents(store, [first], new Date("2026-09-01T12:00:00Z"));
+  assert.equal(initial[0].scheduleStatus?.state, "scheduled");
+
+  const moved = parseEventPage(eventHtml.replace("1789236000", "1789322400"), "https://www.ufc.com/event/noche-test");
+  const rescheduled = reconcileEvents(store, [moved], new Date("2026-09-02T12:00:00Z"));
+  assert.equal(rescheduled[0].scheduleStatus?.state, "rescheduled");
+  assert.equal(rescheduled[0].scheduleStatus?.previousStart, "2026-09-12T18:00:00.000Z");
+
+  reconcileEvents(store, [], new Date("2026-09-03T12:00:00Z"));
+  const missingTwice = reconcileEvents(store, [], new Date("2026-09-04T12:00:00Z"));
+  assert.equal(missingTwice[0].scheduleStatus?.state, "unlisted");
+});
+
+test("preserves an explicit UFC cancellation in calendar status", () => {
+  const cancelledPage = eventHtml.replace("<h1>Noche UFC</h1>", "<h1>Noche UFC Cancelled</h1>");
+  const event = parseEventPage(cancelledPage, "https://www.ufc.com/event/noche-cancelled");
+  const events = reconcileEvents({ events: {} }, [event], new Date("2026-09-12T12:00:00Z"));
+  const output = renderCalendar(events, { generatedAt: new Date("2026-09-12T12:00:00Z") }).replace(/\r\n[ \t]/g, "");
+  assert.match(output, /Event status: Cancelled · verified 12 Sep 2026/);
+  assert.match(output, /STATUS:CANCELLED/);
+});
+
 test("renders UTC calendar data so calendar clients localise it", () => {
   const event = parseEventPage(eventHtml, "https://www.ufc.com/event/noche-test");
   const fight = event.sections[0].fights[0];
@@ -78,6 +126,17 @@ test("renders UTC calendar data so calendar clients localise it", () => {
   assert.match(unfolded, /Delgado: 10-1-0 \| 27yo \| Odds \+325 \(4.25\)/);
   assert.match(unfolded, /12 Sep: Silva -425 \(1.24\) \| Delgado \+325 \(4.25\)/);
   assert.match(unfolded, /X-ALT-DESC;FMTTYPE=text\/html:<html><body><p>UFC/);
+  assert.match(unfolded, /Event status: Scheduled · verified 12 Sep 2026/);
+
+  const combinedOutput = renderCombinedCalendar([event], { generatedAt: new Date("2026-09-12T12:00:00Z") }).replace(/\r\n[ \t]/g, "");
+  assert.equal((combinedOutput.match(/BEGIN:VEVENT/g) ?? []).length, 1);
+  assert.match(combinedOutput, /SUMMARY:Noche UFC: Silva vs Delgado/);
+  assert.match(combinedOutput, /── PRELIMS · 1 bout ──/);
+
+  const fightsOutput = renderEstimatedFightCalendar([event], { generatedAt: new Date("2026-09-12T12:00:00Z") }).replace(/\r\n[ \t]/g, "");
+  assert.match(fightsOutput, /X-WR-CALNAME:UFC Estimated Fight Times/);
+  assert.match(fightsOutput, /DTSTART:20260912T180000Z/);
+  assert.match(fightsOutput, /SUMMARY:🥊 1\. Jean Silva vs\. Jose Miguel Delgado \(estimated\)/);
 });
 
 test("odds are checked weekly and unchanged values do not inflate history", () => {

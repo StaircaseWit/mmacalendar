@@ -36,6 +36,7 @@ export interface CardDefinition {
 export interface CardSection extends CardDefinition {
   start: Date | null;
   fights: Fight[];
+  provisional?: boolean;
 }
 
 export interface UfcEvent {
@@ -45,6 +46,39 @@ export interface UfcEvent {
   location: string;
   heroStart: Date | null;
   sections: CardSection[];
+  sourceStatus?: "scheduled" | "postponed" | "cancelled";
+  scheduleStatus?: EventScheduleStatus;
+}
+
+export type EventScheduleState = "scheduled" | "rescheduled" | "postponed" | "cancelled" | "unlisted";
+
+export interface EventScheduleStatus {
+  state: EventScheduleState;
+  checkedAt: string;
+  previousStart?: string | null;
+  missingChecks?: number;
+}
+
+export interface StoredCardSection extends Omit<CardSection, "start"> {
+  start: string | null;
+}
+
+export interface StoredUfcEvent extends Omit<UfcEvent, "heroStart" | "sections" | "scheduleStatus"> {
+  heroStart: string | null;
+  sections: StoredCardSection[];
+}
+
+export interface TrackedEvent {
+  event: StoredUfcEvent;
+  status: EventScheduleState;
+  firstSeenAt: string;
+  lastSeenAt: string;
+  previousStart?: string | null;
+  missingChecks: number;
+}
+
+export interface EventStore {
+  events: Record<string, TrackedEvent>;
 }
 
 export interface AthleteProfile {

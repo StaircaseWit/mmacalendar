@@ -1,0 +1,3137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Detailed UFC Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Complete UFC Events
+X-WR-CALDESC:One complete calendar entry per UFC event with all announced b
+ outs.
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ufc-fight-night-may-16-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260516T210000Z
+DTEND:20260517T030000Z
+SUMMARY:UFC Fight Night: Allen vs Costa
+DESCRIPTION:UFC · Complete Event · 13 announced bouts\n\n📍 Meta APEX\,
+  Las Vegas\, United States\n\n🕒 22:00–Sun 04:00 Ireland\n\nBout times
+  are estimates and may shift as the card progresses.\n\n── MAIN CARD 
+ · 6 bouts ──\n\n🥊 13. 𝗔𝗿𝗻𝗼𝗹𝗱 𝗔𝗹𝗹𝗲
+ 𝗻 (#7) 🇪🇳 vs. 𝗠𝗲𝗹𝗾𝘂𝗶𝘇𝗮𝗲𝗹 𝗖𝗼
+ 𝘀𝘁𝗮 (#12) 🇧🇷 - 145lbs/66kg Featherweight · Est. 03:30 Irel
+ and\n    Allen: 21-4-0 | 32yo | Odds unavailable\n    Costa: 26-7-0 | 29yo
+  | Odds unavailable\n    Odds history: not checked yet\n\n🥊 12. 𝗗
+ 𝗼𝗼𝗵𝗼 𝗖𝗵𝗼𝗶 🇰🇷 vs. 𝗗𝗮𝗻𝗶𝗲𝗹 
+ 𝗦𝗮𝗻𝘁𝗼𝘀 🇧🇷 - 145lbs/66kg Featherweight · Est. 03:0
+ 0 Ireland\n    Choi: 17-4-1 | 35yo | Odds unavailable\n    Santos: 14-3-0 
+ | 31yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 11. 
+ 𝗠𝗮𝗹𝗰𝗼𝗹𝗺 𝗪𝗲𝗹𝗹𝗺𝗮𝗸𝗲𝗿 🇺🇸
+  vs. 𝗝𝘂𝗮𝗻 𝗗𝗶𝗮𝘇 🇵🇪 - 135lbs/61kg Bantamweight
+  · Est. 02:30 Ireland\n    Wellmaker: 10-2-0 | 31yo | Odds unavailable\n 
+    Diaz: 16-1-1 | 27yo | Odds unavailable\n    Odds history: not checked y
+ et\n\n🥊 10. 𝗠𝗼𝗱𝗲𝘀𝘁𝗮𝘀 𝗕𝘂𝗸𝗮𝘂𝘀
+ 𝗸𝗮𝘀 🇱🇹 vs. 𝗖𝗵𝗿𝗶𝘀𝘁𝗶𝗮𝗻 𝗘𝗱
+ 𝘄𝗮𝗿𝗱𝘀 🇺🇸 - Catchweight · Est. 02:00 Ireland\n    Buk
+ auskas: 21-7-0 | 32yo | Odds unavailable\n    Edwards: 8-5-0 | age unavail
+ able | Odds unavailable\n    Odds history: not checked yet\n\n🥊 9. 𝗧
+ 𝗶𝗺𝗺𝘆 𝗖𝘂𝗮𝗺𝗯𝗮 🇺🇸 vs. 𝗕𝗲𝗻𝗮
+ 𝗿𝗱𝗼 𝗦𝗼𝗽𝗮𝗷 🇦🇱 - 135lbs/61kg Bantamweight · E
+ st. 01:30 Ireland\n    Cuamba: 10-4-0 | 27yo | Odds unavailable\n    Sopaj
+ : 13-3-0 | 25yo | Odds unavailable\n    Odds history: not checked yet\n\n
+ 🥊 8. 𝗡𝗶𝗸𝗼𝗹𝗮𝘆 𝗩𝗲𝗿𝗲𝘁𝗲𝗻𝗻𝗶
+ 𝗸𝗼𝘃 🇰🇿 vs. 𝗞𝗵𝗮𝗼𝘀 𝗪𝗶𝗹𝗹𝗶𝗮
+ 𝗺𝘀 🇺🇸 - 170lbs/77kg Welterweight · Est. 01:00 Ireland\n    Ve
+ retennikov: 14-7-0 | 36yo | Odds unavailable\n    Williams: 16-5-0 | 32yo 
+ | Odds unavailable\n    Odds history: not checked yet\n\n── PRELIMS ·
+  7 bouts ──\n\n🥊 7. 𝗧𝘂𝗰𝗼 𝗧𝗼𝗸𝗸𝗼𝘀 🇪
+ 🇳 vs. 𝗜𝘃𝗮𝗻 𝗘𝗿𝘀𝗹𝗮𝗻 🇭🇷 - 205lbs/93kg 
+ Light Heavyweight · Est. Sun 00:35 Ireland\n    Tokkos: 11-6-0 | 35yo | O
+ dds unavailable\n    Erslan: 15-6-0 | 34yo | Odds unavailable\n    Odds hi
+ story: not checked yet\n\n🥊 6. 𝗧𝗼𝗺𝗺𝘆 𝗚𝗮𝗻𝘁
+ 𝘁 🇺🇸 vs. 𝗔𝗿𝘁𝘂𝗿 𝗠𝗶𝗻𝗲𝘃 🇺🇦 - 155
+ lbs/70kg Lightweight · Est. Sun 00:10 Ireland\n    Gantt: 12-0-0 | 33yo |
+  Odds unavailable\n    Minev: 7-1-0 | 22yo | Odds unavailable\n    Odds hi
+ story: not checked yet\n\n🥊 5. 𝗞𝗲𝘁𝗹𝗲𝗻 𝗩𝗶𝗲
+ 𝗶𝗿𝗮 (#5) 🇧🇷 vs. 𝗝𝗮𝗰𝗾𝘂𝗲𝗹𝗶𝗻𝗲 
+ 𝗖𝗮𝘃𝗮𝗹𝗰𝗮𝗻𝘁𝗶 (#11) 🇵🇹 - 135lbs/61kg Wome
+ n's Bantamweight · Est. 23:45 Ireland\n    Vieira: 16-5-0 | 34yo | Odds u
+ navailable\n    Cavalcanti: 10-2-0 | 28yo | Odds unavailable\n    Odds his
+ tory: not checked yet\n\n🥊 4. 𝗖𝗼𝗱𝘆 𝗕𝗿𝘂𝗻𝗱𝗮
+ 𝗴𝗲 🇺🇸 vs. 𝗔𝗻𝗱𝗿𝗲 𝗣𝗲𝘁𝗿𝗼𝘀𝗸
+ 𝗶 🇺🇸 - 185lbs/84kg Middleweight · Est. 23:15 Ireland\n    Brunda
+ ge: 12-9-1 | 32yo | Odds unavailable\n    Petroski: 13-7-0 | 34yo | Odds u
+ navailable\n    Odds history: not checked yet\n\n🥊 3. 𝗔𝗹𝗶𝗰
+ 𝗲 𝗔𝗿𝗱𝗲𝗹𝗲𝗮𝗻 🇷🇴 vs. 𝗣𝗼𝗹𝘆𝗮
+ 𝗻𝗮 𝗩𝗶𝗮𝗻𝗮 🇧🇷 - 115lbs/52kg Women's Strawweight 
+ · Est. 22:50 Ireland\n    Ardelean: 12-7-0 | 34yo | Odds unavailable\n   
+  Viana: 13-9-0 | 33yo | Odds unavailable\n    Odds history: not checked ye
+ t\n\n🥊 2. 𝗗𝗮𝗻𝗶𝗲𝗹 𝗕𝗮𝗿𝗲𝘇 🇪🇸 vs. 
+ 𝗟𝘂𝗶𝘀 𝗚𝘂𝗿𝘂𝗹𝗲 🇺🇸 - 125lbs/57kg Flyweight
+  · Est. 22:25 Ireland\n    Barez: 17-8-0 | 37yo | Odds unavailable\n    G
+ urule: 11-3-0 | 32yo | Odds unavailable\n    Odds history: not checked yet
+ \n\n🥊 1. 𝗦𝗵𝗮𝘂𝗻𝗮 𝗕𝗮𝗻𝗻𝗼𝗻 🇮🇪 vs.
+  𝗡𝗶𝗰𝗼𝗹𝗹𝗲 𝗖𝗮𝗹𝗶𝗮𝗿𝗶 🇧🇷 - 115l
+ bs/52kg Women's Strawweight · Est. 22:00 Ireland\n    Bannon: 7-3-0 | 32y
+ o | Odds unavailable\n    Caliari: 9-4-0 | 29yo | Odds unavailable\n    Od
+ ds history: not checked yet\n\nSource: https://www.ufc.com/event/ufc-fight
+ -night-may-16-2026\n\nFull odds log: https://staircasewit.github.io/mmacal
+ endar/odds-history.html\n\nCalendar updated: 2026-09-12T11:18:51.708Z\n\nE
+ vent status: Scheduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 13 ann
+ ounced bouts<br><br>📍 Meta APEX\, Las Vegas\, United States<br><br>🕒
+  22:00–Sun 04:00 Ireland<br><br>Bout times are estimates and may shift a
+ s the card progresses.<br><br>── MAIN CARD · 6 bouts ──<br><br>
+ 🥊 13. 𝗔𝗿𝗻𝗼𝗹𝗱 𝗔𝗹𝗹𝗲𝗻 (#7) 🇪🇳 vs. 
+ 𝗠𝗲𝗹𝗾𝘂𝗶𝘇𝗮𝗲𝗹 𝗖𝗼𝘀𝘁𝗮 (#12) 🇧
+ 🇷 - 145lbs/66kg Featherweight · Est. 03:30 Ireland<br>    Allen: 21-4-
+ 0 | 32yo | Odds unavailable<br>    Costa: 26-7-0 | 29yo | Odds unavailable
+ <br>    Odds history: not checked yet<br><br>🥊 12. 𝗗𝗼𝗼𝗵𝗼
+  𝗖𝗵𝗼𝗶 🇰🇷 vs. 𝗗𝗮𝗻𝗶𝗲𝗹 𝗦𝗮𝗻𝘁
+ 𝗼𝘀 🇧🇷 - 145lbs/66kg Featherweight · Est. 03:00 Ireland<br>   
+  Choi: 17-4-1 | 35yo | Odds unavailable<br>    Santos: 14-3-0 | 31yo | Odd
+ s unavailable<br>    Odds history: not checked yet<br><br>🥊 11. 𝗠
+ 𝗮𝗹𝗰𝗼𝗹𝗺 𝗪𝗲𝗹𝗹𝗺𝗮𝗸𝗲𝗿 🇺🇸 vs.
+  𝗝𝘂𝗮𝗻 𝗗𝗶𝗮𝘇 🇵🇪 - 135lbs/61kg Bantamweight · 
+ Est. 02:30 Ireland<br>    Wellmaker: 10-2-0 | 31yo | Odds unavailable<br> 
+    Diaz: 16-1-1 | 27yo | Odds unavailable<br>    Odds history: not checked
+  yet<br><br>🥊 10. 𝗠𝗼𝗱𝗲𝘀𝘁𝗮𝘀 𝗕𝘂𝗸𝗮𝘂
+ 𝘀𝗸𝗮𝘀 🇱🇹 vs. 𝗖𝗵𝗿𝗶𝘀𝘁𝗶𝗮𝗻 𝗘
+ 𝗱𝘄𝗮𝗿𝗱𝘀 🇺🇸 - Catchweight · Est. 02:00 Ireland<br> 
+    Bukauskas: 21-7-0 | 32yo | Odds unavailable<br>    Edwards: 8-5-0 | age
+  unavailable | Odds unavailable<br>    Odds history: not checked yet<br><b
+ r>🥊 9. 𝗧𝗶𝗺𝗺𝘆 𝗖𝘂𝗮𝗺𝗯𝗮 🇺🇸 vs. 𝗕
+ 𝗲𝗻𝗮𝗿𝗱𝗼 𝗦𝗼𝗽𝗮𝗷 🇦🇱 - 135lbs/61kg Banta
+ mweight · Est. 01:30 Ireland<br>    Cuamba: 10-4-0 | 27yo | Odds unavaila
+ ble<br>    Sopaj: 13-3-0 | 25yo | Odds unavailable<br>    Odds history: no
+ t checked yet<br><br>🥊 8. 𝗡𝗶𝗸𝗼𝗹𝗮𝘆 𝗩𝗲𝗿𝗲
+ 𝘁𝗲𝗻𝗻𝗶𝗸𝗼𝘃 🇰🇿 vs. 𝗞𝗵𝗮𝗼𝘀 𝗪
+ 𝗶𝗹𝗹𝗶𝗮𝗺𝘀 🇺🇸 - 170lbs/77kg Welterweight · Est. 0
+ 1:00 Ireland<br>    Veretennikov: 14-7-0 | 36yo | Odds unavailable<br>    
+ Williams: 16-5-0 | 32yo | Odds unavailable<br>    Odds history: not checke
+ d yet<br><br>── PRELIMS · 7 bouts ──<br><br>🥊 7. 𝗧𝘂𝗰
+ 𝗼 𝗧𝗼𝗸𝗸𝗼𝘀 🇪🇳 vs. 𝗜𝘃𝗮𝗻 𝗘𝗿𝘀
+ 𝗹𝗮𝗻 🇭🇷 - 205lbs/93kg Light Heavyweight · Est. Sun 00:35 Ir
+ eland<br>    Tokkos: 11-6-0 | 35yo | Odds unavailable<br>    Erslan: 15-6-
+ 0 | 34yo | Odds unavailable<br>    Odds history: not checked yet<br><br>
+ 🥊 6. 𝗧𝗼𝗺𝗺𝘆 𝗚𝗮𝗻𝘁𝘁 🇺🇸 vs. 𝗔𝗿
+ 𝘁𝘂𝗿 𝗠𝗶𝗻𝗲𝘃 🇺🇦 - 155lbs/70kg Lightweight · Es
+ t. Sun 00:10 Ireland<br>    Gantt: 12-0-0 | 33yo | Odds unavailable<br>   
+  Minev: 7-1-0 | 22yo | Odds unavailable<br>    Odds history: not checked y
+ et<br><br>🥊 5. 𝗞𝗲𝘁𝗹𝗲𝗻 𝗩𝗶𝗲𝗶𝗿𝗮 (#5) 
+ 🇧🇷 vs. 𝗝𝗮𝗰𝗾𝘂𝗲𝗹𝗶𝗻𝗲 𝗖𝗮𝘃𝗮𝗹
+ 𝗰𝗮𝗻𝘁𝗶 (#11) 🇵🇹 - 135lbs/61kg Women&#39\;s Bantamweigh
+ t · Est. 23:45 Ireland<br>    Vieira: 16-5-0 | 34yo | Odds unavailable<br
+ >    Cavalcanti: 10-2-0 | 28yo | Odds unavailable<br>    Odds history: not
+  checked yet<br><br>🥊 4. 𝗖𝗼𝗱𝘆 𝗕𝗿𝘂𝗻𝗱𝗮𝗴
+ 𝗲 🇺🇸 vs. 𝗔𝗻𝗱𝗿𝗲 𝗣𝗲𝘁𝗿𝗼𝘀𝗸𝗶 
+ 🇺🇸 - 185lbs/84kg Middleweight · Est. 23:15 Ireland<br>    Brundage:
+  12-9-1 | 32yo | Odds unavailable<br>    Petroski: 13-7-0 | 34yo | Odds un
+ available<br>    Odds history: not checked yet<br><br>🥊 3. 𝗔𝗹𝗶
+ 𝗰𝗲 𝗔𝗿𝗱𝗲𝗹𝗲𝗮𝗻 🇷🇴 vs. 𝗣𝗼𝗹𝘆
+ 𝗮𝗻𝗮 𝗩𝗶𝗮𝗻𝗮 🇧🇷 - 115lbs/52kg Women&#39\;s Stra
+ wweight · Est. 22:50 Ireland<br>    Ardelean: 12-7-0 | 34yo | Odds unavai
+ lable<br>    Viana: 13-9-0 | 33yo | Odds unavailable<br>    Odds history: 
+ not checked yet<br><br>🥊 2. 𝗗𝗮𝗻𝗶𝗲𝗹 𝗕𝗮𝗿𝗲
+ 𝘇 🇪🇸 vs. 𝗟𝘂𝗶𝘀 𝗚𝘂𝗿𝘂𝗹𝗲 🇺🇸 - 125
+ lbs/57kg Flyweight · Est. 22:25 Ireland<br>    Barez: 17-8-0 | 37yo | Odd
+ s unavailable<br>    Gurule: 11-3-0 | 32yo | Odds unavailable<br>    Odds 
+ history: not checked yet<br><br>🥊 1. 𝗦𝗵𝗮𝘂𝗻𝗮 𝗕𝗮
+ 𝗻𝗻𝗼𝗻 🇮🇪 vs. 𝗡𝗶𝗰𝗼𝗹𝗹𝗲 𝗖𝗮𝗹
+ 𝗶𝗮𝗿𝗶 🇧🇷 - 115lbs/52kg Women&#39\;s Strawweight · Est. 2
+ 2:00 Ireland<br>    Bannon: 7-3-0 | 32yo | Odds unavailable<br>    Caliari
+ : 9-4-0 | 29yo | Odds unavailable<br>    Odds history: not checked yet<br>
+ <br>Source: https://www.ufc.com/event/ufc-fight-night-may-16-2026<br><br>F
+ ull odds log: https://staircasewit.github.io/mmacalendar/odds-history.html
+ <br><br>Calendar updated: 2026-09-12T11:18:51.708Z<br><br>Event status: Sc
+ heduled · verified 12 Sep 2026</p></body></html>
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-may-16-2026
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-may-30-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260530T080000Z
+DTEND:20260530T140000Z
+SUMMARY:UFC Fight Night: Song vs Figueiredo
+DESCRIPTION:UFC · Complete Event · 13 announced bouts\n\n📍 Galaxy Aren
+ a\, Macao\n\n🕒 09:00–15:00 Ireland\n\nBout times are estimates and ma
+ y shift as the card progresses.\n\n── MAIN CARD · 6 bouts ──\n\n
+ 🥊 13. 𝗦𝗼𝗻𝗴 𝗬𝗮𝗱𝗼𝗻𝗴 (#5) 🇨🇳 vs. 𝗗
+ 𝗲𝗶𝘃𝗲𝘀𝗼𝗻 𝗙𝗶𝗴𝘂𝗲𝗶𝗿𝗲𝗱𝗼 (#7)
+  🇧🇷 - 135lbs/61kg Bantamweight · Est. 14:30 Ireland\n    Yadong: 24
+ -9-1 | 28yo | Odds unavailable\n    Figueiredo: 25-7-1 | 38yo | Odds unava
+ ilable\n    Odds history: not checked yet\n\n🥊 12. 𝗭𝗵𝗮𝗻𝗴
+  𝗠𝗶𝗻𝗴𝘆𝗮𝗻𝗴 🇨🇳 vs. 𝗔𝗹𝗼𝗻𝘇𝗼 
+ 𝗠𝗲𝗻𝗶𝗳𝗶𝗲𝗹𝗱 (#15) 🇺🇸 - 205lbs/93kg Light He
+ avyweight · Est. 14:00 Ireland\n    Mingyang: 19-8-0 | 27yo | Odds unavai
+ lable\n    Menifield: 18-6-1 | 38yo | Odds unavailable\n    Odds history: 
+ not checked yet\n\n🥊 11. 𝗦𝗲𝗿𝗴𝗲𝗶 𝗣𝗮𝘃𝗹𝗼
+ 𝘃𝗶𝗰𝗵 (#3) 🇷🇺 vs. 𝗧𝗮𝗹𝗹𝗶𝘀𝗼𝗻 𝗧
+ 𝗲𝗶𝘅𝗲𝗶𝗿𝗮 (#15) 🇧🇷 - 265lbs/120kg Heavyweight · 
+ Est. 13:30 Ireland\n    Pavlovich: 21-3-0 | 34yo | Odds unavailable\n    T
+ eixeira: 9-2-0 | 26yo | Odds unavailable\n    Odds history: not checked ye
+ t\n\n🥊 10. 𝗞𝗮𝗶 𝗔𝘀𝗮𝗸𝘂𝗿𝗮 🇯🇵 vs. 𝗖
+ 𝗮𝗺𝗲𝗿𝗼𝗻 𝗦𝗺𝗼𝘁𝗵𝗲𝗿𝗺𝗮𝗻 🇺🇸
+  - 135lbs/61kg Bantamweight · Est. 13:00 Ireland\n    Asakura: 23-6-0 | 3
+ 2yo | Odds unavailable\n    Smotherman: 12-7-0 | 28yo | Odds unavailable\n
+     Odds history: not checked yet\n\n🥊 9. 𝗝𝗮𝗸𝗲 𝗠𝗮𝘁
+ 𝘁𝗵𝗲𝘄𝘀 🇦🇺 vs. 𝗖𝗮𝗿𝗹𝘀𝘁𝗼𝗻 𝗛
+ 𝗮𝗿𝗿𝗶𝘀 🇬🇾 - 170lbs/77kg Welterweight · Est. 12:30 Ire
+ land\n    Matthews: 23-8-0 | 31yo | Odds unavailable\n    Harris: 19-8-0 |
+  38yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 8. 
+ 𝗔𝗹𝗲𝘅 𝗣𝗲𝗿𝗲𝘇 (#11) 🇺🇸 vs. 𝗦𝘂𝗺𝘂
+ 𝗱𝗮𝗲𝗿𝗷𝗶 🇨🇳 - 125lbs/57kg Flyweight · Est. 12:00 Ir
+ eland\n    Perez: 26-11-0 | 34yo | Odds unavailable\n    Mudaerji: 20-7-0 
+ | 30yo | Odds unavailable\n    Odds history: not checked yet\n\n── PRE
+ LIMS · 7 bouts ──\n\n🥊 7. 𝗬𝗶𝗦𝗮𝗸 𝗟𝗲𝗲 🇰
+ 🇷 vs. 𝗟𝘂𝗶𝘀 𝗙𝗲𝗹𝗶𝗽𝗲 𝗗𝗶𝗮𝘀 🇧
+ 🇷 - 185lbs/84kg Middleweight · Est. 11:35 Ireland\n    Lee: 8-2-0 | 26
+ yo | Odds unavailable\n    Felipe Dias: 18-5-0 | 31yo | Odds unavailable\n
+     Odds history: not checked yet\n\n🥊 6. 𝗗𝗶𝗻𝗴 𝗠𝗲𝗻
+ 𝗴 🇨🇳 vs. 𝗝𝗼𝘀é 𝗦𝗼𝘂𝘇𝗮 🇧🇷 - 170lbs/77
+ kg Welterweight · Est. 11:10 Ireland\n    Meng: 35-11-0 | 31yo | Odds una
+ vailable\n    Souza: 9-1-0 | 24yo | Odds unavailable\n    Odds history: no
+ t checked yet\n\n🥊 5. 𝗔𝗼𝗿𝗶𝗾𝗶𝗹𝗲𝗻𝗴 🇨🇳
+  vs. 𝗖𝗼𝗱𝘆 𝗛𝗮𝗱𝗱𝗼𝗻 🇦🇺 - 135lbs/61kg Bant
+ amweight · Est. 10:45 Ireland\n    Aoriqileng: 26-14-0 | 32yo | Odds unav
+ ailable\n    Haddon: 9-1-0 | 27yo | Odds unavailable\n    Odds history: no
+ t checked yet\n\n🥊 4. 𝗥𝗲𝗶 𝗧𝘀𝘂𝗿𝘂𝘆𝗮 🇯
+ 🇵 vs. 𝗟𝘂𝗶𝘀 𝗚𝘂𝗿𝘂𝗹𝗲 🇺🇸 - 135lbs/61kg 
+ Bantamweight · Est. 10:15 Ireland\n    Tsuruya: 12-1-0 | 23yo | Odds unav
+ ailable\n    Gurule: 11-3-0 | 32yo | Odds unavailable\n    Odds history: n
+ ot checked yet\n\n🥊 3. 𝗔𝗻𝗴𝗲𝗹𝗮 𝗛𝗶𝗹𝗹 (#14) 
+ 🇺🇸 vs. 𝗫𝗶𝗼𝗻𝗴 𝗝𝗶𝗻𝗴𝗻𝗮𝗻 🇨🇳 - 
+ 115lbs/52kg Women's Strawweight · Est. 09:50 Ireland\n    Hill: 19-16-0 |
+  41yo | Odds unavailable\n    Jingnan: 19-4-0 | 38yo | Odds unavailable\n 
+    Odds history: not checked yet\n\n🥊 2. 𝗭𝗵𝘂 𝗞𝗮𝗻𝗴
+ 𝗷𝗶𝗲 🇨🇳 vs. 𝗥𝗼𝗱𝗿𝗶𝗴𝗼 𝗩𝗲𝗿𝗮 
+ 🇵🇪 - 145lbs/66kg Featherweight · Est. 09:25 Ireland\n    Kangjie: 2
+ 1-5-0 | 30yo | Odds unavailable\n    Vera: 22-1-1 | 30yo | Odds unavailabl
+ e\n    Odds history: not checked yet\n\n🥊 1. 𝗟𝗼𝗺𝗮 𝗟𝗼
+ 𝗼𝗸𝗯𝗼𝗼𝗻𝗺𝗲𝗲 🇹🇭 vs. 𝗝𝗮𝗾𝘂𝗲𝗹
+ 𝗶𝗻𝗲 𝗔𝗺𝗼𝗿𝗶𝗺 🇧🇷 - 115lbs/52kg Women's Straw
+ weight · Est. 09:00 Ireland\n    Lookboonmee: 10-5-0 | 30yo | Odds unavai
+ lable\n    Amorim: 11-2-0 | 30yo | Odds unavailable\n    Odds history: not
+  checked yet\n\nSource: https://www.ufc.com/event/ufc-fight-night-may-30-2
+ 026\n\nFull odds log: https://staircasewit.github.io/mmacalendar/odds-hist
+ ory.html\n\nCalendar updated: 2026-09-12T11:18:51.708Z\n\nEvent status: Sc
+ heduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 13 ann
+ ounced bouts<br><br>📍 Galaxy Arena\, Macao<br><br>🕒 09:00–15:00 Ir
+ eland<br><br>Bout times are estimates and may shift as the card progresses
+ .<br><br>── MAIN CARD · 6 bouts ──<br><br>🥊 13. 𝗦𝗼𝗻
+ 𝗴 𝗬𝗮𝗱𝗼𝗻𝗴 (#5) 🇨🇳 vs. 𝗗𝗲𝗶𝘃𝗲𝘀
+ 𝗼𝗻 𝗙𝗶𝗴𝘂𝗲𝗶𝗿𝗲𝗱𝗼 (#7) 🇧🇷 - 135lbs/6
+ 1kg Bantamweight · Est. 14:30 Ireland<br>    Yadong: 24-9-1 | 28yo | Odds
+  unavailable<br>    Figueiredo: 25-7-1 | 38yo | Odds unavailable<br>    Od
+ ds history: not checked yet<br><br>🥊 12. 𝗭𝗵𝗮𝗻𝗴 𝗠𝗶
+ 𝗻𝗴𝘆𝗮𝗻𝗴 🇨🇳 vs. 𝗔𝗹𝗼𝗻𝘇𝗼 𝗠𝗲
+ 𝗻𝗶𝗳𝗶𝗲𝗹𝗱 (#15) 🇺🇸 - 205lbs/93kg Light Heavyweigh
+ t · Est. 14:00 Ireland<br>    Mingyang: 19-8-0 | 27yo | Odds unavailable<
+ br>    Menifield: 18-6-1 | 38yo | Odds unavailable<br>    Odds history: no
+ t checked yet<br><br>🥊 11. 𝗦𝗲𝗿𝗴𝗲𝗶 𝗣𝗮𝘃𝗹
+ 𝗼𝘃𝗶𝗰𝗵 (#3) 🇷🇺 vs. 𝗧𝗮𝗹𝗹𝗶𝘀𝗼𝗻 
+ 𝗧𝗲𝗶𝘅𝗲𝗶𝗿𝗮 (#15) 🇧🇷 - 265lbs/120kg Heavyweight
+  · Est. 13:30 Ireland<br>    Pavlovich: 21-3-0 | 34yo | Odds unavailable<
+ br>    Teixeira: 9-2-0 | 26yo | Odds unavailable<br>    Odds history: not 
+ checked yet<br><br>🥊 10. 𝗞𝗮𝗶 𝗔𝘀𝗮𝗸𝘂𝗿𝗮 🇯
+ 🇵 vs. 𝗖𝗮𝗺𝗲𝗿𝗼𝗻 𝗦𝗺𝗼𝘁𝗵𝗲𝗿𝗺𝗮
+ 𝗻 🇺🇸 - 135lbs/61kg Bantamweight · Est. 13:00 Ireland<br>    Asak
+ ura: 23-6-0 | 32yo | Odds unavailable<br>    Smotherman: 12-7-0 | 28yo | O
+ dds unavailable<br>    Odds history: not checked yet<br><br>🥊 9. 𝗝
+ 𝗮𝗸𝗲 𝗠𝗮𝘁𝘁𝗵𝗲𝘄𝘀 🇦🇺 vs. 𝗖𝗮𝗿
+ 𝗹𝘀𝘁𝗼𝗻 𝗛𝗮𝗿𝗿𝗶𝘀 🇬🇾 - 170lbs/77kg Welte
+ rweight · Est. 12:30 Ireland<br>    Matthews: 23-8-0 | 31yo | Odds unavai
+ lable<br>    Harris: 19-8-0 | 38yo | Odds unavailable<br>    Odds history:
+  not checked yet<br><br>🥊 8. 𝗔𝗹𝗲𝘅 𝗣𝗲𝗿𝗲𝘇 (#11
+ ) 🇺🇸 vs. 𝗦𝘂𝗺𝘂𝗱𝗮𝗲𝗿𝗷𝗶 🇨🇳 - 125lbs/
+ 57kg Flyweight · Est. 12:00 Ireland<br>    Perez: 26-11-0 | 34yo | Odds u
+ navailable<br>    Mudaerji: 20-7-0 | 30yo | Odds unavailable<br>    Odds h
+ istory: not checked yet<br><br>── PRELIMS · 7 bouts ──<br><br>
+ 🥊 7. 𝗬𝗶𝗦𝗮𝗸 𝗟𝗲𝗲 🇰🇷 vs. 𝗟𝘂𝗶𝘀 
+ 𝗙𝗲𝗹𝗶𝗽𝗲 𝗗𝗶𝗮𝘀 🇧🇷 - 185lbs/84kg Middlewei
+ ght · Est. 11:35 Ireland<br>    Lee: 8-2-0 | 26yo | Odds unavailable<br> 
+    Felipe Dias: 18-5-0 | 31yo | Odds unavailable<br>    Odds history: not 
+ checked yet<br><br>🥊 6. 𝗗𝗶𝗻𝗴 𝗠𝗲𝗻𝗴 🇨🇳 vs. 
+ 𝗝𝗼𝘀é 𝗦𝗼𝘂𝘇𝗮 🇧🇷 - 170lbs/77kg Welterweight ·
+  Est. 11:10 Ireland<br>    Meng: 35-11-0 | 31yo | Odds unavailable<br>    
+ Souza: 9-1-0 | 24yo | Odds unavailable<br>    Odds history: not checked ye
+ t<br><br>🥊 5. 𝗔𝗼𝗿𝗶𝗾𝗶𝗹𝗲𝗻𝗴 🇨🇳 vs. 
+ 𝗖𝗼𝗱𝘆 𝗛𝗮𝗱𝗱𝗼𝗻 🇦🇺 - 135lbs/61kg Bantamwei
+ ght · Est. 10:45 Ireland<br>    Aoriqileng: 26-14-0 | 32yo | Odds unavail
+ able<br>    Haddon: 9-1-0 | 27yo | Odds unavailable<br>    Odds history: n
+ ot checked yet<br><br>🥊 4. 𝗥𝗲𝗶 𝗧𝘀𝘂𝗿𝘂𝘆𝗮 
+ 🇯🇵 vs. 𝗟𝘂𝗶𝘀 𝗚𝘂𝗿𝘂𝗹𝗲 🇺🇸 - 135lbs/6
+ 1kg Bantamweight · Est. 10:15 Ireland<br>    Tsuruya: 12-1-0 | 23yo | Odd
+ s unavailable<br>    Gurule: 11-3-0 | 32yo | Odds unavailable<br>    Odds 
+ history: not checked yet<br><br>🥊 3. 𝗔𝗻𝗴𝗲𝗹𝗮 𝗛𝗶
+ 𝗹𝗹 (#14) 🇺🇸 vs. 𝗫𝗶𝗼𝗻𝗴 𝗝𝗶𝗻𝗴𝗻𝗮
+ 𝗻 🇨🇳 - 115lbs/52kg Women&#39\;s Strawweight · Est. 09:50 Ireland
+ <br>    Hill: 19-16-0 | 41yo | Odds unavailable<br>    Jingnan: 19-4-0 | 3
+ 8yo | Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 2.
+  𝗭𝗵𝘂 𝗞𝗮𝗻𝗴𝗷𝗶𝗲 🇨🇳 vs. 𝗥𝗼𝗱𝗿
+ 𝗶𝗴𝗼 𝗩𝗲𝗿𝗮 🇵🇪 - 145lbs/66kg Featherweight · Est.
+  09:25 Ireland<br>    Kangjie: 21-5-0 | 30yo | Odds unavailable<br>    Ver
+ a: 22-1-1 | 30yo | Odds unavailable<br>    Odds history: not checked yet<b
+ r><br>🥊 1. 𝗟𝗼𝗺𝗮 𝗟𝗼𝗼𝗸𝗯𝗼𝗼𝗻𝗺𝗲
+ 𝗲 🇹🇭 vs. 𝗝𝗮𝗾𝘂𝗲𝗹𝗶𝗻𝗲 𝗔𝗺𝗼𝗿
+ 𝗶𝗺 🇧🇷 - 115lbs/52kg Women&#39\;s Strawweight · Est. 09:00 Ire
+ land<br>    Lookboonmee: 10-5-0 | 30yo | Odds unavailable<br>    Amorim: 1
+ 1-2-0 | 30yo | Odds unavailable<br>    Odds history: not checked yet<br><b
+ r>Source: https://www.ufc.com/event/ufc-fight-night-may-30-2026<br><br>Ful
+ l odds log: https://staircasewit.github.io/mmacalendar/odds-history.html<b
+ r><br>Calendar updated: 2026-09-12T11:18:51.708Z<br><br>Event status: Sche
+ duled · verified 12 Sep 2026</p></body></html>
+LOCATION:Galaxy Arena\, Macao
+URL:https://www.ufc.com/event/ufc-fight-night-may-30-2026
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-june-06-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260606T210000Z
+DTEND:20260607T030000Z
+SUMMARY:UFC Fight Night: Muhammad vs Bonfim
+DESCRIPTION:UFC · Complete Event · 12 announced bouts\n\n📍 Meta APEX\,
+  Las Vegas\, United States\n\n🕒 22:00–Sun 04:00 Ireland\n\nBout times
+  are estimates and may shift as the card progresses.\n\n── MAIN CARD 
+ · 5 bouts ──\n\n🥊 12. 𝗕𝗲𝗹𝗮𝗹 𝗠𝘂𝗵𝗮𝗺
+ 𝗺𝗮𝗱 (#5) 🇵🇸 vs. 𝗚𝗮𝗯𝗿𝗶𝗲𝗹 𝗕𝗼𝗻
+ 𝗳𝗶𝗺 (#11) 🇧🇷 - 170lbs/77kg Welterweight · Est. 03:25 Irela
+ nd\n    Muhammad: 24-6-0 | 37yo | Odds unavailable\n    Bonfim: 20-1-0 | 2
+ 8yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 11. 𝗕
+ 𝗿𝗲𝗻𝗱𝗮𝗻 𝗔𝗹𝗹𝗲𝗻 (#4) 🇧🇷 vs. 𝗘𝗱
+ 𝗺𝗲𝗻 𝗦𝗵𝗮𝗵𝗯𝗮𝘇𝘆𝗮𝗻 🇺🇸 - 185lbs/84
+ kg Middleweight · Est. 02:50 Ireland\n    Allen: 27-7-0 | 30yo | Odds una
+ vailable\n    Shahbazyan: 16-6-0 | 28yo | Odds unavailable\n    Odds histo
+ ry: not checked yet\n\n🥊 10. 𝗙𝗮𝗿è𝘀 𝗭𝗶𝗮𝗺 (#14) 
+ 🇫🇷 vs. 𝗧𝗼𝗺 𝗡𝗼𝗹𝗮𝗻 🇦🇺 - 155lbs/70kg Ligh
+ tweight · Est. 02:10 Ireland\n    Ziam: 18-6-0 | 29yo | Odds unavailable\
+ n    Nolan: 11-1-0 | 26yo | Odds unavailable\n    Odds history: not checke
+ d yet\n\n🥊 9. 𝗕𝗿𝘆𝗰𝗲 𝗠𝗶𝘁𝗰𝗵𝗲𝗹𝗹 
+ 🇺🇸 vs. 𝗦𝗮𝗻𝘁𝗶𝗮𝗴𝗼 𝗟𝘂𝗻𝗮 🇲🇽 - 
+ 135lbs/61kg Bantamweight · Est. 01:35 Ireland\n    Mitchell: 19-4-0 | 31y
+ o | Odds unavailable\n    Luna: 8-1-0 | 21yo | Odds unavailable\n    Odds 
+ history: not checked yet\n\n🥊 8. 𝗜𝘄𝗼 𝗕𝗮𝗿𝗮𝗻𝗶
+ 𝗲𝘄𝘀𝗸𝗶 🇵🇱 vs. 𝗝𝘂𝗻𝗶𝗼𝗿 𝗧𝗮𝗳
+ 𝗮 🇦🇺 - 205lbs/93kg Light Heavyweight · Est. 01:00 Ireland\n    B
+ araniewski: 9-0-0 | 27yo | Odds unavailable\n    Tafa: 7-6-0 | 29yo | Odds
+  unavailable\n    Odds history: not checked yet\n\n── PRELIMS · 7 bou
+ ts ──\n\n🥊 7. 𝗠𝗮𝘁𝘁 𝗦𝗰𝗵𝗻𝗲𝗹𝗹 🇺
+ 🇸 vs. 𝗔𝗹𝗲𝘀𝘀𝗮𝗻𝗱𝗿𝗼 𝗖𝗼𝘀𝘁𝗮 
+ 🇧🇷 - Catchweight · Est. Sun 00:35 Ireland\n    Schnell: 17-11-0 | 3
+ 6yo | Odds unavailable\n    Costa: 17-5-0 | 30yo | Odds unavailable\n    O
+ dds history: not checked yet\n\n🥊 6. 𝗠𝗮𝗿𝗰𝘂𝘀 𝗠𝗰
+ 𝗚𝗵𝗲𝗲 🇺🇸 vs. 𝗝𝗼𝗵𝗻 𝗬𝗮𝗻𝗻𝗶𝘀 
+ 🇺🇸 - 135lbs/61kg Bantamweight · Est. Sun 00:10 Ireland\n    McGhee:
+  11-2-0 | 36yo | Odds unavailable\n    Yannis: 10-5-0 | 31yo | Odds unavai
+ lable\n    Odds history: not checked yet\n\n🥊 5. 𝗕𝗿𝘂𝗻𝗼 
+ 𝗦𝗶𝗹𝘃𝗮 (#15) 🇧🇷 vs. 𝗘𝗱𝗴𝗮𝗿 𝗖𝗵𝗮
+ 𝗶𝗿𝗲𝘇 🇲🇽 - 125lbs/57kg Flyweight · Est. 23:45 Ireland\n 
+    Silva: 15-9-2 | 36yo | Odds unavailable\n    Chairez: 14-6-0 | 30yo | O
+ dds unavailable\n    Odds history: not checked yet\n\n🥊 4. 𝗣𝗿𝗶
+ 𝘀𝗰𝗶𝗹𝗮 𝗖𝗮𝗰𝗵𝗼𝗲𝗶𝗿𝗮 🇧🇷 vs. 
+ 𝗖𝗵𝗲𝗹𝘀𝗲𝗮 𝗖𝗵𝗮𝗻𝗱𝗹𝗲𝗿 🇺🇸 - 1
+ 35lbs/61kg Women's Bantamweight · Est. 23:15 Ireland\n    Cachoeira: 13-9
+ -0 | 37yo | Odds unavailable\n    Chandler: 7-4-0 | 35yo | Odds unavailabl
+ e\n    Odds history: not checked yet\n\n🥊 3. 𝗝𝗼𝗿𝗱𝗮𝗻 
+ 𝗟𝗲𝗮𝘃𝗶𝘁𝘁 🇺🇸 vs. 𝗝𝗼𝗮𝗻𝗱𝗲𝗿𝘀
+ 𝗼𝗻 𝗕𝗿𝗶𝘁𝗼 🇧🇷 - 145lbs/66kg Featherweight · Est.
+  22:50 Ireland\n    Leavitt: 13-4-0 | 31yo | Odds unavailable\n    Brito: 
+ 19-5-1 | 31yo | Odds unavailable\n    Odds history: not checked yet\n\n
+ 🥊 2. 𝗝𝗲𝗶𝘀𝗹𝗮 𝗖𝗵𝗮𝘃𝗲𝘀 🇧🇷 vs. 
+ 𝗬𝘂𝗻𝗲𝗶𝘀𝘆 𝗗𝘂𝗯𝗲𝗻 🇻🇪 - 125lbs/57kg W
+ omen's Flyweight · Est. 22:25 Ireland\n    Chaves: 8-1-0 | 29yo | Odds un
+ available\n    Duben: 6-2-0 | 29yo | Odds unavailable\n    Odds history: n
+ ot checked yet\n\n🥊 1. 𝗞𝗲𝘁𝗹𝗲𝗻 𝗦𝗼𝘂𝘇𝗮 
+ 🇧🇷 vs. 𝗔𝗿𝗶𝗮𝗻𝗲 𝗖𝗮𝗿𝗻𝗲𝗹𝗼𝘀𝘀
+ 𝗶 🇧🇷 - 115lbs/52kg Women's Strawweight · Est. 22:00 Ireland\n   
+  Souza: 17-6-0 | 31yo | Odds unavailable\n    Carnelossi: 15-5-0 | 33yo | 
+ Odds unavailable\n    Odds history: not checked yet\n\nSource: https://www
+ .ufc.com/event/ufc-fight-night-june-06-2026\n\nFull odds log: https://stai
+ rcasewit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026
+ -09-12T11:18:51.708Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 12 ann
+ ounced bouts<br><br>📍 Meta APEX\, Las Vegas\, United States<br><br>🕒
+  22:00–Sun 04:00 Ireland<br><br>Bout times are estimates and may shift a
+ s the card progresses.<br><br>── MAIN CARD · 5 bouts ──<br><br>
+ 🥊 12. 𝗕𝗲𝗹𝗮𝗹 𝗠𝘂𝗵𝗮𝗺𝗺𝗮𝗱 (#5) 🇵
+ 🇸 vs. 𝗚𝗮𝗯𝗿𝗶𝗲𝗹 𝗕𝗼𝗻𝗳𝗶𝗺 (#11) 🇧
+ 🇷 - 170lbs/77kg Welterweight · Est. 03:25 Ireland<br>    Muhammad: 24-
+ 6-0 | 37yo | Odds unavailable<br>    Bonfim: 20-1-0 | 28yo | Odds unavaila
+ ble<br>    Odds history: not checked yet<br><br>🥊 11. 𝗕𝗿𝗲𝗻
+ 𝗱𝗮𝗻 𝗔𝗹𝗹𝗲𝗻 (#4) 🇧🇷 vs. 𝗘𝗱𝗺𝗲𝗻 
+ 𝗦𝗵𝗮𝗵𝗯𝗮𝘇𝘆𝗮𝗻 🇺🇸 - 185lbs/84kg Middleweig
+ ht · Est. 02:50 Ireland<br>    Allen: 27-7-0 | 30yo | Odds unavailable<br
+ >    Shahbazyan: 16-6-0 | 28yo | Odds unavailable<br>    Odds history: not
+  checked yet<br><br>🥊 10. 𝗙𝗮𝗿è𝘀 𝗭𝗶𝗮𝗺 (#14) 
+ 🇫🇷 vs. 𝗧𝗼𝗺 𝗡𝗼𝗹𝗮𝗻 🇦🇺 - 155lbs/70kg Ligh
+ tweight · Est. 02:10 Ireland<br>    Ziam: 18-6-0 | 29yo | Odds unavailabl
+ e<br>    Nolan: 11-1-0 | 26yo | Odds unavailable<br>    Odds history: not 
+ checked yet<br><br>🥊 9. 𝗕𝗿𝘆𝗰𝗲 𝗠𝗶𝘁𝗰𝗵𝗲
+ 𝗹𝗹 🇺🇸 vs. 𝗦𝗮𝗻𝘁𝗶𝗮𝗴𝗼 𝗟𝘂𝗻𝗮 
+ 🇲🇽 - 135lbs/61kg Bantamweight · Est. 01:35 Ireland<br>    Mitchell:
+  19-4-0 | 31yo | Odds unavailable<br>    Luna: 8-1-0 | 21yo | Odds unavail
+ able<br>    Odds history: not checked yet<br><br>🥊 8. 𝗜𝘄𝗼 𝗕
+ 𝗮𝗿𝗮𝗻𝗶𝗲𝘄𝘀𝗸𝗶 🇵🇱 vs. 𝗝𝘂𝗻𝗶𝗼
+ 𝗿 𝗧𝗮𝗳𝗮 🇦🇺 - 205lbs/93kg Light Heavyweight · Est. 01:
+ 00 Ireland<br>    Baraniewski: 9-0-0 | 27yo | Odds unavailable<br>    Tafa
+ : 7-6-0 | 29yo | Odds unavailable<br>    Odds history: not checked yet<br>
+ <br>── PRELIMS · 7 bouts ──<br><br>🥊 7. 𝗠𝗮𝘁𝘁 𝗦
+ 𝗰𝗵𝗻𝗲𝗹𝗹 🇺🇸 vs. 𝗔𝗹𝗲𝘀𝘀𝗮𝗻𝗱𝗿
+ 𝗼 𝗖𝗼𝘀𝘁𝗮 🇧🇷 - Catchweight · Est. Sun 00:35 Ireland
+ <br>    Schnell: 17-11-0 | 36yo | Odds unavailable<br>    Costa: 17-5-0 | 
+ 30yo | Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 6
+ . 𝗠𝗮𝗿𝗰𝘂𝘀 𝗠𝗰𝗚𝗵𝗲𝗲 🇺🇸 vs. 𝗝𝗼
+ 𝗵𝗻 𝗬𝗮𝗻𝗻𝗶𝘀 🇺🇸 - 135lbs/61kg Bantamweight · E
+ st. Sun 00:10 Ireland<br>    McGhee: 11-2-0 | 36yo | Odds unavailable<br> 
+    Yannis: 10-5-0 | 31yo | Odds unavailable<br>    Odds history: not check
+ ed yet<br><br>🥊 5. 𝗕𝗿𝘂𝗻𝗼 𝗦𝗶𝗹𝘃𝗮 (#15) 🇧
+ 🇷 vs. 𝗘𝗱𝗴𝗮𝗿 𝗖𝗵𝗮𝗶𝗿𝗲𝘇 🇲🇽 - 125l
+ bs/57kg Flyweight · Est. 23:45 Ireland<br>    Silva: 15-9-2 | 36yo | Odds
+  unavailable<br>    Chairez: 14-6-0 | 30yo | Odds unavailable<br>    Odds 
+ history: not checked yet<br><br>🥊 4. 𝗣𝗿𝗶𝘀𝗰𝗶𝗹𝗮 
+ 𝗖𝗮𝗰𝗵𝗼𝗲𝗶𝗿𝗮 🇧🇷 vs. 𝗖𝗵𝗲𝗹𝘀𝗲
+ 𝗮 𝗖𝗵𝗮𝗻𝗱𝗹𝗲𝗿 🇺🇸 - 135lbs/61kg Women&#39\;s 
+ Bantamweight · Est. 23:15 Ireland<br>    Cachoeira: 13-9-0 | 37yo | Odds 
+ unavailable<br>    Chandler: 7-4-0 | 35yo | Odds unavailable<br>    Odds h
+ istory: not checked yet<br><br>🥊 3. 𝗝𝗼𝗿𝗱𝗮𝗻 𝗟𝗲
+ 𝗮𝘃𝗶𝘁𝘁 🇺🇸 vs. 𝗝𝗼𝗮𝗻𝗱𝗲𝗿𝘀𝗼𝗻
+  𝗕𝗿𝗶𝘁𝗼 🇧🇷 - 145lbs/66kg Featherweight · Est. 22:50 I
+ reland<br>    Leavitt: 13-4-0 | 31yo | Odds unavailable<br>    Brito: 19-5
+ -1 | 31yo | Odds unavailable<br>    Odds history: not checked yet<br><br>
+ 🥊 2. 𝗝𝗲𝗶𝘀𝗹𝗮 𝗖𝗵𝗮𝘃𝗲𝘀 🇧🇷 vs. 
+ 𝗬𝘂𝗻𝗲𝗶𝘀𝘆 𝗗𝘂𝗯𝗲𝗻 🇻🇪 - 125lbs/57kg W
+ omen&#39\;s Flyweight · Est. 22:25 Ireland<br>    Chaves: 8-1-0 | 29yo | 
+ Odds unavailable<br>    Duben: 6-2-0 | 29yo | Odds unavailable<br>    Odds
+  history: not checked yet<br><br>🥊 1. 𝗞𝗲𝘁𝗹𝗲𝗻 𝗦𝗼
+ 𝘂𝘇𝗮 🇧🇷 vs. 𝗔𝗿𝗶𝗮𝗻𝗲 𝗖𝗮𝗿𝗻𝗲
+ 𝗹𝗼𝘀𝘀𝗶 🇧🇷 - 115lbs/52kg Women&#39\;s Strawweight · Es
+ t. 22:00 Ireland<br>    Souza: 17-6-0 | 31yo | Odds unavailable<br>    Car
+ nelossi: 15-5-0 | 33yo | Odds unavailable<br>    Odds history: not checked
+  yet<br><br>Source: https://www.ufc.com/event/ufc-fight-night-june-06-2026
+ <br><br>Full odds log: https://staircasewit.github.io/mmacalendar/odds-his
+ tory.html<br><br>Calendar updated: 2026-09-12T11:18:51.708Z<br><br>Event s
+ tatus: Scheduled · verified 12 Sep 2026</p></body></html>
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-june-06-2026
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-freedom-250-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260615T000000Z
+DTEND:20260615T030000Z
+SUMMARY:UFC Freedom 250: Topuria vs Gaethje
+DESCRIPTION:UFC · Complete Event · 7 announced bouts\n\n📍 The White Ho
+ use\, Washington\, United States\n\n🕒 01:00–04:00 Ireland\n\nBout tim
+ es are estimates and may shift as the card progresses.\n\n── MAIN CARD
+  · 7 bouts ──\n\n🥊 7. 𝗜𝗹𝗶𝗮 𝗧𝗼𝗽𝘂𝗿𝗶
+ 𝗮 (C) 🇬🇪 vs. 𝗝𝘂𝘀𝘁𝗶𝗻 𝗚𝗮𝗲𝘁𝗵𝗷
+ 𝗲 (C) 🇺🇸 - 155lbs/70kg Lightweight · Title Bout · Est. 03:35 Ir
+ eland\n    Topuria: 17-1-0 | 29yo | Odds unavailable\n    Gaethje: 28-5-0 
+ | 37yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 6. 
+ 𝗔𝗹𝗲𝘅 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 🇧🇷 vs. 𝗖𝗶𝗿
+ 𝘆𝗹 𝗚𝗮𝗻𝗲 (#1) 🇫🇷 - 265lbs/120kg Heavyweight · Titl
+ e Bout · Est. 03:10 Ireland\n    Pereira: 13-4-0 | 38yo | Odds unavailabl
+ e\n    Gane: 14-2-0 | 36yo | Odds unavailable\n    Odds history: not check
+ ed yet\n\n🥊 5. 𝗦𝗲𝗮𝗻 𝗢'𝗠𝗮𝗹𝗹𝗲𝘆 (#3) 🇺
+ 🇸 vs. 𝗔𝗶𝗲𝗺𝗮𝗻𝗻 𝗭𝗮𝗵𝗮𝗯𝗶 (#6) 🇨
+ 🇦 - 135lbs/61kg Bantamweight · Est. 02:45 Ireland\n    O'Malley: 20-3-
+ 0 | 31yo | Odds unavailable\n    Zahabi: 14-3-0 | 38yo | Odds unavailable\
+ n    Odds history: not checked yet\n\n🥊 4. 𝗝𝗼𝘀𝗵 𝗛𝗼
+ 𝗸𝗶𝘁 (#5) 🇺🇸 vs. 𝗗𝗲𝗿𝗿𝗶𝗰𝗸 𝗟𝗲𝘄
+ 𝗶𝘀 (#9) 🇺🇸 - 265lbs/120kg Heavyweight · Est. 02:15 Ireland\n 
+    Hokit: 10-0-0 | 28yo | Odds unavailable\n    Lewis: 29-14-0 | 41yo | Od
+ ds unavailable\n    Odds history: not checked yet\n\n🥊 3. 𝗠𝗮𝘂
+ 𝗿𝗶𝗰𝗶𝗼 𝗥𝘂𝗳𝗳𝘆 (#9) 🇧🇷 vs. 𝗠𝗶𝗰
+ 𝗵𝗮𝗲𝗹 𝗖𝗵𝗮𝗻𝗱𝗹𝗲𝗿 (#13) 🇺🇸 - 155lbs/
+ 70kg Lightweight · Est. 01:50 Ireland\n    Ruffy: 14-2-0 | 29yo | Odds un
+ available\n    Chandler: 23-11-0 | 40yo | Odds unavailable\n    Odds histo
+ ry: not checked yet\n\n🥊 2. 𝗕𝗼 𝗡𝗶𝗰𝗸𝗮𝗹 🇺🇸 
+ vs. 𝗞𝘆𝗹𝗲 𝗗𝗮𝘂𝗸𝗮𝘂𝘀 🇺🇸 - 185lbs/84kg M
+ iddleweight · Est. 01:25 Ireland\n    Nickal: 9-1-0 | 30yo | Odds unavail
+ able\n    Daukaus: 17-4-0 | 33yo | Odds unavailable\n    Odds history: not
+  checked yet\n\n🥊 1. 𝗗𝗶𝗲𝗴𝗼 𝗟𝗼𝗽𝗲𝘀 (#2) 
+ 🇧🇷 vs. 𝗦𝘁𝗲𝘃𝗲 𝗚𝗮𝗿𝗰𝗶𝗮 (#9) 🇺🇸 -
+  145lbs/66kg Featherweight · Est. 01:00 Ireland\n    Lopes: 28-8-0 | 31yo
+  | Odds unavailable\n    Garcia: 19-6-0 | 34yo | Odds unavailable\n    Odd
+ s history: not checked yet\n\nSource: https://www.ufc.com/event/ufc-freedo
+ m-250\n\nFull odds log: https://staircasewit.github.io/mmacalendar/odds-hi
+ story.html\n\nCalendar updated: 2026-09-12T11:18:51.708Z\n\nEvent status: 
+ Scheduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 7 anno
+ unced bouts<br><br>📍 The White House\, Washington\, United States<br><b
+ r>🕒 01:00–04:00 Ireland<br><br>Bout times are estimates and may shift
+  as the card progresses.<br><br>── MAIN CARD · 7 bouts ──<br><br>
+ 🥊 7. 𝗜𝗹𝗶𝗮 𝗧𝗼𝗽𝘂𝗿𝗶𝗮 (C) 🇬🇪 vs. 
+ 𝗝𝘂𝘀𝘁𝗶𝗻 𝗚𝗮𝗲𝘁𝗵𝗷𝗲 (C) 🇺🇸 - 155lb
+ s/70kg Lightweight · Title Bout · Est. 03:35 Ireland<br>    Topuria: 17-
+ 1-0 | 29yo | Odds unavailable<br>    Gaethje: 28-5-0 | 37yo | Odds unavail
+ able<br>    Odds history: not checked yet<br><br>🥊 6. 𝗔𝗹𝗲𝘅 
+ 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 🇧🇷 vs. 𝗖𝗶𝗿𝘆𝗹 𝗚𝗮
+ 𝗻𝗲 (#1) 🇫🇷 - 265lbs/120kg Heavyweight · Title Bout · Est. 03
+ :10 Ireland<br>    Pereira: 13-4-0 | 38yo | Odds unavailable<br>    Gane: 
+ 14-2-0 | 36yo | Odds unavailable<br>    Odds history: not checked yet<br><
+ br>🥊 5. 𝗦𝗲𝗮𝗻 𝗢&#39\;𝗠𝗮𝗹𝗹𝗲𝘆 (#3) 🇺
+ 🇸 vs. 𝗔𝗶𝗲𝗺𝗮𝗻𝗻 𝗭𝗮𝗵𝗮𝗯𝗶 (#6) 🇨
+ 🇦 - 135lbs/61kg Bantamweight · Est. 02:45 Ireland<br>    O&#39\;Malley
+ : 20-3-0 | 31yo | Odds unavailable<br>    Zahabi: 14-3-0 | 38yo | Odds una
+ vailable<br>    Odds history: not checked yet<br><br>🥊 4. 𝗝𝗼𝘀
+ 𝗵 𝗛𝗼𝗸𝗶𝘁 (#5) 🇺🇸 vs. 𝗗𝗲𝗿𝗿𝗶𝗰𝗸 
+ 𝗟𝗲𝘄𝗶𝘀 (#9) 🇺🇸 - 265lbs/120kg Heavyweight · Est. 02:1
+ 5 Ireland<br>    Hokit: 10-0-0 | 28yo | Odds unavailable<br>    Lewis: 29-
+ 14-0 | 41yo | Odds unavailable<br>    Odds history: not checked yet<br><br
+ >🥊 3. 𝗠𝗮𝘂𝗿𝗶𝗰𝗶𝗼 𝗥𝘂𝗳𝗳𝘆 (#9) 🇧
+ 🇷 vs. 𝗠𝗶𝗰𝗵𝗮𝗲𝗹 𝗖𝗵𝗮𝗻𝗱𝗹𝗲𝗿 (#1
+ 3) 🇺🇸 - 155lbs/70kg Lightweight · Est. 01:50 Ireland<br>    Ruffy: 
+ 14-2-0 | 29yo | Odds unavailable<br>    Chandler: 23-11-0 | 40yo | Odds un
+ available<br>    Odds history: not checked yet<br><br>🥊 2. 𝗕𝗼 
+ 𝗡𝗶𝗰𝗸𝗮𝗹 🇺🇸 vs. 𝗞𝘆𝗹𝗲 𝗗𝗮𝘂𝗸
+ 𝗮𝘂𝘀 🇺🇸 - 185lbs/84kg Middleweight · Est. 01:25 Ireland<br>
+     Nickal: 9-1-0 | 30yo | Odds unavailable<br>    Daukaus: 17-4-0 | 33yo 
+ | Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 1. 
+ 𝗗𝗶𝗲𝗴𝗼 𝗟𝗼𝗽𝗲𝘀 (#2) 🇧🇷 vs. 𝗦𝘁𝗲
+ 𝘃𝗲 𝗚𝗮𝗿𝗰𝗶𝗮 (#9) 🇺🇸 - 145lbs/66kg Featherweigh
+ t · Est. 01:00 Ireland<br>    Lopes: 28-8-0 | 31yo | Odds unavailable<br>
+     Garcia: 19-6-0 | 34yo | Odds unavailable<br>    Odds history: not chec
+ ked yet<br><br>Source: https://www.ufc.com/event/ufc-freedom-250<br><br>Fu
+ ll odds log: https://staircasewit.github.io/mmacalendar/odds-history.html<
+ br><br>Calendar updated: 2026-09-12T11:18:51.708Z<br><br>Event status: Sch
+ eduled · verified 12 Sep 2026</p></body></html>
+LOCATION:The White House\, Washington\, United States
+URL:https://www.ufc.com/event/ufc-freedom-250
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-june-20-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260620T210000Z
+DTEND:20260621T030000Z
+SUMMARY:UFC Fight Night: Kape vs Horiguchi
+DESCRIPTION:UFC · Complete Event · 12 announced bouts\n\n📍 Meta APEX\,
+  Las Vegas\, United States\n\n🕒 22:00–Sun 04:00 Ireland\n\nBout times
+  are estimates and may shift as the card progresses.\n\n── MAIN CARD 
+ · 5 bouts ──\n\n🥊 12. 𝗠𝗮𝗻𝗲𝗹 𝗞𝗮𝗽𝗲 (#2) 
+ 🇵🇹 vs. 𝗞𝘆𝗼𝗷𝗶 𝗛𝗼𝗿𝗶𝗴𝘂𝗰𝗵𝗶 (#5
+ ) 🇯🇵 - 125lbs/57kg Flyweight · Est. 03:25 Ireland\n    Kape: 23-7-0
+  | 32yo | Odds unavailable\n    Horiguchi: 36-6-0 | 35yo | Odds unavailabl
+ e\n    Odds history: not checked yet\n\n🥊 11. 𝗜𝗼𝗻 𝗖𝘂𝘁
+ 𝗲𝗹𝗮𝗯𝗮 🇲🇩 vs. 𝗡𝗮𝘃𝗮𝗷𝗼 𝗦𝘁𝗶
+ 𝗿𝗹𝗶𝗻𝗴 🇳🇿 - 205lbs/93kg Light Heavyweight · Est. 02:5
+ 0 Ireland\n    Cutelaba: 20-12-1 | 32yo | Odds unavailable\n    Stirling: 
+ 11-0-0 | 28yo | Odds unavailable\n    Odds history: not checked yet\n\n
+ 🥊 10. 𝗛𝘆𝗱𝗲𝗿 𝗔𝗺𝗶𝗹 🇵🇭 vs. 𝗖𝗵𝗿
+ 𝗶𝘀𝘁𝗶𝗮𝗻 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 🇺🇸 - 1
+ 45lbs/66kg Featherweight · Est. 02:10 Ireland\n    Amil: 11-3-0 | 36yo | 
+ Odds unavailable\n    Rodriguez: 12-4-0 | 28yo | Odds unavailable\n    Odd
+ s history: not checked yet\n\n🥊 9. 𝗠𝗲𝗹𝘀𝗶𝗸 𝗕𝗮
+ 𝗴𝗵𝗱𝗮𝘀𝗮𝗿𝘆𝗮𝗻 🇦🇲 vs. 𝗠𝘂𝗿𝘁𝗮
+ 𝘇𝗮𝗹𝗶 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝗼𝘃 🇰🇬 - 145lbs/66
+ kg Featherweight · Est. 01:35 Ireland\n    Baghdasaryan: 8-4-0 | 34yo | O
+ dds unavailable\n    Magomedov: 11-0-0 | 26yo | Odds unavailable\n    Odds
+  history: not checked yet\n\n🥊 8. 𝗩𝗶𝗻𝗶𝗰𝗶𝘂𝘀 𝗢
+ 𝗹𝗶𝘃𝗲𝗶𝗿𝗮 🇧🇷 vs. 𝗔𝗻𝗱𝗿𝗲 𝗙𝗶
+ 𝗹𝗶 🇺🇸 - 145lbs/66kg Featherweight · Est. 01:00 Ireland\n    O
+ liveira: 24-4-0 | 30yo | Odds unavailable\n    Fili: 25-14-0 | 35yo | Odds
+  unavailable\n    Odds history: not checked yet\n\n── PRELIMS · 7 bou
+ ts ──\n\n🥊 7. 𝗔𝗻𝗱𝗿𝗲 𝗟𝗶𝗺𝗮 🇧🇷 vs. 
+ 𝗞𝗲𝘃𝗶𝗻 𝗕𝗼𝗿𝗷𝗮𝘀 🇵🇪 - 125lbs/57kg Flywe
+ ight · Est. Sun 00:35 Ireland\n    Lima: 12-1-0 | 27yo | Odds unavailable
+ \n    Borjas: 11-6-0 | 28yo | Odds unavailable\n    Odds history: not chec
+ ked yet\n\n🥊 6. 𝗕𝗶𝗮 𝗠𝗲𝘀𝗾𝘂𝗶𝘁𝗮 (#13) 
+ 🇧🇷 vs. 𝗠𝗲𝗹𝗶𝘀𝘀𝗮 𝗠𝘂𝗹𝗹𝗶𝗻𝘀 
+ 🇪🇳 - 135lbs/61kg Women's Bantamweight · Est. Sun 00:10 Ireland\n   
+  Mesquita: 8-0-0 | 35yo | Odds unavailable\n    Mullins: 7-3-0 | 34yo | Od
+ ds unavailable\n    Odds history: not checked yet\n\n🥊 5. 𝗔𝗹𝗹
+ 𝗮𝗻 𝗡𝗮𝘀𝗰𝗶𝗺𝗲𝗻𝘁𝗼 🇧🇷 vs. 𝗠𝗶
+ 𝘁𝗰𝗵 𝗥𝗮𝗽𝗼𝘀𝗼 🇺🇸 - 125lbs/57kg Flyweight · 
+ Est. 23:45 Ireland\n    Nascimento: 22-7-0 | 34yo | Odds unavailable\n    
+ Raposo: 11-3-0 | 27yo | Odds unavailable\n    Odds history: not checked ye
+ t\n\n🥊 4. 𝗚𝗮𝘀𝘁𝗼𝗻 𝗕𝗼𝗹𝗮𝗻𝗼𝘀 🇵
+ 🇪 vs. 𝗠𝗶𝗰𝗵𝗮𝗲𝗹 𝗔𝘀𝘄𝗲𝗹𝗹 𝗝𝗿. 
+ 🇺🇸 - 145lbs/66kg Featherweight · Est. 23:15 Ireland\n    Bolanos: 9
+ -5-0 | 33yo | Odds unavailable\n    Aswell Jr.: 11-5-0 | 25yo | Odds unava
+ ilable\n    Odds history: not checked yet\n\n🥊 3. 𝗟𝗲𝗼𝗻 𝗦
+ 𝗵𝗮𝗵𝗯𝗮𝘇𝘆𝗮𝗻 🇦🇲 vs. 𝗟𝗲𝘃𝗮𝗻 
+ 𝗖𝗵𝗼𝗸𝗵𝗲𝗹𝗶 🇬🇪 - 170lbs/77kg Welterweight · Es
+ t. 22:50 Ireland\n    Shahbazyan: 12-5-0 | 30yo | Odds unavailable\n    Ch
+ okheli: 15-3-0 | 29yo | Odds unavailable\n    Odds history: not checked ye
+ t\n\n🥊 2. 𝗞𝗮𝗿𝗼𝗹 𝗥𝗼𝘀𝗮 (#8) 🇧🇷 vs. 𝗟
+ 𝘂𝗮𝗻𝗮 𝗦𝗮𝗻𝘁𝗼𝘀 (#11) 🇧🇷 - 135lbs/61kg Wom
+ en's Bantamweight · Est. 22:25 Ireland\n    Rosa: 19-8-0 | 31yo | Odds un
+ available\n    Santos: 11-2-0 | 26yo | Odds unavailable\n    Odds history:
+  not checked yet\n\n🥊 1. 𝗦𝗵𝗮𝗻𝗲 𝗖𝗼𝗹𝗹𝗶𝗻
+ 𝘀 🇺🇸 vs. 𝗢𝘁𝗮𝗿𝗶 𝗧𝗮𝗻𝘇𝗶𝗹𝗼𝘃
+ 𝗶 🇬🇪 - 145lbs/66kg Featherweight · Est. 22:00 Ireland\n    Colli
+ ns: 8-0-0 | 26yo | Odds unavailable\n    Tanzilovi: 10-2-0 | 28yo | Odds u
+ navailable\n    Odds history: not checked yet\n\nSource: https://www.ufc.c
+ om/event/ufc-fight-night-june-20-2026\n\nFull odds log: https://staircasew
+ it.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12
+ T11:18:51.708Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 12 ann
+ ounced bouts<br><br>📍 Meta APEX\, Las Vegas\, United States<br><br>🕒
+  22:00–Sun 04:00 Ireland<br><br>Bout times are estimates and may shift a
+ s the card progresses.<br><br>── MAIN CARD · 5 bouts ──<br><br>
+ 🥊 12. 𝗠𝗮𝗻𝗲𝗹 𝗞𝗮𝗽𝗲 (#2) 🇵🇹 vs. 𝗞𝘆
+ 𝗼𝗷𝗶 𝗛𝗼𝗿𝗶𝗴𝘂𝗰𝗵𝗶 (#5) 🇯🇵 - 125lbs/5
+ 7kg Flyweight · Est. 03:25 Ireland<br>    Kape: 23-7-0 | 32yo | Odds unav
+ ailable<br>    Horiguchi: 36-6-0 | 35yo | Odds unavailable<br>    Odds his
+ tory: not checked yet<br><br>🥊 11. 𝗜𝗼𝗻 𝗖𝘂𝘁𝗲𝗹
+ 𝗮𝗯𝗮 🇲🇩 vs. 𝗡𝗮𝘃𝗮𝗷𝗼 𝗦𝘁𝗶𝗿𝗹
+ 𝗶𝗻𝗴 🇳🇿 - 205lbs/93kg Light Heavyweight · Est. 02:50 Irelan
+ d<br>    Cutelaba: 20-12-1 | 32yo | Odds unavailable<br>    Stirling: 11-0
+ -0 | 28yo | Odds unavailable<br>    Odds history: not checked yet<br><br>
+ 🥊 10. 𝗛𝘆𝗱𝗲𝗿 𝗔𝗺𝗶𝗹 🇵🇭 vs. 𝗖𝗵𝗿
+ 𝗶𝘀𝘁𝗶𝗮𝗻 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 🇺🇸 - 1
+ 45lbs/66kg Featherweight · Est. 02:10 Ireland<br>    Amil: 11-3-0 | 36yo 
+ | Odds unavailable<br>    Rodriguez: 12-4-0 | 28yo | Odds unavailable<br> 
+    Odds history: not checked yet<br><br>🥊 9. 𝗠𝗲𝗹𝘀𝗶𝗸 
+ 𝗕𝗮𝗴𝗵𝗱𝗮𝘀𝗮𝗿𝘆𝗮𝗻 🇦🇲 vs. 𝗠𝘂𝗿
+ 𝘁𝗮𝘇𝗮𝗹𝗶 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝗼𝘃 🇰🇬 - 1
+ 45lbs/66kg Featherweight · Est. 01:35 Ireland<br>    Baghdasaryan: 8-4-0 
+ | 34yo | Odds unavailable<br>    Magomedov: 11-0-0 | 26yo | Odds unavailab
+ le<br>    Odds history: not checked yet<br><br>🥊 8. 𝗩𝗶𝗻𝗶
+ 𝗰𝗶𝘂𝘀 𝗢𝗹𝗶𝘃𝗲𝗶𝗿𝗮 🇧🇷 vs. 𝗔𝗻
+ 𝗱𝗿𝗲 𝗙𝗶𝗹𝗶 🇺🇸 - 145lbs/66kg Featherweight · Est.
+  01:00 Ireland<br>    Oliveira: 24-4-0 | 30yo | Odds unavailable<br>    Fi
+ li: 25-14-0 | 35yo | Odds unavailable<br>    Odds history: not checked yet
+ <br><br>── PRELIMS · 7 bouts ──<br><br>🥊 7. 𝗔𝗻𝗱𝗿
+ 𝗲 𝗟𝗶𝗺𝗮 🇧🇷 vs. 𝗞𝗲𝘃𝗶𝗻 𝗕𝗼𝗿𝗷
+ 𝗮𝘀 🇵🇪 - 125lbs/57kg Flyweight · Est. Sun 00:35 Ireland<br>   
+  Lima: 12-1-0 | 27yo | Odds unavailable<br>    Borjas: 11-6-0 | 28yo | Odd
+ s unavailable<br>    Odds history: not checked yet<br><br>🥊 6. 𝗕𝗶
+ 𝗮 𝗠𝗲𝘀𝗾𝘂𝗶𝘁𝗮 (#13) 🇧🇷 vs. 𝗠𝗲𝗹𝗶
+ 𝘀𝘀𝗮 𝗠𝘂𝗹𝗹𝗶𝗻𝘀 🇪🇳 - 135lbs/61kg Women&#39
+ \;s Bantamweight · Est. Sun 00:10 Ireland<br>    Mesquita: 8-0-0 | 35yo |
+  Odds unavailable<br>    Mullins: 7-3-0 | 34yo | Odds unavailable<br>    O
+ dds history: not checked yet<br><br>🥊 5. 𝗔𝗹𝗹𝗮𝗻 𝗡𝗮
+ 𝘀𝗰𝗶𝗺𝗲𝗻𝘁𝗼 🇧🇷 vs. 𝗠𝗶𝘁𝗰𝗵 𝗥
+ 𝗮𝗽𝗼𝘀𝗼 🇺🇸 - 125lbs/57kg Flyweight · Est. 23:45 Irelan
+ d<br>    Nascimento: 22-7-0 | 34yo | Odds unavailable<br>    Raposo: 11-3-
+ 0 | 27yo | Odds unavailable<br>    Odds history: not checked yet<br><br>
+ 🥊 4. 𝗚𝗮𝘀𝘁𝗼𝗻 𝗕𝗼𝗹𝗮𝗻𝗼𝘀 🇵🇪 vs.
+  𝗠𝗶𝗰𝗵𝗮𝗲𝗹 𝗔𝘀𝘄𝗲𝗹𝗹 𝗝𝗿. 🇺🇸 
+ - 145lbs/66kg Featherweight · Est. 23:15 Ireland<br>    Bolanos: 9-5-0 | 
+ 33yo | Odds unavailable<br>    Aswell Jr.: 11-5-0 | 25yo | Odds unavailabl
+ e<br>    Odds history: not checked yet<br><br>🥊 3. 𝗟𝗲𝗼𝗻 
+ 𝗦𝗵𝗮𝗵𝗯𝗮𝘇𝘆𝗮𝗻 🇦🇲 vs. 𝗟𝗲𝘃𝗮𝗻
+  𝗖𝗵𝗼𝗸𝗵𝗲𝗹𝗶 🇬🇪 - 170lbs/77kg Welterweight · E
+ st. 22:50 Ireland<br>    Shahbazyan: 12-5-0 | 30yo | Odds unavailable<br> 
+    Chokheli: 15-3-0 | 29yo | Odds unavailable<br>    Odds history: not che
+ cked yet<br><br>🥊 2. 𝗞𝗮𝗿𝗼𝗹 𝗥𝗼𝘀𝗮 (#8) 🇧
+ 🇷 vs. 𝗟𝘂𝗮𝗻𝗮 𝗦𝗮𝗻𝘁𝗼𝘀 (#11) 🇧🇷 - 13
+ 5lbs/61kg Women&#39\;s Bantamweight · Est. 22:25 Ireland<br>    Rosa: 19-
+ 8-0 | 31yo | Odds unavailable<br>    Santos: 11-2-0 | 26yo | Odds unavaila
+ ble<br>    Odds history: not checked yet<br><br>🥊 1. 𝗦𝗵𝗮𝗻
+ 𝗲 𝗖𝗼𝗹𝗹𝗶𝗻𝘀 🇺🇸 vs. 𝗢𝘁𝗮𝗿𝗶 𝗧
+ 𝗮𝗻𝘇𝗶𝗹𝗼𝘃𝗶 🇬🇪 - 145lbs/66kg Featherweight · E
+ st. 22:00 Ireland<br>    Collins: 8-0-0 | 26yo | Odds unavailable<br>    T
+ anzilovi: 10-2-0 | 28yo | Odds unavailable<br>    Odds history: not checke
+ d yet<br><br>Source: https://www.ufc.com/event/ufc-fight-night-june-20-202
+ 6<br><br>Full odds log: https://staircasewit.github.io/mmacalendar/odds-hi
+ story.html<br><br>Calendar updated: 2026-09-12T11:18:51.708Z<br><br>Event 
+ status: Scheduled · verified 12 Sep 2026</p></body></html>
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-june-20-2026
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-june-27-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260627T130000Z
+DTEND:20260627T190000Z
+SUMMARY:UFC Fight Night: Fiziev vs Torres
+DESCRIPTION:UFC · Complete Event · 13 announced bouts\n\n📍 National Gy
+ mnastics Arena\, Baku\, Azerbaijan\n\n🕒 14:00–20:00 Ireland\n\nBout t
+ imes are estimates and may shift as the card progresses.\n\n── MAIN CA
+ RD · 6 bouts ──\n\n🥊 13. 𝗥𝗮𝗳𝗮𝗲𝗹 𝗙𝗶𝘇𝗶
+ 𝗲𝘃 (#11) 🇦🇿 vs. 𝗠𝗮𝗻𝘂𝗲𝗹 𝗧𝗼𝗿𝗿𝗲
+ 𝘀 (#15) 🇲🇽 - 155lbs/70kg Lightweight · Est. 19:30 Ireland\n    F
+ iziev: 14-5-0 | 33yo | Odds unavailable\n    Torres: 17-4-0 | 31yo | Odds 
+ unavailable\n    Odds history: not checked yet\n\n🥊 12. 𝗦𝗵𝗮
+ 𝗿𝗮 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝗼𝘃 🇷🇺 vs. 𝗠𝗶𝗰
+ 𝗵𝗲𝗹 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 🇧🇷 - 185lbs/84kg Middlewei
+ ght · Est. 19:00 Ireland\n    Magomedov: 17-1-0 | 32yo | Odds unavailable
+ \n    Pereira: 32-15-0 | 32yo | Odds unavailable\n    Odds history: not ch
+ ecked yet\n\n🥊 11. 𝗡𝗮𝘇𝗶𝗺 𝗦𝗮𝗱𝘆𝗸𝗵𝗼
+ 𝘃 🇦🇿 vs. 𝗠𝗮𝘁𝗵𝗲𝘂𝘀 𝗖𝗮𝗺𝗶𝗹𝗼 
+ 🇧🇷 - 155lbs/70kg Lightweight · Est. 18:30 Ireland\n    Sadykhov: 11
+ -3-1 | 32yo | Odds unavailable\n    Camilo: 11-3-0 | 25yo | Odds unavailab
+ le\n    Odds history: not checked yet\n\n🥊 10. 𝗔𝘀𝘂 𝗔𝗹
+ 𝗺𝗮𝗯𝗮𝘆𝗲𝘃 (#9) 🇰🇿 vs. 𝗖𝗵𝗮𝗿𝗹𝗲
+ 𝘀 𝗝𝗼𝗵𝗻𝘀𝗼𝗻 (#14) 🇺🇸 - 125lbs/57kg Flyweight 
+ · Est. 18:00 Ireland\n    Almabayev: 24-3-0 | 32yo | Odds unavailable\n  
+   Johnson: 20-9-0 | 35yo | Odds unavailable\n    Odds history: not checked
+  yet\n\n🥊 9. 𝗜𝗸𝗿𝗮𝗺 𝗔𝗹𝗶𝘀𝗸𝗲𝗿𝗼𝘃 
+ 🇷🇺 vs. 𝗕𝗿𝘂𝗻𝗻𝗼 𝗙𝗲𝗿𝗿𝗲𝗶𝗿𝗮 
+ 🇧🇷 - 185lbs/84kg Middleweight · Est. 17:30 Ireland\n    Aliskerov: 
+ 18-2-0 | 33yo | Odds unavailable\n    Ferreira: 15-4-0 | 33yo | Odds unava
+ ilable\n    Odds history: not checked yet\n\n🥊 8. 𝗔𝗯𝘂𝘀 𝗠
+ 𝗮𝗴𝗼𝗺𝗲𝗱𝗼𝘃 🇩🇪 vs. 𝗠𝗶𝗰𝗵𝗮𝗹 
+ 𝗢𝗹𝗲𝗸𝘀𝗶𝗲𝗷𝗰𝘇𝘂𝗸 🇵🇱 - 185lbs/84kg Mi
+ ddleweight · Est. 17:00 Ireland\n    Magomedov: 29-7-1 | 35yo | Odds unav
+ ailable\n    Oleksiejczuk: 22-10-0 | 31yo | Odds unavailable\n    Odds his
+ tory: not checked yet\n\n── PRELIMS · 7 bouts ──\n\n🥊 7. 𝗙
+ 𝗮𝗿𝗺𝗮𝗻 𝗛𝗮𝘀𝗮𝗻𝗼𝘃 🇦🇿 vs. 𝗘𝗿
+ 𝗶𝗰 𝗡𝗼𝗹𝗮𝗻 🇺🇸 - 170lbs/77kg Welterweight · Est. 
+ 16:35 Ireland\n    Hasanov: 6-0-0 | 30yo | Odds unavailable\n    Nolan: 8-
+ 5-0 | 28yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 6
+ . 𝗔𝗯𝗱𝘂𝗹 𝗥𝗮𝗸𝗵𝗺𝗮𝗻 𝗬𝗮𝗸𝗵𝘆
+ 𝗮𝗲𝘃 🇹🇷 vs. 𝗝𝘂𝗹𝗶𝘂𝘀 𝗪𝗮𝗹𝗸𝗲
+ 𝗿 🇺🇸 - 205lbs/93kg Light Heavyweight · Est. 16:10 Ireland\n    Y
+ akhyaev: 10-0-0 | 25yo | Odds unavailable\n    Walker: 7-3-0 | 26yo | Odds
+  unavailable\n    Odds history: not checked yet\n\n🥊 5. 𝗡𝘂𝗿
+ 𝘀𝘂𝗹𝘁𝗼𝗻 𝗥𝘂𝘇𝗶𝗯𝗼𝗲𝘃 🇺🇿 vs. 
+ 𝗔𝗻𝗱𝗿𝗲𝘆 𝗣𝘂𝗹𝘆𝗮𝗲𝘃 🇷🇺 - 185lbs/84
+ kg Middleweight · Est. 15:45 Ireland\n    Ruziboev: 37-10-2 | 32yo | Odds
+  unavailable\n    Pulyaev: 10-3-0 | 28yo | Odds unavailable\n    Odds hist
+ ory: not checked yet\n\n🥊 4. 𝗞𝗮𝗮𝗻 𝗢𝗳𝗹𝗶 🇦🇺
+  vs. 𝗝𝗮𝘃𝗶𝗲𝗿 𝗥𝗲𝘆𝗲𝘀 🇨🇴 - 145lbs/66kg 
+ Featherweight · Est. 15:15 Ireland\n    Ofli: 15-4-1 | 33yo | Odds unavai
+ lable\n    Reyes: 23-6-0 | 32yo | Odds unavailable\n    Odds history: not 
+ checked yet\n\n🥊 3. 𝗗𝗮𝗻𝗶𝗶𝗹 𝗗𝗼𝗻𝗰𝗵𝗲
+ 𝗻𝗸𝗼 🇺🇦 vs. 𝗧𝗵𝗲𝗼𝗱𝗼𝗿 𝗕𝗲𝗿𝗴
+ 𝗴𝗿𝗲𝗻 🇸🇪 - 170lbs/77kg Welterweight · Est. 14:50 Ireland
+ \n    Donchenko: 16-2-0 | 24yo | Odds unavailable\n    Berggren: 8-4-0 | 2
+ 6yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 2. 𝗕
+ 𝗲𝗸𝘇𝗮𝘁 𝗔𝗹𝗺𝗮𝗸𝗵𝗮𝗻 🇰🇿 vs. 𝗝
+ 𝗲𝗮𝗻 𝗠𝗮𝘁𝘀𝘂𝗺𝗼𝘁𝗼 🇧🇷 - 135lbs/61kg B
+ antamweight · Est. 14:25 Ireland\n    Almakhan: 12-4-0 | 28yo | Odds unav
+ ailable\n    Matsumoto: 18-2-0 | 26yo | Odds unavailable\n    Odds history
+ : not checked yet\n\n🥊 1. 𝗧𝗮𝗵𝗶𝗿 𝗔𝗯𝗱𝘂𝗹𝗹
+ 𝗮𝘆𝗲𝘃 🇦🇿 vs. 𝗝𝗲𝗳𝗳𝗲𝗿𝘀𝗼𝗻 𝗡
+ 𝗮𝘀𝗰𝗶𝗺𝗲𝗻𝘁𝗼 🇧🇷 - 170lbs/77kg Welterweight 
+ · Est. 14:00 Ireland\n    Abdullayev: 20-3-0 | 29yo | Odds unavailable\n 
+    Nascimento: 13-1-0 | 27yo | Odds unavailable\n    Odds history: not che
+ cked yet\n\nSource: https://www.ufc.com/event/ufc-fight-night-june-27-2026
+ \n\nFull odds log: https://staircasewit.github.io/mmacalendar/odds-history
+ .html\n\nCalendar updated: 2026-09-12T11:18:51.708Z\n\nEvent status: Sched
+ uled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 13 ann
+ ounced bouts<br><br>📍 National Gymnastics Arena\, Baku\, Azerbaijan<br>
+ <br>🕒 14:00–20:00 Ireland<br><br>Bout times are estimates and may shi
+ ft as the card progresses.<br><br>── MAIN CARD · 6 bouts ──<br><b
+ r>🥊 13. 𝗥𝗮𝗳𝗮𝗲𝗹 𝗙𝗶𝘇𝗶𝗲𝘃 (#11) 🇦
+ 🇿 vs. 𝗠𝗮𝗻𝘂𝗲𝗹 𝗧𝗼𝗿𝗿𝗲𝘀 (#15) 🇲🇽 
+ - 155lbs/70kg Lightweight · Est. 19:30 Ireland<br>    Fiziev: 14-5-0 | 33
+ yo | Odds unavailable<br>    Torres: 17-4-0 | 31yo | Odds unavailable<br> 
+    Odds history: not checked yet<br><br>🥊 12. 𝗦𝗵𝗮𝗿𝗮 𝗠
+ 𝗮𝗴𝗼𝗺𝗲𝗱𝗼𝘃 🇷🇺 vs. 𝗠𝗶𝗰𝗵𝗲𝗹 
+ 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 🇧🇷 - 185lbs/84kg Middleweight · Est. 1
+ 9:00 Ireland<br>    Magomedov: 17-1-0 | 32yo | Odds unavailable<br>    Per
+ eira: 32-15-0 | 32yo | Odds unavailable<br>    Odds history: not checked y
+ et<br><br>🥊 11. 𝗡𝗮𝘇𝗶𝗺 𝗦𝗮𝗱𝘆𝗸𝗵𝗼𝘃 
+ 🇦🇿 vs. 𝗠𝗮𝘁𝗵𝗲𝘂𝘀 𝗖𝗮𝗺𝗶𝗹𝗼 🇧
+ 🇷 - 155lbs/70kg Lightweight · Est. 18:30 Ireland<br>    Sadykhov: 11-3
+ -1 | 32yo | Odds unavailable<br>    Camilo: 11-3-0 | 25yo | Odds unavailab
+ le<br>    Odds history: not checked yet<br><br>🥊 10. 𝗔𝘀𝘂 𝗔
+ 𝗹𝗺𝗮𝗯𝗮𝘆𝗲𝘃 (#9) 🇰🇿 vs. 𝗖𝗵𝗮𝗿𝗹
+ 𝗲𝘀 𝗝𝗼𝗵𝗻𝘀𝗼𝗻 (#14) 🇺🇸 - 125lbs/57kg Flyweig
+ ht · Est. 18:00 Ireland<br>    Almabayev: 24-3-0 | 32yo | Odds unavailabl
+ e<br>    Johnson: 20-9-0 | 35yo | Odds unavailable<br>    Odds history: no
+ t checked yet<br><br>🥊 9. 𝗜𝗸𝗿𝗮𝗺 𝗔𝗹𝗶𝘀𝗸𝗲
+ 𝗿𝗼𝘃 🇷🇺 vs. 𝗕𝗿𝘂𝗻𝗻𝗼 𝗙𝗲𝗿𝗿𝗲
+ 𝗶𝗿𝗮 🇧🇷 - 185lbs/84kg Middleweight · Est. 17:30 Ireland<br>
+     Aliskerov: 18-2-0 | 33yo | Odds unavailable<br>    Ferreira: 15-4-0 | 
+ 33yo | Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 8
+ . 𝗔𝗯𝘂𝘀 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝗼𝘃 🇩🇪 vs. 𝗠
+ 𝗶𝗰𝗵𝗮𝗹 𝗢𝗹𝗲𝗸𝘀𝗶𝗲𝗷𝗰𝘇𝘂𝗸 🇵
+ 🇱 - 185lbs/84kg Middleweight · Est. 17:00 Ireland<br>    Magomedov: 29
+ -7-1 | 35yo | Odds unavailable<br>    Oleksiejczuk: 22-10-0 | 31yo | Odds 
+ unavailable<br>    Odds history: not checked yet<br><br>── PRELIMS · 
+ 7 bouts ──<br><br>🥊 7. 𝗙𝗮𝗿𝗺𝗮𝗻 𝗛𝗮𝘀𝗮
+ 𝗻𝗼𝘃 🇦🇿 vs. 𝗘𝗿𝗶𝗰 𝗡𝗼𝗹𝗮𝗻 🇺🇸 -
+  170lbs/77kg Welterweight · Est. 16:35 Ireland<br>    Hasanov: 6-0-0 | 30
+ yo | Odds unavailable<br>    Nolan: 8-5-0 | 28yo | Odds unavailable<br>   
+  Odds history: not checked yet<br><br>🥊 6. 𝗔𝗯𝗱𝘂𝗹 𝗥
+ 𝗮𝗸𝗵𝗺𝗮𝗻 𝗬𝗮𝗸𝗵𝘆𝗮𝗲𝘃 🇹🇷 vs. 
+ 𝗝𝘂𝗹𝗶𝘂𝘀 𝗪𝗮𝗹𝗸𝗲𝗿 🇺🇸 - 205lbs/93kg L
+ ight Heavyweight · Est. 16:10 Ireland<br>    Yakhyaev: 10-0-0 | 25yo | Od
+ ds unavailable<br>    Walker: 7-3-0 | 26yo | Odds unavailable<br>    Odds 
+ history: not checked yet<br><br>🥊 5. 𝗡𝘂𝗿𝘀𝘂𝗹𝘁𝗼
+ 𝗻 𝗥𝘂𝘇𝗶𝗯𝗼𝗲𝘃 🇺🇿 vs. 𝗔𝗻𝗱𝗿𝗲
+ 𝘆 𝗣𝘂𝗹𝘆𝗮𝗲𝘃 🇷🇺 - 185lbs/84kg Middleweight · E
+ st. 15:45 Ireland<br>    Ruziboev: 37-10-2 | 32yo | Odds unavailable<br>  
+   Pulyaev: 10-3-0 | 28yo | Odds unavailable<br>    Odds history: not check
+ ed yet<br><br>🥊 4. 𝗞𝗮𝗮𝗻 𝗢𝗳𝗹𝗶 🇦🇺 vs. 𝗝
+ 𝗮𝘃𝗶𝗲𝗿 𝗥𝗲𝘆𝗲𝘀 🇨🇴 - 145lbs/66kg Featherwe
+ ight · Est. 15:15 Ireland<br>    Ofli: 15-4-1 | 33yo | Odds unavailable<b
+ r>    Reyes: 23-6-0 | 32yo | Odds unavailable<br>    Odds history: not che
+ cked yet<br><br>🥊 3. 𝗗𝗮𝗻𝗶𝗶𝗹 𝗗𝗼𝗻𝗰𝗵𝗲
+ 𝗻𝗸𝗼 🇺🇦 vs. 𝗧𝗵𝗲𝗼𝗱𝗼𝗿 𝗕𝗲𝗿𝗴
+ 𝗴𝗿𝗲𝗻 🇸🇪 - 170lbs/77kg Welterweight · Est. 14:50 Ireland
+ <br>    Donchenko: 16-2-0 | 24yo | Odds unavailable<br>    Berggren: 8-4-0
+  | 26yo | Odds unavailable<br>    Odds history: not checked yet<br><br>
+ 🥊 2. 𝗕𝗲𝗸𝘇𝗮𝘁 𝗔𝗹𝗺𝗮𝗸𝗵𝗮𝗻 🇰🇿
+  vs. 𝗝𝗲𝗮𝗻 𝗠𝗮𝘁𝘀𝘂𝗺𝗼𝘁𝗼 🇧🇷 - 135l
+ bs/61kg Bantamweight · Est. 14:25 Ireland<br>    Almakhan: 12-4-0 | 28yo 
+ | Odds unavailable<br>    Matsumoto: 18-2-0 | 26yo | Odds unavailable<br> 
+    Odds history: not checked yet<br><br>🥊 1. 𝗧𝗮𝗵𝗶𝗿 𝗔
+ 𝗯𝗱𝘂𝗹𝗹𝗮𝘆𝗲𝘃 🇦🇿 vs. 𝗝𝗲𝗳𝗳𝗲𝗿
+ 𝘀𝗼𝗻 𝗡𝗮𝘀𝗰𝗶𝗺𝗲𝗻𝘁𝗼 🇧🇷 - 170lbs/77
+ kg Welterweight · Est. 14:00 Ireland<br>    Abdullayev: 20-3-0 | 29yo | O
+ dds unavailable<br>    Nascimento: 13-1-0 | 27yo | Odds unavailable<br>   
+  Odds history: not checked yet<br><br>Source: https://www.ufc.com/event/uf
+ c-fight-night-june-27-2026<br><br>Full odds log: https://staircasewit.gith
+ ub.io/mmacalendar/odds-history.html<br><br>Calendar updated: 2026-09-12T11
+ :18:51.708Z<br><br>Event status: Scheduled · verified 12 Sep 2026</p></bo
+ dy></html>
+LOCATION:National Gymnastics Arena\, Baku\, Azerbaijan
+URL:https://www.ufc.com/event/ufc-fight-night-june-27-2026
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-329-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260711T210000Z
+DTEND:20260712T040000Z
+SUMMARY:UFC 329: McGregor vs Holloway 2
+DESCRIPTION:UFC · Complete Event · 14 announced bouts\n\n📍 T-Mobile Ar
+ ena\, Las Vegas\, United States\n\n🕒 22:00–Sun 05:00 Ireland\n\nBout 
+ times are estimates and may shift as the card progresses.\n\n── MAIN C
+ ARD · 5 bouts ──\n\n🥊 14. 𝗖𝗼𝗻𝗼𝗿 𝗠𝗰𝗚𝗿
+ 𝗲𝗴𝗼𝗿 🇮🇪 vs. 𝗠𝗮𝘅 𝗛𝗼𝗹𝗹𝗼𝘄𝗮
+ 𝘆 🇺🇸 - 170lbs/77kg Welterweight · Est. 04:25 Ireland\n    McGreg
+ or: 22-7-0 | 37yo | Odds unavailable\n    Holloway: 27-9-0 | 34yo | Odds u
+ navailable\n    Odds history: not checked yet\n\n🥊 13. 𝗕𝗲𝗻𝗼
+ î𝘁 𝗦𝗮𝗶𝗻𝘁 𝗗𝗲𝗻𝗶𝘀 (#5) 🇫🇷 vs. 𝗣
+ 𝗮𝗱𝗱𝘆 𝗣𝗶𝗺𝗯𝗹𝗲𝘁𝘁 (#6) 🇪🇳 - 155lbs/7
+ 0kg Lightweight · Est. 03:50 Ireland\n    Saint Denis: 17-4-0 | 30yo | Od
+ ds unavailable\n    Pimblett: 24-4-0 | 31yo | Odds unavailable\n    Odds h
+ istory: not checked yet\n\n🥊 12. 𝗖𝗼𝗿𝘆 𝗦𝗮𝗻𝗱𝗵
+ 𝗮𝗴𝗲𝗻 (#4) 🇺🇸 vs. 𝗠𝗮𝗿𝗶𝗼 𝗕𝗮𝘂𝘁
+ 𝗶𝘀𝘁𝗮 (#7) 🇺🇸 - 135lbs/61kg Bantamweight · Est. 03:10 Ir
+ eland\n    Sandhagen: 18-7-0 | 34yo | Odds unavailable\n    Bautista: 18-3
+ -0 | 33yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 11
+ . 𝗕𝗿𝗮𝗻𝗱𝗼𝗻 𝗥𝗼𝘆𝘃𝗮𝗹 (#4) 🇺🇸 vs. 
+ 𝗟𝗼𝗻𝗲’𝗲𝗿 𝗞𝗮𝘃𝗮𝗻𝗮𝗴𝗵 (#6) 🇪🇳
+  - 125lbs/57kg Flyweight · Est. 02:35 Ireland\n    Royval: 18-9-0 | 33yo 
+ | Odds unavailable\n    Kavanagh: 10-2-0 | 27yo | Odds unavailable\n    Od
+ ds history: not checked yet\n\n🥊 10. 𝗞𝗶𝗻𝗴 𝗚𝗿𝗲𝗲
+ 𝗻 🇺🇸 vs. 𝗧𝗲𝗿𝗿𝗮𝗻𝗰𝗲 𝗠𝗰𝗞𝗶𝗻
+ 𝗻𝗲𝘆 🇺🇸 - 155lbs/70kg Lightweight · Est. 02:00 Ireland\n   
+  Green: 36-17-1 | 39yo | Odds unavailable\n    McKinney: 18-9-0 | 31yo | O
+ dds unavailable\n    Odds history: not checked yet\n\n── PRELIMS · 4 
+ bouts ──\n\n🥊 9. 𝗡𝗶𝗸𝗶𝘁𝗮 𝗞𝗿𝘆𝗹𝗼𝘃 
+ (#12) 🇷🇺 vs. 𝗥𝗼𝗯𝗲𝗿𝘁 𝗪𝗵𝗶𝘁𝘁𝗮𝗸
+ 𝗲𝗿 🇦🇺 - 205lbs/93kg Light Heavyweight · Est. 01:30 Ireland\n 
+    Krylov: 31-12-0 | 34yo | Odds unavailable\n    Whittaker: 28-9-0 | 35yo
+  | Odds unavailable\n    Odds history: not checked yet\n\n🥊 8. 𝗚𝗮
+ 𝗯𝗹𝗲 𝗦𝘁𝗲𝘃𝗲𝘀𝗼𝗻 🇺🇸 vs. 𝗘𝗹𝗶
+ 𝘀𝗵𝗮 𝗘𝗹𝗹𝗶𝘀𝗼𝗻 🇺🇸 - 265lbs/120kg Heavywei
+ ght · Est. 01:00 Ireland\n    Steveson: 4-0-0 | 26yo | Odds unavailable\n
+     Ellison: 5-3-0 | 29yo | Odds unavailable\n    Odds history: not checke
+ d yet\n\n🥊 7. 𝗖𝗼𝗱𝘆 𝗚𝗮𝗿𝗯𝗿𝗮𝗻𝗱𝘁 
+ 🇺🇸 vs. 𝗔𝗱𝗿𝗶𝗮𝗻 𝗬𝗮𝗻𝗲𝘇 🇺🇸 - 135l
+ bs/61kg Bantamweight · Est. 00:30 Ireland\n    Garbrandt: 15-8-0 | 35yo |
+  Odds unavailable\n    Yanez: 18-6-1 | 32yo | Odds unavailable\n    Odds h
+ istory: not checked yet\n\n🥊 6. 𝗟𝘂𝗸𝗲 𝗥𝗶𝗹𝗲𝘆 
+ 🇪🇳 vs. 𝗞𝗮𝗶 𝗞𝗮𝗺𝗮𝗸𝗮 𝗜𝗜𝗜 🇺🇸 -
+  145lbs/66kg Featherweight · Est. 00:00 Ireland\n    Riley: 14-0-0 | 27yo
+  | Odds unavailable\n    Kamaka III: 18-8-1 | 31yo | Odds unavailable\n   
+  Odds history: not checked yet\n\n── EARLY PRELIMS · 5 bouts ──\n
+ \n🥊 5. 𝗧𝗿𝗮𝗰𝘆 𝗖𝗼𝗿𝘁𝗲𝘇 (#8) 🇺🇸 vs. 
+ 𝗪𝗮𝗻𝗴 𝗖𝗼𝗻𝗴 (#12) 🇨🇳 - 125lbs/57kg Women's Fly
+ weight · Est. 23:35 Ireland\n    Cortez: 12-4-0 | 32yo | Odds unavailable
+ \n    Cong: 10-1-0 | 34yo | Odds unavailable\n    Odds history: not checke
+ d yet\n\n🥊 4. 𝗗𝗮𝗺𝗶𝗮𝗻 𝗣𝗶𝗻𝗮𝘀 🇦🇼 vs
+ . 𝗖𝗲𝘀𝗮𝗿 𝗔𝗹𝗺𝗲𝗶𝗱𝗮 🇧🇷 - 185lbs/84kg
+  Middleweight · Est. 23:10 Ireland\n    Pinas: 10-1-0 | 24yo | Odds unava
+ ilable\n    Almeida: 7-3-0 | 38yo | Odds unavailable\n    Odds history: no
+ t checked yet\n\n🥊 3. 𝗙𝗮𝗿𝗶𝗱 𝗕𝗮𝘀𝗵𝗮𝗿𝗮
+ 𝘁 (#15) vs. 𝗝𝗼𝗵𝗻 𝗚𝗮𝗿𝘇𝗮 🇺🇸 - 135lbs/61k
+ g Bantamweight · Est. 22:50 Ireland\n    Basharat: 16-0-0 | 28yo | Odds u
+ navailable\n    Garza: 6-2-0 | 23yo | Odds unavailable\n    Odds history: 
+ not checked yet\n\n🥊 2. 𝗥𝘆𝗮𝗻 𝗚𝗮𝗻𝗱𝗿𝗮 🇧
+ 🇷 vs. 𝗭𝗮𝗰𝗵𝗮𝗿𝘆 𝗥𝗲𝗲𝘀𝗲 🇺🇸 - 185l
+ bs/84kg Middleweight · Est. 22:25 Ireland\n    Gandra: 10-1-0 | 31yo | Od
+ ds unavailable\n    Reese: 10-4-0 | 32yo | Odds unavailable\n    Odds hist
+ ory: not checked yet\n\n🥊 1. 𝗔𝗹𝗲𝘀𝘀𝗮𝗻𝗱𝗿𝗼 
+ 𝗖𝗼𝘀𝘁𝗮 🇧🇷 vs. 𝗖𝗼𝗱𝘆 𝗗𝘂𝗿𝗱𝗲
+ 𝗻 🇺🇸 - 125lbs/57kg Flyweight · Est. 22:00 Ireland\n    Costa: 17
+ -5-0 | 30yo | Odds unavailable\n    Durden: 18-11-1 | 35yo | Odds unavaila
+ ble\n    Odds history: not checked yet\n\nSource: https://www.ufc.com/even
+ t/ufc-329\n\nFull odds log: https://staircasewit.github.io/mmacalendar/odd
+ s-history.html\n\nCalendar updated: 2026-09-12T11:18:51.708Z\n\nEvent stat
+ us: Scheduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 14 ann
+ ounced bouts<br><br>📍 T-Mobile Arena\, Las Vegas\, United States<br><br
+ >🕒 22:00–Sun 05:00 Ireland<br><br>Bout times are estimates and may sh
+ ift as the card progresses.<br><br>── MAIN CARD · 5 bouts ──<br><
+ br>🥊 14. 𝗖𝗼𝗻𝗼𝗿 𝗠𝗰𝗚𝗿𝗲𝗴𝗼𝗿 🇮🇪
+  vs. 𝗠𝗮𝘅 𝗛𝗼𝗹𝗹𝗼𝘄𝗮𝘆 🇺🇸 - 170lbs/77kg 
+ Welterweight · Est. 04:25 Ireland<br>    McGregor: 22-7-0 | 37yo | Odds u
+ navailable<br>    Holloway: 27-9-0 | 34yo | Odds unavailable<br>    Odds h
+ istory: not checked yet<br><br>🥊 13. 𝗕𝗲𝗻𝗼î𝘁 𝗦𝗮
+ 𝗶𝗻𝘁 𝗗𝗲𝗻𝗶𝘀 (#5) 🇫🇷 vs. 𝗣𝗮𝗱𝗱𝘆 
+ 𝗣𝗶𝗺𝗯𝗹𝗲𝘁𝘁 (#6) 🇪🇳 - 155lbs/70kg Lightweight 
+ · Est. 03:50 Ireland<br>    Saint Denis: 17-4-0 | 30yo | Odds unavailable
+ <br>    Pimblett: 24-4-0 | 31yo | Odds unavailable<br>    Odds history: no
+ t checked yet<br><br>🥊 12. 𝗖𝗼𝗿𝘆 𝗦𝗮𝗻𝗱𝗵𝗮
+ 𝗴𝗲𝗻 (#4) 🇺🇸 vs. 𝗠𝗮𝗿𝗶𝗼 𝗕𝗮𝘂𝘁𝗶
+ 𝘀𝘁𝗮 (#7) 🇺🇸 - 135lbs/61kg Bantamweight · Est. 03:10 Irelan
+ d<br>    Sandhagen: 18-7-0 | 34yo | Odds unavailable<br>    Bautista: 18-3
+ -0 | 33yo | Odds unavailable<br>    Odds history: not checked yet<br><br>
+ 🥊 11. 𝗕𝗿𝗮𝗻𝗱𝗼𝗻 𝗥𝗼𝘆𝘃𝗮𝗹 (#4) 🇺
+ 🇸 vs. 𝗟𝗼𝗻𝗲’𝗲𝗿 𝗞𝗮𝘃𝗮𝗻𝗮𝗴𝗵 (#6)
+  🇪🇳 - 125lbs/57kg Flyweight · Est. 02:35 Ireland<br>    Royval: 18-
+ 9-0 | 33yo | Odds unavailable<br>    Kavanagh: 10-2-0 | 27yo | Odds unavai
+ lable<br>    Odds history: not checked yet<br><br>🥊 10. 𝗞𝗶𝗻
+ 𝗴 𝗚𝗿𝗲𝗲𝗻 🇺🇸 vs. 𝗧𝗲𝗿𝗿𝗮𝗻𝗰𝗲 
+ 𝗠𝗰𝗞𝗶𝗻𝗻𝗲𝘆 🇺🇸 - 155lbs/70kg Lightweight · Est
+ . 02:00 Ireland<br>    Green: 36-17-1 | 39yo | Odds unavailable<br>    McK
+ inney: 18-9-0 | 31yo | Odds unavailable<br>    Odds history: not checked y
+ et<br><br>── PRELIMS · 4 bouts ──<br><br>🥊 9. 𝗡𝗶𝗸𝗶
+ 𝘁𝗮 𝗞𝗿𝘆𝗹𝗼𝘃 (#12) 🇷🇺 vs. 𝗥𝗼𝗯𝗲𝗿
+ 𝘁 𝗪𝗵𝗶𝘁𝘁𝗮𝗸𝗲𝗿 🇦🇺 - 205lbs/93kg Light Hea
+ vyweight · Est. 01:30 Ireland<br>    Krylov: 31-12-0 | 34yo | Odds unavai
+ lable<br>    Whittaker: 28-9-0 | 35yo | Odds unavailable<br>    Odds histo
+ ry: not checked yet<br><br>🥊 8. 𝗚𝗮𝗯𝗹𝗲 𝗦𝘁𝗲𝘃
+ 𝗲𝘀𝗼𝗻 🇺🇸 vs. 𝗘𝗹𝗶𝘀𝗵𝗮 𝗘𝗹𝗹𝗶
+ 𝘀𝗼𝗻 🇺🇸 - 265lbs/120kg Heavyweight · Est. 01:00 Ireland<br>
+     Steveson: 4-0-0 | 26yo | Odds unavailable<br>    Ellison: 5-3-0 | 29yo
+  | Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 7. 
+ 𝗖𝗼𝗱𝘆 𝗚𝗮𝗿𝗯𝗿𝗮𝗻𝗱𝘁 🇺🇸 vs. 𝗔
+ 𝗱𝗿𝗶𝗮𝗻 𝗬𝗮𝗻𝗲𝘇 🇺🇸 - 135lbs/61kg Bantamwei
+ ght · Est. 00:30 Ireland<br>    Garbrandt: 15-8-0 | 35yo | Odds unavailab
+ le<br>    Yanez: 18-6-1 | 32yo | Odds unavailable<br>    Odds history: not
+  checked yet<br><br>🥊 6. 𝗟𝘂𝗸𝗲 𝗥𝗶𝗹𝗲𝘆 🇪🇳
+  vs. 𝗞𝗮𝗶 𝗞𝗮𝗺𝗮𝗸𝗮 𝗜𝗜𝗜 🇺🇸 - 145lbs/
+ 66kg Featherweight · Est. 00:00 Ireland<br>    Riley: 14-0-0 | 27yo | Odd
+ s unavailable<br>    Kamaka III: 18-8-1 | 31yo | Odds unavailable<br>    O
+ dds history: not checked yet<br><br>── EARLY PRELIMS · 5 bouts ──
+ <br><br>🥊 5. 𝗧𝗿𝗮𝗰𝘆 𝗖𝗼𝗿𝘁𝗲𝘇 (#8) 🇺
+ 🇸 vs. 𝗪𝗮𝗻𝗴 𝗖𝗼𝗻𝗴 (#12) 🇨🇳 - 125lbs/57kg Wo
+ men&#39\;s Flyweight · Est. 23:35 Ireland<br>    Cortez: 12-4-0 | 32yo | 
+ Odds unavailable<br>    Cong: 10-1-0 | 34yo | Odds unavailable<br>    Odds
+  history: not checked yet<br><br>🥊 4. 𝗗𝗮𝗺𝗶𝗮𝗻 𝗣𝗶
+ 𝗻𝗮𝘀 🇦🇼 vs. 𝗖𝗲𝘀𝗮𝗿 𝗔𝗹𝗺𝗲𝗶𝗱
+ 𝗮 🇧🇷 - 185lbs/84kg Middleweight · Est. 23:10 Ireland<br>    Pina
+ s: 10-1-0 | 24yo | Odds unavailable<br>    Almeida: 7-3-0 | 38yo | Odds un
+ available<br>    Odds history: not checked yet<br><br>🥊 3. 𝗙𝗮𝗿
+ 𝗶𝗱 𝗕𝗮𝘀𝗵𝗮𝗿𝗮𝘁 (#15) vs. 𝗝𝗼𝗵𝗻 𝗚
+ 𝗮𝗿𝘇𝗮 🇺🇸 - 135lbs/61kg Bantamweight · Est. 22:50 Ireland
+ <br>    Basharat: 16-0-0 | 28yo | Odds unavailable<br>    Garza: 6-2-0 | 2
+ 3yo | Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 2.
+  𝗥𝘆𝗮𝗻 𝗚𝗮𝗻𝗱𝗿𝗮 🇧🇷 vs. 𝗭𝗮𝗰𝗵
+ 𝗮𝗿𝘆 𝗥𝗲𝗲𝘀𝗲 🇺🇸 - 185lbs/84kg Middleweight · E
+ st. 22:25 Ireland<br>    Gandra: 10-1-0 | 31yo | Odds unavailable<br>    R
+ eese: 10-4-0 | 32yo | Odds unavailable<br>    Odds history: not checked ye
+ t<br><br>🥊 1. 𝗔𝗹𝗲𝘀𝘀𝗮𝗻𝗱𝗿𝗼 𝗖𝗼𝘀𝘁
+ 𝗮 🇧🇷 vs. 𝗖𝗼𝗱𝘆 𝗗𝘂𝗿𝗱𝗲𝗻 🇺🇸 - 125
+ lbs/57kg Flyweight · Est. 22:00 Ireland<br>    Costa: 17-5-0 | 30yo | Odd
+ s unavailable<br>    Durden: 18-11-1 | 35yo | Odds unavailable<br>    Odds
+  history: not checked yet<br><br>Source: https://www.ufc.com/event/ufc-329
+ <br><br>Full odds log: https://staircasewit.github.io/mmacalendar/odds-his
+ tory.html<br><br>Calendar updated: 2026-09-12T11:18:51.708Z<br><br>Event s
+ tatus: Scheduled · verified 12 Sep 2026</p></body></html>
+LOCATION:T-Mobile Arena\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-329
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-july-18-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260718T210000Z
+DTEND:20260719T030000Z
+SUMMARY:UFC Fight Night: Du Plessis vs Usman
+DESCRIPTION:UFC · Complete Event · 12 announced bouts\n\n📍 Paycom Cent
+ er\, Oklahoma City\, United States\n\n🕒 22:00–Sun 04:00 Ireland\n\nBo
+ ut times are estimates and may shift as the card progresses.\n\n── MAI
+ N CARD · 5 bouts ──\n\n🥊 12. 𝗗𝗿𝗶𝗰𝘂𝘀 𝗗𝘂 
+ 𝗣𝗹𝗲𝘀𝘀𝗶𝘀 (#2) 🇿🇦 vs. 𝗞𝗮𝗺𝗮𝗿𝘂 
+ 𝗨𝘀𝗺𝗮𝗻 (#9) 🇳🇬 - 185lbs/84kg Middleweight · Est. 03:2
+ 5 Ireland\n    Du Plessis: 24-3-0 | 32yo | Odds unavailable\n    Usman: 21
+ -5-0 | 39yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 
+ 11. 𝗝𝗮𝗿𝗲𝗱 𝗖𝗮𝗻𝗻𝗼𝗻𝗶𝗲𝗿 (#10) 🇺
+ 🇸 vs. 𝗖𝗵𝗿𝗶𝘀𝘁𝗶𝗮𝗻 𝗟𝗲𝗿𝗼𝘆 𝗗
+ 𝘂𝗻𝗰𝗮𝗻 (#12) 🇪🇳 - 185lbs/84kg Middleweight · Est. 02:
+ 50 Ireland\n    Cannonier: 18-10-0 | 42yo | Odds unavailable\n    Duncan: 
+ 15-2-0 | 30yo | Odds unavailable\n    Odds history: not checked yet\n\n
+ 🥊 10. 𝗖𝗵𝗮𝘀𝗲 𝗛𝗼𝗼𝗽𝗲𝗿 🇺🇸 vs. 𝗠
+ 𝗶𝘁𝗰𝗵 𝗥𝗮𝗺𝗶𝗿𝗲𝘇 🇺🇸 - 155lbs/70kg Light
+ weight · Est. 02:10 Ireland\n    Hooper: 17-5-1 | 26yo | Odds unavailable
+ \n    Ramirez: 8-4-0 | 33yo | Odds unavailable\n    Odds history: not chec
+ ked yet\n\n🥊 9. 𝗧𝗮𝗯𝗮𝘁𝗵𝗮 𝗥𝗶𝗰𝗰𝗶 (#8) 
+ 🇧🇷 vs. 𝗙𝗮𝘁𝗶𝗺𝗮 𝗞𝗹𝗶𝗻𝗲 (#11) 🇺🇸 
+ - 115lbs/52kg Women's Strawweight · Est. 01:35 Ireland\n    Ricci: 12-5-0
+  | 31yo | Odds unavailable\n    Kline: 10-1-0 | 26yo | Odds unavailable\n 
+    Odds history: not checked yet\n\n🥊 8. 𝗧𝗼𝗺𝗺𝘆 𝗠𝗰
+ 𝗠𝗶𝗹𝗹𝗲𝗻 🇺🇸 vs. 𝗔𝗹𝗯𝗲𝗿𝘁𝗼 𝗠
+ 𝗼𝗻𝘁𝗲𝘀 🇻🇪 - 145lbs/66kg Featherweight · Est. 01:00 Ir
+ eland\n    McMillen: 11-0-0 | 28yo | Odds unavailable\n    Montes: 12-2-0 
+ | 32yo | Odds unavailable\n    Odds history: not checked yet\n\n── PRE
+ LIMS · 7 bouts ──\n\n🥊 7. 𝗔𝘂𝘀𝘁𝗶𝗻 𝗕𝗮𝘀
+ 𝗵𝗶 🇺🇸 vs. 𝗝𝗼𝘀𝗲 𝗠𝗶𝗴𝘂𝗲𝗹 𝗗𝗲
+ 𝗹𝗴𝗮𝗱𝗼 🇲🇽 - 145lbs/66kg Featherweight · Est. Sun 00:3
+ 5 Ireland\n    Bashi: 14-2-0 | 24yo | Odds unavailable\n    Delgado: 12-2-
+ 0 | 28yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 6. 
+ 𝗝𝗲𝗮𝗻-𝗣𝗮𝘂𝗹 𝗟𝗲𝗯𝗼𝘀𝗻𝗼𝘆𝗮𝗻
+ 𝗶 🇺🇸 vs. 𝗦𝗲𝗼𝗸𝗵𝘆𝗲𝗼𝗻 𝗞𝗼 🇰🇷 -
+  170lbs/77kg Welterweight · Est. Sun 00:10 Ireland\n    Lebosnoyani: 11-2
+ -0 | 27yo | Odds unavailable\n    Ko: 13-3-0 | 32yo | Odds unavailable\n  
+   Odds history: not checked yet\n\n🥊 5. 𝗟𝗲𝘃𝗶 𝗥𝗼𝗱
+ 𝗿𝗶𝗴𝘂𝗲𝘀 𝗝𝗿. 🇧🇷 vs. 𝗙𝗲𝗹𝗶𝗽𝗲 
+ 𝗙𝗿𝗮𝗻𝗰𝗼 🇧🇷 - 205lbs/93kg Light Heavyweight · Est. 
+ 23:45 Ireland\n    Rodrigues Jr.: 5-2-0 | 29yo | Odds unavailable\n    Fra
+ nco: 11-2-0 | 25yo | Odds unavailable\n    Odds history: not checked yet\n
+ \n🥊 4. 𝗘𝘇𝗿𝗮 𝗘𝗹𝗹𝗶𝗼𝘁 🇺🇸 vs. 𝗗𝗮
+ 𝗺𝗶𝗲𝗻 𝗔𝗻𝗱𝗲𝗿𝘀𝗼𝗻 🇺🇸 - 145lbs/66kg F
+ eatherweight · Est. 23:15 Ireland\n    Elliot: 8-0-0 | 26yo | Odds unavai
+ lable\n    Anderson: 5-1-0 | 29yo | Odds unavailable\n    Odds history: no
+ t checked yet\n\n🥊 3. 𝗔𝗹𝗱𝗲𝗻 𝗖𝗼𝗿𝗶𝗮 🇺
+ 🇸 vs. 𝗦𝘁𝗲𝘄𝗮𝗿𝘁 𝗡𝗶𝗰𝗼𝗹𝗹 🇦🇺 - 
+ 125lbs/57kg Flyweight · Est. 22:50 Ireland\n    Coria: 13-3-0 | 28yo | Od
+ ds unavailable\n    Nicoll: 8-4-0 | 31yo | Odds unavailable\n    Odds hist
+ ory: not checked yet\n\n🥊 2. 𝗥𝗝 𝗛𝗮𝗿𝗿𝗶𝘀 🇺🇸
+  vs. 𝗔𝗹𝘃𝗶𝗻 𝗛𝗶𝗻𝗲𝘀 🇺🇸 - 265lbs/120kg Hea
+ vyweight · Est. 22:25 Ireland\n    Harris: 6-0-0 | 27yo | Odds unavailabl
+ e\n    Hines: 7-2-0 | 34yo | Odds unavailable\n    Odds history: not check
+ ed yet\n\n🥊 1. 𝗔𝗻𝗻𝗮 𝗠𝗲𝗹𝗶𝘀𝗮𝗻𝗼 🇺
+ 🇸 vs. 𝗗𝗶𝗼𝗻𝗲 𝗕𝗮𝗿𝗯𝗼𝘀𝗮 🇧🇷 - 125l
+ bs/57kg Women's Flyweight · Est. 22:00 Ireland\n    Melisano: 6-2-0 | 29y
+ o | Odds unavailable\n    Barbosa: 10-4-0 | 34yo | Odds unavailable\n    O
+ dds history: not checked yet\n\nSource: https://www.ufc.com/event/ufc-figh
+ t-night-july-18-2026\n\nFull odds log: https://staircasewit.github.io/mmac
+ alendar/odds-history.html\n\nCalendar updated: 2026-09-12T11:18:51.708Z\n\
+ nEvent status: Scheduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 12 ann
+ ounced bouts<br><br>📍 Paycom Center\, Oklahoma City\, United States<br>
+ <br>🕒 22:00–Sun 04:00 Ireland<br><br>Bout times are estimates and may
+  shift as the card progresses.<br><br>── MAIN CARD · 5 bouts ──<b
+ r><br>🥊 12. 𝗗𝗿𝗶𝗰𝘂𝘀 𝗗𝘂 𝗣𝗹𝗲𝘀𝘀𝗶
+ 𝘀 (#2) 🇿🇦 vs. 𝗞𝗮𝗺𝗮𝗿𝘂 𝗨𝘀𝗺𝗮𝗻 (#9) 
+ 🇳🇬 - 185lbs/84kg Middleweight · Est. 03:25 Ireland<br>    Du Plessi
+ s: 24-3-0 | 32yo | Odds unavailable<br>    Usman: 21-5-0 | 39yo | Odds una
+ vailable<br>    Odds history: not checked yet<br><br>🥊 11. 𝗝𝗮𝗿
+ 𝗲𝗱 𝗖𝗮𝗻𝗻𝗼𝗻𝗶𝗲𝗿 (#10) 🇺🇸 vs. 𝗖𝗵
+ 𝗿𝗶𝘀𝘁𝗶𝗮𝗻 𝗟𝗲𝗿𝗼𝘆 𝗗𝘂𝗻𝗰𝗮𝗻
+  (#12) 🇪🇳 - 185lbs/84kg Middleweight · Est. 02:50 Ireland<br>    Ca
+ nnonier: 18-10-0 | 42yo | Odds unavailable<br>    Duncan: 15-2-0 | 30yo | 
+ Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 10. 𝗖
+ 𝗵𝗮𝘀𝗲 𝗛𝗼𝗼𝗽𝗲𝗿 🇺🇸 vs. 𝗠𝗶𝘁𝗰
+ 𝗵 𝗥𝗮𝗺𝗶𝗿𝗲𝘇 🇺🇸 - 155lbs/70kg Lightweight · Es
+ t. 02:10 Ireland<br>    Hooper: 17-5-1 | 26yo | Odds unavailable<br>    Ra
+ mirez: 8-4-0 | 33yo | Odds unavailable<br>    Odds history: not checked ye
+ t<br><br>🥊 9. 𝗧𝗮𝗯𝗮𝘁𝗵𝗮 𝗥𝗶𝗰𝗰𝗶 (#8) 
+ 🇧🇷 vs. 𝗙𝗮𝘁𝗶𝗺𝗮 𝗞𝗹𝗶𝗻𝗲 (#11) 🇺🇸 
+ - 115lbs/52kg Women&#39\;s Strawweight · Est. 01:35 Ireland<br>    Ricci:
+  12-5-0 | 31yo | Odds unavailable<br>    Kline: 10-1-0 | 26yo | Odds unava
+ ilable<br>    Odds history: not checked yet<br><br>🥊 8. 𝗧𝗼𝗺
+ 𝗺𝘆 𝗠𝗰𝗠𝗶𝗹𝗹𝗲𝗻 🇺🇸 vs. 𝗔𝗹𝗯𝗲
+ 𝗿𝘁𝗼 𝗠𝗼𝗻𝘁𝗲𝘀 🇻🇪 - 145lbs/66kg Featherweight
+  · Est. 01:00 Ireland<br>    McMillen: 11-0-0 | 28yo | Odds unavailable<b
+ r>    Montes: 12-2-0 | 32yo | Odds unavailable<br>    Odds history: not ch
+ ecked yet<br><br>── PRELIMS · 7 bouts ──<br><br>🥊 7. 𝗔𝘂
+ 𝘀𝘁𝗶𝗻 𝗕𝗮𝘀𝗵𝗶 🇺🇸 vs. 𝗝𝗼𝘀𝗲 𝗠
+ 𝗶𝗴𝘂𝗲𝗹 𝗗𝗲𝗹𝗴𝗮𝗱𝗼 🇲🇽 - 145lbs/66kg F
+ eatherweight · Est. Sun 00:35 Ireland<br>    Bashi: 14-2-0 | 24yo | Odds 
+ unavailable<br>    Delgado: 12-2-0 | 28yo | Odds unavailable<br>    Odds h
+ istory: not checked yet<br><br>🥊 6. 𝗝𝗲𝗮𝗻-𝗣𝗮𝘂𝗹 
+ 𝗟𝗲𝗯𝗼𝘀𝗻𝗼𝘆𝗮𝗻𝗶 🇺🇸 vs. 𝗦𝗲𝗼𝗸
+ 𝗵𝘆𝗲𝗼𝗻 𝗞𝗼 🇰🇷 - 170lbs/77kg Welterweight · Est. 
+ Sun 00:10 Ireland<br>    Lebosnoyani: 11-2-0 | 27yo | Odds unavailable<br>
+     Ko: 13-3-0 | 32yo | Odds unavailable<br>    Odds history: not checked 
+ yet<br><br>🥊 5. 𝗟𝗲𝘃𝗶 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘀 
+ 𝗝𝗿. 🇧🇷 vs. 𝗙𝗲𝗹𝗶𝗽𝗲 𝗙𝗿𝗮𝗻𝗰𝗼 
+ 🇧🇷 - 205lbs/93kg Light Heavyweight · Est. 23:45 Ireland<br>    Rodr
+ igues Jr.: 5-2-0 | 29yo | Odds unavailable<br>    Franco: 11-2-0 | 25yo | 
+ Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 4. 𝗘
+ 𝘇𝗿𝗮 𝗘𝗹𝗹𝗶𝗼𝘁 🇺🇸 vs. 𝗗𝗮𝗺𝗶𝗲
+ 𝗻 𝗔𝗻𝗱𝗲𝗿𝘀𝗼𝗻 🇺🇸 - 145lbs/66kg Featherweight
+  · Est. 23:15 Ireland<br>    Elliot: 8-0-0 | 26yo | Odds unavailable<br> 
+    Anderson: 5-1-0 | 29yo | Odds unavailable<br>    Odds history: not chec
+ ked yet<br><br>🥊 3. 𝗔𝗹𝗱𝗲𝗻 𝗖𝗼𝗿𝗶𝗮 🇺🇸 
+ vs. 𝗦𝘁𝗲𝘄𝗮𝗿𝘁 𝗡𝗶𝗰𝗼𝗹𝗹 🇦🇺 - 125lb
+ s/57kg Flyweight · Est. 22:50 Ireland<br>    Coria: 13-3-0 | 28yo | Odds 
+ unavailable<br>    Nicoll: 8-4-0 | 31yo | Odds unavailable<br>    Odds his
+ tory: not checked yet<br><br>🥊 2. 𝗥𝗝 𝗛𝗮𝗿𝗿𝗶𝘀 
+ 🇺🇸 vs. 𝗔𝗹𝘃𝗶𝗻 𝗛𝗶𝗻𝗲𝘀 🇺🇸 - 265lbs/1
+ 20kg Heavyweight · Est. 22:25 Ireland<br>    Harris: 6-0-0 | 27yo | Odds 
+ unavailable<br>    Hines: 7-2-0 | 34yo | Odds unavailable<br>    Odds hist
+ ory: not checked yet<br><br>🥊 1. 𝗔𝗻𝗻𝗮 𝗠𝗲𝗹𝗶𝘀
+ 𝗮𝗻𝗼 🇺🇸 vs. 𝗗𝗶𝗼𝗻𝗲 𝗕𝗮𝗿𝗯𝗼𝘀
+ 𝗮 🇧🇷 - 125lbs/57kg Women&#39\;s Flyweight · Est. 22:00 Ireland<b
+ r>    Melisano: 6-2-0 | 29yo | Odds unavailable<br>    Barbosa: 10-4-0 | 3
+ 4yo | Odds unavailable<br>    Odds history: not checked yet<br><br>Source:
+  https://www.ufc.com/event/ufc-fight-night-july-18-2026<br><br>Full odds l
+ og: https://staircasewit.github.io/mmacalendar/odds-history.html<br><br>Ca
+ lendar updated: 2026-09-12T11:18:51.708Z<br><br>Event status: Scheduled ·
+  verified 12 Sep 2026</p></body></html>
+LOCATION:Paycom Center\, Oklahoma City\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-july-18-2026
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-july-25-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260725T130000Z
+DTEND:20260725T190000Z
+SUMMARY:UFC Fight Night: Ankalaev vs Guskov
+DESCRIPTION:UFC · Complete Event · 12 announced bouts\n\n📍 Etihad Aren
+ a\, Yas Island/Yas West\, United Arab Emirates\n\n🕒 14:00–20:00 Irela
+ nd\n\nBout times are estimates and may shift as the card progresses.\n\n
+ ── MAIN CARD · 6 bouts ──\n\n🥊 12. 𝗠𝗮𝗴𝗼𝗺𝗲
+ 𝗱 𝗔𝗻𝗸𝗮𝗹𝗮𝗲𝘃 (#1) 🇷🇺 vs. 𝗕𝗼𝗴𝗱
+ 𝗮𝗻 𝗚𝘂𝘀𝗸𝗼𝘃 (#9) 🇺🇿 - 205lbs/93kg Light Heavyw
+ eight · Est. 19:30 Ireland\n    Ankalaev: 22-2-1 | 34yo | Odds unavailabl
+ e\n    Guskov: 18-3-0 | 33yo | Odds unavailable\n    Odds history: not che
+ cked yet\n\n🥊 11. 𝗦𝘁𝗲𝘃𝗲 𝗘𝗿𝗰𝗲𝗴 (#10) 🇦
+ 🇺 vs. 𝗥𝗮𝗺𝗮𝘇𝗮𝗻 𝗧𝗲𝗺𝗶𝗿𝗼𝘃 🇺
+ 🇿 - 125lbs/57kg Flyweight · Est. 19:00 Ireland\n    Erceg: 14-5-0 | 30
+ yo | Odds unavailable\n    Temirov: 20-3-0 | 29yo | Odds unavailable\n    
+ Odds history: not checked yet\n\n🥊 10. 𝗠𝗮𝗴𝗼𝗺𝗲𝗱 
+ 𝗭𝗮𝘆𝗻𝘂𝗸𝗼𝘃 🇷🇺 vs. 𝗗𝗮𝗺𝗶𝗮𝗻 
+ 𝗥𝘇𝗲𝗽𝗲𝗰𝗸𝗶 🇵🇱 - 155lbs/70kg Lightweight · Est
+ . 18:30 Ireland\n    Zaynukov: 9-0-0 | 31yo | Odds unavailable\n    Rzepec
+ ki: 10-1-0 | 24yo | Odds unavailable\n    Odds history: not checked yet\n\
+ n🥊 9. 𝗥𝗶𝘇𝘃𝗮𝗻 𝗞𝘂𝗻𝗶𝗲𝘃 (#8) 🇷🇺 v
+ s. 𝗧𝘆𝗿𝗲𝗹𝗹 𝗙𝗼𝗿𝘁𝘂𝗻𝗲 (#9) 🇺🇸 - 2
+ 65lbs/120kg Heavyweight · Est. 18:00 Ireland\n    Kuniev: 14-3-1 | 34yo |
+  Odds unavailable\n    Fortune: 18-4-0 | 36yo | Odds unavailable\n    Odds
+  history: not checked yet\n\n🥊 8. 𝗔𝗯𝘂𝗯𝗮𝗸𝗮𝗿 𝗩
+ 𝗮𝗴𝗮𝗲𝘃 🇷🇺 vs. 𝗦𝗮𝘆𝗴𝗶𝗱 𝗜𝘇𝗮
+ 𝗴𝗮𝗸𝗵𝗺𝗮𝗲𝘃 🇷🇺 - 170lbs/77kg Welterweight · Es
+ t. 17:30 Ireland\n    Vagaev: 25-4-0 | 33yo | Odds unavailable\n    Izagak
+ hmaev: 22-4-0 | 31yo | Odds unavailable\n    Odds history: not checked yet
+ \n\n🥊 7. 𝗜𝘀𝗺𝗮𝗲𝗹 𝗕𝗼𝗻𝗳𝗶𝗺 🇧🇷 vs.
+  𝗔𝘅𝗲𝗹 𝗦𝗼𝗹𝗮 🇫🇷 - 155lbs/70kg Lightweight · E
+ st. 17:00 Ireland\n    Bonfim: 20-7-0 | 30yo | Odds unavailable\n    Sola:
+  13-1-1 | 28yo | Odds unavailable\n    Odds history: not checked yet\n\n
+ ── PRELIMS · 6 bouts ──\n\n🥊 6. 𝗩𝗮𝗹𝘁𝗲𝗿 𝗪
+ 𝗮𝗹𝗸𝗲𝗿 (#13) 🇧🇷 vs. 𝗧𝗵𝗼𝗺𝗮𝘀 𝗣𝗲
+ 𝘁𝗲𝗿𝘀𝗲𝗻 🇺🇸 - 265lbs/120kg Heavyweight · Est. 16:30
+  Ireland\n    Walker: 16-1-0 | 28yo | Odds unavailable\n    Petersen: 11-5
+ -0 | 31yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 5.
+  𝗗𝘂𝘀𝘁𝗶𝗻 𝗝𝗮𝗰𝗼𝗯𝘆 🇺🇸 vs. 𝗠𝘂
+ 𝗵𝗮𝗺𝗺𝗮𝗱 𝗦𝗮𝗶𝗱𝗼𝘃 🇷🇺 - 205lbs/93kg L
+ ight Heavyweight · Est. 16:00 Ireland\n    Jacoby: 22-10-1 | 38yo | Odds 
+ unavailable\n    Saidov: 10-0-0 | 30yo | Odds unavailable\n    Odds histor
+ y: not checked yet\n\n🥊 4. 𝗦𝗮𝗻𝘁𝗶𝗮𝗴𝗼 𝗣𝗼
+ 𝗻𝘇𝗶𝗻𝗶𝗯𝗯𝗶𝗼 🇦🇷 vs. 𝗦𝗮𝗺 𝗣𝗮
+ 𝘁𝘁𝗲𝗿𝘀𝗼𝗻 🇪🇳 - 170lbs/77kg Welterweight · Est. 1
+ 5:30 Ireland\n    Ponzinibbio: 31-10-0 | 39yo | Odds unavailable\n    Patt
+ erson: 15-3-1 | 30yo | Odds unavailable\n    Odds history: not checked yet
+ \n\n🥊 3. 𝗠𝗮𝗴𝗼𝗺𝗲𝗱 𝗧𝘂𝗰𝗵𝗮𝗹𝗼𝘃 
+ 🇷🇺 vs. 𝗕𝗿𝗲𝗻𝗱𝘀𝗼𝗻 𝗥𝗶𝗯𝗲𝗶𝗿𝗼
+  🇧🇷 - 205lbs/93kg Light Heavyweight · Est. 15:00 Ireland\n    Tucha
+ lov: 7-0-0 | 26yo | Odds unavailable\n    Ribeiro: 17-11-0 | 29yo | Odds u
+ navailable\n    Odds history: not checked yet\n\n🥊 2. 𝗡𝘂𝗿𝘂
+ 𝗹𝗹𝗼 𝗔𝗹𝗶𝗲𝘃 🇹🇯 vs. 𝗠𝗶𝗸𝗲 𝗗𝗮
+ 𝘃𝗶𝘀 🇺🇸 - 155lbs/70kg Lightweight · Est. 14:30 Ireland\n   
+  Aliev: 12-0-0 | 25yo | Odds unavailable\n    Davis: 12-4-0 | 33yo | Odds 
+ unavailable\n    Odds history: not checked yet\n\n🥊 1. 𝗖𝗼𝗱𝘆
+  𝗚𝗶𝗯𝘀𝗼𝗻 🇺🇸 vs. 𝗔𝗯𝗱𝘂𝗹 𝗛𝘂𝘀
+ 𝘀𝗲𝗶𝗻 🇫🇮 - 135lbs/61kg Bantamweight · Est. 14:00 Ireland
+ \n    Gibson: 22-13-0 | 38yo | Odds unavailable\n    Hussein: 16-2-0 | 28y
+ o | Odds unavailable\n    Odds history: not checked yet\n\nSource: https:/
+ /www.ufc.com/event/ufc-fight-night-july-25-2026\n\nFull odds log: https://
+ staircasewit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 
+ 2026-09-12T11:18:51.708Z\n\nEvent status: Scheduled · verified 12 Sep 202
+ 6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 12 ann
+ ounced bouts<br><br>📍 Etihad Arena\, Yas Island/Yas West\, United Arab 
+ Emirates<br><br>🕒 14:00–20:00 Ireland<br><br>Bout times are estimates
+  and may shift as the card progresses.<br><br>── MAIN CARD · 6 bouts 
+ ──<br><br>🥊 12. 𝗠𝗮𝗴𝗼𝗺𝗲𝗱 𝗔𝗻𝗸𝗮𝗹
+ 𝗮𝗲𝘃 (#1) 🇷🇺 vs. 𝗕𝗼𝗴𝗱𝗮𝗻 𝗚𝘂𝘀𝗸
+ 𝗼𝘃 (#9) 🇺🇿 - 205lbs/93kg Light Heavyweight · Est. 19:30 Irela
+ nd<br>    Ankalaev: 22-2-1 | 34yo | Odds unavailable<br>    Guskov: 18-3-0
+  | 33yo | Odds unavailable<br>    Odds history: not checked yet<br><br>
+ 🥊 11. 𝗦𝘁𝗲𝘃𝗲 𝗘𝗿𝗰𝗲𝗴 (#10) 🇦🇺 vs. 𝗥
+ 𝗮𝗺𝗮𝘇𝗮𝗻 𝗧𝗲𝗺𝗶𝗿𝗼𝘃 🇺🇿 - 125lbs/57
+ kg Flyweight · Est. 19:00 Ireland<br>    Erceg: 14-5-0 | 30yo | Odds unav
+ ailable<br>    Temirov: 20-3-0 | 29yo | Odds unavailable<br>    Odds histo
+ ry: not checked yet<br><br>🥊 10. 𝗠𝗮𝗴𝗼𝗺𝗲𝗱 𝗭𝗮
+ 𝘆𝗻𝘂𝗸𝗼𝘃 🇷🇺 vs. 𝗗𝗮𝗺𝗶𝗮𝗻 𝗥𝘇
+ 𝗲𝗽𝗲𝗰𝗸𝗶 🇵🇱 - 155lbs/70kg Lightweight · Est. 18:30 
+ Ireland<br>    Zaynukov: 9-0-0 | 31yo | Odds unavailable<br>    Rzepecki: 
+ 10-1-0 | 24yo | Odds unavailable<br>    Odds history: not checked yet<br><
+ br>🥊 9. 𝗥𝗶𝘇𝘃𝗮𝗻 𝗞𝘂𝗻𝗶𝗲𝘃 (#8) 🇷🇺
+  vs. 𝗧𝘆𝗿𝗲𝗹𝗹 𝗙𝗼𝗿𝘁𝘂𝗻𝗲 (#9) 🇺🇸 -
+  265lbs/120kg Heavyweight · Est. 18:00 Ireland<br>    Kuniev: 14-3-1 | 34
+ yo | Odds unavailable<br>    Fortune: 18-4-0 | 36yo | Odds unavailable<br>
+     Odds history: not checked yet<br><br>🥊 8. 𝗔𝗯𝘂𝗯𝗮𝗸
+ 𝗮𝗿 𝗩𝗮𝗴𝗮𝗲𝘃 🇷🇺 vs. 𝗦𝗮𝘆𝗴𝗶𝗱 
+ 𝗜𝘇𝗮𝗴𝗮𝗸𝗵𝗺𝗮𝗲𝘃 🇷🇺 - 170lbs/77kg Welter
+ weight · Est. 17:30 Ireland<br>    Vagaev: 25-4-0 | 33yo | Odds unavailab
+ le<br>    Izagakhmaev: 22-4-0 | 31yo | Odds unavailable<br>    Odds histor
+ y: not checked yet<br><br>🥊 7. 𝗜𝘀𝗺𝗮𝗲𝗹 𝗕𝗼𝗻
+ 𝗳𝗶𝗺 🇧🇷 vs. 𝗔𝘅𝗲𝗹 𝗦𝗼𝗹𝗮 🇫🇷 - 155
+ lbs/70kg Lightweight · Est. 17:00 Ireland<br>    Bonfim: 20-7-0 | 30yo | 
+ Odds unavailable<br>    Sola: 13-1-1 | 28yo | Odds unavailable<br>    Odds
+  history: not checked yet<br><br>── PRELIMS · 6 bouts ──<br><br>
+ 🥊 6. 𝗩𝗮𝗹𝘁𝗲𝗿 𝗪𝗮𝗹𝗸𝗲𝗿 (#13) 🇧🇷 v
+ s. 𝗧𝗵𝗼𝗺𝗮𝘀 𝗣𝗲𝘁𝗲𝗿𝘀𝗲𝗻 🇺🇸 - 26
+ 5lbs/120kg Heavyweight · Est. 16:30 Ireland<br>    Walker: 16-1-0 | 28yo 
+ | Odds unavailable<br>    Petersen: 11-5-0 | 31yo | Odds unavailable<br>  
+   Odds history: not checked yet<br><br>🥊 5. 𝗗𝘂𝘀𝘁𝗶𝗻 
+ 𝗝𝗮𝗰𝗼𝗯𝘆 🇺🇸 vs. 𝗠𝘂𝗵𝗮𝗺𝗺𝗮𝗱 
+ 𝗦𝗮𝗶𝗱𝗼𝘃 🇷🇺 - 205lbs/93kg Light Heavyweight · Est. 
+ 16:00 Ireland<br>    Jacoby: 22-10-1 | 38yo | Odds unavailable<br>    Said
+ ov: 10-0-0 | 30yo | Odds unavailable<br>    Odds history: not checked yet<
+ br><br>🥊 4. 𝗦𝗮𝗻𝘁𝗶𝗮𝗴𝗼 𝗣𝗼𝗻𝘇𝗶𝗻
+ 𝗶𝗯𝗯𝗶𝗼 🇦🇷 vs. 𝗦𝗮𝗺 𝗣𝗮𝘁𝘁𝗲𝗿
+ 𝘀𝗼𝗻 🇪🇳 - 170lbs/77kg Welterweight · Est. 15:30 Ireland<br>
+     Ponzinibbio: 31-10-0 | 39yo | Odds unavailable<br>    Patterson: 15-3-
+ 1 | 30yo | Odds unavailable<br>    Odds history: not checked yet<br><br>
+ 🥊 3. 𝗠𝗮𝗴𝗼𝗺𝗲𝗱 𝗧𝘂𝗰𝗵𝗮𝗹𝗼𝘃 🇷
+ 🇺 vs. 𝗕𝗿𝗲𝗻𝗱𝘀𝗼𝗻 𝗥𝗶𝗯𝗲𝗶𝗿𝗼 
+ 🇧🇷 - 205lbs/93kg Light Heavyweight · Est. 15:00 Ireland<br>    Tuch
+ alov: 7-0-0 | 26yo | Odds unavailable<br>    Ribeiro: 17-11-0 | 29yo | Odd
+ s unavailable<br>    Odds history: not checked yet<br><br>🥊 2. 𝗡𝘂
+ 𝗿𝘂𝗹𝗹𝗼 𝗔𝗹𝗶𝗲𝘃 🇹🇯 vs. 𝗠𝗶𝗸𝗲 
+ 𝗗𝗮𝘃𝗶𝘀 🇺🇸 - 155lbs/70kg Lightweight · Est. 14:30 Irel
+ and<br>    Aliev: 12-0-0 | 25yo | Odds unavailable<br>    Davis: 12-4-0 | 
+ 33yo | Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 1
+ . 𝗖𝗼𝗱𝘆 𝗚𝗶𝗯𝘀𝗼𝗻 🇺🇸 vs. 𝗔𝗯𝗱𝘂
+ 𝗹 𝗛𝘂𝘀𝘀𝗲𝗶𝗻 🇫🇮 - 135lbs/61kg Bantamweight · E
+ st. 14:00 Ireland<br>    Gibson: 22-13-0 | 38yo | Odds unavailable<br>    
+ Hussein: 16-2-0 | 28yo | Odds unavailable<br>    Odds history: not checked
+  yet<br><br>Source: https://www.ufc.com/event/ufc-fight-night-july-25-2026
+ <br><br>Full odds log: https://staircasewit.github.io/mmacalendar/odds-his
+ tory.html<br><br>Calendar updated: 2026-09-12T11:18:51.708Z<br><br>Event s
+ tatus: Scheduled · verified 12 Sep 2026</p></body></html>
+LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
+URL:https://www.ufc.com/event/ufc-fight-night-july-25-2026
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-august-01-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260801T140000Z
+DTEND:20260801T200000Z
+SUMMARY:UFC Fight Night: Medic vs Rodriguez
+DESCRIPTION:UFC · Complete Event · 14 announced bouts\n\n📍 Belgrade Ar
+ ena\, BG\, Serbia\n\n🕒 15:00–21:00 Ireland\n\nBout times are estimate
+ s and may shift as the card progresses.\n\n── MAIN CARD · 6 bouts ─
+ ─\n\n🥊 14. 𝗨𝗿𝗼š 𝗠𝗲𝗱𝗶ć (#14) 🇷🇸 vs. 𝗗
+ 𝗮𝗻𝗶𝗲𝗹 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 (#15) 🇺🇸 -
+  170lbs/77kg Welterweight · Est. 20:30 Ireland\n    Medic: 14-3-0 | 33yo 
+ | Odds unavailable\n    Rodriguez: 20-6-0 | 39yo | Odds unavailable\n    O
+ dds history: not checked yet\n\n🥊 13. 𝗝𝗮𝗻 𝗕ł𝗮𝗰𝗵
+ 𝗼𝘄𝗶𝗰𝘇 (#4) 🇵🇱 vs. 𝗡𝗮𝘃𝗮𝗷𝗼 𝗦𝘁
+ 𝗶𝗿𝗹𝗶𝗻𝗴 (#15) 🇳🇿 - 205lbs/93kg Light Heavyweight ·
+  Est. 20:00 Ireland\n    Blachowicz: 29-12-2 | 43yo | Odds unavailable\n  
+   Stirling: 11-0-0 | 28yo | Odds unavailable\n    Odds history: not checke
+ d yet\n\n🥊 12. 𝗔𝗹𝗲𝗸𝘀𝗮𝗻𝗱𝗮𝗿 𝗥𝗮𝗸
+ 𝗶ć 🇷🇸 vs. 𝗠𝗮𝗿𝗰𝗶𝗻 𝗧𝘆𝗯𝘂𝗿𝗮 (#12
+ ) 🇵🇱 - 265lbs/120kg Heavyweight · Est. 19:30 Ireland\n    Rakic: 15
+ -6-0 | 34yo | Odds unavailable\n    Tybura: 27-12-0 | 40yo | Odds unavaila
+ ble\n    Odds history: not checked yet\n\n🥊 11. 𝗗𝘂š𝗸𝗼 𝗧
+ 𝗼𝗱𝗼𝗿𝗼𝘃𝗶ć 🇷🇸 vs. 𝗥𝗼𝗯𝗲𝗿𝘁 𝗩
+ 𝗮𝗹𝗲𝗻𝘁𝗶𝗻 🇨🇭 - 185lbs/84kg Middleweight · Est. 1
+ 9:00 Ireland\n    Todorovic: 13-7-0 | 32yo | Odds unavailable\n    Valenti
+ n: 13-6-0 | 31yo | Odds unavailable\n    Odds history: not checked yet\n\n
+ 🥊 10. 𝗩𝗹𝗮𝘀𝘁𝗼 Č𝗲𝗽𝗼 🇸🇰 vs. 𝗚𝗶𝗹
+ 𝗯𝗲𝗿𝘁 𝗨𝗿𝗯𝗶𝗻𝗮 🇺🇸 - 185lbs/84kg Middlewei
+ ght · Est. 18:30 Ireland\n    Cepo: 14-4-0 | 31yo | Odds unavailable\n   
+  Urbina: 8-5-0 | 30yo | Odds unavailable\n    Odds history: not checked ye
+ t\n\n🥊 9. 𝗠𝗶𝗹𝗼š 𝗝𝗮𝗻𝗶č𝗶ć 🇲🇪 vs. 𝗡
+ 𝗼𝗮𝗵 𝗚𝘂𝗴𝗻𝗼𝗻 🇫🇷 - 155lbs/70kg Lightweight 
+ · Est. 18:00 Ireland\n    Janicic: 19-4-0 | 29yo | Odds unavailable\n    
+ Gugnon: 10-2-0 | 25yo | Odds unavailable\n    Odds history: not checked ye
+ t\n\n── PRELIMS · 8 bouts ──\n\n🥊 8. 𝗟𝘂𝗱𝗼𝘃í
+ 𝘁 𝗞𝗹𝗲𝗶𝗻 🇸🇰 vs. 𝗧𝗼𝗳𝗶𝗾 𝗠𝘂𝘀
+ 𝗮𝘆𝗲𝘃 🇦🇿 - 155lbs/70kg Lightweight · Est. 17:40 Ireland\
+ n    Klein: 24-6-1 | 31yo | Odds unavailable\n    Musayev: 24-6-0 | 36yo |
+  Odds unavailable\n    Odds history: not checked yet\n\n🥊 7. 𝗢𝗯
+ 𝗮𝗻 𝗘𝗹𝗹𝗶𝗼𝘁𝘁 🇼🇱 vs. 𝗠𝗶𝗰𝗵𝗮
+ 𝗲𝗹 𝗢𝗹𝗶𝘃𝗲𝗶𝗿𝗮 🇧🇷 - 170lbs/77kg Welterwei
+ ght · Est. 17:15 Ireland\n    Elliott: 12-5-0 | 28yo | Odds unavailable\n
+     Oliveira: 10-0-0 | 28yo | Odds unavailable\n    Odds history: not chec
+ ked yet\n\n🥊 6. 𝗕𝗼𝗿𝗶𝘀𝗹𝗮𝘃 𝗡𝗶𝗸𝗼𝗹
+ 𝗶ć 🇷🇸 vs. 𝗠𝗮𝗿𝗸 𝗩𝗼𝗹𝗼𝗴𝗱𝗶𝗻 🇷
+ 🇺 - 135lbs/61kg Bantamweight · Est. 16:55 Ireland\n    Nikolic: 17-2-0
+  | 33yo | Odds unavailable\n    Vologdin: 12-5-2 | 26yo | Odds unavailable
+ \n    Odds history: not checked yet\n\n🥊 5. 𝗗𝗲𝗻𝗻𝗶𝘀 
+ 𝗕𝘂𝘇𝘂𝗸𝗷𝗮 🇺🇸 vs. 𝗕𝗼𝗴𝗱𝗮𝗻 𝗚
+ 𝗿𝗮𝗱 🇦🇹 - 145lbs/66kg Featherweight · Est. 16:30 Ireland\n 
+    Buzukja: 12-7-0 | 28yo | Odds unavailable\n    Grad: 16-4-0 | 30yo | Od
+ ds unavailable\n    Odds history: not checked yet\n\n🥊 4. 𝗠𝗮𝘁
+ 𝗲𝘂𝘀𝘇 𝗥ę𝗯𝗲𝗰𝗸𝗶 🇵🇱 vs. 𝗞𝘆𝗹𝗲 
+ 𝗣𝗿𝗲𝗽𝗼𝗹𝗲𝗰 🇨🇦 - 155lbs/70kg Lightweight · Est
+ . 16:10 Ireland\n    Rebecki: 21-5-0 | 33yo | Odds unavailable\n    Prepol
+ ec: 18-11-0 | 36yo | Odds unavailable\n    Odds history: not checked yet\n
+ \n🥊 3. 𝗡𝗶𝗻𝗮 𝗠𝗶𝗹𝗼š𝗲𝘃𝗶ć 🇷🇸 vs. 
+ 𝗛𝗮𝗶𝗹𝗲𝘆 𝗖𝗼𝘄𝗮𝗻 🇺🇸 - 135lbs/61kg Women
+ 's Bantamweight · Est. 15:45 Ireland\n    Milosevic: 9-1-0 | 29yo | Odds 
+ unavailable\n    Cowan: 7-6-0 | 34yo | Odds unavailable\n    Odds history:
+  not checked yet\n\n🥊 2. 𝗝𝗼𝘃𝗮𝗻 𝗟𝗲𝗸𝗮 🇷🇸
+  vs. 𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗲𝗿 𝗣𝗼𝗽𝗽𝗲𝗰𝗸 
+ 🇩🇪 - 265lbs/120kg Heavyweight · Est. 15:25 Ireland\n    Leka: 14-2-
+ 0 | 24yo | Odds unavailable\n    Poppeck: 21-6-0 | 34yo | Odds unavailable
+ \n    Odds history: not checked yet\n\n🥊 1. 𝗠𝗮𝗿𝗶𝗻𝗮 
+ 𝗦𝗽𝗮𝘀𝗶ć 🇷🇸 vs. 𝗦𝘁𝗲𝗽𝗵𝗮𝗻𝗶𝗲 
+ 𝗟𝘂𝗰𝗶𝗮𝗻𝗼 🇧🇷 - 115lbs/52kg Women's Strawweight ·
+  Est. 15:00 Ireland\n    Spasic: 7-2-0 | 32yo | Odds unavailable\n    Brun
+ a Luciano: 8-2-1 | 26yo | Odds unavailable\n    Odds history: not checked 
+ yet\n\nSource: https://www.ufc.com/event/ufc-fight-night-august-01-2026\n\
+ nFull odds log: https://staircasewit.github.io/mmacalendar/odds-history.ht
+ ml\n\nCalendar updated: 2026-09-12T11:18:51.708Z\n\nEvent status: Schedule
+ d · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 14 ann
+ ounced bouts<br><br>📍 Belgrade Arena\, BG\, Serbia<br><br>🕒 15:00–
+ 21:00 Ireland<br><br>Bout times are estimates and may shift as the card pr
+ ogresses.<br><br>── MAIN CARD · 6 bouts ──<br><br>🥊 14. 𝗨
+ 𝗿𝗼š 𝗠𝗲𝗱𝗶ć (#14) 🇷🇸 vs. 𝗗𝗮𝗻𝗶𝗲𝗹 
+ 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 (#15) 🇺🇸 - 170lbs/77kg Welterwe
+ ight · Est. 20:30 Ireland<br>    Medic: 14-3-0 | 33yo | Odds unavailable<
+ br>    Rodriguez: 20-6-0 | 39yo | Odds unavailable<br>    Odds history: no
+ t checked yet<br><br>🥊 13. 𝗝𝗮𝗻 𝗕ł𝗮𝗰𝗵𝗼𝘄𝗶
+ 𝗰𝘇 (#4) 🇵🇱 vs. 𝗡𝗮𝘃𝗮𝗷𝗼 𝗦𝘁𝗶𝗿𝗹
+ 𝗶𝗻𝗴 (#15) 🇳🇿 - 205lbs/93kg Light Heavyweight · Est. 20:00 
+ Ireland<br>    Blachowicz: 29-12-2 | 43yo | Odds unavailable<br>    Stirli
+ ng: 11-0-0 | 28yo | Odds unavailable<br>    Odds history: not checked yet<
+ br><br>🥊 12. 𝗔𝗹𝗲𝗸𝘀𝗮𝗻𝗱𝗮𝗿 𝗥𝗮𝗸𝗶
+ ć 🇷🇸 vs. 𝗠𝗮𝗿𝗰𝗶𝗻 𝗧𝘆𝗯𝘂𝗿𝗮 (#12) 
+ 🇵🇱 - 265lbs/120kg Heavyweight · Est. 19:30 Ireland<br>    Rakic: 15
+ -6-0 | 34yo | Odds unavailable<br>    Tybura: 27-12-0 | 40yo | Odds unavai
+ lable<br>    Odds history: not checked yet<br><br>🥊 11. 𝗗𝘂š𝗸
+ 𝗼 𝗧𝗼𝗱𝗼𝗿𝗼𝘃𝗶ć 🇷🇸 vs. 𝗥𝗼𝗯𝗲𝗿
+ 𝘁 𝗩𝗮𝗹𝗲𝗻𝘁𝗶𝗻 🇨🇭 - 185lbs/84kg Middleweight 
+ · Est. 19:00 Ireland<br>    Todorovic: 13-7-0 | 32yo | Odds unavailable<b
+ r>    Valentin: 13-6-0 | 31yo | Odds unavailable<br>    Odds history: not 
+ checked yet<br><br>🥊 10. 𝗩𝗹𝗮𝘀𝘁𝗼 Č𝗲𝗽𝗼 🇸
+ 🇰 vs. 𝗚𝗶𝗹𝗯𝗲𝗿𝘁 𝗨𝗿𝗯𝗶𝗻𝗮 🇺🇸 - 
+ 185lbs/84kg Middleweight · Est. 18:30 Ireland<br>    Cepo: 14-4-0 | 31yo 
+ | Odds unavailable<br>    Urbina: 8-5-0 | 30yo | Odds unavailable<br>    O
+ dds history: not checked yet<br><br>🥊 9. 𝗠𝗶𝗹𝗼š 𝗝𝗮
+ 𝗻𝗶č𝗶ć 🇲🇪 vs. 𝗡𝗼𝗮𝗵 𝗚𝘂𝗴𝗻𝗼𝗻 
+ 🇫🇷 - 155lbs/70kg Lightweight · Est. 18:00 Ireland<br>    Janicic: 1
+ 9-4-0 | 29yo | Odds unavailable<br>    Gugnon: 10-2-0 | 25yo | Odds unavai
+ lable<br>    Odds history: not checked yet<br><br>── PRELIMS · 8 bout
+ s ──<br><br>🥊 8. 𝗟𝘂𝗱𝗼𝘃í𝘁 𝗞𝗹𝗲𝗶𝗻 
+ 🇸🇰 vs. 𝗧𝗼𝗳𝗶𝗾 𝗠𝘂𝘀𝗮𝘆𝗲𝘃 🇦🇿 - 
+ 155lbs/70kg Lightweight · Est. 17:40 Ireland<br>    Klein: 24-6-1 | 31yo 
+ | Odds unavailable<br>    Musayev: 24-6-0 | 36yo | Odds unavailable<br>   
+  Odds history: not checked yet<br><br>🥊 7. 𝗢𝗯𝗮𝗻 𝗘𝗹
+ 𝗹𝗶𝗼𝘁𝘁 🇼🇱 vs. 𝗠𝗶𝗰𝗵𝗮𝗲𝗹 𝗢𝗹
+ 𝗶𝘃𝗲𝗶𝗿𝗮 🇧🇷 - 170lbs/77kg Welterweight · Est. 17:15
+  Ireland<br>    Elliott: 12-5-0 | 28yo | Odds unavailable<br>    Oliveira:
+  10-0-0 | 28yo | Odds unavailable<br>    Odds history: not checked yet<br>
+ <br>🥊 6. 𝗕𝗼𝗿𝗶𝘀𝗹𝗮𝘃 𝗡𝗶𝗸𝗼𝗹𝗶ć 
+ 🇷🇸 vs. 𝗠𝗮𝗿𝗸 𝗩𝗼𝗹𝗼𝗴𝗱𝗶𝗻 🇷🇺 - 
+ 135lbs/61kg Bantamweight · Est. 16:55 Ireland<br>    Nikolic: 17-2-0 | 33
+ yo | Odds unavailable<br>    Vologdin: 12-5-2 | 26yo | Odds unavailable<br
+ >    Odds history: not checked yet<br><br>🥊 5. 𝗗𝗲𝗻𝗻𝗶𝘀
+  𝗕𝘂𝘇𝘂𝗸𝗷𝗮 🇺🇸 vs. 𝗕𝗼𝗴𝗱𝗮𝗻 𝗚
+ 𝗿𝗮𝗱 🇦🇹 - 145lbs/66kg Featherweight · Est. 16:30 Ireland<br
+ >    Buzukja: 12-7-0 | 28yo | Odds unavailable<br>    Grad: 16-4-0 | 30yo 
+ | Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 4. 
+ 𝗠𝗮𝘁𝗲𝘂𝘀𝘇 𝗥ę𝗯𝗲𝗰𝗸𝗶 🇵🇱 vs. 𝗞
+ 𝘆𝗹𝗲 𝗣𝗿𝗲𝗽𝗼𝗹𝗲𝗰 🇨🇦 - 155lbs/70kg Light
+ weight · Est. 16:10 Ireland<br>    Rebecki: 21-5-0 | 33yo | Odds unavaila
+ ble<br>    Prepolec: 18-11-0 | 36yo | Odds unavailable<br>    Odds history
+ : not checked yet<br><br>🥊 3. 𝗡𝗶𝗻𝗮 𝗠𝗶𝗹𝗼š𝗲
+ 𝘃𝗶ć 🇷🇸 vs. 𝗛𝗮𝗶𝗹𝗲𝘆 𝗖𝗼𝘄𝗮𝗻 🇺
+ 🇸 - 135lbs/61kg Women&#39\;s Bantamweight · Est. 15:45 Ireland<br>    
+ Milosevic: 9-1-0 | 29yo | Odds unavailable<br>    Cowan: 7-6-0 | 34yo | Od
+ ds unavailable<br>    Odds history: not checked yet<br><br>🥊 2. 𝗝
+ 𝗼𝘃𝗮𝗻 𝗟𝗲𝗸𝗮 🇷🇸 vs. 𝗔𝗹𝗲𝘅𝗮𝗻
+ 𝗱𝗲𝗿 𝗣𝗼𝗽𝗽𝗲𝗰𝗸 🇩🇪 - 265lbs/120kg Heavywei
+ ght · Est. 15:25 Ireland<br>    Leka: 14-2-0 | 24yo | Odds unavailable<br
+ >    Poppeck: 21-6-0 | 34yo | Odds unavailable<br>    Odds history: not ch
+ ecked yet<br><br>🥊 1. 𝗠𝗮𝗿𝗶𝗻𝗮 𝗦𝗽𝗮𝘀𝗶ć 
+ 🇷🇸 vs. 𝗦𝘁𝗲𝗽𝗵𝗮𝗻𝗶𝗲 𝗟𝘂𝗰𝗶𝗮𝗻
+ 𝗼 🇧🇷 - 115lbs/52kg Women&#39\;s Strawweight · Est. 15:00 Ireland
+ <br>    Spasic: 7-2-0 | 32yo | Odds unavailable<br>    Bruna Luciano: 8-2-
+ 1 | 26yo | Odds unavailable<br>    Odds history: not checked yet<br><br>So
+ urce: https://www.ufc.com/event/ufc-fight-night-august-01-2026<br><br>Full
+  odds log: https://staircasewit.github.io/mmacalendar/odds-history.html<br
+ ><br>Calendar updated: 2026-09-12T11:18:51.708Z<br><br>Event status: Sched
+ uled · verified 12 Sep 2026</p></body></html>
+LOCATION:Belgrade Arena\, BG\, Serbia
+URL:https://www.ufc.com/event/ufc-fight-night-august-01-2026
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-august-08-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260808T210000Z
+DTEND:20260809T030000Z
+SUMMARY:UFC Fight Night: Gamrot vs Salkilld
+DESCRIPTION:UFC · Complete Event · 12 announced bouts\n\n📍 Meta APEX\,
+  Las Vegas\, United States\n\n🕒 22:00–Sun 04:00 Ireland\n\nBout times
+  are estimates and may shift as the card progresses.\n\n── MAIN CARD 
+ · 5 bouts ──\n\n🥊 12. 𝗠𝗮𝘁𝗲𝘂𝘀𝘇 𝗚𝗮𝗺
+ 𝗿𝗼𝘁 (#8) 🇵🇱 vs. 𝗤𝘂𝗶𝗹𝗹𝗮𝗻 𝗦𝗮𝗹
+ 𝗸𝗶𝗹𝗹𝗱 (#12) 🇦🇺 - 155lbs/70kg Lightweight · Est. 03:2
+ 5 Ireland\n    Gamrot: 26-5-0 | 35yo | Odds unavailable\n    Salkilld: 13-
+ 1-0 | 26yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 1
+ 1. 𝗗𝗶𝗲𝗴𝗼 𝗙𝗲𝗿𝗿𝗲𝗶𝗿𝗮 🇧🇷 vs. 𝗕
+ 𝗶𝗹𝗹𝘆 𝗤𝘂𝗮𝗿𝗮𝗻𝘁𝗶𝗹𝗹𝗼 🇺🇸 - 1
+ 55lbs/70kg Lightweight · Est. 02:50 Ireland\n    Ferreira: 20-7-0 | 41yo 
+ | Odds unavailable\n    Quarantillo: 18-8-0 | 37yo | Odds unavailable\n   
+  Odds history: not checked yet\n\n🥊 10. 𝗗𝗮𝗿𝗿𝗲𝗻 𝗘
+ 𝗹𝗸𝗶𝗻𝘀 🇺🇸 vs. 𝗬𝗮𝗱𝗶𝗲𝗿 𝗱𝗲𝗹 
+ 𝗩𝗮𝗹𝗹𝗲 🇨🇺 - 145lbs/66kg Featherweight · Est. 02:10 Ir
+ eland\n    Elkins: 29-13-0 | 42yo | Odds unavailable\n    del Valle: 11-1-
+ 0 | 30yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 9. 
+ 𝗔𝗺𝗮𝗻𝗱𝗮 𝗟𝗲𝗺𝗼𝘀 (#8) 🇧🇷 vs. 𝗔𝗹
+ 𝗲𝘅𝗶𝗮 𝗧𝗵𝗮𝗶𝗻𝗮𝗿𝗮 (#12) 🇧🇷 - 115lbs/
+ 52kg Women's Strawweight · Est. 01:35 Ireland\n    Lemos: 15-7-1 | 39yo |
+  Odds unavailable\n    Thainara: 15-1-0 | 30yo | Odds unavailable\n    Odd
+ s history: not checked yet\n\n🥊 8. 𝗕𝗶𝗹𝗹𝘆 𝗥𝗮𝘆 
+ 𝗚𝗼𝗳𝗳 🇺🇸 vs. 𝗧𝘆 𝗠𝗶𝗹𝗹𝗲𝗿 🇺🇸 -
+  170lbs/77kg Welterweight · Est. 01:00 Ireland\n    Goff: 9-5-0 | 28yo | 
+ Odds unavailable\n    Miller: 8-0-0 | 26yo | Odds unavailable\n    Odds hi
+ story: not checked yet\n\n── PRELIMS · 7 bouts ──\n\n🥊 7. 𝗦
+ 𝘁𝗲𝘃𝗲𝗻 𝗔𝘀𝗽𝗹𝘂𝗻𝗱 🇺🇸 vs. 𝗚𝘂
+ 𝗶𝗹𝗵𝗲𝗿𝗺𝗲 𝗣𝗮𝘁 🇧🇷 - 265lbs/120kg Heavywei
+ ght · Est. Sun 00:35 Ireland\n    Asplund: 8-2-0 | 28yo | Odds unavailabl
+ e\n    Pat: 6-2-0 | 32yo | Odds unavailable\n    Odds history: not checked
+  yet\n\n🥊 6. 𝗗𝗶𝘆𝗮𝗿 𝗡𝘂𝗿𝗴𝗼𝘇𝗵𝗮𝘆 
+ 🇰🇿 vs. 𝗕𝗿𝘂𝗻𝗼 𝗟𝗼𝗽𝗲𝘀 🇧🇷 - 205lbs/9
+ 3kg Light Heavyweight · Est. Sun 00:10 Ireland\n    Nurgozhay: 12-2-0 | 2
+ 9yo | Odds unavailable\n    Lopes: 14-4-0 | 33yo | Odds unavailable\n    O
+ dds history: not checked yet\n\n🥊 5. 𝗟𝗼𝘂𝗶𝗲 𝗦𝘂𝘁
+ 𝗵𝗲𝗿𝗹𝗮𝗻𝗱 🇪🇳 vs. 𝗝𝗼𝘀é 𝗠𝗼𝗻𝘁
+ 𝗮𝗻𝗵𝗮 🇧🇷 - 265lbs/120kg Heavyweight · Est. 23:45 Ireland
+ \n    Sutherland: 11-6-0 | 32yo | Odds unavailable\n    Montanha da Silva:
+  7-1-0 | 29yo | Odds unavailable\n    Odds history: not checked yet\n\n
+ 🥊 4. 𝗠𝗮𝗻𝗼𝗲𝗹 𝗦𝗼𝘂𝘀𝗮 🇧🇷 vs. 𝗥
+ 𝗶𝗰𝗵𝗶𝗲 𝗠𝗶𝗿𝗮𝗻𝗱𝗮 🇺🇸 - 155lbs/70kg L
+ ightweight · Est. 23:15 Ireland\n    Sousa: 15-1-0 | 29yo | Odds unavaila
+ ble\n    Miranda: 13-2-0 | 31yo | Odds unavailable\n    Odds history: not 
+ checked yet\n\n🥊 3. 𝗠𝗶𝗹𝗲𝘀 𝗝𝗼𝗵𝗻𝘀 🇺🇸 
+ vs. 𝗚𝗶𝗮𝗻𝗻𝗶 𝗩𝗮𝘇𝗾𝘂𝗲𝘇 🇲🇽 - 145lb
+ s/66kg Featherweight · Est. 22:50 Ireland\n    Johns: 16-5-0 | 32yo | Odd
+ s unavailable\n    Vazquez: 14-6-1 | 32yo | Odds unavailable\n    Odds his
+ tory: not checked yet\n\n🥊 2. 𝗝𝘂𝗹𝗶𝗮𝗻𝗮 𝗠𝗶𝗹
+ 𝗹𝗲𝗿 🇺🇸 vs. 𝗥𝗮𝘃𝗲𝗻𝗮 𝗢𝗹𝗶𝘃𝗲
+ 𝗶𝗿𝗮 🇧🇷 - 125lbs/57kg Women's Flyweight · Est. 22:25 Irelan
+ d\n    Miller: 6-4-0 | 30yo | Odds unavailable\n    Oliveira Morais: 7-5-1
+  | 29yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 1. 
+ 𝗚𝗶𝗴𝗶 𝗖𝗮𝗻𝘂𝘁𝗼 🇧🇷 vs. 𝗖𝗮𝗿𝗼
+ 𝗹 𝗙𝗼𝗿𝗼 🇧🇷 - 115lbs/52kg Women's Strawweight · Est. 2
+ 2:00 Ireland\n    Canuto: 7-2-0 | 23yo | Odds unavailable\n    Foro: 10-1-
+ 0 | 29yo | Odds unavailable\n    Odds history: not checked yet\n\nSource: 
+ https://www.ufc.com/event/ufc-fight-night-august-08-2026\n\nFull odds log:
+  https://staircasewit.github.io/mmacalendar/odds-history.html\n\nCalendar 
+ updated: 2026-09-12T11:18:51.708Z\n\nEvent status: Scheduled · verified 1
+ 2 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 12 ann
+ ounced bouts<br><br>📍 Meta APEX\, Las Vegas\, United States<br><br>🕒
+  22:00–Sun 04:00 Ireland<br><br>Bout times are estimates and may shift a
+ s the card progresses.<br><br>── MAIN CARD · 5 bouts ──<br><br>
+ 🥊 12. 𝗠𝗮𝘁𝗲𝘂𝘀𝘇 𝗚𝗮𝗺𝗿𝗼𝘁 (#8) 🇵
+ 🇱 vs. 𝗤𝘂𝗶𝗹𝗹𝗮𝗻 𝗦𝗮𝗹𝗸𝗶𝗹𝗹𝗱 (#1
+ 2) 🇦🇺 - 155lbs/70kg Lightweight · Est. 03:25 Ireland<br>    Gamrot:
+  26-5-0 | 35yo | Odds unavailable<br>    Salkilld: 13-1-0 | 26yo | Odds un
+ available<br>    Odds history: not checked yet<br><br>🥊 11. 𝗗𝗶
+ 𝗲𝗴𝗼 𝗙𝗲𝗿𝗿𝗲𝗶𝗿𝗮 🇧🇷 vs. 𝗕𝗶𝗹
+ 𝗹𝘆 𝗤𝘂𝗮𝗿𝗮𝗻𝘁𝗶𝗹𝗹𝗼 🇺🇸 - 155lbs/70
+ kg Lightweight · Est. 02:50 Ireland<br>    Ferreira: 20-7-0 | 41yo | Odds
+  unavailable<br>    Quarantillo: 18-8-0 | 37yo | Odds unavailable<br>    O
+ dds history: not checked yet<br><br>🥊 10. 𝗗𝗮𝗿𝗿𝗲𝗻 𝗘
+ 𝗹𝗸𝗶𝗻𝘀 🇺🇸 vs. 𝗬𝗮𝗱𝗶𝗲𝗿 𝗱𝗲𝗹 
+ 𝗩𝗮𝗹𝗹𝗲 🇨🇺 - 145lbs/66kg Featherweight · Est. 02:10 Ir
+ eland<br>    Elkins: 29-13-0 | 42yo | Odds unavailable<br>    del Valle: 1
+ 1-1-0 | 30yo | Odds unavailable<br>    Odds history: not checked yet<br><b
+ r>🥊 9. 𝗔𝗺𝗮𝗻𝗱𝗮 𝗟𝗲𝗺𝗼𝘀 (#8) 🇧🇷 vs. 
+ 𝗔𝗹𝗲𝘅𝗶𝗮 𝗧𝗵𝗮𝗶𝗻𝗮𝗿𝗮 (#12) 🇧🇷 -
+  115lbs/52kg Women&#39\;s Strawweight · Est. 01:35 Ireland<br>    Lemos: 
+ 15-7-1 | 39yo | Odds unavailable<br>    Thainara: 15-1-0 | 30yo | Odds una
+ vailable<br>    Odds history: not checked yet<br><br>🥊 8. 𝗕𝗶𝗹
+ 𝗹𝘆 𝗥𝗮𝘆 𝗚𝗼𝗳𝗳 🇺🇸 vs. 𝗧𝘆 𝗠𝗶𝗹
+ 𝗹𝗲𝗿 🇺🇸 - 170lbs/77kg Welterweight · Est. 01:00 Ireland<br>
+     Goff: 9-5-0 | 28yo | Odds unavailable<br>    Miller: 8-0-0 | 26yo | Od
+ ds unavailable<br>    Odds history: not checked yet<br><br>── PRELIMS 
+ · 7 bouts ──<br><br>🥊 7. 𝗦𝘁𝗲𝘃𝗲𝗻 𝗔𝘀𝗽𝗹
+ 𝘂𝗻𝗱 🇺🇸 vs. 𝗚𝘂𝗶𝗹𝗵𝗲𝗿𝗺𝗲 𝗣𝗮
+ 𝘁 🇧🇷 - 265lbs/120kg Heavyweight · Est. Sun 00:35 Ireland<br>    
+ Asplund: 8-2-0 | 28yo | Odds unavailable<br>    Pat: 6-2-0 | 32yo | Odds u
+ navailable<br>    Odds history: not checked yet<br><br>🥊 6. 𝗗𝗶
+ 𝘆𝗮𝗿 𝗡𝘂𝗿𝗴𝗼𝘇𝗵𝗮𝘆 🇰🇿 vs. 𝗕𝗿
+ 𝘂𝗻𝗼 𝗟𝗼𝗽𝗲𝘀 🇧🇷 - 205lbs/93kg Light Heavyweight
+  · Est. Sun 00:10 Ireland<br>    Nurgozhay: 12-2-0 | 29yo | Odds unavaila
+ ble<br>    Lopes: 14-4-0 | 33yo | Odds unavailable<br>    Odds history: no
+ t checked yet<br><br>🥊 5. 𝗟𝗼𝘂𝗶𝗲 𝗦𝘂𝘁𝗵𝗲𝗿
+ 𝗹𝗮𝗻𝗱 🇪🇳 vs. 𝗝𝗼𝘀é 𝗠𝗼𝗻𝘁𝗮𝗻𝗵
+ 𝗮 🇧🇷 - 265lbs/120kg Heavyweight · Est. 23:45 Ireland<br>    Suth
+ erland: 11-6-0 | 32yo | Odds unavailable<br>    Montanha da Silva: 7-1-0 |
+  29yo | Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 
+ 4. 𝗠𝗮𝗻𝗼𝗲𝗹 𝗦𝗼𝘂𝘀𝗮 🇧🇷 vs. 𝗥𝗶𝗰
+ 𝗵𝗶𝗲 𝗠𝗶𝗿𝗮𝗻𝗱𝗮 🇺🇸 - 155lbs/70kg Lightweig
+ ht · Est. 23:15 Ireland<br>    Sousa: 15-1-0 | 29yo | Odds unavailable<br
+ >    Miranda: 13-2-0 | 31yo | Odds unavailable<br>    Odds history: not ch
+ ecked yet<br><br>🥊 3. 𝗠𝗶𝗹𝗲𝘀 𝗝𝗼𝗵𝗻𝘀 🇺
+ 🇸 vs. 𝗚𝗶𝗮𝗻𝗻𝗶 𝗩𝗮𝘇𝗾𝘂𝗲𝘇 🇲🇽 - 
+ 145lbs/66kg Featherweight · Est. 22:50 Ireland<br>    Johns: 16-5-0 | 32y
+ o | Odds unavailable<br>    Vazquez: 14-6-1 | 32yo | Odds unavailable<br> 
+    Odds history: not checked yet<br><br>🥊 2. 𝗝𝘂𝗹𝗶𝗮𝗻
+ 𝗮 𝗠𝗶𝗹𝗹𝗲𝗿 🇺🇸 vs. 𝗥𝗮𝘃𝗲𝗻𝗮 𝗢
+ 𝗹𝗶𝘃𝗲𝗶𝗿𝗮 🇧🇷 - 125lbs/57kg Women&#39\;s Flyweight
+  · Est. 22:25 Ireland<br>    Miller: 6-4-0 | 30yo | Odds unavailable<br> 
+    Oliveira Morais: 7-5-1 | 29yo | Odds unavailable<br>    Odds history: n
+ ot checked yet<br><br>🥊 1. 𝗚𝗶𝗴𝗶 𝗖𝗮𝗻𝘂𝘁𝗼 
+ 🇧🇷 vs. 𝗖𝗮𝗿𝗼𝗹 𝗙𝗼𝗿𝗼 🇧🇷 - 115lbs/52kg 
+ Women&#39\;s Strawweight · Est. 22:00 Ireland<br>    Canuto: 7-2-0 | 23yo
+  | Odds unavailable<br>    Foro: 10-1-0 | 29yo | Odds unavailable<br>    O
+ dds history: not checked yet<br><br>Source: https://www.ufc.com/event/ufc-
+ fight-night-august-08-2026<br><br>Full odds log: https://staircasewit.gith
+ ub.io/mmacalendar/odds-history.html<br><br>Calendar updated: 2026-09-12T11
+ :18:51.708Z<br><br>Event status: Scheduled · verified 12 Sep 2026</p></bo
+ dy></html>
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-august-08-2026
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-330-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260815T213000Z
+DTEND:20260816T040000Z
+SUMMARY:UFC 330: Makhachev vs Machado Garry
+DESCRIPTION:UFC · Complete Event · 12 announced bouts\n\n📍 Xfinity Mob
+ ile Arena\, Philadelphia\, United States\n\n🕒 22:30–Sun 05:00 Ireland
+ \n\nBout times are estimates and may shift as the card progresses.\n\n─
+ ─ MAIN CARD · 5 bouts ──\n\n🥊 12. 𝗜𝘀𝗹𝗮𝗺 𝗠𝗮
+ 𝗸𝗵𝗮𝗰𝗵𝗲𝘃 (C) 🇷🇺 vs. 𝗜𝗮𝗻 𝗠𝗮𝗰
+ 𝗵𝗮𝗱𝗼 𝗚𝗮𝗿𝗿𝘆 (#1) 🇮🇪 - 170lbs/77kg Welterwe
+ ight · Title Bout · Est. 04:25 Ireland\n    Makhachev: 29-1-0 | 34yo | O
+ dds unavailable\n    Machado Garry: 17-2-0 | 28yo | Odds unavailable\n    
+ Odds history: not checked yet\n\n🥊 11. 𝗠𝗮𝗰𝗸𝗲𝗻𝘇𝗶
+ 𝗲 𝗗𝗲𝗿𝗻 (C) 🇧🇷 vs. 𝗚𝗶𝗹𝗹𝗶𝗮𝗻 𝗥
+ 𝗼𝗯𝗲𝗿𝘁𝘀𝗼𝗻 (#5) 🇨🇦 - 115lbs/52kg Women's Straw
+ weight · Title Bout · Est. 03:50 Ireland\n    Dern: 17-5-0 | 33yo | Odds
+  unavailable\n    Robertson: 17-9-0 | 31yo | Odds unavailable\n    Odds hi
+ story: not checked yet\n\n🥊 10. 𝗝𝗮𝗹𝗶𝗻 𝗧𝘂𝗿𝗻
+ 𝗲𝗿 🇺🇸 vs. 𝗞𝗮𝘂ê 𝗙𝗲𝗿𝗻𝗮𝗻𝗱𝗲𝘀 
+ 🇧🇷 - 155lbs/70kg Lightweight · Est. 03:10 Ireland\n    Turner: 16-9
+ -0 | 31yo | Odds unavailable\n    Fernandes: 11-3-0 | 31yo | Odds unavaila
+ ble\n    Odds history: not checked yet\n\n🥊 9. 𝗠𝗮𝗻𝘀𝘂𝗿
+  𝗔𝗯𝗱𝘂𝗹-𝗠𝗮𝗹𝗶𝗸 🇺🇸 vs. 𝗗𝘂𝘀𝘁
+ 𝗶𝗻 𝗦𝘁𝗼𝗹𝘁𝘇𝗳𝘂𝘀 🇺🇸 - 185lbs/84kg Middl
+ eweight · Est. 02:35 Ireland\n    Abdul-Malik: 9-2-1 | 28yo | Odds unavai
+ lable\n    Stoltzfus: 17-8-0 | 34yo | Odds unavailable\n    Odds history: 
+ not checked yet\n\n🥊 8. 𝗘𝗱𝘀𝗼𝗻 𝗕𝗮𝗿𝗯𝗼𝘇
+ 𝗮 🇧🇷 vs. 𝗘𝘀𝘁𝗲𝗯𝗮𝗻 𝗥𝗶𝗯𝗼𝘃𝗶
+ 𝗰𝘀 🇦🇷 - 155lbs/70kg Lightweight · Est. 02:00 Ireland\n    Bar
+ boza: 24-15-0 | 40yo | Odds unavailable\n    Ribovics: 16-3-0 | 30yo | Odd
+ s unavailable\n    Odds history: not checked yet\n\n── PRELIMS · 4 bo
+ uts ──\n\n🥊 7. 𝗖𝗵𝗶𝗱𝗶 𝗡𝗷𝗼𝗸𝘂𝗮𝗻
+ 𝗶 🇺🇸 vs. 𝗝𝗼𝗲𝗹 Á𝗹𝘃𝗮𝗿𝗲𝘇 🇪🇸 - 1
+ 70lbs/77kg Welterweight · Est. 01:30 Ireland\n    Njokuani: 26-12-0 | 37y
+ o | Odds unavailable\n    Alvarez: 23-5-0 | 33yo | Odds unavailable\n    O
+ dds history: not checked yet\n\n🥊 6. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗝
+ 𝗼𝗵𝗻𝘀𝗼𝗻 🇺🇸 vs. 𝗘𝗱𝘂𝗮𝗿𝗱𝗼 𝗖
+ 𝗵𝗮𝗽𝗼𝗹𝗶𝗻 🇧🇷 - Catchweight · Est. 01:00 Ireland\
+ n    Johnson: 20-9-0 | 35yo | Odds unavailable\n    Chapolin: 15-3-0 | 30y
+ o | Odds unavailable\n    Odds history: not checked yet\n\n🥊 5. 𝗗
+ 𝗼𝗻𝘁𝗲 𝗝𝗼𝗵𝗻𝘀𝗼𝗻 🇺🇸 vs. 𝗘𝗿𝗶
+ 𝗰 𝗠𝗰𝗖𝗼𝗻𝗶𝗰𝗼 🇺🇸 - 185lbs/84kg Middleweight 
+ · Est. 00:30 Ireland\n    Johnson: 9-0-0 | 27yo | Odds unavailable\n    M
+ cConico: 11-5-1 | 36yo | Odds unavailable\n    Odds history: not checked y
+ et\n\n🥊 4. 𝗩𝗶𝗰𝗲𝗻𝘁𝗲 𝗟𝘂𝗾𝘂𝗲 🇧🇷 v
+ s. 𝗧𝗿𝗲𝘀𝗲𝗮𝗻 𝗚𝗼𝗿𝗲 🇺🇸 - 185lbs/84kg Mi
+ ddleweight · Est. 00:00 Ireland\n    Luque: 24-13-1 | 34yo | Odds unavail
+ able\n    Gore: 8-4-0 | 32yo | Odds unavailable\n    Odds history: not che
+ cked yet\n\n── EARLY PRELIMS · 3 bouts ──\n\n🥊 3. 𝗥𝗮𝗳
+ 𝗮𝗲𝗹 𝗧𝗼𝗯𝗶𝗮𝘀 🇧🇷 vs. 𝗟𝘂𝗰𝗮𝘀 
+ 𝗙𝗲𝗿𝗻𝗮𝗻𝗱𝗼 🇧🇷 - 205lbs/93kg Light Heavyweight 
+ · Est. 23:30 Ireland\n    Tobias: 14-3-0 | 23yo | Odds unavailable\n    F
+ ernando: 14-3-0 | 29yo | Odds unavailable\n    Odds history: not checked y
+ et\n\n🥊 2. 𝗡𝗲𝗶𝗹 𝗠𝗮𝗴𝗻𝘆 🇺🇸 vs. 𝗥𝗮
+ 𝗺𝗶𝘇 𝗕𝗿𝗮𝗵𝗶𝗺𝗮𝗷 🇺🇸 - 170lbs/77kg Welte
+ rweight · Est. 23:00 Ireland\n    Magny: 32-15-0 | 39yo | Odds unavailabl
+ e\n    Brahimaj: 13-7-0 | 33yo | Odds unavailable\n    Odds history: not c
+ hecked yet\n\n🥊 1. 𝗝𝗲𝗿𝗲𝗺𝗶𝗮𝗵 𝗪𝗲𝗹𝗹
+ 𝘀 🇺🇸 vs. 𝗠𝘆𝗸𝘁𝘆𝗯𝗲𝗸 𝗢𝗿𝗼𝗹𝗯
+ 𝗮𝗶 🇰🇬 - 170lbs/77kg Welterweight · Est. 22:30 Ireland\n    We
+ lls: 14-4-1 | 39yo | Odds unavailable\n    Orolbai: 16-3-1 | 28yo | Odds u
+ navailable\n    Odds history: not checked yet\n\nSource: https://www.ufc.c
+ om/event/ufc-330\n\nFull odds log: https://staircasewit.github.io/mmacalen
+ dar/odds-history.html\n\nCalendar updated: 2026-09-12T11:18:51.708Z\n\nEve
+ nt status: Scheduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 12 ann
+ ounced bouts<br><br>📍 Xfinity Mobile Arena\, Philadelphia\, United Stat
+ es<br><br>🕒 22:30–Sun 05:00 Ireland<br><br>Bout times are estimates a
+ nd may shift as the card progresses.<br><br>── MAIN CARD · 5 bouts 
+ ──<br><br>🥊 12. 𝗜𝘀𝗹𝗮𝗺 𝗠𝗮𝗸𝗵𝗮𝗰𝗵
+ 𝗲𝘃 (C) 🇷🇺 vs. 𝗜𝗮𝗻 𝗠𝗮𝗰𝗵𝗮𝗱𝗼 𝗚
+ 𝗮𝗿𝗿𝘆 (#1) 🇮🇪 - 170lbs/77kg Welterweight · Title Bout ·
+  Est. 04:25 Ireland<br>    Makhachev: 29-1-0 | 34yo | Odds unavailable<br>
+     Machado Garry: 17-2-0 | 28yo | Odds unavailable<br>    Odds history: n
+ ot checked yet<br><br>🥊 11. 𝗠𝗮𝗰𝗸𝗲𝗻𝘇𝗶𝗲 𝗗
+ 𝗲𝗿𝗻 (C) 🇧🇷 vs. 𝗚𝗶𝗹𝗹𝗶𝗮𝗻 𝗥𝗼𝗯
+ 𝗲𝗿𝘁𝘀𝗼𝗻 (#5) 🇨🇦 - 115lbs/52kg Women&#39\;s Strawwei
+ ght · Title Bout · Est. 03:50 Ireland<br>    Dern: 17-5-0 | 33yo | Odds 
+ unavailable<br>    Robertson: 17-9-0 | 31yo | Odds unavailable<br>    Odds
+  history: not checked yet<br><br>🥊 10. 𝗝𝗮𝗹𝗶𝗻 𝗧𝘂
+ 𝗿𝗻𝗲𝗿 🇺🇸 vs. 𝗞𝗮𝘂ê 𝗙𝗲𝗿𝗻𝗮𝗻𝗱
+ 𝗲𝘀 🇧🇷 - 155lbs/70kg Lightweight · Est. 03:10 Ireland<br>    T
+ urner: 16-9-0 | 31yo | Odds unavailable<br>    Fernandes: 11-3-0 | 31yo | 
+ Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 9. 𝗠
+ 𝗮𝗻𝘀𝘂𝗿 𝗔𝗯𝗱𝘂𝗹-𝗠𝗮𝗹𝗶𝗸 🇺🇸 vs
+ . 𝗗𝘂𝘀𝘁𝗶𝗻 𝗦𝘁𝗼𝗹𝘁𝘇𝗳𝘂𝘀 🇺🇸 -
+  185lbs/84kg Middleweight · Est. 02:35 Ireland<br>    Abdul-Malik: 9-2-1 
+ | 28yo | Odds unavailable<br>    Stoltzfus: 17-8-0 | 34yo | Odds unavailab
+ le<br>    Odds history: not checked yet<br><br>🥊 8. 𝗘𝗱𝘀𝗼
+ 𝗻 𝗕𝗮𝗿𝗯𝗼𝘇𝗮 🇧🇷 vs. 𝗘𝘀𝘁𝗲𝗯𝗮
+ 𝗻 𝗥𝗶𝗯𝗼𝘃𝗶𝗰𝘀 🇦🇷 - 155lbs/70kg Lightweight 
+ · Est. 02:00 Ireland<br>    Barboza: 24-15-0 | 40yo | Odds unavailable<br
+ >    Ribovics: 16-3-0 | 30yo | Odds unavailable<br>    Odds history: not c
+ hecked yet<br><br>── PRELIMS · 4 bouts ──<br><br>🥊 7. 𝗖𝗵
+ 𝗶𝗱𝗶 𝗡𝗷𝗼𝗸𝘂𝗮𝗻𝗶 🇺🇸 vs. 𝗝𝗼𝗲
+ 𝗹 Á𝗹𝘃𝗮𝗿𝗲𝘇 🇪🇸 - 170lbs/77kg Welterweight · Est
+ . 01:30 Ireland<br>    Njokuani: 26-12-0 | 37yo | Odds unavailable<br>    
+ Alvarez: 23-5-0 | 33yo | Odds unavailable<br>    Odds history: not checked
+  yet<br><br>🥊 6. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗝𝗼𝗵𝗻𝘀𝗼
+ 𝗻 🇺🇸 vs. 𝗘𝗱𝘂𝗮𝗿𝗱𝗼 𝗖𝗵𝗮𝗽𝗼𝗹
+ 𝗶𝗻 🇧🇷 - Catchweight · Est. 01:00 Ireland<br>    Johnson: 20-9
+ -0 | 35yo | Odds unavailable<br>    Chapolin: 15-3-0 | 30yo | Odds unavail
+ able<br>    Odds history: not checked yet<br><br>🥊 5. 𝗗𝗼𝗻𝘁
+ 𝗲 𝗝𝗼𝗵𝗻𝘀𝗼𝗻 🇺🇸 vs. 𝗘𝗿𝗶𝗰 𝗠𝗰
+ 𝗖𝗼𝗻𝗶𝗰𝗼 🇺🇸 - 185lbs/84kg Middleweight · Est. 00:30
+  Ireland<br>    Johnson: 9-0-0 | 27yo | Odds unavailable<br>    McConico: 
+ 11-5-1 | 36yo | Odds unavailable<br>    Odds history: not checked yet<br><
+ br>🥊 4. 𝗩𝗶𝗰𝗲𝗻𝘁𝗲 𝗟𝘂𝗾𝘂𝗲 🇧🇷 vs. 
+ 𝗧𝗿𝗲𝘀𝗲𝗮𝗻 𝗚𝗼𝗿𝗲 🇺🇸 - 185lbs/84kg Middl
+ eweight · Est. 00:00 Ireland<br>    Luque: 24-13-1 | 34yo | Odds unavaila
+ ble<br>    Gore: 8-4-0 | 32yo | Odds unavailable<br>    Odds history: not 
+ checked yet<br><br>── EARLY PRELIMS · 3 bouts ──<br><br>🥊 3. 
+ 𝗥𝗮𝗳𝗮𝗲𝗹 𝗧𝗼𝗯𝗶𝗮𝘀 🇧🇷 vs. 𝗟𝘂
+ 𝗰𝗮𝘀 𝗙𝗲𝗿𝗻𝗮𝗻𝗱𝗼 🇧🇷 - 205lbs/93kg Light
+  Heavyweight · Est. 23:30 Ireland<br>    Tobias: 14-3-0 | 23yo | Odds una
+ vailable<br>    Fernando: 14-3-0 | 29yo | Odds unavailable<br>    Odds his
+ tory: not checked yet<br><br>🥊 2. 𝗡𝗲𝗶𝗹 𝗠𝗮𝗴𝗻𝘆
+  🇺🇸 vs. 𝗥𝗮𝗺𝗶𝘇 𝗕𝗿𝗮𝗵𝗶𝗺𝗮𝗷 🇺
+ 🇸 - 170lbs/77kg Welterweight · Est. 23:00 Ireland<br>    Magny: 32-15-
+ 0 | 39yo | Odds unavailable<br>    Brahimaj: 13-7-0 | 33yo | Odds unavaila
+ ble<br>    Odds history: not checked yet<br><br>🥊 1. 𝗝𝗲𝗿𝗲
+ 𝗺𝗶𝗮𝗵 𝗪𝗲𝗹𝗹𝘀 🇺🇸 vs. 𝗠𝘆𝗸𝘁𝘆
+ 𝗯𝗲𝗸 𝗢𝗿𝗼𝗹𝗯𝗮𝗶 🇰🇬 - 170lbs/77kg Welterwei
+ ght · Est. 22:30 Ireland<br>    Wells: 14-4-1 | 39yo | Odds unavailable<b
+ r>    Orolbai: 16-3-1 | 28yo | Odds unavailable<br>    Odds history: not c
+ hecked yet<br><br>Source: https://www.ufc.com/event/ufc-330<br><br>Full od
+ ds log: https://staircasewit.github.io/mmacalendar/odds-history.html<br><b
+ r>Calendar updated: 2026-09-12T11:18:51.708Z<br><br>Event status: Schedule
+ d · verified 12 Sep 2026</p></body></html>
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, United States
+URL:https://www.ufc.com/event/ufc-330
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-august-22-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260822T210000Z
+DTEND:20260823T030000Z
+SUMMARY:UFC Fight Night: Hernandez vs Rodrigues
+DESCRIPTION:UFC · Complete Event · 13 announced bouts\n\n📍 Golden 1 Ce
+ nter\, Sacramento\, United States\n\n🕒 22:00–Sun 04:00 Ireland\n\nBou
+ t times are estimates and may shift as the card progresses.\n\n── MAIN
+  CARD · 6 bouts ──\n\n🥊 13. 𝗔𝗻𝘁𝗵𝗼𝗻𝘆 𝗛𝗲
+ 𝗿𝗻𝗮𝗻𝗱𝗲𝘇 (#6) 🇺🇸 vs. 𝗚𝗿𝗲𝗴𝗼𝗿
+ 𝘆 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘀 (#11) 🇧🇷 - 185lbs/84kg Mid
+ dleweight · Est. 03:30 Ireland\n    Hernandez: 15-4-0 | 32yo | Odds unava
+ ilable\n    Rodrigues: 20-6-0 | 34yo | Odds unavailable\n    Odds history:
+  not checked yet\n\n🥊 12. 𝗦𝗲𝗿𝗴𝗵𝗲𝗶 𝗦𝗽𝗶𝘃
+ 𝗮𝗰 (#6) 🇲🇩 vs. 𝗩𝗶𝘁𝗼𝗿 𝗣𝗲𝘁𝗿𝗶𝗻
+ 𝗼 🇧🇷 - 265lbs/120kg Heavyweight · Est. 03:00 Ireland\n    Spivac
+ : 18-7-0 | 31yo | Odds unavailable\n    Petrino: 15-2-0 | 28yo | Odds unav
+ ailable\n    Odds history: not checked yet\n\n🥊 11. 𝗥𝗲𝗶𝗻
+ 𝗶𝗲𝗿 𝗱𝗲 𝗥𝗶𝗱𝗱𝗲𝗿 🇳🇱 vs. 𝗥𝗼𝗺
+ 𝗮𝗻 𝗗𝗼𝗹𝗶𝗱𝘇𝗲 🇬🇪 - 205lbs/93kg Light Heavywe
+ ight · Est. 02:30 Ireland\n    de Ridder: 22-4-0 | 35yo | Odds unavailabl
+ e\n    Dolidze: 15-6-0 | 38yo | Odds unavailable\n    Odds history: not ch
+ ecked yet\n\n🥊 10. 𝗠𝗮𝗿𝗤𝘂𝗲𝗹 𝗠𝗲𝗱𝗲𝗿
+ 𝗼𝘀 🇺🇸 vs. 𝗠𝗮𝘀𝗼𝗻 𝗝𝗼𝗻𝗲𝘀 🇼🇱 -
+  155lbs/70kg Lightweight · Est. 02:00 Ireland\n    Mederos: 12-1-1 | 29yo
+  | Odds unavailable\n    Jones: 18-3-0 | 31yo | Odds unavailable\n    Odds
+  history: not checked yet\n\n🥊 9. 𝗖𝗮𝗿𝗹𝗶 𝗝𝘂𝗱𝗶
+ 𝗰𝗲 🇺🇸 vs. 𝗝𝗲𝗶𝘀𝗹𝗮 𝗖𝗵𝗮𝘃𝗲𝘀 
+ 🇧🇷 - 125lbs/57kg Women's Flyweight · Est. 01:30 Ireland\n    Judice
+ : 7-2-0 | 27yo | Odds unavailable\n    Chaves: 8-1-0 | 29yo | Odds unavail
+ able\n    Odds history: not checked yet\n\n🥊 8. 𝗔𝗻𝘁𝗵𝗼
+ 𝗻𝘆 𝗪𝗶𝗻𝘁 🇺🇸 vs. 𝗧𝗲𝗿𝗿𝗮𝗻𝗰𝗲 
+ 𝗖𝗵𝗮𝘁𝗺𝗮𝗻 🇺🇸 - 265lbs/120kg Heavyweight · Est. 0
+ 1:00 Ireland\n    Wint: 8-0-0 | 30yo | Odds unavailable\n    Chatman: 5-2-
+ 0 | 29yo | Odds unavailable\n    Odds history: not checked yet\n\n── P
+ RELIMS · 7 bouts ──\n\n🥊 7. 𝗝𝗮𝗺𝗮𝗹𝗹 𝗘𝗺𝗺
+ 𝗲𝗿𝘀 🇺🇸 vs. 𝗟𝗲𝗿𝗿𝘆𝗮𝗻 𝗗𝗼𝘂𝗴
+ 𝗹𝗮𝘀 🇧🇷 - 145lbs/66kg Featherweight · Est. Sun 00:35 Irelan
+ d\n    Emmers: 23-8-0 | 37yo | Odds unavailable\n    Douglas: 14-6-0 | 31y
+ o | Odds unavailable\n    Odds history: not checked yet\n\n🥊 6. 𝗞
+ 𝗲𝗻𝗻𝗲𝗱𝘆 𝗡𝘇𝗲𝗰𝗵𝘂𝗸𝘄𝘂 🇳🇬 vs.
+  𝗦𝗵𝗮𝗺𝗶𝗹 𝗚𝗮𝘇𝗶𝗲𝘃 🇧🇭 - 265lbs/120kg
+  Heavyweight · Est. Sun 00:10 Ireland\n    Nzechukwu: 14-7-1 | 34yo | Odd
+ s unavailable\n    Gaziev: 15-3-0 | 36yo | Odds unavailable\n    Odds hist
+ ory: not checked yet\n\n🥊 5. 𝗖𝗵𝗿𝗶𝘀 𝗣𝗮𝗱𝗶𝗹
+ 𝗹𝗮 🇺🇸 vs. 𝗡𝗮𝘀𝗿𝗮𝘁 𝗛𝗮𝗾𝗽𝗮𝗿
+ 𝗮𝘀𝘁 🇲🇦 - 155lbs/70kg Lightweight · Est. 23:45 Ireland\n   
+  Padilla: 18-6-1 | 30yo | Odds unavailable\n    Haqparast: 18-7-0 | 31yo |
+  Odds unavailable\n    Odds history: not checked yet\n\n🥊 4. 𝗠𝗮
+ 𝗿𝗰𝗶𝗼 𝗕𝗮𝗿𝗯𝗼𝘀𝗮 🇧🇷 vs. 𝗥𝘆𝗮
+ 𝗻 𝗞𝘂𝘀𝗲 🇺🇸 - 145lbs/66kg Featherweight · Est. 23:15 I
+ reland\n    Barbosa: 19-2-0 | 28yo | Odds unavailable\n    Kuse: 9-3-0 | 3
+ 2yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 3. 𝗚
+ 𝗮𝘂𝗴𝗲 𝗬𝗼𝘂𝗻𝗴 🇺🇸 vs. 𝗦𝘁𝗮𝗻 𝗗
+ 𝗼𝗿𝘀𝗮𝗶𝗻𝘃𝗶𝗹 🇭🇹 - 155lbs/70kg Lightweight ·
+  Est. 22:50 Ireland\n    Young: 11-4-0 | 26yo | Odds unavailable\n    Dors
+ ainvil: 6-0-0 | 26yo | Odds unavailable\n    Odds history: not checked yet
+ \n\n🥊 2. 𝗪𝗲𝘀 𝗦𝗰𝗵𝘂𝗹𝘁𝘇 🇺🇸 vs. 𝗝
+ 𝗮𝗰𝗸𝘀𝗼𝗻 𝗠𝗰𝗩𝗲𝘆 🇺🇸 - 185lbs/84kg Middl
+ eweight · Est. 22:25 Ireland\n    Schultz: 9-4-0 | 30yo | Odds unavailabl
+ e\n    McVey: 8-2-0 | 27yo | Odds unavailable\n    Odds history: not check
+ ed yet\n\n🥊 1. 𝗦𝗵𝗮𝗻𝗲𝗹𝗹𝗲 𝗗𝘆𝗲𝗿 🇪
+ 🇳 vs. 𝗘𝗹𝗶𝘀𝗲 𝗥𝗲𝗲𝗱 🇺🇸 - 115lbs/52kg Wome
+ n's Strawweight · Est. 22:00 Ireland\n    Dyer: 8-1-0 | 25yo | Odds unava
+ ilable\n    Reed: 8-6-0 | 33yo | Odds unavailable\n    Odds history: not c
+ hecked yet\n\nSource: https://www.ufc.com/event/ufc-fight-night-august-22-
+ 2026\n\nFull odds log: https://staircasewit.github.io/mmacalendar/odds-his
+ tory.html\n\nCalendar updated: 2026-09-12T11:18:51.708Z\n\nEvent status: S
+ cheduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 13 ann
+ ounced bouts<br><br>📍 Golden 1 Center\, Sacramento\, United States<br><
+ br>🕒 22:00–Sun 04:00 Ireland<br><br>Bout times are estimates and may 
+ shift as the card progresses.<br><br>── MAIN CARD · 6 bouts ──<br
+ ><br>🥊 13. 𝗔𝗻𝘁𝗵𝗼𝗻𝘆 𝗛𝗲𝗿𝗻𝗮𝗻𝗱
+ 𝗲𝘇 (#6) 🇺🇸 vs. 𝗚𝗿𝗲𝗴𝗼𝗿𝘆 𝗥𝗼𝗱𝗿
+ 𝗶𝗴𝘂𝗲𝘀 (#11) 🇧🇷 - 185lbs/84kg Middleweight · Est. 03:
+ 30 Ireland<br>    Hernandez: 15-4-0 | 32yo | Odds unavailable<br>    Rodri
+ gues: 20-6-0 | 34yo | Odds unavailable<br>    Odds history: not checked ye
+ t<br><br>🥊 12. 𝗦𝗲𝗿𝗴𝗵𝗲𝗶 𝗦𝗽𝗶𝘃𝗮𝗰 (#
+ 6) 🇲🇩 vs. 𝗩𝗶𝘁𝗼𝗿 𝗣𝗲𝘁𝗿𝗶𝗻𝗼 🇧🇷
+  - 265lbs/120kg Heavyweight · Est. 03:00 Ireland<br>    Spivac: 18-7-0 | 
+ 31yo | Odds unavailable<br>    Petrino: 15-2-0 | 28yo | Odds unavailable<b
+ r>    Odds history: not checked yet<br><br>🥊 11. 𝗥𝗲𝗶𝗻𝗶
+ 𝗲𝗿 𝗱𝗲 𝗥𝗶𝗱𝗱𝗲𝗿 🇳🇱 vs. 𝗥𝗼𝗺𝗮
+ 𝗻 𝗗𝗼𝗹𝗶𝗱𝘇𝗲 🇬🇪 - 205lbs/93kg Light Heavyweight
+  · Est. 02:30 Ireland<br>    de Ridder: 22-4-0 | 35yo | Odds unavailable<
+ br>    Dolidze: 15-6-0 | 38yo | Odds unavailable<br>    Odds history: not 
+ checked yet<br><br>🥊 10. 𝗠𝗮𝗿𝗤𝘂𝗲𝗹 𝗠𝗲𝗱𝗲
+ 𝗿𝗼𝘀 🇺🇸 vs. 𝗠𝗮𝘀𝗼𝗻 𝗝𝗼𝗻𝗲𝘀 🇼
+ 🇱 - 155lbs/70kg Lightweight · Est. 02:00 Ireland<br>    Mederos: 12-1-
+ 1 | 29yo | Odds unavailable<br>    Jones: 18-3-0 | 31yo | Odds unavailable
+ <br>    Odds history: not checked yet<br><br>🥊 9. 𝗖𝗮𝗿𝗹𝗶 
+ 𝗝𝘂𝗱𝗶𝗰𝗲 🇺🇸 vs. 𝗝𝗲𝗶𝘀𝗹𝗮 𝗖𝗵
+ 𝗮𝘃𝗲𝘀 🇧🇷 - 125lbs/57kg Women&#39\;s Flyweight · Est. 01:
+ 30 Ireland<br>    Judice: 7-2-0 | 27yo | Odds unavailable<br>    Chaves: 8
+ -1-0 | 29yo | Odds unavailable<br>    Odds history: not checked yet<br><br
+ >🥊 8. 𝗔𝗻𝘁𝗵𝗼𝗻𝘆 𝗪𝗶𝗻𝘁 🇺🇸 vs. 𝗧
+ 𝗲𝗿𝗿𝗮𝗻𝗰𝗲 𝗖𝗵𝗮𝘁𝗺𝗮𝗻 🇺🇸 - 265lb
+ s/120kg Heavyweight · Est. 01:00 Ireland<br>    Wint: 8-0-0 | 30yo | Odds
+  unavailable<br>    Chatman: 5-2-0 | 29yo | Odds unavailable<br>    Odds h
+ istory: not checked yet<br><br>── PRELIMS · 7 bouts ──<br><br>
+ 🥊 7. 𝗝𝗮𝗺𝗮𝗹𝗹 𝗘𝗺𝗺𝗲𝗿𝘀 🇺🇸 vs. 
+ 𝗟𝗲𝗿𝗿𝘆𝗮𝗻 𝗗𝗼𝘂𝗴𝗹𝗮𝘀 🇧🇷 - 145lb
+ s/66kg Featherweight · Est. Sun 00:35 Ireland<br>    Emmers: 23-8-0 | 37y
+ o | Odds unavailable<br>    Douglas: 14-6-0 | 31yo | Odds unavailable<br> 
+    Odds history: not checked yet<br><br>🥊 6. 𝗞𝗲𝗻𝗻𝗲𝗱
+ 𝘆 𝗡𝘇𝗲𝗰𝗵𝘂𝗸𝘄𝘂 🇳🇬 vs. 𝗦𝗵𝗮𝗺
+ 𝗶𝗹 𝗚𝗮𝘇𝗶𝗲𝘃 🇧🇭 - 265lbs/120kg Heavyweight · E
+ st. Sun 00:10 Ireland<br>    Nzechukwu: 14-7-1 | 34yo | Odds unavailable<b
+ r>    Gaziev: 15-3-0 | 36yo | Odds unavailable<br>    Odds history: not ch
+ ecked yet<br><br>🥊 5. 𝗖𝗵𝗿𝗶𝘀 𝗣𝗮𝗱𝗶𝗹𝗹𝗮
+  🇺🇸 vs. 𝗡𝗮𝘀𝗿𝗮𝘁 𝗛𝗮𝗾𝗽𝗮𝗿𝗮𝘀
+ 𝘁 🇲🇦 - 155lbs/70kg Lightweight · Est. 23:45 Ireland<br>    Padil
+ la: 18-6-1 | 30yo | Odds unavailable<br>    Haqparast: 18-7-0 | 31yo | Odd
+ s unavailable<br>    Odds history: not checked yet<br><br>🥊 4. 𝗠𝗮
+ 𝗿𝗰𝗶𝗼 𝗕𝗮𝗿𝗯𝗼𝘀𝗮 🇧🇷 vs. 𝗥𝘆𝗮
+ 𝗻 𝗞𝘂𝘀𝗲 🇺🇸 - 145lbs/66kg Featherweight · Est. 23:15 I
+ reland<br>    Barbosa: 19-2-0 | 28yo | Odds unavailable<br>    Kuse: 9-3-0
+  | 32yo | Odds unavailable<br>    Odds history: not checked yet<br><br>
+ 🥊 3. 𝗚𝗮𝘂𝗴𝗲 𝗬𝗼𝘂𝗻𝗴 🇺🇸 vs. 𝗦𝘁
+ 𝗮𝗻 𝗗𝗼𝗿𝘀𝗮𝗶𝗻𝘃𝗶𝗹 🇭🇹 - 155lbs/70kg L
+ ightweight · Est. 22:50 Ireland<br>    Young: 11-4-0 | 26yo | Odds unavai
+ lable<br>    Dorsainvil: 6-0-0 | 26yo | Odds unavailable<br>    Odds histo
+ ry: not checked yet<br><br>🥊 2. 𝗪𝗲𝘀 𝗦𝗰𝗵𝘂𝗹𝘁
+ 𝘇 🇺🇸 vs. 𝗝𝗮𝗰𝗸𝘀𝗼𝗻 𝗠𝗰𝗩𝗲𝘆 🇺
+ 🇸 - 185lbs/84kg Middleweight · Est. 22:25 Ireland<br>    Schultz: 9-4-
+ 0 | 30yo | Odds unavailable<br>    McVey: 8-2-0 | 27yo | Odds unavailable<
+ br>    Odds history: not checked yet<br><br>🥊 1. 𝗦𝗵𝗮𝗻𝗲
+ 𝗹𝗹𝗲 𝗗𝘆𝗲𝗿 🇪🇳 vs. 𝗘𝗹𝗶𝘀𝗲 𝗥𝗲
+ 𝗲𝗱 🇺🇸 - 115lbs/52kg Women&#39\;s Strawweight · Est. 22:00 Ire
+ land<br>    Dyer: 8-1-0 | 25yo | Odds unavailable<br>    Reed: 8-6-0 | 33y
+ o | Odds unavailable<br>    Odds history: not checked yet<br><br>Source: h
+ ttps://www.ufc.com/event/ufc-fight-night-august-22-2026<br><br>Full odds l
+ og: https://staircasewit.github.io/mmacalendar/odds-history.html<br><br>Ca
+ lendar updated: 2026-09-12T11:18:51.708Z<br><br>Event status: Scheduled ·
+  verified 12 Sep 2026</p></body></html>
+LOCATION:Golden 1 Center\, Sacramento\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-august-22-2026
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:road-to-ufc-season-5-semifinals-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260828T090000Z
+DTEND:20260828T120000Z
+SUMMARY:Road To UFC: Maheshate vs Flowers
+DESCRIPTION:UFC · Complete Event · 2 announced bouts\n\n📍 Venue to be 
+ announced\n\n🕒 10:00–13:00 Ireland\n\nBout times are estimates and ma
+ y shift as the card progresses.\n\n── MAIN CARD · 2 bouts ──\n\n
+ 🥊 2. 𝗠𝗮𝗵𝗲𝘀𝗵𝗮𝘁𝗲 🇨🇳 vs. 𝗗𝗮𝗿𝗿
+ 𝗶𝘂𝘀 𝗙𝗹𝗼𝘄𝗲𝗿𝘀 🇺🇸 - Weight class unavaila
+ ble · Est. 11:30 Ireland\n    Maheshate: 12-5-0 | 26yo | Odds unavailable
+ \n    Flowers: 13-9-1 | 32yo | Odds unavailable\n    Odds history: not che
+ cked yet\n\n🥊 1. 𝗬𝗶𝗹𝗶𝘇𝗵𝗮𝘁𝗶 𝗠𝗮𝗶𝗺
+ 𝗮𝗶𝘁𝗶𝗷𝗶𝗮𝗻𝗴 🇨🇳 vs. 𝗧𝗿𝗲’𝘀𝘁
+ 𝗼𝗻 𝗩𝗶𝗻𝗲𝘀 🇺🇸 - Weight class unavailable · Est. 
+ 10:00 Ireland\n    Maimaitijiang: 7-1-1 | 35yo | Odds unavailable\n    Vin
+ es: 10-4-1 | 30yo | Odds unavailable\n    Odds history: not checked yet\n\
+ nSource: https://www.ufc.com/event/road-to-ufc-season-5-semifinals\n\nFull
+  odds log: https://staircasewit.github.io/mmacalendar/odds-history.html\n\
+ nCalendar updated: 2026-09-12T11:18:51.708Z\n\nEvent status: Scheduled · 
+ verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 2 anno
+ unced bouts<br><br>📍 Venue to be announced<br><br>🕒 10:00–13:00 Ir
+ eland<br><br>Bout times are estimates and may shift as the card progresses
+ .<br><br>── MAIN CARD · 2 bouts ──<br><br>🥊 2. 𝗠𝗮𝗵
+ 𝗲𝘀𝗵𝗮𝘁𝗲 🇨🇳 vs. 𝗗𝗮𝗿𝗿𝗶𝘂𝘀 𝗙
+ 𝗹𝗼𝘄𝗲𝗿𝘀 🇺🇸 - Weight class unavailable · Est. 11:30
+  Ireland<br>    Maheshate: 12-5-0 | 26yo | Odds unavailable<br>    Flowers
+ : 13-9-1 | 32yo | Odds unavailable<br>    Odds history: not checked yet<br
+ ><br>🥊 1. 𝗬𝗶𝗹𝗶𝘇𝗵𝗮𝘁𝗶 𝗠𝗮𝗶𝗺𝗮𝗶
+ 𝘁𝗶𝗷𝗶𝗮𝗻𝗴 🇨🇳 vs. 𝗧𝗿𝗲’𝘀𝘁𝗼𝗻 
+ 𝗩𝗶𝗻𝗲𝘀 🇺🇸 - Weight class unavailable · Est. 10:00 Ire
+ land<br>    Maimaitijiang: 7-1-1 | 35yo | Odds unavailable<br>    Vines: 1
+ 0-4-1 | 30yo | Odds unavailable<br>    Odds history: not checked yet<br><b
+ r>Source: https://www.ufc.com/event/road-to-ufc-season-5-semifinals<br><br
+ >Full odds log: https://staircasewit.github.io/mmacalendar/odds-history.ht
+ ml<br><br>Calendar updated: 2026-09-12T11:18:51.708Z<br><br>Event status: 
+ Scheduled · verified 12 Sep 2026</p></body></html>
+LOCATION:
+URL:https://www.ufc.com/event/road-to-ufc-season-5-semifinals
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-august-29-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260829T070000Z
+DTEND:20260829T130000Z
+SUMMARY:UFC Fight Night: Nurmagomedov vs Song
+DESCRIPTION:UFC · Complete Event · 13 announced bouts\n\n📍 Oriental Sp
+ orts Center\, Pudong District\, China\n\n🕒 08:00–14:00 Ireland\n\nBou
+ t times are estimates and may shift as the card progresses.\n\n── MAIN
+  CARD · 6 bouts ──\n\n🥊 13. 𝗨𝗺𝗮𝗿 𝗡𝘂𝗿𝗺𝗮
+ 𝗴𝗼𝗺𝗲𝗱𝗼𝘃 (#3) 🇷🇺 vs. 𝗦𝗼𝗻𝗴 𝗬𝗮
+ 𝗱𝗼𝗻𝗴 (#6) 🇨🇳 - 135lbs/61kg Bantamweight · Est. 13:30 Ir
+ eland\n    Nurmagomedov: 20-2-0 | 30yo | Odds unavailable\n    Yadong: 24-
+ 9-1 | 28yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 1
+ 2. 𝗬𝗮𝗻 𝗫𝗶𝗮𝗼𝗻𝗮𝗻 (#4) 🇨🇳 vs. 𝗗𝗲
+ 𝗻𝗶𝘀𝗲 𝗚𝗼𝗺𝗲𝘀 (#14) 🇧🇷 - 115lbs/52kg Women's
+  Strawweight · Est. 13:00 Ireland\n    Yan: 19-6-0 | 37yo | Odds unavaila
+ ble\n    Gomes: 13-3-0 | 26yo | Odds unavailable\n    Odds history: not ch
+ ecked yet\n\n🥊 11. 𝗔𝗼𝗿𝗶𝗾𝗶𝗹𝗲𝗻𝗴 🇨🇳 vs
+ . 𝗞𝗮𝗶 𝗔𝘀𝗮𝗸𝘂𝗿𝗮 🇯🇵 - 135lbs/61kg Bantamw
+ eight · Est. 12:30 Ireland\n    Aoriqileng: 26-14-0 | 33yo | Odds unavail
+ able\n    Asakura: 23-6-0 | 32yo | Odds unavailable\n    Odds history: not
+  checked yet\n\n🥊 10. 𝗔𝗹𝗲𝘅 𝗣𝗲𝗿𝗲𝘇 (#11) 🇺
+ 🇸 vs. 𝗦𝘂𝗺𝘂𝗱𝗮𝗲𝗿𝗷𝗶 🇨🇳 - 125lbs/57kg F
+ lyweight · Est. 12:00 Ireland\n    Perez: 26-11-0 | 34yo | Odds unavailab
+ le\n    Mudaerji: 20-7-0 | 30yo | Odds unavailable\n    Odds history: not 
+ checked yet\n\n🥊 9. 𝗟𝗶𝘂 𝗖𝗲 🇨🇳 vs. 𝗟𝗲𝘃𝗶
+  𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘀 𝗝𝗿. 🇧🇷 - 205lbs/93kg Lig
+ ht Heavyweight · Est. 11:30 Ireland\n    Ce: 4-1-0 | 29yo | Odds unavaila
+ ble\n    Rodrigues Jr.: 5-2-0 | 29yo | Odds unavailable\n    Odds history:
+  not checked yet\n\n🥊 8. 𝗕𝗶𝗹𝗮𝗹 𝗛𝗮𝘀𝗮𝗻 🇮
+ 🇩 vs. 𝗡𝗶𝗹𝘀𝗼𝗻 𝗥𝗼𝗷𝗮𝘀 🇵🇪 - 125lbs/5
+ 7kg Flyweight · Est. 11:00 Ireland\n    Hasan: 10-0-0 | 25yo | Odds unava
+ ilable\n    Rojas: 9-1-0 | 27yo | Odds unavailable\n    Odds history: not 
+ checked yet\n\n── PRELIMS · 7 bouts ──\n\n🥊 7. 𝗡𝗮𝗺
+ 𝘀𝗿𝗮𝗶 𝗕𝗮𝘁𝗯𝗮𝘆𝗮𝗿 🇲🇳 vs. 𝗔𝗻
+ 𝗱𝗿𝗲 𝗟𝗶𝗺𝗮 🇧🇷 - 125lbs/57kg Flyweight · Est. 10:
+ 35 Ireland\n    Batbayar: 10-2-0 | 25yo | Odds unavailable\n    Lima: 12-1
+ -0 | 27yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 6.
+  𝗥𝗲𝗶 𝗧𝘀𝘂𝗿𝘂𝘆𝗮 🇯🇵 vs. 𝗞𝗲𝘃𝗶
+ 𝗻 𝗕𝗼𝗿𝗷𝗮𝘀 🇵🇪 - 125lbs/57kg Flyweight · Est. 10:
+ 10 Ireland\n    Tsuruya: 12-1-0 | 24yo | Odds unavailable\n    Borjas: 11-
+ 6-0 | 28yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 5
+ . 𝗝𝗮𝗰𝗸 𝗝𝗲𝗻𝗸𝗶𝗻𝘀 🇦🇺 vs. 𝗦𝗲𝗮
+ 𝗻 𝗪𝗼𝗼𝗱𝘀𝗼𝗻 🇺🇸 - 145lbs/66kg Featherweight · 
+ Est. 09:45 Ireland\n    Jenkins: 14-5-0 | 32yo | Odds unavailable\n    Woo
+ dson: 14-2-1 | 34yo | Odds unavailable\n    Odds history: not checked yet\
+ n\n🥊 4. 𝗫𝗶𝗮𝗼 𝗟𝗼𝗻𝗴 🇨🇳 vs. 𝗙𝗿𝗮𝗻
+ 𝗰𝗲𝘀𝗰𝗼 𝗡𝘂𝘇𝘇𝗶 🇮🇹 - 135lbs/61kg Bantamwei
+ ght · Est. 09:15 Ireland\n    Long: 27-12-0 | 28yo | Odds unavailable\n  
+   Nuzzi: 12-2-0 | 30yo | Odds unavailable\n    Odds history: not checked y
+ et\n\n🥊 3. 𝗟𝗮𝘄𝗿𝗲𝗻𝗰𝗲 𝗟𝘂𝗶 🇳🇿 vs. 
+ 𝗛𝗲𝗰𝘁𝗼𝗿 𝗦𝗮𝗻𝘁𝗶𝗮𝗴𝗼 🇧🇷 - 135lb
+ s/61kg Bantamweight · Est. 08:50 Ireland\n    Lui: 8-2-0 | 30yo | Odds un
+ available\n    de Sousa Santiago: 7-1-0 | 33yo | Odds unavailable\n    Odd
+ s history: not checked yet\n\n🥊 2. 𝗫𝗶𝗼𝗻𝗴 𝗝𝗶𝗻
+ 𝗴𝗻𝗮𝗻 🇨🇳 vs. 𝗝𝘂𝗹𝗶𝗮 𝗣𝗼𝗹𝗮𝘀
+ 𝘁𝗿𝗶 🇧🇷 - 115lbs/52kg Women's Strawweight · Est. 08:25 Irel
+ and\n    Jingnan: 19-4-0 | 38yo | Odds unavailable\n    Polastri: 15-6-0 |
+  28yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 1. 
+ 𝗗𝗶𝗻𝗴 𝗠𝗲𝗻𝗴 🇨🇳 vs. 𝗖𝗮𝗺 𝗡𝗲𝗹
+ 𝘀𝗼𝗻 🇨🇦 - 170lbs/77kg Welterweight · Est. 08:00 Ireland\n  
+   Meng: 35-11-0 | 31yo | Odds unavailable\n    Nelson: 8-1-0 | 28yo | Odds
+  unavailable\n    Odds history: not checked yet\n\nSource: https://www.ufc
+ .com/event/ufc-fight-night-august-29-2026\n\nFull odds log: https://stairc
+ asewit.github.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-0
+ 9-12T11:18:51.708Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 13 ann
+ ounced bouts<br><br>📍 Oriental Sports Center\, Pudong District\, China<
+ br><br>🕒 08:00–14:00 Ireland<br><br>Bout times are estimates and may 
+ shift as the card progresses.<br><br>── MAIN CARD · 6 bouts ──<br
+ ><br>🥊 13. 𝗨𝗺𝗮𝗿 𝗡𝘂𝗿𝗺𝗮𝗴𝗼𝗺𝗲𝗱
+ 𝗼𝘃 (#3) 🇷🇺 vs. 𝗦𝗼𝗻𝗴 𝗬𝗮𝗱𝗼𝗻𝗴 (#6) 
+ 🇨🇳 - 135lbs/61kg Bantamweight · Est. 13:30 Ireland<br>    Nurmagome
+ dov: 20-2-0 | 30yo | Odds unavailable<br>    Yadong: 24-9-1 | 28yo | Odds 
+ unavailable<br>    Odds history: not checked yet<br><br>🥊 12. 𝗬𝗮
+ 𝗻 𝗫𝗶𝗮𝗼𝗻𝗮𝗻 (#4) 🇨🇳 vs. 𝗗𝗲𝗻𝗶𝘀
+ 𝗲 𝗚𝗼𝗺𝗲𝘀 (#14) 🇧🇷 - 115lbs/52kg Women&#39\;s Straww
+ eight · Est. 13:00 Ireland<br>    Yan: 19-6-0 | 37yo | Odds unavailable<b
+ r>    Gomes: 13-3-0 | 26yo | Odds unavailable<br>    Odds history: not che
+ cked yet<br><br>🥊 11. 𝗔𝗼𝗿𝗶𝗾𝗶𝗹𝗲𝗻𝗴 🇨🇳
+  vs. 𝗞𝗮𝗶 𝗔𝘀𝗮𝗸𝘂𝗿𝗮 🇯🇵 - 135lbs/61kg Bant
+ amweight · Est. 12:30 Ireland<br>    Aoriqileng: 26-14-0 | 33yo | Odds un
+ available<br>    Asakura: 23-6-0 | 32yo | Odds unavailable<br>    Odds his
+ tory: not checked yet<br><br>🥊 10. 𝗔𝗹𝗲𝘅 𝗣𝗲𝗿𝗲
+ 𝘇 (#11) 🇺🇸 vs. 𝗦𝘂𝗺𝘂𝗱𝗮𝗲𝗿𝗷𝗶 🇨🇳 
+ - 125lbs/57kg Flyweight · Est. 12:00 Ireland<br>    Perez: 26-11-0 | 34yo
+  | Odds unavailable<br>    Mudaerji: 20-7-0 | 30yo | Odds unavailable<br> 
+    Odds history: not checked yet<br><br>🥊 9. 𝗟𝗶𝘂 𝗖𝗲 🇨
+ 🇳 vs. 𝗟𝗲𝘃𝗶 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘀 𝗝𝗿. 
+ 🇧🇷 - 205lbs/93kg Light Heavyweight · Est. 11:30 Ireland<br>    Ce: 
+ 4-1-0 | 29yo | Odds unavailable<br>    Rodrigues Jr.: 5-2-0 | 29yo | Odds 
+ unavailable<br>    Odds history: not checked yet<br><br>🥊 8. 𝗕𝗶
+ 𝗹𝗮𝗹 𝗛𝗮𝘀𝗮𝗻 🇮🇩 vs. 𝗡𝗶𝗹𝘀𝗼𝗻 
+ 𝗥𝗼𝗷𝗮𝘀 🇵🇪 - 125lbs/57kg Flyweight · Est. 11:00 Irelan
+ d<br>    Hasan: 10-0-0 | 25yo | Odds unavailable<br>    Rojas: 9-1-0 | 27y
+ o | Odds unavailable<br>    Odds history: not checked yet<br><br>── PR
+ ELIMS · 7 bouts ──<br><br>🥊 7. 𝗡𝗮𝗺𝘀𝗿𝗮𝗶 𝗕
+ 𝗮𝘁𝗯𝗮𝘆𝗮𝗿 🇲🇳 vs. 𝗔𝗻𝗱𝗿𝗲 𝗟𝗶
+ 𝗺𝗮 🇧🇷 - 125lbs/57kg Flyweight · Est. 10:35 Ireland<br>    Bat
+ bayar: 10-2-0 | 25yo | Odds unavailable<br>    Lima: 12-1-0 | 27yo | Odds 
+ unavailable<br>    Odds history: not checked yet<br><br>🥊 6. 𝗥𝗲
+ 𝗶 𝗧𝘀𝘂𝗿𝘂𝘆𝗮 🇯🇵 vs. 𝗞𝗲𝘃𝗶𝗻 𝗕
+ 𝗼𝗿𝗷𝗮𝘀 🇵🇪 - 125lbs/57kg Flyweight · Est. 10:10 Irelan
+ d<br>    Tsuruya: 12-1-0 | 24yo | Odds unavailable<br>    Borjas: 11-6-0 |
+  28yo | Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 
+ 5. 𝗝𝗮𝗰𝗸 𝗝𝗲𝗻𝗸𝗶𝗻𝘀 🇦🇺 vs. 𝗦𝗲𝗮
+ 𝗻 𝗪𝗼𝗼𝗱𝘀𝗼𝗻 🇺🇸 - 145lbs/66kg Featherweight · 
+ Est. 09:45 Ireland<br>    Jenkins: 14-5-0 | 32yo | Odds unavailable<br>   
+  Woodson: 14-2-1 | 34yo | Odds unavailable<br>    Odds history: not checke
+ d yet<br><br>🥊 4. 𝗫𝗶𝗮𝗼 𝗟𝗼𝗻𝗴 🇨🇳 vs. 𝗙
+ 𝗿𝗮𝗻𝗰𝗲𝘀𝗰𝗼 𝗡𝘂𝘇𝘇𝗶 🇮🇹 - 135lbs/61
+ kg Bantamweight · Est. 09:15 Ireland<br>    Long: 27-12-0 | 28yo | Odds u
+ navailable<br>    Nuzzi: 12-2-0 | 30yo | Odds unavailable<br>    Odds hist
+ ory: not checked yet<br><br>🥊 3. 𝗟𝗮𝘄𝗿𝗲𝗻𝗰𝗲 𝗟
+ 𝘂𝗶 🇳🇿 vs. 𝗛𝗲𝗰𝘁𝗼𝗿 𝗦𝗮𝗻𝘁𝗶𝗮
+ 𝗴𝗼 🇧🇷 - 135lbs/61kg Bantamweight · Est. 08:50 Ireland<br>    
+ Lui: 8-2-0 | 30yo | Odds unavailable<br>    de Sousa Santiago: 7-1-0 | 33y
+ o | Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 2. 
+ 𝗫𝗶𝗼𝗻𝗴 𝗝𝗶𝗻𝗴𝗻𝗮𝗻 🇨🇳 vs. 𝗝𝘂
+ 𝗹𝗶𝗮 𝗣𝗼𝗹𝗮𝘀𝘁𝗿𝗶 🇧🇷 - 115lbs/52kg Women
+ &#39\;s Strawweight · Est. 08:25 Ireland<br>    Jingnan: 19-4-0 | 38yo | 
+ Odds unavailable<br>    Polastri: 15-6-0 | 28yo | Odds unavailable<br>    
+ Odds history: not checked yet<br><br>🥊 1. 𝗗𝗶𝗻𝗴 𝗠𝗲𝗻
+ 𝗴 🇨🇳 vs. 𝗖𝗮𝗺 𝗡𝗲𝗹𝘀𝗼𝗻 🇨🇦 - 170lbs/
+ 77kg Welterweight · Est. 08:00 Ireland<br>    Meng: 35-11-0 | 31yo | Odds
+  unavailable<br>    Nelson: 8-1-0 | 28yo | Odds unavailable<br>    Odds hi
+ story: not checked yet<br><br>Source: https://www.ufc.com/event/ufc-fight-
+ night-august-29-2026<br><br>Full odds log: https://staircasewit.github.io/
+ mmacalendar/odds-history.html<br><br>Calendar updated: 2026-09-12T11:18:51
+ .708Z<br><br>Event status: Scheduled · verified 12 Sep 2026</p></body></h
+ tml>
+LOCATION:Oriental Sports Center\, Pudong District\, China
+URL:https://www.ufc.com/event/ufc-fight-night-august-29-2026
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-september-05-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260905T160000Z
+DTEND:20260905T220000Z
+SUMMARY:UFC Fight Night: Hooker vs Parnasse
+DESCRIPTION:UFC · Complete Event · 14 announced bouts\n\n📍 Accor Arena
+ \, Paris\, France\n\n🕒 17:00–23:00 Ireland\n\nBout times are estimate
+ s and may shift as the card progresses.\n\n── MAIN CARD · 6 bouts ─
+ ─\n\n🥊 14. 𝗗𝗮𝗻 𝗛𝗼𝗼𝗸𝗲𝗿 (#10) 🇳🇿 vs. 
+ 𝗦𝗮𝗹𝗮𝗵𝗱𝗶𝗻𝗲 𝗣𝗮𝗿𝗻𝗮𝘀𝘀𝗲 🇫
+ 🇷 - 155lbs/70kg Lightweight · Est. 22:30 Ireland\n    Hooker: 24-15-0 
+ | 36yo | Odds unavailable\n    Parnasse: 24-2-0 | 28yo | Odds unavailable\
+ n    Odds history: not checked yet\n\n🥊 13. 𝗙𝗮𝗿è𝘀 𝗭𝗶
+ 𝗮𝗺 🇫🇷 vs. 𝗔𝘅𝗲𝗹 𝗦𝗼𝗹𝗮 🇫🇷 - 155lbs/
+ 70kg Lightweight · Est. 22:00 Ireland\n    Ziam: 18-6-0 | 29yo | Odds una
+ vailable\n    Sola: 13-1-1 | 28yo | Odds unavailable\n    Odds history: no
+ t checked yet\n\n🥊 12. 𝗠𝗶𝗰𝗵𝗮𝗲𝗹 𝗩𝗲𝗻𝗼
+ 𝗺 𝗣𝗮𝗴𝗲 (#15) vs. 𝗡𝘂𝗿𝘀𝘂𝗹𝘁𝗼𝗻 𝗥
+ 𝘂𝘇𝗶𝗯𝗼𝗲𝘃 🇺🇿 - 185lbs/84kg Middleweight · Est. 2
+ 1:30 Ireland\n    Page: 26-3-0 | 39yo | Odds unavailable\n    Ruziboev: 37
+ -10-2 | 32yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊
+  11. 𝗗𝗮𝗻𝗶𝗶𝗹 𝗗𝗼𝗻𝗰𝗵𝗲𝗻𝗸𝗼 🇺
+ 🇦 vs. 𝗣𝘂𝗻𝗮𝗵𝗲𝗹𝗲 𝗦𝗼𝗿𝗶𝗮𝗻𝗼 
+ 🇺🇸 - 170lbs/77kg Welterweight · Est. 21:00 Ireland\n    Donchenko: 
+ 16-2-0 | 25yo | Odds unavailable\n    Soriano: 13-5-0 | 33yo | Odds unavai
+ lable\n    Odds history: not checked yet\n\n🥊 10. 𝗞𝘂𝗿𝘁𝗶
+ 𝘀 𝗖𝗮𝗺𝗽𝗯𝗲𝗹𝗹 🇪🇳 vs. 𝗧𝗿𝗲𝘃𝗼
+ 𝗿 𝗣𝗲𝗲𝗸 🇺🇸 - 145lbs/66kg Featherweight · Est. 20:30 I
+ reland\n    Campbell: 9-1-0 | 24yo | Odds unavailable\n    Peek: 9-4-0 | 3
+ 1yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 9. 𝗟
+ 𝗼𝘀𝗲𝗻𝗲 𝗞𝗲𝗶𝘁𝗮 🇧🇪 vs. 𝗠𝘂𝗵𝗮
+ 𝗺𝗺𝗮𝗱 𝗡𝗮𝗶𝗺𝗼𝘃 🇹🇯 - 145lbs/66kg Featherwe
+ ight · Est. 20:00 Ireland\n    Keita: 17-2-0 | 28yo | Odds unavailable\n 
+    Naimov: 13-5-0 | 32yo | Odds unavailable\n    Odds history: not checked
+  yet\n\n── PRELIMS · 8 bouts ──\n\n🥊 8. 𝗠𝗼𝗿𝗴𝗮
+ 𝗻 𝗖𝗵𝗮𝗿𝗿𝗶𝗲𝗿𝗲 🇫🇷 vs. 𝗙𝗲𝗹𝗶
+ 𝗽𝗲 𝗟𝗶𝗺𝗮 🇧🇷 - 145lbs/66kg Featherweight · Est. 19:
+ 40 Ireland\n    Charriere: 21-13-1 | 30yo | Odds unavailable\n    Lima: 15
+ -2-0 | 28yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 
+ 7. 𝗠𝗮𝗿𝗶𝗼 𝗣𝗶𝗻𝘁𝗼 🇵🇹 vs. 𝗥𝘆𝗮𝗻
+  𝗦𝗽𝗮𝗻𝗻 🇺🇸 - 265lbs/120kg Heavyweight · Est. 19:15 Ir
+ eland\n    Pinto: 13-0-0 | 28yo | Odds unavailable\n    Spann: 24-12-0 | 3
+ 5yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 6. 𝗢
+ 𝘂𝗺𝗮𝗿 𝗦𝘆 🇫🇷 vs. 𝗠𝗼𝗱𝗲𝘀𝘁𝗮𝘀 
+ 𝗕𝘂𝗸𝗮𝘂𝘀𝗸𝗮𝘀 🇱🇹 - 205lbs/93kg Light Heavywei
+ ght · Est. 18:55 Ireland\n    Sy: 12-3-0 | 30yo | Odds unavailable\n    B
+ ukauskas: 21-7-0 | 32yo | Odds unavailable\n    Odds history: not checked 
+ yet\n\n🥊 5. 𝗡𝗮𝘁𝗵𝗮𝗻𝗶𝗲𝗹 𝗪𝗼𝗼𝗱 🇪
+ 🇳 vs. 𝗣𝗮𝘃𝗲𝗹 𝗔𝗻𝗱𝗿𝘂𝘀𝗰𝗮 🇲🇩 - 
+ 145lbs/66kg Featherweight · Est. 18:30 Ireland\n    Wood: 23-6-0 | 33yo |
+  Odds unavailable\n    Andrusca: 9-0-0 | 24yo | Odds unavailable\n    Odds
+  history: not checked yet\n\n🥊 4. 𝗠𝗶𝗰𝗵𝗮𝗲𝗹 𝗔𝗹
+ 𝗷𝗮𝗿𝗼𝘂𝗷 🇫🇷 vs. 𝗙𝗮𝗯𝗶𝗮 𝗦𝗶𝗻
+ 𝘁𝗲𝘀 🇪🇸 - 125lbs/57kg Flyweight · Est. 18:10 Ireland\n    A
+ ljarouj: 13-4-0 | 29yo | Odds unavailable\n    Sintes: 12-3-0 | 32yo | Odd
+ s unavailable\n    Odds history: not checked yet\n\n🥊 3. 𝗡𝗼𝗿
+ 𝗮 𝗖𝗼𝗿𝗻𝗼𝗹𝗹𝗲 (#13) 🇫🇷 vs. 𝗞𝗹𝗮𝘂
+ 𝗱𝗶𝗮 𝗦𝘆𝗴𝘂ł𝗮 🇵🇱 - 135lbs/61kg Women's Bantamw
+ eight · Est. 17:45 Ireland\n    Cornolle: 10-4-0 | 36yo | Odds unavailabl
+ e\n    Sygula: 8-3-0 | 27yo | Odds unavailable\n    Odds history: not chec
+ ked yet\n\n🥊 2. 𝗠𝗮𝘁𝘁𝗵𝗶𝗲𝘂 𝗗𝘂𝗰𝗹𝗼
+ 𝘀 🇫🇷 vs. 𝗟𝘂𝗶𝘀 𝗙𝗲𝗹𝗶𝗽𝗲 𝗗𝗶𝗮
+ 𝘀 🇧🇷 - 185lbs/84kg Middleweight · Est. 17:25 Ireland\n    Letho 
+ Duclos: 11-3-0 | 31yo | Odds unavailable\n    Felipe Dias: 18-5-0 | 31yo |
+  Odds unavailable\n    Odds history: not checked yet\n\n🥊 1. 𝗗𝗲
+ 𝗹𝗽𝗵𝗶𝗻𝗲 𝗕𝗲𝗻𝗼𝘂𝗮𝗶𝗰𝗵 🇫🇷 vs.
+  𝗦𝗼𝗳𝗶𝗮 𝗠𝗼𝗻𝘁𝗲𝗻𝗲𝗴𝗿𝗼 🇦🇷 - 
+ 115lbs/52kg Women's Strawweight · Est. 17:00 Ireland\n    Benouaich: 8-2-
+ 0 | 31yo | Odds unavailable\n    Montenegro: 6-2-0 | 27yo | Odds unavailab
+ le\n    Odds history: not checked yet\n\nSource: https://www.ufc.com/event
+ /ufc-fight-night-september-05-2026\n\nFull odds log: https://staircasewit.
+ github.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T11
+ :18:51.708Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 14 ann
+ ounced bouts<br><br>📍 Accor Arena\, Paris\, France<br><br>🕒 17:00–
+ 23:00 Ireland<br><br>Bout times are estimates and may shift as the card pr
+ ogresses.<br><br>── MAIN CARD · 6 bouts ──<br><br>🥊 14. 𝗗
+ 𝗮𝗻 𝗛𝗼𝗼𝗸𝗲𝗿 (#10) 🇳🇿 vs. 𝗦𝗮𝗹𝗮𝗵
+ 𝗱𝗶𝗻𝗲 𝗣𝗮𝗿𝗻𝗮𝘀𝘀𝗲 🇫🇷 - 155lbs/70kg L
+ ightweight · Est. 22:30 Ireland<br>    Hooker: 24-15-0 | 36yo | Odds unav
+ ailable<br>    Parnasse: 24-2-0 | 28yo | Odds unavailable<br>    Odds hist
+ ory: not checked yet<br><br>🥊 13. 𝗙𝗮𝗿è𝘀 𝗭𝗶𝗮𝗺 
+ 🇫🇷 vs. 𝗔𝘅𝗲𝗹 𝗦𝗼𝗹𝗮 🇫🇷 - 155lbs/70kg Ligh
+ tweight · Est. 22:00 Ireland<br>    Ziam: 18-6-0 | 29yo | Odds unavailabl
+ e<br>    Sola: 13-1-1 | 28yo | Odds unavailable<br>    Odds history: not c
+ hecked yet<br><br>🥊 12. 𝗠𝗶𝗰𝗵𝗮𝗲𝗹 𝗩𝗲𝗻𝗼
+ 𝗺 𝗣𝗮𝗴𝗲 (#15) vs. 𝗡𝘂𝗿𝘀𝘂𝗹𝘁𝗼𝗻 𝗥
+ 𝘂𝘇𝗶𝗯𝗼𝗲𝘃 🇺🇿 - 185lbs/84kg Middleweight · Est. 2
+ 1:30 Ireland<br>    Page: 26-3-0 | 39yo | Odds unavailable<br>    Ruziboev
+ : 37-10-2 | 32yo | Odds unavailable<br>    Odds history: not checked yet<b
+ r><br>🥊 11. 𝗗𝗮𝗻𝗶𝗶𝗹 𝗗𝗼𝗻𝗰𝗵𝗲𝗻𝗸
+ 𝗼 🇺🇦 vs. 𝗣𝘂𝗻𝗮𝗵𝗲𝗹𝗲 𝗦𝗼𝗿𝗶𝗮
+ 𝗻𝗼 🇺🇸 - 170lbs/77kg Welterweight · Est. 21:00 Ireland<br>    
+ Donchenko: 16-2-0 | 25yo | Odds unavailable<br>    Soriano: 13-5-0 | 33yo 
+ | Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 10. 
+ 𝗞𝘂𝗿𝘁𝗶𝘀 𝗖𝗮𝗺𝗽𝗯𝗲𝗹𝗹 🇪🇳 vs. 
+ 𝗧𝗿𝗲𝘃𝗼𝗿 𝗣𝗲𝗲𝗸 🇺🇸 - 145lbs/66kg Featherwe
+ ight · Est. 20:30 Ireland<br>    Campbell: 9-1-0 | 24yo | Odds unavailabl
+ e<br>    Peek: 9-4-0 | 31yo | Odds unavailable<br>    Odds history: not ch
+ ecked yet<br><br>🥊 9. 𝗟𝗼𝘀𝗲𝗻𝗲 𝗞𝗲𝗶𝘁𝗮 
+ 🇧🇪 vs. 𝗠𝘂𝗵𝗮𝗺𝗺𝗮𝗱 𝗡𝗮𝗶𝗺𝗼𝘃 
+ 🇹🇯 - 145lbs/66kg Featherweight · Est. 20:00 Ireland<br>    Keita: 1
+ 7-2-0 | 28yo | Odds unavailable<br>    Naimov: 13-5-0 | 32yo | Odds unavai
+ lable<br>    Odds history: not checked yet<br><br>── PRELIMS · 8 bout
+ s ──<br><br>🥊 8. 𝗠𝗼𝗿𝗴𝗮𝗻 𝗖𝗵𝗮𝗿𝗿𝗶
+ 𝗲𝗿𝗲 🇫🇷 vs. 𝗙𝗲𝗹𝗶𝗽𝗲 𝗟𝗶𝗺𝗮 🇧
+ 🇷 - 145lbs/66kg Featherweight · Est. 19:40 Ireland<br>    Charriere: 2
+ 1-13-1 | 30yo | Odds unavailable<br>    Lima: 15-2-0 | 28yo | Odds unavail
+ able<br>    Odds history: not checked yet<br><br>🥊 7. 𝗠𝗮𝗿𝗶
+ 𝗼 𝗣𝗶𝗻𝘁𝗼 🇵🇹 vs. 𝗥𝘆𝗮𝗻 𝗦𝗽𝗮𝗻
+ 𝗻 🇺🇸 - 265lbs/120kg Heavyweight · Est. 19:15 Ireland<br>    Pint
+ o: 13-0-0 | 28yo | Odds unavailable<br>    Spann: 24-12-0 | 35yo | Odds un
+ available<br>    Odds history: not checked yet<br><br>🥊 6. 𝗢𝘂𝗺
+ 𝗮𝗿 𝗦𝘆 🇫🇷 vs. 𝗠𝗼𝗱𝗲𝘀𝘁𝗮𝘀 𝗕𝘂
+ 𝗸𝗮𝘂𝘀𝗸𝗮𝘀 🇱🇹 - 205lbs/93kg Light Heavyweight · E
+ st. 18:55 Ireland<br>    Sy: 12-3-0 | 30yo | Odds unavailable<br>    Bukau
+ skas: 21-7-0 | 32yo | Odds unavailable<br>    Odds history: not checked ye
+ t<br><br>🥊 5. 𝗡𝗮𝘁𝗵𝗮𝗻𝗶𝗲𝗹 𝗪𝗼𝗼𝗱 
+ 🇪🇳 vs. 𝗣𝗮𝘃𝗲𝗹 𝗔𝗻𝗱𝗿𝘂𝘀𝗰𝗮 🇲
+ 🇩 - 145lbs/66kg Featherweight · Est. 18:30 Ireland<br>    Wood: 23-6-0
+  | 33yo | Odds unavailable<br>    Andrusca: 9-0-0 | 24yo | Odds unavailabl
+ e<br>    Odds history: not checked yet<br><br>🥊 4. 𝗠𝗶𝗰𝗵𝗮
+ 𝗲𝗹 𝗔𝗹𝗷𝗮𝗿𝗼𝘂𝗷 🇫🇷 vs. 𝗙𝗮𝗯𝗶
+ 𝗮 𝗦𝗶𝗻𝘁𝗲𝘀 🇪🇸 - 125lbs/57kg Flyweight · Est. 18:
+ 10 Ireland<br>    Aljarouj: 13-4-0 | 29yo | Odds unavailable<br>    Sintes
+ : 12-3-0 | 32yo | Odds unavailable<br>    Odds history: not checked yet<br
+ ><br>🥊 3. 𝗡𝗼𝗿𝗮 𝗖𝗼𝗿𝗻𝗼𝗹𝗹𝗲 (#13) 🇫
+ 🇷 vs. 𝗞𝗹𝗮𝘂𝗱𝗶𝗮 𝗦𝘆𝗴𝘂ł𝗮 🇵🇱 - 13
+ 5lbs/61kg Women&#39\;s Bantamweight · Est. 17:45 Ireland<br>    Cornolle:
+  10-4-0 | 36yo | Odds unavailable<br>    Sygula: 8-3-0 | 27yo | Odds unava
+ ilable<br>    Odds history: not checked yet<br><br>🥊 2. 𝗠𝗮𝘁
+ 𝘁𝗵𝗶𝗲𝘂 𝗗𝘂𝗰𝗹𝗼𝘀 🇫🇷 vs. 𝗟𝘂𝗶
+ 𝘀 𝗙𝗲𝗹𝗶𝗽𝗲 𝗗𝗶𝗮𝘀 🇧🇷 - 185lbs/84kg Midd
+ leweight · Est. 17:25 Ireland<br>    Letho Duclos: 11-3-0 | 31yo | Odds u
+ navailable<br>    Felipe Dias: 18-5-0 | 31yo | Odds unavailable<br>    Odd
+ s history: not checked yet<br><br>🥊 1. 𝗗𝗲𝗹𝗽𝗵𝗶𝗻𝗲
+  𝗕𝗲𝗻𝗼𝘂𝗮𝗶𝗰𝗵 🇫🇷 vs. 𝗦𝗼𝗳𝗶𝗮 
+ 𝗠𝗼𝗻𝘁𝗲𝗻𝗲𝗴𝗿𝗼 🇦🇷 - 115lbs/52kg Women&#39\
+ ;s Strawweight · Est. 17:00 Ireland<br>    Benouaich: 8-2-0 | 31yo | Odds
+  unavailable<br>    Montenegro: 6-2-0 | 27yo | Odds unavailable<br>    Odd
+ s history: not checked yet<br><br>Source: https://www.ufc.com/event/ufc-fi
+ ght-night-september-05-2026<br><br>Full odds log: https://staircasewit.git
+ hub.io/mmacalendar/odds-history.html<br><br>Calendar updated: 2026-09-12T1
+ 1:18:51.708Z<br><br>Event status: Scheduled · verified 12 Sep 2026</p></b
+ ody></html>
+LOCATION:Accor Arena\, Paris\, France
+URL:https://www.ufc.com/event/ufc-fight-night-september-05-2026
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-september-12-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260912T180000Z
+DTEND:20260913T000000Z
+SUMMARY:Noche UFC: Silva vs Delgado
+DESCRIPTION:UFC · Complete Event · 13 announced bouts\n\n📍 Desert Diam
+ ond Arena\, Glendale\, United States\n\n🕒 19:00–Sun 01:00 Ireland\n\n
+ Bout times are estimates and may shift as the card progresses.\n\n── M
+ AIN CARD · 6 bouts ──\n\n🥊 13. 𝗝𝗲𝗮𝗻 𝗦𝗶𝗹𝘃
+ 𝗮 (#6) 🇧🇷 vs. 𝗝𝗼𝘀𝗲 𝗠𝗶𝗴𝘂𝗲𝗹 𝗗𝗲
+ 𝗹𝗴𝗮𝗱𝗼 🇲🇽 - 145lbs/66kg Featherweight · Est. Sun 00:3
+ 0 Ireland\n    Silva: 17-3-0 | 29yo | Odds -425 (1.24)\n    Delgado: 12-2-
+ 0 | 28yo | Odds +325 (4.25)\n    Odds history:\n      12 Sep: Silva -425 (
+ 1.24) | Delgado +325 (4.25)\n\n🥊 12. 𝗕𝗿𝗮𝗻𝗱𝗼𝗻 𝗠
+ 𝗼𝗿𝗲𝗻𝗼 (#8) 🇲🇽 vs. 𝗝𝗼𝘀𝗲𝗽𝗵 𝗠𝗼
+ 𝗿𝗮𝗹𝗲𝘀 🇺🇸 - 125lbs/57kg Flyweight · Est. Sun 00:00 Ir
+ eland\n    Moreno: 23-10-2 | 32yo | Odds +100 (2.00)\n    Morales: 15-2-0 
+ | 32yo | Odds -120 (1.83)\n    Odds history:\n      12 Sep: Moreno +100 (2
+ .00) | Morales -120 (1.83)\n\n🥊 11. 𝗧𝗼𝗺𝗺𝘆 𝗠𝗰𝗠
+ 𝗶𝗹𝗹𝗲𝗻 🇺🇸 vs. 𝗠𝗮𝗿𝘄𝗮𝗻 𝗥𝗮𝗵
+ 𝗶𝗸𝗶 🇲🇦 - 145lbs/66kg Featherweight · Est. 23:30 Ireland\n 
+    McMillen: 11-0-0 | 28yo | Odds -165 (1.61)\n    Rahiki: 9-0-0 | 24yo | 
+ Odds +140 (2.40)\n    Odds history:\n      12 Sep: McMillen -165 (1.61) | 
+ Rahiki +140 (2.40)\n\n🥊 10. 𝗠𝗮𝗻𝗼𝗻 𝗙𝗶𝗼𝗿𝗼
+ 𝘁 (#2) 🇫🇷 vs. 𝗔𝗹𝗲𝘅𝗮 𝗚𝗿𝗮𝘀𝘀𝗼 (#3) 
+ 🇲🇽 - 125lbs/57kg Women's Flyweight · Est. 23:00 Ireland\n    Fiorot
+ : 13-2-0 | 36yo | Odds -240 (1.42)\n    Grasso: 17-5-1 | 33yo | Odds +195 
+ (2.95)\n    Odds history:\n      12 Sep: Fiorot -240 (1.42) | Grasso +195 
+ (2.95)\n\n🥊 9. 𝗪𝗮𝗹𝗱𝗼 𝗖𝗼𝗿𝘁𝗲𝘀 𝗔𝗰
+ 𝗼𝘀𝘁𝗮 (#5) 🇩🇴 vs. 𝗖𝘂𝗿𝘁𝗶𝘀 𝗕𝗹𝗮
+ 𝘆𝗱𝗲𝘀 (#6) 🇺🇸 - 265lbs/120kg Heavyweight · Est. 22:30 Ir
+ eland\n    Cortes Acosta: 17-3-0 | 34yo | Odds -205 (1.49)\n    Blaydes: 1
+ 9-6-0 | 35yo | Odds +170 (2.70)\n    Odds history:\n      12 Sep: Cortes A
+ costa -205 (1.49) | Blaydes +170 (2.70)\n\n🥊 8. 𝗗𝗮𝘃𝗶𝗱 
+ 𝗠𝗮𝗿𝘁𝗶𝗻𝗲𝘇 (#8) 🇲🇽 vs. 𝗗𝗮𝗻 𝗜𝗴
+ 𝗲 🇺🇸 - 135lbs/61kg Bantamweight · Est. 22:00 Ireland\n    Martin
+ ez: 14-1-0 | 28yo | Odds -380 (1.26)\n    Ige: 19-10-0 | 35yo | Odds +300 
+ (4.00)\n    Odds history:\n      12 Sep: Martinez -380 (1.26) | Ige +300 (
+ 4.00)\n\n── PRELIMS · 7 bouts ──\n\n🥊 7. 𝗧𝗶𝗺 𝗘𝗹
+ 𝗹𝗶𝗼𝘁𝘁 🇺🇸 vs. 𝗘𝗱𝗴𝗮𝗿 𝗖𝗵𝗮𝗶
+ 𝗿𝗲𝘇 🇲🇽 - Catchweight · Est. 21:35 Ireland\n    Elliott: 22
+ -14-1 | 39yo | Odds +175 (2.75)\n    Chairez: 14-6-0 | 30yo | Odds -210 (1
+ .48)\n    Odds history:\n      12 Sep: Elliott +175 (2.75) | Chairez -210 
+ (1.48)\n\n🥊 6. 𝗜𝗴𝗻𝗮𝗰𝗶𝗼 𝗕𝗮𝗵𝗮𝗺𝗼
+ 𝗻𝗱𝗲𝘀 🇨🇱 vs. 𝗠𝘂𝘀𝗹𝗶𝗺 𝗦𝗮𝗹𝗶
+ 𝗸𝗵𝗼𝘃 🇷🇺 - 170lbs/77kg Welterweight · Est. 21:10 Ireland
+ \n    Bahamondes: 17-7-0 | 29yo | Odds -550 (1.18)\n    Salikhov: 22-6-0 |
+  42yo | Odds +400 (5.00)\n    Odds history:\n      12 Sep: Bahamondes -550
+  (1.18) | Salikhov +400 (5.00)\n\n🥊 5. 𝗬𝗼𝘂𝘀𝗿𝗶 𝗕
+ 𝗲𝗹𝗴𝗮𝗿𝗼𝘂𝗶 🇳🇱 vs. 𝗗𝗷𝗼𝗿𝗱𝗲𝗻
+  𝗦𝗮𝗻𝘁𝗼𝘀 🇧🇷 - 185lbs/84kg Middleweight · Est. 20:4
+ 5 Ireland\n    Belgaroui: 10-3-0 | 34yo | Odds -850 (1.12)\n    Santos: 11
+ -3-0 | 29yo | Odds +575 (6.75)\n    Odds history:\n      12 Sep: Belgaroui
+  -850 (1.12) | Santos +575 (6.75)\n\n🥊 4. 𝗗𝗿𝗮𝗸𝗸𝗮𝗿 
+ 𝗞𝗹𝗼𝘀𝗲 🇺🇸 vs. 𝗧𝗼𝗺𝗺𝘆 𝗚𝗮𝗻𝘁
+ 𝘁 🇺🇸 - 155lbs/70kg Lightweight · Est. 20:15 Ireland\n    Klose: 
+ 16-3-1 | 38yo | Odds +375 (4.75)\n    Gantt: 12-0-0 | 33yo | Odds -500 (1.
+ 20)\n    Odds history:\n      12 Sep: Klose +375 (4.75) | Gantt -500 (1.20
+ )\n\n🥊 3. 𝗥𝗮𝗳𝗮 𝗚𝗮𝗿𝗰𝗶𝗮 🇲🇽 vs. 𝗥
+ 𝗼𝗻𝗴𝘇𝗵𝘂 🇨🇳 - 155lbs/70kg Lightweight · Est. 19:50 
+ Ireland\n    Garcia: 19-4-0 | 32yo | Odds +145 (2.45)\n    Zhu: 28-6-0 | 2
+ 6yo | Odds -175 (1.57)\n    Odds history:\n      12 Sep: Garcia +145 (2.45
+ ) | Zhu -175 (1.57)\n\n🥊 2. 𝗦𝗲𝗮𝗻 𝗞𝗶𝗻𝗴 𝗜𝗜
+ 𝗜 🇺🇸 vs. 𝗝𝗲𝘀𝘀𝗶𝗲 𝗥𝗼𝘀𝗮𝘀 🇲🇽 -
+  145lbs/66kg Featherweight · Est. 19:25 Ireland\n    King III: 6-0-0 | 22
+ yo | Odds -190 (1.53)\n    Rosas: 8-1-0 | 23yo | Odds +160 (2.60)\n    Odd
+ s history:\n      12 Sep: King III -190 (1.53) | Rosas +160 (2.60)\n\n🥊
+  1. 𝗝𝗝 𝗔𝗹𝗱𝗿𝗶𝗰𝗵 (#15) 🇺🇸 vs. 𝗥𝗲𝗴
+ 𝗶𝗻𝗮 𝗧𝗮𝗿𝗶𝗻 🇲🇽 - 125lbs/57kg Women's Flyweight
+  · Est. 19:00 Ireland\n    Aldrich: 15-7-0 | 33yo | Odds unavailable\n   
+  Malpica Rivera: 8-0-0 | 21yo | Odds +165 (2.65)\n    Odds history:\n     
+  12 Sep: Aldrich unavailable | Malpica Rivera +165 (2.65)\n\nSource: https
+ ://www.ufc.com/event/ufc-fight-night-september-12-2026\n\nFull odds log: h
+ ttps://staircasewit.github.io/mmacalendar/odds-history.html\n\nCalendar up
+ dated: 2026-09-12T11:18:51.708Z\n\nEvent status: Scheduled · verified 12 
+ Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 13 ann
+ ounced bouts<br><br>📍 Desert Diamond Arena\, Glendale\, United States<b
+ r><br>🕒 19:00–Sun 01:00 Ireland<br><br>Bout times are estimates and m
+ ay shift as the card progresses.<br><br>── MAIN CARD · 6 bouts ──
+ <br><br>🥊 13. 𝗝𝗲𝗮𝗻 𝗦𝗶𝗹𝘃𝗮 (#6) 🇧🇷 vs. 
+ 𝗝𝗼𝘀𝗲 𝗠𝗶𝗴𝘂𝗲𝗹 𝗗𝗲𝗹𝗴𝗮𝗱𝗼 
+ 🇲🇽 - 145lbs/66kg Featherweight · Est. Sun 00:30 Ireland<br>    Silv
+ a: 17-3-0 | 29yo | Odds -425 (1.24)<br>    Delgado: 12-2-0 | 28yo | Odds +
+ 325 (4.25)<br>    Odds history:<br>      12 Sep: Silva -425 (1.24) | Delga
+ do +325 (4.25)<br><br>🥊 12. 𝗕𝗿𝗮𝗻𝗱𝗼𝗻 𝗠𝗼𝗿
+ 𝗲𝗻𝗼 (#8) 🇲🇽 vs. 𝗝𝗼𝘀𝗲𝗽𝗵 𝗠𝗼𝗿𝗮
+ 𝗹𝗲𝘀 🇺🇸 - 125lbs/57kg Flyweight · Est. Sun 00:00 Ireland<br
+ >    Moreno: 23-10-2 | 32yo | Odds +100 (2.00)<br>    Morales: 15-2-0 | 32
+ yo | Odds -120 (1.83)<br>    Odds history:<br>      12 Sep: Moreno +100 (2
+ .00) | Morales -120 (1.83)<br><br>🥊 11. 𝗧𝗼𝗺𝗺𝘆 𝗠𝗰
+ 𝗠𝗶𝗹𝗹𝗲𝗻 🇺🇸 vs. 𝗠𝗮𝗿𝘄𝗮𝗻 𝗥𝗮
+ 𝗵𝗶𝗸𝗶 🇲🇦 - 145lbs/66kg Featherweight · Est. 23:30 Irelan
+ d<br>    McMillen: 11-0-0 | 28yo | Odds -165 (1.61)<br>    Rahiki: 9-0-0 |
+  24yo | Odds +140 (2.40)<br>    Odds history:<br>      12 Sep: McMillen -1
+ 65 (1.61) | Rahiki +140 (2.40)<br><br>🥊 10. 𝗠𝗮𝗻𝗼𝗻 𝗙
+ 𝗶𝗼𝗿𝗼𝘁 (#2) 🇫🇷 vs. 𝗔𝗹𝗲𝘅𝗮 𝗚𝗿𝗮
+ 𝘀𝘀𝗼 (#3) 🇲🇽 - 125lbs/57kg Women&#39\;s Flyweight · Est. 23
+ :00 Ireland<br>    Fiorot: 13-2-0 | 36yo | Odds -240 (1.42)<br>    Grasso:
+  17-5-1 | 33yo | Odds +195 (2.95)<br>    Odds history:<br>      12 Sep: Fi
+ orot -240 (1.42) | Grasso +195 (2.95)<br><br>🥊 9. 𝗪𝗮𝗹𝗱𝗼 
+ 𝗖𝗼𝗿𝘁𝗲𝘀 𝗔𝗰𝗼𝘀𝘁𝗮 (#5) 🇩🇴 vs. 𝗖
+ 𝘂𝗿𝘁𝗶𝘀 𝗕𝗹𝗮𝘆𝗱𝗲𝘀 (#6) 🇺🇸 - 265lbs/1
+ 20kg Heavyweight · Est. 22:30 Ireland<br>    Cortes Acosta: 17-3-0 | 34yo
+  | Odds -205 (1.49)<br>    Blaydes: 19-6-0 | 35yo | Odds +170 (2.70)<br>  
+   Odds history:<br>      12 Sep: Cortes Acosta -205 (1.49) | Blaydes +170 
+ (2.70)<br><br>🥊 8. 𝗗𝗮𝘃𝗶𝗱 𝗠𝗮𝗿𝘁𝗶𝗻𝗲
+ 𝘇 (#8) 🇲🇽 vs. 𝗗𝗮𝗻 𝗜𝗴𝗲 🇺🇸 - 135lbs/61kg Ba
+ ntamweight · Est. 22:00 Ireland<br>    Martinez: 14-1-0 | 28yo | Odds -38
+ 0 (1.26)<br>    Ige: 19-10-0 | 35yo | Odds +300 (4.00)<br>    Odds history
+ :<br>      12 Sep: Martinez -380 (1.26) | Ige +300 (4.00)<br><br>── PR
+ ELIMS · 7 bouts ──<br><br>🥊 7. 𝗧𝗶𝗺 𝗘𝗹𝗹𝗶𝗼
+ 𝘁𝘁 🇺🇸 vs. 𝗘𝗱𝗴𝗮𝗿 𝗖𝗵𝗮𝗶𝗿𝗲𝘇 
+ 🇲🇽 - Catchweight · Est. 21:35 Ireland<br>    Elliott: 22-14-1 | 39y
+ o | Odds +175 (2.75)<br>    Chairez: 14-6-0 | 30yo | Odds -210 (1.48)<br> 
+    Odds history:<br>      12 Sep: Elliott +175 (2.75) | Chairez -210 (1.48
+ )<br><br>🥊 6. 𝗜𝗴𝗻𝗮𝗰𝗶𝗼 𝗕𝗮𝗵𝗮𝗺𝗼𝗻
+ 𝗱𝗲𝘀 🇨🇱 vs. 𝗠𝘂𝘀𝗹𝗶𝗺 𝗦𝗮𝗹𝗶𝗸
+ 𝗵𝗼𝘃 🇷🇺 - 170lbs/77kg Welterweight · Est. 21:10 Ireland<br>
+     Bahamondes: 17-7-0 | 29yo | Odds -550 (1.18)<br>    Salikhov: 22-6-0 |
+  42yo | Odds +400 (5.00)<br>    Odds history:<br>      12 Sep: Bahamondes 
+ -550 (1.18) | Salikhov +400 (5.00)<br><br>🥊 5. 𝗬𝗼𝘂𝘀𝗿𝗶
+  𝗕𝗲𝗹𝗴𝗮𝗿𝗼𝘂𝗶 🇳🇱 vs. 𝗗𝗷𝗼𝗿𝗱
+ 𝗲𝗻 𝗦𝗮𝗻𝘁𝗼𝘀 🇧🇷 - 185lbs/84kg Middleweight · E
+ st. 20:45 Ireland<br>    Belgaroui: 10-3-0 | 34yo | Odds -850 (1.12)<br>  
+   Santos: 11-3-0 | 29yo | Odds +575 (6.75)<br>    Odds history:<br>      1
+ 2 Sep: Belgaroui -850 (1.12) | Santos +575 (6.75)<br><br>🥊 4. 𝗗𝗿
+ 𝗮𝗸𝗸𝗮𝗿 𝗞𝗹𝗼𝘀𝗲 🇺🇸 vs. 𝗧𝗼𝗺𝗺
+ 𝘆 𝗚𝗮𝗻𝘁𝘁 🇺🇸 - 155lbs/70kg Lightweight · Est. 20:15
+  Ireland<br>    Klose: 16-3-1 | 38yo | Odds +375 (4.75)<br>    Gantt: 12-0
+ -0 | 33yo | Odds -500 (1.20)<br>    Odds history:<br>      12 Sep: Klose +
+ 375 (4.75) | Gantt -500 (1.20)<br><br>🥊 3. 𝗥𝗮𝗳𝗮 𝗚𝗮
+ 𝗿𝗰𝗶𝗮 🇲🇽 vs. 𝗥𝗼𝗻𝗴𝘇𝗵𝘂 🇨🇳 - 155l
+ bs/70kg Lightweight · Est. 19:50 Ireland<br>    Garcia: 19-4-0 | 32yo | O
+ dds +145 (2.45)<br>    Zhu: 28-6-0 | 26yo | Odds -175 (1.57)<br>    Odds h
+ istory:<br>      12 Sep: Garcia +145 (2.45) | Zhu -175 (1.57)<br><br>🥊 
+ 2. 𝗦𝗲𝗮𝗻 𝗞𝗶𝗻𝗴 𝗜𝗜𝗜 🇺🇸 vs. 𝗝𝗲
+ 𝘀𝘀𝗶𝗲 𝗥𝗼𝘀𝗮𝘀 🇲🇽 - 145lbs/66kg Featherweight
+  · Est. 19:25 Ireland<br>    King III: 6-0-0 | 22yo | Odds -190 (1.53)<br
+ >    Rosas: 8-1-0 | 23yo | Odds +160 (2.60)<br>    Odds history:<br>      
+ 12 Sep: King III -190 (1.53) | Rosas +160 (2.60)<br><br>🥊 1. 𝗝𝗝 
+ 𝗔𝗹𝗱𝗿𝗶𝗰𝗵 (#15) 🇺🇸 vs. 𝗥𝗲𝗴𝗶𝗻𝗮 
+ 𝗧𝗮𝗿𝗶𝗻 🇲🇽 - 125lbs/57kg Women&#39\;s Flyweight · Est.
+  19:00 Ireland<br>    Aldrich: 15-7-0 | 33yo | Odds unavailable<br>    Mal
+ pica Rivera: 8-0-0 | 21yo | Odds +165 (2.65)<br>    Odds history:<br>     
+  12 Sep: Aldrich unavailable | Malpica Rivera +165 (2.65)<br><br>Source: h
+ ttps://www.ufc.com/event/ufc-fight-night-september-12-2026<br><br>Full odd
+ s log: https://staircasewit.github.io/mmacalendar/odds-history.html<br><br
+ >Calendar updated: 2026-09-12T11:18:51.708Z<br><br>Event status: Scheduled
+  · verified 12 Sep 2026</p></body></html>
+LOCATION:Desert Diamond Arena\, Glendale\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-september-12-2026
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cryptocom-ufc-331-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260919T210000Z
+DTEND:20260920T040000Z
+SUMMARY:Crypto.com UFC 331: Van vs Pantoja 2
+DESCRIPTION:UFC · Complete Event · 13 announced bouts\n\n📍 Crypto.com 
+ Arena\, Los Angeles\, United States\n\n🕒 22:00–Sun 05:00 Ireland\n\nB
+ out times are estimates and may shift as the card progresses.\n\n── MA
+ IN CARD · 5 bouts ──\n\n🥊 13. 𝗝𝗼𝘀𝗵𝘂𝗮 𝗩𝗮
+ 𝗻 (C) 🇲🇲 vs. 𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗿𝗲 𝗣𝗮𝗻
+ 𝘁𝗼𝗷𝗮 (#1) 🇧🇷 - 125lbs/57kg Flyweight · Title Bout · Es
+ t. 04:25 Ireland\n    Van: 17-2-0 | 24yo | Odds -125 (1.80)\n    Pantoja: 
+ 30-6-0 | 36yo | Odds +100 (2.00)\n    Odds history:\n      12 Sep: Van -12
+ 5 (1.80) | Pantoja +100 (2.00)\n\n🥊 12. 𝗔𝗿𝗺𝗮𝗻 𝗧𝘀
+ 𝗮𝗿𝘂𝗸𝘆𝗮𝗻 (#2) 🇦🇲 vs. 𝗠𝗮𝘂𝗿𝗶𝗰
+ 𝗶𝗼 𝗥𝘂𝗳𝗳𝘆 (#7) 🇧🇷 - 155lbs/70kg Lightweight · E
+ st. 03:50 Ireland\n    Tsarukyan: 23-3-0 | 29yo | Odds -380 (1.26)\n    Ru
+ ffy: 14-2-0 | 30yo | Odds +300 (4.00)\n    Odds history:\n      12 Sep: Ts
+ arukyan -380 (1.26) | Ruffy +300 (4.00)\n\n🥊 11. 𝗣𝗮𝘁𝗿𝗶
+ 𝗰𝗶𝗼 𝗣𝗶𝘁𝗯𝘂𝗹𝗹 (#15) 🇧🇷 vs. 𝗗𝗼𝗼
+ 𝗵𝗼 𝗖𝗵𝗼𝗶 🇰🇷 - 145lbs/66kg Featherweight · Est. 03:
+ 10 Ireland\n    Freire: 37-9-0 | 39yo | Odds +200 (3.00)\n    Choi: 17-4-1
+  | 35yo | Odds -250 (1.40)\n    Odds history:\n      12 Sep: Freire +200 (
+ 3.00) | Choi -250 (1.40)\n\n🥊 10. 𝗥𝗲𝗻𝗮𝘁𝗼 𝗠𝗼𝗶
+ 𝗰𝗮𝗻𝗼 (#11) 🇧🇷 vs. 𝗕𝗿𝗶𝗮𝗻 𝗢𝗿𝘁𝗲
+ 𝗴𝗮 🇺🇸 - 155lbs/70kg Lightweight · Est. 02:35 Ireland\n    Moi
+ cano: 21-7-1 | 37yo | Odds -200 (1.50)\n    Ortega: 16-5-0 | 35yo | Odds +
+ 165 (2.65)\n    Odds history:\n      12 Sep: Moicano -200 (1.50) | Ortega 
+ +165 (2.65)\n\n🥊 9. 𝗔𝗹𝗼𝗻𝘇𝗼 𝗠𝗲𝗻𝗶𝗳𝗶
+ 𝗲𝗹𝗱 (#14) 🇺🇸 vs. 𝗜𝘄𝗼 𝗕𝗮𝗿𝗮𝗻𝗶𝗲
+ 𝘄𝘀𝗸𝗶 🇵🇱 - 205lbs/93kg Light Heavyweight · Est. 02:00 Ir
+ eland\n    Menifield: 18-6-1 | 38yo | Odds +190 (2.90)\n    Baraniewski: 9
+ -0-0 | 27yo | Odds -230 (1.43)\n    Odds history:\n      12 Sep: Menifield
+  +190 (2.90) | Baraniewski -230 (1.43)\n\n── PRELIMS · 4 bouts ──
+ \n\n🥊 8. 𝗚𝗮𝗯𝗹𝗲 𝗦𝘁𝗲𝘃𝗲𝘀𝗼𝗻 🇺🇸
+  vs. 𝗦𝗲𝗮𝗻 𝗦𝗵𝗮𝗿𝗮𝗳 🇺🇸 - 265lbs/120kg Hea
+ vyweight · Est. 01:30 Ireland\n    Steveson: 4-0-0 | 26yo | Odds -1100 (1
+ .09)\n    Sharaf: 4-2-0 | 33yo | Odds +700 (8.00)\n    Odds history:\n    
+   12 Sep: Steveson -1100 (1.09) | Sharaf +700 (8.00)\n\n🥊 7. 𝗠𝗮
+ 𝗿𝗹𝗼𝗻 𝗩𝗲𝗿𝗮 (#10) 🇪🇨 vs. 𝗖𝗵𝗮𝗿𝗹
+ 𝗲𝘀 𝗝𝗼𝘂𝗿𝗱𝗮𝗶𝗻 🇨🇦 - 135lbs/61kg Bantamwei
+ ght · Est. 01:00 Ireland\n    Vera: 23-12-1 | 33yo | Odds +200 (3.00)\n  
+   Jourdain: 18-8-1 | 30yo | Odds -245 (1.41)\n    Odds history:\n      12 
+ Sep: Vera +200 (3.00) | Jourdain -245 (1.41)\n\n🥊 6. 𝗧𝗮𝗶 𝗧
+ 𝘂𝗶𝘃𝗮𝘀𝗮 🇦🇺 vs. 𝗥𝗼𝗯𝗲𝗹𝗶𝘀 𝗗
+ 𝗲𝘀𝗽𝗮𝗶𝗴𝗻𝗲 🇨🇺 - 265lbs/120kg Heavyweight · Es
+ t. 00:30 Ireland\n    Tuivasa: 15-10-0 | 33yo | Odds +500 (6.00)\n    Desp
+ aigne: 5-2-0 | 38yo | Odds -700 (1.14)\n    Odds history:\n      12 Sep: T
+ uivasa +500 (6.00) | Despaigne -700 (1.14)\n\n🥊 5. 𝗠𝗶𝗰𝗵𝗮
+ 𝗲𝗹 𝗔𝘀𝘄𝗲𝗹𝗹 𝗝𝗿. 🇺🇸 vs. 𝗝𝗼𝗼𝗦
+ 𝗮𝗻𝗴 𝗬𝗼𝗼 🇰🇷 - 145lbs/66kg Featherweight · Est. 00:
+ 00 Ireland\n    Aswell Jr.: 11-5-0 | 25yo | Odds unavailable\n    Yoo: 9-1
+ -0 | 32yo | Odds unavailable\n    Odds history: not checked yet\n\n── 
+ EARLY PRELIMS · 4 bouts ──\n\n🥊 4. 𝗥𝘆𝗮𝗻 𝗚𝗮𝗻
+ 𝗱𝗿𝗮 🇧🇷 vs. 𝗢𝘇𝘇𝘆 𝗗𝗶𝗮𝘇 🇺🇸 - 185
+ lbs/84kg Middleweight · Est. 23:30 Ireland\n    Gandra: 10-1-0 | 31yo | O
+ dds unavailable\n    Diaz: 10-3-0 | 35yo | Odds unavailable\n    Odds hist
+ ory: not checked yet\n\n🥊 3. 𝗘𝗱𝗺𝗲𝗻 𝗦𝗵𝗮𝗵𝗯
+ 𝗮𝘇𝘆𝗮𝗻 🇺🇸 vs. 𝗕𝗿𝘂𝗻𝗻𝗼 𝗙𝗲𝗿
+ 𝗿𝗲𝗶𝗿𝗮 🇧🇷 - 185lbs/84kg Middleweight · Est. 23:00 Ire
+ land\n    Shahbazyan: 16-6-0 | 28yo | Odds unavailable\n    Ferreira: 15-4
+ -0 | 33yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 2.
+  𝗖𝗮𝘀𝗲𝘆 𝗢'𝗡𝗲𝗶𝗹𝗹 (#12) 🇦🇺 vs. 𝗘
+ 𝗱𝘂𝗮𝗿𝗱𝗮 𝗠𝗼𝘂𝗿𝗮 (#13) 🇧🇷 - 125lbs/57kg
+  Women's Flyweight · Est. 22:30 Ireland\n    O'Neill: 11-2-0 | 28yo | Odd
+ s -180 (1.56)\n    Moura: 12-2-0 | 32yo | Odds +150 (2.50)\n    Odds histo
+ ry:\n      12 Sep: O'Neill -180 (1.56) | Moura +150 (2.50)\n\n🥊 1. 𝗚
+ 𝗶𝗴𝗮 𝗖𝗵𝗶𝗸𝗮𝗱𝘇𝗲 🇬🇪 vs. 𝗝𝗼𝗮
+ 𝗻𝗱𝗲𝗿𝘀𝗼𝗻 𝗕𝗿𝗶𝘁𝗼 🇧🇷 - 145lbs/66kg F
+ eatherweight · Est. 22:00 Ireland\n    Chikadze: 15-6-0 | 38yo | Odds +27
+ 0 (3.70)\n    Brito: 19-5-1 | 31yo | Odds -340 (1.29)\n    Odds history:\n
+       12 Sep: Chikadze +270 (3.70) | Brito -340 (1.29)\n\nSource: https://
+ www.ufc.com/event/cryptocom-ufc-331\n\nFull odds log: https://staircasewit
+ .github.io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T1
+ 1:18:51.708Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 13 ann
+ ounced bouts<br><br>📍 Crypto.com Arena\, Los Angeles\, United States<br
+ ><br>🕒 22:00–Sun 05:00 Ireland<br><br>Bout times are estimates and ma
+ y shift as the card progresses.<br><br>── MAIN CARD · 5 bouts ──<
+ br><br>🥊 13. 𝗝𝗼𝘀𝗵𝘂𝗮 𝗩𝗮𝗻 (C) 🇲🇲 vs. 
+ 𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗿𝗲 𝗣𝗮𝗻𝘁𝗼𝗷𝗮 (#1) 
+ 🇧🇷 - 125lbs/57kg Flyweight · Title Bout · Est. 04:25 Ireland<br>  
+   Van: 17-2-0 | 24yo | Odds -125 (1.80)<br>    Pantoja: 30-6-0 | 36yo | Od
+ ds +100 (2.00)<br>    Odds history:<br>      12 Sep: Van -125 (1.80) | Pan
+ toja +100 (2.00)<br><br>🥊 12. 𝗔𝗿𝗺𝗮𝗻 𝗧𝘀𝗮𝗿𝘂
+ 𝗸𝘆𝗮𝗻 (#2) 🇦🇲 vs. 𝗠𝗮𝘂𝗿𝗶𝗰𝗶𝗼 𝗥
+ 𝘂𝗳𝗳𝘆 (#7) 🇧🇷 - 155lbs/70kg Lightweight · Est. 03:50 Ire
+ land<br>    Tsarukyan: 23-3-0 | 29yo | Odds -380 (1.26)<br>    Ruffy: 14-2
+ -0 | 30yo | Odds +300 (4.00)<br>    Odds history:<br>      12 Sep: Tsaruky
+ an -380 (1.26) | Ruffy +300 (4.00)<br><br>🥊 11. 𝗣𝗮𝘁𝗿𝗶
+ 𝗰𝗶𝗼 𝗣𝗶𝘁𝗯𝘂𝗹𝗹 (#15) 🇧🇷 vs. 𝗗𝗼𝗼
+ 𝗵𝗼 𝗖𝗵𝗼𝗶 🇰🇷 - 145lbs/66kg Featherweight · Est. 03:
+ 10 Ireland<br>    Freire: 37-9-0 | 39yo | Odds +200 (3.00)<br>    Choi: 17
+ -4-1 | 35yo | Odds -250 (1.40)<br>    Odds history:<br>      12 Sep: Freir
+ e +200 (3.00) | Choi -250 (1.40)<br><br>🥊 10. 𝗥𝗲𝗻𝗮𝘁𝗼 
+ 𝗠𝗼𝗶𝗰𝗮𝗻𝗼 (#11) 🇧🇷 vs. 𝗕𝗿𝗶𝗮𝗻 𝗢
+ 𝗿𝘁𝗲𝗴𝗮 🇺🇸 - 155lbs/70kg Lightweight · Est. 02:35 Irel
+ and<br>    Moicano: 21-7-1 | 37yo | Odds -200 (1.50)<br>    Ortega: 16-5-0
+  | 35yo | Odds +165 (2.65)<br>    Odds history:<br>      12 Sep: Moicano -
+ 200 (1.50) | Ortega +165 (2.65)<br><br>🥊 9. 𝗔𝗹𝗼𝗻𝘇𝗼 
+ 𝗠𝗲𝗻𝗶𝗳𝗶𝗲𝗹𝗱 (#14) 🇺🇸 vs. 𝗜𝘄𝗼 𝗕
+ 𝗮𝗿𝗮𝗻𝗶𝗲𝘄𝘀𝗸𝗶 🇵🇱 - 205lbs/93kg Light Heav
+ yweight · Est. 02:00 Ireland<br>    Menifield: 18-6-1 | 38yo | Odds +190 
+ (2.90)<br>    Baraniewski: 9-0-0 | 27yo | Odds -230 (1.43)<br>    Odds his
+ tory:<br>      12 Sep: Menifield +190 (2.90) | Baraniewski -230 (1.43)<br>
+ <br>── PRELIMS · 4 bouts ──<br><br>🥊 8. 𝗚𝗮𝗯𝗹𝗲 
+ 𝗦𝘁𝗲𝘃𝗲𝘀𝗼𝗻 🇺🇸 vs. 𝗦𝗲𝗮𝗻 𝗦𝗵
+ 𝗮𝗿𝗮𝗳 🇺🇸 - 265lbs/120kg Heavyweight · Est. 01:30 Ireland
+ <br>    Steveson: 4-0-0 | 26yo | Odds -1100 (1.09)<br>    Sharaf: 4-2-0 | 
+ 33yo | Odds +700 (8.00)<br>    Odds history:<br>      12 Sep: Steveson -11
+ 00 (1.09) | Sharaf +700 (8.00)<br><br>🥊 7. 𝗠𝗮𝗿𝗹𝗼𝗻 
+ 𝗩𝗲𝗿𝗮 (#10) 🇪🇨 vs. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗝𝗼
+ 𝘂𝗿𝗱𝗮𝗶𝗻 🇨🇦 - 135lbs/61kg Bantamweight · Est. 01:00
+  Ireland<br>    Vera: 23-12-1 | 33yo | Odds +200 (3.00)<br>    Jourdain: 1
+ 8-8-1 | 30yo | Odds -245 (1.41)<br>    Odds history:<br>      12 Sep: Vera
+  +200 (3.00) | Jourdain -245 (1.41)<br><br>🥊 6. 𝗧𝗮𝗶 𝗧𝘂
+ 𝗶𝘃𝗮𝘀𝗮 🇦🇺 vs. 𝗥𝗼𝗯𝗲𝗹𝗶𝘀 𝗗𝗲
+ 𝘀𝗽𝗮𝗶𝗴𝗻𝗲 🇨🇺 - 265lbs/120kg Heavyweight · Est. 0
+ 0:30 Ireland<br>    Tuivasa: 15-10-0 | 33yo | Odds +500 (6.00)<br>    Desp
+ aigne: 5-2-0 | 38yo | Odds -700 (1.14)<br>    Odds history:<br>      12 Se
+ p: Tuivasa +500 (6.00) | Despaigne -700 (1.14)<br><br>🥊 5. 𝗠𝗶𝗰
+ 𝗵𝗮𝗲𝗹 𝗔𝘀𝘄𝗲𝗹𝗹 𝗝𝗿. 🇺🇸 vs. 𝗝𝗼
+ 𝗼𝗦𝗮𝗻𝗴 𝗬𝗼𝗼 🇰🇷 - 145lbs/66kg Featherweight · 
+ Est. 00:00 Ireland<br>    Aswell Jr.: 11-5-0 | 25yo | Odds unavailable<br>
+     Yoo: 9-1-0 | 32yo | Odds unavailable<br>    Odds history: not checked 
+ yet<br><br>── EARLY PRELIMS · 4 bouts ──<br><br>🥊 4. 𝗥𝘆
+ 𝗮𝗻 𝗚𝗮𝗻𝗱𝗿𝗮 🇧🇷 vs. 𝗢𝘇𝘇𝘆 𝗗𝗶
+ 𝗮𝘇 🇺🇸 - 185lbs/84kg Middleweight · Est. 23:30 Ireland<br>    
+ Gandra: 10-1-0 | 31yo | Odds unavailable<br>    Diaz: 10-3-0 | 35yo | Odds
+  unavailable<br>    Odds history: not checked yet<br><br>🥊 3. 𝗘𝗱
+ 𝗺𝗲𝗻 𝗦𝗵𝗮𝗵𝗯𝗮𝘇𝘆𝗮𝗻 🇺🇸 vs. 𝗕
+ 𝗿𝘂𝗻𝗻𝗼 𝗙𝗲𝗿𝗿𝗲𝗶𝗿𝗮 🇧🇷 - 185lbs/84
+ kg Middleweight · Est. 23:00 Ireland<br>    Shahbazyan: 16-6-0 | 28yo | O
+ dds unavailable<br>    Ferreira: 15-4-0 | 33yo | Odds unavailable<br>    O
+ dds history: not checked yet<br><br>🥊 2. 𝗖𝗮𝘀𝗲𝘆 𝗢&#39\
+ ;𝗡𝗲𝗶𝗹𝗹 (#12) 🇦🇺 vs. 𝗘𝗱𝘂𝗮𝗿𝗱𝗮 𝗠
+ 𝗼𝘂𝗿𝗮 (#13) 🇧🇷 - 125lbs/57kg Women&#39\;s Flyweight · Es
+ t. 22:30 Ireland<br>    O&#39\;Neill: 11-2-0 | 28yo | Odds -180 (1.56)<br>
+     Moura: 12-2-0 | 32yo | Odds +150 (2.50)<br>    Odds history:<br>      
+ 12 Sep: O&#39\;Neill -180 (1.56) | Moura +150 (2.50)<br><br>🥊 1. 𝗚
+ 𝗶𝗴𝗮 𝗖𝗵𝗶𝗸𝗮𝗱𝘇𝗲 🇬🇪 vs. 𝗝𝗼𝗮
+ 𝗻𝗱𝗲𝗿𝘀𝗼𝗻 𝗕𝗿𝗶𝘁𝗼 🇧🇷 - 145lbs/66kg F
+ eatherweight · Est. 22:00 Ireland<br>    Chikadze: 15-6-0 | 38yo | Odds +
+ 270 (3.70)<br>    Brito: 19-5-1 | 31yo | Odds -340 (1.29)<br>    Odds hist
+ ory:<br>      12 Sep: Chikadze +270 (3.70) | Brito -340 (1.29)<br><br>Sour
+ ce: https://www.ufc.com/event/cryptocom-ufc-331<br><br>Full odds log: http
+ s://staircasewit.github.io/mmacalendar/odds-history.html<br><br>Calendar u
+ pdated: 2026-09-12T11:18:51.708Z<br><br>Event status: Scheduled · verifie
+ d 12 Sep 2026</p></body></html>
+LOCATION:Crypto.com Arena\, Los Angeles\, United States
+URL:https://www.ufc.com/event/cryptocom-ufc-331
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-september-26-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20260926T210000Z
+DTEND:20260927T030000Z
+SUMMARY:UFC Fight Night: Rosas Jr. vs Barcelos
+DESCRIPTION:UFC · Complete Event · 11 announced bouts\n\n📍 Meta APEX\,
+  Las Vegas\, United States\n\n🕒 22:00–Sun 04:00 Ireland\n\nBout times
+  are estimates and may shift as the card progresses.\n\n── MAIN CARD 
+ · 6 bouts ──\n\n🥊 11. 𝗥𝗮𝘂𝗹 𝗥𝗼𝘀𝗮𝘀 𝗝
+ 𝗿. (#12) 🇲🇽 vs. 𝗥𝗮𝗼𝗻𝗶 𝗕𝗮𝗿𝗰𝗲𝗹𝗼
+ 𝘀 (#13) 🇧🇷 - 135lbs/61kg Bantamweight · Est. 03:30 Ireland\n    
+ Rosas Jr.: 13-1-0 | 21yo | Odds unavailable\n    Barcelos: 22-5-0 | 39yo |
+  Odds unavailable\n    Odds history: not checked yet\n\n🥊 10. 𝗥𝗼
+ 𝗱𝗼𝗹𝗳𝗼 𝗩𝗶𝗲𝗶𝗿𝗮 🇧🇷 vs. 𝗥𝗼𝗯
+ 𝗲𝗿𝘁 𝗕𝗿𝘆𝗰𝘇𝗲𝗸 🇵🇱 - 185lbs/84kg Middlewei
+ ght · Est. 03:00 Ireland\n    Vieira: 11-5-0 | 37yo | Odds unavailable\n 
+    Bryczek: 18-7-0 | 36yo | Odds unavailable\n    Odds history: not checke
+ d yet\n\n🥊 9. 𝗕𝗿𝗮𝗱𝘆 𝗛𝗶𝗲𝘀𝘁𝗮𝗻𝗱 
+ 🇺🇸 vs. 𝗥𝗶𝗻𝘆𝗮 𝗡𝗮𝗸𝗮𝗺𝘂𝗿𝗮 🇯
+ 🇵 - 135lbs/61kg Bantamweight · Est. 02:30 Ireland\n    Hiestand: 9-2-0
+  | 27yo | Odds unavailable\n    Nakamura: 10-1-0 | 31yo | Odds unavailable
+ \n    Odds history: not checked yet\n\n🥊 8. 𝗠𝗲𝗵𝗲𝗺𝗺
+ 𝗲𝗱𝗲𝗹𝗶 𝗢𝘀𝗺𝗮𝗻𝗹𝗶 vs. 𝗜𝗹𝗶𝗺𝗯
+ 𝗲𝗸 𝗔𝗸𝘆𝗹𝗯𝗲𝗸 - 135lbs/61kg Bantamweight · Est. 0
+ 2:00 Ireland\n    Osmanli: 0-0-0 | 22yo | Odds unavailable\n    Akylbek: 0
+ -0-0 | 23yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 
+ 7. 𝗠𝗲𝗹𝗶𝘀𝘀𝗮 𝗔𝗺𝗮𝘆𝗮 vs. 𝗩𝗮𝗹𝗲
+ 𝘀𝗰𝗮 𝗠𝗮𝗰𝗵𝗮𝗱𝗼 - 115lbs/52kg Women's Strawweigh
+ t · Est. 01:30 Ireland\n    Amaya: 0-0-0 | 31yo | Odds unavailable\n    M
+ achado: 0-1-0 | 30yo | Odds unavailable\n    Odds history: not checked yet
+ \n\n🥊 6. 𝗝𝗼𝘀𝗶𝗮𝗵 𝗛𝗮𝗿𝗿𝗲𝗹𝗹 🇺🇸
+  vs. 𝗘𝗹𝘃𝗲𝘀 𝗕𝗿𝗲𝗻𝗲𝗿 🇧🇷 - 155lbs/70kg 
+ Lightweight · Est. 01:00 Ireland\n    Harrell: 11-1-0 | 27yo | Odds unava
+ ilable\n    Brener: 16-6-0 | 29yo | Odds unavailable\n    Odds history: no
+ t checked yet\n\n── PRELIMS · 5 bouts ──\n\n🥊 5. 𝗥𝗼𝗱
+ 𝗼𝗹𝗳𝗼 𝗕𝗲𝗹𝗹𝗮𝘁𝗼 🇧🇷 vs. 𝗖𝗵𝗿
+ 𝗶𝘀𝘁𝗶𝗮𝗻 𝗘𝗱𝘄𝗮𝗿𝗱𝘀 🇺🇸 - 205lbs/93
+ kg Light Heavyweight · Est. Sun 00:25 Ireland\n    Bellato: 13-3-1 | 30yo
+  | Odds unavailable\n    Edwards: 8-5-0 | age unavailable | Odds unavailab
+ le\n    Odds history: not checked yet\n\n🥊 4. 𝗠𝗼𝗻𝘁𝗲𝗹 
+ 𝗝𝗮𝗰𝗸𝘀𝗼𝗻 🇺🇸 vs. 𝗥𝗶𝗰𝗸𝘆 𝗦𝗶
+ 𝗺𝗼𝗻 🇺🇸 - 135lbs/61kg Bantamweight · Est. 23:50 Ireland\n  
+   Jackson: 15-4-0 | 34yo | Odds unavailable\n    Simon: 22-7-1 | 34yo | Od
+ ds unavailable\n    Odds history: not checked yet\n\n🥊 3. 𝗝𝗼𝗵
+ 𝗻 𝗖𝗮𝘀𝘁𝗮𝗻𝗲𝗱𝗮 🇺🇸 vs. 𝗔𝗹𝗮𝘁
+ 𝗲𝗻𝗴𝗵𝗲𝗶𝗹𝗶 🇨🇳 - 135lbs/61kg Bantamweight · Es
+ t. 23:10 Ireland\n    Castaneda: 21-8-1 | 34yo | Odds unavailable\n    Ala
+ teng: 17-10-2 | 34yo | Odds unavailable\n    Odds history: not checked yet
+ \n\n🥊 2. 𝗡𝗼𝗿𝗺𝗮 𝗗𝘂𝗺𝗼𝗻𝘁 (#4) 🇧🇷 vs
+ . 𝗔𝗶𝗹𝗶𝗻 𝗣𝗲𝗿𝗲𝘇 (#5) 🇦🇷 - 135lbs/61kg Wo
+ men's Bantamweight · Est. 22:35 Ireland\n    Dumont: 13-3-0 | 35yo | Odds
+  unavailable\n    Perez: 13-2-0 | 31yo | Odds unavailable\n    Odds histor
+ y: not checked yet\n\n🥊 1. 𝗩𝗮𝗻𝗲𝘀𝘀𝗮 𝗗𝗲𝗺
+ 𝗼𝗽𝗼𝘂𝗹𝗼𝘀 🇺🇸 vs. 𝗬𝗮𝘇𝗺𝗶𝗻 𝗝
+ 𝗮𝘂𝗿𝗲𝗴𝘂𝗶 🇲🇽 - 115lbs/52kg Women's Strawweight ·
+  Est. 22:00 Ireland\n    Demopoulos: 11-8-0 | 38yo | Odds unavailable\n   
+  Jauregui: 11-2-0 | 27yo | Odds unavailable\n    Odds history: not checked
+  yet\n\nSource: https://www.ufc.com/event/ufc-fight-night-september-26-202
+ 6\n\nFull odds log: https://staircasewit.github.io/mmacalendar/odds-histor
+ y.html\n\nCalendar updated: 2026-09-12T11:18:51.708Z\n\nEvent status: Sche
+ duled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 11 ann
+ ounced bouts<br><br>📍 Meta APEX\, Las Vegas\, United States<br><br>🕒
+  22:00–Sun 04:00 Ireland<br><br>Bout times are estimates and may shift a
+ s the card progresses.<br><br>── MAIN CARD · 6 bouts ──<br><br>
+ 🥊 11. 𝗥𝗮𝘂𝗹 𝗥𝗼𝘀𝗮𝘀 𝗝𝗿. (#12) 🇲🇽 vs
+ . 𝗥𝗮𝗼𝗻𝗶 𝗕𝗮𝗿𝗰𝗲𝗹𝗼𝘀 (#13) 🇧🇷 - 1
+ 35lbs/61kg Bantamweight · Est. 03:30 Ireland<br>    Rosas Jr.: 13-1-0 | 2
+ 1yo | Odds unavailable<br>    Barcelos: 22-5-0 | 39yo | Odds unavailable<b
+ r>    Odds history: not checked yet<br><br>🥊 10. 𝗥𝗼𝗱𝗼𝗹
+ 𝗳𝗼 𝗩𝗶𝗲𝗶𝗿𝗮 🇧🇷 vs. 𝗥𝗼𝗯𝗲𝗿𝘁 
+ 𝗕𝗿𝘆𝗰𝘇𝗲𝗸 🇵🇱 - 185lbs/84kg Middleweight · Est. 0
+ 3:00 Ireland<br>    Vieira: 11-5-0 | 37yo | Odds unavailable<br>    Brycze
+ k: 18-7-0 | 36yo | Odds unavailable<br>    Odds history: not checked yet<b
+ r><br>🥊 9. 𝗕𝗿𝗮𝗱𝘆 𝗛𝗶𝗲𝘀𝘁𝗮𝗻𝗱 🇺
+ 🇸 vs. 𝗥𝗶𝗻𝘆𝗮 𝗡𝗮𝗸𝗮𝗺𝘂𝗿𝗮 🇯🇵 - 
+ 135lbs/61kg Bantamweight · Est. 02:30 Ireland<br>    Hiestand: 9-2-0 | 27
+ yo | Odds unavailable<br>    Nakamura: 10-1-0 | 31yo | Odds unavailable<br
+ >    Odds history: not checked yet<br><br>🥊 8. 𝗠𝗲𝗵𝗲𝗺𝗺
+ 𝗲𝗱𝗲𝗹𝗶 𝗢𝘀𝗺𝗮𝗻𝗹𝗶 vs. 𝗜𝗹𝗶𝗺𝗯
+ 𝗲𝗸 𝗔𝗸𝘆𝗹𝗯𝗲𝗸 - 135lbs/61kg Bantamweight · Est. 0
+ 2:00 Ireland<br>    Osmanli: 0-0-0 | 22yo | Odds unavailable<br>    Akylbe
+ k: 0-0-0 | 23yo | Odds unavailable<br>    Odds history: not checked yet<br
+ ><br>🥊 7. 𝗠𝗲𝗹𝗶𝘀𝘀𝗮 𝗔𝗺𝗮𝘆𝗮 vs. 𝗩
+ 𝗮𝗹𝗲𝘀𝗰𝗮 𝗠𝗮𝗰𝗵𝗮𝗱𝗼 - 115lbs/52kg Women&
+ #39\;s Strawweight · Est. 01:30 Ireland<br>    Amaya: 0-0-0 | 31yo | Odds
+  unavailable<br>    Machado: 0-1-0 | 30yo | Odds unavailable<br>    Odds h
+ istory: not checked yet<br><br>🥊 6. 𝗝𝗼𝘀𝗶𝗮𝗵 𝗛𝗮
+ 𝗿𝗿𝗲𝗹𝗹 🇺🇸 vs. 𝗘𝗹𝘃𝗲𝘀 𝗕𝗿𝗲𝗻
+ 𝗲𝗿 🇧🇷 - 155lbs/70kg Lightweight · Est. 01:00 Ireland<br>    H
+ arrell: 11-1-0 | 27yo | Odds unavailable<br>    Brener: 16-6-0 | 29yo | Od
+ ds unavailable<br>    Odds history: not checked yet<br><br>── PRELIMS 
+ · 5 bouts ──<br><br>🥊 5. 𝗥𝗼𝗱𝗼𝗹𝗳𝗼 𝗕𝗲𝗹
+ 𝗹𝗮𝘁𝗼 🇧🇷 vs. 𝗖𝗵𝗿𝗶𝘀𝘁𝗶𝗮𝗻 𝗘
+ 𝗱𝘄𝗮𝗿𝗱𝘀 🇺🇸 - 205lbs/93kg Light Heavyweight · Est. 
+ Sun 00:25 Ireland<br>    Bellato: 13-3-1 | 30yo | Odds unavailable<br>    
+ Edwards: 8-5-0 | age unavailable | Odds unavailable<br>    Odds history: n
+ ot checked yet<br><br>🥊 4. 𝗠𝗼𝗻𝘁𝗲𝗹 𝗝𝗮𝗰𝗸
+ 𝘀𝗼𝗻 🇺🇸 vs. 𝗥𝗶𝗰𝗸𝘆 𝗦𝗶𝗺𝗼𝗻 🇺
+ 🇸 - 135lbs/61kg Bantamweight · Est. 23:50 Ireland<br>    Jackson: 15-4
+ -0 | 34yo | Odds unavailable<br>    Simon: 22-7-1 | 34yo | Odds unavailabl
+ e<br>    Odds history: not checked yet<br><br>🥊 3. 𝗝𝗼𝗵𝗻 
+ 𝗖𝗮𝘀𝘁𝗮𝗻𝗲𝗱𝗮 🇺🇸 vs. 𝗔𝗹𝗮𝘁𝗲𝗻
+ 𝗴𝗵𝗲𝗶𝗹𝗶 🇨🇳 - 135lbs/61kg Bantamweight · Est. 23:10
+  Ireland<br>    Castaneda: 21-8-1 | 34yo | Odds unavailable<br>    Alateng
+ : 17-10-2 | 34yo | Odds unavailable<br>    Odds history: not checked yet<b
+ r><br>🥊 2. 𝗡𝗼𝗿𝗺𝗮 𝗗𝘂𝗺𝗼𝗻𝘁 (#4) 🇧🇷 
+ vs. 𝗔𝗶𝗹𝗶𝗻 𝗣𝗲𝗿𝗲𝘇 (#5) 🇦🇷 - 135lbs/61kg 
+ Women&#39\;s Bantamweight · Est. 22:35 Ireland<br>    Dumont: 13-3-0 | 35
+ yo | Odds unavailable<br>    Perez: 13-2-0 | 31yo | Odds unavailable<br>  
+   Odds history: not checked yet<br><br>🥊 1. 𝗩𝗮𝗻𝗲𝘀𝘀
+ 𝗮 𝗗𝗲𝗺𝗼𝗽𝗼𝘂𝗹𝗼𝘀 🇺🇸 vs. 𝗬𝗮𝘇
+ 𝗺𝗶𝗻 𝗝𝗮𝘂𝗿𝗲𝗴𝘂𝗶 🇲🇽 - 115lbs/52kg Women
+ &#39\;s Strawweight · Est. 22:00 Ireland<br>    Demopoulos: 11-8-0 | 38yo
+  | Odds unavailable<br>    Jauregui: 11-2-0 | 27yo | Odds unavailable<br> 
+    Odds history: not checked yet<br><br>Source: https://www.ufc.com/event/
+ ufc-fight-night-september-26-2026<br><br>Full odds log: https://staircasew
+ it.github.io/mmacalendar/odds-history.html<br><br>Calendar updated: 2026-0
+ 9-12T11:18:51.708Z<br><br>Event status: Scheduled · verified 12 Sep 2026<
+ /p></body></html>
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-332-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20261003T200000Z
+DTEND:20261004T030000Z
+SUMMARY:UFC 332: Silva vs Wang
+DESCRIPTION:UFC · Complete Event · 12 announced bouts\n\n📍 Delta Cente
+ r\, Salt Lake City\, United States\n\n🕒 21:00–Sun 04:00 Ireland\n\nBo
+ ut times are estimates and may shift as the card progresses.\n\n── MAI
+ N CARD · 5 bouts ──\n\n🥊 12. 𝗡𝗮𝘁𝗮𝗹𝗶𝗮 𝗦𝗶
+ 𝗹𝘃𝗮 (#1) 🇧🇷 vs. 𝗪𝗮𝗻𝗴 𝗖𝗼𝗻𝗴 (#8) 🇨
+ 🇳 - 125lbs/57kg Women's Flyweight · Title Bout · Est. 03:25 Ireland\n
+     Silva: 20-5-1 | 29yo | Odds -230 (1.43)\n    Cong: 10-1-0 | 34yo | Odd
+ s +190 (2.90)\n    Odds history:\n      12 Sep: Silva -230 (1.43) | Cong +
+ 190 (2.90)\n\n🥊 11. 𝗗𝗲𝗶𝘃𝗲𝘀𝗼𝗻 𝗙𝗶𝗴𝘂
+ 𝗲𝗶𝗿𝗲𝗱𝗼 (#9) 🇧🇷 vs. 𝗣𝗮𝘆𝘁𝗼𝗻 𝗧
+ 𝗮𝗹𝗯𝗼𝘁𝘁 (#11) 🇺🇸 - 135lbs/61kg Bantamweight · Est.
+  02:50 Ireland\n    Figueiredo: 25-7-1 | 38yo | Odds +410 (5.10)\n    Talb
+ ott: 11-1-0 | 28yo | Odds -550 (1.18)\n    Odds history:\n      12 Sep: Fi
+ gueiredo +410 (5.10) | Talbott -550 (1.18)\n\n🥊 10. 𝗞𝗶𝗻𝗴 
+ 𝗚𝗿𝗲𝗲𝗻 🇺🇸 vs. 𝗘𝘀𝘁𝗲𝗯𝗮𝗻 𝗥𝗶
+ 𝗯𝗼𝘃𝗶𝗰𝘀 🇦🇷 - 155lbs/70kg Lightweight · Est. 02:10 
+ Ireland\n    Green: 36-17-1 | 40yo | Odds unavailable\n    Ribovics: 16-3-
+ 0 | 30yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 9. 
+ 𝗥𝗼𝗯𝗲𝗿𝘁𝗼 𝗦𝗼𝗹𝗱𝗶𝗰 🇭🇷 vs. 𝗞
+ 𝗵𝗮𝗼𝘀 𝗪𝗶𝗹𝗹𝗶𝗮𝗺𝘀 🇺🇸 - 170lbs/77kg W
+ elterweight · Est. 01:35 Ireland\n    Soldic: 0-0-0 | 31yo | Odds unavail
+ able\n    Williams: 16-5-0 | 32yo | Odds unavailable\n    Odds history: no
+ t checked yet\n\n🥊 8. 𝗔𝘁𝗲𝗯𝗮 𝗚𝗮𝘂𝘁𝗶𝗲𝗿
+  🇨🇲 vs. 𝗥𝗼𝗺𝗮𝗻 𝗞𝗼𝗽𝘆𝗹𝗼𝘃 🇷🇺 -
+  185lbs/84kg Middleweight · Est. 01:00 Ireland\n    Gautier: 11-1-0 | 24y
+ o | Odds unavailable\n    Kopylov: 15-5-0 | 34yo | Odds unavailable\n    O
+ dds history: not checked yet\n\n── PRELIMS · 3 bouts ──\n\n🥊 7
+ . 𝗜𝗺𝗮𝗻𝗼𝗹 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 🇲🇽 v
+ s. 𝗔𝗹𝗱𝗲𝗻 𝗖𝗼𝗿𝗶𝗮 🇺🇸 - 125lbs/57kg Flywei
+ ght · Est. Sun 00:20 Ireland\n    Rodriguez: 7-0-0 | 26yo | Odds unavaila
+ ble\n    Coria: 13-3-0 | 28yo | Odds unavailable\n    Odds history: not ch
+ ecked yet\n\n🥊 6. 𝗗𝗮𝗺𝗶𝗮𝗻 𝗣𝗶𝗻𝗮𝘀 🇦
+ 🇼 vs. 𝗔𝗻𝗱𝗿𝗲𝘆 𝗣𝘂𝗹𝘆𝗮𝗲𝘃 🇷🇺 - 
+ 185lbs/84kg Middleweight · Est. 23:40 Ireland\n    Pinas: 10-1-0 | 24yo |
+  Odds unavailable\n    Pulyaev: 10-3-0 | 29yo | Odds unavailable\n    Odds
+  history: not checked yet\n\n🥊 5. 𝗠𝗮𝗿𝗰𝘂𝘀 𝗠𝗰𝗚
+ 𝗵𝗲𝗲 (#15) 🇺🇸 vs. 𝗕𝗲𝗻𝗮𝗿𝗱𝗼 𝗦𝗼𝗽
+ 𝗮𝗷 🇦🇱 - 135lbs/61kg Bantamweight · Est. 23:00 Ireland\n    Mc
+ Ghee: 11-2-0 | 36yo | Odds unavailable\n    Sopaj: 13-3-0 | 26yo | Odds un
+ available\n    Odds history: not checked yet\n\n── EARLY PRELIMS · 4 
+ bouts ──\n\n🥊 4. 𝗝𝗼𝗵𝗻𝗻𝘆 𝗪𝗮𝗹𝗸𝗲𝗿 
+ 🇧🇷 vs. 𝗠𝗶𝗰𝗸 𝗣𝗮𝗿𝗸𝗶𝗻 🇪🇳 - 265lbs/1
+ 20kg Heavyweight · Est. 22:30 Ireland\n    Walker: 22-10-0 | 34yo | Odds 
+ unavailable\n    Parkin: 10-1-0 | 31yo | Odds unavailable\n    Odds histor
+ y: not checked yet\n\n🥊 3. 𝗥𝗮𝗳𝗮𝗲𝗹 𝗗𝗼𝘀 𝗔
+ 𝗻𝗷𝗼𝘀 🇧🇷 vs. 𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗲𝗿 𝗛
+ 𝗲𝗿𝗻𝗮𝗻𝗱𝗲𝘇 🇺🇸 - 155lbs/70kg Lightweight · Est
+ . 22:00 Ireland\n    Dos Anjos: 32-17-0 | 41yo | Odds unavailable\n    Her
+ nandez: 18-9-0 | 34yo | Odds unavailable\n    Odds history: not checked ye
+ t\n\n🥊 2. 𝗠𝗮𝗿𝘃𝗶𝗻 𝗩𝗲𝘁𝘁𝗼𝗿𝗶 🇮
+ 🇹 vs. 𝗜𝘀𝗺𝗮𝗶𝗹 𝗡𝗮𝘂𝗿𝗱𝗶𝗲𝘃 🇲
+ 🇦 - 185lbs/84kg Middleweight · Est. 21:30 Ireland\n    Vettori: 19-10-
+ 1 | 33yo | Odds unavailable\n    Naurdiev: 25-8-0 | 30yo | Odds unavailabl
+ e\n    Odds history: not checked yet\n\n🥊 1. 𝗖𝗼𝘂𝗿𝘁 𝗠
+ 𝗰𝗚𝗲𝗲 🇺🇸 vs. 𝗘𝗿𝗶𝗰 𝗡𝗼𝗹𝗮𝗻 🇺
+ 🇸 - 170lbs/77kg Welterweight · Est. 21:00 Ireland\n    McGee: 23-14-0 
+ | 41yo | Odds unavailable\n    Nolan: 8-5-0 | 29yo | Odds unavailable\n   
+  Odds history: not checked yet\n\nSource: https://www.ufc.com/event/ufc-33
+ 2\n\nFull odds log: https://staircasewit.github.io/mmacalendar/odds-histor
+ y.html\n\nCalendar updated: 2026-09-12T11:18:51.708Z\n\nEvent status: Sche
+ duled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 12 ann
+ ounced bouts<br><br>📍 Delta Center\, Salt Lake City\, United States<br>
+ <br>🕒 21:00–Sun 04:00 Ireland<br><br>Bout times are estimates and may
+  shift as the card progresses.<br><br>── MAIN CARD · 5 bouts ──<b
+ r><br>🥊 12. 𝗡𝗮𝘁𝗮𝗹𝗶𝗮 𝗦𝗶𝗹𝘃𝗮 (#1) 🇧
+ 🇷 vs. 𝗪𝗮𝗻𝗴 𝗖𝗼𝗻𝗴 (#8) 🇨🇳 - 125lbs/57kg Wom
+ en&#39\;s Flyweight · Title Bout · Est. 03:25 Ireland<br>    Silva: 20-5
+ -1 | 29yo | Odds -230 (1.43)<br>    Cong: 10-1-0 | 34yo | Odds +190 (2.90)
+ <br>    Odds history:<br>      12 Sep: Silva -230 (1.43) | Cong +190 (2.90
+ )<br><br>🥊 11. 𝗗𝗲𝗶𝘃𝗲𝘀𝗼𝗻 𝗙𝗶𝗴𝘂𝗲
+ 𝗶𝗿𝗲𝗱𝗼 (#9) 🇧🇷 vs. 𝗣𝗮𝘆𝘁𝗼𝗻 𝗧𝗮
+ 𝗹𝗯𝗼𝘁𝘁 (#11) 🇺🇸 - 135lbs/61kg Bantamweight · Est. 02:
+ 50 Ireland<br>    Figueiredo: 25-7-1 | 38yo | Odds +410 (5.10)<br>    Talb
+ ott: 11-1-0 | 28yo | Odds -550 (1.18)<br>    Odds history:<br>      12 Sep
+ : Figueiredo +410 (5.10) | Talbott -550 (1.18)<br><br>🥊 10. 𝗞𝗶
+ 𝗻𝗴 𝗚𝗿𝗲𝗲𝗻 🇺🇸 vs. 𝗘𝘀𝘁𝗲𝗯𝗮𝗻 
+ 𝗥𝗶𝗯𝗼𝘃𝗶𝗰𝘀 🇦🇷 - 155lbs/70kg Lightweight · Est
+ . 02:10 Ireland<br>    Green: 36-17-1 | 40yo | Odds unavailable<br>    Rib
+ ovics: 16-3-0 | 30yo | Odds unavailable<br>    Odds history: not checked y
+ et<br><br>🥊 9. 𝗥𝗼𝗯𝗲𝗿𝘁𝗼 𝗦𝗼𝗹𝗱𝗶𝗰 
+ 🇭🇷 vs. 𝗞𝗵𝗮𝗼𝘀 𝗪𝗶𝗹𝗹𝗶𝗮𝗺𝘀 🇺
+ 🇸 - 170lbs/77kg Welterweight · Est. 01:35 Ireland<br>    Soldic: 0-0-0
+  | 31yo | Odds unavailable<br>    Williams: 16-5-0 | 32yo | Odds unavailab
+ le<br>    Odds history: not checked yet<br><br>🥊 8. 𝗔𝘁𝗲𝗯
+ 𝗮 𝗚𝗮𝘂𝘁𝗶𝗲𝗿 🇨🇲 vs. 𝗥𝗼𝗺𝗮𝗻 𝗞
+ 𝗼𝗽𝘆𝗹𝗼𝘃 🇷🇺 - 185lbs/84kg Middleweight · Est. 01:00
+  Ireland<br>    Gautier: 11-1-0 | 24yo | Odds unavailable<br>    Kopylov: 
+ 15-5-0 | 34yo | Odds unavailable<br>    Odds history: not checked yet<br><
+ br>── PRELIMS · 3 bouts ──<br><br>🥊 7. 𝗜𝗺𝗮𝗻𝗼
+ 𝗹 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 🇲🇽 vs. 𝗔𝗹𝗱𝗲
+ 𝗻 𝗖𝗼𝗿𝗶𝗮 🇺🇸 - 125lbs/57kg Flyweight · Est. Sun 00:
+ 20 Ireland<br>    Rodriguez: 7-0-0 | 26yo | Odds unavailable<br>    Coria:
+  13-3-0 | 28yo | Odds unavailable<br>    Odds history: not checked yet<br>
+ <br>🥊 6. 𝗗𝗮𝗺𝗶𝗮𝗻 𝗣𝗶𝗻𝗮𝘀 🇦🇼 vs. 
+ 𝗔𝗻𝗱𝗿𝗲𝘆 𝗣𝘂𝗹𝘆𝗮𝗲𝘃 🇷🇺 - 185lbs/84
+ kg Middleweight · Est. 23:40 Ireland<br>    Pinas: 10-1-0 | 24yo | Odds u
+ navailable<br>    Pulyaev: 10-3-0 | 29yo | Odds unavailable<br>    Odds hi
+ story: not checked yet<br><br>🥊 5. 𝗠𝗮𝗿𝗰𝘂𝘀 𝗠𝗰
+ 𝗚𝗵𝗲𝗲 (#15) 🇺🇸 vs. 𝗕𝗲𝗻𝗮𝗿𝗱𝗼 𝗦𝗼
+ 𝗽𝗮𝗷 🇦🇱 - 135lbs/61kg Bantamweight · Est. 23:00 Ireland<br>
+     McGhee: 11-2-0 | 36yo | Odds unavailable<br>    Sopaj: 13-3-0 | 26yo |
+  Odds unavailable<br>    Odds history: not checked yet<br><br>── EARLY
+  PRELIMS · 4 bouts ──<br><br>🥊 4. 𝗝𝗼𝗵𝗻𝗻𝘆 𝗪
+ 𝗮𝗹𝗸𝗲𝗿 🇧🇷 vs. 𝗠𝗶𝗰𝗸 𝗣𝗮𝗿𝗸𝗶
+ 𝗻 🇪🇳 - 265lbs/120kg Heavyweight · Est. 22:30 Ireland<br>    Walk
+ er: 22-10-0 | 34yo | Odds unavailable<br>    Parkin: 10-1-0 | 31yo | Odds 
+ unavailable<br>    Odds history: not checked yet<br><br>🥊 3. 𝗥𝗮
+ 𝗳𝗮𝗲𝗹 𝗗𝗼𝘀 𝗔𝗻𝗷𝗼𝘀 🇧🇷 vs. 𝗔𝗹
+ 𝗲𝘅𝗮𝗻𝗱𝗲𝗿 𝗛𝗲𝗿𝗻𝗮𝗻𝗱𝗲𝘇 🇺🇸
+  - 155lbs/70kg Lightweight · Est. 22:00 Ireland<br>    Dos Anjos: 32-17-0
+  | 41yo | Odds unavailable<br>    Hernandez: 18-9-0 | 34yo | Odds unavaila
+ ble<br>    Odds history: not checked yet<br><br>🥊 2. 𝗠𝗮𝗿𝘃
+ 𝗶𝗻 𝗩𝗲𝘁𝘁𝗼𝗿𝗶 🇮🇹 vs. 𝗜𝘀𝗺𝗮𝗶
+ 𝗹 𝗡𝗮𝘂𝗿𝗱𝗶𝗲𝘃 🇲🇦 - 185lbs/84kg Middleweight 
+ · Est. 21:30 Ireland<br>    Vettori: 19-10-1 | 33yo | Odds unavailable<br
+ >    Naurdiev: 25-8-0 | 30yo | Odds unavailable<br>    Odds history: not c
+ hecked yet<br><br>🥊 1. 𝗖𝗼𝘂𝗿𝘁 𝗠𝗰𝗚𝗲𝗲 🇺
+ 🇸 vs. 𝗘𝗿𝗶𝗰 𝗡𝗼𝗹𝗮𝗻 🇺🇸 - 170lbs/77kg Welt
+ erweight · Est. 21:00 Ireland<br>    McGee: 23-14-0 | 41yo | Odds unavail
+ able<br>    Nolan: 8-5-0 | 29yo | Odds unavailable<br>    Odds history: no
+ t checked yet<br><br>Source: https://www.ufc.com/event/ufc-332<br><br>Full
+  odds log: https://staircasewit.github.io/mmacalendar/odds-history.html<br
+ ><br>Calendar updated: 2026-09-12T11:18:51.708Z<br><br>Event status: Sched
+ uled · verified 12 Sep 2026</p></body></html>
+LOCATION:Delta Center\, Salt Lake City\, United States
+URL:https://www.ufc.com/event/ufc-332
+CATEGORIES:UFC,Complete Event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-10-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20261010T210000Z
+DTEND:20261011T030000Z
+SUMMARY:UFC Fight Night: Allen vs Duncan
+DESCRIPTION:UFC · Complete Event · 1 announced bouts\n\n📍 Meta APEX\, 
+ Las Vegas\, United States\n\n🕒 22:00–Sun 04:00 Ireland\n\nBout times 
+ are estimates and may shift as the card progresses.\n\n── MAIN CARD ·
+  1 announced · placement TBD ──\n\n🥊 1. 𝗕𝗿𝗲𝗻𝗱𝗮
+ 𝗻 𝗔𝗹𝗹𝗲𝗻 (#4) 🇧🇷 vs. 𝗖𝗵𝗿𝗶𝘀𝘁𝗶
+ 𝗮𝗻 𝗟𝗲𝗿𝗼𝘆 𝗗𝘂𝗻𝗰𝗮𝗻 (#10) 🇪🇳 - 18
+ 5lbs/84kg Middleweight · Est. Sat 22:00 Ireland\n    Allen: 27-7-0 | 30yo
+  | Odds unavailable\n    Duncan: 15-2-0 | 31yo | Odds unavailable\n    Odd
+ s history: not checked yet\n\n── PRELIMS · fight card TBD ──\n\nN
+ o bouts assigned yet.\n\nSource: https://www.ufc.com/event/ufc-fight-night
+ -october-10-2026\n\nFull odds log: https://staircasewit.github.io/mmacalen
+ dar/odds-history.html\n\nCalendar updated: 2026-09-12T11:18:51.708Z\n\nEve
+ nt status: Scheduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 1 anno
+ unced bouts<br><br>📍 Meta APEX\, Las Vegas\, United States<br><br>🕒 
+ 22:00–Sun 04:00 Ireland<br><br>Bout times are estimates and may shift as
+  the card progresses.<br><br>── MAIN CARD · 1 announced · placement 
+ TBD ──<br><br>🥊 1. 𝗕𝗿𝗲𝗻𝗱𝗮𝗻 𝗔𝗹𝗹𝗲
+ 𝗻 (#4) 🇧🇷 vs. 𝗖𝗵𝗿𝗶𝘀𝘁𝗶𝗮𝗻 𝗟𝗲𝗿
+ 𝗼𝘆 𝗗𝘂𝗻𝗰𝗮𝗻 (#10) 🇪🇳 - 185lbs/84kg Middleweigh
+ t · Est. Sat 22:00 Ireland<br>    Allen: 27-7-0 | 30yo | Odds unavailable
+ <br>    Duncan: 15-2-0 | 31yo | Odds unavailable<br>    Odds history: not 
+ checked yet<br><br>── PRELIMS · fight card TBD ──<br><br>No bouts
+  assigned yet.<br><br>Source: https://www.ufc.com/event/ufc-fight-night-oc
+ tober-10-2026<br><br>Full odds log: https://staircasewit.github.io/mmacale
+ ndar/odds-history.html<br><br>Calendar updated: 2026-09-12T11:18:51.708Z<b
+ r><br>Event status: Scheduled · verified 12 Sep 2026</p></body></html>
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
+CATEGORIES:UFC,Complete Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-17-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20261017T210000Z
+DTEND:20261018T030000Z
+SUMMARY:UFC Fight Night: Buckley vs Malott
+DESCRIPTION:UFC · Complete Event · 12 announced bouts\n\n📍 Rogers Plac
+ e\, Edmonton\, Canada\n\n🕒 22:00–Sun 04:00 Ireland\n\nBout times are 
+ estimates and may shift as the card progresses.\n\n── MAIN CARD · 12 
+ announced · placement TBD ──\n\n🥊 12. 𝗝𝗼𝗮𝗾𝘂𝗶𝗻
+  𝗕𝘂𝗰𝗸𝗹𝗲𝘆 (#10) 🇺🇸 vs. 𝗠𝗶𝗸𝗲 𝗠𝗮
+ 𝗹𝗼𝘁𝘁 (#13) 🇨🇦 - 170lbs/77kg Welterweight · Est. 03:30 I
+ reland\n    Buckley: 21-8-0 | 32yo | Odds unavailable\n    Malott: 14-2-1 
+ | 34yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 11. 
+ 𝗖𝗼𝗱𝘆 𝗖𝗵𝗼𝘃𝗮𝗻𝗰𝗲𝗸 🇨🇦 vs. 𝗦
+ 𝘂𝗬𝗼𝘂𝗻𝗴 𝗬𝗼𝘂 🇰🇷 - 135lbs/61kg Bantamweight 
+ · Est. 03:00 Ireland\n    Chovancek: 1-0-0 | 28yo | Odds unavailable\n   
+  You: 16-4-0 | 30yo | Odds unavailable\n    Odds history: not checked yet\
+ n\n🥊 10. 𝗘𝗿𝗶𝗻 𝗕𝗹𝗮𝗻𝗰𝗵𝗳𝗶𝗲𝗹𝗱 
+ (#4) 🇺🇸 vs. 𝗝𝗮𝘀𝗺𝗶𝗻𝗲 𝗝𝗮𝘀𝘂𝗱𝗮
+ 𝘃𝗶𝗰𝗶𝘂𝘀 (#7) 🇨🇦 - 125lbs/57kg Women's Flyweight · 
+ Est. 02:30 Ireland\n    Blanchfield: 14-2-0 | 27yo | Odds unavailable\n   
+  Jasudavicius: 15-4-0 | 37yo | Odds unavailable\n    Odds history: not che
+ cked yet\n\n🥊 9. 𝗝𝗮𝘃𝗮𝗱 𝗠𝗮𝗵𝗷𝗼𝘂𝗯 vs. 
+ 𝗟𝗼𝘂𝗶𝗲 𝗦𝘂𝘁𝗵𝗲𝗿𝗹𝗮𝗻𝗱 🇪🇳 - 2
+ 65lbs/120kg Heavyweight · Est. 02:00 Ireland\n    Mahjoub: 0-0-0 | 35yo |
+  Odds unavailable\n    Sutherland: 11-6-0 | 32yo | Odds unavailable\n    O
+ dds history: not checked yet\n\n🥊 8. 𝗖𝗵𝗮𝗱 𝗔𝗻𝗵𝗲
+ 𝗹𝗶𝗴𝗲𝗿 🇨🇦 vs. 𝗦𝘁𝗲𝘃𝗲𝗻 𝗞𝗼𝘀
+ 𝗹𝗼𝘄 🇺🇸 - 135lbs/61kg Bantamweight · Est. 01:30 Ireland\n  
+   Anheliger: 13-8-0 | 39yo | Odds unavailable\n    Koslow: 6-1-0 | 29yo | 
+ Odds unavailable\n    Odds history: not checked yet\n\n🥊 7. 𝗠𝗮
+ 𝗿𝗰-𝗔𝗻𝗱𝗿𝗲 𝗕𝗮𝗿𝗿𝗶𝗮𝘂𝗹𝘁 🇨
+ 🇦 vs. 𝗞𝘆𝗹𝗲 𝗗𝗮𝘂𝗸𝗮𝘂𝘀 🇺🇸 - 185lbs/8
+ 4kg Middleweight · Est. 01:00 Ireland\n    Barriault: 17-11-0 | 36yo | Od
+ ds unavailable\n    Daukaus: 17-4-0 | 33yo | Odds unavailable\n    Odds hi
+ story: not checked yet\n\n🥊 6. 𝗝𝗮𝗺𝗲𝘆-𝗟𝘆𝗻 𝗛
+ 𝗼𝗿𝘁𝗵 🇨🇦 vs. 𝗞𝗮𝘁𝗹𝘆𝗻 𝗖𝗲𝗿𝗺
+ 𝗶𝗻𝗮𝗿𝗮 🇺🇸 - 125lbs/57kg Women's Flyweight · Est. 00:3
+ 0 Ireland\n    Horth: 9-3-0 | 36yo | Odds unavailable\n    Cerminara: 18-6
+ -0 | 37yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 5.
+  𝗧𝗮𝗻𝗻𝗲𝗿 𝗕𝗼𝘀𝗲𝗿 🇨🇦 vs. 𝗝𝗵𝗼
+ 𝗻𝗮𝘁𝗮 𝗗𝗶𝗻𝗶𝘇 🇧🇷 - 265lbs/120kg Heavyweight 
+ · Est. 00:00 Ireland\n    Boser: 22-11-1 | 35yo | Odds unavailable\n    D
+ iniz: 9-2-0 | 35yo | Odds unavailable\n    Odds history: not checked yet\n
+ \n🥊 4. 𝗠𝗮𝗻𝗱𝗲𝗹 𝗡𝗮𝗹𝗹𝗼 🇨🇦 vs. 𝗡
+ 𝗮𝘁𝗲 𝗟𝗮𝗻𝗱𝘄𝗲𝗵𝗿 🇺🇸 - 155lbs/70kg Light
+ weight · Est. Sat 23:30 Ireland\n    Nallo: 14-4-0 | 37yo | Odds unavaila
+ ble\n    Landwehr: 18-8-0 | 38yo | Odds unavailable\n    Odds history: not
+  checked yet\n\n🥊 3. 𝗠𝗲𝗹𝗶𝘀𝘀𝗮 𝗖𝗿𝗼𝗱𝗲
+ 𝗻 (#15) 🇨🇦 vs. 𝗖𝗵𝗲𝗹𝘀𝗲𝗮 𝗖𝗵𝗮𝗻𝗱
+ 𝗹𝗲𝗿 🇺🇸 - 135lbs/61kg Women's Bantamweight · Est. Sat 23:00
+  Ireland\n    Croden: 8-3-0 | 35yo | Odds unavailable\n    Chandler: 7-4-0
+  | 35yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 2. 
+ 𝗟𝗼𝘂𝗶𝘀 𝗝𝗼𝘂𝗿𝗱𝗮𝗶𝗻 🇨🇦 vs. 𝗧
+ 𝗶𝗺𝗺𝘆 𝗖𝘂𝗮𝗺𝗯𝗮 🇺🇸 - 135lbs/61kg Bantamwei
+ ght · Est. Sat 22:30 Ireland\n    Jourdain: 1-0-0 | 29yo | Odds unavailab
+ le\n    Cuamba: 10-4-0 | 27yo | Odds unavailable\n    Odds history: not ch
+ ecked yet\n\n🥊 1. 𝗝𝘂𝗹𝗶𝗲𝗻 𝗟𝗲𝗯𝗹𝗮𝗻𝗰
+  🇨🇦 vs. 𝗚𝗶𝗹𝗯𝗲𝗿𝘁 𝗨𝗿𝗯𝗶𝗻𝗮 🇺
+ 🇸 - 185lbs/84kg Middleweight · Est. Sat 22:00 Ireland\n    Leblanc: 10
+ -3-0 | 34yo | Odds unavailable\n    Urbina: 8-5-0 | 30yo | Odds unavailabl
+ e\n    Odds history: not checked yet\n\n── PRELIMS · fight card TBD 
+ ──\n\nNo bouts assigned yet.\n\nSource: https://www.ufc.com/event/ufc-
+ fight-night-october-17-2026\n\nFull odds log: https://staircasewit.github.
+ io/mmacalendar/odds-history.html\n\nCalendar updated: 2026-09-12T11:18:51.
+ 708Z\n\nEvent status: Scheduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 12 ann
+ ounced bouts<br><br>📍 Rogers Place\, Edmonton\, Canada<br><br>🕒 22:0
+ 0–Sun 04:00 Ireland<br><br>Bout times are estimates and may shift as the
+  card progresses.<br><br>── MAIN CARD · 12 announced · placement TBD
+  ──<br><br>🥊 12. 𝗝𝗼𝗮𝗾𝘂𝗶𝗻 𝗕𝘂𝗰𝗸𝗹
+ 𝗲𝘆 (#10) 🇺🇸 vs. 𝗠𝗶𝗸𝗲 𝗠𝗮𝗹𝗼𝘁𝘁 (#13
+ ) 🇨🇦 - 170lbs/77kg Welterweight · Est. 03:30 Ireland<br>    Buckley
+ : 21-8-0 | 32yo | Odds unavailable<br>    Malott: 14-2-1 | 34yo | Odds una
+ vailable<br>    Odds history: not checked yet<br><br>🥊 11. 𝗖𝗼𝗱
+ 𝘆 𝗖𝗵𝗼𝘃𝗮𝗻𝗰𝗲𝗸 🇨🇦 vs. 𝗦𝘂𝗬𝗼
+ 𝘂𝗻𝗴 𝗬𝗼𝘂 🇰🇷 - 135lbs/61kg Bantamweight · Est. 03:0
+ 0 Ireland<br>    Chovancek: 1-0-0 | 28yo | Odds unavailable<br>    You: 16
+ -4-0 | 30yo | Odds unavailable<br>    Odds history: not checked yet<br><br
+ >🥊 10. 𝗘𝗿𝗶𝗻 𝗕𝗹𝗮𝗻𝗰𝗵𝗳𝗶𝗲𝗹𝗱 (#
+ 4) 🇺🇸 vs. 𝗝𝗮𝘀𝗺𝗶𝗻𝗲 𝗝𝗮𝘀𝘂𝗱𝗮𝘃
+ 𝗶𝗰𝗶𝘂𝘀 (#7) 🇨🇦 - 125lbs/57kg Women&#39\;s Flyweight ·
+  Est. 02:30 Ireland<br>    Blanchfield: 14-2-0 | 27yo | Odds unavailable<b
+ r>    Jasudavicius: 15-4-0 | 37yo | Odds unavailable<br>    Odds history: 
+ not checked yet<br><br>🥊 9. 𝗝𝗮𝘃𝗮𝗱 𝗠𝗮𝗵𝗷𝗼
+ 𝘂𝗯 vs. 𝗟𝗼𝘂𝗶𝗲 𝗦𝘂𝘁𝗵𝗲𝗿𝗹𝗮𝗻𝗱
+  🇪🇳 - 265lbs/120kg Heavyweight · Est. 02:00 Ireland<br>    Mahjoub:
+  0-0-0 | 35yo | Odds unavailable<br>    Sutherland: 11-6-0 | 32yo | Odds u
+ navailable<br>    Odds history: not checked yet<br><br>🥊 8. 𝗖𝗵
+ 𝗮𝗱 𝗔𝗻𝗵𝗲𝗹𝗶𝗴𝗲𝗿 🇨🇦 vs. 𝗦𝘁𝗲
+ 𝘃𝗲𝗻 𝗞𝗼𝘀𝗹𝗼𝘄 🇺🇸 - 135lbs/61kg Bantamweight 
+ · Est. 01:30 Ireland<br>    Anheliger: 13-8-0 | 39yo | Odds unavailable<b
+ r>    Koslow: 6-1-0 | 29yo | Odds unavailable<br>    Odds history: not che
+ cked yet<br><br>🥊 7. 𝗠𝗮𝗿𝗰-𝗔𝗻𝗱𝗿𝗲 𝗕𝗮𝗿
+ 𝗿𝗶𝗮𝘂𝗹𝘁 🇨🇦 vs. 𝗞𝘆𝗹𝗲 𝗗𝗮𝘂𝗸
+ 𝗮𝘂𝘀 🇺🇸 - 185lbs/84kg Middleweight · Est. 01:00 Ireland<br>
+     Barriault: 17-11-0 | 36yo | Odds unavailable<br>    Daukaus: 17-4-0 | 
+ 33yo | Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 6
+ . 𝗝𝗮𝗺𝗲𝘆-𝗟𝘆𝗻 𝗛𝗼𝗿𝘁𝗵 🇨🇦 vs. 𝗞
+ 𝗮𝘁𝗹𝘆𝗻 𝗖𝗲𝗿𝗺𝗶𝗻𝗮𝗿𝗮 🇺🇸 - 125lb
+ s/57kg Women&#39\;s Flyweight · Est. 00:30 Ireland<br>    Horth: 9-3-0 | 
+ 36yo | Odds unavailable<br>    Cerminara: 18-6-0 | 37yo | Odds unavailable
+ <br>    Odds history: not checked yet<br><br>🥊 5. 𝗧𝗮𝗻𝗻𝗲
+ 𝗿 𝗕𝗼𝘀𝗲𝗿 🇨🇦 vs. 𝗝𝗵𝗼𝗻𝗮𝘁𝗮 𝗗
+ 𝗶𝗻𝗶𝘇 🇧🇷 - 265lbs/120kg Heavyweight · Est. 00:00 Ireland
+ <br>    Boser: 22-11-1 | 35yo | Odds unavailable<br>    Diniz: 9-2-0 | 35y
+ o | Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 4. 
+ 𝗠𝗮𝗻𝗱𝗲𝗹 𝗡𝗮𝗹𝗹𝗼 🇨🇦 vs. 𝗡𝗮𝘁
+ 𝗲 𝗟𝗮𝗻𝗱𝘄𝗲𝗵𝗿 🇺🇸 - 155lbs/70kg Lightweight 
+ · Est. Sat 23:30 Ireland<br>    Nallo: 14-4-0 | 37yo | Odds unavailable<b
+ r>    Landwehr: 18-8-0 | 38yo | Odds unavailable<br>    Odds history: not 
+ checked yet<br><br>🥊 3. 𝗠𝗲𝗹𝗶𝘀𝘀𝗮 𝗖𝗿𝗼𝗱
+ 𝗲𝗻 (#15) 🇨🇦 vs. 𝗖𝗵𝗲𝗹𝘀𝗲𝗮 𝗖𝗵𝗮𝗻
+ 𝗱𝗹𝗲𝗿 🇺🇸 - 135lbs/61kg Women&#39\;s Bantamweight · Est. 
+ Sat 23:00 Ireland<br>    Croden: 8-3-0 | 35yo | Odds unavailable<br>    Ch
+ andler: 7-4-0 | 35yo | Odds unavailable<br>    Odds history: not checked y
+ et<br><br>🥊 2. 𝗟𝗼𝘂𝗶𝘀 𝗝𝗼𝘂𝗿𝗱𝗮𝗶𝗻 
+ 🇨🇦 vs. 𝗧𝗶𝗺𝗺𝘆 𝗖𝘂𝗮𝗺𝗯𝗮 🇺🇸 - 135l
+ bs/61kg Bantamweight · Est. Sat 22:30 Ireland<br>    Jourdain: 1-0-0 | 29
+ yo | Odds unavailable<br>    Cuamba: 10-4-0 | 27yo | Odds unavailable<br> 
+    Odds history: not checked yet<br><br>🥊 1. 𝗝𝘂𝗹𝗶𝗲𝗻 
+ 𝗟𝗲𝗯𝗹𝗮𝗻𝗰 🇨🇦 vs. 𝗚𝗶𝗹𝗯𝗲𝗿𝘁 
+ 𝗨𝗿𝗯𝗶𝗻𝗮 🇺🇸 - 185lbs/84kg Middleweight · Est. Sat 2
+ 2:00 Ireland<br>    Leblanc: 10-3-0 | 34yo | Odds unavailable<br>    Urbin
+ a: 8-5-0 | 30yo | Odds unavailable<br>    Odds history: not checked yet<br
+ ><br>── PRELIMS · fight card TBD ──<br><br>No bouts assigned yet.
+ <br><br>Source: https://www.ufc.com/event/ufc-fight-night-october-17-2026<
+ br><br>Full odds log: https://staircasewit.github.io/mmacalendar/odds-hist
+ ory.html<br><br>Calendar updated: 2026-09-12T11:18:51.708Z<br><br>Event st
+ atus: Scheduled · verified 12 Sep 2026</p></body></html>
+LOCATION:Rogers Place\, Edmonton\, Canada
+URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
+CATEGORIES:UFC,Complete Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-333-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20261024T140000Z
+DTEND:20261024T210000Z
+SUMMARY:UFC 333: Volkanovski vs Evloev
+DESCRIPTION:UFC · Complete Event · 9 announced bouts\n\n📍 Etihad Arena
+ \, Yas Island/Yas West\, United Arab Emirates\n\n🕒 15:00–22:00 Irelan
+ d\n\nBout times are estimates and may shift as the card progresses.\n\n─
+ ─ MAIN CARD · 9 announced · placement TBD ──\n\n🥊 9. 𝗔𝗹
+ 𝗲𝘅𝗮𝗻𝗱𝗲𝗿 𝗩𝗼𝗹𝗸𝗮𝗻𝗼𝘃𝘀𝗸𝗶 
+ (C) 🇦🇺 vs. 𝗠𝗼𝘃𝘀𝗮𝗿 𝗘𝘃𝗹𝗼𝗲𝘃 (#1) 
+ 🇷🇺 - 145lbs/66kg Featherweight · Title Bout · Est. 21:15 Ireland\n
+     Volkanovski: 28-4-0 | 38yo | Odds unavailable\n    Evloev: 20-0-0 | 32
+ yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 8. 𝗣
+ 𝗲𝘁𝗿 𝗬𝗮𝗻 (C) 🇷🇺 vs. 𝗠𝗲𝗿𝗮𝗯 𝗗𝘃
+ 𝗮𝗹𝗶𝘀𝗵𝘃𝗶𝗹𝗶 (#1) 🇬🇪 - 135lbs/61kg Bantamwei
+ ght · Title Bout · Est. 20:25 Ireland\n    Yan: 20-5-0 | 33yo | Odds una
+ vailable\n    Dvalishvili: 21-5-0 | 35yo | Odds unavailable\n    Odds hist
+ ory: not checked yet\n\n🥊 7. 𝗔𝗿𝗻𝗼𝗹𝗱 𝗔𝗹𝗹𝗲
+ 𝗻 (#7) 🇪🇳 vs. 𝗔𝗮𝗿𝗼𝗻 𝗣𝗶𝗰𝗼 (#12) 🇺
+ 🇸 - 145lbs/66kg Featherweight · Est. 19:40 Ireland\n    Allen: 21-4-0 
+ | 32yo | Odds unavailable\n    Pico: 14-5-0 | 30yo | Odds unavailable\n   
+  Odds history: not checked yet\n\n🥊 6. 𝗔𝘇𝗮𝗺𝗮𝘁 𝗠
+ 𝘂𝗿𝘇𝗮𝗸𝗮𝗻𝗼𝘃 (#8) 🇷🇺 vs. 𝗗𝗼𝗺𝗶
+ 𝗻𝗶𝗰𝗸 𝗥𝗲𝘆𝗲𝘀 (#10) 🇺🇸 - 205lbs/93kg Light H
+ eavyweight · Est. 18:55 Ireland\n    Murzakanov: 16-1-0 | 37yo | Odds una
+ vailable\n    Reyes: 16-5-0 | 36yo | Odds unavailable\n    Odds history: n
+ ot checked yet\n\n🥊 5. 𝗟𝗼𝗻𝗲’𝗲𝗿 𝗞𝗮𝘃𝗮𝗻
+ 𝗮𝗴𝗵 (#6) 🇪🇳 vs. 𝗥𝗮𝗺𝗮𝘇𝗮𝗻 𝗧𝗲𝗺
+ 𝗶𝗿𝗼𝘃 (#10) 🇺🇿 - 125lbs/57kg Flyweight · Est. 18:05 Irel
+ and\n    Kavanagh: 10-2-0 | 27yo | Odds unavailable\n    Temirov: 20-3-0 |
+  29yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 4. 
+ 𝗡𝗶𝗸𝗶𝘁𝗮 𝗞𝗿𝘆𝗹𝗼𝘃 (#15) 🇷🇺 vs. 𝗔
+ 𝗯𝗱𝘂𝗹 𝗥𝗮𝗸𝗵𝗺𝗮𝗻 𝗬𝗮𝗸𝗵𝘆𝗮𝗲
+ 𝘃 🇹🇷 - 205lbs/93kg Light Heavyweight · Est. 17:20 Ireland\n    K
+ rylov: 31-12-0 | 34yo | Odds unavailable\n    Yakhyaev: 10-0-0 | 25yo | Od
+ ds unavailable\n    Odds history: not checked yet\n\n🥊 3. 𝗔𝗹𝗲
+ 𝘅𝗮𝗻𝗱𝗲𝗿 𝗩𝗼𝗹𝗸𝗼𝘃 (#2) 🇷🇺 vs. 𝗥
+ 𝗶𝘇𝘃𝗮𝗻 𝗞𝘂𝗻𝗶𝗲𝘃 (#7) 🇷🇺 - 265lbs/120kg
+  Heavyweight · Est. 16:35 Ireland\n    Volkov: 40-11-0 | 38yo | Odds unav
+ ailable\n    Kuniev: 14-3-1 | 34yo | Odds unavailable\n    Odds history: n
+ ot checked yet\n\n🥊 2. 𝗔𝗯𝘂𝘀 𝗠𝗮𝗴𝗼𝗺𝗲𝗱
+ 𝗼𝘃 (#12) 🇩🇪 vs. 𝗖𝗮𝗺 𝗥𝗼𝘄𝘀𝘁𝗼𝗻 🇦
+ 🇺 - 185lbs/84kg Middleweight · Est. 15:45 Ireland\n    Magomedov: 29-7
+ -1 | 36yo | Odds unavailable\n    Rowston: 15-3-0 | 31yo | Odds unavailabl
+ e\n    Odds history: not checked yet\n\n🥊 1. 𝗚𝗿𝗮𝗻𝘁 𝗗
+ 𝗮𝘄𝘀𝗼𝗻 🇺🇸 vs. 𝗡𝘂𝗿𝘂𝗹𝗹𝗼 𝗔𝗹
+ 𝗶𝗲𝘃 🇹🇯 - 155lbs/70kg Lightweight · Est. 15:00 Ireland\n   
+  Dawson: 24-3-1 | 32yo | Odds unavailable\n    Aliev: 12-0-0 | 25yo | Odds
+  unavailable\n    Odds history: not checked yet\n\n── PRELIMS · fight
+  card TBD ──\n\nNo bouts assigned yet.\n\n── EARLY PRELIMS · figh
+ t card TBD ──\n\nNo bouts assigned yet.\n\nSource: https://www.ufc.com
+ /event/ufc-333\n\nFull odds log: https://staircasewit.github.io/mmacalenda
+ r/odds-history.html\n\nCalendar updated: 2026-09-12T11:18:51.708Z\n\nEvent
+  status: Scheduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 9 anno
+ unced bouts<br><br>📍 Etihad Arena\, Yas Island/Yas West\, United Arab E
+ mirates<br><br>🕒 15:00–22:00 Ireland<br><br>Bout times are estimates 
+ and may shift as the card progresses.<br><br>── MAIN CARD · 9 announc
+ ed · placement TBD ──<br><br>🥊 9. 𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗲
+ 𝗿 𝗩𝗼𝗹𝗸𝗮𝗻𝗼𝘃𝘀𝗸𝗶 (C) 🇦🇺 vs. 𝗠
+ 𝗼𝘃𝘀𝗮𝗿 𝗘𝘃𝗹𝗼𝗲𝘃 (#1) 🇷🇺 - 145lbs/66kg 
+ Featherweight · Title Bout · Est. 21:15 Ireland<br>    Volkanovski: 28-4
+ -0 | 38yo | Odds unavailable<br>    Evloev: 20-0-0 | 32yo | Odds unavailab
+ le<br>    Odds history: not checked yet<br><br>🥊 8. 𝗣𝗲𝘁𝗿 
+ 𝗬𝗮𝗻 (C) 🇷🇺 vs. 𝗠𝗲𝗿𝗮𝗯 𝗗𝘃𝗮𝗹𝗶
+ 𝘀𝗵𝘃𝗶𝗹𝗶 (#1) 🇬🇪 - 135lbs/61kg Bantamweight · Title
+  Bout · Est. 20:25 Ireland<br>    Yan: 20-5-0 | 33yo | Odds unavailable<b
+ r>    Dvalishvili: 21-5-0 | 35yo | Odds unavailable<br>    Odds history: n
+ ot checked yet<br><br>🥊 7. 𝗔𝗿𝗻𝗼𝗹𝗱 𝗔𝗹𝗹𝗲
+ 𝗻 (#7) 🇪🇳 vs. 𝗔𝗮𝗿𝗼𝗻 𝗣𝗶𝗰𝗼 (#12) 🇺
+ 🇸 - 145lbs/66kg Featherweight · Est. 19:40 Ireland<br>    Allen: 21-4-
+ 0 | 32yo | Odds unavailable<br>    Pico: 14-5-0 | 30yo | Odds unavailable<
+ br>    Odds history: not checked yet<br><br>🥊 6. 𝗔𝘇𝗮𝗺𝗮
+ 𝘁 𝗠𝘂𝗿𝘇𝗮𝗸𝗮𝗻𝗼𝘃 (#8) 🇷🇺 vs. 𝗗𝗼
+ 𝗺𝗶𝗻𝗶𝗰𝗸 𝗥𝗲𝘆𝗲𝘀 (#10) 🇺🇸 - 205lbs/93kg
+  Light Heavyweight · Est. 18:55 Ireland<br>    Murzakanov: 16-1-0 | 37yo 
+ | Odds unavailable<br>    Reyes: 16-5-0 | 36yo | Odds unavailable<br>    O
+ dds history: not checked yet<br><br>🥊 5. 𝗟𝗼𝗻𝗲’𝗲𝗿 
+ 𝗞𝗮𝘃𝗮𝗻𝗮𝗴𝗵 (#6) 🇪🇳 vs. 𝗥𝗮𝗺𝗮𝘇
+ 𝗮𝗻 𝗧𝗲𝗺𝗶𝗿𝗼𝘃 (#10) 🇺🇿 - 125lbs/57kg Flyweig
+ ht · Est. 18:05 Ireland<br>    Kavanagh: 10-2-0 | 27yo | Odds unavailable
+ <br>    Temirov: 20-3-0 | 29yo | Odds unavailable<br>    Odds history: not
+  checked yet<br><br>🥊 4. 𝗡𝗶𝗸𝗶𝘁𝗮 𝗞𝗿𝘆𝗹𝗼
+ 𝘃 (#15) 🇷🇺 vs. 𝗔𝗯𝗱𝘂𝗹 𝗥𝗮𝗸𝗵𝗺𝗮𝗻 
+ 𝗬𝗮𝗸𝗵𝘆𝗮𝗲𝘃 🇹🇷 - 205lbs/93kg Light Heavyweight 
+ · Est. 17:20 Ireland<br>    Krylov: 31-12-0 | 34yo | Odds unavailable<br>
+     Yakhyaev: 10-0-0 | 25yo | Odds unavailable<br>    Odds history: not ch
+ ecked yet<br><br>🥊 3. 𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗲𝗿 𝗩𝗼𝗹
+ 𝗸𝗼𝘃 (#2) 🇷🇺 vs. 𝗥𝗶𝘇𝘃𝗮𝗻 𝗞𝘂𝗻𝗶
+ 𝗲𝘃 (#7) 🇷🇺 - 265lbs/120kg Heavyweight · Est. 16:35 Ireland<br
+ >    Volkov: 40-11-0 | 38yo | Odds unavailable<br>    Kuniev: 14-3-1 | 34y
+ o | Odds unavailable<br>    Odds history: not checked yet<br><br>🥊 2. 
+ 𝗔𝗯𝘂𝘀 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝗼𝘃 (#12) 🇩🇪 vs. 
+ 𝗖𝗮𝗺 𝗥𝗼𝘄𝘀𝘁𝗼𝗻 🇦🇺 - 185lbs/84kg Middlewei
+ ght · Est. 15:45 Ireland<br>    Magomedov: 29-7-1 | 36yo | Odds unavailab
+ le<br>    Rowston: 15-3-0 | 31yo | Odds unavailable<br>    Odds history: n
+ ot checked yet<br><br>🥊 1. 𝗚𝗿𝗮𝗻𝘁 𝗗𝗮𝘄𝘀𝗼
+ 𝗻 🇺🇸 vs. 𝗡𝘂𝗿𝘂𝗹𝗹𝗼 𝗔𝗹𝗶𝗲𝘃 🇹
+ 🇯 - 155lbs/70kg Lightweight · Est. 15:00 Ireland<br>    Dawson: 24-3-1
+  | 32yo | Odds unavailable<br>    Aliev: 12-0-0 | 25yo | Odds unavailable<
+ br>    Odds history: not checked yet<br><br>── PRELIMS · fight card T
+ BD ──<br><br>No bouts assigned yet.<br><br>── EARLY PRELIMS · fig
+ ht card TBD ──<br><br>No bouts assigned yet.<br><br>Source: https://ww
+ w.ufc.com/event/ufc-333<br><br>Full odds log: https://staircasewit.github.
+ io/mmacalendar/odds-history.html<br><br>Calendar updated: 2026-09-12T11:18
+ :51.708Z<br><br>Event status: Scheduled · verified 12 Sep 2026</p></body>
+ </html>
+LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
+URL:https://www.ufc.com/event/ufc-333
+CATEGORIES:UFC,Complete Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-31-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20261031T210000Z
+DTEND:20261101T030000Z
+SUMMARY:UFC Fight Night: TBD vs TBD
+DESCRIPTION:UFC · Complete Event · 2 announced bouts\n\n📍 Meta APEX\, 
+ Las Vegas\, United States\n\n🕒 21:00–Sun 03:00 Ireland\n\nBout times 
+ are estimates and may shift as the card progresses.\n\n── MAIN CARD ·
+  2 announced · placement TBD ──\n\n🥊 2. 𝗟𝘂𝗰𝗶𝗮 𝗦
+ 𝘇𝗮𝗯𝗼𝘃𝗮 🇸🇰 vs. 𝗧𝗮𝗶𝗻𝗮𝗿𝗮 𝗟
+ 𝗶𝘀𝗯𝗼𝗮 🇧🇷 - 125lbs/57kg Women's Flyweight · Est. 00:0
+ 0 Ireland\n    Szabova: 0-0-0 | 28yo | Odds unavailable\n    Lisboa: 7-4-0
+  | 35yo | Odds unavailable\n    Odds history: not checked yet\n\n🥊 1. 
+ 𝗡𝗶𝗰𝗸 𝗞𝗹𝗲𝗶𝗻 🇺🇸 vs. 𝗝𝗼𝘀𝗲𝗽
+ 𝗵 𝗞𝗿𝗼𝗽𝘀𝗰𝗵𝗼𝘁 🇺🇸 - 185lbs/84kg Middlewei
+ ght · Est. Sat 21:00 Ireland\n    Klein: 6-3-0 | 31yo | Odds unavailable\
+ n    Kropschot: 1-0-0 | 31yo | Odds unavailable\n    Odds history: not che
+ cked yet\n\n── PRELIMS · fight card TBD ──\n\nNo bouts assigned y
+ et.\n\nSource: https://www.ufc.com/event/ufc-fight-night-october-31-2026\n
+ \nFull odds log: https://staircasewit.github.io/mmacalendar/odds-history.h
+ tml\n\nCalendar updated: 2026-09-12T11:18:51.708Z\n\nEvent status: Schedul
+ ed · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 2 anno
+ unced bouts<br><br>📍 Meta APEX\, Las Vegas\, United States<br><br>🕒 
+ 21:00–Sun 03:00 Ireland<br><br>Bout times are estimates and may shift as
+  the card progresses.<br><br>── MAIN CARD · 2 announced · placement 
+ TBD ──<br><br>🥊 2. 𝗟𝘂𝗰𝗶𝗮 𝗦𝘇𝗮𝗯𝗼𝘃
+ 𝗮 🇸🇰 vs. 𝗧𝗮𝗶𝗻𝗮𝗿𝗮 𝗟𝗶𝘀𝗯𝗼𝗮 
+ 🇧🇷 - 125lbs/57kg Women&#39\;s Flyweight · Est. 00:00 Ireland<br>   
+  Szabova: 0-0-0 | 28yo | Odds unavailable<br>    Lisboa: 7-4-0 | 35yo | Od
+ ds unavailable<br>    Odds history: not checked yet<br><br>🥊 1. 𝗡
+ 𝗶𝗰𝗸 𝗞𝗹𝗲𝗶𝗻 🇺🇸 vs. 𝗝𝗼𝘀𝗲𝗽𝗵 
+ 𝗞𝗿𝗼𝗽𝘀𝗰𝗵𝗼𝘁 🇺🇸 - 185lbs/84kg Middleweight 
+ · Est. Sat 21:00 Ireland<br>    Klein: 6-3-0 | 31yo | Odds unavailable<br
+ >    Kropschot: 1-0-0 | 31yo | Odds unavailable<br>    Odds history: not c
+ hecked yet<br><br>── PRELIMS · fight card TBD ──<br><br>No bouts 
+ assigned yet.<br><br>Source: https://www.ufc.com/event/ufc-fight-night-oct
+ ober-31-2026<br><br>Full odds log: https://staircasewit.github.io/mmacalen
+ dar/odds-history.html<br><br>Calendar updated: 2026-09-12T11:18:51.708Z<br
+ ><br>Event status: Scheduled · verified 12 Sep 2026</p></body></html>
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
+CATEGORIES:UFC,Complete Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-07-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20261107T200000Z
+DTEND:20261108T010000Z
+SUMMARY:UFC Fight Night: Bonfim vs Brady
+DESCRIPTION:UFC · Complete Event · 1 announced bouts\n\n📍 Meta APEX\, 
+ Las Vegas\, United States\n\n🕒 20:00–Sun 01:00 Ireland\n\nBout times 
+ are estimates and may shift as the card progresses.\n\n── MAIN CARD ·
+  1 bout ──\n\n🥊 1. 𝗚𝗮𝗯𝗿𝗶𝗲𝗹 𝗕𝗼𝗻𝗳
+ 𝗶𝗺 (#5) 🇧🇷 vs. 𝗦𝗲𝗮𝗻 𝗕𝗿𝗮𝗱𝘆 (#6) 🇺
+ 🇸 - 170lbs/77kg Welterweight · Est. 22:00 Ireland\n    Bonfim: 20-1-0 
+ | 29yo | Odds unavailable\n    Brady: 19-2-0 | 33yo | Odds unavailable\n  
+   Odds history: not checked yet\n\n── PRELIMS · fight card TBD ──
+ \n\nNo bouts assigned yet.\n\nSource: https://www.ufc.com/event/ufc-fight-
+ night-november-07-2026\n\nFull odds log: https://staircasewit.github.io/mm
+ acalendar/odds-history.html\n\nCalendar updated: 2026-09-12T11:18:51.708Z\
+ n\nEvent status: Scheduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 1 anno
+ unced bouts<br><br>📍 Meta APEX\, Las Vegas\, United States<br><br>🕒 
+ 20:00–Sun 01:00 Ireland<br><br>Bout times are estimates and may shift as
+  the card progresses.<br><br>── MAIN CARD · 1 bout ──<br><br>🥊
+  1. 𝗚𝗮𝗯𝗿𝗶𝗲𝗹 𝗕𝗼𝗻𝗳𝗶𝗺 (#5) 🇧🇷 vs
+ . 𝗦𝗲𝗮𝗻 𝗕𝗿𝗮𝗱𝘆 (#6) 🇺🇸 - 170lbs/77kg Welter
+ weight · Est. 22:00 Ireland<br>    Bonfim: 20-1-0 | 29yo | Odds unavailab
+ le<br>    Brady: 19-2-0 | 33yo | Odds unavailable<br>    Odds history: not
+  checked yet<br><br>── PRELIMS · fight card TBD ──<br><br>No bout
+ s assigned yet.<br><br>Source: https://www.ufc.com/event/ufc-fight-night-n
+ ovember-07-2026<br><br>Full odds log: https://staircasewit.github.io/mmaca
+ lendar/odds-history.html<br><br>Calendar updated: 2026-09-12T11:18:51.708Z
+ <br><br>Event status: Scheduled · verified 12 Sep 2026</p></body></html>
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
+CATEGORIES:UFC,Complete Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-334-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20261114T220000Z
+DTEND:20261115T050000Z
+SUMMARY:Polymarket UFC 334: TBD vs TBD
+DESCRIPTION:UFC · Complete Event · fight card TBD\n\n📍 Madison Square 
+ Garden\, New York\, United States\n\n🕒 22:00–Sun 05:00 Ireland\n\nBou
+ t times are estimates and may shift as the card progresses.\n\n── MAIN
+  CARD · fight card TBD ──\n\nNo bouts assigned yet.\n\n── PRELIMS
+  · fight card TBD ──\n\nNo bouts assigned yet.\n\n── EARLY PRELIM
+ S · fight card TBD ──\n\nNo bouts assigned yet.\n\nSource: https://ww
+ w.ufc.com/event/ufc-334\n\nFull odds log: https://staircasewit.github.io/m
+ macalendar/odds-history.html\n\nCalendar updated: 2026-09-12T11:18:51.708Z
+ \n\nEvent status: Scheduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · fight 
+ card TBD<br><br>📍 Madison Square Garden\, New York\, United States<br><
+ br>🕒 22:00–Sun 05:00 Ireland<br><br>Bout times are estimates and may 
+ shift as the card progresses.<br><br>── MAIN CARD · fight card TBD 
+ ──<br><br>No bouts assigned yet.<br><br>── PRELIMS · fight card T
+ BD ──<br><br>No bouts assigned yet.<br><br>── EARLY PRELIMS · fig
+ ht card TBD ──<br><br>No bouts assigned yet.<br><br>Source: https://ww
+ w.ufc.com/event/ufc-334<br><br>Full odds log: https://staircasewit.github.
+ io/mmacalendar/odds-history.html<br><br>Calendar updated: 2026-09-12T11:18
+ :51.708Z<br><br>Event status: Scheduled · verified 12 Sep 2026</p></body>
+ </html>
+LOCATION:Madison Square Garden\, New York\, United States
+URL:https://www.ufc.com/event/ufc-334
+CATEGORIES:UFC,Complete Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-335-combined@ufc-detailed-calendar
+DTSTAMP:20260912T111851Z
+DTSTART:20261212T220000Z
+DTEND:20261213T050000Z
+SUMMARY:UFC 335: TBD vs TBD
+DESCRIPTION:UFC · Complete Event · fight card TBD\n\n📍 T-Mobile Arena\
+ , Las Vegas\, United States\n\n🕒 22:00–Sun 05:00 Ireland\n\nBout time
+ s are estimates and may shift as the card progresses.\n\n── MAIN CARD 
+ · fight card TBD ──\n\nNo bouts assigned yet.\n\n── PRELIMS · fi
+ ght card TBD ──\n\nNo bouts assigned yet.\n\n── EARLY PRELIMS · f
+ ight card TBD ──\n\nNo bouts assigned yet.\n\nSource: https://www.ufc.
+ com/event/ufc-335\n\nFull odds log: https://staircasewit.github.io/mmacale
+ ndar/odds-history.html\n\nCalendar updated: 2026-09-12T11:18:51.708Z\n\nEv
+ ent status: Scheduled · verified 12 Sep 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · fight 
+ card TBD<br><br>📍 T-Mobile Arena\, Las Vegas\, United States<br><br>
+ 🕒 22:00–Sun 05:00 Ireland<br><br>Bout times are estimates and may shi
+ ft as the card progresses.<br><br>── MAIN CARD · fight card TBD ─
+ ─<br><br>No bouts assigned yet.<br><br>── PRELIMS · fight card TBD 
+ ──<br><br>No bouts assigned yet.<br><br>── EARLY PRELIMS · fight 
+ card TBD ──<br><br>No bouts assigned yet.<br><br>Source: https://www.u
+ fc.com/event/ufc-335<br><br>Full odds log: https://staircasewit.github.io/
+ mmacalendar/odds-history.html<br><br>Calendar updated: 2026-09-12T11:18:51
+ .708Z<br><br>Event status: Scheduled · verified 12 Sep 2026</p></body></h
+ tml>
+LOCATION:T-Mobile Arena\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-335
+CATEGORIES:UFC,Complete Event
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

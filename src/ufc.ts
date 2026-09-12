@@ -100,6 +100,23 @@ function sectionStart(section: Cheerio<AnyNode>): Date | null {
   return parseTimestamp(section.find(".c-event-fight-card-broadcaster__time[data-timestamp]").first().attr("data-timestamp"));
 }
 
+function publishedCardStarts($: CheerioAPI): Map<string, Date> {
+  const starts = new Map<string, Date>();
+  $(".c-listing-viewing-option").each((_, option) => {
+    const root = $(option);
+    const label = cleanText(root.find(".c-listing-viewing-option__fight-card").text()).toLowerCase();
+    const start = parseTimestamp(root.find(".c-listing-viewing-option__time[data-timestamp]").attr("data-timestamp"));
+    if (!start) return;
+    const definition = CARD_DEFINITIONS.find((candidate) => {
+      if (candidate.key === "early-prelims") return /early\s+prelims?/.test(label);
+      if (candidate.key === "prelims") return /^(?:the\s+)?prelims?$/.test(label);
+      return /main\s+card/.test(label);
+    });
+    if (definition && !starts.has(definition.key)) starts.set(definition.key, start);
+  });
+  return starts;
+}
+
 export function parseEventPage(html: string, url: string): UfcEvent {
   const $ = cheerio.load(html);
   const prefix = cleanText($(".c-hero__headline-prefix").first().text());
@@ -115,6 +132,16 @@ export function parseEventPage(html: string, url: string): UfcEvent {
   const locationParts = locationElement.text().split(/\r?\n/).map(cleanText).filter(Boolean);
   const location = (locationParts.length > 1 ? locationParts.join(", ") : cleanText(locationElement.text()))
     .replace(/,\s*,+/g, ",");
+  const statusText = cleanText([
+    $(".c-hero__headline-prefix").first().text(),
+    $(".c-hero__headline-suffix").first().text(),
+    $(".field--name-field-event-status, .event-status").first().text(),
+    $("meta[property='og:title']").attr("content") ?? "",
+  ].join(" "));
+  const sourceStatus = /\bcancel(?:led|ed)\b/i.test(statusText)
+    ? "cancelled"
+    : /\bpostponed\b/i.test(statusText) ? "postponed" : "scheduled";
+  const announcedStarts = publishedCardStarts($);
   const sections: UfcEvent["sections"] = [];
   for (const definition of CARD_DEFINITIONS) {
     const section = $(definition.selector).first();
@@ -122,13 +149,41 @@ export function parseEventPage(html: string, url: string): UfcEvent {
     const fights = section.find(".c-listing-fight").toArray()
       .map((node) => parseFight($, node))
       .filter((fight): fight is Fight => fight !== null);
-    if (!fights.length) continue;
+    const start = sectionStart(section) ?? announcedStarts.get(definition.key) ?? (definition.key === "main-card" ? heroStart : null);
+    if (!fights.length && !start) continue;
     sections.push({
       ...definition,
-      start: sectionStart(section) ?? (definition.key === "main-card" ? heroStart : null),
+      start,
       fights,
+      provisional: fights.length ? undefined : true,
     });
   }
+
+  for (const definition of CARD_DEFINITIONS) {
+    if (sections.some((section) => section.key === definition.key)) continue;
+    const start = announcedStarts.get(definition.key);
+    if (start) sections.push({ ...definition, start, fights: [], provisional: true });
+  }
+
+  if (!sections.length && heroStart) {
+    const mainCard = CARD_DEFINITIONS.find(({ key }) => key === "main-card")!;
+    sections.push({ ...mainCard, start: heroStart, fights: [], provisional: true });
+  }
+
+  if (!sections.some((section) => section.fights.length)) {
+    const announcedFights = $(".view-event-fights .c-listing-fight").toArray()
+      .map((node) => parseFight($, node))
+      .filter((fight): fight is Fight => fight !== null);
+    if (announcedFights.length) {
+      const mainCard = sections.find(({ key }) => key === "main-card");
+      if (mainCard) {
+        mainCard.fights = announcedFights;
+        mainCard.provisional = true;
+      }
+    }
+  }
+
+  sections.sort((left, right) => CARD_DEFINITIONS.findIndex(({ key }) => key === left.key) - CARD_DEFINITIONS.findIndex(({ key }) => key === right.key));
 
   return {
     slug: slugFromUrl(url),
@@ -137,6 +192,7 @@ export function parseEventPage(html: string, url: string): UfcEvent {
     location,
     heroStart,
     sections,
+    sourceStatus,
   };
 }
 
