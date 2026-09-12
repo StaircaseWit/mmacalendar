@@ -55,10 +55,19 @@
     .section-heading { display: flex; align-items: end; justify-content: space-between; gap: 28px; margin-bottom: 36px; }
     .section-heading h2 { margin: 0; font-size: clamp(34px, 4vw, 52px); letter-spacing: -.045em; line-height: 1.04; }
     .section-heading p { max-width: 530px; margin: 0; color: var(--muted); }
-    .promotion-panel { min-width: 0; padding: 28px; border: 1px solid var(--border); border-radius: var(--radius); background: rgba(17,21,29,.88); }
-    .promotion-head { display: flex; align-items: center; justify-content: space-between; gap: 18px; margin-bottom: 25px; }
+    .promotion-list { display: grid; gap: 14px; }
+    .promotion-panel { min-width: 0; overflow: hidden; border: 1px solid var(--border); border-radius: var(--radius); background: rgba(17,21,29,.88); }
+    .promotion-head { display: flex; align-items: center; justify-content: space-between; gap: 18px; padding: 24px 28px; cursor: pointer; list-style: none; }
+    .promotion-head::-webkit-details-marker { display: none; }
+    .promotion-head:focus-visible { outline: 3px solid rgba(101,168,255,.75); outline-offset: -4px; }
+    .promotion-meta { display: flex; align-items: center; gap: 12px; }
+    .promotion-chevron { color: var(--muted); font-size: 18px; transition: transform .2s ease; }
+    .promotion-panel[open] .promotion-chevron { transform: rotate(180deg); }
+    .promotion-body { padding: 26px 28px 28px; border-top: 1px solid var(--border); }
     .promotion-name { display: flex; align-items: center; gap: 14px; }
     .promotion-icon { display: grid; place-items: center; width: 48px; height: 48px; border-radius: 14px; background: #d91e2b; color: white; font-weight: 950; letter-spacing: -.06em; }
+    .promotion-icon.one { background: #f3f3f0; color: #111; letter-spacing: -.08em; }
+    .promotion-icon.planned { background: rgba(255,255,255,.07); color: #dbe0e9; }
     .promotion-name h3 { margin: 0; font-size: 22px; }
     .promotion-name p { margin: 2px 0 0; color: var(--muted); font-size: 13px; }
     .feed-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); min-width: 0; gap: 16px; }
@@ -72,11 +81,7 @@
     .feed-actions .button { width: 100%; min-width: 0; white-space: normal; }
     .calendar-help { margin-top: 20px; color: var(--muted); font-size: 13px; }
     .calendar-help a { color: #cbd8ea; }
-    .coming-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 18px; }
-    .coming-card { display: flex; align-items: center; gap: 14px; padding: 20px; border: 1px dashed #303746; border-radius: 16px; background: rgba(255,255,255,.018); color: var(--muted); }
-    .coming-logo { display: grid; place-items: center; flex: 0 0 40px; height: 40px; border-radius: 12px; background: rgba(255,255,255,.06); color: var(--text); font-size: 12px; font-weight: 900; }
-    .coming-card strong { display: block; color: #dbe0e9; font-size: 14px; }
-    .coming-card span { display: block; font-size: 12px; }
+    .planned-copy { margin: 0; color: var(--muted); }
     .steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
     .step { padding: 25px; border-left: 2px solid var(--border); }
     .step-index { color: var(--accent); font-size: 12px; font-weight: 900; letter-spacing: .1em; }
@@ -94,7 +99,6 @@
       .feed-card:last-child { grid-column: 1 / -1; }
     }
     @media (max-width: 900px) {
-      .coming-grid { grid-template-columns: 1fr; }
       .section-heading { align-items: start; flex-direction: column; }
     }
     @media (max-width: 620px) {
@@ -105,8 +109,11 @@
       .feed-grid, .steps { grid-template-columns: minmax(0, 1fr); }
       .feed-card:last-child { grid-column: auto; }
       section { padding: 72px 0; }
-      .promotion-panel { padding: 18px; }
-      .promotion-head { align-items: flex-start; }
+      .promotion-head { align-items: flex-start; padding: 18px; }
+      .promotion-body { padding: 18px; }
+      .promotion-name h3 { font-size: 18px; }
+      .promotion-name p { display: none; }
+      .status-pill { display: none; }
       .footer-inner { flex-direction: column; }
     }
   </style>
@@ -122,16 +129,17 @@
       <div>
         <p class="eyebrow">MMA calendar subscriptions</p>
         <h1><span class="gradient-text">Fight schedules,</span><br>in your calendar.</h1>
-        <p class="hero-copy">Calendar subscriptions for different MMA organisations. UFC is available now, with ONE Championship, PFL and Rizin planned next.</p>
+        <p class="hero-copy">Calendar subscriptions for different MMA organisations. UFC and ONE Championship are available now, with PFL and Rizin planned next.</p>
         <div class="hero-actions"><a class="button" href="#calendars">Choose a calendar <span aria-hidden="true">↓</span></a><a class="button secondary" href="#how-it-works">How subscriptions work</a></div>
       </div>
     </div>
 
     <section class="shell" id="calendars">
-      <div class="section-heading"><h2>Choose your view</h2><p>UFC is live now. Pick one calendar style, or combine them. Future schedule changes will arrive automatically.</p></div>
-      <div class="promotion-panel">
-        <div class="promotion-head"><div class="promotion-name"><span class="promotion-icon">UFC</span><div><h3>Ultimate Fighting Championship</h3><p>Events, fighters, rankings, records and odds</p></div></div><span class="status-pill">Available</span></div>
-        <div class="feed-grid">
+      <div class="section-heading"><h2>Choose an organisation</h2><p>Open a promotion to see its calendar subscriptions.</p></div>
+      <div class="promotion-list">
+      <details class="promotion-panel" name="promotion" open>
+        <summary class="promotion-head"><div class="promotion-name"><span class="promotion-icon">UFC</span><div><h3>Ultimate Fighting Championship</h3><p>Events, fighters, rankings, records and odds</p></div></div><span class="promotion-meta"><span class="status-pill">Available</span><span class="promotion-chevron" aria-hidden="true">⌄</span></span></summary>
+        <div class="promotion-body"><div class="feed-grid">
           <article class="feed-card">
             <div class="feed-card-top"><span class="feed-number">01</span></div><h4>Split cards</h4><p>Early Prelims, Prelims and Main Card appear as separate calendar events.</p><code class="feed-url" data-url-for="ufc.ics"></code>
             <div class="feed-actions"><button class="button small copy-feed" type="button" data-feed="ufc.ics">Copy subscription URL</button><a class="button secondary small" href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl" target="_blank" rel="noreferrer">Open Google Calendar ↗</a></div>
@@ -146,12 +154,33 @@
           </article>
         </div>
         <p class="calendar-help">Google subscriptions must currently be added from a desktop browser using <strong>Other calendars → From URL</strong>. Looking for the numbers? <a href="odds-history.html">View the full odds history.</a></p>
+        </div>
+      </details>
+      <details class="promotion-panel" name="promotion">
+        <summary class="promotion-head"><div class="promotion-name"><span class="promotion-icon one">ONE</span><div><h3>ONE Championship</h3><p>Events, venues and announced bouts</p></div></div><span class="promotion-meta"><span class="status-pill">Available</span><span class="promotion-chevron" aria-hidden="true">⌄</span></span></summary>
+        <div class="promotion-body">
+          <div class="feed-grid">
+            <article class="feed-card">
+              <div class="feed-card-top"><span class="feed-number">01</span></div><h4>Complete events</h4><p>One calendar event per show with its venue, times and announced fight card.</p><code class="feed-url" data-url-for="one.ics"></code>
+              <div class="feed-actions"><button class="button small copy-feed" type="button" data-feed="one.ics">Copy subscription URL</button><a class="button secondary small" href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl" target="_blank" rel="noreferrer">Open Google Calendar ↗</a></div>
+            </article>
+          </div>
+          <p class="calendar-help">This first version uses ONE Championship's official calendar. Fighter profiles and richer bout information can be added next.</p>
+        </div>
+      </details>
+      <details class="promotion-panel" name="promotion">
+        <summary class="promotion-head"><div class="promotion-name"><span class="promotion-icon planned">PFL</span><div><h3>Professional Fighters League</h3><p>Calendar integration planned</p></div></div><span class="promotion-meta"><span class="promotion-chevron" aria-hidden="true">⌄</span></span></summary>
+        <div class="promotion-body"><p class="planned-copy">PFL calendar subscriptions are planned for a future phase.</p></div>
+      </details>
+      <details class="promotion-panel" name="promotion">
+        <summary class="promotion-head"><div class="promotion-name"><span class="promotion-icon planned">RZN</span><div><h3>Rizin Fighting Federation</h3><p>Calendar integration planned</p></div></div><span class="promotion-meta"><span class="promotion-chevron" aria-hidden="true">⌄</span></span></summary>
+        <div class="promotion-body"><p class="planned-copy">Rizin calendar subscriptions are planned for a future phase.</p></div>
+      </details>
       </div>
-      <div class="coming-grid" aria-label="Planned MMA promotions"><div class="coming-card"><span class="coming-logo">ONE</span><div><strong>ONE Championship</strong><span>Coming in a future phase</span></div></div><div class="coming-card"><span class="coming-logo">PFL</span><div><strong>Professional Fighters League</strong><span>Coming in a future phase</span></div></div><div class="coming-card"><span class="coming-logo">RZN</span><div><strong>Rizin Fighting Federation</strong><span>Coming in a future phase</span></div></div></div>
     </section>
 
     <section class="shell" id="how-it-works">
-      <div class="section-heading"><h2>Subscribe in three steps</h2><p>Choose a calendar, copy its address and add it to Google Calendar. Later updates will appear automatically.</p></div>
+      <div class="section-heading"><h2>Subscribe in three steps</h2></div>
       <div class="steps"><div class="step"><span class="step-index">STEP 01</span><h3>Choose and copy</h3><p>Select a calendar style above and copy its subscription URL.</p></div><div class="step"><span class="step-index">STEP 02</span><h3>Open your calendar</h3><p>On a computer, open <a href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl" target="_blank" rel="noreferrer">Google Calendar’s From URL page ↗</a>.</p></div><div class="step"><span class="step-index">STEP 03</span><h3>Paste and subscribe</h3><p>Paste the URL and choose <strong>Add calendar</strong>. Google controls how quickly later updates appear.</p></div></div>
     </section>
 

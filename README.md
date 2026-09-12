@@ -1,8 +1,8 @@
-# Detailed UFC Calendar
+# MMA Calendar
 
-A free, automatically updated UFC calendar subscription. It generates separate calendar entries for **Early Prelims**, **Prelims**, and the **Main Card** instead of putting an entire UFC event into one oversized entry.
+A free, automatically updated set of MMA calendar subscriptions. UFC feeds provide detailed cards, fighter information and odds history. ONE Championship events are generated from ONE's official calendar with venues, times and announced bouts.
 
-No website, database, paid host, Chrome extension, or Google API is required. GitHub Actions runs the generator, and GitHub Pages serves the resulting `ufc.ics` file.
+No database, paid host, Chrome extension, or Google API is required. GitHub Actions runs the generator, and GitHub Pages serves the resulting calendar feeds.
 
 The generator is written in strict TypeScript. Its event, card, fighter, profile, and odds-history structures are type-checked before every automated update.
 
@@ -50,6 +50,7 @@ The standard calendar description uses the `🥊` marker, bout order, and bold U
 - `docs/ufc.ics`: separate Early Prelims, Prelims, and Main Card events.
 - `docs/ufc-combined.ics`: one complete event containing every section and announced bout.
 - `docs/ufc-fights.ics`: optional estimated individual fight events that adapt to the calendar client's time zone.
+- `docs/one.ics`: one complete event per ONE Championship show, including the official venue, times and announced bouts.
 
 ## Optional local-time fight calendar
 
@@ -94,6 +95,6 @@ UFC_EVENT_URLS=https://www.ufc.com/event/example pnpm run generate
 
 The subscription is written to `docs/ufc.ics`.
 
-## Scope of this first version
+## Current scope
 
-This phase supports UFC only. "Follow a fighter" notifications are deliberately deferred. The project is a generator and public calendar feed, not a full web application.
+UFC and ONE Championship are supported. UFC data is collected from UFC.com. ONE event schedules and announced bouts come from ONE Championship's official calendar. Rich ONE fighter profiles and odds are not included yet. "Follow a fighter" notifications are deliberately deferred.

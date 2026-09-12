@@ -1,0 +1,1911 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MMA Calendar//ONE Championship//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ONE Championship
+X-WR-CALDESC:ONE Championship events and announced bouts.
+REFRESH-INTERVAL;VALUE=DURATION:P3D
+X-PUBLISHED-TTL:P3D
+BEGIN:VEVENT
+UID:6936559154637b71645f64ff@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260313T113000Z
+DTEND:20260313T163308Z
+SUMMARY:ONE Friday Fights 146
+DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 14. 𝗗𝗲𝘁𝗰𝗵𝗮𝘄𝗮𝗹𝗶𝘁 𝗦𝗶𝗹
+ 𝗸𝗺𝘂𝗮𝘆𝘁𝗵𝗮𝗶 vs. 𝗗𝗲𝗻𝗶𝘀 𝗗𝗼𝘁
+ 𝘀𝗲𝗻𝗸𝗼 - Bantamweight Muay Thai\n\n🥊 13. 𝗞𝗼𝗻𝗴
+ 𝘀𝘂𝗸 𝗦𝗶𝘁𝘀𝗮𝗿𝗮𝘄𝗮𝘁𝘀𝘂𝗲𝗿 vs. 
+ 𝗕𝗮𝗯𝗮𝗸 𝗦𝗼𝗹𝗼𝘂𝗸𝗶 - Bantamweight Muay Thai
+ \n\n🥊 12. 𝗞𝗮𝗷𝗼𝗿𝗻𝗸𝗹𝗮𝗶 𝗦𝗼𝗿 𝗦
+ 𝗼𝗿 𝗧𝗼𝗶𝗽𝗮𝗱𝗿𝗶𝗲𝘄 vs. 𝗦𝗶𝗻𝗴𝗵
+ 𝗮𝗿𝗮𝘁 𝗦𝗶𝘁𝗞𝗵𝘂𝗻𝘁𝗮𝗯 - Bantamweight M
+ uay Thai\n\n🥊 11. 𝗔𝗿𝘀𝗼𝗼𝗻𝗻𝗼𝗶 𝗦𝗶𝘁𝗷
+ 𝗮𝘀𝗶𝗻𝗴 vs. 𝗡𝘂𝗮𝗽𝗮𝘆𝗮𝗸 𝗝𝗶𝘁𝗺
+ 𝘂𝗮𝗻𝗴𝗻𝗼𝗻 - Atomweight Muay Thai\n\n🥊 10. 𝗞𝗼
+ 𝗻𝗴𝗺𝗲𝗲𝗰𝗵𝗮𝗶 𝗦𝗼𝗿 𝗕𝗮𝗻𝗴𝗿𝗮
+ 𝗷𝗮𝗻 vs. 𝗔𝗻𝗱𝗿𝗶𝗶 𝗠𝗲𝘇𝗲𝗻𝘁𝘀𝗲
+ 𝘃 - Strawweight Muay Thai\n\n🥊 9. 𝗗𝗶𝗮𝘀 𝗢𝘁𝗲𝗴
+ 𝗲𝗻 vs. 𝗠𝗮𝗹𝗮𝗺𝗯𝗼 𝗣𝗲𝗹𝗮𝗲𝘇 - Straw
+ weight Mixed Martial Arts\n\n🥊 8. 𝗣𝗿𝗮𝗯𝘀𝘂𝗸 𝗦𝗶
+ 𝘁𝗸𝗮𝗲𝘄𝗽𝗿𝗮𝗽𝗼𝗻 vs. 𝗬𝗲 𝗬𝗶𝗻𝘁
+  𝗡𝗮𝘂𝗻𝗴 - Bantamweight Muay Thai\n\n🥊 7. 𝗦𝗵𝗲𝗻
+ 𝗴 𝗬𝗶𝘇𝗵𝘂𝗼 vs. 𝗙𝘂𝗴𝗮 𝗧𝗼𝗸𝗼𝗿
+ 𝗼 - Strawweight Kickboxing\n\n🥊 6. 𝗣𝗲𝘁𝗸𝗵𝗮𝗼𝗸
+ 𝗿𝗮𝗱𝗼𝗻𝗴 𝗟𝘂𝗸𝗷𝗮𝗼𝗺𝗮𝗲𝘀𝗮𝗶
+ 𝘁𝗵𝗼𝗻𝗴 vs. 𝗧𝘂𝗻 𝗠𝗶𝗻 𝗔𝘂𝗻𝗴 - Welt
+ erweight Muay Thai\n\n🥊 5. 𝗣𝗲𝘁𝗸𝗿𝗶𝗮𝗻𝗴𝗸𝗿
+ 𝗮𝗶 𝗝𝗶𝘁𝗺𝘂𝗮𝗻𝗴𝗻𝗼𝗻 vs. 𝗗𝗲𝗻𝘀
+ 𝗶𝗮𝗺 𝗟𝗶𝗮𝗺𝘁𝗵𝗮𝗻𝗮𝘄𝗮𝘁 - Atomweight
+  Muay Thai\n\n🥊 4. 𝗭𝗵𝗮𝗻𝗴 𝗝𝗶𝗻𝗵𝘂 vs. 𝗦
+ 𝘂𝗹𝗮𝗶𝗺𝗮𝗻 𝗟𝗼𝗼𝗸𝘀𝘂𝗮𝗻 - Flyweight 
+ Muay Thai\n\n🥊 3. 𝗥𝘂𝗻𝗴𝗿𝘂𝗮𝗻𝗴𝗹𝗲𝗸 𝗧
+ 𝗡 𝗠𝘂𝗮𝘆𝘁𝗵𝗮𝗶 vs. 𝗞𝗿𝗮𝗶𝘁𝗵𝗼𝗻
+ 𝗴 𝗣𝗨 𝗣𝗵𝗮𝗯𝗮𝗶 - Openweight Muay Thai\n\n🥊 2. 
+ 𝗣𝗿𝗶𝗮𝗼𝘄𝗮𝗻 𝗣𝗲𝘁𝗽𝗵𝗮𝗶𝗿𝗮𝘁 
+ vs. 𝗠𝗶𝘀𝗮𝗸𝗶 - Atomweight Kickboxing\n\n🥊 1. 𝗖𝗵
+ 𝗶𝗵 𝗖𝗵𝗲𝗻𝗴 𝗬𝘂 vs. 𝗦𝗮𝗿𝗺𝗮𝗱 𝗝
+ 𝗮𝗵𝗮𝗻𝗮𝗿𝗮 - Welterweight Mixed Martial Arts\n\n--------
+ ------------------------\nSource: https://watch.onefc.com/events/one-frida
+ y-fights-146\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-146
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:693656702fbf6a23229602b7@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260314T010000Z
+DTEND:20260314T044421Z
+SUMMARY:ONE Fight Night 41
+DESCRIPTION:ONE Championship · Complete Event · 9 bouts\n📍 Lumpinee St
+ adium\, Bangkok\nTimes display automatically in your calendar time zone.\n
+ \n--------------------------------\nBOUTS\n-------------------------------
+ -\n\n🥊 9. 𝗦𝗶𝗻𝘀𝗮𝗺𝘂𝘁 𝗞𝗹𝗶𝗻𝗺𝗲𝗲
+  vs. 𝗚𝗲𝗼𝗿𝗴𝗲 𝗝𝗮𝗿𝘃𝗶𝘀 - Lightweight Muay 
+ Thai\n\n🥊 8. 𝗧𝘆𝗲 𝗥𝘂𝗼𝘁𝗼𝗹𝗼 vs. 𝗣𝗮𝘄
+ 𝗲𝗹 𝗝𝗮𝘄𝗼𝗿𝘀𝗸𝗶 - Welterweight World Championshi
+ p\n\n🥊 7. 𝗝𝗼𝗵𝗻 𝗟𝗶𝗻𝗲𝗸𝗲𝗿 vs. 𝗕𝗲
+ 𝗻 𝗪𝗼𝗼𝗹𝗹𝗶𝘀𝘀 - Bantamweight Kickboxing\n\n🥊 6.
+  𝗟𝗲𝗲 𝗦𝗲𝘂𝗻𝗴 𝗖𝗵𝗲𝗼𝗹 vs. 𝗙𝗮𝗯
+ 𝗶𝗼 𝗛𝗲𝗻𝗿𝗶𝗾𝘂𝗲 - Strawweight Mixed Martial Arts
+ \n\n🥊 5. 𝗛𝘆𝘂 vs. 𝗦𝘂𝗮𝗯𝗹𝗮𝗰𝗸 𝗧𝗼𝗿
+  𝗣𝗿𝗮𝗻𝟰𝟵 - Flyweight Kickboxing\n\n🥊 4. 𝗩𝗶𝗰
+ 𝘁𝗼𝗿𝗶𝗮 𝗦𝗼𝘂𝘇𝗮 vs. 𝗔𝗻𝗮𝘀𝘁𝗮𝘀
+ 𝗶𝗮 𝗡𝗶𝗸𝗼𝗹𝗮𝗸𝗮𝗸𝗼𝘀 - Atomweight Mixed M
+ artial Arts\n\n🥊 3. 𝗠𝗮𝗿𝗰𝗼𝘀 𝗔𝘂𝗿𝗲𝗹𝗶
+ 𝗼 vs. 𝗠𝗮𝘂𝗿𝗼 𝗠𝗮𝘀𝘁𝗿𝗼𝗺𝗮𝗿𝗶𝗻
+ 𝗶 - Bantamweight Mixed Martial Arts\n\n🥊 2. 𝗔𝗻𝗻𝗮 𝗝
+ 𝗮𝗿𝗼𝗼𝗻𝘀𝗮𝗸 vs. 𝗬𝘂 𝗬𝗮𝘂 𝗣𝘂𝗶 - 
+ Atomweight Muay Thai\n\n🥊 1. 𝗝𝗲𝗿𝗲𝗺𝘆 𝗠𝗶𝗮𝗱
+ 𝗼 vs. 𝗪𝗶𝗹𝗹𝗶𝗲 𝘃𝗮𝗻 𝗥𝗼𝗼𝘆𝗲𝗻 - 
+ Flyweight Mixed Martial Arts\n\n--------------------------------\nSource: 
+ https://watch.onefc.com/events/onefightnight41\nCalendar updated: 2026-09-
+ 12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/onefightnight41
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:693655bb370b4d81ea62417e@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260320T113000Z
+DTEND:20260320T163643Z
+SUMMARY:ONE Friday Fights 147 & The Inner Circle 7
+DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 14. 𝗡𝗼𝗻𝗴-𝗢 𝗛𝗮𝗺𝗮 vs. 𝗔𝘀𝗮𝗱
+ 𝘂𝗹𝗮 𝗜𝗺𝗮𝗻𝗴𝗮𝘇𝗮𝗹𝗶𝗲𝘃 - Flyweight 
+ World Championship\n\n🥊 13. 𝗝𝗮𝗼𝘀𝘂𝗮𝘆𝗮𝗶 𝗠
+ 𝗼𝗿 𝗞𝗿𝘂𝗻𝗴𝘁𝗵𝗲𝗽𝘁𝗵𝗼𝗻𝗯𝘂𝗿
+ 𝗶 vs. 𝗣𝗼𝗺𝗽𝗲𝘁 𝗣𝗼𝗻𝗴𝗦𝘂𝗽𝗵𝗮𝗻
+  𝗣𝗞 - Flyweight Muay Thai\n\n🥊 12. 𝗥𝗮𝘁𝗰𝗵𝗮𝘀
+ 𝗶𝗲𝘀𝗮𝗻 𝗟𝗮𝗼𝗰𝗵𝗼𝗸𝗰𝗵𝗮𝗿𝗼𝗲
+ 𝗻 vs. 𝗨𝘇𝗮𝗶𝗿 𝗜𝘀𝗺𝗼𝗶𝗹𝗷𝗼𝗻𝗼𝘃
+  - Bantamweight Muay Thai\n\n🥊 11. 𝗦𝘂𝗿𝗶𝘆𝗮𝗻𝗹𝗲
+ 𝗸 𝗣𝗼𝗿 𝗬𝗲𝗻𝘆𝗶𝗻𝗴 vs. 𝗚𝗿𝗲𝗴𝗼
+ 𝗿 𝗧𝗵𝗼𝗺 - Flyweight Muay Thai\n\n🥊 10. 𝗦𝗮𝗺𝗶
+ 𝗻𝗴𝗱𝗮𝗺 𝗟𝗼𝗼𝗸𝘀𝘂𝗮𝗻 vs. 𝗞𝘆𝗮𝘄
+  𝗦𝘄𝗮𝗿 𝗪𝗶𝗻 - Flyweight Muay Thai\n\n🥊 9. 𝗗𝗲
+ 𝗰𝗵𝗼 𝗠𝗮𝘃𝗶𝗻𝗻 𝗠𝘂𝗮𝘆𝘁𝗵𝗮𝗶 vs.
+  𝗘𝗹𝘃𝗶𝗻 𝗞𝗮𝘇𝘂𝗺𝗼𝘃𝗶 - Flyweight Muay Th
+ ai\n\n🥊 8. 𝗡𝘂𝗺𝘀𝘂𝗿𝗶𝗻 𝗖𝗵𝗼𝗿 𝗞𝗲
+ 𝘁𝘄𝗶𝗻𝗮 vs. 𝗣𝗲𝘁 𝗦𝘂𝗮𝗻𝗹𝘂𝗮𝗻𝗴
+ 𝗿𝗼𝗱𝘆𝗼𝗸 - Atomweight Muay Thai\n\n🥊 7. 𝗬𝗼𝗻
+ 𝗶𝘀 𝗔𝗻𝗮𝗻𝗲 vs. 𝗭𝗵𝗮𝗼 𝗭𝗵𝗲𝗻𝗴
+ 𝗱𝗼𝗻𝗴 - Strawweight Muay Thai\n\n🥊 6. 𝗡𝗮𝗿𝗲𝗸 
+ 𝗞𝗵𝗮𝗰𝗵𝗶𝗸𝘆𝗮𝗻 vs. 𝗥𝘆𝗼𝗴𝗮 𝗧𝗲
+ 𝗿𝗮𝘆𝗮𝗺𝗮 - Bantamweight Kickboxing\n\n🥊 5. 𝗡𝗮𝗯
+ 𝗶𝗹 𝗔𝗻𝗮𝗻𝗲 vs. 𝗥𝗮𝗺𝗯𝗼𝗹𝗲𝗸 𝗖
+ 𝗵𝗼𝗿 𝗔𝗷𝗮𝗹𝗮𝗯𝗼𝗼𝗻 - Bantamweight World Cha
+ mpionship\n\n🥊 4. 𝗦𝗲𝗸𝘀𝗮𝗻 𝗢𝗿 𝗞𝘄𝗮𝗻
+ 𝗺𝘂𝗮𝗻𝗴 vs. 𝗣𝗮𝗸𝗼𝗿𝗻 𝗣𝗞 𝗦𝗶𝗮
+ 𝗹𝗮𝘆𝘁𝗲𝗻𝘁𝗺𝘂𝗻𝗴𝗸𝗼𝗿𝗻 - Bantamweigh
+ t Muay Thai\n\n🥊 3. 𝗣𝗧𝗧 𝗔𝗽𝗶𝗰𝗵𝗮𝗿𝘁 𝗙
+ 𝗮𝗿𝗺 vs. 𝗔𝗿𝗶𝗮𝗻 𝗘𝘀𝗽𝗮𝗿𝘇𝗮 - Feath
+ erweight Muay Thai\n\n🥊 2. 𝗚𝗶𝗻𝗴𝘀𝗮𝗻𝗴𝗹𝗲𝗸
+  𝗪𝗼𝗿 𝗞𝘂𝗺𝗰𝗵𝗮𝗺𝗻𝗮𝗿𝗻 vs. 𝗬𝗼
+ 𝗱𝗹𝗲𝗸𝗽𝗲𝘁 𝗢𝗿 𝗔𝘁𝗰𝗵𝗮𝗿𝗶𝘆𝗮
+  - Flyweight Muay Thai\n\n🥊 1. 𝗔𝗱𝗮𝗺 𝗠𝗲𝘀𝘀𝗮
+ 𝗼𝘂𝗱𝗶 vs. 𝗛𝗶𝗸𝗮𝗿𝘂 𝗙𝘂𝗿𝘂𝗺𝘂𝗿
+ 𝗮 - Flyweight Muay Thai\n\n--------------------------------\nSource: ht
+ tps://watch.onefc.com/events/one-friday-fights-147\nCalendar updated: 2026
+ -09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-147
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:693655d62fbf6a23229602ac@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260327T113000Z
+DTEND:20260327T163628Z
+SUMMARY:ONE Friday Fights 148 & The Inner Circle 8
+DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 14. 𝗞𝗼𝗻𝗴𝗰𝗵𝗮𝗶 𝗖𝗵𝗮𝗻𝗮𝗶
+ 𝗱𝗼𝗻𝗺𝘂𝗲𝗮𝗻𝗴 vs. 𝗠𝗲𝗵𝗿𝗱𝗮𝗱 𝗞
+ 𝗵𝗮𝗻𝘇𝗮𝗱𝗲𝗵 - Strawweight Muay Thai\n\n🥊 13. 𝗗
+ 𝗲𝗻𝗸𝗿𝗶𝗮𝗻𝗴𝗸𝗿𝗮𝗶 𝗠𝗮𝘃𝗶𝗻𝗻 
+ 𝗠𝘂𝗮𝘆𝘁𝗵𝗮𝗶 vs. 𝗩𝗮𝗹𝗲𝗿𝗶𝗶 𝗦𝘁
+ 𝗿𝘂𝗻𝗴𝗮𝗿𝗶 - Flyweight Muay Thai\n\n🥊 12. 𝗦𝘂
+ 𝗽𝗲𝗿𝗷𝗲𝗻𝗴 𝗧𝗼𝗿𝗳𝘂𝗻𝗳𝗮𝗿𝗺 vs. 
+ 𝗣𝗿𝗼𝗺𝗽𝗮𝗱𝗲𝗷 𝗟𝗼𝗼𝗸𝘀𝘂𝗮𝗻 - Ba
+ ntamweight Muay Thai\n\n🥊 11. 𝗝𝗼𝗿𝗴𝗲 𝗣𝗮𝘀𝘁𝗼
+ 𝗿 vs. 𝗔𝗵𝗮𝗱 𝗩𝗮𝗿𝗴𝗵𝗮𝗲𝗶𝗮𝗻 - Feath
+ erweight Muay Thai\n\n🥊 10. 𝗞𝗿𝘂𝗻𝗴𝘁𝗵𝗮𝗶 𝗧
+ 𝗼𝗿𝗳𝘂𝗻𝗳𝗮𝗿𝗺 vs. 𝗕𝗶𝗻𝗹𝗮𝗱𝗶𝗻 
+ 𝗦𝗼𝗿 𝗣𝗼𝗼𝗻𝘀𝗮𝘄𝗮𝘁 - Strawweight Muay Thai\
+ n\n🥊 9. 𝗦𝗮𝘁𝘁𝗼𝗿 𝗥𝗶𝘇𝗼𝗲𝘃 vs. 𝗙𝗲
+ 𝗹𝗶𝗽𝗲 𝗦𝗶𝗹𝘃𝗮 - Flyweight Mixed Martial Arts\n\n
+ 🥊 8. 𝗡𝗼𝗻𝗴𝗳𝗮𝗵𝘀𝗮𝗶 𝗣𝗼𝗼𝗸𝘀𝘂
+ 𝗽𝗵𝗮𝗻 𝗣𝗞 vs. 𝗪𝗮𝗻𝗴 𝗧𝘀𝘇 𝗖𝗵𝗶
+ 𝗻𝗴 - Atomweight Muay Thai\n\n🥊 7. 𝗦𝗵𝗲𝗻𝗴 𝗬𝗶 
+ 𝗬𝗮𝗻𝗴 vs. 𝗦𝗵𝗼𝘁𝗮 𝗧𝗮𝗸𝗲𝘇𝗼𝗲 - S
+ trawweight Kickboxing\n\n🥊 6. 𝗩𝗲𝗹𝗶𝗵𝗮𝗻 𝗣𝗮𝗹
+ 𝗶𝘁 vs. 𝗥𝗮𝗻𝗺𝗮 - Bantamweight Kickboxing\n\n🥊 5. 
+ 𝗦𝗼𝗻𝗿𝗮𝗸 𝗙𝗮𝗶𝗿𝘁𝗲𝘅 vs. 𝗗𝗲𝗱𝗱
+ 𝘂𝗮𝗻𝗴𝗹𝗲𝗸 𝗧𝗼𝗿𝗳𝘂𝗻𝗳𝗮𝗿𝗺 - Ba
+ ntamweight Muay Thai\n\n🥊 4. 𝗟𝗮𝗺𝗻𝗮𝗺𝗼𝗼𝗻𝗹
+ 𝗲𝗸 𝗧𝗼𝗿𝗳𝘂𝗻𝗳𝗮𝗿𝗺 vs. 𝗬𝘂𝗮𝗻 
+ 𝗣𝗲𝗻𝗴𝗷𝗶𝗲 - Flyweight Kickboxing\n\n🥊 3. 𝗔𝗻
+ 𝘂𝗮𝗿 𝗖𝗶𝘀𝗻𝗲𝗿𝗼𝘀 vs. 𝗞𝗵𝘂𝗻𝗱𝗲
+ 𝘁 𝗣𝗞 𝗦𝗮𝗲𝗻𝗰𝗵𝗮𝗶 - Flyweight Muay Thai\n\n
+ 🥊 2. 𝗔𝗱𝗵𝗮𝗺 𝗥𝘂𝘇𝗶𝗲𝘃 vs. 𝗦𝗵𝗼𝗺
+ 𝗮 𝗢𝗸𝘂𝗺𝘂𝗿𝗮 - Strawweight Kickboxing\n\n🥊 1. 𝗤
+ 𝘂𝗼𝗰 𝗗𝗮𝗻𝗵 vs. 𝗞𝗼𝘁𝗮𝗿𝗼 𝗧𝗮𝗻
+ 𝗮𝗸𝗮 - Flyweight Mixed Martial Arts\n\n---------------------------
+ -----\nSource: https://watch.onefc.com/events/one-friday-fights-148\nCalen
+ dar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-148
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69c23b65c866bf920a34d0db@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260403T113000Z
+DTEND:20260403T163054Z
+SUMMARY:ONE Friday Fights 149 & The Inner Circle 9
+DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 14. 𝗧𝗼𝗺𝘆𝗮𝗺𝗸𝗼𝗼𝗻𝗴 𝗕𝗵𝘂
+ 𝗺𝗷𝗮𝗶𝘁𝗵𝗮𝗶 vs. 𝗕𝗲𝗷𝗲𝗻𝘂𝘁𝗮 𝗠
+ 𝗮𝘅𝗶𝗺𝘂𝘀 - Flyweight Muay Thai\n\n🥊 13. 𝗜𝘀𝗮
+ 𝗻𝗻𝘂𝗲𝗮 𝗦𝗼𝗿 𝗦𝗮𝘀𝗶𝘄𝗮𝘁 vs. 𝗞
+ 𝗵𝘂𝗻𝗽𝗼𝗻 𝗔𝗲𝗸𝗺𝘂𝗮𝗻𝗴𝗻𝗼𝗻 - Fl
+ yweight Muay Thai\n\n🥊 12. 𝗞𝗲𝘃𝗶𝗻 𝗚𝘂𝗶𝗹𝗹
+ 𝗲𝗻 vs. 𝗔𝗹𝗶 𝗞𝗲𝗹𝗮𝘁 - Featherweight Muay Thai\n
+ \n🥊 11. 𝗞𝗵𝘂𝗻𝘀𝘂𝗸 𝗧𝟭 𝗙𝗶𝗴𝗵𝘁 𝗔
+ 𝗰𝗮𝗱𝗲𝗺𝘆 vs. 𝗛𝗮𝗿 𝗟𝗶𝗻𝗴 𝗢𝗺 - Atom
+ weight Muay Thai\n\n🥊 10. 𝗧𝗼𝗿𝗲𝗽𝗰𝗵𝗶 𝗗𝗼𝗻
+ 𝗴𝗮𝗸 vs. 𝗣𝗮𝗿𝘃𝗶𝘇 𝗞𝗵𝗮𝗺𝗶𝗱𝘇𝗵
+ 𝗼𝗻𝗼𝘃 - Strawweight Mixed Martial Arts\n\n🥊 9. 𝗣𝗹𝗼
+ 𝘆𝗷𝗮𝗻 𝗦𝗶𝘁𝗻𝗮𝘆𝗼𝗸𝗱𝗮𝗺 vs. 𝗩𝗮
+ 𝗻𝗲𝘀𝘀𝗮 𝗥𝗼𝗺𝗮𝗻𝗼𝘄𝘀𝗸𝗶 - Atomweight
+  Muay Thai\n\n🥊 8. 𝗗𝗲𝗹𝗳𝗮𝗻 𝗗𝘄𝗶 𝗦𝗮𝘁
+ 𝗿𝗶𝗼 vs. 𝗕𝗹𝗮𝗰𝗸𝘀𝗵𝗶𝘀𝗵𝗮 𝗦𝗼𝘁
+ 𝗮𝗿𝗼 - Atomweight Kickboxing\n\n🥊 7. 𝗜𝘀𝗮𝗶𝗮𝗵 
+ 𝗕𝗮𝗱𝗮𝘁𝗼 vs. 𝗥𝗲𝘁𝘀𝘂 𝗦𝗮𝘀𝗵𝗶𝗱
+ 𝗮 - Flyweight Kickboxing\n\n🥊 6. 𝗣𝗮𝘆𝗮𝗸𝗿𝘂𝘁 
+ 𝗦𝘂𝗮𝗷𝗮𝗻𝘁𝗼𝗸𝗺𝘂𝗮𝘆𝘁𝗵𝗮𝗶 vs. 
+ 𝗜𝗸𝗸𝗼 𝗢𝘁𝗮 - Strawweight Muay Thai\n\n🥊 5. 𝗞𝗮
+ 𝗼𝘁𝗮𝗲𝗺 𝗙𝗮𝗶𝗿𝘁𝗲𝘅 vs. 𝗫𝗮𝘃𝗶𝗲
+ 𝗿 𝗚𝗼𝗻𝘇𝗮𝗹𝗲𝘇 - Flyweight Muay Thai\n\n🥊 4. 
+ 𝗔𝗲𝗸𝗸𝗮𝗹𝗮𝗸 𝗦𝗼𝗿 𝗦𝗮𝗺𝗮𝗿𝗻𝗴
+ 𝗮𝗿𝗺𝗲𝗻𝘁 vs. 𝗗𝗼𝗸𝗺𝗮𝗶𝗽𝗮 𝗦𝗮𝗻
+ 𝘁𝗶𝘂𝗯𝗼𝗻 - Strawweight Muay Thai\n\n🥊 3. 𝗧𝗼𝗻
+ 𝗴𝗹𝗮𝗺𝗽𝗼𝗼𝗻 𝗙𝗔 𝗚𝗿𝗼𝘂𝗽 vs. 𝗣
+ 𝗲𝘁𝗻𝗮𝗺𝗸𝗵𝗼𝗻𝗴 𝗦𝗼𝗿 𝗠𝗮𝗻𝗲𝗲
+ 𝗸𝗵𝗼𝘁 - Strawweight Muay Thai\n\n🥊 2. 𝗝𝗮𝗿𝗮𝗱
+ 𝗰𝗵𝗮𝗶 𝗠𝗮𝘅𝗷𝗮𝗻𝗱𝗲𝗲 vs. 𝗧𝗵𝗮𝗻
+ 𝘁 𝗭𝗶𝗻 - Flyweight Muay Thai\n\n🥊 1. 𝗭𝗮𝗿 𝗠𝗮
+ 𝘄𝗶𝗮 vs. 𝗧𝗮𝗶𝗴𝗮 𝗢𝗿𝗶𝗶 - Bantamweight Mixe
+ d Martial Arts\n\n--------------------------------\nSource: https://watch.
+ onefc.com/events/one-friday-fights-149\nCalendar updated: 2026-09-12T19:31
+ :51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-149
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69c23d612d5b603c265b907f@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260410T113000Z
+DTEND:20260410T163124Z
+SUMMARY:ONE Friday Fights 150 & The Inner Circle 10
+DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 14. 𝗞𝗼𝗺𝗽𝗲𝘁 𝗦𝗶𝘁𝘀𝗮𝗿𝗮𝘄
+ 𝗮𝘁𝘀𝘂𝗲𝗿 vs. 𝗔𝘁𝘁𝗮𝗰𝗵𝗮𝗶 𝗞𝗲𝗹
+ 𝗮𝘀𝗽𝗼𝗿𝘁 - Strawweight Muay Thai\n\n🥊 13. 𝗥𝗮𝗺
+ 𝗯𝗼𝗻𝗴 𝗦𝗼𝗿 𝗧𝗵𝗲𝗿𝗮𝗽𝗮𝘁 vs. 𝗣
+ 𝗲𝘁𝗵𝘂𝗮𝗵𝗶𝗻 𝗝𝗶𝘁𝗺𝘂𝗮𝗻𝗴𝗻𝗼
+ 𝗻 - Flyweight Muay Thai\n\n🥊 12. 𝗡𝘂𝗮𝗽𝗲𝘁 𝗧𝗼
+ 𝗿𝗳𝘂𝗻𝗳𝗮𝗿𝗺 vs. 𝗦𝗼𝗿𝗻𝘀𝘂𝗲𝗸𝗻
+ 𝗼𝗶 𝗙𝗔 𝗚𝗿𝗼𝘂𝗽 - Flyweight Muay Thai\n\n🥊 11. 
+ 𝗕𝗮𝗿𝘁𝗲𝗸 𝗣𝗮𝘀𝘇𝗰𝘇𝘆𝗸 vs. 𝗡𝗮𝘀
+ 𝘀𝗶𝗯 𝗛𝗺𝗲𝗱𝗲 - Lightweight Muay Thai\n\n🥊 10. 𝗗
+ 𝗮𝗻𝘁𝗲 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘀 vs. 𝗗𝗮𝗹𝗶
+ 𝗮𝗻 𝗗𝗮𝘄𝗼𝗱𝘆 - Lightweight Muay Thai\n\n🥊 9. 𝗖
+ 𝗵𝗼𝗸𝗱𝗲𝗲 𝗠𝗮𝘅𝗷𝗮𝗻𝗱𝗲𝗲 vs. 𝗦𝗮
+ 𝗹𝗮𝗶 𝗛𝘁𝗮𝗻 𝗞𝗵𝗲𝗲 𝗦𝗵𝗲𝗶𝗻 - Atom
+ weight Muay Thai\n\n🥊 8. 𝗪𝗮𝗹𝗱𝗶𝗺𝗶𝗿 𝗕𝗿𝗶
+ 𝘁𝗲𝘇 vs. 𝗥𝗮𝘀𝘂𝗹 𝗥𝗮𝗵𝗶𝗺𝗼𝘃 - Banta
+ mweight Mixed Martial Arts\n\n🥊 7. 𝗛𝗼𝗻𝗴 𝗖𝗵𝗲𝗻
+ 𝗴𝘇𝗵𝗶 vs. 𝗞𝗮𝘇𝘂𝘁𝗲𝗿𝘂 𝗬𝗮𝗺𝗮𝘇
+ 𝗮𝗸𝗶 - Flyweight Kickboxing\n\n🥊 6. 𝗛𝘂𝗮𝗻𝗴 𝗭
+ 𝗵𝗲𝗻𝗴𝗯𝗮𝗻𝗴 vs. 𝗞𝗼𝘀𝗲𝗶 𝗬𝗼𝘀𝗵
+ 𝗶𝗱𝗮 - Flyweight Kickboxing\n\n🥊 5. 𝗥𝗲𝗴𝗶𝗮𝗻 
+ 𝗘𝗲𝗿𝘀𝗲𝗹 vs. 𝗥𝘂𝗻𝗴𝗿𝗮𝘄𝗲𝗲 𝗦𝗶
+ 𝘁𝘀𝗼𝗻𝗴𝗽𝗲𝗲𝗻𝗼𝗻𝗴 - Lightweight World Champ
+ ionship\n\n🥊 4. 𝗜𝘀𝗮𝗮𝗰 𝗠𝗼𝗵𝗮𝗺𝗺𝗲𝗱 v
+ s. 𝗥𝗶𝘁𝘁𝗶𝗱𝗲𝘁 𝗟𝘂𝗸𝗷𝗮𝗼𝗽𝗼𝗿
+ 𝗼𝗻𝗴𝘁𝗼𝗺 - Strawweight Muay Thai\n\n🥊 3. 𝗘𝗹𝗶
+ 𝗲𝘀 𝗔𝗯𝗱𝗲𝗹𝗮𝗹𝗶 vs. 𝗛𝗶𝗰𝗵𝗮𝗺 
+ 𝗭𝗲𝗿𝗼𝘂𝗮𝗹𝗶 - Featherweight Muay Thai\n\n🥊 2. 𝗞
+ 𝗮𝗼𝗸𝗮𝗿𝗮𝘁 𝗦𝗼𝗿 𝗧𝗶𝗲𝗻𝗽𝗼 vs. 
+ 𝗟𝗼𝗴𝗮𝗻 𝗖𝗵𝗮𝗻 - Bantamweight Muay Thai\n\n🥊 1. 
+ 𝗛𝗲𝗿𝗼 𝗠𝗮𝗿𝗰𝗼 𝗠𝗮𝗻𝗴𝘂𝗿𝗮𝘆 vs.
+  𝗞𝗼𝘁𝗮 𝗔𝗯𝗲 - Lightweight Mixed Martial Arts\n\n-------
+ -------------------------\nSource: https://watch.onefc.com/events/one-frid
+ ay-fights-150\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-150
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:693656e9f1049ab8d0238bfd@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260411T010000Z
+DTEND:20260411T041010Z
+SUMMARY:ONE Fight Night 42
+DESCRIPTION:ONE Championship · Complete Event · 8 bouts\n📍 Lumpinee St
+ adium\, Bangkok\nTimes display automatically in your calendar time zone.\n
+ \n--------------------------------\nBOUTS\n-------------------------------
+ -\n\n🥊 8. 𝗖𝗵𝗮𝘀𝗲 𝗠𝗮𝗻𝗻 vs. 𝗗𝘇𝗵𝗮
+ 𝗯𝗶𝗿 𝗗𝘇𝗵𝗮𝗯𝗿𝗮𝗶𝗹𝗼𝘃 - Welterweight M
+ ixed Martial Arts\n\n🥊 7. 𝗦𝗮𝗺-𝗔 𝗚𝗮𝗶𝘆𝗮𝗻
+ 𝗴𝗵𝗮𝗱𝗮𝗼 vs. 𝗘𝗹𝗺𝗲𝗵𝗱𝗶 𝗘𝗹 𝗝
+ 𝗮𝗺𝗮𝗿𝗶 - Strawweight Muay Thai\n\n🥊 6. 𝗦𝘂𝗮𝗸
+ 𝗶𝗺 𝗣𝗼𝗻𝗴𝘀𝘂𝗽𝗵𝗮𝗻 𝗣𝗞 vs. 𝗩𝗹
+ 𝗮𝗱𝗶𝗺𝗶𝗿 𝗞𝘂𝘇𝗺𝗶𝗻 - Bantamweight Muay Thai
+ \n\n🥊 5. 𝗛𝗶𝗿𝗼𝗯𝗮 𝗠𝗶𝗻𝗼𝘄𝗮 vs. 𝗞𝗮
+ 𝗿𝗲𝗻 𝗚𝗵𝗮𝘇𝗮𝗿𝘆𝗮𝗻 - Strawweight Mixed Mart
+ ial Arts\n\n🥊 4. 𝗕𝗹𝗮𝗰𝗸 𝗣𝗮𝗻𝘁𝗵𝗲𝗿 vs. 
+ 𝗗𝗶𝗲𝗴𝗼 𝗣𝗮𝗲𝘇 - Flyweight Muay Thai\n\n🥊 3. 
+ 𝗗𝗮𝗻𝘁𝗲 𝗟𝗲𝗼𝗻 vs. 𝗞𝗲𝗻𝘁𝗮 𝗜𝘄
+ 𝗮𝗺𝗼𝘁𝗼 - Welterweight Submission Grappling\n\n🥊 2. 𝗝
+ 𝗼𝘀𝗵𝘂𝗮 𝗣𝗲𝗿𝗿𝗲𝗶𝗿𝗮 vs. 𝗚𝗶𝗹𝗯
+ 𝗲𝗿𝘁 𝗡𝗮𝗸𝗮𝘁𝗮𝗻𝗶 - Flyweight Mixed Martial Ar
+ ts\n\n🥊 1. 𝗗𝗺𝗶𝘁𝗿𝗶𝗶 𝗞𝗼𝘃𝘁𝘂𝗻 vs. 
+ 𝗠𝗼𝗵𝗮𝗻𝗮𝗱 𝗕𝗮𝘁𝘁𝗯𝗼𝗼𝘁𝘁𝗶 - Ba
+ ntamweight Muay Thai\n\n--------------------------------\nSource: https://
+ watch.onefc.com/events/onefightnight42\nCalendar updated: 2026-09-12T19:31
+ :51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/onefightnight42
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69c23dc65663797ee49d0744@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260424T113000Z
+DTEND:20260424T163057Z
+SUMMARY:ONE Friday Fights 151 & The Inner Circle 11
+DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 13. 𝗣𝗮𝗻𝗽𝗮𝗱𝗲𝗷 𝗟𝗼𝗼𝗸𝘀𝘂
+ 𝗮𝗻 vs. 𝗨𝗯𝗮𝗶𝗱 𝗛𝘂𝘀𝘀𝗮𝗶𝗻 - Flyweight
+  Muay Thai\n\n🥊 12. 𝗣𝗲𝘁𝗺𝘂𝗮𝗻𝗴𝘀𝗿𝗶 𝗧
+ 𝗼𝗿𝗳𝘂𝗻𝗳𝗮𝗿𝗺 vs. 𝗖𝗵𝗮𝗻𝗸𝗿𝗶𝘁 
+ 𝗠𝗮𝗻𝗼𝗽 𝗚𝘆𝗺 - Flyweight Muay Thai\n\n🥊 11. 𝗟
+ 𝗮𝗺𝘀𝗶𝗻𝗴 𝗧𝟭 𝗙𝗶𝗴𝗵𝘁 𝗔𝗰𝗮𝗱
+ 𝗲𝗺𝘆 vs. 𝗙𝗮𝗸𝗵𝗿𝗶𝗱𝗱𝗶𝗻 𝗞𝗵𝗮𝘀
+ 𝗮𝗻𝗼𝘃 - Flyweight Muay Thai\n\n🥊 10. 𝗣𝗲𝘁𝗺𝘂
+ 𝗮𝗻𝗴𝘁𝗵𝗮𝗶 𝗦𝗼𝗿 𝗡𝗮𝗿𝘂𝗲𝗺𝗼𝗻
+  vs. 𝗠𝗮𝗿𝘁í𝗻 𝗣𝗮𝗿𝗿𝗮 - Atomweight Muay Thai\n\
+ n🥊 9. 𝗡𝗶𝗸𝗼 𝗔𝗶𝗸𝗼𝗻𝗲𝗻 vs. 𝗥𝘂𝘀
+ 𝗹𝗮𝗻 𝗕𝗼𝗹𝗸𝘃𝗮𝗱𝘇𝗲 - Lightweight Mixed Mart
+ ial Arts\n\n🥊 8. 𝗞𝗮𝘁𝗶 𝗠𝗼𝗿 𝗥𝗮𝗷𝗮𝗯𝗵
+ 𝗮𝘁𝗞𝗼𝗿𝗮𝘁 vs. 𝗞𝗹𝗶𝗻𝗽𝗵𝗮𝗸𝗮 𝗣
+ 𝗼𝗿 𝗧𝗵𝗮𝗶𝘀𝗼𝗻𝗴 - Atomweight Muay Thai\n\n🥊 7
+ . 𝗥𝗶𝗰𝗮𝗿𝗱𝗼 𝗦𝗮𝗻𝗰𝗵𝗲𝘇 vs. 𝗥𝘆
+ 𝘂𝗸𝗶 𝗞𝗮𝘄𝗮𝗻𝗼 - Strawweight Kickboxing\n\n🥊 6. 
+ 𝗧𝗵𝗼𝗮𝗻 𝗡𝗴𝘂𝘆𝗲𝗻 𝗧𝗵𝗮𝗻𝗵 vs. 
+ 𝗥𝗼𝗿𝘆 𝗧𝘂𝗿𝗻𝗲𝗿 - Strawweight Mixed Martial Arts
+ \n\n🥊 5. 𝗣𝗲𝘁 𝗦𝘂𝗮𝗻𝗹𝘂𝗮𝗻𝗴𝗿𝗼𝗱
+ 𝘆𝗼𝗸 vs. 𝗡𝗮𝗵𝘆𝗮𝗻 𝗠𝗼𝗵𝗮𝗺𝗺𝗲𝗱
+  - Atomweight Muay Thai\n\n🥊 4. 𝗖𝗮𝗿𝗹𝗼 𝗕𝘂𝗺𝗶
+ 𝗻𝗮-𝗮𝗻𝗴 vs. 𝗕𝗮𝘁𝗼𝗰𝗵𝗶𝗿 𝗕𝗮𝘁
+ 𝘀𝗮𝗶𝗸𝗵𝗮𝗻 - Bantamweight Mixed Martial Arts\n\n🥊 3. 
+ 𝗗𝗼𝗻𝗸𝗶𝗻𝗴 𝗬𝗼𝘁𝗵𝗮𝗿𝗮𝗸𝗺𝘂𝗮
+ 𝘆𝘁𝗵𝗮𝗶 vs. 𝗖𝗵𝗲𝗻 𝗝𝗶𝗮𝘆𝗶 - Flyweight
+  Kickboxing\n\n🥊 2. 𝗧𝗲𝘀𝘀𝗮 𝗗𝗲 𝗞𝗼𝗺 vs. 𝗚
+ 𝗶𝗼𝗿𝗴𝗶𝗮 𝗣𝗶𝗲𝗿𝗼𝗽𝗮𝗻 - Atomweight Kic
+ kboxing\n\n🥊 1. 𝗦𝗵𝗲𝗻𝗴 𝗬𝗶 𝗛𝗮𝗻𝗴 vs. 𝗥
+ 𝗲𝗶𝗷𝗶 - Strawweight Kickboxing\n\n-----------------------------
+ ---\nSource: https://watch.onefc.com/events/one-friday-fights-151\nCalenda
+ r updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-151
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6919632a1a5f7bbe93610ca9@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260429T053000Z
+DTEND:20260429T130246Z
+SUMMARY:ONE Samurai 1
+DESCRIPTION:ONE Championship · Complete Event · 15 bouts\n📍 Ariake Are
+ na\, Tokyo\nTimes display automatically in your calendar time zone.\n\n---
+ -----------------------------\nBOUTS\n--------------------------------\n\n
+ 🥊 15. 𝗥𝗼𝗱𝘁𝗮𝗻𝗴 𝗝𝗶𝘁𝗺𝘂𝗮𝗻𝗴𝗻
+ 𝗼𝗻 vs. 𝗧𝗮𝗸𝗲𝗿𝘂 𝗦𝗲𝗴𝗮𝘄𝗮 - Interim F
+ lyweight World Championship\n\n🥊 14. 𝗬𝘂𝘆𝗮 𝗪𝗮𝗸𝗮
+ 𝗺𝗮𝘁𝘀𝘂 vs. 𝗔𝘃𝗮𝘇𝗯𝗲𝗸 𝗞𝗵𝗼𝗹𝗺
+ 𝗶𝗿𝘇𝗮𝗲𝘃 - Flyweight World Championship\n\n🥊 13. 𝗡
+ 𝗮𝗱𝗮𝗸𝗮 vs. 𝗦𝗼𝗻𝗴𝗰𝗵𝗮𝗶𝗻𝗼𝗶 𝗞
+ 𝗶𝗮𝘁𝘀𝗼𝗻𝗴𝗿𝗶𝘁 - Atomweight World Championship\n
+ \n🥊 12. 𝗝𝗼𝗻𝗮𝘁𝗵𝗮𝗻 𝗛𝗮𝗴𝗴𝗲𝗿𝘁
+ 𝘆 vs. 𝗬𝘂𝗸𝗶 𝗬𝗼𝘇𝗮 - Bantamweight World Championsh
+ ip\n\n🥊 11. 𝗠𝗮𝗿𝗮𝘁 𝗚𝗿𝗶𝗴𝗼𝗿𝗶𝗮𝗻 v
+ s. 𝗞𝗮𝗶𝘁𝗼 - Featherweight Kickboxing\n\n🥊 10. 𝗔𝘆
+ 𝗮𝗸𝗮 𝗠𝗶𝘂𝗿𝗮 vs. 𝗖𝗵𝗶𝗵𝗶𝗿𝗼 𝗦
+ 𝗮𝘄𝗮𝗱𝗮 - Atomweight Mixed Martial Arts\n\n🥊 9. 𝗛𝗶
+ 𝗿𝗼𝗸𝗶 𝗔𝗸𝗶𝗺𝗼𝘁𝗼 vs. 𝗧𝗮𝗶𝗺𝘂 
+ 𝗛𝗶𝘀𝗮𝗶 - Bantamweight Kickboxing\n\n🥊 8. 𝗛𝗶𝗿𝗼
+ 𝗺𝗶 𝗪𝗮𝗷𝗶𝗺𝗮 vs. 𝗥𝗶𝗰𝗮𝗿𝗱𝗼 𝗕
+ 𝗿𝗮𝘃𝗼 - Featherweight Kickboxing\n\n🥊 7. 𝗜𝘁𝘀𝘂
+ 𝗸𝗶 𝗛𝗶𝗿𝗮𝘁𝗮 vs. 𝗥𝗶𝘁𝘂 𝗣𝗵𝗼𝗴
+ 𝗮𝘁 - Atomweight Mixed Martial Arts\n\n🥊 6. 𝗧𝗮𝘁𝘀𝘂
+ 𝗺𝗶𝘁𝘀𝘂 𝗪𝗮𝗱𝗮 vs. 𝗦𝗲𝗶𝗶𝗰𝗵𝗶𝗿
+ 𝗼 𝗜𝘁𝗼 - Flyweight Mixed Martial Arts\n\n🥊 5. 𝗞𝗲𝗶
+ 𝘁𝗼 𝗬𝗮𝗺𝗮𝗸𝗶𝘁𝗮 vs. 𝗥𝘆𝗼𝗵𝗲𝗶 
+ 𝗞𝘂𝗿𝗼𝘀𝗮𝘄𝗮 - Strawweight Mixed Martial Arts\n\n🥊 
+ 4. 𝗦𝗵𝗶𝗺𝗼𝗻 𝗬𝗼𝘀𝗵𝗶𝗻𝗮𝗿𝗶 vs. 𝗝
+ 𝗼𝗵𝗮𝗻 𝗚𝗵𝗮𝘇𝗮𝗹𝗶 - Flyweight Muay Thai\n\n
+ 🥊 3. 𝗧𝗼𝗺𝗮 𝗞𝘂𝗿𝗼𝗱𝗮 vs. 𝗧𝗼𝗸𝗶 
+ 𝗧𝗮𝗺𝗮𝗿𝘂 - Strawweight Kickboxing\n\n🥊 2. 𝗛𝘆𝘂 
+ vs. 𝗧𝗮𝗶𝗸𝗶 𝗡𝗮𝗶𝘁𝗼 - Flyweight Kickboxing\n\n
+ 🥊 1. 𝗞𝗮𝗻𝗮𝘁𝗮 𝗡𝗮𝗴𝗮𝗶 vs. 𝗔𝘁𝘀𝘂
+ 𝗯𝗼 𝗞𝗮𝗺𝗯𝗲 - Bantamweight Mixed Martial Arts\n\n-------
+ -------------------------\nSource: https://watch.onefc.com/events/one-samu
+ rai-1\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Ariake Arena\, Tokyo
+URL:https://watch.onefc.com/events/one-samurai-1
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69c23e415663797ee49d074b@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260501T113000Z
+DTEND:20260501T162922Z
+SUMMARY:ONE Friday Fights 152 & The Inner Circle 12
+DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 13. 𝗞𝗼𝗻𝗴𝗸𝗹𝗮𝗶 𝗦𝗼𝗿 𝗦𝗼𝗺
+ 𝗺𝗮𝗶 vs. 𝗝𝘂𝗹𝗶𝗼 𝗟𝗼𝗯𝗼 - Bantamweight Muay
+  Thai\n\n🥊 12. 𝗣𝗮𝗻𝗿𝗶𝘁 𝗟𝘂𝗸𝗷𝗮𝗼𝗺
+ 𝗮𝗲𝘀𝗮𝗶𝘄𝗮𝗿𝗲𝗲 vs. 𝗞𝗿𝗶𝘀𝗮𝗻𝗮 
+ 𝗗𝗼𝘄𝗱𝗲𝗻𝗺𝘂𝗮𝘆𝘁𝗵𝗮𝗶 - Bantamweight Mu
+ ay Thai\n\n🥊 11. 𝗣𝗲𝘁𝗰𝗵𝗮𝗸𝗿𝗶𝘁 𝗚𝗮𝘃
+ 𝗶𝗻𝗴𝘆𝗺 vs. 𝗦𝗶𝗻𝗴𝘀𝘂𝗲𝗸 𝗦𝗮𝗸𝗮
+ 𝗻𝘂𝗽𝗼𝗻𝗴 - Strawweight Muay Thai\n\n🥊 10. 𝗙𝗮𝗰
+ 𝗲 𝗘𝗿𝗮𝘄𝗮𝗻 vs. 𝗣𝗮𝘆𝗮𝗸𝗺𝘂𝗮𝗻𝗴
+ 𝘀𝗶𝗻𝗴 𝗣𝗞 𝗦𝗮𝗲𝗻𝗰𝗵𝗮𝗶 - Strawweight M
+ uay Thai\n\n🥊 9. 𝗦𝘂𝗮𝗷𝗮𝗻 𝗦𝗼𝗿 𝗜𝘀𝗮𝗿
+ 𝗮𝗰𝗵𝗼𝘁 vs. 𝗔𝗿𝘀𝗼𝗼𝗻𝗻𝗼𝗶 𝗦𝗶𝘁
+ 𝗷𝗮𝘀𝗶𝗻𝗴 - Flyweight Muay Thai\n\n🥊 8. 𝗧𝗲𝗽𝗸
+ 𝗮𝗺𝗶𝗻 𝗧𝗵𝗮𝗻𝗮𝗽𝗼𝗹𝗥𝗲𝘀𝗼𝗿𝘁 
+ vs. 𝗗𝗮𝘄𝗶𝘁 𝗧𝟭 𝗙𝗶𝗴𝗵𝘁 𝗔𝗰𝗮𝗱
+ 𝗲𝗺𝘆 - Strawweight Muay Thai\n\n🥊 7. 𝗣𝗲𝘁𝘀𝗮𝗺
+ 𝗮𝗿𝘁 𝗠𝘂𝗮𝗻𝗴𝗽𝗵𝗮𝗽𝗵𝘂𝗺 vs. 𝗝𝗮
+ 𝗶𝗽𝗲𝘁 𝗣𝗮𝘁𝗰𝗵𝗮𝗿𝗮𝗴𝘆𝗺 - Strawweigh
+ t Muay Thai\n\n🥊 6. 𝗙𝗮𝗵𝘀𝗮𝗶 𝗔𝗼𝗿 𝗬𝘂𝘁
+ 𝘁𝗵𝗮𝗰𝗵𝗮𝗶 vs. 𝗡𝗮𝘁𝗮𝗹𝗶𝗮 𝗗𝗶𝗮
+ 𝗰𝗵𝗸𝗼𝘃𝗮 - Strawweight Muay Thai\n\n🥊 5. 𝗥𝗮𝘁
+ 𝗰𝗵𝗮𝘀𝗶𝗲𝘀𝗮𝗻 𝗟𝗮𝗼𝗰𝗵𝗼𝗸𝗰𝗵
+ 𝗮𝗿𝗼𝗲𝗻 vs. 𝗘𝗹𝗯𝗿𝘂𝘀 𝗢𝘀𝗺𝗮𝗻𝗼
+ 𝘃 - Featherweight Muay Thai\n\n🥊 4. 𝗗𝘂𝗮𝗻𝗴𝗱𝗮𝘄
+ 𝗻𝗼𝗶 𝗟𝗼𝗼𝗸𝘀𝗮𝗶𝗸𝗼𝗻𝗴𝗱𝗶𝗻 vs. 
+ 𝗬𝗮𝗻𝗮 𝗬𝗶𝗽 - Atomweight Muay Thai\n\n🥊 3. 𝗦𝘂
+ 𝗸𝘀𝗮𝘄𝗮𝘁 𝗣𝗞 𝗦𝗮𝗲𝗻𝗰𝗵𝗮𝗶 vs. 
+ 𝗟𝗶𝗻𝘂𝘀 𝗕𝘆𝗹𝗮𝗻𝗱𝗲𝗿 - Bantamweight Muay 
+ Thai\n\n🥊 2. 𝗖𝗵𝗼 𝗞𝘆𝗲𝗼𝗻𝗴 𝗝𝗮𝗲 vs. 
+ 𝗗𝘇𝗵𝗮𝗺𝗶𝗹 𝗢𝘀𝗺𝗮𝗻𝗼𝘃 - Bantamweight K
+ ickboxing\n\n🥊 1. 𝗖𝗵𝗮𝘁𝗽𝗲𝘁 𝗦𝘂𝗮𝗯𝗹𝗮
+ 𝗰𝗸𝗺𝘂𝗮𝘆𝘁𝗵𝗮𝗶 vs. 𝗥𝗶𝗸𝘂 𝗜𝘁𝗼
+  - Atomweight Muay Thai\n\n--------------------------------\nSource: https
+ ://watch.onefc.com/events/one-friday-fights-152\nCalendar updated: 2026-09
+ -12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-152
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69c23e762d5b603c265b90ac@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260508T113000Z
+DTEND:20260508T163323Z
+SUMMARY:ONE Friday Fights 153 & The Inner Circle 13
+DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 14. 𝗪𝗼𝗿𝗮𝗽𝗼𝗻 𝗟𝘂𝗸𝗷𝗮𝗼𝗽
+ 𝗼𝗿𝗼𝗻𝗴𝘁𝗼𝗺 vs. 𝗧𝗼𝗺 𝗖𝗮𝘀𝘀𝗲 - B
+ antamweight Muay Thai\n\n🥊 13. 𝗗𝗲𝗱𝗱𝘂𝗮𝗻𝗴𝗹𝗲
+ 𝗸 𝗧𝗼𝗿𝗳𝘂𝗻𝗳𝗮𝗿𝗺 vs. 𝗖𝘆𝗯𝗲𝗿 
+ 𝗦𝗼𝗿 𝗧𝗶𝗲𝗻𝗽𝗼 - Bantamweight Muay Thai\n\n🥊 12.
+  𝗞𝗵𝘂𝗻𝗽𝗼𝗻𝗻𝗼𝗶 𝗦𝗼𝗿 𝗦𝗼𝗺𝗺
+ 𝗮𝗶 vs. 𝗬𝗲 𝗬𝗶𝗻𝘁 𝗡𝗮𝘂𝗻𝗴 - Flyweight Mu
+ ay Thai\n\n🥊 11. 𝗞𝗮𝗲𝘄𝗸𝗮𝗻𝗴𝘄𝗮𝗻 𝗧𝗼
+ 𝗿𝗳𝘂𝗻𝗳𝗮𝗿𝗺 vs. 𝗠𝗼𝗵𝗮𝗺𝗲𝗱 𝗧𝗮
+ 𝗼𝘂𝗳𝘆𝗾 - Flyweight Muay Thai\n\n🥊 10. 𝗞𝗲𝗻𝗱
+ 𝘂 𝗜𝗿𝘃𝗶𝗻𝗴 vs. 𝗔𝗱𝗮𝗺 𝗕𝗲𝗻𝘄𝗮
+ 𝗿𝘄𝗮𝗿 - Bantamweight Muay Thai\n\n🥊 9. 𝗛𝗲𝗿𝗻 𝗟
+ 𝗼𝗼𝗸𝘀𝘂𝗮𝗻 vs. 𝗖𝗶𝗵𝗮𝗻 𝗗𝗼𝗴𝘂 - A
+ tomweight Muay Thai\n\n🥊 8. 𝗧𝗮𝘆𝗹𝗼𝗿 𝗠𝗰𝗖𝗹
+ 𝗮𝘁𝗰𝗵𝗶𝗲 vs. 𝗭𝗼𝗲 𝗡𝗲𝘂𝘀𝗰𝗵𝘄𝗮
+ 𝗻𝗱𝗲𝗿 - Flyweight Muay Thai\n\n🥊 7. 𝗪𝗮𝗻 𝗠𝘂
+ 𝗵𝗮𝗺𝗺𝗮𝗱 𝗦𝗮𝗯𝗿𝗶 vs. 𝗔𝗹𝗱𝗼 𝗖
+ 𝗿𝘂𝘇 - Flyweight Muay Thai\n\n🥊 6. 𝗝𝗼𝗻𝗴𝗷𝘂𝗻
+  𝗣𝗮𝗿𝗸 vs. 𝗝𝘂𝗻𝗽𝗲𝗶 𝗡𝗮𝗴𝗮𝘁𝗼
+ 𝗺𝗲 - Bantamweight Mixed Martial Arts\n\n🥊 5. 𝗔𝗱𝗮𝗺 
+ 𝗦𝗼𝗿 𝗗𝗲𝗰𝗵𝗮𝗽𝗮𝗻 vs. 𝗘𝗻𝘇𝗼 𝗖
+ 𝗹𝗮𝗿𝗶𝘀𝘀𝗲 - Strawweight Muay Thai\n\n🥊 4. 𝗥𝗶
+ 𝗳𝗱𝗲𝗮𝗻 𝗠𝗮𝘀𝗱𝗼𝗿 vs. 𝗣𝗲𝘁𝗸𝗶𝗮
+ 𝘁𝘁𝗶𝘀𝗮𝗸 𝗢 𝗦𝗮𝗻𝘀𝘂𝗸 - Atomweight Muay T
+ hai\n\n🥊 3. 𝗖𝗵𝗮𝗿𝘁𝗽𝗮𝘆𝗮𝗸 𝗦𝗮𝗸𝘀
+ 𝗮𝘁𝗼𝗼𝗻 vs. 𝗧𝗵𝘄𝗮𝘆 𝗟𝗶𝗻 𝗛𝘁𝗲
+ 𝘁 - Strawweight Muay Thai\n\n🥊 2. 𝗣𝗲𝘁𝗸𝗵𝗮𝗼𝗸
+ 𝗿𝗮𝗱𝗼𝗻𝗴 𝗟𝘂𝗸𝗷𝗮𝗼𝗺𝗮𝗲𝘀𝗮𝗶
+ 𝘁𝗵𝗼𝗻𝗴 vs. 𝗩𝗶𝗰𝘁𝗼𝗿 𝗛𝘂𝗴𝗼 - Light
+ weight Muay Thai\n\n🥊 1. 𝗥𝗼𝗱𝗿𝗶𝗴𝗼 𝗠𝗮𝗿𝗲
+ 𝗹𝗹𝗼 vs. 𝗗𝗮𝗶𝗸𝗶 𝗬𝗼𝗻𝗲𝗸𝘂𝗿𝗮 - B
+ antamweight Submission Grappling\n\n--------------------------------\nSour
+ ce: https://watch.onefc.com/events/one-friday-fights-153\nCalendar updated
+ : 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-153
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69c363ad2d5b603c265b98bf@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260515T113000Z
+DTEND:20260515T163211Z
+SUMMARY:ONE Friday Fights 154 & The Inner Circle 14
+DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 13. 𝗦𝗮𝗺𝗶𝗻𝗴𝗱𝗮𝗺 𝗟𝗼𝗼𝗸𝘀
+ 𝘂𝗮𝗻 vs. 𝗬𝗼𝗱𝗽𝗵𝘂𝗽𝗮 𝗣𝗲𝘁𝗸𝗶𝗮
+ 𝘁𝗽𝗲𝘁 - Bantamweight Muay Thai\n\n🥊 12. 𝗥𝘂𝗻𝗴𝗻
+ 𝗮𝗿𝗮𝗶 𝗞𝗶𝗮𝘁𝗺𝗼𝗼𝟵 vs. 𝗗𝗲𝗻 𝗦
+ 𝗶𝘁𝗻𝗮𝘆𝗼𝗸𝘁𝗮𝘄𝗲𝗲𝗽𝘁𝗮𝗽𝗵𝗼
+ 𝗻𝗴 - Strawweight Muay Thai\n\n🥊 11. 𝗦𝗮𝗻𝗶𝘁 𝗔𝗲
+ 𝗸𝗺𝘂𝗮𝗻𝗴𝗻𝗼𝗻 vs. 𝗘𝗹𝘃𝗶𝗻 𝗠𝗮𝗺
+ 𝗺𝗮𝗱𝗼𝘃 - Flyweight Muay Thai\n\n🥊 10. 𝗗𝗮𝗳𝗶 
+ 𝗦𝗼𝗿 𝗗𝗲𝗰𝗵𝗮𝗽𝗮𝗻 vs. 𝗔𝗻𝗼𝘂𝘄𝗮
+ 𝘁 𝗠𝗲𝗿𝗹𝗲𝘁 - Strawweight Muay Thai\n\n🥊 9. 𝗦𝗮
+ 𝗲𝗻𝗺𝘂𝗮𝗻𝗴𝗻𝗼𝗶 𝗣𝗞 𝗦𝗮𝗲𝗻𝗰𝗵
+ 𝗮𝗶 vs. 𝗔𝘀𝘂𝗿𝗮 𝗧𝗵𝗶𝗮𝗴𝗲𝘀𝗵 - Flywe
+ ight Muay Thai\n\n🥊 8. 𝗠𝗮𝗵𝗲𝘀𝘂𝗮𝗻 𝗔𝗲𝗸
+ 𝗺𝘂𝗮𝗻𝗴𝗻𝗼𝗻 vs. 𝗔𝘂𝗻𝗴 𝗧𝘂𝗻 𝗕
+ 𝗼 - Atomweight Muay Thai\n\n🥊 7. 𝗪𝗮𝗻𝗴 𝗣𝗲𝗻𝗴
+ 𝗵𝘂𝗶 vs. 𝗦𝗲𝗺𝗶𝗵 𝗦𝗮𝗵 𝗖𝗶𝗻𝗱𝗶
+ 𝗿 - Featherweight Kickboxing\n\n🥊 6. 𝗦𝘂𝗹𝗮𝗶𝗺𝗮
+ 𝗻 𝗟𝗼𝗼𝗸𝘀𝘂𝗮𝗻 vs. 𝗝𝘂𝗮𝗻 𝗠𝗮𝗿
+ 𝘁𝗶𝗻𝗲𝘇 - Flyweight Muay Thai\n\n🥊 5. 𝗗𝗲𝗻𝗶𝘀
+  𝗗𝗼𝘁𝘀𝗲𝗻𝗸𝗼 vs. 𝗛𝗶𝗿𝗼𝗸𝗶 𝗦𝘂
+ 𝘇𝘂𝗸𝗶 - Bantamweight Kickboxing\n\n🥊 4. 𝗢𝘂𝗺𝗮𝗿
+  𝗞𝗮𝗻𝗲 vs. 𝗔𝗻𝗮𝘁𝗼𝗹𝘆 𝗠𝗮𝗹𝘆𝗸
+ 𝗵𝗶𝗻 - Heavyweight World Championship\n\n🥊 3. 𝗞𝗮𝗱𝗲 
+ 𝗥𝘂𝗼𝘁𝗼𝗹𝗼 vs. 𝗛𝗶𝗿𝗼𝘆𝘂𝗸𝗶 𝗧𝗲
+ 𝘁𝘀𝘂𝗸𝗮 - Lightweight Mixed Martial Arts\n\n🥊 2. 𝗦𝘂
+ 𝗽𝗲𝗿𝗹𝗲𝗸 vs. 𝗔𝗯𝗱𝘂𝗹𝗹𝗮 𝗗𝗮𝘆𝗮
+ 𝗸𝗮𝗲𝘃 - Bantamweight Muay Thai\n\n🥊 1. 𝗠𝗶𝗮 𝗧𝗿
+ 𝗲𝘃𝗼𝗿𝗿𝗼𝘄 vs. 𝗞𝗼𝗸𝗼𝘇 - Atomweight Muay Th
+ ai\n\n--------------------------------\nSource: https://watch.onefc.com/ev
+ ents/one-friday-fights-154\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-154
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69365709f1049ab8d0238c01@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260516T010000Z
+DTEND:20260516T044323Z
+SUMMARY:ONE Fight Night 43
+DESCRIPTION:ONE Championship · Complete Event · 9 bouts\n📍 Lumpinee St
+ adium\, Bangkok\nTimes display automatically in your calendar time zone.\n
+ \n--------------------------------\nBOUTS\n-------------------------------
+ -\n\n🥊 9. 𝗧𝗮𝗻𝗴 𝗞𝗮𝗶 vs. 𝗦𝗵𝗮𝗺𝗶𝗹 
+ 𝗚𝗮𝘀𝗮𝗻𝗼𝘃 - Featherweight World Championship\n\n🥊 8.
+  𝗣𝗲𝘁𝗰𝗵𝘁𝗮𝗻𝗼𝗻𝗴 𝗣𝗲𝘁𝗰𝗵𝗳𝗲
+ 𝗿𝗴𝘂𝘀 vs. 𝗕𝗲𝗻 𝗪𝗼𝗼𝗹𝗹𝗶𝘀𝘀 - Banta
+ mweight Kickboxing\n\n🥊 7. 𝗗𝗶𝗼𝗴𝗼 𝗥𝗲𝗶𝘀 vs. 
+ 𝗬𝘂𝗸𝗶 𝗧𝗮𝗸𝗮𝗵𝗮𝘀𝗵𝗶 - Bantamweight Submi
+ ssion Grappling\n\n🥊 6. 𝗔𝘀𝗹𝗮𝗺𝗷𝗼𝗻 𝗢𝗿𝘁
+ 𝗶𝗸𝗼𝘃 vs. 𝗝𝗼𝗿𝗱𝗮𝗻 𝗘𝘀𝘁𝘂𝗽𝗶𝗻
+ 𝗮𝗻 - Flyweight Muay Thai\n\n🥊 5. 𝗬𝗼𝘀𝘂𝗸𝗲 𝗦
+ 𝗮𝗿𝘂𝘁𝗮 vs. 𝗙𝗮𝗯𝗶𝗼 𝗛𝗲𝗻𝗿𝗶𝗾𝘂
+ 𝗲 - Strawweight Mixed Martial Arts\n\n🥊 4. 𝗙𝗲𝗹𝗶𝗽𝗲 
+ 𝗟𝗼𝗯𝗼 vs. 𝗡𝗼𝗻𝘁𝗮𝗰𝗵𝗮𝗶 𝗝𝗶𝘁𝗺
+ 𝘂𝗮𝗻𝗴𝗻𝗼𝗻 - Bantamweight Muay Thai\n\n🥊 3. 𝗘𝗸
+ 𝗼 𝗥𝗼𝗻𝗶 𝗦𝗮𝗽𝘂𝘁𝗿𝗮 vs. 𝗟𝗶𝘁𝗼 
+ 𝗔𝗱𝗶𝘄𝗮𝗻𝗴 - Bantamweight Mixed Martial Arts\n\n🥊 2. 
+ 𝗟𝘂𝗼 𝗖𝗵𝗮𝗼 vs. 𝗗𝗲𝗻𝗶𝘀 𝗦𝗼𝘂𝘇
+ 𝗮 𝗝𝗿 - Featherweight Kickboxing\n\n🥊 1. 𝗝𝗼𝗵𝗮𝗻
+ 𝗻𝗮 𝗣𝗲𝗿𝘀𝘀𝗼𝗻 vs. 𝗠𝗮𝗿𝘁𝘆𝗻𝗮 
+ 𝗗𝗼𝗺𝗶𝗻𝗰𝘇𝗮𝗸 - Atomweight Muay Thai\n\n-----------
+ ---------------------\nSource: https://watch.onefc.com/events/onefightnigh
+ t43\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/onefightnight43
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69c365012d5b603c265b98d9@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260522T113000Z
+DTEND:20260522T163124Z
+SUMMARY:ONE Friday Fights 155 & The Inner Circle 15
+DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 13. 𝗗𝗲𝗰𝗵𝗼 𝗠𝗮𝘃𝗶𝗻𝗻 𝗠𝘂𝗮
+ 𝘆𝘁𝗵𝗮𝗶 vs. 𝗥𝘂𝘀𝘁𝗮𝗺 𝗬𝘂𝗻𝘂𝘀𝗼
+ 𝘃 - Flyweight Muay Thai\n\n🥊 12. 𝗣𝗮𝗻𝗽𝗮𝘆𝗮𝗸 
+ 𝗝𝗶𝘁𝗺𝘂𝗮𝗻𝗴𝗻𝗼𝗻 vs. 𝗢𝘁𝗵𝗺𝗮𝗻 
+ 𝗥𝗵𝗼𝘂𝗻𝗶 - Bantamweight Kickboxing\n\n🥊 11. 𝗞𝗼
+ 𝗵𝘁𝗮𝗼 𝗣𝗲𝘁𝘀𝗼𝗺𝗻𝘂𝗸 vs. 𝗗𝗼𝗸𝗺
+ 𝗮𝗶𝗽𝗮 𝗦𝗮𝗻𝘁𝗶𝘂𝗯𝗼𝗻 - Strawweight Muay T
+ hai\n\n🥊 10. 𝗖𝗵𝗼𝗸𝗽𝗿𝗲𝗲𝗰𝗵𝗮 𝗣𝗞 𝗧
+ 𝗼𝗺𝗧𝗞𝗮𝗹𝗮𝗶𝘆𝗼𝗻𝘁 vs. 𝗛𝘂𝘆𝗻𝗵 
+ 𝗩𝗮𝗻 𝗧𝘂𝗮𝗻 - Strawweight Muay Thai\n\n🥊 9. 𝗥𝘂
+ 𝗻𝗴𝗿𝘂𝗮𝗻𝗴𝗹𝗲𝗸 𝗧𝗡 𝗠𝘂𝗮𝘆𝘁𝗵
+ 𝗮𝗶 vs. 𝗧𝗲𝗿𝗱𝗸𝗶𝗮𝘁 𝗦𝗶𝘁 𝗝𝗮𝘆
+ 𝗸𝗮𝗿𝗻 - Flyweight Muay Thai\n\n🥊 8. 𝗞𝗼𝗺 𝗣𝗞 
+ 𝗦𝗮𝗲𝗻𝗰𝗵𝗮𝗶 vs. 𝗞𝘄𝗮𝗻𝗴𝗽𝗮 𝗧𝗲
+ 𝗲𝗻𝗼𝗶𝗸𝗮𝗰𝗵𝗶𝗻 - Atomweight Muay Thai\n\n🥊 7.
+  𝗦𝗵𝗲𝗻𝗴 𝗬𝗶𝘇𝗵𝘂𝗼 vs. 𝗦𝗵𝗼𝗺𝗮 
+ 𝗢𝗸𝘂𝗺𝘂𝗿𝗮 - Strawweight Kickboxing\n\n🥊 6. 𝗬𝗶 
+ 𝗡𝘂𝗼 vs. 𝗥𝗮𝗻𝗺𝗮 - Bantamweight Kickboxing\n\n🥊 5.
+  𝗬𝗼𝗱-𝗜𝗤 𝗢𝗿 𝗣𝗶𝗺𝗼𝗹𝘀𝗿𝗶 vs. 𝗞
+ 𝗶𝗮𝗺𝗿𝗮𝗻 𝗡𝗮𝗯𝗮𝘁𝗶 - Bantamweight Muay Thai
+ \n\n🥊 4. 𝗟𝗶𝘂 𝗠𝗲𝗻𝗴𝘆𝗮𝗻𝗴 vs. 𝗚𝗮𝗯
+ 𝗿𝗶𝗲𝗹 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 - Featherweight Kickboxing\n
+ \n🥊 3. 𝗙𝗿𝗲𝗱𝗱𝗶𝗲 𝗛𝗮𝗴𝗴𝗲𝗿𝘁𝘆 vs
+ . 𝗬𝗼𝗻𝗶𝘀 𝗔𝗻𝗮𝗻𝗲 - Strawweight Muay Thai\n\n
+ 🥊 2. 𝗩𝗲𝗿𝗼 vs. 𝗞𝗮𝗻𝗮 - Atomweight Kickboxing\n\n
+ 🥊 1. 𝗩𝗶𝗲𝘁 𝗔𝗻𝗵 𝗗𝗼 vs. 𝗞𝘆𝘂𝗻𝗴
+ 𝗷𝘂𝗻𝗴 𝗞𝗶𝗺 - Flyweight Mixed Martial Arts\n\n----------
+ ----------------------\nSource: https://watch.onefc.com/events/one-friday-
+ fights-155\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-155
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69c3703b2d5b603c265b98dd@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260529T113000Z
+DTEND:20260529T163029Z
+SUMMARY:ONE Friday Fights 156 & The Inner Circle 16
+DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 13. 𝗞𝗼𝗻𝗴𝘀𝘂𝗸 𝗦𝗶𝘁𝘀𝗮𝗿𝗮
+ 𝘄𝗮𝘁𝘀𝘂𝗲𝗿 vs. 𝗞𝗵𝗮𝗸𝗶𝗺𝗼𝘃 𝗔𝗻
+ 𝗶𝘀𝗷𝗼𝗻 - Bantamweight Muay Thai\n\n🥊 12. 𝗠𝗼𝗻𝗴
+ 𝗸𝗼𝗹𝗱𝗲𝘁𝗹𝗲𝗸 𝗣𝗼𝗿 𝗣𝗶𝗺-𝗼𝗻 vs
+ . 𝗥𝘂𝘀𝗹𝗮𝗻 𝗧𝘂𝗸𝘁𝗮𝗿𝗼𝘃 - Bantamweight
+  Muay Thai\n\n🥊 11. 𝗣𝗲𝘁𝗺𝘂𝗮𝗻𝗴𝘀𝗿𝗶 𝗧
+ 𝗼𝗿𝗳𝘂𝗻𝗳𝗮𝗿𝗺 vs. 𝗗𝗶𝗼𝗴𝗼 𝗠𝗶𝗴
+ 𝘂𝗲𝗹 𝗦𝗶𝗹𝘃𝗮 - Flyweight Kickboxing\n\n🥊 10. 𝗦
+ 𝗼𝗻𝗴𝗽𝗮𝗻𝗱𝗶𝗻 𝗖𝗵𝗼𝗿 𝗞𝗮𝗲𝘄𝘄
+ 𝗶𝘀𝗲𝘁 vs. 𝗚𝘂𝗮𝗻𝘆𝘂 𝗦𝗼𝗿 𝗥𝗮𝘁
+ 𝗰𝗵𝗮𝗻𝗶𝗸𝘂𝗹 - Flyweight Muay Thai\n\n🥊 9. 𝗧𝗮
+ 𝗻𝗱𝗶𝗮𝗼 𝗣𝗼𝗿 𝗣𝗿𝗮𝘄𝗶𝘁 vs. 𝗕𝗮
+ 𝗸𝗷𝗼 𝗦𝗶𝘁𝗸𝗵𝘂𝗻𝗺𝗮 - Atomweight Muay Thai\n
+ \n🥊 8. 𝗣𝗲𝘁𝗯𝗮𝗻𝗴𝘀𝗮𝗿𝗮𝘆 𝗣𝗼𝗿 
+ 𝗔𝗼𝘄𝘁𝗮𝗹𝗮𝘆𝗯𝗮𝗻𝗴𝘀𝗮𝗿𝗮𝘆 vs. 
+ 𝗪𝗮𝗻𝗰𝗵𝗮𝗻𝗮 𝗕𝗼𝗺𝘂𝗮𝗻𝗴𝗽𝗮𝗻 
+ - Bantamweight Muay Thai\n\n🥊 7. 𝗠𝗼𝗻𝗷𝗶𝘁 𝗬𝗲𝗶
+ 𝗻 vs. 𝗣𝗮𝗿𝘃𝗶𝘇 𝗞𝗵𝗮𝗺𝗶𝗱𝘇𝗵𝗼𝗻
+ 𝗼𝘃 - Strawweight Mixed Martial Arts\n\n🥊 6. 𝗛𝗼𝗮𝗻𝗴 
+ 𝗚𝗶𝗮 𝗗𝗮𝗶 vs. 𝗞𝗼𝘀𝗲𝗶 𝗬𝗼𝘀𝗵𝗶
+ 𝗱𝗮 - Flyweight Kickboxing\n\n🥊 5. 𝗥𝗮𝗺𝗮𝗱𝗮𝗻 
+ 𝗢𝗻𝗱𝗮𝘀𝗵 vs. 𝗦𝘂𝗿𝗶𝘆𝗮𝗻𝗹𝗲𝗸 𝗣
+ 𝗼𝗿 𝗬𝗲𝗻𝘆𝗶𝗻𝗴 - Flyweight Muay Thai\n\n🥊 4. 
+ 𝗔𝗯𝗱𝗮𝗹𝗹𝗮𝗵 𝗢𝗻𝗱𝗮𝘀𝗵 vs. 𝗗𝗲𝗻
+ 𝗸𝗿𝗶𝗮𝗻𝗴𝗸𝗿𝗮𝗶 𝗠𝗮𝘃𝗶𝗻𝗻 𝗠𝘂
+ 𝗮𝘆𝘁𝗵𝗮𝗶 - Strawweight Muay Thai\n\n🥊 3. 𝗧𝗮𝗻
+ 𝗴𝘁𝗮𝗻𝗴 𝗦𝗼𝗿 𝗗𝗲𝗰𝗵𝗮𝗽𝗮𝗻 vs. 
+ 𝗭𝗲𝘆𝗻𝗲𝗽 𝗖𝗲𝘁𝗶𝗻𝘁𝗮𝘀 - Atomweight Mua
+ y Thai\n\n🥊 2. 𝗟𝗶-𝗖𝗵𝗶𝗵 𝗬𝗲𝗵 vs. 𝗬𝘂𝘁
+ 𝗼 𝗛𝗶𝗿𝗮𝘆𝗮𝗺𝗮 - Atomweight Kickboxing\n\n🥊 1. 
+ 𝗔𝗱𝗶𝗹𝗲𝘁 𝗞𝗮𝗹𝗲𝗻𝗱𝗲𝗿𝗼𝘃 vs. 𝗝
+ 𝗮𝗻𝗴 𝗦𝗲𝗼𝗻 𝗚𝘆𝘂 - Flyweight Mixed Martial Arts\
+ n\n--------------------------------\nSource: https://watch.onefc.com/event
+ s/one-friday-fights-156\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-156
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69c370a8c866bf920a34d743@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260605T113000Z
+DTEND:20260605T163007Z
+SUMMARY:ONE Friday Fights 157 & The Inner Circle 17
+DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 14. 𝗬𝗼𝗱𝗹𝗲𝗸𝗽𝗲𝘁 𝗢𝗿 𝗔𝘁𝗰
+ 𝗵𝗮𝗿𝗶𝘆𝗮 vs. 𝗦𝗮𝘄 𝗠𝗶𝗻 𝗠𝗶𝗻 - Flyw
+ eight Muay Thai\n\n🥊 13. 𝗫𝗮𝘃𝗶𝗲𝗿 𝗚𝗼𝗻𝘇𝗮
+ 𝗹𝗲𝘇 vs. 𝗣𝗮𝘆𝗮𝗸𝘀𝘂𝗿𝗶𝗻 𝗝𝗣 𝗣
+ 𝗼𝘄𝗲𝗿 - Flyweight Muay Thai\n\n🥊 12. 𝗟𝗮𝗺𝗻𝗮
+ 𝗺𝗸𝗵𝗼𝗻𝗴 𝗕𝗦 𝗠𝘂𝗮𝘆𝘁𝗵𝗮𝗶 vs. 
+ 𝗞𝗮𝗷𝗼𝗿𝗻𝗸𝗹𝗮𝗶 𝗦𝗼𝗿 𝗦𝗼𝗿 𝗧
+ 𝗼𝗶𝗽𝗮𝗱𝗿𝗶𝗲𝘄 - Bantamweight Muay Thai\n\n🥊 11. 
+ 𝗝𝗼𝗺𝗵𝗼𝗱 𝗪𝗼𝗿 𝗔𝘂𝗿𝗮𝗰𝗵𝗮 vs. 
+ 𝗣𝗲𝘁𝗸𝗼𝗻𝗴𝗳𝗮 𝗪𝗼𝗿 𝗧𝗲𝗰𝗵𝗻𝗼
+ 𝗹𝘂𝗮𝗻𝗴𝗽𝘂𝘀𝘂𝗮𝗻𝗴 - Strawweight Muay Thai\n
+ \n🥊 10. 𝗞𝗿𝘂𝗻𝗴𝘁𝗵𝗮𝗶 𝗧𝗼𝗿𝗳𝘂𝗻
+ 𝗳𝗮𝗿𝗺 vs. 𝗧𝗲𝗽𝗮𝘁𝗶𝗽 𝗖𝗵𝗮𝗺𝗽𝗸
+ 𝗵𝗮𝗼𝗺𝗼𝗼𝘁𝗼𝗱 - Strawweight Muay Thai\n\n🥊 9. 
+ 𝗔𝗹𝗶𝗰𝗶𝗮 𝗦𝗮𝗻𝗰𝗵𝗲𝘇 𝗦𝗮𝗲𝘇 vs.
+  𝗡𝗼𝗻𝗴𝗻𝘂𝗸 𝗦𝗼𝗿 𝗗𝗲𝗰𝗵𝗮𝗽𝗮
+ 𝗻 - Atomweight Muay Thai\n\n🥊 8. 𝗧𝗮𝘆𝗼 𝗭𝗮𝗵𝗶
+ 𝗿 vs. 𝗠𝗮𝗵𝗮𝗻 𝗙𝗼𝘁𝗼𝘂𝗵𝗶 - Lightweight M
+ uay Thai\n\n🥊 7. 𝗝𝗮𝗰𝗼𝗯 𝗧𝗵𝗼𝗺𝗽𝘀𝗼𝗻 
+ vs. 𝗧𝗮𝗸𝘂𝗺𝗮 𝗢𝘁𝗮 - Flyweight Muay Thai\n\n🥊 6.
+  𝗡𝗮𝘇𝗮𝗿𝗲𝘁𝗵 𝗟𝗮𝗹𝘁𝗵𝗮𝘇𝘂𝗮𝗹
+ 𝗮 vs. 𝗝𝗵𝗼𝗻 𝗕𝗿𝘂𝘁𝗮𝘀 - Strawweight Mixed Mar
+ tial Arts\n\n🥊 5. 𝗞𝗼𝗻𝗴𝗰𝗵𝗮𝗶 𝗖𝗵𝗮𝗻𝗮
+ 𝗶𝗱𝗼𝗻𝗺𝘂𝗲𝗮𝗻𝗴 vs. 𝗩𝗮𝗹𝗲𝗿𝗶𝗶 
+ 𝗦𝘁𝗿𝘂𝗻𝗴𝗮𝗿𝗶 - Strawweight Muay Thai\n\n🥊 4. 
+ 𝗝𝗮𝗼𝘀𝘂𝗮𝘆𝗮𝗶 𝗠𝗼𝗿 𝗞𝗿𝘂𝗻𝗴𝘁
+ 𝗵𝗲𝗽𝘁𝗵𝗼𝗻𝗯𝘂𝗿𝗶 vs. 𝗬𝘂𝗮𝗻 𝗣𝗲
+ 𝗻𝗴𝗷𝗶𝗲 - Flyweight Kickboxing\n\n🥊 3. 𝗕𝗮𝗻𝗹
+ 𝘂𝗲𝗹𝗼𝗸 𝗦𝗶𝘁𝘄𝗮𝘁𝗰𝗵𝗮𝗿𝗮𝗰𝗵
+ 𝗮𝗶 vs. 𝗥𝗮𝗸 𝗘𝗿𝗮𝘄𝗮𝗻 - Atomweight Muay Thai\
+ n\n🥊 2. 𝗥𝗮𝗵𝗶𝗺 𝗧𝗰𝗵𝗲𝗿𝗰𝗵𝗮𝗶𝗸
+ 𝗼 vs. 𝗭𝗵𝗮𝗻𝗴 𝗝𝗶𝗻𝗵𝘂 - Flyweight Kickboxing\
+ n\n🥊 1. 𝗝𝘂𝗹𝗶𝗮𝗻 𝗠𝗮𝘆𝗼𝗿𝗴𝗮 vs. 𝗧
+ 𝗮𝗶𝗴𝗮 𝗢𝗿𝗶𝗶 - Bantamweight Mixed Martial Arts\n\n---
+ -----------------------------\nSource: https://watch.onefc.com/events/one-
+ friday-fights-157\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-157
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69c37119c866bf920a34d763@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260612T113000Z
+DTEND:20260612T163248Z
+SUMMARY:ONE Friday Fights 158 & The Inner Circle 18
+DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 14. 𝗠𝗮𝗶𝘀𝗮𝗻𝗴𝗸𝘂𝗺 𝗦𝗼𝗿 𝗬
+ 𝗶𝗻𝗴𝗰𝗵𝗮𝗿𝗼𝗲𝗻𝗸𝗮𝗿𝗻𝗰𝗵𝗮𝗻
+ 𝗴 vs. 𝗣𝗲𝘁𝗻𝗮𝗺𝗸𝗵𝗼𝗻𝗴 𝗦𝗼𝗿 𝗠
+ 𝗮𝗻𝗲𝗲𝗸𝗵𝗼𝘁 - Strawweight Muay Thai\n\n🥊 13. 𝗠
+ 𝗮𝗺𝘂𝗸𝗮 𝗨𝘀𝘂𝗯𝘆𝗮𝗻 vs. 𝗘𝗻𝘇𝗼 
+ 𝗞𝗮𝗿𝘁𝗼𝘂𝗺 - Featherweight Kickboxing\n\n🥊 12. 𝗞
+ 𝘆𝗮𝘄 𝗦𝘄𝗮𝗿 𝗪𝗶𝗻 vs. 𝗦𝗹𝗮𝘁𝗮𝗻 
+ 𝗝𝗶𝘁𝗺𝘂𝗮𝗻𝗴𝗻𝗼𝗻 - Bantamweight Muay Thai\n\n
+ 🥊 11. 𝗣𝗲𝘁𝗽𝗵𝘂𝗽𝗮 𝗔𝗲𝗸𝗽𝘂𝗷𝗲𝗮
+ 𝗻 vs. 𝗪𝘂𝘁𝘁𝗶𝗱𝗲𝘁 𝗧𝗼𝗿𝗳𝘂𝗻𝗳𝗮
+ 𝗿𝗺 - Flyweight Muay Thai\n\n🥊 10. 𝗧𝗲𝗽𝗸𝗮𝗺𝗶
+ 𝗻 𝗧𝗵𝗮𝗻𝗮𝗽𝗼𝗹𝗥𝗲𝘀𝗼𝗿𝘁 vs. 𝗬𝗼
+ 𝗱𝗨𝗱𝗼𝗻 𝗞 𝗧𝗼𝗻𝗴𝘁𝗮𝗹𝗶𝗻𝗴𝗰𝗵
+ 𝗮𝗻 - Atomweight Muay Thai\n\n🥊 9. 𝗣𝗲𝘁𝘀𝘂𝗽𝗵
+ 𝗮𝗻 𝗟𝗼𝗼𝗸𝗺𝘂𝗮𝗻𝗴𝗽𝗲𝘁 vs. 𝗥𝗮𝘄
+ 𝗲𝗲 𝗣𝘂𝗮𝗻𝗽𝗿𝗮𝘁𝘂𝗽𝗵𝗲𝗲 - Flyweight 
+ Muay Thai\n\n🥊 8. 𝗥𝗶𝗰𝗮𝗿𝗱𝗼 𝗦𝗮𝗻𝗰𝗵𝗲
+ 𝘇 vs. 𝗬𝗮𝗻𝗶𝘀 𝗕𝗲𝗻 𝗔𝗹𝗮𝘆𝗮 - Strawwei
+ ght Muay Thai\n\n🥊 7. 𝗦𝗵𝗲𝗶𝗹𝗮 𝗕𝗮𝗿𝗿𝗶𝗼
+ 𝘀 vs. 𝗣𝗹𝗼𝘆𝗷𝗮𝗻 𝗦𝗶𝘁𝗻𝗮𝘆𝗼𝗸𝗱
+ 𝗮𝗺 - Atomweight Muay Thai\n\n🥊 6. 𝗖𝗵𝗲𝗻 𝗝𝗶𝗮
+ 𝘆𝗶 vs. 𝗞𝗮𝘇𝘂𝘁𝗲𝗿𝘂 𝗬𝗮𝗺𝗮𝘇𝗮𝗸
+ 𝗶 - Flyweight Kickboxing\n\n🥊 5. 𝗧𝗼𝗺𝘆𝗮𝗺𝗸𝗼
+ 𝗼𝗻𝗴 𝗕𝗵𝘂𝗺𝗷𝗮𝗶𝘁𝗵𝗮𝗶 vs. 𝗔𝗻𝗮
+ 𝗿 𝗠𝗮𝗺𝗺𝗮𝗱𝗼𝘃 - Flyweight Muay Thai\n\n🥊 4. 
+ 𝗥𝗮𝗺𝗯𝗼𝗻𝗴 𝗦𝗼𝗿 𝗧𝗵𝗲𝗿𝗮𝗽𝗮𝘁
+  vs. 𝗦𝗼𝗿𝗻𝘀𝘂𝗲𝗸𝗻𝗼𝗶 𝗙𝗔 𝗚𝗿𝗼
+ 𝘂𝗽 - Flyweight Muay Thai\n\n🥊 3. 𝗧𝗶𝘁𝘂𝘀 𝗣𝗿
+ 𝗼𝗰𝘁𝗼𝗿 vs. 𝗧𝘂𝗻 𝗠𝗶𝗻 𝗔𝘂𝗻𝗴 - Ligh
+ tweight Muay Thai\n\n🥊 2. 𝗔𝗱𝗵𝗮𝗺 𝗥𝘂𝘇𝗶𝗲𝘃
+  vs. 𝗦𝗼𝗿𝗮 𝗧𝗮𝗻𝗮𝘇𝗮𝘄𝗮 - Strawweight Kickb
+ oxing\n\n🥊 1. 𝗘𝘁𝗵𝗮𝗻 𝗕𝗿𝗼𝗰𝗸𝗲𝘁𝘁 vs.
+  𝗦𝗼𝗿𝗮 𝗘𝗻𝗺𝗲𝗶 - Featherweight Mixed Martial Arts\
+ n\n--------------------------------\nSource: https://watch.onefc.com/event
+ s/one-friday-fights-158\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-158
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69c3716b2d5b603c265b9909@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260619T113000Z
+DTEND:20260619T163034Z
+SUMMARY:ONE Friday Fights 159 & The Inner Circle 19
+DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 13. 𝗫𝗮𝘃𝗶𝗲𝗿 𝗚𝗼𝗻𝘇𝗮𝗹𝗲𝘇 v
+ s. 𝗖𝗵𝗮𝘁𝗮𝗻𝗮𝗻 𝗔𝗽𝗶𝗰𝗵𝗮𝘁 𝗠𝘂
+ 𝗮𝘆𝘁𝗵𝗮𝗶 - Flyweight Muay Thai\n\n🥊 12. 𝗣𝗲𝘁
+ 𝗴𝗮𝗿𝗳𝗶𝗲𝗹𝗱 𝗝𝗶𝘁𝗺𝘂𝗮𝗻𝗴𝗻𝗼
+ 𝗻 vs. 𝗗𝗲𝗻𝗶𝘀 𝗗𝗼𝘁𝘀𝗲𝗻𝗸𝗼 - Bantamwei
+ ght Muay Thai\n\n🥊 11. 𝗞𝗿𝗶𝘁𝗽𝗲𝘁 𝗣𝗞 𝗦𝗮
+ 𝗲𝗻𝗰𝗵𝗮𝗶 vs. 𝗣𝗲𝘁𝗹𝗮𝗺𝗽𝘂𝗻 𝗠𝘂
+ 𝗮𝗱𝗮𝗯𝗹𝗮𝗺𝗽𝗮𝗻𝗴 - Flyweight Muay Thai\n\n🥊
+  10. 𝗧𝗲𝗲𝘆𝗮𝗶 𝗧𝗼𝗿𝗳𝘂𝗻𝗳𝗮𝗿𝗺 vs.
+  𝗛𝗮𝗿 𝗟𝗶𝗻𝗴 𝗢𝗺 - Atomweight Muay Thai\n\n🥊 9. 
+ 𝗔𝗿𝘁𝗵𝘂𝗿 𝗞𝗹𝗼𝗽𝗽 vs. 𝗦𝗼𝗻𝗲𝗿 
+ 𝗦𝗲𝗻 - Bantamweight Kickboxing\n\n🥊 8. 𝗡𝘂𝗮𝗽𝗮𝘁
+ 𝗮𝗽𝗲𝗲 𝗣𝘂𝗱𝗽𝗿𝗮𝗰𝗵𝗮𝗰𝗵𝘂𝗲𝗻 
+ vs. 𝗚𝗮𝗶𝗰𝗵𝗼𝗻 𝗦𝗼𝗿 𝗣𝗿𝗮𝘄𝗮𝘁𝗺
+ 𝘂𝗮𝗻𝗴 - Strawweight Muay Thai\n\n🥊 7. 𝗕𝗼𝘀 𝗖𝗵
+ 𝗮𝘆𝘂𝘁 vs. 𝗛𝘀𝗶𝗮𝗻𝗴 𝗟𝗶𝗮𝗼 - Bantamwei
+ ght Mixed Martial Arts\n\n🥊 6. 𝗪𝗮𝗹𝗶𝗱 𝗦𝗮𝗸𝗵
+ 𝗿𝗮𝗷𝗶 vs. 𝗞𝗮𝗸𝗲𝗿𝘂 - Flyweight Kickboxing\n\n
+ 🥊 5. 𝗦𝗮𝗿𝗺𝗮𝗱 𝗝𝗮𝗵𝗮𝗻𝗮𝗿𝗮 vs. 𝗥
+ 𝘆𝗼 𝗚𝗼𝘁𝗼 - Lightweight Mixed Martial Arts\n\n🥊 4. 𝗔
+ 𝗹𝗹𝘆𝗰𝗶𝗮 𝗛𝗲𝗹𝗹𝗲𝗻 𝗥𝗼𝗱𝗿𝗶𝗴
+ 𝘂𝗲𝘀 vs. 𝗣𝗵𝗲𝘁𝗷𝗲𝗲𝗷𝗮 - Atomweight World C
+ hampionship\n\n🥊 3. 𝗦𝗮𝗺𝗲𝘁 𝗔𝗴𝗱𝗲𝘃𝗲 vs. 
+ 𝗥𝗼𝗺𝗮𝗻 𝗞𝗿𝘆𝗸𝗹𝗶𝗮 - Heavyweight World Cham
+ pionship\n\n🥊 2. 𝗥𝗶𝗳𝗱𝗲𝗮𝗻 𝗠𝗮𝘀𝗱𝗼𝗿 
+ vs. 𝗝𝗮𝘃𝗮𝗱 𝗠𝗼𝘇𝗮𝗳𝗮𝗿𝗶 - Atomweight Mua
+ y Thai\n\n🥊 1. 𝗢𝗹𝗶𝘃𝗶𝗮 𝗕𝗮𝗵𝘀𝗼𝘂𝘀 vs
+ . 𝗣𝗵𝗼𝗻𝘁𝗶𝗽 𝗞𝗵𝗹𝗼𝗻𝗴𝘁𝗼𝗲𝗶
+ 𝘆𝗼𝘂𝘁𝗵𝗰𝗲𝗻𝘁𝗲𝗿 - Catchweight Muay Thai\n\n--
+ ------------------------------\nSource: https://watch.onefc.com/events/one
+ -friday-fights-159\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-159
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69c371e87b5e662d7de9795e@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260626T113000Z
+DTEND:20260626T162928Z
+SUMMARY:ONE Friday Fights 160 & The Inner Circle 20
+DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 14. 𝗡𝘂𝗺𝘀𝘂𝗿𝗶𝗻 𝗖𝗵𝗼𝗿 𝗞𝗲
+ 𝘁𝘄𝗶𝗻𝗮 vs. 𝗦𝗼𝗻𝗴𝗰𝗵𝗮𝗶𝗻𝗼𝗶 𝗞
+ 𝗶𝗮𝘁𝘀𝗼𝗻𝗴𝗿𝗶𝘁 - Atomweight Muay Thai\n\n🥊 13
+ . 𝗬𝗼𝗱𝗸𝗵𝘂𝗻𝗽𝗼𝗻 vs. 𝗦𝗲𝗺𝗶𝗵 𝗦
+ 𝗮𝗵 𝗖𝗶𝗻𝗱𝗶𝗿 - Bantamweight Muay Thai\n\n🥊 12. 
+ 𝗪𝗮𝗻𝗰𝗵𝗮𝗶𝗻𝗼𝗶 𝗣𝗼𝗻𝗴𝘀𝘂𝗽𝗵
+ 𝗮𝗻 𝗣𝗞 vs. 𝗗𝗼𝗸𝗺𝗮𝗶𝗽𝗮 𝗦𝗮𝗻𝘁
+ 𝗶𝘂𝗯𝗼𝗻 - Strawweight Muay Thai\n\n🥊 11. 𝗨𝗯𝗮𝗶
+ 𝗱 𝗛𝘂𝘀𝘀𝗮𝗶𝗻 vs. 𝗦𝗮𝗻𝗽𝗲𝘁 𝗦𝗼
+ 𝗿 𝗦𝗮𝗹𝗮𝗰𝗵𝗲𝗲𝗽 - Flyweight Muay Thai\n\n🥊 10
+ . 𝗖𝗵𝗮𝗿𝘁𝗽𝗮𝘆𝗮𝗸 𝗦𝗮𝗸𝘀𝗮𝘁𝗼
+ 𝗼𝗻 vs. 𝗣𝗮𝗻𝗽𝗮𝗱𝗲𝗷 𝗟𝗼𝗼𝗸𝘀𝘂𝗮
+ 𝗻 - Flyweight Muay Thai\n\n🥊 9. 𝗙𝗮𝗰𝗲 𝗘𝗿𝗮𝘄
+ 𝗮𝗻 vs. 𝗥𝘂𝗻𝗴𝗿𝘂𝗮𝗻𝗴𝗹𝗲𝗸 𝗧𝗡 
+ 𝗠𝘂𝗮𝘆𝘁𝗵𝗮𝗶 - Flyweight Muay Thai\n\n🥊 8. 𝗣𝗲
+ 𝘁 𝗦𝘂𝗮𝗻𝗹𝘂𝗮𝗻𝗴𝗿𝗼𝗱𝘆𝗼𝗸 vs. 𝗔
+ 𝗱𝗮𝗺 𝗦𝗼𝗿 𝗗𝗲𝗰𝗵𝗮𝗽𝗮𝗻 - Atomweight Mu
+ ay Thai\n\n🥊 7. 𝗔𝘆𝗮𝗱 𝗔𝗹𝗯𝗮𝗱𝗿 vs. 𝗦𝗮
+ 𝗲𝗻𝗺𝘂𝗮𝗻𝗴𝗻𝗼𝗶 𝗣𝗞 𝗦𝗮𝗲𝗻𝗰𝗵
+ 𝗮𝗶 - Flyweight Muay Thai\n\n🥊 6. 𝗛𝗲𝗿𝗻 𝗟𝗼𝗼
+ 𝗸𝘀𝘂𝗮𝗻 vs. 𝗥𝘆𝘂𝘆𝗮 𝗢𝗸𝘂𝘄𝗮𝗸𝗶
+  - Atomweight Muay Thai\n\n🥊 5. 𝗔𝘀𝗮𝗱𝘂𝗹𝗮 𝗜𝗺
+ 𝗮𝗻𝗴𝗮𝘇𝗮𝗹𝗶𝗲𝘃 vs. 𝗔𝘀𝗹𝗮𝗺𝗷𝗼
+ 𝗻 𝗢𝗿𝘁𝗶𝗸𝗼𝘃 - Flyweight World Championship\n\n🥊 4
+ . 𝗡𝗼𝗻𝗴-𝗢 𝗛𝗮𝗺𝗮 vs. 𝗞𝗼𝗻𝗴𝘁𝗵𝗼
+ 𝗿𝗮𝗻𝗲𝗲 𝗦𝗼𝗿 𝗦𝗼𝗺𝗺𝗮𝗶 - Flyweight Mua
+ y Thai\n\n🥊 3. 𝗣𝗧𝗧 𝗔𝗽𝗶𝗰𝗵𝗮𝗿𝘁 𝗙𝗮
+ 𝗿𝗺 vs. 𝗝𝘂𝗹𝗶𝗼 𝗟𝗼𝗯𝗼 - Bantamweight Muay Tha
+ i\n\n🥊 2. 𝗦𝘁𝗮𝗺𝗽 𝗙𝗮𝗶𝗿𝘁𝗲𝘅 vs. 𝗖
+ 𝘆𝗻𝘁𝗵𝗶𝗮 𝗙𝗹𝗼𝗿𝗲𝘀 - Atomweight Muay Thai\n
+ \n🥊 1. 𝗠𝘂𝗮𝗻𝗴𝘁𝗵𝗮𝗶 𝗣𝗞 𝗦𝗮𝗲𝗻
+ 𝗰𝗵𝗮𝗶 vs. 𝗣𝗮𝗻𝗿𝗶𝘁 𝗟𝘂𝗸𝗷𝗮𝗼𝗺
+ 𝗮𝗲𝘀𝗮𝗶𝘄𝗮𝗿𝗲𝗲 - Bantamweight Muay Thai\n\n-----
+ ---------------------------\nSource: https://watch.onefc.com/events/one-fr
+ iday-fights-160\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-160
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6936572b2fbf6a23229602bb@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260627T010000Z
+DTEND:20260627T042935Z
+SUMMARY:ONE Fight Night 44
+DESCRIPTION:ONE Championship · Complete Event · 9 bouts\n📍 Lumpinee St
+ adium\, Bangkok\nTimes display automatically in your calendar time zone.\n
+ \n--------------------------------\nBOUTS\n-------------------------------
+ -\n\n🥊 9. 𝗚𝗲𝗼𝗿𝗴𝗲 𝗝𝗮𝗿𝘃𝗶𝘀 vs. 𝗥
+ 𝘂𝗻𝗴𝗿𝗮𝘄𝗲𝗲 𝗦𝗶𝘁𝘀𝗼𝗻𝗴𝗽𝗲𝗲
+ 𝗻𝗼𝗻𝗴 - Lightweight Muay Thai\n\n🥊 8. 𝗢𝗸 𝗥𝗮𝗲 
+ 𝗬𝗼𝗼𝗻 vs. 𝗟𝘂𝗰𝗮𝘀 𝗚𝗮𝗯𝗿𝗶𝗲𝗹 - L
+ ightweight Mixed Martial Arts\n\n🥊 7. 𝗔𝗸𝗶𝗳 𝗚𝘂𝗹𝘂
+ 𝘇𝗮𝗱𝗮 vs. 𝗝𝗼𝗵𝗮𝗻 𝗘𝘀𝘁𝘂𝗽𝗶𝗻𝗮
+ 𝗻 - Flyweight Kickboxing\n\n🥊 6. 𝗦𝗮𝗺 𝗙𝗶𝘁𝘇𝗴
+ 𝗲𝗿𝗮𝗹𝗱 vs. 𝗖𝗵𝗮𝗿𝗹𝗶𝗲 𝗚𝘂𝗲𝘀𝘁
+  - Featherweight Muay Thai\n\n🥊 5. 𝗡𝗮𝗸𝗿𝗼𝗯 𝗙𝗮
+ 𝗶𝗿𝘁𝗲𝘅 vs. 𝗝𝗮𝗰𝗼𝗯 𝗦𝗺𝗶𝘁𝗵 - Banta
+ mweight Muay Thai\n\n🥊 4. 𝗙𝗮𝗯𝗿𝗶𝗰𝗶𝗼 𝗔𝗻𝗱
+ 𝗿𝗲𝘆 vs. 𝗢𝘄𝗲𝗻 𝗝𝗼𝗻𝗲𝘀 - Featherweight Sub
+ mission Grappling\n\n🥊 3. 𝗞𝗮𝗿𝗲𝗻 𝗚𝗵𝗮𝘇𝗮𝗿
+ 𝘆𝗮𝗻 vs. 𝗛𝗶𝘀𝗮𝘀𝗵𝗶 𝗘𝘇𝗮𝗸𝗶 - Straw
+ weight Mixed Martial Arts\n\n🥊 2. 𝗙𝗲𝗿𝗿𝗮𝗿𝗶 𝗙𝗮
+ 𝗶𝗿𝘁𝗲𝘅 vs. 𝗦𝗵𝗶𝗻𝗷𝗶 𝗦𝘂𝘇𝘂𝗸𝗶
+  - Bantamweight Muay Thai\n\n🥊 1. 𝗣𝗮𝘂𝗹 𝗘𝗹𝗹𝗶𝗼
+ 𝘁𝘁 vs. 𝗥𝗲𝗴𝗮𝗻 𝗨𝗽𝘀𝗵𝗮𝘄 - Heavyweight M
+ ixed Martial Arts\n\n--------------------------------\nSource: https://wat
+ ch.onefc.com/events/onefightnight44\nCalendar updated: 2026-09-12T19:31:51
+ .381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/onefightnight44
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a02cfece4595818bd34bd3e@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260710T113034Z
+DTEND:20260710T163029Z
+SUMMARY:ONE Friday Fights 161 & The Inner Circle 21
+DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 14. 𝗝𝗮𝗿𝗮𝗱𝗰𝗵𝗮𝗶 𝗠𝗮𝘅𝗷𝗮
+ 𝗻𝗱𝗲𝗲 vs. 𝗢𝘁𝗵𝗺𝗮𝗻 𝗥𝗵𝗼𝘂𝗻𝗶 - F
+ lyweight Muay Thai\n\n🥊 13. 𝗣𝗲𝘁𝘀𝗶𝗮𝗺 𝗧𝟮𝗔 
+ 𝗪𝗮𝘁𝗲𝗿𝘂𝗯𝗼𝗻 vs. 𝗡𝗶𝗵𝗮𝗱 𝗧𝗮𝗴
+ 𝗵𝗶𝘇𝗮𝗱𝗲 - Strawweight Kickboxing\n\n🥊 12. 𝗧𝗼𝗻
+ 𝗴𝗹𝗮𝗺𝗽𝗼𝗼𝗻 𝗙𝗔 𝗚𝗿𝗼𝘂𝗽 vs. 𝗣
+ 𝗲𝘁𝘀𝗮𝗻𝗴𝘄𝗮𝗻 𝗦𝗼𝗿 𝗦𝗮𝗺𝗮𝗿𝗻
+ 𝗴𝗮𝗿𝗺𝗲𝗻𝘁 - Strawweight Muay Thai\n\n🥊 11. 𝗧𝗼
+ 𝗺 𝗞𝗲𝗼𝗴𝗵 vs. 𝗠𝗶𝗰𝗵𝗮𝗲𝗹 𝗕𝗮𝗿
+ 𝗮𝗻𝗼𝘃 - Featherweight Muay Thai\n\n🥊 10. 𝗞𝗹𝗮𝗿
+ 𝗼𝗯 𝗡𝘂𝗶𝗖𝗮𝗳𝗲𝗯𝗼𝗿𝗮𝗻 vs. 𝗢𝗺𝗮
+ 𝗿 𝗘𝗹 𝗛𝗮𝗹𝗮𝗯𝗶 - Flyweight Muay Thai\n\n🥊 9. 
+ 𝗡𝘂𝗲𝗻𝗴𝗸𝗮𝗼𝗻𝘂𝗲𝗻𝗴 𝗟𝗮𝗼𝗰𝗵
+ 𝗼𝗸𝗰𝗵𝗮𝗿𝗼𝗲𝗻 vs. 𝗠𝗲𝘀𝗵𝗮𝗹 𝗔𝗹
+ 𝘀𝗮𝗲𝗲𝗱 - Bantamweight Muay Thai\n\n🥊 8. 𝗔𝗹𝗲𝘅
+ 𝗮𝗻𝗱𝗿𝗲 𝗞𝗵𝗮𝗻 vs. 𝗚𝗼 𝗧𝗼𝗱𝗼𝗿
+ 𝗼𝗸𝗶 - Featherweight Mixed Martial Arts\n\n🥊 7. 𝗞𝗵𝘂
+ 𝗻𝗱𝗲𝘁 𝗣𝗞 𝗦𝗮𝗲𝗻𝗰𝗵𝗮𝗶 vs. 𝗦𝘂
+ 𝗻𝘃𝗼 𝗧𝗼𝗿𝗳𝘂𝗻𝗳𝗮𝗿𝗺 - Flyweight Muay Tha
+ i\n\n🥊 6. 𝗣𝗵𝗮𝘁𝗶𝗽𝗵𝗮𝗻 𝗔𝗿𝘁𝗵𝗶𝗻
+ 𝗸𝗼𝗻𝗴 vs. 𝗝 𝗛𝗮𝗻 - Featherweight Submission Grapplin
+ g\n\n🥊 5. 𝗠𝗶𝗻 𝗦𝘂𝗻𝗴 𝗞𝗮𝗻𝗴 vs. 𝗬𝘂
+ 𝘀𝗲𝗶 𝗜𝘄𝗮𝗸𝘂𝗿𝗮 - Lightweight Mixed Martial Arts
+ \n\n🥊 4. 𝗝𝗼𝘀𝗵𝘂𝗮 𝗣𝗮𝗰𝗶𝗼 vs. 𝗠𝗮𝗻
+ 𝘀𝘂𝗿 𝗠𝗮𝗹𝗮𝗰𝗵𝗶𝗲𝘃 - Strawweight World Cham
+ pionship\n\n🥊 3. 𝗘𝗱𝘂𝗮𝗿𝗱 𝗙𝗼𝗹𝗮𝘆𝗮𝗻
+ 𝗴 vs. 𝗦𝗵𝗼𝘇𝗼 𝗜𝘀𝗼𝗷𝗶𝗺𝗮 - Lightweight M
+ ixed Martial Arts\n\n🥊 2. 𝗗𝗲𝘁𝗰𝗵𝗮𝘄𝗮𝗹𝗶𝘁 
+ 𝗦𝗶𝗹𝗸𝗺𝘂𝗮𝘆𝘁𝗵𝗮𝗶 vs. 𝗧𝗼𝗺 𝗖𝗮
+ 𝘀𝘀𝗲 - Bantamweight Muay Thai\n\n🥊 1. 𝗘𝗹𝗶𝗲𝘀 𝗔
+ 𝗯𝗱𝗲𝗹𝗮𝗹𝗶 vs. 𝗔𝗹𝗶 𝗞𝗲𝗹𝗮𝘁 - Feath
+ erweight Muay Thai\n\n--------------------------------\nSource: https://wa
+ tch.onefc.com/events/one-friday-fights-161-the-inner-circle\nCalendar upda
+ ted: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-161-the-inner-circle
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a02df32892e5f6e1f306df7@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260717T113025Z
+DTEND:20260717T162922Z
+SUMMARY:ONE Friday Fights 162 & The Inner Circle 22
+DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 13. 𝗞𝗼𝗻𝗴𝗸𝗹𝗮𝗶 𝗦𝗼𝗿 𝗦𝗼𝗺
+ 𝗺𝗮𝗶 vs. 𝗔𝗱𝗮𝗺 𝗕𝗲𝗻𝘄𝗮𝗿𝘄𝗮𝗿 - B
+ antamweight Muay Thai\n\n🥊 12. 𝗞𝗵𝘂𝗻𝗽𝗼𝗻𝗻𝗼𝗶
+  𝗦𝗼𝗿 𝗦𝗼𝗺𝗺𝗮𝗶 vs. 𝗚𝗿𝗲𝗴𝗼𝗿 𝗧
+ 𝗵𝗼𝗺 - Flyweight Muay Thai\n\n🥊 11. 𝗕𝘂𝗮𝗸𝗮𝗲
+ 𝘄 𝗦𝗼𝗿 𝗦𝗼𝗿 𝗣𝗮𝗸𝗼𝗿𝗻 vs. 𝗔𝗹𝗱
+ 𝗼 𝗖𝗿𝘂𝘇 - Flyweight Muay Thai\n\n🥊 10. 𝗦𝗶𝗻𝗴
+ 𝘀𝘂𝗲𝗸 𝗦𝗮𝗸𝗮𝗻𝘂𝗽𝗼𝗻𝗴 vs. 𝗪𝗮𝘁
+ 𝗰𝗵𝗮𝗿𝗮𝗽𝗵𝗼𝗻 𝗥𝗶𝘀𝗶𝗻𝗴𝗺𝘂𝗮
+ 𝘆𝘁𝗵𝗮𝗶 - Strawweight Muay Thai\n\n🥊 9. 𝗝𝗮𝘅𝘀
+ 𝗼𝗻 𝗛𝗮𝘆𝗺𝗮𝗻 vs. 𝗟𝗶𝘂 𝗤𝘂𝗮𝗻 - Ligh
+ tweight Muay Thai\n\n🥊 8. 𝗣𝗲𝘁𝘂𝗯𝗼𝗻 𝗦𝗼𝗿 
+ 𝗧𝗲𝗮𝗻𝗰𝗵𝗮𝗶 vs. 𝗟𝗲𝗿𝗱𝘀𝗶𝗹𝗮 𝗝
+ 𝗶𝘁𝗺𝘂𝗮𝗻𝗴𝗻𝗼𝗻 - Flyweight Muay Thai\n\n🥊 7. 
+ 𝗔𝗹𝗶 𝗔𝗹-𝗞𝗶𝗻𝗮𝗻𝗶 vs. 𝗥𝘆𝘂𝗻𝗼
+ 𝘀𝘂𝗸𝗲 𝗢𝗺𝗼𝗿𝗶 - Strawweight Kickboxing\n\n🥊 6. 
+ 𝗠𝗶𝗮 𝗧𝗿𝗲𝘃𝗼𝗿𝗿𝗼𝘄 vs. 𝗠𝗮𝗴𝗱𝗮
+ 𝗹𝗲𝗻𝗮 𝗣𝗶𝗿𝗰𝗵𝗲𝗿 - Atomweight Muay Thai\n\n
+ 🥊 5. 𝗝𝗼𝗻𝗮𝘁𝗵𝗮𝗻 𝗗𝗶 𝗕𝗲𝗹𝗹𝗮 vs.
+  𝗭𝗵𝗮𝗻𝗴 𝗣𝗲𝗶𝗺𝗶𝗮𝗻 - Strawweight World Cha
+ mpionship\n\n🥊 4. 𝗛𝗲𝗹𝗲𝗻𝗮 𝗖𝗿𝗲𝘃𝗮𝗿 vs.
+  𝗣𝗮𝗶𝗴𝗲 𝗜𝘃𝗲𝘁𝘁𝗲 𝗖𝗹𝘆𝗺𝗲𝗿 - 
+ Openweight Submission Grappling\n\n🥊 3. 𝗞𝗼𝗺𝗽𝗶𝗸𝗮
+ 𝗿𝘁 𝗣𝗞 𝗦𝗮𝗲𝗻𝗰𝗵𝗮𝗶 vs. 𝗠𝘂𝘀𝘁
+ 𝗮𝗳𝗮 𝗔𝗹-𝗧𝗲𝗸𝗿𝗲𝗲𝘁𝗶 - Lightweight Muay 
+ Thai\n\n🥊 2. 𝗦𝗼𝗻𝗿𝗮𝗸 𝗙𝗮𝗶𝗿𝘁𝗲𝘅 vs. 
+ 𝗪𝘂𝘁𝘁𝗶𝗸𝗿𝗮𝗶 𝗪𝗼𝗿 𝗖𝗵𝗮𝗸𝗿𝗮
+ 𝘄𝘂𝘁 - Bantamweight Muay Thai\n\n🥊 1. 𝗬𝘂𝗸𝗶 𝗬𝗼
+ 𝘇𝗮 vs. 𝗕𝗲𝗻 𝗪𝗼𝗼𝗹𝗹𝗶𝘀𝘀 - Bantamweight 
+ Kickboxing\n\n--------------------------------\nSource: https://watch.onef
+ c.com/events/one-friday-fights-162\nCalendar updated: 2026-09-12T19:31:51.
+ 381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-162
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6936578c54637b71645f6503@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260718T010000Z
+DTEND:20260718T050833Z
+SUMMARY:ONE Fight Night 45
+DESCRIPTION:ONE Championship · Complete Event · 9 bouts\n📍 Lumpinee St
+ adium\, Bangkok\nTimes display automatically in your calendar time zone.\n
+ \n--------------------------------\nBOUTS\n-------------------------------
+ -\n\n🥊 9. 𝗟𝘂𝗸𝗲 𝗟𝗲𝘀𝘀𝗲𝗶 vs. 𝗠𝗼𝗵
+ 𝗮𝗺𝗲𝗱 𝗬𝗼𝘂𝗻𝗲𝘀 𝗥𝗮𝗯𝗮𝗵 - Featherwe
+ ight Muay Thai\n\n🥊 8. 𝗦𝘂𝗮𝗯𝗹𝗮𝗰𝗸 𝗧𝗼𝗿 
+ 𝗣𝗿𝗮𝗻𝟰𝟵 vs. 𝗦𝘁𝗲𝗽𝗵𝗲𝗻 𝗜𝗿𝘃𝗶
+ 𝗻𝗲 - Flyweight Muay Thai\n\n🥊 7. 𝗟𝗶𝘁𝗼 𝗔𝗱𝗶
+ 𝘄𝗮𝗻𝗴 vs. 𝗔𝗻𝘁𝗼𝗻𝗶𝗼 𝗖𝗲𝘀𝗮𝗿 - F
+ lyweight Mixed Martial Arts\n\n🥊 6. 𝗝𝗶𝗵𝗶𝗻 𝗥𝗮𝗱
+ 𝘇𝘂𝗮𝗻 vs. 𝗔𝗻𝗮𝘀𝘁𝗮𝘀𝗶𝗮 𝗡𝗶𝗸𝗼
+ 𝗹𝗮𝗸𝗮𝗸𝗼𝘀 - Atomweight Mixed Martial Arts\n\n🥊 5. 
+ 𝗙𝗲𝗹𝗶𝗽𝗲 𝗟𝗼𝗯𝗼 vs. 𝗗𝗺𝗶𝘁𝗿𝗶𝗶
+  𝗞𝗼𝘃𝘁𝘂𝗻 - Bantamweight Muay Thai\n\n🥊 4. 𝗕𝗼𝗸
+ 𝗮𝗻𝗴 𝗠𝗮𝘀𝘂𝗻𝘆𝗮𝗻𝗲 vs. 𝗟𝗲𝗲 𝗦
+ 𝗲𝘂𝗻𝗴 𝗖𝗵𝗲𝗼𝗹 - Strawweight Mixed Martial Arts\n\n
+ 🥊 3. 𝗕𝗹𝗮𝗰𝗸 𝗣𝗮𝗻𝘁𝗵𝗲𝗿 vs. 𝗦𝗲𝗮
+ 𝗻 𝗖𝗹𝗶𝗺𝗮𝗰𝗼 - Flyweight Muay Thai\n\n🥊 2. 𝗔
+ 𝘆𝗮𝗸𝗮 𝗠𝗶𝘂𝗿𝗮 vs. 𝗩𝗶𝗰𝘁𝗼𝗿𝗶𝗮
+  𝗦𝗼𝘂𝘇𝗮 - Strawweight Mixed Martial Arts\n\n🥊 1. 𝗦𝗮
+ 𝗻𝘇𝗵𝗮𝗿 𝗭𝗮𝗸𝗶𝗿𝗼𝘃 vs. 𝗥𝘂𝘀𝗹𝗮
+ 𝗻 𝗦𝗮𝘁𝗶𝗲𝘃 - Flyweight Mixed Martial Arts\n\n----------
+ ----------------------\nSource: https://watch.onefc.com/events/onefightnig
+ ht45\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/onefightnight45
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a02dfd5dac0916d5a3c4f48@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260724T113007Z
+DTEND:20260724T163112Z
+SUMMARY:ONE Friday Fights 163 & The Inner Circle 23
+DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 14. 𝗣𝗼𝗺𝗽𝗲𝘁 𝗣𝗼𝗻𝗴𝗦𝘂𝗽𝗵
+ 𝗮𝗻 𝗣𝗞 vs. 𝗡𝗮𝘁 𝗞𝗵𝗮𝘁 𝗠𝗶𝗻 - Flyweig
+ ht Muay Thai\n\n🥊 13. 𝗠𝗼𝗻𝗴𝗸𝗼𝗹𝗱𝗲𝘁𝗹𝗲
+ 𝗸 𝗣𝗼𝗿 𝗣𝗶𝗺-𝗼𝗻 vs. 𝗨𝘁𝗸𝗶𝗿𝘇𝗵
+ 𝗼𝗻 𝗞𝗵𝗮𝗺𝗶𝗱𝗼𝘃 - Bantamweight Muay Thai\n\n🥊
+  12. 𝗕𝗿𝗮𝘇𝗶𝗹 𝗔𝗲𝗸𝗺𝘂𝗮𝗻𝗴𝗻𝗼𝗻
+  vs. 𝗚𝗿𝗶𝗽𝗽𝗲𝗻 𝗥𝗮𝗰𝗵𝗮𝗻𝗼𝗻 - Flywe
+ ight Muay Thai\n\n🥊 11. 𝗣𝗲𝘁𝘀𝗮𝗺𝗮𝗿𝘁 𝗠𝘂
+ 𝗮𝗻𝗴𝗽𝗵𝗮𝗽𝗵𝘂𝗺 vs. 𝗣𝗲𝘁𝘀𝘂𝗽𝗵
+ 𝗮𝗻 𝗟𝗼𝗼𝗸𝗺𝘂𝗮𝗻𝗴𝗽𝗲𝘁 - Flyweight Muay
+  Thai\n\n🥊 10. 𝗭𝗵𝗮𝗼 𝗭𝗵𝗲𝗻𝗴𝗱𝗼𝗻𝗴 vs
+ . 𝗘𝗱𝘂𝗮𝗿𝗱 𝗠𝗮𝗿𝗸𝗮𝗿𝗶𝗮𝗻 - Strawwei
+ ght Muay Thai\n\n🥊 9. 𝗢'𝗡𝗲𝗮𝗹 𝗧𝗵𝗼𝗺𝗽𝘀
+ 𝗼𝗻 vs. 𝗝𝗮𝘀𝗼𝗻 𝗖𝗵𝗲𝗻 - Featherweight Mixed M
+ artial Arts\n\n🥊 8. 𝗠𝗮𝗵𝗲𝘀𝘂𝗮𝗻 𝗔𝗲𝗸𝗺
+ 𝘂𝗮𝗻𝗴𝗻𝗼𝗻 vs. 𝗬𝗼𝗱𝗨𝗱𝗼𝗻 𝗞 𝗧
+ 𝗼𝗻𝗴𝘁𝗮𝗹𝗶𝗻𝗴𝗰𝗵𝗮𝗻 - Atomweight Muay Tha
+ i\n\n🥊 7. 𝗡𝗮𝗸𝗲𝗲 𝗦𝗶𝗿𝗶𝗹𝘂𝗰𝗸𝗺𝘂
+ 𝗮𝘆𝘁𝗵𝗮𝗶 vs. 𝗣𝗲𝘁𝗯𝗮𝗻𝗰𝗵𝗮 𝗛𝗼
+ 𝗻𝗴𝘁𝗵𝗼𝗻𝗴𝗺𝘂𝗮𝘆𝘁𝗵𝗮𝗶 - Flyweight M
+ uay Thai\n\n🥊 6. 𝗝𝗮𝘆 𝗗𝗲 𝗩𝗶𝗹𝗹𝗮 vs. 𝗠
+ 𝘆𝗸𝗲 𝗢𝗵𝘂𝗿𝗮 - Featherweight Mixed Martial Arts\n\n
+ 🥊 5. 𝗦𝗮𝗺-𝗔 𝗚𝗮𝗶𝘆𝗮𝗻𝗴𝗵𝗮𝗱𝗮𝗼
+  vs. 𝗔𝗹𝗶𝗳𝗳 𝗦𝗼𝗿 𝗗𝗲𝗰𝗵𝗮𝗽𝗮𝗻 - 
+ Interim Strawweight World Championship\n\n🥊 4. 𝗣𝗮𝗻𝗽𝗮𝘆
+ 𝗮𝗸 𝗝𝗶𝘁𝗺𝘂𝗮𝗻𝗴𝗻𝗼𝗻 vs. 𝗔𝗻𝘂𝗮
+ 𝗿 𝗖𝗶𝘀𝗻𝗲𝗿𝗼𝘀 - Bantamweight Kickboxing\n\n🥊 3.
+  𝗠𝗶𝗰𝗵𝗲𝗹 𝗗𝗶𝗿𝗹𝗲𝗻𝗯𝗮𝗰𝗵 vs. 
+ 𝗠𝗮𝗵𝗮𝗻 𝗙𝗼𝘁𝗼𝘂𝗵𝗶 - Lightweight Muay Thai\
+ n\n🥊 2. 𝗥𝘆𝘂𝗷𝗶𝗻 𝗡𝗮𝘀𝘂𝗸𝗮𝘄𝗮 vs. 
+ 𝗧𝗵𝗼𝗻𝗴𝗽𝗼𝗼𝗻 𝗣𝗞 𝗦𝗮𝗲𝗻𝗰𝗵𝗮
+ 𝗶 - Strawweight Kickboxing\n\n🥊 1. 𝗞𝗼𝘀𝗲𝗶 𝗬𝗼𝘀
+ 𝗵𝗶𝗱𝗮 vs. 𝗟𝗶𝘂 𝗝𝘂𝗻𝗰𝗵𝗮𝗼 - Flyweight
+  Kickboxing\n\n--------------------------------\nSource: https://watch.one
+ fc.com/events/one-friday-fights-163\nCalendar updated: 2026-09-12T19:31:51
+ .381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-163
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0d8cf5dac0916d5a3c8d0d@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260731T113012Z
+DTEND:20260731T163439Z
+SUMMARY:ONE Friday Fights 164 & The Inner Circle 24
+DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 13. 𝗪𝗮𝘁𝗰𝗵𝗮𝗿𝗮𝗽𝗵𝗼𝗻 𝗟𝗮
+ 𝗼𝗰𝗵𝗼𝗸𝗰𝗵𝗮𝗿𝗼𝗲𝗻 vs. 𝗔𝗸𝗿𝗮𝗺 
+ 𝗛𝗮𝗺𝗶𝗱𝗶 - Strawweight Muay Thai\n\n🥊 12. 𝗔𝗿𝘀
+ 𝗼𝗼𝗻𝗻𝗼𝗶 𝗦𝗶𝘁𝗷𝗮𝘀𝗶𝗻𝗴 vs. 𝗡𝗼
+ 𝗻𝗴𝗸𝗵𝗮𝗶𝗹𝗲𝗸 𝗗𝗿.𝗞𝗻𝗼𝘁𝗺𝘂𝗮
+ 𝘆𝘁𝗵𝗮𝗶 - Flyweight Muay Thai\n\n🥊 11. 𝗣𝗼𝗻𝗴
+ 𝘀𝗶𝗿𝗶 𝗦𝘂𝗷𝗲𝗲𝗯𝗮𝗺𝗲𝗲𝗸𝗶𝗲𝘄 
+ vs. 𝗔𝗱𝗵𝗮𝗺 𝗥𝘂𝘇𝗶𝗲𝘃 - Strawweight Muay Thai\
+ n\n🥊 10. 𝗞𝗼𝗻𝗴𝗺𝗲𝗲𝗰𝗵𝗮𝗶 𝗦𝗼𝗿 𝗕
+ 𝗮𝗻𝗴𝗿𝗮𝗷𝗮𝗻 vs. 𝗧𝗵𝗼𝗻𝗴𝗰𝗵𝗮𝗶 
+ 𝗝𝗲𝗮𝗯𝗿𝗮𝗺𝗶𝗻𝘁𝗿𝗮 - Strawweight Muay Thai\n
+ \n🥊 9. 𝗜𝘀𝗹𝗮𝘆 𝗘𝗿𝗶𝗸𝗮 𝗕𝗼𝗺𝗼𝗴
+ 𝗮𝗼 vs. 𝗞𝗹𝗶𝗻𝗽𝗵𝗮𝗸𝗮 𝗣𝗼𝗿 𝗧𝗵
+ 𝗮𝗶𝘀𝗼𝗻𝗴 - Atomweight Muay Thai\n\n🥊 8. 𝗥𝗮𝗵
+ 𝗶𝗺 𝗧𝗰𝗵𝗲𝗿𝗰𝗵𝗮𝗶𝗸𝗼 vs. 𝗗𝗶𝗼𝗴
+ 𝗼 𝗠𝗶𝗴𝘂𝗲𝗹 𝗦𝗶𝗹𝘃𝗮 - Flyweight Kickboxing\
+ n\n🥊 7. 𝗢𝗹𝗶𝘃𝗶𝗮 𝗕𝗮𝗵𝘀𝗼𝘂𝘀 vs. 𝗡
+ 𝗼𝗻𝗴𝗹𝗲𝗸 𝗞𝗿𝘂𝗱𝗮𝗺𝗴𝘆𝗺 - Atomweight
+  Muay Thai\n\n🥊 6. 𝗣𝗵𝗶𝗹𝗲𝗺𝗼𝗻 𝗕𝗶𝘁𝗿
+ 𝘂𝘀 𝗝𝗲𝗯 vs. 𝗞𝗲𝘃𝗶𝗻 𝗣𝗲𝗿𝗱𝗼𝗺
+ 𝗼 - Featherweight Mixed Martial Arts\n\n🥊 5. 𝗡𝗼𝗻𝗴𝗯
+ 𝗶𝗮 𝗟𝗮𝗼𝗟𝗮𝗻𝗲𝗫𝗮𝗻𝗴 vs. 𝗦𝗵𝗶𝗻
+ 𝗶𝗰𝗵𝗶 𝗪𝗮𝘁𝗮𝗻𝗮𝗯𝗲 - Atomweight Muay Thai\n
+ \n🥊 4. 𝗘𝗻𝗸𝗵-𝗢𝗿𝗴𝗶𝗹 𝗕𝗮𝗮𝘁𝗮𝗿
+ 𝗸𝗵𝘂𝘂 vs. 𝗘𝗹𝗯𝗲𝗸 𝗔𝗹𝘆𝘀𝗵𝗼𝘃 - B
+ antamweight World Championship\n\n🥊 3. 𝗝𝗼𝗵𝗮𝗻 𝗚𝗵
+ 𝗮𝘇𝗮𝗹𝗶 vs. 𝗥𝗮𝗺𝗮𝗱𝗮𝗻 𝗢𝗻𝗱𝗮𝘀
+ 𝗵 - Flyweight Muay Thai\n\n🥊 2. 𝗖𝗵𝗼𝗸𝗽𝗿𝗲𝗲𝗰
+ 𝗵𝗮 𝗣𝗞 𝗧𝗼𝗺𝗧𝗞𝗮𝗹𝗮𝗶𝘆𝗼𝗻𝘁 vs.
+  𝗔𝗯𝗱𝗮𝗹𝗹𝗮𝗵 𝗢𝗻𝗱𝗮𝘀𝗵 - Strawweight M
+ uay Thai\n\n🥊 1. 𝗦𝗮𝗹𝘃𝗮𝗱𝗼𝗿 𝗩𝗲𝗹𝗮𝘇
+ 𝗾𝘂𝗲𝘇 𝗩𝗶𝗹𝗹𝗮𝗿𝗲𝗹𝗹𝗼 vs. 𝗔𝘀𝗮
+ 𝗵𝗶 𝗦𝗵𝗶𝗻𝗮𝗴𝗮𝘄𝗮 - Strawweight Muay Thai\n\n-
+ -------------------------------\nSource: https://watch.onefc.com/events/on
+ e-friday-fights-164\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-164
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0d8d84dac0916d5a3c8d22@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260807T113047Z
+DTEND:20260807T162520Z
+SUMMARY:ONE Friday Fights 165 & The Inner Circle 25
+DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 14. 𝗣𝗲𝘁𝗻𝗶𝗻𝗺𝘂𝗻𝗴𝗸𝗼𝗿𝗻 
+ 𝗡𝗮𝗺𝗸𝗮𝗻𝗴𝗜𝗰𝗲𝗹𝗮𝗻𝗱 vs. 𝗣𝗲𝘁 
+ 𝗦𝘂𝗮𝗻𝗹𝘂𝗮𝗻𝗴𝗿𝗼𝗱𝘆𝗼𝗸 - Atomweight 
+ Muay Thai\n\n🥊 13. 𝗦𝘂𝗸𝘀𝗮𝘄𝗮𝘁 𝗣𝗞 𝗦𝗮
+ 𝗲𝗻𝗰𝗵𝗮𝗶 vs. 𝗜𝗹𝘆𝗮𝘀 𝗠𝘂𝘀𝗮𝗲𝘃
+  - Bantamweight Muay Thai\n\n🥊 12. 𝗠𝗼𝗻𝗽𝗿𝗮𝗿𝗮𝗺
+  𝗦𝗶𝘁𝗽𝗲𝘁𝗰𝗵𝗮𝗹𝘂𝗸𝗮𝗻 vs. 𝗞𝗼𝗺
+  𝗣𝗞 𝗦𝗮𝗲𝗻𝗰𝗵𝗮𝗶 - Atomweight Muay Thai\n\n🥊 
+ 11. 𝗥𝗮𝘄𝗲𝗲 𝗟𝗼𝗼𝗸𝘀𝘂𝗮𝗻 vs. 𝗧𝗮𝗻
+ 𝘁𝗮𝘄𝘆 𝗔𝗵𝗺𝗲𝗱 - Strawweight Muay Thai\n\n🥊 10. 
+ 𝗖𝗵𝗮𝗻𝗴𝘁𝗵𝗼𝗻𝗴 𝗠 𝗨 𝗗𝗲𝗻 vs. 𝗣
+ 𝗲𝘁𝗮𝗻𝗱𝗮 𝗞𝗶𝗮𝘁𝘆𝗼𝗱𝘆𝗶𝗻𝗴 - Ba
+ ntamweight Muay Thai\n\n🥊 9. 𝗔𝘁𝘁𝗮𝗰𝗵𝗮𝗶 𝗟𝗼
+ 𝗼𝗸𝘀𝘂𝗮𝗻 vs. 𝗦𝘂𝗽𝗲𝗿𝗰𝗵𝗮𝗺𝗽 𝗪
+ 𝘂𝘁𝗱𝘆𝗰𝗵𝗼𝗻𝗯𝘂𝗿𝗶𝗽𝗿𝗮𝗹𝗲𝗮
+ 𝘀𝗶𝗻𝗴 - Strawweight Muay Thai\n\n🥊 8. 𝗣𝗲𝘁𝘁𝗿
+ 𝗶 𝗦𝗶𝘁𝗷𝗮𝗲𝗱𝗮𝗻𝗴 vs. 𝗔𝘂𝗻𝗴 𝗧
+ 𝘂𝗻 𝗕𝗼 - Atomweight Muay Thai\n\n🥊 7. 𝗦𝗼𝗻𝗴𝗽
+ 𝗮𝗻𝗱𝗶𝗻 𝗖𝗵𝗼𝗿 𝗞𝗮𝗲𝘄𝘄𝗶𝘀𝗲𝘁
+  vs. 𝗩𝗶𝗻𝗰𝗲𝗻𝘇𝗼 𝗘𝘀𝗽𝗼𝘀𝗶𝘁𝗼 - F
+ lyweight Muay Thai\n\n🥊 6. 𝗣𝗲𝗻𝗴 𝗭𝗶𝗵𝗮𝗼 vs. 
+ 𝗧𝘀𝘂𝗯𝗮𝘀𝗮 - Strawweight Kickboxing\n\n🥊 5. 𝗡𝗮
+ 𝗯𝗶𝗹 𝗔𝗻𝗮𝗻𝗲 vs. 𝗦𝘂𝗮𝗸𝗶𝗺 𝗣𝗼
+ 𝗻𝗴𝘀𝘂𝗽𝗵𝗮𝗻 𝗣𝗞 - Bantamweight Muay Thai\n\n🥊
+  4. 𝗔𝗯𝗱𝘂𝗹𝗹𝗮 𝗗𝗮𝘆𝗮𝗸𝗮𝗲𝘃 vs. 𝗦
+ 𝘂𝗽𝗲𝗿𝗹𝗲𝗸 - Bantamweight Muay Thai\n\n🥊 3. 𝗠𝗮
+ 𝗿𝗮𝘁 𝗚𝗿𝗶𝗴𝗼𝗿𝗶𝗮𝗻 vs. 𝗠𝗮𝗺𝘂𝗸
+ 𝗮 𝗨𝘀𝘂𝗯𝘆𝗮𝗻 - Featherweight Kickboxing\n\n🥊 2. 
+ 𝗧𝗮𝗵𝗮𝗻𝗲𝗮𝗸 𝗡𝗮𝘆𝗼𝗸𝗮𝘁𝗮𝘀𝗮
+ 𝗹𝗮 vs. 𝗗𝗮𝗯𝗱𝗮𝗺 𝗣𝗼𝗿 𝗧𝗼𝗿 𝗧𝗼
+ 𝗿 𝗧𝗵𝗼𝗻𝗴𝘁𝗮𝘄𝗲𝗲 - Strawweight Muay Thai\n\n
+ 🥊 1. 𝗖𝗵𝗮𝘁𝗽𝗲𝘁 𝗦𝘂𝗮𝗯𝗹𝗮𝗰𝗸𝗺
+ 𝘂𝗮𝘆𝘁𝗵𝗮𝗶 vs. 𝗥𝗶𝗸𝘂 𝗜𝘁𝗼 - Atomweigh
+ t Muay Thai\n\n--------------------------------\nSource: https://watch.one
+ fc.com/events/one-friday-fights-165\nCalendar updated: 2026-09-12T19:31:51
+ .381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-165
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69f1ecf64c3778d204243bf2@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260808T083043Z
+DTEND:20260808T120043Z
+SUMMARY:ONE Samurai 2
+DESCRIPTION:ONE Championship · Complete Event · 8 bouts\n📍 Venue to be
+  announced\nTimes display automatically in your calendar time zone.\n\n---
+ -----------------------------\nBOUTS\n--------------------------------\n\n
+ 🥊 8. 𝗠𝗮𝘀𝗮𝗮𝗸𝗶 𝗡𝗼𝗶𝗿𝗶 vs. 𝗟𝗶𝘂
+  𝗠𝗲𝗻𝗴𝘆𝗮𝗻𝗴 - Featherweight Kickboxing\n\n🥊 7. 
+ 𝗞𝗮𝗶𝘁𝗼 vs. 𝗠𝗼𝗵𝗮𝗺𝗺𝗮𝗱 𝗦𝗶𝗮𝘀
+ 𝗮𝗿𝗮𝗻𝗶 - Featherweight Kickboxing\n\n🥊 6. 𝗞𝗼𝘀
+ 𝘂𝗸𝗲 𝗧𝗮𝗸𝗮𝗴𝗶 vs. 𝗟𝘂𝗼 𝗖𝗵𝗮𝗼 - 
+ Featherweight Kickboxing\n\n🥊 5. 𝗞𝗲𝗶𝘁𝗼 𝗬𝗮𝗺𝗮
+ 𝗸𝗶𝘁𝗮 vs. 𝗞𝗼𝘆𝘂𝗿𝘂 𝗧𝗮𝗻𝗼𝘂𝗲 - S
+ trawweight Mixed Martial Arts\n\n🥊 4. 𝗛𝗶𝗿𝗼𝗸𝗶 𝗞𝗮
+ 𝘀𝗮𝗵𝗮𝗿𝗮 vs. 𝗥𝘆𝘂𝘁𝗼 𝗦𝗵𝗶𝗼𝗸𝗮
+ 𝘄𝗮 - Featherweight Kickboxing\n\n🥊 3. 𝗦𝗵𝗼𝗺𝗮 𝗢
+ 𝗸𝘂𝗺𝘂𝗿𝗮 vs. 𝗥𝗲𝗶𝗷𝗶 - Strawweight Kickboxing
+ \n\n🥊 2. 𝗥𝗮𝗻𝗺𝗮 vs. 𝗞𝗮𝘁𝘀𝘂𝗸𝗶 𝗞𝗶
+ 𝘁𝗮𝗻𝗼 - Bantamweight Kickboxing\n\n🥊 1. 𝗦𝘂𝗯𝗮𝗿
+ 𝘂 𝗠𝗼𝗿𝗶 vs. 𝗬𝘂𝘀𝘂𝗸𝗲 𝗦𝗮𝘁𝗼 - Ligh
+ tweight Mixed Martial Arts\n\n--------------------------------\nSource: ht
+ tps://watch.onefc.com/events/one-samurai-2\nCalendar updated: 2026-09-12T1
+ 9:31:51.381Z
+LOCATION:
+URL:https://watch.onefc.com/events/one-samurai-2
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0d8df4892e5f6e1f30a82c@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260814T113041Z
+DTEND:20260814T163417Z
+SUMMARY:ONE Friday Fights 166 & The Inner Circle 26
+DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 14. 𝗞𝗵𝘂𝗻𝗽𝗼𝗻 𝗔𝗲𝗸𝗺𝘂𝗮𝗻
+ 𝗴𝗻𝗼𝗻 vs. 𝗣𝗮𝗻𝗽𝗮𝗱𝗲𝗷 𝗟𝗼𝗼𝗸𝘀
+ 𝘂𝗮𝗻 - Flyweight Muay Thai\n\n🥊 13. 𝗗𝗲𝗻𝗸𝗿𝗶
+ 𝗮𝗻𝗴𝗸𝗿𝗮𝗶 𝗠𝗮𝘃𝗶𝗻𝗻 𝗠𝘂𝗮𝘆𝘁
+ 𝗵𝗮𝗶 vs. 𝗔𝗯𝗱𝗲𝘀𝘀𝗮𝗺𝗶𝗲 𝗥𝗵𝗲𝗻
+ 𝗶𝗺𝗶 - Flyweight Muay Thai\n\n🥊 12. 𝗣𝗲𝘁 𝗦𝗶𝘁
+ 𝗰𝗵𝗮𝗹𝗼𝗻𝗴𝘀𝗮𝗸 vs. 𝗦𝗼𝗺𝗽𝗼𝗻𝗴
+ 𝗰𝗵𝗮𝗶 𝗦𝗶𝘁 𝗗𝗿.𝗖𝗵𝗮𝗿𝗻𝗰𝗵𝗮
+ 𝗶 - Featherweight Muay Thai\n\n🥊 11. 𝗔𝗶𝗱𝗮𝗻𝗴𝗸
+ 𝗼𝗲𝘆𝗰𝗵𝗮𝗶 𝗦𝗶𝘁𝗸𝗮𝗲𝘄𝗽𝗿𝗮𝗽
+ 𝗼𝗻 vs. 𝗦𝗮𝗶𝗽𝗲𝘁𝗹𝗲𝗸 𝗥𝗼𝗻𝗴𝘀𝗮
+ 𝗺𝗮𝗸 𝗢𝗿𝗯𝗼𝗿𝗷𝗼𝗿 𝗨𝗱𝗼𝗻 𝗧𝗵
+ 𝗮𝗻𝗶 - Atomweight Muay Thai\n\n🥊 10. 𝗔𝗿𝘁𝗵𝘂𝗿 
+ 𝗞𝗹𝗼𝗽𝗽 vs. 𝗚𝗮𝗯𝗿𝗶𝗲𝗹 𝗣𝗲𝗿𝗲𝗶
+ 𝗿𝗮 - Bantamweight Kickboxing\n\n🥊 9. 𝗖𝗵𝗮𝗺𝗮𝗻𝗼
+ 𝘄 𝗦𝗮𝗻𝘁𝗶𝘂𝗯𝗼𝗻 vs. 𝗕𝗮𝗯𝗮𝗸 𝗛
+ 𝗮𝗴𝗵𝗶 - Flyweight Muay Thai\n\n🥊 8. 𝗕𝗮𝘁𝗼𝗰𝗵
+ 𝗶𝗿 𝗕𝗮𝘁𝘀𝗮𝗶𝗸𝗵𝗮𝗻 vs. 𝗠𝗶𝗿𝗺𝗲
+ 𝗵𝘁𝗶 𝗠𝗶𝗿𝗶𝘆𝗲𝘃 - Bantamweight Mixed Martial Art
+ s\n\n🥊 7. 𝗡𝗼𝗻𝗴𝗳𝗮𝗵𝘀𝗮𝗶 𝗣𝗼𝗼𝗸𝘀
+ 𝘂𝗽𝗵𝗮𝗻 𝗣𝗞 vs. 𝗭𝗲𝘆𝗻𝗲𝗽 𝗖𝗲𝘁
+ 𝗶𝗻𝘁𝗮𝘀 - Atomweight Muay Thai\n\n🥊 6. 𝗖𝗵𝗶 𝗟
+ 𝘂 𝗟𝗲𝗲 vs. 𝗞𝗲𝗻𝘆𝗮 𝗬𝗮𝗺𝗮𝗱𝗮 - Bant
+ amweight Mixed Martial Arts\n\n🥊 5. 𝗪𝗮𝗻𝗰𝗵𝗮𝗶𝗻
+ 𝗼𝗶 𝗣𝗼𝗻𝗴𝘀𝘂𝗽𝗵𝗮𝗻 𝗣𝗞 vs. 𝗣𝗲
+ 𝘁𝗻𝗮𝗺𝗸𝗵𝗼𝗻𝗴 𝗦𝗼𝗿 𝗠𝗮𝗻𝗲𝗲𝗸
+ 𝗵𝗼𝘁 - Strawweight Muay Thai\n\n🥊 4. 𝗚𝗶𝗻𝗴𝘀𝗮
+ 𝗻𝗴𝗹𝗲𝗸 𝗪𝗼𝗿 𝗞𝘂𝗺𝗰𝗵𝗮𝗺𝗻𝗮𝗿
+ 𝗻 vs. 𝗗𝗺𝗶𝘁𝗿𝗶 𝗥𝗮𝗺𝗼𝘀 - Bantamweight Muay
+  Thai\n\n🥊 3. 𝗣𝗲𝘁𝗸𝗵𝗮𝗼𝗸𝗿𝗮𝗱𝗼𝗻𝗴 
+ 𝗟𝘂𝗸𝗷𝗮𝗼𝗺𝗮𝗲𝘀𝗮𝗶𝘁𝗵𝗼𝗻𝗴 vs. 
+ 𝗩𝗮𝗱𝘇𝗶𝗺 𝗦𝗵𝗮𝗽𝗶𝗮𝘁𝘀𝗶𝘂𝗸 - Li
+ ghtweight Muay Thai\n\n🥊 2. 𝗕𝗮𝗸𝗷𝗼 𝗦𝗶𝘁𝗸𝗵
+ 𝘂𝗻𝗺𝗮 vs. 𝗣𝗲𝘁𝘀𝘂𝗽𝗵𝗮𝗻 𝗣𝗼𝗿 
+ 𝗣𝗿𝗮𝗷𝗮𝗻𝘀𝗶 - Atomweight Muay Thai\n\n🥊 1. 𝗡
+ 𝗼𝗻𝗴𝗻𝘂𝗸 𝗦𝗼𝗿 𝗗𝗲𝗰𝗵𝗮𝗽𝗮𝗻 vs.
+  𝗦𝗮𝘆𝗮 𝗜𝘁𝗼 - Atomweight Muay Thai\n\n-----------------
+ ---------------\nSource: https://watch.onefc.com/events/one-friday-fights-
+ 166\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-166
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:693657ba370b4d81ea624182@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260815T010000Z
+DTEND:20260815T043128Z
+SUMMARY:ONE Fight Night 46
+DESCRIPTION:ONE Championship · Complete Event · 8 bouts\n📍 Lumpinee St
+ adium\, Bangkok\nTimes display automatically in your calendar time zone.\n
+ \n--------------------------------\nBOUTS\n-------------------------------
+ -\n\n🥊 8. 𝗦𝘁𝗲𝗹𝗹𝗮 𝗛𝗲𝗺𝗲𝘁𝘀𝗯𝗲𝗿
+ 𝗴𝗲𝗿 vs. 𝗡𝗮𝘁𝗮𝗹𝗶𝗮 𝗗𝗶𝗮𝗰𝗵𝗸𝗼
+ 𝘃𝗮 - Strawweight World Championship\n\n🥊 7. 𝗡𝗶𝗰𝗼 𝗖
+ 𝗮𝗿𝗿𝗶𝗹𝗹𝗼 vs. 𝗭𝗵𝗼𝘂 𝗝𝗶𝗮𝗾𝗶𝗮
+ 𝗻𝗴 - Featherweight Kickboxing\n\n🥊 6. 𝗝𝗵𝗮𝗻𝗹𝗼 
+ 𝗠𝗮𝗿𝗸 𝗦𝗮𝗻𝗴𝗶𝗮𝗼 vs. 𝗠𝗮𝗿𝗰𝗼𝘀
+  𝗔𝘂𝗿𝗲𝗹𝗶𝗼 - Bantamweight Mixed Martial Arts\n\n🥊 5.
+  𝗞𝗮𝗻𝗮 vs. 𝗬𝘂 𝗬𝗮𝘂 𝗣𝘂𝗶 - Atomweight Kick
+ boxing\n\n🥊 4. 𝗩𝗶𝗲𝘁 𝗔𝗻𝗵 𝗗𝗼 vs. 𝗗𝗮𝘃
+ 𝗶 𝗕𝗿𝗮𝗻𝗱ā𝗼 - Flyweight Mixed Martial Arts\n\n🥊 3. 
+ 𝗥𝘂𝗮𝗻 𝗔𝗹𝘃𝗮𝗿𝗲𝗻𝗴𝗮 vs. 𝗠𝗲𝘆𝗿
+ 𝗮𝗺 𝗠𝗮𝗾𝘂𝗶𝗻𝗲 - Featherweight Submission Grappling
+ \n\n🥊 2. 𝗡𝗮𝘁𝗮𝗹𝗶𝗲 𝗦𝗮𝗹𝗰𝗲𝗱𝗼 vs. 
+ 𝗠𝗮𝗴𝗱𝗮𝗹𝗲𝗻𝗮 𝗖𝘇𝗮𝗯𝗮𝗻 - Atomweight
+  Mixed Martial Arts\n\n🥊 1. 𝗗𝗺𝗶𝘁𝗿𝗶𝗶 𝗞𝗼𝘃
+ 𝘁𝘂𝗻 vs. 𝗗𝗲𝗻𝗶𝘀 𝗦𝗼𝘂𝘇𝗮 𝗝𝗿 - Bant
+ amweight Kickboxing\n\n--------------------------------\nSource: https://w
+ atch.onefc.com/events/onefightnight46\nCalendar updated: 2026-09-12T19:31:
+ 51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/onefightnight46
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0d8e518a2af95867c74e51@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260821T113016Z
+DTEND:20260821T161846Z
+SUMMARY:ONE Friday Fights 167 & The Inner Circle 27
+DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 13. 𝗗𝗲𝗱𝗱𝘂𝗮𝗻𝗴𝗹𝗲𝗸 𝗧𝗼𝗿
+ 𝗳𝘂𝗻𝗳𝗮𝗿𝗺 vs. 𝗞𝗼𝗻𝗴𝘀𝘂𝗸 𝗦𝗶𝘁
+ 𝘀𝗮𝗿𝗮𝘄𝗮𝘁𝘀𝘂𝗲𝗿 - Bantamweight Muay Thai\n\n
+ 🥊 12. 𝗬𝗼𝗸𝗸𝗶𝗿𝗶 𝗧𝗡 𝗠𝘂𝗮𝘆𝘁𝗵
+ 𝗮𝗶 vs. 𝗔𝗹𝗶 𝗔𝗹-𝗞𝗶𝗻𝗮𝗻𝗶 - Strawweight 
+ Muay Thai\n\n🥊 11. 𝗞𝗮𝗷𝗼𝗿𝗻𝗸𝗹𝗮𝗶 𝗦𝗼
+ 𝗿 𝗦𝗼𝗿 𝗧𝗼𝗶𝗽𝗮𝗱𝗿𝗶𝗲𝘄 vs. 𝗧𝗲
+ 𝘄𝗮𝗱𝗮𝗹𝗲𝗸 𝗧𝗼𝗿 𝗠𝘂𝗮𝗻𝗴𝘁𝗵𝗼
+ 𝗲𝗻𝗺𝘂𝗮𝘆𝘁𝗵𝗮𝗶 - Bantamweight Muay Thai\n\n🥊 
+ 10. 𝗣𝗲𝘁𝗴𝗮𝗿𝗳𝗶𝗲𝗹𝗱 𝗝𝗶𝘁𝗺𝘂𝗮
+ 𝗻𝗴𝗻𝗼𝗻 vs. 𝗡𝗲𝘁𝗽𝗮𝘆𝗮𝗸 𝗖𝗵𝗮𝗻
+ 𝗴𝗮𝗲𝘄𝗯𝘂𝗿𝗶𝗿𝗮𝗺 - Featherweight Muay Thai\n\n
+ 🥊 9. 𝗡𝗮𝘂𝗿𝗶𝘀 𝗕𝗮𝗿𝘁𝗼𝘀𝗸𝗮 vs. 𝗣
+ 𝗮𝘁𝗿𝗶𝗰𝗸 𝗛𝗶𝗹𝗹 - Bantamweight Mixed Martial Art
+ s\n\n🥊 8. 𝗣𝗹𝗼𝘆𝗷𝗮𝗻 𝗦𝗶𝘁𝗻𝗮𝘆𝗼𝗸
+ 𝗱𝗮𝗺 vs. 𝗚𝗶𝗼𝗿𝗴𝗶𝗮 𝗣𝗶𝗲𝗿𝗼𝗽𝗮
+ 𝗻 - Atomweight Muay Thai\n\n🥊 7. 𝗩𝘂𝘀𝗮𝗹 𝗔𝗹𝗶
+ 𝘆𝗲𝘃 vs. 𝗥𝗮𝗶𝘇𝗲 - Strawweight Kickboxing\n\n🥊 6. 
+ 𝗦𝗵𝗲𝗻𝗴 𝗬𝗶 𝗬𝗮𝗻𝗴 vs. 𝗦𝗵𝗼𝘁𝗮 
+ 𝗧𝗮𝗸𝗲𝘇𝗼𝗲 - Flyweight Muay Thai\n\n🥊 5. 𝗦𝗼𝗻
+ 𝗴𝗰𝗵𝗮𝗶𝗻𝗼𝗶 𝗞𝗶𝗮𝘁𝘀𝗼𝗻𝗴𝗿𝗶
+ 𝘁 vs. 𝗕𝗮𝗻𝗹𝘂𝗲𝗹𝗼𝗸 𝗦𝗶𝘁𝘄𝗮𝘁𝗰
+ 𝗵𝗮𝗿𝗮𝗰𝗵𝗮𝗶 - Atomweight Muay Thai\n\n🥊 4. 𝗞
+ 𝘆𝗮𝘄 𝗦𝘄𝗮𝗿 𝗪𝗶𝗻 vs. 𝗞𝗼𝗺𝗮𝘄𝘂
+ 𝘁 𝗙𝗔 𝗚𝗿𝗼𝘂𝗽 - Bantamweight Muay Thai\n\n🥊 3. 
+ 𝗬𝗼𝗱𝗽𝗵𝘂𝗽𝗮 𝗣𝗲𝘁𝗸𝗶𝗮𝘁𝗽𝗲𝘁 
+ vs. 𝗦𝗮𝘄 𝗠𝗶𝗻 𝗠𝗶𝗻 - Bantamweight Muay Thai\n\n
+ 🥊 2. 𝗗𝗮𝗹𝗶𝗮𝗻 𝗗𝗮𝘄𝗼𝗱𝘆 vs. 𝗟𝗮𝗺
+ 𝗶𝗻 𝗦𝗼𝘂𝗮𝘆𝗮𝗵 - Lightweight Muay Thai\n\n🥊 1. 
+ 𝗕𝗲𝗻 𝗟𝗼𝗻𝗴𝘀𝘁𝗮𝗳𝗳 vs. 𝗞𝗮𝘇𝘂𝘁
+ 𝗲𝗿𝘂 𝗬𝗮𝗺𝗮𝘇𝗮𝗸𝗶 - Flyweight Kickboxing\n\n--
+ ------------------------------\nSource: https://watch.onefc.com/events/one
+ -friday-fights-167\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-167
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0d8eca8a2af95867c74e58@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260828T113034Z
+DTEND:20260828T163201Z
+SUMMARY:ONE Friday Fights 168 & The Inner Circle 28
+DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 14. 𝗪𝘂𝘁𝘁𝗶𝗸𝗿𝗮𝗶 𝗪𝗼𝗿 𝗖𝗵
+ 𝗮𝗸𝗿𝗮𝘄𝘂𝘁 vs. 𝗠𝗼𝗵𝗮𝗺𝗺𝗮𝗱 𝗛𝗮
+ 𝗯𝗶𝗯𝗽𝗼𝘂𝗿 - Bantamweight Muay Thai\n\n🥊 13. 𝗣𝗲
+ 𝘁𝗽𝗵𝘂𝗽𝗮 𝗔𝗲𝗸𝗽𝘂𝗷𝗲𝗮𝗻 vs. 𝗕𝗿
+ 𝗮𝘇𝗶𝗹 𝗔𝗲𝗸𝗺𝘂𝗮𝗻𝗴𝗻𝗼𝗻 - Flyweight 
+ Muay Thai\n\n🥊 12. 𝗡𝘂𝗲𝗻𝗴𝗸𝗮𝗼𝗻𝘂𝗲𝗻𝗴
+  𝗟𝗮𝗼𝗰𝗵𝗼𝗸𝗰𝗵𝗮𝗿𝗼𝗲𝗻 vs. 𝗗𝗲𝗻
+ 𝗶𝘀 𝗗𝗼𝘁𝘀𝗲𝗻𝗸𝗼 - Bantamweight Muay Thai\n\n🥊
+  11. 𝗞𝗼𝗿𝗽𝗮𝗶 𝗦𝗼𝗿 𝗬𝗶𝗻𝗴𝗰𝗵𝗮
+ 𝗿𝗼𝗲𝗻𝗸𝗮𝗿𝗻𝗰𝗵𝗮𝗻𝗴 vs. 𝗣𝗲𝘁𝗯
+ 𝘂𝗿𝗮𝗽𝗵𝗮 𝗣𝗲𝘁𝗰𝗵𝗼𝗺𝗽𝘂 - Bantamweig
+ ht Muay Thai\n\n🥊 10. 𝗖𝗵𝗮𝗹𝗮𝗺𝗸𝗵𝗮𝗼 𝗦𝗶
+ 𝘁𝗸𝗵𝘂𝗻𝗺𝗮 vs. 𝗠𝗼𝗵𝗮𝗺𝗺𝗲𝗱 𝗙𝗮
+ 𝗶𝘇𝗮𝗻 - Bantamweight Muay Thai\n\n🥊 9. 𝗕𝘂𝗿𝗸𝗹
+ 𝗲𝗿𝗸 𝗟𝗼𝗼𝗸𝗺𝘂𝗮𝗻𝗴𝗽𝗲𝘁 vs. 𝗡𝘂
+ 𝗲𝗮𝗽𝗮𝘆𝗮𝗸 𝗣𝘂𝗱𝗽𝗿𝗮𝗰𝗵𝗮𝗰𝗵
+ 𝘂𝗲𝗻 - Atomweight Muay Thai\n\n🥊 8. 𝗭𝗵𝗮𝗼 𝗖𝗵
+ 𝗼𝗻𝗴𝘆𝗮𝗻𝗴 vs. 𝗬𝘂𝗿𝗶 𝗧𝗮𝗻𝗮𝗸𝗮
+  - Bantamweight Kickboxing\n\n🥊 7. 𝗙𝗮𝗵𝗹𝗮𝗯 𝗡𝗮
+ 𝗸𝗵𝗼𝗻𝘀𝗮𝘄𝗮𝗻 𝗦𝗽𝗼𝗿𝘁𝘀 𝗦𝗰𝗵
+ 𝗼𝗼𝗹 vs. 𝗩𝗮𝗹𝗲𝗻𝘁𝗶𝗻𝗮 𝗖𝗮𝗻𝗰𝗲
+ 𝗹𝗹𝗼 - Atomweight Muay Thai\n\n🥊 6. 𝗚𝗲𝘂𝗻 𝗛𝗼 
+ 𝗦𝗼𝗻 vs. 𝗥𝘆𝗼𝘁𝗼 𝗡𝗶𝘀𝗵𝗶𝘆𝗮𝗺𝗮
+  - Flyweight Mixed Martial Arts\n\n🥊 5. 𝗪𝗼𝗿𝗮𝗽𝗼𝗻 
+ 𝗟𝘂𝗸𝗷𝗮𝗼𝗽𝗼𝗿𝗼𝗻𝗴𝘁𝗼𝗺 vs. 𝗟𝗲
+ 𝗻𝗻𝘆 𝗕𝗹𝗮𝘀𝗶 - Bantamweight Muay Thai\n\n🥊 4. 𝗥
+ 𝗮𝗺𝗯𝗼𝗻𝗴 𝗦𝗼𝗿 𝗧𝗵𝗲𝗿𝗮𝗽𝗮𝘁 vs.
+  𝗖𝗵𝗮𝗿𝘁𝗽𝗮𝘆𝗮𝗸 𝗦𝗮𝗸𝘀𝗮𝘁𝗼𝗼
+ 𝗻 - Flyweight Muay Thai\n\n🥊 3. 𝗜𝘀𝗮𝗻𝗻𝘂𝗲𝗮 
+ 𝗦𝗼𝗿 𝗦𝗮𝘀𝗶𝘄𝗮𝘁 vs. 𝗨𝗯𝗮𝗶𝗱 𝗛
+ 𝘂𝘀𝘀𝗮𝗶𝗻 - Openweight Muay Thai\n\n🥊 2. 𝗕𝗮𝘀
+ 𝘁𝗮 𝗔𝗯𝗱𝗲𝗹𝗺𝗼𝘂𝗻𝗲𝗺𝗲 vs. 𝗙𝗮𝗸
+ 𝗵𝗿𝗶𝗱𝗱𝗶𝗻 𝗞𝗵𝗮𝘀𝗮𝗻𝗼𝘃 - Flyweight 
+ Muay Thai\n\n🥊 1. 𝗝𝘂𝗻𝗴 𝗛𝘆𝘂𝗻 𝗪𝗼𝗼 vs. 
+ 𝗞𝗲𝗶𝘀𝘂𝗸𝗲 𝗠𝗼𝗻𝗴𝘂𝗰𝗵𝗶 - Strawweigh
+ t Kickboxing\n\n--------------------------------\nSource: https://watch.on
+ efc.com/events/one-friday-fights-168\nCalendar updated: 2026-09-12T19:31:5
+ 1.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-168
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0d8fb2892e5f6e1f30a839@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260904T113028Z
+DTEND:20260904T163229Z
+SUMMARY:ONE Friday Fights 169 & The Inner Circle 29
+DESCRIPTION:ONE Championship · Complete Event · 12 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 12. 𝗞𝗵𝘂𝗻𝗽𝗼𝗻𝗻𝗼𝗶 𝗦𝗼𝗿 𝗦
+ 𝗼𝗺𝗺𝗮𝗶 vs. 𝗦𝘂𝗻𝘃𝗼 𝗧𝗼𝗿𝗳𝘂𝗻𝗳
+ 𝗮𝗿𝗺 - Flyweight Muay Thai\n\n🥊 11. 𝗗𝗮𝗻𝘀𝗶𝗮
+ 𝗺 𝗪𝗲𝗲𝗿𝗮𝘀𝗮𝗸𝗿𝗲𝗰𝗸 vs. 𝗔𝗿𝗺𝗮
+ 𝗻 𝗠𝗼𝗿𝗮𝗱𝗶 - Featherweight Muay Thai\n\n🥊 10. 𝗦
+ 𝘂𝗻𝗱𝗮𝘆 𝗦𝗼𝗿 𝗦𝗼𝗺𝗯𝗮𝘁𝗳𝗮𝗿𝗺
+  vs. 𝗞𝗼𝗻𝗴𝗽𝗼𝘅𝗮𝘆 𝗣𝗞 𝗦𝗮𝗲𝗻𝗰
+ 𝗵𝗮𝗶 - Strawweight Muay Thai\n\n🥊 9. 𝗣𝗶𝗻𝘀𝗶𝗮
+ 𝗺 𝗦𝗶𝘁𝗯𝗼𝗻𝘀𝗮𝗸𝗼𝗻 vs. 𝗬𝗼𝗱𝗽𝗵
+ 𝘂𝗽𝗮 𝗧𝗲𝗮𝗺𝗠𝗲𝗵𝗱𝗶𝗭𝗮𝘁𝗼𝘂𝘁 
+ - Flyweight Kickboxing\n\n🥊 8. 𝗥𝘂𝘀𝗹𝗮𝗻 𝗕𝘂𝗹
+ 𝘂𝘁 vs. 𝗦𝗮𝗻𝘇𝗵𝗮𝗿 𝗠𝗮𝗻𝘀𝘂𝗿𝗼𝘃
+  - Strawweight Mixed Martial Arts\n\n🥊 7. 𝗦𝗶𝘄𝗮𝗻𝗮𝘁 
+ 𝗠𝗮𝘃𝗶𝗻𝗻 𝗠𝘂𝗮𝘆𝘁𝗵𝗮𝗶 vs. 𝗬𝗮𝗻
+ 𝗶𝘀 𝗕𝗲𝗻 𝗔𝗹𝗮𝘆𝗮 - Flyweight Muay Thai\n\n🥊 6
+ . 𝗗𝗮𝗻𝗶𝗲𝗹 𝗩𝗼𝗿𝘁𝗶𝗮𝗵 vs. 𝗥𝘆𝗼
+ 𝘆𝗮 𝗜𝗻𝗮𝗶 - Featherweight Kickboxing\n\n🥊 5. 𝗣𝗲
+ 𝘁𝗺𝘂𝗮𝗻𝗴𝘀𝗿𝗶 𝗧𝗼𝗿𝗳𝘂𝗻𝗳𝗮𝗿
+ 𝗺 vs. 𝗚𝗿𝗲𝗴𝗼𝗿 𝗧𝗵𝗼𝗺 - Flyweight Muay Thai\n
+ \n🥊 4. 𝗠𝗼𝗻𝗴𝗸𝗼𝗹𝗱𝗲𝘁𝗹𝗲𝗸 𝗣𝗼
+ 𝗿 𝗣𝗶𝗺-𝗼𝗻 vs. 𝗬𝗮𝘀𝘀𝗶𝗿 𝗥𝗮𝘀𝘀
+ 𝗮𝗳𝗶 - Bantamweight Muay Thai\n\n🥊 3. 𝗥𝗮𝗸 𝗘𝗿𝗮
+ 𝘄𝗮𝗻 vs. 𝗛𝗲𝗿𝗻 𝗟𝗼𝗼𝗸𝘀𝘂𝗮𝗻 - Atomw
+ eight Muay Thai\n\n🥊 2. 𝗦𝗼𝗻𝗴𝗽𝗮𝗻𝗱𝗶𝗻 𝗖
+ 𝗵𝗼𝗿 𝗞𝗮𝗲𝘄𝘄𝗶𝘀𝗲𝘁 vs. 𝗣𝗲𝘁𝘀𝗶
+ 𝗮𝗺 𝗦𝗼𝗼𝗻𝘀𝗿𝗮𝗻𝗴𝘁𝗵𝗮𝗻𝗴𝘁𝗮
+ 𝗸 - Flyweight Muay Thai\n\n🥊 1. 𝗜𝘀𝗮𝗶𝗮𝗵 𝗕𝗮
+ 𝗱𝗮𝘁𝗼 vs. 𝗞𝘆𝗼 𝗞𝗮𝘄𝗮𝗸𝗮𝗺𝗶 - Flywe
+ ight Kickboxing\n\n--------------------------------\nSource: https://watch
+ .onefc.com/events/one-friday-fights-169\nCalendar updated: 2026-09-12T19:3
+ 1:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-169
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:693657db2fbf6a23229602bf@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260905T010000Z
+DTEND:20260905T043327Z
+SUMMARY:ONE Fight Night 47
+DESCRIPTION:ONE Championship · Complete Event · 8 bouts\n📍 Lumpinee St
+ adium\, Bangkok\nTimes display automatically in your calendar time zone.\n
+ \n--------------------------------\nBOUTS\n-------------------------------
+ -\n\n🥊 8. 𝗦𝘁𝗮𝗺𝗽 𝗙𝗮𝗶𝗿𝘁𝗲𝘅 vs. 𝗦
+ 𝗲𝗹𝗶𝗻𝗮 𝗙𝗹𝗼𝗿𝗲𝘀 - Atomweight Muay Thai\n\n
+ 🥊 7. 𝗠𝗼𝗵𝗮𝗺𝗲𝗱 𝗬𝗼𝘂𝗻𝗲𝘀 𝗥𝗮𝗯
+ 𝗮𝗵 vs. 𝗥𝗶𝗰𝗮𝗿𝗱𝗼 𝗕𝗿𝗮𝘃𝗼 - Featherwe
+ ight Muay Thai\n\n🥊 6. 𝗥𝘆𝗼𝗵𝗲𝗶 𝗞𝘂𝗿𝗼𝘀
+ 𝗮𝘄𝗮 vs. 𝗙𝗮𝗯𝗶𝗼 𝗛𝗲𝗻𝗿𝗶𝗾𝘂𝗲 - S
+ trawweight Mixed Martial Arts\n\n🥊 5. 𝗝𝗮𝗼𝘀𝘂𝗮𝘆𝗮
+ 𝗶 𝗠𝗼𝗿 𝗞𝗿𝘂𝗻𝗴𝘁𝗵𝗲𝗽𝘁𝗵𝗼𝗻𝗯
+ 𝘂𝗿𝗶 vs. 𝗝𝗼𝗿𝗱𝗮𝗻 𝗘𝘀𝘁𝘂𝗽𝗶𝗻𝗮
+ 𝗻 - Flyweight Muay Thai\n\n🥊 4. 𝗥𝗮𝗳𝗮𝗲𝗹 𝗟𝗼
+ 𝘃𝗮𝘁𝗼 𝗝𝗿 vs. 𝗣𝗮𝘄𝗲𝗹 𝗝𝗮𝘄𝗼𝗿
+ 𝘀𝗸𝗶 - Middleweight Submission Grappling\n\n🥊 3. 𝗛𝗲𝗰
+ 𝘁𝗼𝗿 𝗔𝗹𝗺𝗼𝗻𝗮𝗰𝗶𝗱 vs. 𝗣𝗲𝗱𝗿𝗼
+  𝗗𝗮𝗻𝘁𝗮𝘀 - Featherweight Mixed Martial Arts\n\n🥊 2. 
+ 𝗚𝗮𝗯𝗶 𝗙𝘂𝗷𝗶𝗺𝗼𝘁𝗼 vs. 𝗠𝗮𝗰𝗮𝗿
+ 𝗲𝗻𝗮 𝗔𝗿𝗮𝗴𝗼𝗻 - Atomweight Mixed Martial Arts\n\n
+ 🥊 1. 𝗡𝗴𝗼𝗰 𝗣𝗵𝘂 𝗡𝗴𝘂𝘆𝗲𝗻 vs. 𝗘
+ 𝗹𝗺𝗲𝗵𝗱𝗶 𝗘𝗹 𝗝𝗮𝗺𝗮𝗿𝗶 - Strawweight M
+ uay Thai\n\n--------------------------------\nSource: https://watch.onefc.
+ com/events/onefightnight47\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/onefightnight47
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0d90228a2af95867c74e73@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260911T113054Z
+DTEND:20260911T173054Z
+SUMMARY:ONE Friday Fights 170 & The Inner Circle 30
+DESCRIPTION:ONE Championship · Complete Event · 12 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 12. 𝗬𝗼𝗱𝗹𝗲𝗸𝗽𝗲𝘁 𝗢𝗿 𝗔𝘁𝗰
+ 𝗵𝗮𝗿𝗶𝘆𝗮 vs. 𝗣𝗼𝗺𝗽𝗲𝘁 𝗣𝗼𝗻𝗴𝗦
+ 𝘂𝗽𝗵𝗮𝗻 𝗣𝗞 - Flyweight Muay Thai\n\n🥊 11. 𝗫𝗮
+ 𝘃𝗶𝗲𝗿 𝗚𝗼𝗻𝘇𝗮𝗹𝗲𝘇 vs. 𝗧𝗵𝘄𝗮𝘆
+  𝗟𝗶𝗻 𝗛𝘁𝗲𝘁 - Flyweight Muay Thai\n\n🥊 10. 𝗗𝗮
+ 𝗯𝗱𝗮𝗺 𝗣𝗼𝗿 𝗧𝗼𝗿 𝗧𝗼𝗿 𝗧𝗵𝗼𝗻
+ 𝗴𝘁𝗮𝘄𝗲𝗲 vs. 𝗣𝗲𝘁𝘀𝗮𝗻𝗴𝘄𝗮𝗻 𝗦
+ 𝗼𝗿 𝗦𝗮𝗺𝗮𝗿𝗻𝗴𝗮𝗿𝗺𝗲𝗻𝘁 - Strawweigh
+ t Muay Thai\n\n🥊 9. 𝗬𝗼𝗻𝗶𝘀 𝗔𝗻𝗮𝗻𝗲 vs. 𝗥
+ 𝗶𝗰𝗮𝗿𝗱𝗼 𝗦𝗮𝗻𝗰𝗵𝗲𝘇 - Strawweight Muay T
+ hai\n\n🥊 8. 𝗚𝗮𝗻𝗰𝗵𝗮𝗶 𝗝𝗶𝘁𝗺𝘂𝗮𝗻
+ 𝗴𝗻𝗼𝗻 vs. 𝗧𝗮𝗻𝘁𝗮𝘄𝘆 𝗔𝗵𝗺𝗲𝗱 - F
+ lyweight Muay Thai\n\n🥊 7. 𝗠𝗮𝗶𝘀𝗮𝗻𝗴𝗻𝗴𝗲𝗿
+ 𝗻 𝗦𝗼𝗿 𝗬𝗶𝗻𝗴𝗰𝗵𝗮𝗿𝗼𝗲𝗻𝗸𝗮𝗿
+ 𝗻𝗰𝗵𝗮𝗻𝗴 vs. 𝗝𝘂𝗿𝗮𝗶 𝗜𝘀𝗵𝗶𝗶 - S
+ trawweight Muay Thai\n\n🥊 6. 𝗣𝗲𝗸 𝗣𝗼𝗿 𝗧𝗼𝗿 
+ 𝗧𝗼𝗿 𝗧𝗵𝗼𝗻𝗴𝘁𝗮𝘄𝗲𝗲 vs. 𝗦𝗵𝗶𝗻
+ 𝗶𝗰𝗵𝗶 𝗪𝗮𝘁𝗮𝗻𝗮𝗯𝗲 - Atomweight Muay Thai\n
+ \n🥊 5. 𝗥𝗮𝗺𝗯𝗼𝗹𝗲𝗸 𝗖𝗵𝗼𝗿 𝗔𝗷𝗮
+ 𝗹𝗮𝗯𝗼𝗼𝗻 vs. 𝗬𝗼𝗱-𝗜𝗤 𝗢𝗿 𝗣𝗶𝗺
+ 𝗼𝗹𝘀𝗿𝗶 - Bantamweight World Championship\n\n🥊 4. 𝗦𝗲
+ 𝗸𝘀𝗮𝗻 𝗢𝗿 𝗞𝘄𝗮𝗻𝗺𝘂𝗮𝗻𝗴 vs. 𝗠
+ 𝘂𝗮𝗻𝗴𝘁𝗵𝗮𝗶 𝗣𝗞 𝗦𝗮𝗲𝗻𝗰𝗵𝗮𝗶
+  - Bantamweight Muay Thai\n\n🥊 3. 𝗙𝗲𝗿𝗿𝗮𝗿𝗶 𝗙𝗮
+ 𝗶𝗿𝘁𝗲𝘅 vs. 𝗝𝘂𝗹𝗶𝗼 𝗟𝗼𝗯𝗼 - Bantamwei
+ ght Muay Thai\n\n🥊 2. 𝗦𝗮𝗻𝗴𝗮𝗿𝘁𝗵𝗶𝘁 𝗟𝗼
+ 𝗼𝗸𝘀𝗮𝗶𝗸𝗼𝗻𝗴𝗱𝗶𝗻 vs. 𝗟𝗼𝗴𝗮𝗻 
+ 𝗖𝗵𝗮𝗻 - Bantamweight Muay Thai\n\n🥊 1. 𝗙𝗿𝗲𝗱𝗱
+ 𝗶𝗲 𝗛𝗮𝗴𝗴𝗲𝗿𝘁𝘆 vs. 𝗥𝘂𝗻𝗴𝗿𝘂𝗮
+ 𝗻𝗴𝗹𝗲𝗸 𝗧𝗡 𝗠𝘂𝗮𝘆𝘁𝗵𝗮𝗶 - Strawweig
+ ht Muay Thai\n\n--------------------------------\nSource: https://watch.on
+ efc.com/events/one-friday-fights-170\nCalendar updated: 2026-09-12T19:31:5
+ 1.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-170
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a2847789f5cea0e8faaa6ef@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260912T083047Z
+DTEND:20260912T143047Z
+SUMMARY:ONE Samurai 3
+DESCRIPTION:ONE Championship · Complete Event · 10 bouts\n📍 Yokohama B
+ untai\, Yokohama\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\nBOUTS\n------------------------------
+ --\n\n🥊 10. 𝗡𝗮𝗱𝗮𝗸𝗮 vs. 𝗛𝗮𝗿 𝗟𝗶𝗻𝗴 
+ 𝗢𝗺 - Atomweight Kickboxing\n\n🥊 9. 𝗬𝘂𝘆𝗮 𝗪𝗮𝗸
+ 𝗮𝗺𝗮𝘁𝘀𝘂 vs. 𝗪𝗶𝗹𝗹𝗶𝗲 𝘃𝗮𝗻 𝗥
+ 𝗼𝗼𝘆𝗲𝗻 - Flyweight Mixed Martial Arts\n\n🥊 8. 𝗦𝗵
+ 𝗶𝗺𝗼𝗻 𝗬𝗼𝘀𝗵𝗶𝗻𝗮𝗿𝗶 vs. 𝗦𝘂𝗮𝗯
+ 𝗹𝗮𝗰𝗸 𝗧𝗼𝗿 𝗣𝗿𝗮𝗻𝟰𝟵 - Flyweight Muay Th
+ ai\n\n🥊 7. 𝗛𝘆𝘂 vs. 𝗛𝘆𝘂𝗺𝗮 𝗛𝗶𝘁𝗮𝗰
+ 𝗵𝗶 - Flyweight Kickboxing\n\n🥊 6. 𝗛𝗶𝗿𝗼𝗯𝗮 𝗠
+ 𝗶𝗻𝗼𝘄𝗮 vs. 𝗬𝘂𝘁𝗮 𝗠𝗶𝘆𝗮𝘇𝗮𝘄𝗮
+  - Strawweight Mixed Martial Arts\n\n🥊 5. 𝗥𝘆𝘂𝘆𝗮 𝗢𝗸
+ 𝘂𝘄𝗮𝗸𝗶 vs. 𝗖𝗵𝗼𝗸𝗱𝗲𝗲 𝗠𝗮𝘅𝗷𝗮
+ 𝗻𝗱𝗲𝗲 - Atomweight Muay Thai\n\n🥊 4. 𝗞𝗼𝘀𝗲𝗶 
+ 𝗬𝗼𝘀𝗵𝗶𝗱𝗮 vs. 𝗭𝗵𝗮𝗼 𝗭𝗵𝗲𝗻𝗴𝗱
+ 𝗼𝗻𝗴 - Flyweight Kickboxing\n\n🥊 3. 𝗦𝗲𝗶𝗶𝗰𝗵
+ 𝗶𝗿𝗼 𝗜𝘁𝗼 vs. 𝗞𝗮𝘇𝘂𝘀𝗮 𝗞𝘂𝗿𝗼
+ 𝗯𝗲 - Strawweight Mixed Martial Arts\n\n🥊 2. 𝗛𝗼𝗺𝘂𝗿
+ 𝗮 𝗔𝗯𝗲 vs. 𝗧𝘂𝗮𝗸𝗶𝗮𝗼 - Strawweight Muay Thai
+ \n\n🥊 1. 𝗔𝗶𝗷𝗶 𝗞𝗼𝗯𝗮𝘆𝗮𝘀𝗵𝗶 vs. 𝗬
+ 𝘂𝗸𝗶 𝗧𝗮𝗻𝗮𝗸𝗮 - Featherweight Kickboxing\n\n------
+ --------------------------\nSource: https://watch.onefc.com/events/one-sam
+ urai-3\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Yokohama Buntai\, Yokohama
+URL:https://watch.onefc.com/events/one-samurai-3
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0d908edac0916d5a3c8d70@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260918T113007Z
+DTEND:20260918T173007Z
+SUMMARY:ONE Friday Fights 171 & The Inner Circle 31
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
+ calendar time zone.\n\n--------------------------------\nBOUTS\n----------
+ ----------------------\n\nNo bouts announced yet.\n\n---------------------
+ -----------\nSource: https://watch.onefc.com/events/one-friday-fights-171\
+ nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-171
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0d90e58a2af95867c74e83@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20260925T113030Z
+DTEND:20260925T173030Z
+SUMMARY:ONE Friday Fights 172 & The Inner Circle 32
+DESCRIPTION:ONE Championship · Complete Event · 1 bouts\n📍 Lumpinee St
+ adium\, Bangkok\nTimes display automatically in your calendar time zone.\n
+ \n--------------------------------\nBOUTS\n-------------------------------
+ -\n\n🥊 1. 𝗣𝗮𝗻𝗽𝗮𝘆𝗮𝗸 𝗝𝗶𝘁𝗺𝘂𝗮𝗻
+ 𝗴𝗻𝗼𝗻 vs. 𝗟𝗮𝗺𝗻𝗮𝗺𝗼𝗼𝗻𝗹𝗲𝗸 𝗧
+ 𝗼𝗿𝗳𝘂𝗻𝗳𝗮𝗿𝗺 - Flyweight Kickboxing\n\n-----------
+ ---------------------\nSource: https://watch.onefc.com/events/one-friday-f
+ ights-172\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-172
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a9682efd3539b67790eccd4@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20261002T113003Z
+DTEND:20261002T153003Z
+SUMMARY:ONE Friday Fights 173 & The Inner Circle 33
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
+ calendar time zone.\n\n--------------------------------\nBOUTS\n----------
+ ----------------------\n\nNo bouts announced yet.\n\n---------------------
+ -----------\nSource: https://watch.onefc.com/events/one-friday-fights-173\
+ nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-173
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69365982370b4d81ea624186@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20261003T020000Z
+DTEND:20261003T080000Z
+SUMMARY:ONE Fight Night 48
+DESCRIPTION:ONE Championship · Complete Event · 2 bouts\n📍 Lumpinee St
+ adium\, Bangkok\nTimes display automatically in your calendar time zone.\n
+ \n--------------------------------\nBOUTS\n-------------------------------
+ -\n\n🥊 2. 𝗦𝗵𝗮𝗺𝗶𝗹 𝗘𝗿𝗱𝗼𝗴𝗮𝗻 vs. 
+ 𝗣𝗮𝘂𝗹 𝗘𝗹𝗹𝗶𝗼𝘁𝘁 - Heavyweight Mixed Martial 
+ Arts\n\n🥊 1. 𝗟𝘂𝗸𝗲 𝗟𝗲𝘀𝘀𝗲𝗶 vs. 𝗖𝗵𝗮
+ 𝗿𝗹𝗶𝗲 𝗚𝘂𝗲𝘀𝘁 - Featherweight Muay Thai\n\n-------
+ -------------------------\nSource: https://watch.onefc.com/events/onefight
+ night48\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/onefightnight48
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a968560d3539b67790eccdb@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20261009T113003Z
+DTEND:20261009T153003Z
+SUMMARY:ONE Friday Fights 174 & The Inner Circle 34
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
+ calendar time zone.\n\n--------------------------------\nBOUTS\n----------
+ ----------------------\n\nNo bouts announced yet.\n\n---------------------
+ -----------\nSource: https://watch.onefc.com/events/one-friday-fights-174\
+ nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-174
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a9685c74f4a09743472c759@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20261016T113016Z
+DTEND:20261016T153016Z
+SUMMARY:ONE Friday Fights 175 & The Inner Circle 35
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
+ calendar time zone.\n\n--------------------------------\nBOUTS\n----------
+ ----------------------\n\nNo bouts announced yet.\n\n---------------------
+ -----------\nSource: https://watch.onefc.com/events/one-friday-fights-175\
+ nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-175
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a3b7d34c90b50e63a5105a9@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20261017T070039Z
+DTEND:20261017T130039Z
+SUMMARY:ONE Samurai 4
+DESCRIPTION:ONE Championship · Complete Event · 8 bouts\n📍 Ariake Aren
+ a\, Tokyo\nTimes display automatically in your calendar time zone.\n\n----
+ ----------------------------\nBOUTS\n--------------------------------\n\n
+ 🥊 8. 𝗝𝗼𝗻𝗮𝘁𝗵𝗮𝗻 𝗛𝗮𝗴𝗴𝗲𝗿𝘁𝘆 
+ vs. 𝗛𝗶𝗿𝗼𝗸𝗶 𝗔𝗸𝗶𝗺𝗼𝘁𝗼 - Bantamweight W
+ orld Championship\n\n🥊 7. 𝗡𝗮𝗱𝗮𝗸𝗮 vs. 𝗥𝗶𝗳𝗱
+ 𝗲𝗮𝗻 𝗠𝗮𝘀𝗱𝗼𝗿 - Atomweight World Championship\n\n
+ 🥊 6. 𝗠𝗮𝘀𝗮𝗮𝗸𝗶 𝗡𝗼𝗶𝗿𝗶 vs. 𝗠𝗼𝗵
+ 𝗮𝗺𝗺𝗮𝗱 𝗦𝗶𝗮𝘀𝗮𝗿𝗮𝗻𝗶 - Featherweight 
+ Kickboxing\n\n🥊 5. 𝗠𝗮𝗿𝗮𝘁 𝗚𝗿𝗶𝗴𝗼𝗿𝗶
+ 𝗮𝗻 vs. 𝗟𝘂𝗼 𝗖𝗵𝗮𝗼 - Featherweight Kickboxing\n\n
+ 🥊 4. 𝗥𝘂𝗸𝗶𝘆𝗮 𝗔𝗻𝗽𝗼 vs. 𝗕𝗼𝗴𝗱𝗮
+ 𝗻 𝗦𝗵𝘂𝗺𝗮𝗿𝗼𝘃 - Lightweight Kickboxing\n\n🥊 3. 
+ 𝗜𝘁𝘀𝘂𝗸𝗶 𝗛𝗶𝗿𝗮𝘁𝗮 vs. 𝗝𝗶𝗵𝗶𝗻
+  𝗥𝗮𝗱𝘇𝘂𝗮𝗻 - Atomweight Mixed Martial Arts\n\n🥊 2. 
+ 𝗬𝘂𝗸𝗶 𝗬𝗼𝘇𝗮 vs. 𝗡𝗮𝗯𝗶𝗹 𝗔𝗻𝗮
+ 𝗻𝗲 - Bantamweight Kickboxing\n\n🥊 1. 𝗦𝗵𝗶𝗻𝘁𝗮𝗿
+ 𝗼 𝗠𝗮𝘁𝘀𝘂𝗸𝘂𝗿𝗮 vs. 𝗦𝗶𝗻𝘀𝗮𝗺𝘂
+ 𝘁 𝗞𝗹𝗶𝗻𝗺𝗲𝗲 - Lightweight Kickboxing\n\n------------
+ --------------------\nSource: https://watch.onefc.com/events/one-samurai-4
+ \nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Ariake Arena\, Tokyo
+URL:https://watch.onefc.com/events/one-samurai-4
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a968b61d3539b67790ecd51@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20261030T113006Z
+DTEND:20261030T153006Z
+SUMMARY:ONE Friday Fights 176 & The Inner Circle 36
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
+ calendar time zone.\n\n--------------------------------\nBOUTS\n----------
+ ----------------------\n\nNo bouts announced yet.\n\n---------------------
+ -----------\nSource: https://watch.onefc.com/events/one-friday-fights-176\
+ nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-176
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a968ba710c90c3a3d15f98b@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20261106T113018Z
+DTEND:20261106T153018Z
+SUMMARY:ONE Friday Fights 177 & The Inner Circle 37
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
+ calendar time zone.\n\n--------------------------------\nBOUTS\n----------
+ ----------------------\n\nNo bouts announced yet.\n\n---------------------
+ -----------\nSource: https://watch.onefc.com/events/one-friday-fights-177\
+ nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-177
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:693659a52fbf6a23229602c3@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20261107T020000Z
+DTEND:20261107T080000Z
+SUMMARY:ONE Fight Night 49
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
+ calendar time zone.\n\n--------------------------------\nBOUTS\n----------
+ ----------------------\n\nNo bouts announced yet.\n\n---------------------
+ -----------\nSource: https://watch.onefc.com/events/onefightnight49\nCalen
+ dar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/onefightnight49
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a968c464f4a09743472c796@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20261113T113058Z
+DTEND:20261113T153058Z
+SUMMARY:ONE Friday Fights 178 & The Inner Circle 38
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
+ calendar time zone.\n\n--------------------------------\nBOUTS\n----------
+ ----------------------\n\nNo bouts announced yet.\n\n---------------------
+ -----------\nSource: https://watch.onefc.com/events/one-friday-fights-178\
+ nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-178
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8542c7328afe156d51ec22@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20261118T083035Z
+DTEND:20261118T143035Z
+SUMMARY:ONE SAMURAI 5
+DESCRIPTION:ONE Championship · Complete Event · 1 bouts\n📍 Venue to be
+  announced\nTimes display automatically in your calendar time zone.\n\n---
+ -----------------------------\nBOUTS\n--------------------------------\n\n
+ 🥊 1. 𝗝𝗼𝘀𝗵𝘂𝗮 𝗣𝗮𝗰𝗶𝗼 vs. 𝗞𝗲𝗶𝘁
+ 𝗼 𝗬𝗮𝗺𝗮𝗸𝗶𝘁𝗮 - Strawweight World Championship\n\n
+ --------------------------------\nSource: https://watch.onefc.com/events/o
+ ne-samurai-5\nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:
+URL:https://watch.onefc.com/events/one-samurai-5
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a968c7d10c90c3a3d15f98f@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20261120T113014Z
+DTEND:20261120T153014Z
+SUMMARY:ONE Friday Fights 179 & The Inner Circle 39
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
+ calendar time zone.\n\n--------------------------------\nBOUTS\n----------
+ ----------------------\n\nNo bouts announced yet.\n\n---------------------
+ -----------\nSource: https://watch.onefc.com/events/one-friday-fights-179\
+ nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-179
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a968cbcd3539b67790ecd55@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20261127T113011Z
+DTEND:20261127T153011Z
+SUMMARY:ONE Friday Fights 180 & The Inner Circle 40
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
+ calendar time zone.\n\n--------------------------------\nBOUTS\n----------
+ ----------------------\n\nNo bouts announced yet.\n\n---------------------
+ -----------\nSource: https://watch.onefc.com/events/one-friday-fights-180\
+ nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-180
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a854312744b2bfc37290f0c@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20261202T083023Z
+DTEND:20261202T143023Z
+SUMMARY:ONE SAMURAI 6
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Yokohama Buntai\, Yokohama\nTimes display automatically in your 
+ calendar time zone.\n\n--------------------------------\nBOUTS\n----------
+ ----------------------\n\nNo bouts announced yet.\n\n---------------------
+ -----------\nSource: https://watch.onefc.com/events/one-samurai-6\nCalenda
+ r updated: 2026-09-12T19:31:51.381Z
+LOCATION:Yokohama Buntai\, Yokohama
+URL:https://watch.onefc.com/events/one-samurai-6
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a968cef10c90c3a3d15f993@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20261204T113008Z
+DTEND:20261204T153008Z
+SUMMARY:ONE Friday Fights 181 & The Inner Circle 41
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
+ calendar time zone.\n\n--------------------------------\nBOUTS\n----------
+ ----------------------\n\nNo bouts announced yet.\n\n---------------------
+ -----------\nSource: https://watch.onefc.com/events/one-friday-fights-181\
+ nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-181
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a968d30d3539b67790ecd59@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20261211T113007Z
+DTEND:20261211T153007Z
+SUMMARY:ONE Friday Fights 182 & The Inner Circle 42
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
+ calendar time zone.\n\n--------------------------------\nBOUTS\n----------
+ ----------------------\n\nNo bouts announced yet.\n\n---------------------
+ -----------\nSource: https://watch.onefc.com/events/one-friday-fights-182\
+ nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-182
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69d5f15028ec3730786e73de@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20261212T020017Z
+DTEND:20261212T080017Z
+SUMMARY:ONE Fight Night 50
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
+ calendar time zone.\n\n--------------------------------\nBOUTS\n----------
+ ----------------------\n\nNo bouts announced yet.\n\n---------------------
+ -----------\nSource: https://watch.onefc.com/events/one-fight-night-50\nCa
+ lendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-fight-night-50
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a968d70687675b16b9f8e3f@mma-calendar-one
+DTSTAMP:20260912T193151Z
+DTSTART:20261218T113016Z
+DTEND:20261218T153016Z
+SUMMARY:ONE Friday Fights 183 & The Inner Circle 43
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
+ calendar time zone.\n\n--------------------------------\nBOUTS\n----------
+ ----------------------\n\nNo bouts announced yet.\n\n---------------------
+ -----------\nSource: https://watch.onefc.com/events/one-friday-fights-183\
+ nCalendar updated: 2026-09-12T19:31:51.381Z
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-friday-fights-183
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

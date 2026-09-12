@@ -8,6 +8,7 @@ import { applyCancellationOverrides, reconcileEvents } from "./events.js";
 import { readJson, writeJson } from "./state.js";
 import { renderCalendar, renderCombinedCalendar, renderEstimatedFightCalendar } from "./ics.js";
 import { renderOddsPage } from "./odds-page.js";
+import { mergeOneEvents, renderOneCalendar, scrapeOneCalendar, type OneEvent } from "./one.js";
 import type { CancelledBout, EventStore, FighterStore, OddsStore } from "./types.js";
 
 const root = process.cwd();
@@ -16,6 +17,7 @@ const fighterStorePath = resolve(root, "data/fighters.json");
 const oddsStorePath = resolve(root, "data/odds-history.json");
 const eventStorePath = resolve(root, "data/events.json");
 const cancellationOverridesPath = resolve(root, "data/cancellations.json");
+const oneEventStorePath = resolve(root, "data/one-events.json");
 const now = new Date();
 
 const configuredUrls = (process.env.UFC_EVENT_URLS ?? "").split(",").map((value) => value.trim()).filter(Boolean);
@@ -55,6 +57,20 @@ if (oddsRefreshIsDue(oddsStore, now)) {
 attachStoredOdds(events, oddsStore);
 await writeJson(oddsStorePath, oddsStore);
 
+const storedOneEvents = await readJson<OneEvent[]>(oneEventStorePath, []);
+let oneEvents = storedOneEvents;
+try {
+  const currentOneEvents = await scrapeOneCalendar();
+  if (!currentOneEvents.length) throw new Error("the official calendar did not contain any events");
+  oneEvents = mergeOneEvents(storedOneEvents, currentOneEvents);
+  await writeJson(oneEventStorePath, oneEvents);
+  console.log(`Found ${currentOneEvents.length} ONE Championship event(s).`);
+} catch (error: unknown) {
+  const message = error instanceof Error ? error.message : String(error);
+  if (!oneEvents.length) throw new Error(`ONE Championship calendar could not be generated: ${message}`);
+  console.warn(`Keeping the stored ONE Championship calendar after a source error: ${message}`);
+}
+
 await mkdir(outputDirectory, { recursive: true });
 const calendarOptions = {
   generatedAt: now,
@@ -66,6 +82,7 @@ await Promise.all([
   writeFile(resolve(outputDirectory, "ufc.ics"), renderCalendar(events, calendarOptions)),
   writeFile(resolve(outputDirectory, "ufc-combined.ics"), renderCombinedCalendar(events, calendarOptions)),
   writeFile(resolve(outputDirectory, "ufc-fights.ics"), renderEstimatedFightCalendar(events, calendarOptions)),
+  writeFile(resolve(outputDirectory, "one.ics"), renderOneCalendar(oneEvents, now)),
   writeFile(resolve(outputDirectory, "odds-history.html"), renderOddsPage(oddsStore)),
 ]);
 

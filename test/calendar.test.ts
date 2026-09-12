@@ -5,6 +5,7 @@ import { renderCalendar, renderCombinedCalendar, renderEstimatedFightCalendar } 
 import { applyCancellationOverrides, reconcileEvents } from "../src/events.js";
 import { ageOnDate, decimalOdds, describeWeightClass, flagEmoji, shortFighterName, unicodeBold } from "../src/utils.js";
 import { oddsRefreshIsDue, updateOddsStore } from "../src/odds.js";
+import { mergeOneEvents, parseOneCalendar, renderOneCalendar } from "../src/one.js";
 import type { EventStore, OddsStore } from "../src/types.js";
 
 const eventHtml = `
@@ -197,4 +198,24 @@ test("odds are checked weekly and unchanged values do not inflate history", () =
   event.sections[0].fights[0].red.sourceOdds = "-450";
   updateOddsStore(store, [event], new Date("2026-09-26T12:00:00Z"));
   assert.equal(history.length, 2);
+});
+
+test("formats ONE Championship's official calendar as a permanent detailed feed", () => {
+  const source = `BEGIN:VCALENDAR\r\nBEGIN:VEVENT\r\nUID:official-uid\r\nDTSTART:20260912T003000Z\r\nDTEND:20260912T063000Z\r\nSUMMARY:ONE SAMURAI 3\r\nLOCATION:Yokohama Buntai\\, Yokohama\r\nDESCRIPTION:Watch at https://watch.onefc.com/events/one-samurai-3\\n\\nNadaka vs. Har Ling Om | Kickboxing | Atomweight\\n\\nYuya Wakamatsu vs. Willie van Rooyen | Mixed Martial Arts | Flyweight\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:Reminder\r\nEND:VALARM\r\nURL;VALUE=URI:https://watch.onefc.com/events/one-samurai-3\r\nSTATUS:CONFIRMED\r\nX-UID:stable-one-id\r\nEND:VEVENT\r\nEND:VCALENDAR\r\n`;
+  const parsed = parseOneCalendar(source);
+  assert.equal(parsed.length, 1);
+  assert.equal(parsed[0].location, "Yokohama Buntai, Yokohama");
+  assert.deepEqual(parsed[0].bouts[0], {
+    redName: "Nadaka",
+    blueName: "Har Ling Om",
+    details: "Atomweight Kickboxing",
+  });
+
+  const output = renderOneCalendar(parsed, new Date("2026-09-12T12:00:00Z")).replace(/\r\n[ \t]/g, "");
+  assert.match(output, /X-WR-CALNAME:ONE Championship/);
+  assert.match(output, /DTSTART:20260912T003000Z/);
+  assert.match(output, /🥊 2\. 𝗡𝗮𝗱𝗮𝗸𝗮 vs\. 𝗛𝗮𝗿 𝗟𝗶𝗻𝗴 𝗢𝗺 - Atomweight Kickboxing/);
+
+  const historical = { ...parsed[0], uid: "older", start: "20250912T003000Z" };
+  assert.deepEqual(mergeOneEvents([historical], parsed).map(({ uid }) => uid), ["older", "stable-one-id"]);
 });

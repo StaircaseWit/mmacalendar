@@ -1,4 +1,4 @@
-const USER_AGENT = "ufc-detailed-calendar/0.1 (+public calendar feed; respectful scheduled requests)";
+const USER_AGENT = "mma-calendar/0.2 (+public calendar feed; respectful scheduled requests)";
 
 interface FetchTextOptions {
   attempts?: number;
@@ -12,7 +12,7 @@ export async function fetchText(url: string, { attempts = 3, timeoutMs = 20_000 
       const response = await fetch(url, {
         headers: {
           "user-agent": USER_AGENT,
-          accept: "text/html,application/xhtml+xml",
+          accept: "text/calendar,text/html,application/xhtml+xml",
           "accept-language": "en-GB,en;q=0.9",
         },
         signal: AbortSignal.timeout(timeoutMs),
