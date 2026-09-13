@@ -56,6 +56,12 @@ The standard calendar description uses the `🥊` marker, bout order, and bold U
 - Calendar `SEQUENCE` and `LAST-MODIFIED` values change only when that specific event changes. Routine workflow runs no longer make every calendar entry look newly edited.
 - All six generated calendars are parsed and validated before publication. `docs/status.json` reports source freshness, fallback use, feed sizes, and validation results; a degraded source is published safely and then marks the workflow as failed so GitHub can notify the maintainer.
 
+## Architecture
+
+Each promotion keeps its own source adapter because UFC, ONE Championship, RIZIN and PFL publish different data. After collection and reconciliation, every adapter maps its events, sections, bouts, fighters and cancellations into the same calendar model. A shared renderer then produces the descriptions and iCalendar structure for every feed.
+
+This keeps source-specific parsing isolated while giving all promotions the same formatting, escaping, line folding, revision handling and timed or date-only event behaviour. Adding another promotion requires a source adapter and a mapping into the common model rather than another calendar serializer.
+
 ## Calendar choices
 
 - `docs/ufc.ics`: separate Early Prelims, Prelims, and Main Card events.

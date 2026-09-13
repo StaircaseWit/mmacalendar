@@ -9,7 +9,20 @@ import {
   unicodeBold,
 } from "./utils.js";
 import { BEST_FIGHT_ODDS_URL } from "./promotion-odds.js";
-import { fallbackRevision, type RevisionProvider } from "./revision.js";
+import type { RevisionProvider } from "./revision.js";
+import type {
+  CalendarBoutModel,
+  CalendarDescriptionModel,
+  CalendarEventModel,
+  CalendarFighterModel,
+} from "./calendar-model.js";
+import {
+  BOUTS_HEADING,
+  SECTION_BORDER,
+  renderCalendarBout,
+  renderCalendarDescription,
+  renderCalendarFeed,
+} from "./calendar-renderer.js";
 import type { CancelledBout, CardSection, Fight, Fighter, UfcEvent } from "./types.js";
 
 interface RenderCalendarOptions {
@@ -21,47 +34,10 @@ interface RenderCalendarOptions {
   revisionProvider?: RevisionProvider;
 }
 
-const SECTION_BORDER = "--------------------------------";
-const BOUTS_HEADING = unicodeBold("BOUTS");
 const CANCELLED_HEADING = unicodeBold("CANCELLED OR WITHDRAWN BOUTS");
 
 function hasBestFightOddsHistory(fight: Fight): boolean {
   return (fight.oddsHistory ?? []).some((snapshot) => snapshot.sourceUrl?.startsWith(BEST_FIGHT_ODDS_URL));
-}
-
-function escapeIcs(value: unknown = ""): string {
-  return String(value)
-    .replace(/\\/g, "\\\\")
-    .replace(/\r?\n/g, "\\n")
-    .replace(/;/g, "\\;")
-    .replace(/,/g, "\\,");
-}
-
-function foldLine(line: string): string {
-  const output: string[] = [];
-  let current = "";
-  let byteLimit = 75;
-  for (const character of line) {
-    if (Buffer.byteLength(current + character, "utf8") > byteLimit) {
-      output.push(current);
-      current = ` ${character}`;
-      byteLimit = 75;
-    } else {
-      current += character;
-    }
-  }
-  output.push(current);
-  return output.join("\r\n");
-}
-
-function icsDate(date: Date): string {
-  return date.toISOString().replace(/[-:]/g, "").replace(/\.\d{3}Z$/, "Z");
-}
-
-function fighterLabel(fighter: Fighter, boldName = false): string {
-  const rank = fighter.rank ? fighter.rank.toUpperCase() === "C" ? " (C)" : ` (#${fighter.rank})` : "";
-  const flag = flagEmoji(fighter.countryCode);
-  return `${boldName ? unicodeBold(fighter.name) : fighter.name}${rank}${flag ? ` ${flag}` : ""}`;
 }
 
 function displayOdds(value: string | null | undefined): string {
@@ -86,16 +62,19 @@ function markedOdds(value: string | null | undefined, opponentValue: string | nu
   return `${oddsMarker(value, opponentValue)}${displayOdds(value)}`;
 }
 
-function fighterDetail(fighter: Fighter, _opponent: Fighter, eventDate: Date): string {
+function ufcFighterModel(fighter: Fighter, eventDate: Date): CalendarFighterModel {
   const record = fighter.record ?? "record unavailable";
   const age = ageOnDate(fighter.birthDate, eventDate);
-  const details = [
-    record,
-    age === null ? "age unavailable" : `${age}yo`,
-    fighter.fightingStyle,
-    fighter.odds ? displayOdds(fighter.odds) : null,
-  ].filter(Boolean);
-  return `• ${shortFighterName(fighter)}: ${details.join(" | ")}`;
+  const facts = [record, age === null ? "age unavailable" : `${age}yo`, fighter.fightingStyle, fighter.odds ? displayOdds(fighter.odds) : null]
+    .filter((value): value is string => Boolean(value));
+  const rank = fighter.rank ? fighter.rank.toUpperCase() === "C" ? " (C)" : ` (#${fighter.rank})` : undefined;
+  return {
+    name: fighter.name,
+    shortName: shortFighterName(fighter),
+    rank,
+    flag: flagEmoji(fighter.countryCode),
+    facts,
+  };
 }
 
 function localDateKey(date: Date, timeZone: string): string {
@@ -158,6 +137,31 @@ function estimatedFightTime(event: UfcEvent, section: CardSection, sourceIndex: 
   return new Date(Math.round(estimate / fiveMinutes) * fiveMinutes);
 }
 
+function ufcBoutModel(
+  section: CardSection,
+  fight: Fight,
+  sourceIndex: number,
+  boutNumberOverride?: number,
+): CalendarBoutModel {
+  const boutNumber = boutNumberOverride ?? section.fights.length - sourceIndex;
+  const history = fight.oddsHistory ?? [];
+  const historyRows = history.length
+    ? [...history.slice(-3).map((snapshot) => {
+        const red = snapshot.odds?.[normalizedName(fight.red.name)] ?? "unavailable";
+        const blue = snapshot.odds?.[normalizedName(fight.blue.name)] ?? "unavailable";
+        return `${formatShortCheckDate(snapshot.checkedAt)}: ${shortFighterName(fight.red)} ${markedOdds(red, blue)} | ${shortFighterName(fight.blue)} ${markedOdds(blue, red)}`;
+      }), ...(history.length > 3 ? ["Earlier changes: see full odds log"] : [])]
+    : [];
+  return {
+    order: boutNumber,
+    red: ufcFighterModel(fight.red, section.start!),
+    blue: ufcFighterModel(fight.blue, section.start!),
+    details: describeWeightClass(fight.weightClass),
+    oddsHistoryRows: historyRows,
+    oddsHistoryEmptyText: history.length ? undefined : "not checked yet",
+  };
+}
+
 function fightDescription(
   _event: UfcEvent,
   section: CardSection,
@@ -167,39 +171,13 @@ function fightDescription(
   _displayTimeZoneLabel: string,
   boutNumberOverride?: number,
 ): string {
-  const boutNumber = boutNumberOverride ?? section.fights.length - sourceIndex;
-  const summary = `🥊 ${boutNumber}. ${fighterLabel(fight.red, true)} vs. ${fighterLabel(fight.blue, true)}`;
-  const history = fight.oddsHistory ?? [];
-  const historyLines = history.length
-    ? ["• Odds history:", ...history.slice(-3).map((snapshot) => {
-        const red = snapshot.odds?.[normalizedName(fight.red.name)] ?? "unavailable";
-        const blue = snapshot.odds?.[normalizedName(fight.blue.name)] ?? "unavailable";
-        return `  ◦ ${formatShortCheckDate(snapshot.checkedAt)}: ${shortFighterName(fight.red)} ${markedOdds(red, blue)} | ${shortFighterName(fight.blue)} ${markedOdds(blue, red)}`;
-      }), ...(history.length > 3 ? ["  ◦ Earlier changes: see full odds log"] : [])]
-    : ["• Odds history: not checked yet"];
-  return [
-    summary,
-    `• ${describeWeightClass(fight.weightClass)}`,
-    fighterDetail(fight.red, fight.blue, section.start!),
-    fighterDetail(fight.blue, fight.red, section.start!),
-    ...historyLines,
-  ].join("\n");
+  return renderCalendarBout(ufcBoutModel(section, fight, sourceIndex, boutNumberOverride));
 }
 
 function cancelledBoutDescription(bout: CancelledBout): string {
   const weight = bout.weightClass ? ` · ${describeWeightClass(bout.weightClass)}` : "";
   const reason = bout.reason ? ` | ${bout.reason}` : "";
   return `✕ ${bout.redName} vs. ${bout.blueName}${weight}${reason}`;
-}
-
-function cancelledBoutBlock(event: UfcEvent): string {
-  if (!event.cancelledBouts?.length) return "";
-  return [
-    SECTION_BORDER,
-    CANCELLED_HEADING,
-    SECTION_BORDER,
-    ...event.cancelledBouts.map(cancelledBoutDescription),
-  ].join("\n");
 }
 
 function sectionEnd(event: UfcEvent, section: CardSection): Date {
@@ -258,66 +236,63 @@ export function renderCalendar(events: UfcEvent[], {
   displayTimeZoneLabel = "Ireland",
   revisionProvider,
 }: RenderCalendarOptions = {}): string {
-  const lines: string[] = [
-    "BEGIN:VCALENDAR",
-    "VERSION:2.0",
-    "PRODID:-//Detailed UFC Calendar//EN",
-    "CALSCALE:GREGORIAN",
-    "METHOD:PUBLISH",
-    `X-WR-CALNAME:${escapeIcs(calendarName)}`,
-    "X-WR-CALDESC:Automatically updated UFC cards with fighter details and twice-weekly odds history.",
-    "COLOR:#D8070C",
-    "X-APPLE-CALENDAR-COLOR:#D8070C",
-    "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
-    "X-PUBLISHED-TTL:PT6H",
-  ];
-
+  const calendarEvents: CalendarEventModel[] = [];
   for (const event of events) {
     for (const section of event.sections) {
       if (!section.start) continue;
-      const description = [
-        eventOverview(event, section, displayTimeZone, displayTimeZoneLabel).join("\n"),
-        `${SECTION_BORDER}\n${BOUTS_HEADING}\n${SECTION_BORDER}`,
-        section.fights.length ? "" : "No bouts announced yet.",
-        ...section.fights.map((fight, index) => fightDescription(event, section, fight, index, displayTimeZone, displayTimeZoneLabel)),
-        cancelledBoutBlock(event),
-        [
-          SECTION_BORDER,
+      const description: CalendarDescriptionModel = {
+        overview: eventOverview(event, section, displayTimeZone, displayTimeZoneLabel),
+        sections: [{
+          bouts: section.fights.map((fight, index) => ufcBoutModel(section, fight, index)),
+          emptyText: "No bouts announced yet.",
+        }],
+        cancelledBouts: (event.cancelledBouts ?? []).map((bout) => ({
+          redName: bout.redName,
+          blueName: bout.blueName,
+          details: bout.weightClass ? describeWeightClass(bout.weightClass) : undefined,
+          note: bout.reason ?? undefined,
+          layout: "inline",
+        })),
+        cancelledHeading: "CANCELLED OR WITHDRAWN BOUTS",
+        footer: [
           `Source: ${event.url}`,
           section.fights.some(hasBestFightOddsHistory) ? `Odds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked Monday and Friday` : "",
           publicBaseUrl ? `Full odds log: ${publicBaseUrl.replace(/\/$/, "")}/odds-history.html` : "",
           scheduleStatusLine(event, displayTimeZone),
-        ].filter(Boolean).join("\n"),
-      ].filter(Boolean).join("\n\n");
+        ].filter(Boolean),
+      };
+      const descriptionText = renderCalendarDescription(description);
       const summary = `${section.label} – ${event.title}`;
       const end = sectionEnd(event, section);
       const status = calendarEventStatus(event, Boolean(section.provisional));
       const html = htmlDescription(event, section, publicBaseUrl, displayTimeZone, displayTimeZoneLabel);
-      const revision = revisionProvider?.(`ufc:split:${event.slug}:${section.key}`, {
-        start: section.start.toISOString(), end: end.toISOString(), summary, description,
-        html, location: event.location, url: event.url, status,
-      }) ?? fallbackRevision(generatedAt);
-      lines.push(
-        "BEGIN:VEVENT",
-        `UID:${escapeIcs(`${event.slug}-${section.key}@ufc-detailed-calendar`)}`,
-        `DTSTAMP:${icsDate(revision.createdAt)}`,
-        `LAST-MODIFIED:${icsDate(revision.lastModified)}`,
-        `SEQUENCE:${revision.sequence}`,
-        `DTSTART:${icsDate(section.start)}`,
-        `DTEND:${icsDate(end)}`,
-        `SUMMARY:${escapeIcs(summary)}`,
-        `DESCRIPTION:${escapeIcs(description)}`,
-        `X-ALT-DESC;FMTTYPE=text/html:${escapeIcs(html)}`,
-        `LOCATION:${escapeIcs(event.location)}`,
-        `URL:${escapeIcs(event.url)}`,
-        `CATEGORIES:UFC,${escapeIcs(section.label)}`,
-        `STATUS:${status}`,
-        "END:VEVENT",
-      );
+      calendarEvents.push({
+        uid: `${event.slug}-${section.key}@ufc-detailed-calendar`,
+        revisionKey: `ufc:split:${event.slug}:${section.key}`,
+        timing: { kind: "timed", start: section.start, end },
+        summary,
+        description,
+        htmlDescription: html,
+        location: event.location,
+        url: event.url,
+        categories: ["UFC", section.label],
+        status,
+        revisionContent: {
+          start: section.start.toISOString(), end: end.toISOString(), summary, description: descriptionText,
+          html, location: event.location, url: event.url, status,
+        },
+      });
     }
   }
-  lines.push("END:VCALENDAR");
-  return `${lines.map(foldLine).join("\r\n")}\r\n`;
+  return renderCalendarFeed({
+    productId: "-//Detailed UFC Calendar//EN",
+    name: calendarName,
+    description: "Automatically updated UFC cards with fighter details and twice-weekly odds history.",
+    color: "#D8070C",
+    events: calendarEvents,
+    generatedAt,
+    revisionProvider,
+  });
 }
 
 function eventBounds(event: UfcEvent): { start: Date; end: Date } | null {
@@ -336,20 +311,7 @@ export function renderCombinedCalendar(events: UfcEvent[], {
   displayTimeZoneLabel = "Ireland",
   revisionProvider,
 }: RenderCalendarOptions = {}): string {
-  const lines: string[] = [
-    "BEGIN:VCALENDAR",
-    "VERSION:2.0",
-    "PRODID:-//Detailed UFC Calendar//EN",
-    "CALSCALE:GREGORIAN",
-    "METHOD:PUBLISH",
-    `X-WR-CALNAME:${escapeIcs(calendarName)}`,
-    "X-WR-CALDESC:One complete calendar entry per UFC event with all announced bouts.",
-    "COLOR:#D8070C",
-    "X-APPLE-CALENDAR-COLOR:#D8070C",
-    "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
-    "X-PUBLISHED-TTL:PT6H",
-  ];
-
+  const calendarEvents: CalendarEventModel[] = [];
   for (const event of events) {
     const bounds = eventBounds(event);
     if (!bounds) continue;
@@ -357,64 +319,72 @@ export function renderCombinedCalendar(events: UfcEvent[], {
     const totalFights = sections.reduce((total, section) => total + section.fights.length, 0);
     let boutNumber = totalFights;
     const crossesDate = localDateKey(bounds.start, displayTimeZone) !== localDateKey(bounds.end, displayTimeZone);
-    const sectionBlocks: string[] = [];
-    for (const section of sections) {
+    const descriptionSections = sections.map((section) => {
       const sectionStatus = section.provisional
         ? section.fights.length ? `${section.fights.length} announced · placement TBD` : "fight card TBD"
         : section.fights.length === 1 ? "1 bout" : `${section.fights.length} bouts`;
-      sectionBlocks.push(unicodeBold(`── ${section.label.toUpperCase()} · ${sectionStatus} ──`));
-      if (!section.fights.length) {
-        sectionBlocks.push("No bouts assigned yet.");
-        continue;
-      }
-      for (let index = 0; index < section.fights.length; index += 1) {
-        sectionBlocks.push(fightDescription(event, section, section.fights[index]!, index, displayTimeZone, displayTimeZoneLabel, boutNumber));
+      const bouts = section.fights.map((fight, index) => {
+        const model = ufcBoutModel(section, fight, index, boutNumber);
         boutNumber -= 1;
-      }
-    }
-    const description = [
-      [
+        return model;
+      });
+      return {
+        heading: `── ${section.label.toUpperCase()} · ${sectionStatus} ──`,
+        bouts,
+        emptyText: "No bouts assigned yet.",
+      };
+    });
+    const description: CalendarDescriptionModel = {
+      overview: [
         `UFC · Complete Event · ${totalFights ? `${totalFights} announced bouts` : "fight card TBD"}`,
         `📍 ${event.location || "Venue to be announced"}`,
         `🕒 ${localTime(bounds.start, displayTimeZone)}–${localTime(bounds.end, displayTimeZone, crossesDate)} ${displayTimeZoneLabel}`,
-      ].join("\n"),
-      `${SECTION_BORDER}\n${BOUTS_HEADING}\n${SECTION_BORDER}`,
-      ...sectionBlocks,
-      cancelledBoutBlock(event),
-      [
-        SECTION_BORDER,
+      ],
+      sections: descriptionSections,
+      cancelledBouts: (event.cancelledBouts ?? []).map((bout) => ({
+        redName: bout.redName,
+        blueName: bout.blueName,
+        details: bout.weightClass ? describeWeightClass(bout.weightClass) : undefined,
+        note: bout.reason ?? undefined,
+        layout: "inline",
+      })),
+      cancelledHeading: "CANCELLED OR WITHDRAWN BOUTS",
+      footer: [
         `Source: ${event.url}`,
         sections.some((section) => section.fights.some(hasBestFightOddsHistory)) ? `Odds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked Monday and Friday` : "",
         publicBaseUrl ? `Full odds log: ${publicBaseUrl.replace(/\/$/, "")}/odds-history.html` : "",
         scheduleStatusLine(event, displayTimeZone),
-      ].filter(Boolean).join("\n"),
-    ].filter(Boolean).join("\n\n");
-    const html = `<html><body><p>${htmlEscape(description).replace(/\n/g, "<br>")}</p></body></html>`;
+      ].filter(Boolean),
+    };
+    const descriptionText = renderCalendarDescription(description);
+    const html = `<html><body><p>${htmlEscape(descriptionText).replace(/\n/g, "<br>")}</p></body></html>`;
     const status = calendarEventStatus(event, sections.some(({ provisional }) => provisional));
-    const revision = revisionProvider?.(`ufc:combined:${event.slug}`, {
+    calendarEvents.push({
+      uid: `${event.slug}-combined@ufc-detailed-calendar`,
+      revisionKey: `ufc:combined:${event.slug}`,
+      timing: { kind: "timed", start: bounds.start, end: bounds.end },
+      summary: event.title,
+      description,
+      htmlDescription: html,
+      location: event.location,
+      url: event.url,
+      categories: ["UFC", "Complete Event"],
+      status,
+      revisionContent: {
       start: bounds.start.toISOString(), end: bounds.end.toISOString(), summary: event.title,
-      description, html, location: event.location, url: event.url, status,
-    }) ?? fallbackRevision(generatedAt);
-    lines.push(
-      "BEGIN:VEVENT",
-      `UID:${escapeIcs(`${event.slug}-combined@ufc-detailed-calendar`)}`,
-      `DTSTAMP:${icsDate(revision.createdAt)}`,
-      `LAST-MODIFIED:${icsDate(revision.lastModified)}`,
-      `SEQUENCE:${revision.sequence}`,
-      `DTSTART:${icsDate(bounds.start)}`,
-      `DTEND:${icsDate(bounds.end)}`,
-      `SUMMARY:${escapeIcs(event.title)}`,
-      `DESCRIPTION:${escapeIcs(description)}`,
-      `X-ALT-DESC;FMTTYPE=text/html:${escapeIcs(html)}`,
-      `LOCATION:${escapeIcs(event.location)}`,
-      `URL:${escapeIcs(event.url)}`,
-      "CATEGORIES:UFC,Complete Event",
-      `STATUS:${status}`,
-      "END:VEVENT",
-    );
+        description: descriptionText, html, location: event.location, url: event.url, status,
+      },
+    });
   }
-  lines.push("END:VCALENDAR");
-  return `${lines.map(foldLine).join("\r\n")}\r\n`;
+  return renderCalendarFeed({
+    productId: "-//Detailed UFC Calendar//EN",
+    name: calendarName,
+    description: "One complete calendar entry per UFC event with all announced bouts.",
+    color: "#D8070C",
+    events: calendarEvents,
+    generatedAt,
+    revisionProvider,
+  });
 }
 
 function fightUid(event: UfcEvent, fight: Fight): string {
@@ -435,20 +405,7 @@ export function renderEstimatedFightCalendar(events: UfcEvent[], {
   displayTimeZoneLabel = "Ireland",
   revisionProvider,
 }: RenderCalendarOptions = {}): string {
-  const lines: string[] = [
-    "BEGIN:VCALENDAR",
-    "VERSION:2.0",
-    "PRODID:-//Detailed UFC Calendar//EN",
-    "CALSCALE:GREGORIAN",
-    "METHOD:PUBLISH",
-    `X-WR-CALNAME:${escapeIcs(calendarName)}`,
-    "X-WR-CALDESC:Optional estimated UFC bout times that adapt to the calendar client's time zone.",
-    "COLOR:#D8070C",
-    "X-APPLE-CALENDAR-COLOR:#D8070C",
-    "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
-    "X-PUBLISHED-TTL:PT6H",
-  ];
-
+  const calendarEvents: CalendarEventModel[] = [];
   for (const event of events) {
     for (const section of event.sections) {
       if (!section.start) continue;
@@ -471,30 +428,32 @@ export function renderEstimatedFightCalendar(events: UfcEvent[], {
         ].filter(Boolean).join("\n");
         const summary = `🥊 ${boutNumber}. ${fight.red.name} vs. ${fight.blue.name} (estimated)`;
         const status = calendarEventStatus(event, true);
-        const revision = revisionProvider?.(`ufc:fight:${fightUid(event, fight)}`, {
-          start: start.toISOString(), end: end.toISOString(), summary, description,
-          location: event.location, url: event.url, status,
-        }) ?? fallbackRevision(generatedAt);
-        lines.push(
-          "BEGIN:VEVENT",
-          `UID:${escapeIcs(fightUid(event, fight))}`,
-          `DTSTAMP:${icsDate(revision.createdAt)}`,
-          `LAST-MODIFIED:${icsDate(revision.lastModified)}`,
-          `SEQUENCE:${revision.sequence}`,
-          `DTSTART:${icsDate(start)}`,
-          `DTEND:${icsDate(end)}`,
-          `SUMMARY:${escapeIcs(summary)}`,
-          `DESCRIPTION:${escapeIcs(description)}`,
-          `LOCATION:${escapeIcs(event.location)}`,
-          `URL:${escapeIcs(event.url)}`,
-          `CATEGORIES:UFC,Estimated Fight,${escapeIcs(section.label)}`,
-          `RELATED-TO:${escapeIcs(`${event.slug}-${section.key}@ufc-detailed-calendar`)}`,
-          `STATUS:${status}`,
-          "END:VEVENT",
-        );
+        calendarEvents.push({
+          uid: fightUid(event, fight),
+          revisionKey: `ufc:fight:${fightUid(event, fight)}`,
+          timing: { kind: "timed", start, end },
+          summary,
+          description,
+          location: event.location,
+          url: event.url,
+          categories: ["UFC", "Estimated Fight", section.label],
+          relatedTo: `${event.slug}-${section.key}@ufc-detailed-calendar`,
+          status,
+          revisionContent: {
+            start: start.toISOString(), end: end.toISOString(), summary, description,
+            location: event.location, url: event.url, status,
+          },
+        });
       });
     }
   }
-  lines.push("END:VCALENDAR");
-  return `${lines.map(foldLine).join("\r\n")}\r\n`;
+  return renderCalendarFeed({
+    productId: "-//Detailed UFC Calendar//EN",
+    name: calendarName,
+    description: "Optional estimated UFC bout times that adapt to the calendar client's time zone.",
+    color: "#D8070C",
+    events: calendarEvents,
+    generatedAt,
+    revisionProvider,
+  });
 }

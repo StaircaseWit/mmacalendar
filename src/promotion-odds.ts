@@ -435,23 +435,31 @@ export function shortPromotionFighterName(name: string): string {
   return parts.at(-1) || name;
 }
 
-export function formatPromotionOddsHistory(
+export function promotionOddsHistoryRows(
   history: PromotionOddsSnapshot[] | undefined,
   redName: string,
   blueName: string,
-): string | null {
-  if (!history?.length) return null;
+): string[] {
+  if (!history?.length) return [];
   const redKey = canonicalOddsName(redName);
   const blueKey = canonicalOddsName(blueName);
   const redShort = shortPromotionFighterName(redName);
   const blueShort = shortPromotionFighterName(blueName);
-  const rows = history.flatMap((snapshot) => {
+  return history.flatMap((snapshot) => {
     const redOdds = snapshot.odds?.[redKey] ?? null;
     const blueOdds = snapshot.odds?.[blueKey] ?? null;
     if (!redOdds && !blueOdds) return [];
     const red = formatPromotionOddsWithMarker(redOdds, blueOdds) ?? "unavailable";
     const blue = formatPromotionOddsWithMarker(blueOdds, redOdds) ?? "unavailable";
-    return [`  ◦ ${formatShortCheckDate(snapshot.checkedAt)}: ${redShort} ${red} | ${blueShort} ${blue}`];
+    return [`${formatShortCheckDate(snapshot.checkedAt)}: ${redShort} ${red} | ${blueShort} ${blue}`];
   });
-  return rows.length ? `• Odds history:\n${rows.join("\n")}` : null;
+}
+
+export function formatPromotionOddsHistory(
+  history: PromotionOddsSnapshot[] | undefined,
+  redName: string,
+  blueName: string,
+): string | null {
+  const rows = promotionOddsHistoryRows(history, redName, blueName);
+  return rows.length ? `• Odds history:\n${rows.map((row) => `  ◦ ${row}`).join("\n")}` : null;
 }

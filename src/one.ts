@@ -1,14 +1,20 @@
 import * as cheerio from "cheerio";
 import { fetchText } from "./http.js";
-import { absoluteUrl, cleanText, countryFlags, normalizedName, unicodeBold } from "./utils.js";
+import { absoluteUrl, cleanText, countryFlags, normalizedName } from "./utils.js";
 import {
   BEST_FIGHT_ODDS_URL,
   formatPromotionOdds,
-  formatPromotionOddsHistory,
+  promotionOddsHistoryRows,
   shortPromotionFighterName,
   type PromotionOddsSnapshot,
 } from "./promotion-odds.js";
-import { fallbackRevision, type RevisionProvider } from "./revision.js";
+import type { RevisionProvider } from "./revision.js";
+import type {
+  CalendarBoutModel,
+  CalendarDescriptionModel,
+  CalendarEventModel,
+} from "./calendar-model.js";
+import { renderCalendarDescription, renderCalendarFeed } from "./calendar-renderer.js";
 
 export const ONE_CALENDAR_URL = "https://calendar.onefc.com/ONE-Championship-events.ics";
 export const ONE_EVENTS_URL = "https://www.onefc.com/events/";
@@ -67,29 +73,6 @@ function unescapeIcs(value: string): string {
     .replace(/\\,/g, ",")
     .replace(/\\;/g, ";")
     .replace(/\\\\/g, "\\");
-}
-
-function escapeIcs(value: unknown = ""): string {
-  return String(value)
-    .replace(/\\/g, "\\\\")
-    .replace(/\r?\n/g, "\\n")
-    .replace(/;/g, "\\;")
-    .replace(/,/g, "\\,");
-}
-
-function foldLine(line: string): string {
-  const output: string[] = [];
-  let current = "";
-  for (const character of line) {
-    if (Buffer.byteLength(current + character, "utf8") > 75) {
-      output.push(current);
-      current = ` ${character}`;
-    } else {
-      current += character;
-    }
-  }
-  output.push(current);
-  return output.join("\r\n");
 }
 
 function propertyName(line: string): string {
@@ -417,92 +400,93 @@ export function describeOneBout(details: string): string {
   return division ? value.replace(division[0], division[1]) : value;
 }
 
-function oneFighterDetail(
-  name: string,
+function oneFighterFacts(
   record: string | null | undefined,
   age: number | null | undefined,
   odds: string | null,
   style: string | null | undefined,
-): string | null {
-  const details = [record ? `ONE ${record}` : null, age ? `${age}yo` : null, style, odds].filter(Boolean);
-  return details.length ? `• ${shortPromotionFighterName(name)}: ${details.join(" | ")}` : null;
+): string[] {
+  return [record ? `ONE ${record}` : null, age ? `${age}yo` : null, style, odds]
+    .filter((value): value is string => Boolean(value));
 }
 
-function descriptionFor(event: OneEvent): string {
+function oneDescription(event: OneEvent): CalendarDescriptionModel {
   const boutCount = event.bouts.length === 1 ? "1 bout" : `${event.bouts.length} bouts`;
-  const header = [
-    `ONE Championship · Complete Event · ${event.bouts.length ? boutCount : "card details to be announced"}`,
-    `📍 ${event.location || "Venue to be announced"}`,
-    "Times display automatically in your calendar time zone.",
-  ].join("\n");
-  const bouts = event.bouts.length
-    ? event.bouts.map((bout, index) => {
-        const number = event.bouts.length - index;
-        const redFlag = countryFlags(bout.redCountry);
-        const blueFlag = countryFlags(bout.blueCountry);
-        const matchup = `🥊 ${number}. ${unicodeBold(bout.redName)}${redFlag ? ` ${redFlag}` : ""} vs. ${unicodeBold(bout.blueName)}${blueFlag ? ` ${blueFlag}` : ""}`;
-        const redOdds = formatPromotionOdds(bout.redOdds, bout.blueOdds);
-        const blueOdds = formatPromotionOdds(bout.blueOdds, bout.redOdds);
-        return [
-          matchup,
-          bout.details ? `• ${describeOneBout(bout.details)}` : null,
-          oneFighterDetail(bout.redName, bout.redRecord, bout.redAge, redOdds, bout.redStyle),
-          oneFighterDetail(bout.blueName, bout.blueRecord, bout.blueAge, blueOdds, bout.blueStyle),
-          formatPromotionOddsHistory(bout.oddsHistory, bout.redName, bout.blueName),
-        ].filter(Boolean).join("\n");
-      }).join("\n\n")
-    : "No bouts announced yet.";
+  const bouts: CalendarBoutModel[] = event.bouts.map((bout, index) => ({
+    order: event.bouts.length - index,
+    red: {
+      name: bout.redName,
+      shortName: shortPromotionFighterName(bout.redName),
+      flag: countryFlags(bout.redCountry),
+      facts: oneFighterFacts(
+        bout.redRecord,
+        bout.redAge,
+        formatPromotionOdds(bout.redOdds, bout.blueOdds),
+        bout.redStyle,
+      ),
+    },
+    blue: {
+      name: bout.blueName,
+      shortName: shortPromotionFighterName(bout.blueName),
+      flag: countryFlags(bout.blueCountry),
+      facts: oneFighterFacts(
+        bout.blueRecord,
+        bout.blueAge,
+        formatPromotionOdds(bout.blueOdds, bout.redOdds),
+        bout.blueStyle,
+      ),
+    },
+    details: bout.details ? describeOneBout(bout.details) : undefined,
+    oddsHistoryRows: promotionOddsHistoryRows(bout.oddsHistory, bout.redName, bout.blueName),
+  }));
   const oddsSource = event.bouts.some((bout) => bout.oddsHistory?.length)
-    ? `\nOdds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked Monday and Friday`
-    : "";
-  return [
-    header,
-    `--------------------------------\n${unicodeBold("BOUTS")}\n--------------------------------`,
-    bouts,
-    `--------------------------------\nSource: ${event.detailsUrl ?? event.url}${oddsSource}`,
-  ].join("\n\n");
+    ? `Odds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked Monday and Friday`
+    : null;
+  return {
+    overview: [
+      `ONE Championship · Complete Event · ${event.bouts.length ? boutCount : "card details to be announced"}`,
+      `📍 ${event.location || "Venue to be announced"}`,
+      "Times display automatically in your calendar time zone.",
+    ],
+    sections: [{ bouts }],
+    emptyText: "No bouts announced yet.",
+    footer: [
+      `Source: ${event.detailsUrl ?? event.url}`,
+      ...(oddsSource ? [oddsSource] : []),
+    ],
+  };
 }
 
 export function renderOneCalendar(events: OneEvent[], generatedAt = new Date(), revisionProvider?: RevisionProvider): string {
-  const lines = [
-    "BEGIN:VCALENDAR",
-    "VERSION:2.0",
-    "PRODID:-//MMA Calendar//ONE Championship//EN",
-    "CALSCALE:GREGORIAN",
-    "METHOD:PUBLISH",
-    "X-WR-CALNAME:ONE Championship",
-    "X-WR-CALDESC:ONE Championship events and announced bouts.",
-    "COLOR:#202428",
-    "X-APPLE-CALENDAR-COLOR:#202428",
-    "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
-    "X-PUBLISHED-TTL:PT6H",
-  ];
-  for (const event of events) {
-    const status = /^(?:CONFIRMED|TENTATIVE|CANCELLED)$/.test(event.status) ? event.status : "CONFIRMED";
-    const description = descriptionFor(event);
-    const revision = revisionProvider?.(`one:${event.uid}`, {
-      start: event.start, end: event.end, summary: event.summary, description,
-      location: event.location, url: event.url, status,
-    }) ?? fallbackRevision(generatedAt);
-    const created = revision.createdAt.toISOString().replace(/[-:]/g, "").replace(/\.\d{3}Z$/, "Z");
-    const modified = revision.lastModified.toISOString().replace(/[-:]/g, "").replace(/\.\d{3}Z$/, "Z");
-    lines.push(
-      "BEGIN:VEVENT",
-      `UID:${escapeIcs(`${event.uid}@mma-calendar-one`)}`,
-      `DTSTAMP:${created}`,
-      `LAST-MODIFIED:${modified}`,
-      `SEQUENCE:${revision.sequence}`,
-      `DTSTART:${event.start}`,
-      `DTEND:${event.end}`,
-      `SUMMARY:${escapeIcs(event.summary)}`,
-      `DESCRIPTION:${escapeIcs(description)}`,
-      `LOCATION:${escapeIcs(event.location)}`,
-      `URL:${escapeIcs(event.url)}`,
-      "CATEGORIES:ONE Championship",
-      `STATUS:${status}`,
-      "END:VEVENT",
-    );
-  }
-  lines.push("END:VCALENDAR");
-  return `${lines.map(foldLine).join("\r\n")}\r\n`;
+  const calendarEvents: CalendarEventModel[] = events.map((event) => {
+    const status = /^(?:CONFIRMED|TENTATIVE|CANCELLED)$/.test(event.status)
+      ? event.status as CalendarEventModel["status"]
+      : "CONFIRMED";
+    const description = oneDescription(event);
+    const descriptionText = renderCalendarDescription(description);
+    return {
+      uid: `${event.uid}@mma-calendar-one`,
+      revisionKey: `one:${event.uid}`,
+      timing: { kind: "timed", start: event.start, end: event.end },
+      summary: event.summary,
+      description,
+      location: event.location,
+      url: event.url,
+      categories: ["ONE Championship"],
+      status,
+      revisionContent: {
+        start: event.start, end: event.end, summary: event.summary, description: descriptionText,
+        location: event.location, url: event.url, status,
+      },
+    };
+  });
+  return renderCalendarFeed({
+    productId: "-//MMA Calendar//ONE Championship//EN",
+    name: "ONE Championship",
+    description: "ONE Championship events and announced bouts.",
+    color: "#202428",
+    events: calendarEvents,
+    generatedAt,
+    revisionProvider,
+  });
 }

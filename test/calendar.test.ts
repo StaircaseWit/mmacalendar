@@ -27,6 +27,8 @@ import {
 import { assertCandidateQuality } from "../src/health.js";
 import { createRevisionProvider, emptyRevisionStore } from "../src/revision.js";
 import { validateCalendar } from "../src/validate.js";
+import { renderCalendarDescription, renderCalendarFeed } from "../src/calendar-renderer.js";
+import type { CalendarDescriptionModel, CalendarEventModel } from "../src/calendar-model.js";
 import type { EventStore, OddsStore } from "../src/types.js";
 
 const eventHtml = `
@@ -75,6 +77,63 @@ test("formats weight and country fields", () => {
   assert.equal(shortFighterName({ name: "Raul Rosas Jr." }), "Rosas");
   assert.equal(shortFighterName({ name: "Regina Tarin", familyName: "Malpica Rivera" }), "Tarin");
   assert.equal(unicodeBold("Jean Silva"), "𝗝𝗲𝗮𝗻 𝗦𝗶𝗹𝘃𝗮");
+});
+
+test("renders every promotion through the shared calendar model", () => {
+  const description: CalendarDescriptionModel = {
+    overview: ["Example Promotion · Complete Event · 1 bout", "📍 Test Arena"],
+    sections: [{
+      heading: "── MAIN CARD · 1 bout ──",
+      bouts: [{
+        order: 1,
+        red: { name: "Red Fighter", shortName: "Fighter", flag: "🇮🇪", facts: ["5-0-0", "Grappler"] },
+        blue: { name: "Blue Fighter", shortName: "Fighter", flag: "🇯🇵", facts: ["4-1-0", "Striker"] },
+        details: "155lbs/70kg Lightweight",
+        oddsHistoryRows: ["13 Sep: Fighter 🟢 -150 (1.67) | Fighter 🔴 +130 (2.30)"],
+      }],
+    }],
+    cancelledBouts: [{ redName: "Old Red", blueName: "Old Blue", note: "Withdrawn", layout: "stacked" }],
+    footer: ["Source: https://example.com/event"],
+  };
+  const events: CalendarEventModel[] = [{
+    uid: "timed@example",
+    revisionKey: "example:timed",
+    timing: { kind: "timed", start: new Date("2026-09-13T12:00:00Z"), end: new Date("2026-09-13T18:00:00Z") },
+    summary: "Example, Main Event",
+    description,
+    location: "Test Arena; Dublin",
+    url: "https://example.com/event",
+    categories: ["Example Promotion", "Main Card"],
+    status: "CONFIRMED",
+  }, {
+    uid: "placeholder@example",
+    revisionKey: "example:placeholder",
+    timing: { kind: "all-day", startDate: "2026-10-01" },
+    summary: "Future Event",
+    description: "Card details to be announced.",
+    location: "",
+    url: "https://example.com/future",
+    categories: ["Example Promotion"],
+    status: "TENTATIVE",
+  }];
+  const output = renderCalendarFeed({
+    productId: "-//MMA Calendar//Example Promotion//EN",
+    name: "Example Promotion",
+    description: "Example events and announced bouts.",
+    color: "#123456",
+    events,
+    generatedAt: new Date("2026-09-13T12:00:00Z"),
+  });
+  const unfolded = output.replace(/\r\n[ \t]/g, "");
+
+  assert.match(renderCalendarDescription(description), new RegExp(unicodeBold("BOUTS")));
+  assert.match(unfolded, /DTSTART:20260913T120000Z/);
+  assert.match(unfolded, /DTSTART;VALUE=DATE:20261001/);
+  assert.match(unfolded, /DTEND;VALUE=DATE:20261002/);
+  assert.match(unfolded, /SUMMARY:Example\\, Main Event/);
+  assert.match(unfolded, /LOCATION:Test Arena\\; Dublin/);
+  assert.match(unfolded, new RegExp(unicodeBold("CANCELLED OR POSTPONED BOUTS")));
+  assert.ok(output.split("\r\n").every((line) => Buffer.byteLength(line, "utf8") <= 75));
 });
 
 test("keeps a bounded window of historical events", () => {
