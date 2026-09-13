@@ -11,9 +11,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:17813447@mma-calendar-rizin
-DTSTAMP:20260913T132638Z
-LAST-MODIFIED:20260913T132638Z
-SEQUENCE:1789305998
+DTSTAMP:20260913T132950Z
+LAST-MODIFIED:20260913T132950Z
+SEQUENCE:1789306190
 DTSTART:20260412T050000Z
 DTEND:20260412T110000Z
 SUMMARY:大和開発 presents RIZIN LANDMARK 13 in FUKUOKA
@@ -88,7 +88,7 @@ DESCRIPTION:RIZIN Fighting Federation · Complete Event · 16 announced bou
  𝗞𝗜 🇯🇵\n• 125.7lbs/57kg Flyweight · RIZIN Kickboxing · 3 ×
   3 min rounds\n• Imamura: RIZIN 1-0-0 | 22yo | Striker\n• YU-KI: RIZIN
   0-1-0 | 28yo | Striker\n\n--------------------------------\nSource: https
- ://jp.rizinff.com/_ct/17821442\nCalendar updated: 2026-09-13T13:26:38.921Z
+ ://jp.rizinff.com/_ct/17821442\nCalendar updated: 2026-09-13T13:29:50.544Z
 LOCATION:マリンメッセ福岡 A館
 URL:https://jp.rizinff.com/_ct/17813447
 CATEGORIES:RIZIN Fighting Federation
@@ -96,9 +96,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:17821353@mma-calendar-rizin
-DTSTAMP:20260913T132638Z
-LAST-MODIFIED:20260913T132638Z
-SEQUENCE:1789305998
+DTSTAMP:20260913T132950Z
+LAST-MODIFIED:20260913T132950Z
+SEQUENCE:1789306190
 DTSTART:20260510T050000Z
 DTEND:20260510T110000Z
 SUMMARY:RIZIN.53
@@ -165,7 +165,7 @@ DESCRIPTION:RIZIN Fighting Federation · Complete Event · 15 announced bou
  𝘂𝗱𝗼 🇯🇵\n• 125.7lbs/57kg Flyweight · RIZIN Kickboxing · 
  3 × 3 min rounds\n• Shota: RIZIN 1-0-0 | 19yo | Striker\n• Sudo: RIZI
  N 0-1-0 | 24yo | Striker\n\n--------------------------------\nSource: http
- s://jp.rizinff.com/_ct/17831008\nCalendar updated: 2026-09-13T13:26:38.921
+ s://jp.rizinff.com/_ct/17831008\nCalendar updated: 2026-09-13T13:29:50.544
  Z
 LOCATION:GLION ARENA KOBE
 URL:https://jp.rizinff.com/_ct/17821353
@@ -174,9 +174,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:17825993@mma-calendar-rizin
-DTSTAMP:20260913T132638Z
-LAST-MODIFIED:20260913T132638Z
-SEQUENCE:1789305998
+DTSTAMP:20260913T132950Z
+LAST-MODIFIED:20260913T132950Z
+SEQUENCE:1789306190
 DTSTART:20260606T060000Z
 DTEND:20260606T120000Z
 SUMMARY:RIZIN LANDMARK 14 in SENDAI
@@ -233,7 +233,7 @@ DESCRIPTION:RIZIN Fighting Federation · Complete Event · 12 announced bou
  ZIN Kickboxing · 3 × 3 min rounds\n• Iwaki: RIZIN 1-0-0 | 32yo | Strik
  er\n• Nakaizumi: RIZIN 0-1-0 | 36yo\n\n--------------------------------\
  nSource: https://jp.rizinff.com/_ct/17835093\nCalendar updated: 2026-09-13
- T13:26:38.921Z
+ T13:29:50.544Z
 LOCATION:ゼビオアリーナ仙台
 URL:https://jp.rizinff.com/_ct/17825993
 CATEGORIES:RIZIN Fighting Federation
@@ -241,9 +241,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:17825995@mma-calendar-rizin
-DTSTAMP:20260913T132638Z
-LAST-MODIFIED:20260913T132638Z
-SEQUENCE:1789305998
+DTSTAMP:20260913T132950Z
+LAST-MODIFIED:20260913T132950Z
+SEQUENCE:1789306190
 DTSTART:20260718T050000Z
 DTEND:20260718T110000Z
 SUMMARY:RIZIN LANDMARK 15 in HIROSHIMA
@@ -314,7 +314,7 @@ DESCRIPTION:RIZIN Fighting Federation · Complete Event · 16 announced bou
  lbs/57kg Flyweight · RIZIN rules · 2 × 3 min rounds\n• Tanaka: RIZIN 
  1-0-0 | 16yo | All-rounder\n• Kentaro: RIZIN 0-1-0 | 16yo | Grappler\n\n
  --------------------------------\nSource: https://jp.rizinff.com/_ct/17841
- 138\nCalendar updated: 2026-09-13T13:26:38.921Z
+ 138\nCalendar updated: 2026-09-13T13:29:50.544Z
 LOCATION:広島グリーンアリーナ
 URL:https://jp.rizinff.com/_ct/17825995
 CATEGORIES:RIZIN Fighting Federation
@@ -322,9 +322,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:17833730@mma-calendar-rizin
-DTSTAMP:20260913T132638Z
-LAST-MODIFIED:20260913T132638Z
-SEQUENCE:1789305998
+DTSTAMP:20260913T132950Z
+LAST-MODIFIED:20260913T132950Z
+SEQUENCE:1789306190
 DTSTART:20260811T050000Z
 DTEND:20260811T110000Z
 SUMMARY:RIZIN.54
@@ -375,7 +375,7 @@ DESCRIPTION:RIZIN Fighting Federation · Complete Event · 10 announced bou
  𝗨𝗧𝗦\n--------------------------------\n\n✕ ケイト・ロー
  タス vs. NOEL\n• Postponed by RIZIN\n\n-------------------------------
  -\nSource: https://jp.rizinff.com/_ct/17846026\nCalendar updated: 2026-09-
- 13T13:26:38.921Z
+ 13T13:29:50.544Z
 LOCATION:TOYOTA ARENA TOKYO
 URL:https://jp.rizinff.com/_ct/17833730
 CATEGORIES:RIZIN Fighting Federation
@@ -383,9 +383,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:17834937@mma-calendar-rizin
-DTSTAMP:20260913T132638Z
-LAST-MODIFIED:20260913T132638Z
-SEQUENCE:1789305998
+DTSTAMP:20260913T132950Z
+LAST-MODIFIED:20260913T132950Z
+SEQUENCE:1789306190
 DTSTART:20260910T070000Z
 DTEND:20260910T130000Z
 SUMMARY:超RIZIN.5 浪速の超復活祭り
@@ -439,7 +439,7 @@ DESCRIPTION:RIZIN Fighting Federation · Complete Event · 8 announced bout
   Cancelled by RIZIN\n\n--------------------------------\nSource: https://j
  p.rizinff.com/_ct/17853585\nOdds source: https://www.bestfightodds.com/ ·
   best available line · checked Monday and Friday\nCalendar updated: 2026-
- 09-13T13:26:38.921Z
+ 09-13T13:29:50.544Z
 LOCATION:京セラドーム大阪
 URL:https://jp.rizinff.com/_ct/17834937
 CATEGORIES:RIZIN Fighting Federation
@@ -447,9 +447,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:17852438@mma-calendar-rizin
-DTSTAMP:20260913T132638Z
-LAST-MODIFIED:20260913T132638Z
-SEQUENCE:1789305998
+DTSTAMP:20260913T132950Z
+LAST-MODIFIED:20260913T132950Z
+SEQUENCE:1789306190
 DTSTART:20261003T050000Z
 DTEND:20261003T110000Z
 SUMMARY:RIZIN LANDMARK 16 in NAGASAKI
@@ -513,7 +513,7 @@ DESCRIPTION:RIZIN Fighting Federation · Complete Event · 14 announced bou
  43.3lbs/65kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds\n• Kak
  eru: 32yo | Striker\n• Ayuto: 23yo | Striker\n\n------------------------
  --------\nSource: https://jp.rizinff.com/_ct/17857720\nCalendar updated: 2
- 026-09-13T13:26:38.921Z
+ 026-09-13T13:29:50.544Z
 LOCATION:長崎スタジアムシティ HAPPINESS ARENA
 URL:https://jp.rizinff.com/_ct/17852438
 CATEGORIES:RIZIN Fighting Federation
@@ -521,9 +521,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:17852466@mma-calendar-rizin
-DTSTAMP:20260913T132638Z
-LAST-MODIFIED:20260913T132638Z
-SEQUENCE:1789305998
+DTSTAMP:20260913T132950Z
+LAST-MODIFIED:20260913T132950Z
+SEQUENCE:1789306190
 DTSTART:20261108T050000Z
 DTEND:20261108T110000Z
 SUMMARY:RIZIN LANDMARK 17 in CHIBA
@@ -532,7 +532,7 @@ DESCRIPTION:RIZIN Fighting Federation · Complete Event · card details to
  l update when RIZIN confirms it.\n\n--------------------------------\n𝗕
  𝗢𝗨𝗧𝗦\n--------------------------------\n\nNo bouts announced y
  et.\n\n--------------------------------\nSource: https://jp.rizinff.com/_c
- t/17852466\nCalendar updated: 2026-09-13T13:26:38.921Z
+ t/17852466\nCalendar updated: 2026-09-13T13:29:50.544Z
 LOCATION:LaLa arena TOKYO-BAY
 URL:https://jp.rizinff.com/_ct/17852466
 CATEGORIES:RIZIN Fighting Federation
@@ -540,9 +540,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:17813466@mma-calendar-rizin
-DTSTAMP:20260913T132638Z
-LAST-MODIFIED:20260913T132638Z
-SEQUENCE:1789305998
+DTSTAMP:20260913T132950Z
+LAST-MODIFIED:20260913T132950Z
+SEQUENCE:1789306190
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 TRANSP:TRANSPARENT
@@ -553,7 +553,7 @@ DESCRIPTION:RIZIN Fighting Federation · Complete Event · card details to
  -------------------------\n𝗕𝗢𝗨𝗧𝗦\n-------------------------
  -------\n\nNo bouts announced yet.\n\n--------------------------------\nSo
  urce: https://jp.rizinff.com/_ct/17813466\nCalendar updated: 2026-09-13T13
- :26:38.921Z
+ :29:50.544Z
 LOCATION:バンテリンドーム ナゴヤ
 URL:https://jp.rizinff.com/_ct/17813466
 CATEGORIES:RIZIN Fighting Federation
