@@ -11,9 +11,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:2026-pfl-madrid@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 TRANSP:TRANSPARENT
@@ -57,7 +57,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 11 announced
  𝘁𝗵𝘆𝘀 𝗗𝘂𝗿𝗮𝗴𝗿𝗶𝗻 🇫🇷\n• Winner: Ig
  nacio Campos by Decision\n• Campos: 8-2-0 | 29yo | Grappler\n• Duragri
  n: 4-2-0 | 24yo\n\n--------------------------------\nSource: https://pflmm
- a.com/event/2026-pfl-madrid\nCalendar updated: 2026-09-13T13:29:50.544Z
+ a.com/event/2026-pfl-madrid
 LOCATION:Palacio Vistalegre\, Madrid\, Spain
 URL:https://pflmma.com/event/2026-pfl-madrid
 CATEGORIES:Professional Fighters League
@@ -65,9 +65,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-pittsburgh@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260328T190000Z
 DTEND:20260329T010000Z
 SUMMARY:PFL Pittsburgh
@@ -112,8 +112,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 12 announced
  🥊 1. 𝗘𝘁𝗵𝗮𝗻 𝗚𝗼𝘀𝘀 vs. 𝗙𝗿𝗲𝗱 𝗗
  𝘂𝗽𝗿𝗮𝘀 🇨🇦\n• Winner: Fred Dupras by Submission\n• 
  Goss: 12-9-0 | 34yo\n• Dupras: 10-2-0 | 32yo\n\n------------------------
- --------\nSource: https://pflmma.com/event/pfl-pittsburgh\nCalendar update
- d: 2026-09-13T13:29:50.544Z
+ --------\nSource: https://pflmma.com/event/pfl-pittsburgh
 LOCATION:UPMC Events Center\, Pittsburgh PA
 URL:https://pflmma.com/event/pfl-pittsburgh
 CATEGORIES:Professional Fighters League
@@ -121,9 +120,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-africa-pretoria@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260410T180000Z
 DTEND:20260410T230000Z
 SUMMARY:PFL Africa
@@ -166,8 +165,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 11 announced
  𝗠𝘂𝗴𝗼 🇰🇪 vs. 𝗔𝗻𝗻𝗲𝘁 𝗞𝗶𝗶𝘇𝗮 
  🇺🇬\n• Winner: Felista Mugo by Decision\n• Mugo: 6-2-1 | 26yo\n
  • Kiiza: 3-2-0 | 25yo\n\n--------------------------------\nSource: https
- ://pflmma.com/event/pfl-africa-pretoria\nCalendar updated: 2026-09-13T13:2
- 9:50.544Z
+ ://pflmma.com/event/pfl-africa-pretoria
 LOCATION:SunBet Arena - Pretoria\, South Africa
 URL:https://pflmma.com/event/pfl-africa-pretoria
 CATEGORIES:Professional Fighters League
@@ -175,9 +173,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-chicago-2026@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260411T180000Z
 DTEND:20260412T000000Z
 SUMMARY:PFL Chicago
@@ -231,7 +229,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 10 announced
  p: Atsas 🟢 -128 (1.78) | Jennerman 🔴 +122 (2.22)\n\n----------------
  ----------------\nSource: https://pflmma.com/event/pfl-chicago-2026\nOdds 
  source: https://www.bestfightodds.com/ · best available line · checked M
- onday and Friday\nCalendar updated: 2026-09-13T13:29:50.544Z
+ onday and Friday
 LOCATION:Wintrust Arena\, Chicago
 URL:https://pflmma.com/event/pfl-chicago-2026
 CATEGORIES:Professional Fighters League
@@ -239,9 +237,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-belfast-2026@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260416T150000Z
 DTEND:20260416T220000Z
 SUMMARY:PFL Belfast
@@ -287,8 +285,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 12 announced
  🇺 vs. 𝗔𝗻𝗱𝗿𝗲𝗮 𝗩𝗮𝘇𝗾𝘂𝗲𝘇\n• Winner
  : Chelsea Hackett by Decision\n• Hackett: 5-3-1 | 26yo | Striker\n• Va
  zquez: 8-4-0 | 32yo\n\n--------------------------------\nSource: https://p
- flmma.com/event/pfl-belfast-2026\nCalendar updated: 2026-09-13T13:29:50.54
- 4Z
+ flmma.com/event/pfl-belfast-2026
 LOCATION:SSE Arena\, Belfast\, Northern Ireland
 URL:https://pflmma.com/event/pfl-belfast-2026
 CATEGORIES:Professional Fighters League
@@ -296,9 +293,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-sioux-falls-2026@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260502T190000Z
 DTEND:20260503T010000Z
 SUMMARY:PFL Sioux Falls
@@ -344,8 +341,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 12 announced
  𝗮𝗻𝗮 🇨🇲 vs. 𝗞𝗮𝗿𝗹 𝗪𝗶𝗹𝗹𝗶𝗮𝗺
  𝘀 🇺🇸\n• Winner: Maxwell Djantou Nana by Decision\n• Nana: 9-2
  -0 | 35yo\n• Williams: 10-6-0 | 36yo\n\n--------------------------------
- \nSource: https://pflmma.com/event/pfl-sioux-falls-2026\nCalendar updated:
-  2026-09-13T13:29:50.544Z
+ \nSource: https://pflmma.com/event/pfl-sioux-falls-2026
 LOCATION:Sanford Pentagon\, Sioux Falls\, South Dakota
 URL:https://pflmma.com/event/pfl-sioux-falls-2026
 CATEGORIES:Professional Fighters League
@@ -353,9 +349,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-brussels-2026@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260523T123000Z
 DTEND:20260523T180000Z
 SUMMARY:PFL Brussels 2026
@@ -397,8 +393,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 11 announced
  𝗮𝗺 𝗦𝗲𝗿𝗯𝗶𝗲𝘃 🇷🇺 vs. 𝗔𝘀𝗵𝗹𝗲
  𝘆 𝗥𝗲𝗲𝗰𝗲 🇬🇧\n• Winner: Ashley Reece by Decision\n
  • Serbiev: 9-6-0 | 28yo\n• Reece: 10-3-0 | 37yo\n\n-------------------
- -------------\nSource: https://pflmma.com/event/pfl-brussels-2026\nCalenda
- r updated: 2026-09-13T13:29:50.544Z
+ -------------\nSource: https://pflmma.com/event/pfl-brussels-2026
 LOCATION:ING Arena\, Brussels\, Belgium
 URL:https://pflmma.com/event/pfl-brussels-2026
 CATEGORIES:Professional Fighters League
@@ -406,9 +401,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pflmena-9@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
 TRANSP:TRANSPARENT
@@ -467,8 +462,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 11 announced
  ds history:\n  ◦ 13 Sep: Alameri 🟢 -170 (1.59) | Osman 🔴 +194 (2.9
  4)\n\n--------------------------------\nSource: https://pflmma.com/event/p
  flmena-9\nOdds source: https://www.bestfightodds.com/ · best available li
- ne · checked Monday and Friday\nCalendar updated: 2026-09-13T13:29:50.544
- Z
+ ne · checked Monday and Friday
 LOCATION:Dubai\, United Arab Emirates
 URL:https://pflmma.com/event/pflmena-9
 CATEGORIES:Professional Fighters League
@@ -476,9 +470,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-africa-nigeria@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260613T130000Z
 DTEND:20260613T160000Z
 SUMMARY:PFL Africa Nigeria
@@ -545,8 +539,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 13 announced
  𝗱𝘆 𝗔𝗵𝗺𝗲𝗱 🇪🇬\n• Winner: Miracle Chipito by Sub
  mission\n• Ahmed: 2-2-0\n\n--------------------------------\nSource: htt
  ps://pflmma.com/event/pfl-africa-nigeria\nOdds source: https://www.bestfig
- htodds.com/ · best available line · checked Monday and Friday\nCalendar 
- updated: 2026-09-13T13:29:50.544Z
+ htodds.com/ · best available line · checked Monday and Friday
 LOCATION:Eko Convention Center\, Lagos\, Nigeria
 URL:https://pflmma.com/event/pfl-africa-nigeria
 CATEGORIES:Professional Fighters League
@@ -554,9 +547,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-san-diego-2026@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260627T200000Z
 DTEND:20260628T010000Z
 SUMMARY:PFL San Diego
@@ -593,8 +586,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 9 announced b
  𝗿 vs. 𝗗𝗮𝗻𝗶𝗲𝗹 𝗕𝘇𝗱𝗶𝗴𝗶𝗮𝗻 🇺
  🇸\n• Winner: Cobey Fehr by Submission\n• Fehr: 4-0-0 | 31yo\n• Bz
  digian: 3-1-0 | 23yo\n\n--------------------------------\nSource: https://
- pflmma.com/event/pfl-san-diego-2026\nCalendar updated: 2026-09-13T13:29:50
- .544Z
+ pflmma.com/event/pfl-san-diego-2026
 LOCATION:Pechanga Arena San Diego – San Diego\, Calif.
 URL:https://pflmma.com/event/pfl-san-diego-2026
 CATEGORIES:Professional Fighters League
@@ -602,9 +594,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pflmena10@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 TRANSP:TRANSPARENT
@@ -644,8 +636,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 10 announced
  𝗺 🇸🇦 vs. 𝗔𝗯𝗱𝗲𝗹𝗵𝗮𝗹𝗶𝗺 𝗘𝗹𝗵
  𝗼𝘂𝗳𝘆 🇪🇬\n• Winner: Saud Almolhem by Decision\n• Almo
  lhem: 2-0-0 | 25yo\n• Elhoufy: 2-2-0\n\n--------------------------------
- \nSource: https://pflmma.com/event/pflmena10\nCalendar updated: 2026-09-13
- T13:29:50.544Z
+ \nSource: https://pflmma.com/event/pflmena10
 LOCATION:Riyadh\, KSA
 URL:https://pflmma.com/event/pflmena10
 CATEGORIES:Professional Fighters League
@@ -653,9 +644,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-austin-2026@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260718T173000Z
 DTEND:20260718T230000Z
 SUMMARY:PFL AUSTIN 2026
@@ -692,7 +683,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 9 announced b
  𝗼𝗿𝗲𝗻𝗮 𝗧𝘀𝗲𝗿𝘁𝘀𝘃𝗮𝗱𝘇𝗲\n• Win
  ner: Victoria Alba by TKO\n• Alba: 7-2-0 | 33yo\n• Tsertsvadze: 6-2-0 
  | 27yo\n\n--------------------------------\nSource: https://pflmma.com/eve
- nt/pfl-austin-2026\nCalendar updated: 2026-09-13T13:29:50.544Z
+ nt/pfl-austin-2026
 LOCATION:Moody Center - Austin\, Texas
 URL:https://pflmma.com/event/pfl-austin-2026
 CATEGORIES:Professional Fighters League
@@ -700,9 +691,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-washington-dc-2026@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260725T200000Z
 DTEND:20260726T010000Z
 SUMMARY:PFL Washington DC
@@ -734,8 +725,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 8 announced b
  𝗛𝗲𝗿𝗺𝗼𝘀𝗶𝗹𝗹𝗼 🇺🇸 vs. 𝗝𝗮𝗰𝗼𝗯
   𝗣𝗮𝗶𝘀 🇺🇸\n• Winner: Noah Hermosillo by Decision\n• H
  ermosillo: 27yo\n• Pais: 1-1-0 | 23yo\n\n-------------------------------
- -\nSource: https://pflmma.com/event/pfl-washington-dc-2026\nCalendar updat
- ed: 2026-09-13T13:29:50.544Z
+ -\nSource: https://pflmma.com/event/pfl-washington-dc-2026
 LOCATION:CareFirst Arena\, Washington D.C.
 URL:https://pflmma.com/event/pfl-washington-dc-2026
 CATEGORIES:Professional Fighters League
@@ -743,9 +733,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-ny-2026@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260731T163000Z
 DTEND:20260731T220000Z
 SUMMARY:PFL NEW YORK
@@ -782,8 +772,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 9 announced b
  𝗹𝘃𝗮 🇺🇸 vs. 𝗟𝗲𝘃𝗮𝗻 𝗞𝗵𝗮𝗯𝗮𝗹
  𝗮𝗲𝘃 🇬🇪\n• Winner: Levan Khabalaev by TKO\n• Delva: 7-2-
  0 | 45yo\n• Khabalaev: 5-0-0 | 27yo\n\n--------------------------------\
- nSource: https://pflmma.com/event/pfl-ny-2026\nCalendar updated: 2026-09-1
- 3T13:29:50.544Z
+ nSource: https://pflmma.com/event/pfl-ny-2026
 LOCATION:UBS Arena\, Belmont Park\, New York
 URL:https://pflmma.com/event/pfl-ny-2026
 CATEGORIES:Professional Fighters League
@@ -791,9 +780,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-charlotte@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260807T183000Z
 DTEND:20260808T010000Z
 SUMMARY:PFL Charlotte
@@ -842,7 +831,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 13 announced
  𝘀𝗼𝗻 🇺🇸 vs. 𝗧𝗿𝗲𝘆 𝗪𝗮𝘁𝗲𝗿𝘀\n• W
  inner: Trey Waters by TKO\n• Carson: 6-2-0 | 31yo\n• Waters: 10-2-0 | 
  31yo\n\n--------------------------------\nSource: https://pflmma.com/event
- /pfl-charlotte\nCalendar updated: 2026-09-13T13:29:50.544Z
+ /pfl-charlotte
 LOCATION:Bojangles Coliseum\, Charlotte\, North Carolina
 URL:https://pflmma.com/event/pfl-charlotte
 CATEGORIES:Professional Fighters League
@@ -850,9 +839,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-tampa@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260822T173000Z
 DTEND:20260823T000000Z
 SUMMARY:PFL Tampa
@@ -894,8 +883,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 11 announced
  𝗲𝗿𝗶𝗱𝗮𝗻 🇮🇪 vs. 𝗝𝗮𝗺𝗲𝘀 𝗩𝗮𝗸
  𝗲 🇳🇿\n• Winner: Eoin Sheridan by Decision\n• Sheridan: 6-0-0 
  | 31yo | Striker\n• Vake: 7-3-0 | 32yo\n\n------------------------------
- --\nSource: https://pflmma.com/event/pfl-tampa\nCalendar updated: 2026-09-
- 13T13:29:50.544Z
+ --\nSource: https://pflmma.com/event/pfl-tampa
 LOCATION:Benchmark International Arena\, Tampa\, FL
 URL:https://pflmma.com/event/pfl-tampa
 CATEGORIES:Professional Fighters League
@@ -903,9 +891,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pflmena11@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 TRANSP:TRANSPARENT
@@ -933,7 +921,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 6 announced b
  𝗶 🇮🇶 vs. 𝗔𝗵𝗺𝗲𝗱 𝗘𝗹 𝗦𝗶𝘀𝘆 🇪🇬\
  n• 155lbs/70kg Lightweight · Semifinal\n• Fahmi: 5-1-0 | 31yo\n• Si
  sy: 8-2-0\n\n--------------------------------\nSource: https://pflmma.com/
- event/pflmena11\nCalendar updated: 2026-09-13T13:29:50.544Z
+ event/pflmena11
 LOCATION:Riyadh\, KSA
 URL:https://pflmma.com/event/pflmena11
 CATEGORIES:Professional Fighters League
@@ -941,9 +929,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-morocco@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 TRANSP:TRANSPARENT
@@ -974,8 +962,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 7 announced b
  𝗴𝗵𝘁 𝗝𝗼𝘀𝗲𝗽𝗵 🇱🇷 vs. 𝗕𝗼𝘂𝗹𝗲 
  𝗚𝗼𝗱𝗼𝗴𝗼 🇦🇴\n• 135lbs/61kg Bantamweight · Semifin
  al\n• Joseph: 16-3-1 | 37yo\n• Godogo: 5-1-0\n\n----------------------
- ----------\nSource: https://pflmma.com/event/pfl-morocco\nCalendar updated
- : 2026-09-13T13:29:50.544Z
+ ----------\nSource: https://pflmma.com/event/pfl-morocco
 LOCATION:CASABLANCA
 URL:https://pflmma.com/event/pfl-morocco
 CATEGORIES:Professional Fighters League
@@ -983,9 +970,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-chicago2@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261016T230000Z
 DTEND:20261017T060000Z
 SUMMARY:PFL Chicago 2
@@ -1022,8 +1009,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 9 announced b
  🇺 vs. 𝗚𝗮𝗯𝗿𝗶𝗲𝗹 𝗕𝗿𝗮𝗴𝗮 🇧🇷\n• 1
  45lbs/66kg Featherweight\n• Khizriev: 18-0-0 | 30yo | Grappler\n• Brag
  a: 17-3-0 | 28yo | Striker\n\n--------------------------------\nSource: ht
- tps://pflmma.com/event/2026-chicago2\nCalendar updated: 2026-09-13T13:29:5
- 0.544Z
+ tps://pflmma.com/event/2026-chicago2
 LOCATION:Wintrust Arena
 URL:https://pflmma.com/event/2026-chicago2
 CATEGORIES:Professional Fighters League
@@ -1031,9 +1017,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-returns-to-dubai@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 TRANSP:TRANSPARENT
@@ -1055,8 +1041,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 4 announced b
  𝗲𝘆 𝗕𝗶𝗹𝗼𝘀𝘁𝗲𝗻𝗻𝗶𝘆 🇷🇺\n• 265lbs
  /120kg Heavyweight · PFL World Title\n• Nemkov: 20-2-0 | 34yo\n• Bilo
  stenniy: 15-4-0 | 31yo\n\n--------------------------------\nSource: https:
- //pflmma.com/event/pfl-returns-to-dubai\nCalendar updated: 2026-09-13T13:2
- 9:50.544Z
+ //pflmma.com/event/pfl-returns-to-dubai
 LOCATION:Dubai\, United Arab Emirates
 URL:https://pflmma.com/event/pfl-returns-to-dubai
 CATEGORIES:Professional Fighters League
@@ -1064,9 +1049,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-lyon-2026@mma-calendar-pfl
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261219T160000Z
 DTEND:20261219T220000Z
 SUMMARY:PFL Lyon 2026
@@ -1081,7 +1066,7 @@ DESCRIPTION:Professional Fighters League · Complete Event · 2 announced b
  𝗲𝗲 🇺🇸\n• 135lbs/61kg Bantamweight · World Title\n• Lapilu
  s: 25-4-0 | 34yo | All-rounder\n• McKee: 11-0-0 | 28yo | Grappler\n\n---
  -----------------------------\nSource: https://pflmma.com/event/pfl-lyon-2
- 026\nCalendar updated: 2026-09-13T13:29:50.544Z
+ 026
 LOCATION:Lyon\, France
 URL:https://pflmma.com/event/pfl-lyon-2026
 CATEGORIES:Professional Fighters League

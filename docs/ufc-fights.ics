@@ -12,9 +12,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:cryptocom-ufc-331-fight-13021@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260919T223000Z
 DTEND:20260919T230000Z
 SUMMARY:🥊 4. Ryan Gandra vs. Ozzy Diaz (estimated)
@@ -22,9 +22,8 @@ DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Gan
  dra: 10-1-0 | 31yo | MMA\n• Diaz: 10-3-0 | 35yo | MMA\n• Odds history:
   not checked yet\nEvent: Crypto.com UFC 331: Van vs Pantoja 2\nSource: htt
- ps://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://Staircase
- Wit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:29:50.5
- 44Z\nEvent status: Scheduled · verified 13 Sep 2026
+ ps://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://staircase
+ wit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Crypto.com Arena\, Los Angeles\, United States
 URL:https://www.ufc.com/event/cryptocom-ufc-331
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -33,9 +32,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:cryptocom-ufc-331-fight-13026@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260919T220000Z
 DTEND:20260919T223000Z
 SUMMARY:🥊 3. Edmen Shahbazyan vs. Brunno Ferreira (estimated)
@@ -45,8 +44,8 @@ DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
  Grappler | +143 (2.43)\n• Odds history:\n  ◦ 13 Sep: Shahbazyan 🟢 -
  155 (1.65) | Ferreira 🔴 +143 (2.43)\nEvent: Crypto.com UFC 331: Van vs 
  Pantoja 2\nSource: https://www.ufc.com/event/cryptocom-ufc-331\nMain calen
- dar: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated:
-  2026-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ dar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sch
+ eduled
 LOCATION:Crypto.com Arena\, Los Angeles\, United States
 URL:https://www.ufc.com/event/cryptocom-ufc-331
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -55,9 +54,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:cryptocom-ufc-331-fight-13028@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260919T213000Z
 DTEND:20260919T220000Z
 SUMMARY:🥊 2. Casey O'Neill vs. Eduarda Moura (estimated)
@@ -68,8 +67,7 @@ DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
  80 (1.56) | Moura 🔴 +150 (2.50)\n  ◦ 13 Sep: O'Neill 🟢 -170 (1.59)
   | Moura 🔴 +152 (2.52)\nEvent: Crypto.com UFC 331: Van vs Pantoja 2\nSo
  urce: https://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://
- StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T1
- 3:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Crypto.com Arena\, Los Angeles\, United States
 URL:https://www.ufc.com/event/cryptocom-ufc-331
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -78,9 +76,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:cryptocom-ufc-331-fight-13027@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260919T210000Z
 DTEND:20260919T213000Z
 SUMMARY:🥊 1. Giga Chikadze vs. Joanderson Brito (estimated)
@@ -90,9 +88,8 @@ DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
  triker | -341 (1.29)\n• Odds history:\n  ◦ 12 Sep: Chikadze 🔴 +270 
  (3.70) | Brito 🟢 -340 (1.29)\n  ◦ 13 Sep: Chikadze 🔴 +295 (3.95) |
   Brito 🟢 -341 (1.29)\nEvent: Crypto.com UFC 331: Van vs Pantoja 2\nSour
- ce: https://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://St
- aircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:
- 29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ ce: https://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://st
+ aircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Crypto.com Arena\, Los Angeles\, United States
 URL:https://www.ufc.com/event/cryptocom-ufc-331
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -101,9 +98,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:cryptocom-ufc-331-fight-13019@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260920T003000Z
 DTEND:20260920T010000Z
 SUMMARY:🥊 4. Gable Steveson vs. Sean Sharaf (estimated)
@@ -113,9 +110,8 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  yle | +850 (9.50)\n• Odds history:\n  ◦ 12 Sep: Steveson 🟢 -1100 (1
  .09) | Sharaf 🔴 +700 (8.00)\n  ◦ 13 Sep: Steveson 🟢 -1090 (1.09) |
   Sharaf 🔴 +850 (9.50)\nEvent: Crypto.com UFC 331: Van vs Pantoja 2\nSou
- rce: https://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://S
- taircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13
- :29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ rce: https://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://s
+ taircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Crypto.com Arena\, Los Angeles\, United States
 URL:https://www.ufc.com/event/cryptocom-ufc-331
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -124,9 +120,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:cryptocom-ufc-331-fight-13023@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260920T000000Z
 DTEND:20260920T003000Z
 SUMMARY:🥊 3. Marlon Vera vs. Charles Jourdain (estimated)
@@ -136,9 +132,8 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  r | -219 (1.46)\n• Odds history:\n  ◦ 12 Sep: Vera 🔴 +200 (3.00) | 
  Jourdain 🟢 -245 (1.41)\n  ◦ 13 Sep: Vera 🔴 +205 (3.05) | Jourdain 
  🟢 -219 (1.46)\nEvent: Crypto.com UFC 331: Van vs Pantoja 2\nSource: htt
- ps://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://Staircase
- Wit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:29:50.5
- 44Z\nEvent status: Scheduled · verified 13 Sep 2026
+ ps://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://staircase
+ wit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Crypto.com Arena\, Los Angeles\, United States
 URL:https://www.ufc.com/event/cryptocom-ufc-331
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -147,9 +142,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:cryptocom-ufc-331-fight-13020@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260919T233000Z
 DTEND:20260920T000000Z
 SUMMARY:🥊 2. Tai Tuivasa vs. Robelis Despaigne (estimated)
@@ -159,9 +154,8 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  26 (1.19)\n• Odds history:\n  ◦ 12 Sep: Tuivasa 🔴 +500 (6.00) | Des
  paigne 🟢 -700 (1.14)\n  ◦ 13 Sep: Tuivasa 🔴 +460 (5.60) | Despaign
  e 🟢 -526 (1.19)\nEvent: Crypto.com UFC 331: Van vs Pantoja 2\nSource: h
- ttps://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://Stairca
- seWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:29:50
- .544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ ttps://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://stairca
+ sewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Crypto.com Arena\, Los Angeles\, United States
 URL:https://www.ufc.com/event/cryptocom-ufc-331
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -170,9 +164,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:cryptocom-ufc-331-fight-13029@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260919T230000Z
 DTEND:20260919T233000Z
 SUMMARY:🥊 1. Michael Aswell Jr. vs. JooSang Yoo (estimated)
@@ -180,9 +174,8 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 145lbs/66kg Featherweight\n• Aswell J
  r.: 11-5-0 | 25yo\n• Yoo: 9-1-0 | 32yo | Freestyle\n• Odds history: no
  t checked yet\nEvent: Crypto.com UFC 331: Van vs Pantoja 2\nSource: https:
- //www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://StaircaseWit
- .github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:29:50.544Z
- \nEvent status: Scheduled · verified 13 Sep 2026
+ //www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://staircasewit
+ .github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Crypto.com Arena\, Los Angeles\, United States
 URL:https://www.ufc.com/event/cryptocom-ufc-331
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -191,9 +184,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:cryptocom-ufc-331-fight-13017@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260920T032500Z
 DTEND:20260920T035500Z
 SUMMARY:🥊 5. Joshua Van vs. Alexandre Pantoja (estimated)
@@ -203,9 +196,8 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
  yo | MMA | +110 (2.10)\n• Odds history:\n  ◦ 12 Sep: Van 🟢 -125 (1.
  80) | Pantoja 🔴 +100 (2.00)\n  ◦ 13 Sep: Van 🟢 -117 (1.85) | Panto
  ja 🔴 +110 (2.10)\nEvent: Crypto.com UFC 331: Van vs Pantoja 2\nSource: 
- https://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://Stairc
- aseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:29:5
- 0.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ https://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://stairc
+ asewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Crypto.com Arena\, Los Angeles\, United States
 URL:https://www.ufc.com/event/cryptocom-ufc-331
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -214,9 +206,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:cryptocom-ufc-331-fight-13018@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260920T025000Z
 DTEND:20260920T032000Z
 SUMMARY:🥊 4. Arman Tsarukyan vs. Mauricio Ruffy (estimated)
@@ -226,9 +218,8 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
  iker | +280 (3.80)\n• Odds history:\n  ◦ 12 Sep: Tsarukyan 🟢 -380 (
  1.26) | Ruffy 🔴 +300 (4.00)\n  ◦ 13 Sep: Tsarukyan 🟢 -307 (1.33) |
   Ruffy 🔴 +280 (3.80)\nEvent: Crypto.com UFC 331: Van vs Pantoja 2\nSour
- ce: https://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://St
- aircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:
- 29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ ce: https://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://st
+ aircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Crypto.com Arena\, Los Angeles\, United States
 URL:https://www.ufc.com/event/cryptocom-ufc-331
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -237,9 +228,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:cryptocom-ufc-331-fight-13025@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260920T021000Z
 DTEND:20260920T024000Z
 SUMMARY:🥊 3. Patricio Pitbull vs. Dooho Choi (estimated)
@@ -248,9 +239,8 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
  l: 37-9-0 | 39yo | MMA | +200 (3.00)\n• Choi: 17-4-1 | 35yo | Striker | 
  -250 (1.40)\n• Odds history:\n  ◦ 12 Sep: Pitbull 🔴 +200 (3.00) | C
  hoi 🟢 -250 (1.40)\nEvent: Crypto.com UFC 331: Van vs Pantoja 2\nSource:
-  https://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://Stair
- caseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:29:
- 50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+  https://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://stair
+ casewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Crypto.com Arena\, Los Angeles\, United States
 URL:https://www.ufc.com/event/cryptocom-ufc-331
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -259,9 +249,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:cryptocom-ufc-331-fight-13022@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260920T013500Z
 DTEND:20260920T020500Z
 SUMMARY:🥊 2. Renato Moicano vs. Brian Ortega (estimated)
@@ -271,9 +261,8 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
  Jitsu | +170 (2.70)\n• Odds history:\n  ◦ 12 Sep: Moicano 🟢 -200 (1
  .50) | Ortega 🔴 +165 (2.65)\n  ◦ 13 Sep: Moicano 🟢 -191 (1.52) | O
  rtega 🔴 +170 (2.70)\nEvent: Crypto.com UFC 331: Van vs Pantoja 2\nSourc
- e: https://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://Sta
- ircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:2
- 9:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ e: https://www.ufc.com/event/cryptocom-ufc-331\nMain calendar: https://sta
+ ircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Crypto.com Arena\, Los Angeles\, United States
 URL:https://www.ufc.com/event/cryptocom-ufc-331
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -282,9 +271,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:cryptocom-ufc-331-fight-13024@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260920T010000Z
 DTEND:20260920T013000Z
 SUMMARY:🥊 1. Alonzo Menifield vs. Iwo Baraniewski (estimated)
@@ -295,9 +284,8 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
  🔴 +190 (2.90) | Baraniewski 🟢 -230 (1.43)\n  ◦ 13 Sep: Menifield 
  🔴 +220 (3.20) | Baraniewski 🟢 -225 (1.44)\nEvent: Crypto.com UFC 331
  : Van vs Pantoja 2\nSource: https://www.ufc.com/event/cryptocom-ufc-331\nM
- ain calendar: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar
-  updated: 2026-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13
-  Sep 2026
+ ain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent st
+ atus: Scheduled
 LOCATION:Crypto.com Arena\, Los Angeles\, United States
 URL:https://www.ufc.com/event/cryptocom-ufc-331
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -306,9 +294,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-26-2026-fight-13104@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260926T232500Z
 DTEND:20260926T235500Z
 SUMMARY:🥊 5. Rodolfo Bellato vs. Christian Edwards (estimated)
@@ -317,9 +305,8 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ato: 13-3-1 | 30yo | MMA\n• Edwards: 8-5-0 | age unavailable | MMA\n• 
  Odds history: not checked yet\nEvent: UFC Fight Night: Rosas Jr. vs Barcel
  os\nSource: https://www.ufc.com/event/ufc-fight-night-september-26-2026\nM
- ain calendar: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar
-  updated: 2026-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13
-  Sep 2026
+ ain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent st
+ atus: Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -328,9 +315,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-26-2026-fight-13103@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260926T225000Z
 DTEND:20260926T232000Z
 SUMMARY:🥊 4. Montel Jackson vs. Ricky Simon (estimated)
@@ -339,8 +326,8 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  15-4-0 | 34yo | MMA\n• Simon: 22-7-1 | 34yo | Wrestling\n• Odds histor
  y: not checked yet\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos\nSource:
   https://www.ufc.com/event/ufc-fight-night-september-26-2026\nMain calenda
- r: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2
- 026-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ r: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sched
+ uled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -349,9 +336,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-26-2026-fight-13107@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260926T221000Z
 DTEND:20260926T224000Z
 SUMMARY:🥊 3. John Castaneda vs. Alatengheili (estimated)
@@ -360,9 +347,8 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  : 21-8-1 | 34yo | MMA\n• Alateng: 17-10-2 | 34yo | Wrestling\n• Odds h
  istory: not checked yet\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos\nSo
  urce: https://www.ufc.com/event/ufc-fight-night-september-26-2026\nMain ca
- lendar: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updat
- ed: 2026-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2
- 026
+ lendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: 
+ Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -371,9 +357,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-26-2026-fight-13109@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260926T213500Z
 DTEND:20260926T220500Z
 SUMMARY:🥊 2. Norma Dumont vs. Ailin Perez (estimated)
@@ -382,8 +368,8 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  umont: 13-3-0 | 35yo\n• Perez: 13-2-0 | 31yo | Kung Fu\n• Odds history
  : not checked yet\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos\nSource: 
  https://www.ufc.com/event/ufc-fight-night-september-26-2026\nMain calendar
- : https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 20
- 26-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ : https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedu
+ led
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -392,9 +378,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-26-2026-fight-13110@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260926T210000Z
 DTEND:20260926T213000Z
 SUMMARY:🥊 1. Vanessa Demopoulos vs. Yazmin Jauregui (estimated)
@@ -403,9 +389,8 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  mopoulos: 11-8-0 | 38yo | Jiu-Jitsu\n• Jauregui: 11-2-0 | 27yo | Freesty
  le\n• Odds history: not checked yet\nEvent: UFC Fight Night: Rosas Jr. v
  s Barcelos\nSource: https://www.ufc.com/event/ufc-fight-night-september-26
- -2026\nMain calendar: https://StaircaseWit.github.io/mmacalendar/ufc.ics\n
- Calendar updated: 2026-09-13T13:29:50.544Z\nEvent status: Scheduled · ver
- ified 13 Sep 2026
+ -2026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\n
+ Event status: Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -414,9 +399,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-26-2026-fight-13069@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260927T023000Z
 DTEND:20260927T030000Z
 SUMMARY:🥊 6. Raul Rosas Jr. vs. Raoni Barcelos (estimated)
@@ -425,9 +410,8 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
  r.: 13-1-0 | 21yo | Freestyle\n• Barcelos: 22-5-0 | 39yo | Jiu-Jitsu\n
  • Odds history: not checked yet\nEvent: UFC Fight Night: Rosas Jr. vs Ba
  rcelos\nSource: https://www.ufc.com/event/ufc-fight-night-september-26-202
- 6\nMain calendar: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCale
- ndar updated: 2026-09-13T13:29:50.544Z\nEvent status: Scheduled · verifie
- d 13 Sep 2026
+ 6\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEven
+ t status: Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -437,9 +421,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-26-2026-fight-13105@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260927T020000Z
 DTEND:20260927T023000Z
 SUMMARY:🥊 5. Rodolfo Vieira vs. Robert Bryczek (estimated)
@@ -448,9 +432,8 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   11-5-0 | 37yo | Brazilian Jiu-Jitsu\n• Bryczek: 18-7-0 | 36yo | Boxing\
  n• Odds history: not checked yet\nEvent: UFC Fight Night: Rosas Jr. vs B
  arcelos\nSource: https://www.ufc.com/event/ufc-fight-night-september-26-20
- 26\nMain calendar: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCal
- endar updated: 2026-09-13T13:29:50.544Z\nEvent status: Scheduled · verifi
- ed 13 Sep 2026
+ 26\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEve
+ nt status: Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -460,9 +443,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-26-2026-fight-13106@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260927T013000Z
 DTEND:20260927T020000Z
 SUMMARY:🥊 4. Brady Hiestand vs. Rinya Nakamura (estimated)
@@ -471,9 +454,8 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
  d: 9-2-0 | 27yo | MMA\n• Nakamura: 10-1-0 | 31yo | Wrestler\n• Odds hi
  story: not checked yet\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos\nSou
  rce: https://www.ufc.com/event/ufc-fight-night-september-26-2026\nMain cal
- endar: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar update
- d: 2026-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 20
- 26
+ endar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: S
+ cheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -483,9 +465,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-26-2026-fight-13102@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260927T010000Z
 DTEND:20260927T013000Z
 SUMMARY:🥊 3. Mehemmedeli Osmanli vs. Ilimbek Akylbek (estimated)
@@ -493,9 +475,8 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Osmanli
  : 0-0-0 | 22yo\n• Akylbek: 0-0-0 | 23yo\n• Odds history: not checked y
  et\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos\nSource: https://www.ufc
- .com/event/ufc-fight-night-september-26-2026\nMain calendar: https://Stair
- caseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:29:
- 50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ .com/event/ufc-fight-night-september-26-2026\nMain calendar: https://stair
+ casewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -505,9 +486,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-26-2026-fight-13101@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260927T003000Z
 DTEND:20260927T010000Z
 SUMMARY:🥊 2. Melissa Amaya vs. Valesca Machado (estimated)
@@ -516,8 +497,7 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
  Amaya: 0-0-0 | 31yo\n• Machado: 0-1-0 | 30yo\n• Odds history: not chec
  ked yet\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos\nSource: https://ww
  w.ufc.com/event/ufc-fight-night-september-26-2026\nMain calendar: https://
- StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T1
- 3:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -527,9 +507,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-26-2026-fight-13108@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260927T000000Z
 DTEND:20260927T003000Z
 SUMMARY:🥊 1. Josiah Harrell vs. Elves Brener (estimated)
@@ -538,9 +518,8 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   11-1-0 | 27yo | Grappler\n• Brener: 16-6-0 | 29yo | Jiu-Jitsu\n• Odds
   history: not checked yet\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos\n
  Source: https://www.ufc.com/event/ufc-fight-night-september-26-2026\nMain 
- calendar: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar upd
- ated: 2026-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep
-  2026
+ calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status
+ : Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -550,9 +529,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13071@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261003T213000Z
 DTEND:20261003T220000Z
 SUMMARY:🥊 4. Johnny Walker vs. Mick Parkin (estimated)
@@ -560,9 +539,8 @@ DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n• Wal
  ker: 22-10-0 | 34yo | MMA\n• Parkin: 10-1-0 | 31yo | MMA\n• Odds histo
  ry: not checked yet\nEvent: UFC 332: Silva vs Wang\nSource: https://www.uf
- c.com/event/ufc-332\nMain calendar: https://StaircaseWit.github.io/mmacale
- ndar/ufc.ics\nCalendar updated: 2026-09-13T13:29:50.544Z\nEvent status: Sc
- heduled · verified 13 Sep 2026
+ c.com/event/ufc-332\nMain calendar: https://staircasewit.github.io/mmacale
+ ndar/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -571,9 +549,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13124@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261003T210000Z
 DTEND:20261003T213000Z
 SUMMARY:🥊 3. Rafael Dos Anjos vs. Alexander Hernandez (estimated)
@@ -581,9 +559,8 @@ DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Dos 
  Anjos: 32-17-0 | 41yo | Grappler\n• Hernandez: 18-9-0 | 34yo | MMA\n• 
  Odds history: not checked yet\nEvent: UFC 332: Silva vs Wang\nSource: http
- s://www.ufc.com/event/ufc-332\nMain calendar: https://StaircaseWit.github.
- io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:29:50.544Z\nEvent 
- status: Scheduled · verified 13 Sep 2026
+ s://www.ufc.com/event/ufc-332\nMain calendar: https://staircasewit.github.
+ io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -592,9 +569,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13072@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261003T203000Z
 DTEND:20261003T210000Z
 SUMMARY:🥊 2. Marvin Vettori vs. Ismail Naurdiev (estimated)
@@ -602,9 +579,8 @@ DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Vet
  tori: 19-10-1 | 33yo | MMA\n• Naurdiev: 25-8-0 | 30yo | Wrestling\n• O
  dds history: not checked yet\nEvent: UFC 332: Silva vs Wang\nSource: https
- ://www.ufc.com/event/ufc-332\nMain calendar: https://StaircaseWit.github.i
- o/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:29:50.544Z\nEvent s
- tatus: Scheduled · verified 13 Sep 2026
+ ://www.ufc.com/event/ufc-332\nMain calendar: https://staircasewit.github.i
+ o/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -613,9 +589,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13076@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261003T200000Z
 DTEND:20261003T203000Z
 SUMMARY:🥊 1. Court McGee vs. Eric Nolan (estimated)
@@ -623,9 +599,8 @@ DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n• McG
  ee: 23-14-0 | 41yo | Freestyle\n• Nolan: 8-5-0 | 29yo\n• Odds history:
   not checked yet\nEvent: UFC 332: Silva vs Wang\nSource: https://www.ufc.c
- om/event/ufc-332\nMain calendar: https://StaircaseWit.github.io/mmacalenda
- r/ufc.ics\nCalendar updated: 2026-09-13T13:29:50.544Z\nEvent status: Sched
- uled · verified 13 Sep 2026
+ om/event/ufc-332\nMain calendar: https://staircasewit.github.io/mmacalenda
+ r/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -634,9 +609,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13074@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261003T232000Z
 DTEND:20261003T235000Z
 SUMMARY:🥊 3. Imanol Rodriguez vs. Alden Coria (estimated)
@@ -644,9 +619,8 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 125lbs/57kg Flyweight\n• Rodriguez: 7
  -0-0 | 26yo | Freestyle\n• Coria: 13-3-0 | 28yo | Freestyle\n• Odds hi
  story: not checked yet\nEvent: UFC 332: Silva vs Wang\nSource: https://www
- .ufc.com/event/ufc-332\nMain calendar: https://StaircaseWit.github.io/mmac
- alendar/ufc.ics\nCalendar updated: 2026-09-13T13:29:50.544Z\nEvent status:
-  Scheduled · verified 13 Sep 2026
+ .ufc.com/event/ufc-332\nMain calendar: https://staircasewit.github.io/mmac
+ alendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -655,9 +629,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13075@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261003T224000Z
 DTEND:20261003T231000Z
 SUMMARY:🥊 2. Damian Pinas vs. Andrey Pulyaev (estimated)
@@ -665,9 +639,8 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Pinas: 10
  -1-0 | 24yo | MMA\n• Pulyaev: 10-3-0 | 29yo | MMA\n• Odds history: not
   checked yet\nEvent: UFC 332: Silva vs Wang\nSource: https://www.ufc.com/e
- vent/ufc-332\nMain calendar: https://StaircaseWit.github.io/mmacalendar/uf
- c.ics\nCalendar updated: 2026-09-13T13:29:50.544Z\nEvent status: Scheduled
-  · verified 13 Sep 2026
+ vent/ufc-332\nMain calendar: https://staircasewit.github.io/mmacalendar/uf
+ c.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -676,9 +649,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13122@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261003T220000Z
 DTEND:20261003T223000Z
 SUMMARY:🥊 1. Marcus McGhee vs. Benardo Sopaj (estimated)
@@ -686,9 +659,8 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• McGhee: 1
  1-2-0 | 36yo | Brazilian Jiu-Jitsu\n• Sopaj: 13-3-0 | 26yo | MMA\n• Od
  ds history: not checked yet\nEvent: UFC 332: Silva vs Wang\nSource: https:
- //www.ufc.com/event/ufc-332\nMain calendar: https://StaircaseWit.github.io
- /mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:29:50.544Z\nEvent st
- atus: Scheduled · verified 13 Sep 2026
+ //www.ufc.com/event/ufc-332\nMain calendar: https://staircasewit.github.io
+ /mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -697,9 +669,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13120@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261004T022500Z
 DTEND:20261004T025500Z
 SUMMARY:🥊 5. Natalia Silva vs. Wang Cong (estimated)
@@ -709,9 +681,8 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
  -0 | 34yo | Striker | +198 (2.98)\n• Odds history:\n  ◦ 12 Sep: Silva 
  🟢 -230 (1.43) | Cong 🔴 +190 (2.90)\n  ◦ 13 Sep: Silva 🟢 -205 (1
  .49) | Cong 🔴 +198 (2.98)\nEvent: UFC 332: Silva vs Wang\nSource: https
- ://www.ufc.com/event/ufc-332\nMain calendar: https://StaircaseWit.github.i
- o/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:29:50.544Z\nEvent s
- tatus: Scheduled · verified 13 Sep 2026
+ ://www.ufc.com/event/ufc-332\nMain calendar: https://staircasewit.github.i
+ o/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -720,9 +691,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13070@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261004T015000Z
 DTEND:20261004T022000Z
 SUMMARY:🥊 4. Deiveson Figueiredo vs. Payton Talbott (estimated)
@@ -732,9 +703,8 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
  30 (1.19)\n• Odds history:\n  ◦ 12 Sep: Figueiredo 🔴 +410 (5.10) | 
  Talbott 🟢 -550 (1.18)\n  ◦ 13 Sep: Figueiredo 🔴 +425 (5.25) | Talb
  ott 🟢 -530 (1.19)\nEvent: UFC 332: Silva vs Wang\nSource: https://www.u
- fc.com/event/ufc-332\nMain calendar: https://StaircaseWit.github.io/mmacal
- endar/ufc.ics\nCalendar updated: 2026-09-13T13:29:50.544Z\nEvent status: S
- cheduled · verified 13 Sep 2026
+ fc.com/event/ufc-332\nMain calendar: https://staircasewit.github.io/mmacal
+ endar/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -743,9 +713,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13123@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261004T011000Z
 DTEND:20261004T014000Z
 SUMMARY:🥊 3. King Green vs. Esteban Ribovics (estimated)
@@ -753,9 +723,8 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Green: 3
  6-17-1 | 40yo | MMA\n• Ribovics: 16-3-0 | 30yo | Striker\n• Odds histo
  ry: not checked yet\nEvent: UFC 332: Silva vs Wang\nSource: https://www.uf
- c.com/event/ufc-332\nMain calendar: https://StaircaseWit.github.io/mmacale
- ndar/ufc.ics\nCalendar updated: 2026-09-13T13:29:50.544Z\nEvent status: Sc
- heduled · verified 13 Sep 2026
+ c.com/event/ufc-332\nMain calendar: https://staircasewit.github.io/mmacale
+ ndar/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -764,9 +733,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13121@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261004T003500Z
 DTEND:20261004T010500Z
 SUMMARY:🥊 2. Roberto Soldic vs. Khaos Williams (estimated)
@@ -774,9 +743,8 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Soldic:
   0-0-0 | 31yo\n• Williams: 16-5-0 | 32yo | MMA\n• Odds history: not ch
  ecked yet\nEvent: UFC 332: Silva vs Wang\nSource: https://www.ufc.com/even
- t/ufc-332\nMain calendar: https://StaircaseWit.github.io/mmacalendar/ufc.i
- cs\nCalendar updated: 2026-09-13T13:29:50.544Z\nEvent status: Scheduled ·
-  verified 13 Sep 2026
+ t/ufc-332\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.i
+ cs\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -785,9 +753,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13073@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261004T000000Z
 DTEND:20261004T003000Z
 SUMMARY:🥊 1. Ateba Gautier vs. Roman Kopylov (estimated)
@@ -795,9 +763,8 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Gautier
  : 11-1-0 | 24yo | Striker\n• Kopylov: 15-5-0 | 34yo\n• Odds history: n
  ot checked yet\nEvent: UFC 332: Silva vs Wang\nSource: https://www.ufc.com
- /event/ufc-332\nMain calendar: https://StaircaseWit.github.io/mmacalendar/
- ufc.ics\nCalendar updated: 2026-09-13T13:29:50.544Z\nEvent status: Schedul
- ed · verified 13 Sep 2026
+ /event/ufc-332\nMain calendar: https://staircasewit.github.io/mmacalendar/
+ ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -806,9 +773,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-10-2026-fight-13116@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261010T210000Z
 DTEND:20261010T213000Z
 SUMMARY:🥊 1. Brendan Allen vs. Christian Leroy Duncan (estimated)
@@ -817,8 +784,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  • Allen: 27-7-0 | 30yo | MMA\n• Duncan: 15-2-0 | 31yo | MMA\n• Odds 
  history: not checked yet\nEvent: UFC Fight Night: Allen vs Duncan\nSource:
   https://www.ufc.com/event/ufc-fight-night-october-10-2026\nMain calendar:
-  https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 202
- 6-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+  https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedul
+ ed
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -827,9 +794,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-fight-13002@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261018T023000Z
 DTEND:20261018T030000Z
 SUMMARY:🥊 12. Joaquin Buckley vs. Mike Malott (estimated)
@@ -838,9 +805,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  • Buckley: 21-8-0 | 32yo | Freestyle\n• Malott: 14-2-1 | 34yo | MMA\n
  • Odds history: not checked yet\nEvent: UFC Fight Night: Buckley vs Malo
  tt\nSource: https://www.ufc.com/event/ufc-fight-night-october-17-2026\nMai
- n calendar: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar u
- pdated: 2026-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 S
- ep 2026
+ n calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent stat
+ us: Scheduled
 LOCATION:Rogers Place\, Edmonton\, Canada
 URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -850,9 +816,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-fight-cody-chovancek-suyoung-you@ufc-de
  tailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261018T020000Z
 DTEND:20261018T023000Z
 SUMMARY:🥊 11. Cody Chovancek vs. SuYoung You (estimated)
@@ -861,8 +827,7 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  • Chovancek: 1-0-0 | 28yo\n• You: 16-4-0 | 30yo | MMA\n• Odds histor
  y: not checked yet\nEvent: UFC Fight Night: Buckley vs Malott\nSource: htt
  ps://www.ufc.com/event/ufc-fight-night-october-17-2026\nMain calendar: htt
- ps://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09
- -13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ ps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Rogers Place\, Edmonton\, Canada
 URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -871,9 +836,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-fight-13046@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261018T013000Z
 DTEND:20261018T020000Z
 SUMMARY:🥊 10. Erin Blanchfield vs. Jasmine Jasudavicius (estimated)
@@ -882,9 +847,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  t\n• Blanchfield: 14-2-0 | 27yo | Jiu-Jitsu\n• Jasudavicius: 15-4-0 | 
  37yo | Brawler\n• Odds history: not checked yet\nEvent: UFC Fight Night:
   Buckley vs Malott\nSource: https://www.ufc.com/event/ufc-fight-night-octo
- ber-17-2026\nMain calendar: https://StaircaseWit.github.io/mmacalendar/ufc
- .ics\nCalendar updated: 2026-09-13T13:29:50.544Z\nEvent status: Scheduled 
- · verified 13 Sep 2026
+ ber-17-2026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc
+ .ics\nEvent status: Scheduled
 LOCATION:Rogers Place\, Edmonton\, Canada
 URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -893,9 +857,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-fight-13131@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261018T010000Z
 DTEND:20261018T013000Z
 SUMMARY:🥊 9. Javad Mahjoub vs. Louie Sutherland (estimated)
@@ -904,9 +868,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  • Mahjoub: 0-0-0 | 35yo\n• Sutherland: 11-6-0 | 32yo | Brawler\n• Od
  ds history: not checked yet\nEvent: UFC Fight Night: Buckley vs Malott\nSo
  urce: https://www.ufc.com/event/ufc-fight-night-october-17-2026\nMain cale
- ndar: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated
- : 2026-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 202
- 6
+ ndar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sc
+ heduled
 LOCATION:Rogers Place\, Edmonton\, Canada
 URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -915,9 +878,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-fight-13095@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261018T003000Z
 DTEND:20261018T010000Z
 SUMMARY:🥊 8. Chad Anheliger vs. Steven Koslow (estimated)
@@ -926,9 +889,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  • Anheliger: 13-8-0 | 39yo | Freestyle\n• Koslow: 6-1-0 | 29yo\n• Od
  ds history: not checked yet\nEvent: UFC Fight Night: Buckley vs Malott\nSo
  urce: https://www.ufc.com/event/ufc-fight-night-october-17-2026\nMain cale
- ndar: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated
- : 2026-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 202
- 6
+ ndar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sc
+ heduled
 LOCATION:Rogers Place\, Edmonton\, Canada
 URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -937,9 +899,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-fight-13047@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261018T000000Z
 DTEND:20261018T003000Z
 SUMMARY:🥊 7. Marc-Andre Barriault vs. Kyle Daukaus (estimated)
@@ -948,9 +910,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  • Barriault: 17-11-0 | 36yo | Striker\n• Daukaus: 17-4-0 | 33yo\n• O
  dds history: not checked yet\nEvent: UFC Fight Night: Buckley vs Malott\nS
  ource: https://www.ufc.com/event/ufc-fight-night-october-17-2026\nMain cal
- endar: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar update
- d: 2026-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 20
- 26
+ endar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: S
+ cheduled
 LOCATION:Rogers Place\, Edmonton\, Canada
 URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -959,9 +920,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-fight-13048@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261017T233000Z
 DTEND:20261018T000000Z
 SUMMARY:🥊 6. Jamey-Lyn Horth vs. Katlyn Cerminara (estimated)
@@ -970,9 +931,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  t\n• Horth: 9-3-0 | 36yo | Kickboxer\n• Cerminara: 18-6-0 | 37yo | MMA
  \n• Odds history: not checked yet\nEvent: UFC Fight Night: Buckley vs Ma
  lott\nSource: https://www.ufc.com/event/ufc-fight-night-october-17-2026\nM
- ain calendar: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar
-  updated: 2026-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13
-  Sep 2026
+ ain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent st
+ atus: Scheduled
 LOCATION:Rogers Place\, Edmonton\, Canada
 URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -981,9 +941,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-fight-13049@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261017T230000Z
 DTEND:20261017T233000Z
 SUMMARY:🥊 5. Tanner Boser vs. Jhonata Diniz (estimated)
@@ -992,9 +952,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  • Boser: 22-11-1 | 35yo | Karate\n• Diniz: 9-2-0 | 35yo | Kickboxer\n
  • Odds history: not checked yet\nEvent: UFC Fight Night: Buckley vs Malo
  tt\nSource: https://www.ufc.com/event/ufc-fight-night-october-17-2026\nMai
- n calendar: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar u
- pdated: 2026-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 S
- ep 2026
+ n calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent stat
+ us: Scheduled
 LOCATION:Rogers Place\, Edmonton\, Canada
 URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1003,9 +962,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-fight-13016@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261017T223000Z
 DTEND:20261017T230000Z
 SUMMARY:🥊 4. Mandel Nallo vs. Nate Landwehr (estimated)
@@ -1014,8 +973,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   Nallo: 14-4-0 | 37yo | Kickboxer\n• Landwehr: 18-8-0 | 38yo\n• Odds h
  istory: not checked yet\nEvent: UFC Fight Night: Buckley vs Malott\nSource
  : https://www.ufc.com/event/ufc-fight-night-october-17-2026\nMain calendar
- : https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 20
- 26-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ : https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedu
+ led
 LOCATION:Rogers Place\, Edmonton\, Canada
 URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1024,9 +983,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-fight-13050@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261017T220000Z
 DTEND:20261017T223000Z
 SUMMARY:🥊 3. Melissa Croden vs. Chelsea Chandler (estimated)
@@ -1035,9 +994,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  ight\n• Croden: 8-3-0 | 35yo | MMA\n• Chandler: 7-4-0 | 35yo | MMA\n
  • Odds history: not checked yet\nEvent: UFC Fight Night: Buckley vs Malo
  tt\nSource: https://www.ufc.com/event/ufc-fight-night-october-17-2026\nMai
- n calendar: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar u
- pdated: 2026-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 S
- ep 2026
+ n calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent stat
+ us: Scheduled
 LOCATION:Rogers Place\, Edmonton\, Canada
 URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1046,9 +1004,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-fight-13051@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261017T213000Z
 DTEND:20261017T220000Z
 SUMMARY:🥊 2. Louis Jourdain vs. Timmy Cuamba (estimated)
@@ -1057,8 +1015,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  • Jourdain: 1-0-0 | 29yo\n• Cuamba: 10-4-0 | 27yo | Striker\n• Odds 
  history: not checked yet\nEvent: UFC Fight Night: Buckley vs Malott\nSourc
  e: https://www.ufc.com/event/ufc-fight-night-october-17-2026\nMain calenda
- r: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2
- 026-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ r: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sched
+ uled
 LOCATION:Rogers Place\, Edmonton\, Canada
 URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1067,9 +1025,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-fight-13079@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261017T210000Z
 DTEND:20261017T213000Z
 SUMMARY:🥊 1. Julien Leblanc vs. Gilbert Urbina (estimated)
@@ -1078,8 +1036,7 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  • Leblanc: 10-3-0 | 34yo\n• Urbina: 8-5-0 | 30yo | MMA\n• Odds histo
  ry: not checked yet\nEvent: UFC Fight Night: Buckley vs Malott\nSource: ht
  tps://www.ufc.com/event/ufc-fight-night-october-17-2026\nMain calendar: ht
- tps://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-0
- 9-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ tps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Rogers Place\, Edmonton\, Canada
 URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1088,9 +1045,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13063@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261024T201500Z
 DTEND:20261024T204500Z
 SUMMARY:🥊 9. Alexander Volkanovski vs. Movsar Evloev (estimated)
@@ -1100,8 +1057,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  0-0 | 32yo | Freestyle | -107 (1.93)\n• Odds history:\n  ◦ 13 Sep: Vol
  kanovski 🟢 -110 (1.91) | Evloev 🔴 -107 (1.93)\nEvent: UFC 333: Volka
  novski vs Evloev\nSource: https://www.ufc.com/event/ufc-333\nMain calendar
- : https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 20
- 26-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ : https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedu
+ led
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1110,9 +1067,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13064@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261024T192500Z
 DTEND:20261024T195500Z
 SUMMARY:🥊 8. Petr Yan vs. Merab Dvalishvili (estimated)
@@ -1122,8 +1079,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   21-5-0 | 35yo | Freestyle | +150 (2.50)\n• Odds history:\n  ◦ 13 Sep:
   Yan 🟢 -172 (1.58) | Dvalishvili 🔴 +150 (2.50)\nEvent: UFC 333: Volk
  anovski vs Evloev\nSource: https://www.ufc.com/event/ufc-333\nMain calenda
- r: https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2
- 026-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ r: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sched
+ uled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1132,9 +1089,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13080@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261024T184000Z
 DTEND:20261024T191000Z
 SUMMARY:🥊 7. Arnold Allen vs. Aaron Pico (estimated)
@@ -1142,9 +1099,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n
  • Allen: 21-4-0 | 32yo | MMA\n• Pico: 14-5-0 | 30yo | Boxing\n• Odds
   history: not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\nSource: 
- https://www.ufc.com/event/ufc-333\nMain calendar: https://StaircaseWit.git
- hub.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:29:50.544Z\nEv
- ent status: Scheduled · verified 13 Sep 2026
+ https://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.git
+ hub.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1153,9 +1109,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13065@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261024T175500Z
 DTEND:20261024T182500Z
 SUMMARY:🥊 6. Azamat Murzakanov vs. Dominick Reyes (estimated)
@@ -1163,9 +1119,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 205lbs/93kg Light Heavyweigh
  t\n• Murzakanov: 16-1-0 | 37yo | MMA\n• Reyes: 16-5-0 | 36yo | Kickbox
  er\n• Odds history: not checked yet\nEvent: UFC 333: Volkanovski vs Evlo
- ev\nSource: https://www.ufc.com/event/ufc-333\nMain calendar: https://Stai
- rcaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:29
- :50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ ev\nSource: https://www.ufc.com/event/ufc-333\nMain calendar: https://stai
+ rcasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1174,9 +1129,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13066@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261024T170500Z
 DTEND:20261024T173500Z
 SUMMARY:🥊 5. Lone’er Kavanagh vs. Ramazan Temirov (estimated)
@@ -1184,9 +1139,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 125lbs/57kg Flyweight\n• K
  avanagh: 10-2-0 | 27yo | Kickboxer\n• Temirov: 20-3-0 | 29yo | Striker\n
  • Odds history: not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\n
- Source: https://www.ufc.com/event/ufc-333\nMain calendar: https://Staircas
- eWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:29:50.
- 544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ Source: https://www.ufc.com/event/ufc-333\nMain calendar: https://staircas
+ ewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1195,9 +1149,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13081@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261024T162000Z
 DTEND:20261024T165000Z
 SUMMARY:🥊 4. Nikita Krylov vs. Abdul Rakhman Yakhyaev (estimated)
@@ -1205,9 +1159,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 205lbs/93kg Light Heavyweigh
  t\n• Krylov: 31-12-0 | 34yo | Karate\n• Yakhyaev: 10-0-0 | 25yo | MMA\
  n• Odds history: not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\
- nSource: https://www.ufc.com/event/ufc-333\nMain calendar: https://Stairca
- seWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:29:50
- .544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ nSource: https://www.ufc.com/event/ufc-333\nMain calendar: https://stairca
+ sewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1216,9 +1169,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-alexander-volkov-rizvan-kuniev@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261024T153500Z
 DTEND:20261024T160500Z
 SUMMARY:🥊 3. Alexander Volkov vs. Rizvan Kuniev (estimated)
@@ -1226,9 +1179,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n
  • Volkov: 40-11-0 | 38yo | Brazilian Jiu-Jitsu\n• Kuniev: 14-3-1 | 34y
  o\n• Odds history: not checked yet\nEvent: UFC 333: Volkanovski vs Evloe
- v\nSource: https://www.ufc.com/event/ufc-333\nMain calendar: https://Stair
- caseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:29:
- 50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ v\nSource: https://www.ufc.com/event/ufc-333\nMain calendar: https://stair
+ casewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1237,9 +1189,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13082@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261024T144500Z
 DTEND:20261024T151500Z
 SUMMARY:🥊 2. Abus Magomedov vs. Cam Rowston (estimated)
@@ -1248,8 +1200,7 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  • Magomedov: 29-7-1 | 36yo | MMA\n• Rowston: 15-3-0 | 31yo | Brazilian
   Jiu-Jitsu\n• Odds history: not checked yet\nEvent: UFC 333: Volkanovski
   vs Evloev\nSource: https://www.ufc.com/event/ufc-333\nMain calendar: http
- s://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-
- 13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ s://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1258,9 +1209,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13067@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261024T140000Z
 DTEND:20261024T143000Z
 SUMMARY:🥊 1. Grant Dawson vs. Nurullo Aliev (estimated)
@@ -1268,9 +1219,8 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n•
   Dawson: 24-3-1 | 32yo\n• Aliev: 12-0-0 | 25yo | Wrestling\n• Odds his
  tory: not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\nSource: http
- s://www.ufc.com/event/ufc-333\nMain calendar: https://StaircaseWit.github.
- io/mmacalendar/ufc.ics\nCalendar updated: 2026-09-13T13:29:50.544Z\nEvent 
- status: Scheduled · verified 13 Sep 2026
+ s://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.
+ io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1279,9 +1229,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-31-2026-fight-13117@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261101T000000Z
 DTEND:20261101T003000Z
 SUMMARY:🥊 2. Lucia Szabova vs. Tainara Lisboa (estimated)
@@ -1290,8 +1240,7 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  t\n• Szabova: 0-0-0 | 28yo\n• Lisboa: 7-4-0 | 35yo | Muay Thai\n• Od
  ds history: not checked yet\nEvent: UFC Fight Night: TBD vs TBD\nSource: h
  ttps://www.ufc.com/event/ufc-fight-night-october-31-2026\nMain calendar: h
- ttps://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-
- 09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ ttps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1300,9 +1249,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-31-2026-fight-13096@ufc-detailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261031T210000Z
 DTEND:20261031T213000Z
 SUMMARY:🥊 1. Nick Klein vs. Joseph Kropschot (estimated)
@@ -1311,8 +1260,7 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  • Klein: 6-3-0 | 31yo | Freestyle\n• Kropschot: 1-0-0 | 31yo\n• Odds
   history: not checked yet\nEvent: UFC Fight Night: TBD vs TBD\nSource: htt
  ps://www.ufc.com/event/ufc-fight-night-october-31-2026\nMain calendar: htt
- ps://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 2026-09
- -13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+ ps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1322,9 +1270,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-november-07-2026-fight-gabriel-bonfim-sean-brady@ufc-de
  tailed-calendar
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261107T220000Z
 DTEND:20261107T223000Z
 SUMMARY:🥊 1. Gabriel Bonfim vs. Sean Brady (estimated)
@@ -1333,8 +1281,8 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   20-1-0 | 29yo | Striker\n• Brady: 19-2-0 | 33yo | Jiu-Jitsu\n• Odds h
  istory: not checked yet\nEvent: UFC Fight Night: Bonfim vs Brady\nSource: 
  https://www.ufc.com/event/ufc-fight-night-november-07-2026\nMain calendar:
-  https://StaircaseWit.github.io/mmacalendar/ufc.ics\nCalendar updated: 202
- 6-09-13T13:29:50.544Z\nEvent status: Scheduled · verified 13 Sep 2026
+  https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedul
+ ed
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
 CATEGORIES:UFC,Estimated Fight,Main Card

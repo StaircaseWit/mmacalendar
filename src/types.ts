@@ -83,6 +83,7 @@ export interface StoredUfcEvent extends Omit<UfcEvent, "heroStart" | "sections" 
 
 export interface TrackedEvent {
   event: StoredUfcEvent;
+  aliases?: string[];
   status: EventScheduleState;
   firstSeenAt: string;
   lastSeenAt: string;

@@ -11,9 +11,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:6936559154637b71645f64ff@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260313T113000Z
 DTEND:20260313T163308Z
 SUMMARY:ONE Friday Fights 146
@@ -69,8 +69,7 @@ DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  ki: Striker\n\n🥊 1. 𝗖𝗵𝗶𝗵 𝗖𝗵𝗲𝗻𝗴 𝗬𝘂 vs. 
  𝗦𝗮𝗿𝗺𝗮𝗱 𝗝𝗮𝗵𝗮𝗻𝗮𝗿𝗮 🇦🇺\n• 18
  5lbs/83.9kg Welterweight Mixed Martial Arts\n\n---------------------------
- -----\nSource: https://www.onefc.com/events/one-friday-fights-146/\nCalend
- ar updated: 2026-09-13T13:29:50.544Z
+ -----\nSource: https://www.onefc.com/events/one-friday-fights-146/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-146
 CATEGORIES:ONE Championship
@@ -78,9 +77,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:693656702fbf6a23229602b7@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260314T010000Z
 DTEND:20260314T044421Z
 SUMMARY:ONE Fight Night 41
@@ -113,8 +112,7 @@ DESCRIPTION:ONE Championship · Complete Event · 9 bouts\n📍 Lumpinee St
  𝗿𝗲𝗺𝘆 𝗠𝗶𝗮𝗱𝗼 🇵🇭 vs. 𝗪𝗶𝗹𝗹𝗶
  𝗲 𝘃𝗮𝗻 𝗥𝗼𝗼𝘆𝗲𝗻 🇿🇦\n• 135lbs/61.2kg Fly
  weight Mixed Martial Arts\n\n--------------------------------\nSource: htt
- ps://www.onefc.com/events/onefightnight41/\nCalendar updated: 2026-09-13T1
- 3:29:50.544Z
+ ps://www.onefc.com/events/onefightnight41/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/onefightnight41
 CATEGORIES:ONE Championship
@@ -122,9 +120,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:693655bb370b4d81ea62417e@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260320T113000Z
 DTEND:20260320T163643Z
 SUMMARY:ONE Friday Fights 147 & The Inner Circle 7
@@ -181,8 +179,7 @@ DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  🇩🇿/🇫🇷 vs. 𝗛𝗶𝗸𝗮𝗿𝘂 𝗙𝘂𝗿𝘂𝗺𝘂
  𝗿𝗮 🇯🇵\n• 135lbs/61.2kg Flyweight Muay Thai\n• Messaoudi: S
  triker\n• Furumura: Striker\n\n--------------------------------\nSource:
-  https://www.onefc.com/events/one-friday-fights-147/\nCalendar updated: 20
- 26-09-13T13:29:50.544Z
+  https://www.onefc.com/events/one-friday-fights-147/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-147
 CATEGORIES:ONE Championship
@@ -190,9 +187,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:693655d62fbf6a23229602ac@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260327T113000Z
 DTEND:20260327T163628Z
 SUMMARY:ONE Friday Fights 148 & The Inner Circle 8
@@ -246,7 +243,7 @@ DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  𝗰 𝗗𝗮𝗻𝗵 🇻🇳 vs. 𝗞𝗼𝘁𝗮𝗿𝗼 𝗧𝗮𝗻
  𝗮𝗸𝗮 🇯🇵\n• 135lbs/61.2kg Flyweight Mixed Martial Arts\n\n-
  -------------------------------\nSource: https://www.onefc.com/events/one-
- friday-fights-148/\nCalendar updated: 2026-09-13T13:29:50.544Z
+ friday-fights-148/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-148
 CATEGORIES:ONE Championship
@@ -254,9 +251,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69c23b65c866bf920a34d0db@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260403T113000Z
 DTEND:20260403T163054Z
 SUMMARY:ONE Friday Fights 149 & The Inner Circle 9
@@ -311,7 +308,7 @@ DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  𝗿 𝗠𝗮𝘄𝗶𝗮 🇮🇳 vs. 𝗧𝗮𝗶𝗴𝗮 𝗢𝗿𝗶
  𝗶 🇯🇵\n• 145lbs/65.8kg Bantamweight Mixed Martial Arts\n\n------
  --------------------------\nSource: https://www.onefc.com/events/one-frida
- y-fights-149/\nCalendar updated: 2026-09-13T13:29:50.544Z
+ y-fights-149/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-149
 CATEGORIES:ONE Championship
@@ -319,9 +316,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69c23d612d5b603c265b907f@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260410T113000Z
 DTEND:20260410T163124Z
 SUMMARY:ONE Friday Fights 150 & The Inner Circle 10
@@ -375,8 +372,7 @@ DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  𝗛𝗲𝗿𝗼 𝗠𝗮𝗿𝗰𝗼 𝗠𝗮𝗻𝗴𝘂𝗿𝗮𝘆 
  🇵🇭 vs. 𝗞𝗼𝘁𝗮 𝗔𝗯𝗲\n• 170lbs/77.1kg Lightweight 
  Mixed Martial Arts\n\n--------------------------------\nSource: https://ww
- w.onefc.com/events/one-friday-fights-150/\nCalendar updated: 2026-09-13T13
- :29:50.544Z
+ w.onefc.com/events/one-friday-fights-150/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-150
 CATEGORIES:ONE Championship
@@ -384,9 +380,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:693656e9f1049ab8d0238bfd@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260411T010000Z
 DTEND:20260411T041010Z
 SUMMARY:ONE Fight Night 42
@@ -418,8 +414,7 @@ DESCRIPTION:ONE Championship · Complete Event · 8 bouts\n📍 Lumpinee St
  🇹🇯 vs. 𝗠𝗼𝗵𝗮𝗻𝗮𝗱 𝗕𝗮𝘁𝘁𝗯𝗼𝗼𝘁
  𝘁𝗶 🇮🇶\n• 145lbs/65.8kg Bantamweight Muay Thai\n• Kovtun: S
  triker\n• Battbootti: Striker\n\n--------------------------------\nSourc
- e: https://www.onefc.com/events/onefightnight42/\nCalendar updated: 2026-0
- 9-13T13:29:50.544Z
+ e: https://www.onefc.com/events/onefightnight42/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/onefightnight42
 CATEGORIES:ONE Championship
@@ -427,9 +422,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69c23dc65663797ee49d0744@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260424T113000Z
 DTEND:20260424T163057Z
 SUMMARY:ONE Friday Fights 151 & The Inner Circle 11
@@ -479,8 +474,7 @@ DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
  🥊 1. 𝗦𝗵𝗲𝗻𝗴 𝗬𝗶 𝗛𝗮𝗻𝗴 🇨🇳 vs. 𝗥
  𝗲𝗶𝗷𝗶 🇯🇵\n• 125lbs/56.7kg Strawweight Kickboxing\n• H
  ang: Striker\n• Reiji: Striker\n\n--------------------------------\nSour
- ce: https://www.onefc.com/events/one-friday-fights-151/\nCalendar updated:
-  2026-09-13T13:29:50.544Z
+ ce: https://www.onefc.com/events/one-friday-fights-151/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-151
 CATEGORIES:ONE Championship
@@ -488,9 +482,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6919632a1a5f7bbe93610ca9@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260429T053000Z
 DTEND:20260429T130246Z
 SUMMARY:ONE Samurai 1
@@ -538,8 +532,7 @@ DESCRIPTION:ONE Championship · Complete Event · 15 bouts\n📍 Ariake Are
  • Naito: Striker\n\n🥊 1. 𝗞𝗮𝗻𝗮𝘁𝗮 𝗡𝗮𝗴𝗮
  𝗶 🇯🇵 vs. 𝗔𝘁𝘀𝘂𝗯𝗼 𝗞𝗮𝗺𝗯𝗲 🇯🇵\n
  • 145lbs/65.8kg Bantamweight Mixed Martial Arts\n\n---------------------
- -----------\nSource: https://www.onefc.com/events/one-samurai-1/\nCalendar
-  updated: 2026-09-13T13:29:50.544Z
+ -----------\nSource: https://www.onefc.com/events/one-samurai-1/
 LOCATION:Ariake Arena\, Tokyo
 URL:https://watch.onefc.com/events/one-samurai-1
 CATEGORIES:ONE Championship
@@ -547,9 +540,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69c23e415663797ee49d074b@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260501T113000Z
 DTEND:20260501T162922Z
 SUMMARY:ONE Friday Fights 152 & The Inner Circle 12
@@ -604,7 +597,7 @@ DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
  𝗮𝗶 🇹🇭 vs. 𝗥𝗶𝗸𝘂 𝗜𝘁𝗼 🇯🇵\n• 115lbs/5
  2.2kg Atomweight Muay Thai\n• Suablackmuaythai: Striker\n• Ito: Strike
  r\n\n--------------------------------\nSource: https://www.onefc.com/event
- s/one-friday-fights-152/\nCalendar updated: 2026-09-13T13:29:50.544Z
+ s/one-friday-fights-152/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-152
 CATEGORIES:ONE Championship
@@ -612,9 +605,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69c23e762d5b603c265b90ac@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260508T113000Z
 DTEND:20260508T163323Z
 SUMMARY:ONE Friday Fights 153 & The Inner Circle 13
@@ -649,27 +642,26 @@ DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  𝗖𝗿𝘂𝘇 🇲🇽\n• 135lbs/61.2kg Flyweight Muay Thai\n• Sabr
  i: Striker\n• Cruz: Striker\n\n🥊 6. 𝗝𝗼𝗻𝗴𝗷𝘂𝗻 𝗣
  𝗮𝗿𝗸 🇰🇷 vs. 𝗝𝘂𝗻𝗽𝗲𝗶 𝗡𝗮𝗴𝗮𝘁
- 𝗼𝗺𝗲 🇯🇵\n• 145lbs/65.8kg Bantamweight Mixed Martial Arts\n
- \n🥊 5. 𝗔𝗱𝗮𝗺 𝗦𝗼𝗿 𝗗𝗲𝗰𝗵𝗮𝗽𝗮𝗻 
- 🇲🇾/🇹🇭 vs. 𝗘𝗻𝘇𝗼 𝗖𝗹𝗮𝗿𝗶𝘀𝘀𝗲 
- 🇫🇷\n• 125lbs/56.7kg Strawweight Muay Thai\n• Dechapan: Striker\n
- • Clarisse: Striker\n\n🥊 4. 𝗥𝗶𝗳𝗱𝗲𝗮𝗻 𝗠𝗮𝘀
- 𝗱𝗼𝗿 🇲🇾 vs. 𝗣𝗲𝘁𝗸𝗶𝗮𝘁𝘁𝗶𝘀𝗮𝗸
-  𝗢 𝗦𝗮𝗻𝘀𝘂𝗸 🇱🇦\n• 115lbs/52.2kg Atomweight Muay
-  Thai\n• Masdor: Striker\n• Sansuk: Striker\n\n🥊 3. 𝗖𝗵𝗮
- 𝗿𝘁𝗽𝗮𝘆𝗮𝗸 𝗦𝗮𝗸𝘀𝗮𝘁𝗼𝗼𝗻 🇹🇭
-  vs. 𝗧𝗵𝘄𝗮𝘆 𝗟𝗶𝗻 𝗛𝘁𝗲𝘁 🇲🇲\n• 125l
- bs/56.7kg Strawweight Muay Thai\n• Saksatoon: Striker\n• Htet: Striker
- \n\n🥊 2. 𝗣𝗲𝘁𝗸𝗵𝗮𝗼𝗸𝗿𝗮𝗱𝗼𝗻𝗴 𝗟
- 𝘂𝗸𝗷𝗮𝗼𝗺𝗮𝗲𝘀𝗮𝗶𝘁𝗵𝗼𝗻𝗴 🇹🇭 
- vs. 𝗩𝗶𝗰𝘁𝗼𝗿 𝗛𝘂𝗴𝗼 🇧🇷\n• 170lbs/77.1kg 
- Lightweight Muay Thai\n• Lukjaomaesaithong: Striker\n• Hugo: Striker\n
- \n🥊 1. 𝗥𝗼𝗱𝗿𝗶𝗴𝗼 𝗠𝗮𝗿𝗲𝗹𝗹𝗼 🇧
- 🇷 vs. 𝗗𝗮𝗶𝗸𝗶 𝗬𝗼𝗻𝗲𝗸𝘂𝗿𝗮 🇯🇵\n
- • 145lbs/65.8kg Bantamweight Submission Grappling\n• Marello: Grappler
- \n• Yonekura: Grappler\n\n--------------------------------\nSource: http
- s://www.onefc.com/events/one-friday-fights-153/\nCalendar updated: 2026-09
- -13T13:29:50.544Z
+ 𝗼𝗺𝗲 🇯🇵\n• 145lbs/65.8kg Bantamweight MMA\n\n🥊 5. 𝗔
+ 𝗱𝗮𝗺 𝗦𝗼𝗿 𝗗𝗲𝗰𝗵𝗮𝗽𝗮𝗻 🇲🇾/🇹
+ 🇭 vs. 𝗘𝗻𝘇𝗼 𝗖𝗹𝗮𝗿𝗶𝘀𝘀𝗲 🇫🇷\n• 1
+ 25lbs/56.7kg Strawweight Muay Thai\n• Dechapan: Striker\n• Clarisse: S
+ triker\n\n🥊 4. 𝗥𝗶𝗳𝗱𝗲𝗮𝗻 𝗠𝗮𝘀𝗱𝗼𝗿 
+ 🇲🇾 vs. 𝗣𝗲𝘁𝗸𝗶𝗮𝘁𝘁𝗶𝘀𝗮𝗸 𝗢 𝗦
+ 𝗮𝗻𝘀𝘂𝗸 🇱🇦\n• 115lbs/52.2kg Atomweight Muay Thai\n•
+  Masdor: Striker\n• Sansuk: Striker\n\n🥊 3. 𝗖𝗵𝗮𝗿𝘁𝗽
+ 𝗮𝘆𝗮𝗸 𝗦𝗮𝗸𝘀𝗮𝘁𝗼𝗼𝗻 🇹🇭 vs. 𝗧
+ 𝗵𝘄𝗮𝘆 𝗟𝗶𝗻 𝗛𝘁𝗲𝘁 🇲🇲\n• 125lbs/56.7kg
+  Strawweight Muay Thai\n• Saksatoon: Striker\n• Htet: Striker\n\n🥊 
+ 2. 𝗣𝗲𝘁𝗸𝗵𝗮𝗼𝗸𝗿𝗮𝗱𝗼𝗻𝗴 𝗟𝘂𝗸
+ 𝗷𝗮𝗼𝗺𝗮𝗲𝘀𝗮𝗶𝘁𝗵𝗼𝗻𝗴 🇹🇭 vs. 𝗩
+ 𝗶𝗰𝘁𝗼𝗿 𝗛𝘂𝗴𝗼 🇧🇷\n• 170lbs/77.1kg Lightwei
+ ght Muay Thai\n• Lukjaomaesaithong: Striker\n• Hugo: Striker\n\n🥊 1
+ . 𝗥𝗼𝗱𝗿𝗶𝗴𝗼 𝗠𝗮𝗿𝗲𝗹𝗹𝗼 🇧🇷 vs. 
+ 𝗗𝗮𝗶𝗸𝗶 𝗬𝗼𝗻𝗲𝗸𝘂𝗿𝗮 🇯🇵\n• 145lbs
+ /65.8kg Bantamweight Submission Grappling\n• Marello: Grappler\n• Yone
+ kura: Grappler\n\n--------------------------------\nSource: https://www.on
+ efc.com/events/one-friday-fights-153/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-153
 CATEGORIES:ONE Championship
@@ -677,9 +669,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69c363ad2d5b603c265b98bf@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260515T113000Z
 DTEND:20260515T163211Z
 SUMMARY:ONE Friday Fights 154 & The Inner Circle 14
@@ -719,17 +711,16 @@ DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
  Bantamweight Kickboxing\n• Dotsenko: Striker\n• Suzuki: Striker\n\n
  🥊 4. 𝗢𝘂𝗺𝗮𝗿 𝗞𝗮𝗻𝗲 🇸🇳 vs. 𝗔𝗻𝗮
  𝘁𝗼𝗹𝘆 𝗠𝗮𝗹𝘆𝗸𝗵𝗶𝗻 🇷🇺\n• 265lbs/120
- .2kg Heavyweight World Championship\n\n🥊 3. 𝗞𝗮𝗱𝗲 𝗥𝘂
- 𝗼𝘁𝗼𝗹𝗼 🇺🇸 vs. 𝗛𝗶𝗿𝗼𝘆𝘂𝗸𝗶 𝗧
- 𝗲𝘁𝘀𝘂𝗸𝗮 🇯🇵\n• 170lbs/77.1kg Lightweight Mixed Mar
- tial Arts\n\n🥊 2. 𝗦𝘂𝗽𝗲𝗿𝗹𝗲𝗸 🇹🇭 vs. 𝗔
- 𝗯𝗱𝘂𝗹𝗹𝗮 𝗗𝗮𝘆𝗮𝗸𝗮𝗲𝘃 🇷🇺\n• 14
- 5lbs/65.8kg Bantamweight Muay Thai\n• Superlek: Striker\n• Dayakaev: S
- triker\n\n🥊 1. 𝗠𝗶𝗮 𝗧𝗿𝗲𝘃𝗼𝗿𝗿𝗼𝘄 🇬
- 🇧 vs. 𝗞𝗼𝗸𝗼𝘇 🇯🇵\n• 115lbs/52.2kg Atomweight Muay 
- Thai\n• Trevorrow: Striker\n• Kokoz: Striker\n\n----------------------
- ----------\nSource: https://www.onefc.com/events/one-friday-fights-154/\nC
- alendar updated: 2026-09-13T13:29:50.544Z
+ .2kg Heavyweight MMA World Championship\n\n🥊 3. 𝗞𝗮𝗱𝗲 𝗥
+ 𝘂𝗼𝘁𝗼𝗹𝗼 🇺🇸 vs. 𝗛𝗶𝗿𝗼𝘆𝘂𝗸𝗶 
+ 𝗧𝗲𝘁𝘀𝘂𝗸𝗮 🇯🇵\n• 170lbs/77.1kg Lightweight MMA\n
+ \n🥊 2. 𝗦𝘂𝗽𝗲𝗿𝗹𝗲𝗸 🇹🇭 vs. 𝗔𝗯𝗱𝘂
+ 𝗹𝗹𝗮 𝗗𝗮𝘆𝗮𝗸𝗮𝗲𝘃 🇷🇺\n• 145lbs/65.8kg 
+ Bantamweight Muay Thai\n• Superlek: Striker\n• Dayakaev: Striker\n\n
+ 🥊 1. 𝗠𝗶𝗮 𝗧𝗿𝗲𝘃𝗼𝗿𝗿𝗼𝘄 🇬🇧 vs. 
+ 𝗞𝗼𝗸𝗼𝘇 🇯🇵\n• 115lbs/52.2kg Atomweight Muay Thai\n•
+  Trevorrow: Striker\n• Kokoz: Striker\n\n-------------------------------
+ -\nSource: https://www.onefc.com/events/one-friday-fights-154/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-154
 CATEGORIES:ONE Championship
@@ -737,9 +728,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69365709f1049ab8d0238c01@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260516T010000Z
 DTEND:20260516T044323Z
 SUMMARY:ONE Fight Night 43
@@ -748,33 +739,32 @@ DESCRIPTION:ONE Championship · Complete Event · 9 bouts\n📍 Lumpinee St
  \n--------------------------------\n𝗕𝗢𝗨𝗧𝗦\n----------------
  ----------------\n\n🥊 9. 𝗧𝗮𝗻𝗴 𝗞𝗮𝗶 🇨🇳 vs. 
  𝗦𝗵𝗮𝗺𝗶𝗹 𝗚𝗮𝘀𝗮𝗻𝗼𝘃 🇷🇺\n• 155lbs
- /70.3kg Featherweight World Championship\n\n🥊 8. 𝗣𝗲𝘁𝗰𝗵
- 𝘁𝗮𝗻𝗼𝗻𝗴 𝗣𝗲𝘁𝗰𝗵𝗳𝗲𝗿𝗴𝘂𝘀 🇹
- 🇭 vs. 𝗕𝗲𝗻 𝗪𝗼𝗼𝗹𝗹𝗶𝘀𝘀 🇬🇧\n• 145lb
- s/65.8kg Bantamweight Kickboxing\n• Petchfergus: Striker\n• Woolliss: 
- Striker\n\n🥊 7. 𝗗𝗶𝗼𝗴𝗼 𝗥𝗲𝗶𝘀 🇧🇷 vs. 𝗬
- 𝘂𝗸𝗶 𝗧𝗮𝗸𝗮𝗵𝗮𝘀𝗵𝗶 🇯🇵\n• 145lbs/65.
- 8kg Bantamweight Submission Grappling\n• Reis: Grappler\n• Takahashi: 
- Grappler\n\n🥊 6. 𝗔𝘀𝗹𝗮𝗺𝗷𝗼𝗻 𝗢𝗿𝘁𝗶𝗸
- 𝗼𝘃 🇺🇿 vs. 𝗝𝗼𝗿𝗱𝗮𝗻 𝗘𝘀𝘁𝘂𝗽𝗶
- 𝗻𝗮𝗻 🇨🇴\n• 135lbs/61.2kg Flyweight Muay Thai\n• Ortikov:
-  Striker\n• Estupinan: Striker\n\n🥊 5. 𝗬𝗼𝘀𝘂𝗸𝗲 𝗦
- 𝗮𝗿𝘂𝘁𝗮 🇯🇵 vs. 𝗙𝗮𝗯𝗶𝗼 𝗛𝗲𝗻𝗿
- 𝗶𝗾𝘂𝗲 🇧🇷\n• 125lbs/56.7kg Strawweight Mixed Martial Art
- s\n\n🥊 4. 𝗙𝗲𝗹𝗶𝗽𝗲 𝗟𝗼𝗯𝗼 🇧🇷 vs. 𝗡
- 𝗼𝗻𝘁𝗮𝗰𝗵𝗮𝗶 𝗝𝗶𝘁𝗺𝘂𝗮𝗻𝗴𝗻𝗼
- 𝗻 🇹🇭\n• 145lbs/65.8kg Bantamweight Muay Thai\n• Lobo: Striker
- \n• Jitmuangnon: Striker\n\n🥊 3. 𝗘𝗸𝗼 𝗥𝗼𝗻𝗶 𝗦
- 𝗮𝗽𝘂𝘁𝗿𝗮 🇮🇩 vs. 𝗟𝗶𝘁𝗼 𝗔𝗱𝗶𝘄
- 𝗮𝗻𝗴 🇵🇭\n• 145lbs/65.8kg Bantamweight Mixed Martial Arts\n
- \n🥊 2. 𝗟𝘂𝗼 𝗖𝗵𝗮𝗼 vs. 𝗗𝗲𝗻𝗶𝘀 𝗦𝗼
- 𝘂𝘇𝗮 𝗝𝗿\n• 155lbs/70.3kg Featherweight Kickboxing\n• Cha
- o: Striker\n• Souza: Striker\n\n🥊 1. 𝗝𝗼𝗵𝗮𝗻𝗻𝗮 
- 𝗣𝗲𝗿𝘀𝘀𝗼𝗻 🇸🇪 vs. 𝗠𝗮𝗿𝘁𝘆𝗻𝗮 
- 𝗗𝗼𝗺𝗶𝗻𝗰𝘇𝗮𝗸 🇵🇱\n• 115lbs/52.2kg Atomweigh
- t Muay Thai\n• Persson: Striker\n• Dominczak: Striker\n\n-------------
- -------------------\nSource: https://www.onefc.com/events/onefightnight43/
- \nCalendar updated: 2026-09-13T13:29:50.544Z
+ /70.3kg Featherweight MMA World Championship\n\n🥊 8. 𝗣𝗲𝘁𝗰
+ 𝗵𝘁𝗮𝗻𝗼𝗻𝗴 𝗣𝗲𝘁𝗰𝗵𝗳𝗲𝗿𝗴𝘂𝘀 
+ 🇹🇭 vs. 𝗕𝗲𝗻 𝗪𝗼𝗼𝗹𝗹𝗶𝘀𝘀 🇬🇧\n• 1
+ 45lbs/65.8kg Bantamweight Kickboxing\n• Petchfergus: Striker\n• Woolli
+ ss: Striker\n\n🥊 7. 𝗗𝗶𝗼𝗴𝗼 𝗥𝗲𝗶𝘀 🇧🇷 vs. 
+ 𝗬𝘂𝗸𝗶 𝗧𝗮𝗸𝗮𝗵𝗮𝘀𝗵𝗶 🇯🇵\n• 145lbs
+ /65.8kg Bantamweight Submission Grappling\n• Reis: Grappler\n• Takahas
+ hi: Grappler\n\n🥊 6. 𝗔𝘀𝗹𝗮𝗺𝗷𝗼𝗻 𝗢𝗿𝘁𝗶
+ 𝗸𝗼𝘃 🇺🇿 vs. 𝗝𝗼𝗿𝗱𝗮𝗻 𝗘𝘀𝘁𝘂𝗽
+ 𝗶𝗻𝗮𝗻 🇨🇴\n• 135lbs/61.2kg Flyweight Muay Thai\n• Orti
+ kov: Striker\n• Estupinan: Striker\n\n🥊 5. 𝗬𝗼𝘀𝘂𝗸𝗲 
+ 𝗦𝗮𝗿𝘂𝘁𝗮 🇯🇵 vs. 𝗙𝗮𝗯𝗶𝗼 𝗛𝗲𝗻
+ 𝗿𝗶𝗾𝘂𝗲 🇧🇷\n• 125lbs/56.7kg Strawweight MMA\n\n🥊 4
+ . 𝗙𝗲𝗹𝗶𝗽𝗲 𝗟𝗼𝗯𝗼 🇧🇷 vs. 𝗡𝗼𝗻𝘁
+ 𝗮𝗰𝗵𝗮𝗶 𝗝𝗶𝘁𝗺𝘂𝗮𝗻𝗴𝗻𝗼𝗻 🇹🇭
+ \n• 145lbs/65.8kg Bantamweight Muay Thai\n• Lobo: Striker\n• Jitmuan
+ gnon: Striker\n\n🥊 3. 𝗘𝗸𝗼 𝗥𝗼𝗻𝗶 𝗦𝗮𝗽𝘂
+ 𝘁𝗿𝗮 🇮🇩 vs. 𝗟𝗶𝘁𝗼 𝗔𝗱𝗶𝘄𝗮𝗻𝗴 
+ 🇵🇭\n• 145lbs/65.8kg Bantamweight MMA\n\n🥊 2. 𝗟𝘂𝗼 𝗖
+ 𝗵𝗮𝗼 vs. 𝗗𝗲𝗻𝗶𝘀 𝗦𝗼𝘂𝘇𝗮 𝗝𝗿\n• 1
+ 55lbs/70.3kg Featherweight Kickboxing\n• Chao: Striker\n• Souza: Strik
+ er\n\n🥊 1. 𝗝𝗼𝗵𝗮𝗻𝗻𝗮 𝗣𝗲𝗿𝘀𝘀𝗼𝗻 
+ 🇸🇪 vs. 𝗠𝗮𝗿𝘁𝘆𝗻𝗮 𝗗𝗼𝗺𝗶𝗻𝗰𝘇𝗮
+ 𝗸 🇵🇱\n• 115lbs/52.2kg Atomweight Muay Thai\n• Persson: Strike
+ r\n• Dominczak: Striker\n\n--------------------------------\nSource: htt
+ ps://www.onefc.com/events/onefightnight43/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/onefightnight43
 CATEGORIES:ONE Championship
@@ -782,9 +772,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69c365012d5b603c265b98d9@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260522T113000Z
 DTEND:20260522T163124Z
 SUMMARY:ONE Friday Fights 155 & The Inner Circle 15
@@ -831,9 +821,9 @@ DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
  🇲 vs. 𝗞𝗮𝗻𝗮 🇯🇵\n• 115lbs/52.2kg Atomweight Kickboxin
  g\n• Vero: Striker\n• Kana: Striker\n\n🥊 1. 𝗩𝗶𝗲𝘁 𝗔
  𝗻𝗵 𝗗𝗼 🇳🇿/🇻🇳 vs. 𝗞𝘆𝘂𝗻𝗴𝗷𝘂𝗻
- 𝗴 𝗞𝗶𝗺 🇰🇷\n• 135lbs/61.2kg Flyweight Mixed Martial Arts
- \n\n--------------------------------\nSource: https://www.onefc.com/events
- /one-friday-fights-155/\nCalendar updated: 2026-09-13T13:29:50.544Z
+ 𝗴 𝗞𝗶𝗺 🇰🇷\n• 135lbs/61.2kg Flyweight MMA\n\n-----------
+ ---------------------\nSource: https://www.onefc.com/events/one-friday-fig
+ hts-155/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-155
 CATEGORIES:ONE Championship
@@ -841,9 +831,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69c3703b2d5b603c265b98dd@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260529T113000Z
 DTEND:20260529T163029Z
 SUMMARY:ONE Friday Fights 156 & The Inner Circle 16
@@ -897,8 +887,7 @@ DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
  𝗹𝗲𝘁 𝗞𝗮𝗹𝗲𝗻𝗱𝗲𝗿𝗼𝘃 🇰🇬 vs. 𝗝
  𝗮𝗻𝗴 𝗦𝗲𝗼𝗻 𝗚𝘆𝘂 🇰🇷\n• 135lbs/61.2kg Fly
  weight MMA\n\n--------------------------------\nSource: https://www.onefc.
- com/events/one-friday-fights-156/\nCalendar updated: 2026-09-13T13:29:50.5
- 44Z
+ com/events/one-friday-fights-156/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-156
 CATEGORIES:ONE Championship
@@ -906,9 +895,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69c370a8c866bf920a34d743@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260605T113000Z
 DTEND:20260605T163007Z
 SUMMARY:ONE Friday Fights 157 & The Inner Circle 17
@@ -965,8 +954,7 @@ DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  : Striker\n• Jinhu: Striker\n\n🥊 1. 𝗝𝘂𝗹𝗶𝗮𝗻 𝗠𝗮
  𝘆𝗼𝗿𝗴𝗮 🇺🇸 vs. 𝗧𝗮𝗶𝗴𝗮 𝗢𝗿𝗶𝗶 
  🇯🇵\n• 145lbs/65.8kg Bantamweight MMA\n\n--------------------------
- ------\nSource: https://www.onefc.com/events/one-friday-fights-157/\nCalen
- dar updated: 2026-09-13T13:29:50.544Z
+ ------\nSource: https://www.onefc.com/events/one-friday-fights-157/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-157
 CATEGORIES:ONE Championship
@@ -974,9 +962,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69c37119c866bf920a34d763@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260612T113000Z
 DTEND:20260612T163248Z
 SUMMARY:ONE Friday Fights 158 & The Inner Circle 18
@@ -1033,8 +1021,7 @@ DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  r\n\n🥊 1. 𝗘𝘁𝗵𝗮𝗻 𝗕𝗿𝗼𝗰𝗸𝗲𝘁𝘁 🇳
  🇿 vs. 𝗦𝗼𝗿𝗮 𝗘𝗻𝗺𝗲𝗶 🇯🇵\n• 155lbs/70.3kg
   Featherweight MMA\n\n--------------------------------\nSource: https://ww
- w.onefc.com/events/one-friday-fights-158/\nCalendar updated: 2026-09-13T13
- :29:50.544Z
+ w.onefc.com/events/one-friday-fights-158/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-158
 CATEGORIES:ONE Championship
@@ -1042,9 +1029,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69c3716b2d5b603c265b9909@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260619T113000Z
 DTEND:20260619T163034Z
 SUMMARY:ONE Friday Fights 159 & The Inner Circle 19
@@ -1094,8 +1081,7 @@ DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
  𝗵𝗹𝗼𝗻𝗴𝘁𝗼𝗲𝗶𝘆𝗼𝘂𝘁𝗵𝗰𝗲𝗻𝘁
  𝗲𝗿 🇹🇭\n• 102lbs/46.3kg Muay Thai\n• Bahsous: Striker\n• 
  Khlongtoeiyouthcenter: Striker\n\n--------------------------------\nSource
- : https://www.onefc.com/events/one-friday-fights-159/\nCalendar updated: 2
- 026-09-13T13:29:50.544Z
+ : https://www.onefc.com/events/one-friday-fights-159/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-159
 CATEGORIES:ONE Championship
@@ -1103,9 +1089,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69c371e87b5e662d7de9795e@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260626T113000Z
 DTEND:20260626T162928Z
 SUMMARY:ONE Friday Fights 160 & The Inner Circle 20
@@ -1164,7 +1150,7 @@ DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  𝗶𝘄𝗮𝗿𝗲𝗲 🇹🇭\n• 145lbs/65.8kg Bantamweight Muay Tha
  i\n• Saenchai: ONE 11-6-0 | 32yo | Striker\n• Lukjaomaesaiwaree: Strik
  er\n\n--------------------------------\nSource: https://www.onefc.com/even
- ts/one-friday-fights-160/\nCalendar updated: 2026-09-13T13:29:50.544Z
+ ts/one-friday-fights-160/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-160
 CATEGORIES:ONE Championship
@@ -1172,9 +1158,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6936572b2fbf6a23229602bb@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260627T010000Z
 DTEND:20260627T042935Z
 SUMMARY:ONE Fight Night 44
@@ -1210,7 +1196,7 @@ DESCRIPTION:ONE Championship · Complete Event · 9 bouts\n📍 Lumpinee St
  𝗮𝗻 𝗨𝗽𝘀𝗵𝗮𝘄 🇺🇸\n• 265lbs/120.2kg Heavyweight
   Mixed Martial Arts\n• Elliott: ONE 2-2-0 | 34yo | Striker\n\n----------
  ----------------------\nSource: https://www.onefc.com/events/onefightnight
- 44/\nCalendar updated: 2026-09-13T13:29:50.544Z
+ 44/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/onefightnight44
 CATEGORIES:ONE Championship
@@ -1218,9 +1204,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a02cfece4595818bd34bd3e@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260710T113034Z
 DTEND:20260710T163029Z
 SUMMARY:ONE Friday Fights 161 & The Inner Circle 21
@@ -1273,8 +1259,7 @@ DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  𝗶𝗲𝘀 𝗔𝗯𝗱𝗲𝗹𝗮𝗹𝗶 🇫🇷 vs. 𝗔𝗹𝗶 
  𝗞𝗲𝗹𝗮𝘁 🇹🇷\n• 155lbs/70.3kg Featherweight Muay Thai\n
  • Abdelali: Striker\n• Kelat: Striker\n\n-----------------------------
- ---\nSource: https://www.onefc.com/events/one-friday-fights-161/\nCalendar
-  updated: 2026-09-13T13:29:50.544Z
+ ---\nSource: https://www.onefc.com/events/one-friday-fights-161/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-161-the-inner-circle
 CATEGORIES:ONE Championship
@@ -1282,9 +1267,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a02df32892e5f6e1f306df7@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260717T113025Z
 DTEND:20260717T162922Z
 SUMMARY:ONE Friday Fights 162 & The Inner Circle 22
@@ -1336,8 +1321,7 @@ DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
  🥊 1. 𝗬𝘂𝗸𝗶 𝗬𝗼𝘇𝗮 🇯🇵 vs. 𝗕𝗲𝗻 𝗪
  𝗼𝗼𝗹𝗹𝗶𝘀𝘀 🇬🇧\n• 145lbs/65.8kg Bantamweight Kick
  boxing\n• Yoza: Striker\n• Woolliss: Striker\n\n----------------------
- ----------\nSource: https://www.onefc.com/events/one-friday-fights-162/\nC
- alendar updated: 2026-09-13T13:29:50.544Z
+ ----------\nSource: https://www.onefc.com/events/one-friday-fights-162/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-162
 CATEGORIES:ONE Championship
@@ -1345,9 +1329,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6936578c54637b71645f6503@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260718T010000Z
 DTEND:20260718T050833Z
 SUMMARY:ONE Fight Night 45
@@ -1382,7 +1366,7 @@ DESCRIPTION:ONE Championship · Complete Event · 9 bouts\n📍 Lumpinee St
  𝗿𝗼𝘃 🇺🇿 vs. 𝗥𝘂𝘀𝗹𝗮𝗻 𝗦𝗮𝘁𝗶𝗲
  𝘃 🇷🇺\n• 135lbs/61.2kg Flyweight Mixed Martial Arts\n\n---------
  -----------------------\nSource: https://www.onefc.com/events/onefightnigh
- t45/\nCalendar updated: 2026-09-13T13:29:50.544Z
+ t45/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/onefightnight45
 CATEGORIES:ONE Championship
@@ -1390,9 +1374,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a02dfd5dac0916d5a3c4f48@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260724T113007Z
 DTEND:20260724T163112Z
 SUMMARY:ONE Friday Fights 163 & The Inner Circle 23
@@ -1449,8 +1433,7 @@ DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  𝗼𝘀𝗵𝗶𝗱𝗮 🇯🇵 vs. 𝗟𝗶𝘂 𝗝𝘂𝗻𝗰𝗵
  𝗮𝗼 🇨🇳\n• 135lbs/61.2kg Flyweight Kickboxing\n• Yoshida: ON
  E 5-1-0 | 20yo | Striker\n• Junchao: Striker\n\n------------------------
- --------\nSource: https://www.onefc.com/events/one-friday-fights-163/\nCal
- endar updated: 2026-09-13T13:29:50.544Z
+ --------\nSource: https://www.onefc.com/events/one-friday-fights-163/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-163
 CATEGORIES:ONE Championship
@@ -1458,9 +1441,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a0d8cf5dac0916d5a3c8d0d@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260731T113012Z
 DTEND:20260731T163439Z
 SUMMARY:ONE Friday Fights 164 & The Inner Circle 24
@@ -1515,8 +1498,7 @@ DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
  🇽 vs. 𝗔𝘀𝗮𝗵𝗶 𝗦𝗵𝗶𝗻𝗮𝗴𝗮𝘄𝗮 🇯
  🇵\n• 125lbs/56.7kg Strawweight Muay Thai\n• Villarello: Striker\n
  • Shinagawa: Striker\n\n--------------------------------\nSource: https:
- //www.onefc.com/events/one-friday-fights-164/\nCalendar updated: 2026-09-1
- 3T13:29:50.544Z
+ //www.onefc.com/events/one-friday-fights-164/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-164
 CATEGORIES:ONE Championship
@@ -1524,9 +1506,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a0d8d84dac0916d5a3c8d22@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260807T113047Z
 DTEND:20260807T162520Z
 SUMMARY:ONE Friday Fights 165 & The Inner Circle 25
@@ -1584,7 +1566,7 @@ DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  🇹🇭 vs. 𝗥𝗶𝗸𝘂 𝗜𝘁𝗼 🇯🇵\n• 115lbs/52.2kg Ato
  mweight Muay Thai\n• Suablackmuaythai: Striker\n• Ito: Striker\n\n----
  ----------------------------\nSource: https://www.onefc.com/events/one-fri
- day-fights-165/\nCalendar updated: 2026-09-13T13:29:50.544Z
+ day-fights-165/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-165
 CATEGORIES:ONE Championship
@@ -1592,9 +1574,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69f1ecf64c3778d204243bf2@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260808T083043Z
 DTEND:20260808T120043Z
 SUMMARY:ONE Samurai 2
@@ -1624,7 +1606,7 @@ DESCRIPTION:ONE Championship · Complete Event · 8 bouts\n📍 Venue to be
  𝗮𝗿𝘂 𝗠𝗼𝗿𝗶 🇯🇵 vs. 𝗬𝘂𝘀𝘂𝗸𝗲 𝗦
  𝗮𝘁𝗼 🇯🇵\n• 170lbs/77.1kg Lightweight Mixed Martial Arts\n\
  n--------------------------------\nSource: https://www.onefc.com/events/on
- e-samurai-2/\nCalendar updated: 2026-09-13T13:29:50.544Z
+ e-samurai-2/
 LOCATION:
 URL:https://watch.onefc.com/events/one-samurai-2
 CATEGORIES:ONE Championship
@@ -1632,9 +1614,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a0d8df4892e5f6e1f30a82c@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260814T113041Z
 DTEND:20260814T163417Z
 SUMMARY:ONE Friday Fights 166 & The Inner Circle 26
@@ -1693,7 +1675,7 @@ DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  𝗮𝗻 🇹🇭 vs. 𝗦𝗮𝘆𝗮 𝗜𝘁𝗼 🇯🇵\n• 115lbs/5
  2.2kg Atomweight Muay Thai\n• Dechapan: Striker\n• Ito: Striker\n\n---
  -----------------------------\nSource: https://www.onefc.com/events/one-fr
- iday-fights-166/\nCalendar updated: 2026-09-13T13:29:50.544Z
+ iday-fights-166/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-166
 CATEGORIES:ONE Championship
@@ -1701,9 +1683,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:693657ba370b4d81ea624182@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260815T010000Z
 DTEND:20260815T043128Z
 SUMMARY:ONE Fight Night 46
@@ -1734,7 +1716,7 @@ DESCRIPTION:ONE Championship · Complete Event · 8 bouts\n📍 Lumpinee St
  . 𝗗𝗲𝗻𝗶𝘀 𝗦𝗼𝘂𝘇𝗮 𝗝𝗿\n• 145lbs/65.8kg Ba
  ntamweight Kickboxing\n• Kovtun: Striker\n• Souza: Striker\n\n--------
  ------------------------\nSource: https://www.onefc.com/events/onefightnig
- ht46/\nCalendar updated: 2026-09-13T13:29:50.544Z
+ ht46/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/onefightnight46
 CATEGORIES:ONE Championship
@@ -1742,9 +1724,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a0d8e518a2af95867c74e51@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260821T113016Z
 DTEND:20260821T161846Z
 SUMMARY:ONE Friday Fights 167 & The Inner Circle 27
@@ -1799,8 +1781,7 @@ DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
  vs. 𝗞𝗮𝘇𝘂𝘁𝗲𝗿𝘂 𝗬𝗮𝗺𝗮𝘇𝗮𝗸𝗶 🇯
  🇵\n• 135lbs/61.2kg Flyweight Kickboxing\n• Longstaff: Striker\n• 
  Yamazaki: Striker\n\n--------------------------------\nSource: https://www
- .onefc.com/events/one-friday-fights-167/\nCalendar updated: 2026-09-13T13:
- 29:50.544Z
+ .onefc.com/events/one-friday-fights-167/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-167
 CATEGORIES:ONE Championship
@@ -1808,9 +1789,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a0d8eca8a2af95867c74e58@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260828T113034Z
 DTEND:20260828T163201Z
 SUMMARY:ONE Friday Fights 168 & The Inner Circle 28
@@ -1875,8 +1856,7 @@ DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  🇷 vs. 𝗞𝗲𝗶𝘀𝘂𝗸𝗲 𝗠𝗼𝗻𝗴𝘂𝗰𝗵𝗶 
  🇯🇵\n• 125lbs/56.7kg Strawweight Kickboxing\n• Woo: ONE 0-1-0 | S
  triker\n• Monguchi: ONE 1-1-0 | 31yo | Striker\n\n----------------------
- ----------\nSource: https://www.onefc.com/events/one-friday-fights-168/\nC
- alendar updated: 2026-09-13T13:29:50.544Z
+ ----------\nSource: https://www.onefc.com/events/one-friday-fights-168/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-168
 CATEGORIES:ONE Championship
@@ -1884,9 +1864,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a0d8fb2892e5f6e1f30a839@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260904T113028Z
 DTEND:20260904T163229Z
 SUMMARY:ONE Friday Fights 169 & The Inner Circle 29
@@ -1956,8 +1936,7 @@ DESCRIPTION:ONE Championship · Complete Event · 12 bouts\n📍 Lumpinee S
  dds history:\n  ◦ 13 Sep: Badato 🔴 +105 (2.05) | Kawakami 🟢 -138 (
  1.72)\n\n--------------------------------\nSource: https://www.onefc.com/e
  vents/one-friday-fights-169/\nOdds source: https://www.bestfightodds.com/ 
- · best available line · checked Monday and Friday\nCalendar updated: 202
- 6-09-13T13:29:50.544Z
+ · best available line · checked Monday and Friday
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-169
 CATEGORIES:ONE Championship
@@ -1965,9 +1944,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:693657db2fbf6a23229602bf@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260905T010000Z
 DTEND:20260905T043327Z
 SUMMARY:ONE Fight Night 47
@@ -2016,8 +1995,7 @@ DESCRIPTION:ONE Championship · Complete Event · 8 bouts\n📍 Lumpinee St
  \n• Odds history:\n  ◦ 13 Sep: Nguyen 🔴 +168 (2.68) | Jamari 🟢 -
  200 (1.50)\n\n--------------------------------\nSource: https://www.onefc.
  com/events/onefightnight47/\nOdds source: https://www.bestfightodds.com/ 
- · best available line · checked Monday and Friday\nCalendar updated: 202
- 6-09-13T13:29:50.544Z
+ · best available line · checked Monday and Friday
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/onefightnight47
 CATEGORIES:ONE Championship
@@ -2025,9 +2003,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a0d90228a2af95867c74e73@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260911T113054Z
 DTEND:20260911T173054Z
 SUMMARY:ONE Friday Fights 170 & The Inner Circle 30
@@ -2102,8 +2080,7 @@ DESCRIPTION:ONE Championship · Complete Event · 12 bouts\n📍 Lumpinee S
  ONE 5-1-0 | 21yo | Striker\n• Muaythai: ONE 5-1-0 | 20yo | Striker\n\n--
  ------------------------------\nSource: https://www.onefc.com/events/one-f
  riday-fights-170/\nOdds source: https://www.bestfightodds.com/ · best ava
- ilable line · checked Monday and Friday\nCalendar updated: 2026-09-13T13:
- 29:50.544Z
+ ilable line · checked Monday and Friday
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-170
 CATEGORIES:ONE Championship
@@ -2111,9 +2088,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a2847789f5cea0e8faaa6ef@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260912T083047Z
 DTEND:20260912T143047Z
 SUMMARY:ONE Samurai 3
@@ -2163,7 +2140,6 @@ DESCRIPTION:ONE Championship · Complete Event · 10 bouts\n📍 Yokohama B
  116 (2.16) | Tanaka 🟢 -136 (1.74)\n\n--------------------------------\n
  Source: https://www.onefc.com/events/one-samurai-3/\nOdds source: https://
  www.bestfightodds.com/ · best available line · checked Monday and Friday
- \nCalendar updated: 2026-09-13T13:29:50.544Z
 LOCATION:Yokohama Buntai\, Yokohama
 URL:https://watch.onefc.com/events/one-samurai-3
 CATEGORIES:ONE Championship
@@ -2171,9 +2147,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a0d908edac0916d5a3c8d70@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260918T113007Z
 DTEND:20260918T173007Z
 SUMMARY:ONE Friday Fights 171 & The Inner Circle 31
@@ -2182,7 +2158,7 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
  𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
  ---------------------------\nSource: https://watch.onefc.com/events/one-fr
- iday-fights-171\nCalendar updated: 2026-09-13T13:29:50.544Z
+ iday-fights-171
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-171
 CATEGORIES:ONE Championship
@@ -2190,9 +2166,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a0d90e58a2af95867c74e83@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20260925T113030Z
 DTEND:20260925T173030Z
 SUMMARY:ONE Friday Fights 172 & The Inner Circle 32
@@ -2205,7 +2181,7 @@ DESCRIPTION:ONE Championship · Complete Event · 1 bout\n📍 Lumpinee Sta
  • 135lbs/61.2kg Flyweight Kickboxing\n• Jitmuangnon: ONE 8-4-0 | 30yo 
  | Striker\n• Torfunfarm: ONE 3-2-0 | 28yo | Striker\n\n-----------------
  ---------------\nSource: https://www.onefc.com/events/one-friday-fights-17
- 2/\nCalendar updated: 2026-09-13T13:29:50.544Z
+ 2/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-172
 CATEGORIES:ONE Championship
@@ -2213,9 +2189,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a9682efd3539b67790eccd4@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261002T113003Z
 DTEND:20261002T153003Z
 SUMMARY:ONE Friday Fights 173 & The Inner Circle 33
@@ -2224,7 +2200,7 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
  𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
  ---------------------------\nSource: https://watch.onefc.com/events/one-fr
- iday-fights-173\nCalendar updated: 2026-09-13T13:29:50.544Z
+ iday-fights-173
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-173
 CATEGORIES:ONE Championship
@@ -2232,9 +2208,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69365982370b4d81ea624186@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261003T020000Z
 DTEND:20261003T080000Z
 SUMMARY:ONE Fight Night 48
@@ -2249,8 +2225,7 @@ DESCRIPTION:ONE Championship · Complete Event · 2 bouts\n📍 Lumpinee St
  𝗮𝗿𝗹𝗶𝗲 𝗚𝘂𝗲𝘀𝘁 🇬🇧\n• 155lbs/70.3kg Feat
  herweight Muay Thai\n• Lessei: ONE 3-3-0 | 30yo | Striker\n• Guest: ON
  E 1-0-0 | 30yo | Striker\n\n--------------------------------\nSource: http
- s://www.onefc.com/events/onefightnight48/\nCalendar updated: 2026-09-13T13
- :29:50.544Z
+ s://www.onefc.com/events/onefightnight48/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/onefightnight48
 CATEGORIES:ONE Championship
@@ -2258,9 +2233,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a968560d3539b67790eccdb@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261009T113003Z
 DTEND:20261009T153003Z
 SUMMARY:ONE Friday Fights 174 & The Inner Circle 34
@@ -2269,7 +2244,7 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
  𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
  ---------------------------\nSource: https://watch.onefc.com/events/one-fr
- iday-fights-174\nCalendar updated: 2026-09-13T13:29:50.544Z
+ iday-fights-174
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-174
 CATEGORIES:ONE Championship
@@ -2277,9 +2252,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a9685c74f4a09743472c759@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261016T113016Z
 DTEND:20261016T153016Z
 SUMMARY:ONE Friday Fights 175 & The Inner Circle 35
@@ -2288,7 +2263,7 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
  𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
  ---------------------------\nSource: https://watch.onefc.com/events/one-fr
- iday-fights-175\nCalendar updated: 2026-09-13T13:29:50.544Z
+ iday-fights-175
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-175
 CATEGORIES:ONE Championship
@@ -2296,9 +2271,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a3b7d34c90b50e63a5105a9@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261017T070039Z
 DTEND:20261017T130039Z
 SUMMARY:ONE Samurai 4
@@ -2308,30 +2283,33 @@ DESCRIPTION:ONE Championship · Complete Event · 8 bouts\n📍 Ariake Aren
  ----------\n\n🥊 8. 𝗝𝗼𝗻𝗮𝘁𝗵𝗮𝗻 𝗛𝗮𝗴𝗴
  𝗲𝗿𝘁𝘆 🇬🇧 vs. 𝗛𝗶𝗿𝗼𝗸𝗶 𝗔𝗸𝗶𝗺
  𝗼𝘁𝗼 🇯🇵\n• 145lbs/65.8kg Bantamweight World Championship\n
- • Haggerty: Striker\n• Akimoto: Striker\n\n🥊 7. 𝗡𝗮𝗱𝗮
- 𝗸𝗮 🇯🇵 vs. 𝗥𝗶𝗳𝗱𝗲𝗮𝗻 𝗠𝗮𝘀𝗱𝗼
- 𝗿 🇲🇾\n• 115lbs/52.2kg Atomweight World Championship\n• Nadaka
- : ONE 6-0-0 | 25yo | Striker\n• Masdor: Striker\n\n🥊 6. 𝗠𝗮𝘀
- 𝗮𝗮𝗸𝗶 𝗡𝗼𝗶𝗿𝗶 🇯🇵 vs. 𝗠𝗼𝗵𝗮𝗺
- 𝗺𝗮𝗱 𝗦𝗶𝗮𝘀𝗮𝗿𝗮𝗻𝗶 🇮🇷\n• 155lbs/70.
- 3kg Featherweight Kickboxing\n• Noiri: Striker\n• Siasarani: Striker\n
- \n🥊 5. 𝗠𝗮𝗿𝗮𝘁 𝗚𝗿𝗶𝗴𝗼𝗿𝗶𝗮𝗻 🇦
- 🇲 vs. 𝗟𝘂𝗼 𝗖𝗵𝗮𝗼 🇨🇳\n• 155lbs/70.3kg Feather
- weight Kickboxing\n• Grigorian: Striker\n• Chao: Striker\n\n🥊 4. 
- 𝗥𝘂𝗸𝗶𝘆𝗮 𝗔𝗻𝗽𝗼 🇯🇵 vs. 𝗕𝗼𝗴𝗱
- 𝗮𝗻 𝗦𝗵𝘂𝗺𝗮𝗿𝗼𝘃 🇧🇬\n• 170lbs/77.1kg Ligh
- tweight Kickboxing\n• Anpo: Striker\n• Shumarov: Striker\n\n🥊 3. 
- 𝗜𝘁𝘀𝘂𝗸𝗶 𝗛𝗶𝗿𝗮𝘁𝗮 🇯🇵 vs. 𝗝𝗶
- 𝗵𝗶𝗻 𝗥𝗮𝗱𝘇𝘂𝗮𝗻 🇲🇾\n• 115lbs/52.2kg Atom
- weight Mixed Martial Arts\n\n🥊 2. 𝗬𝘂𝗸𝗶 𝗬𝗼𝘇𝗮 
- 🇯🇵 vs. 𝗡𝗮𝗯𝗶𝗹 𝗔𝗻𝗮𝗻𝗲 🇩🇿/🇹🇭\n
- • 145lbs/65.8kg Bantamweight Kickboxing\n• Yoza: Striker\n• Anane: S
- triker\n\n🥊 1. 𝗦𝗵𝗶𝗻𝘁𝗮𝗿𝗼 𝗠𝗮𝘁𝘀𝘂
- 𝗸𝘂𝗿𝗮 🇯🇵 vs. 𝗦𝗶𝗻𝘀𝗮𝗺𝘂𝘁 𝗞𝗹
- 𝗶𝗻𝗺𝗲𝗲 🇹🇭\n• 170lbs/77.1kg Lightweight Kickboxing\n
- • Matsukura: Striker\n• Klinmee: Striker\n\n--------------------------
- ------\nSource: https://www.onefc.com/events/one-samurai-4/\nCalendar upda
- ted: 2026-09-13T13:29:50.544Z
+ • Haggerty: ONE 10-3-0 | 29yo | Striker\n• Akimoto: ONE 9-4-0 | 34yo |
+  Striker\n\n🥊 7. 𝗡𝗮𝗱𝗮𝗸𝗮 🇯🇵 vs. 𝗥𝗶𝗳𝗱
+ 𝗲𝗮𝗻 𝗠𝗮𝘀𝗱𝗼𝗿 🇲🇾\n• 115lbs/52.2kg Atomweig
+ ht World Championship\n• Nadaka: ONE 6-0-0 | 25yo | Striker\n• Masdor:
+  ONE 7-1-0 | 23yo | Striker\n\n🥊 6. 𝗠𝗮𝘀𝗮𝗮𝗸𝗶 𝗡
+ 𝗼𝗶𝗿𝗶 🇯🇵 vs. 𝗠𝗼𝗵𝗮𝗺𝗺𝗮𝗱 𝗦𝗶
+ 𝗮𝘀𝗮𝗿𝗮𝗻𝗶 🇮🇷\n• 155lbs/70.3kg Featherweight Kic
+ kboxing\n• Noiri: ONE 3-3-0 | 33yo | Striker\n• Siasarani: ONE 10-2-0 
+ | 24yo | Striker\n\n🥊 5. 𝗠𝗮𝗿𝗮𝘁 𝗚𝗿𝗶𝗴𝗼𝗿
+ 𝗶𝗮𝗻 🇦🇲 vs. 𝗟𝘂𝗼 𝗖𝗵𝗮𝗼 🇨🇳\n• 155l
+ bs/70.3kg Featherweight Kickboxing\n• Grigorian: ONE 8-3-0 | 35yo | Stri
+ ker\n• Chao: ONE 6-1-0 | 25yo | Striker\n\n🥊 4. 𝗥𝘂𝗸𝗶𝘆
+ 𝗮 𝗔𝗻𝗽𝗼 🇯🇵 vs. 𝗕𝗼𝗴𝗱𝗮𝗻 𝗦𝗵𝘂
+ 𝗺𝗮𝗿𝗼𝘃 🇧🇬\n• 170lbs/77.1kg Lightweight Kickboxing\n
+ • Anpo: ONE 0-1-0 | 30yo | Striker\n• Shumarov: ONE 3-1-0 | 29yo | Str
+ iker\n\n🥊 3. 𝗜𝘁𝘀𝘂𝗸𝗶 𝗛𝗶𝗿𝗮𝘁𝗮 🇯🇵
+  vs. 𝗝𝗶𝗵𝗶𝗻 𝗥𝗮𝗱𝘇𝘂𝗮𝗻 🇲🇾\n• 115lb
+ s/52.2kg Atomweight Mixed Martial Arts\n• Hirata: ONE 7-5-0 | 27yo | Gra
+ ppler\n• Radzuan: ONE 9-6-0 | 28yo | Striker\n\n🥊 2. 𝗬𝘂𝗸𝗶
+  𝗬𝗼𝘇𝗮 🇯🇵 vs. 𝗡𝗮𝗯𝗶𝗹 𝗔𝗻𝗮𝗻𝗲 
+ 🇩🇿/🇹🇭\n• 145lbs/65.8kg Bantamweight Kickboxing\n• Yoza: ON
+ E 4-1-0 | 28yo | Striker\n• Anane: ONE 8-3-0 | 22yo | Striker\n\n🥊 1.
+  𝗦𝗵𝗶𝗻𝘁𝗮𝗿𝗼 𝗠𝗮𝘁𝘀𝘂𝗸𝘂𝗿𝗮 
+ 🇯🇵 vs. 𝗦𝗶𝗻𝘀𝗮𝗺𝘂𝘁 𝗞𝗹𝗶𝗻𝗺𝗲𝗲
+  🇹🇭\n• 170lbs/77.1kg Lightweight Kickboxing\n• Matsukura: Strike
+ r\n• Klinmee: ONE 5-6-0 | 30yo | Striker\n\n----------------------------
+ ----\nSource: https://www.onefc.com/events/one-samurai-4/
 LOCATION:Ariake Arena\, Tokyo
 URL:https://watch.onefc.com/events/one-samurai-4
 CATEGORIES:ONE Championship
@@ -2339,9 +2317,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a968b61d3539b67790ecd51@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261030T113006Z
 DTEND:20261030T153006Z
 SUMMARY:ONE Friday Fights 176 & The Inner Circle 36
@@ -2350,7 +2328,7 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
  𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
  ---------------------------\nSource: https://watch.onefc.com/events/one-fr
- iday-fights-176\nCalendar updated: 2026-09-13T13:29:50.544Z
+ iday-fights-176
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-176
 CATEGORIES:ONE Championship
@@ -2358,9 +2336,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a968ba710c90c3a3d15f98b@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261106T113018Z
 DTEND:20261106T153018Z
 SUMMARY:ONE Friday Fights 177 & The Inner Circle 37
@@ -2369,7 +2347,7 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
  𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
  ---------------------------\nSource: https://watch.onefc.com/events/one-fr
- iday-fights-177\nCalendar updated: 2026-09-13T13:29:50.544Z
+ iday-fights-177
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-177
 CATEGORIES:ONE Championship
@@ -2377,9 +2355,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:693659a52fbf6a23229602c3@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261107T020000Z
 DTEND:20261107T080000Z
 SUMMARY:ONE Fight Night 49
@@ -2388,7 +2366,7 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
  𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
  ---------------------------\nSource: https://watch.onefc.com/events/onefig
- htnight49\nCalendar updated: 2026-09-13T13:29:50.544Z
+ htnight49
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/onefightnight49
 CATEGORIES:ONE Championship
@@ -2396,9 +2374,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a968c464f4a09743472c796@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261113T113058Z
 DTEND:20261113T153058Z
 SUMMARY:ONE Friday Fights 178 & The Inner Circle 38
@@ -2407,7 +2385,7 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
  𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
  ---------------------------\nSource: https://watch.onefc.com/events/one-fr
- iday-fights-178\nCalendar updated: 2026-09-13T13:29:50.544Z
+ iday-fights-178
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-178
 CATEGORIES:ONE Championship
@@ -2415,9 +2393,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a8542c7328afe156d51ec22@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261118T083035Z
 DTEND:20261118T143035Z
 SUMMARY:ONE SAMURAI 5
@@ -2426,9 +2404,9 @@ DESCRIPTION:ONE Championship · Complete Event · 1 bout\n📍 Venue to be
  ----------------------------\n𝗕𝗢𝗨𝗧𝗦\n----------------------
  ----------\n\n🥊 1. 𝗝𝗼𝘀𝗵𝘂𝗮 𝗣𝗮𝗰𝗶𝗼 🇵
  🇭 vs. 𝗞𝗲𝗶𝘁𝗼 𝗬𝗮𝗺𝗮𝗸𝗶𝘁𝗮 🇯🇵\n
- • 125lbs/56.7kg Strawweight World Championship\n\n----------------------
- ----------\nSource: https://www.onefc.com/events/one-samurai-5/\nCalendar 
- updated: 2026-09-13T13:29:50.544Z
+ • 125lbs/56.7kg Strawweight World Championship\n• Pacio: ONE 15-5-0 | 
+ 30yo\n• Yamakita: ONE 6-1-0 | 30yo | Grappler\n\n-----------------------
+ ---------\nSource: https://www.onefc.com/events/one-samurai-5/
 LOCATION:
 URL:https://watch.onefc.com/events/one-samurai-5
 CATEGORIES:ONE Championship
@@ -2436,9 +2414,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a968c7d10c90c3a3d15f98f@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261120T113014Z
 DTEND:20261120T153014Z
 SUMMARY:ONE Friday Fights 179 & The Inner Circle 39
@@ -2447,7 +2425,7 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
  𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
  ---------------------------\nSource: https://watch.onefc.com/events/one-fr
- iday-fights-179\nCalendar updated: 2026-09-13T13:29:50.544Z
+ iday-fights-179
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-179
 CATEGORIES:ONE Championship
@@ -2455,9 +2433,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a968cbcd3539b67790ecd55@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261127T113011Z
 DTEND:20261127T153011Z
 SUMMARY:ONE Friday Fights 180 & The Inner Circle 40
@@ -2466,7 +2444,7 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
  𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
  ---------------------------\nSource: https://watch.onefc.com/events/one-fr
- iday-fights-180\nCalendar updated: 2026-09-13T13:29:50.544Z
+ iday-fights-180
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-180
 CATEGORIES:ONE Championship
@@ -2474,9 +2452,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a854312744b2bfc37290f0c@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261202T083023Z
 DTEND:20261202T143023Z
 SUMMARY:ONE SAMURAI 6
@@ -2485,7 +2463,7 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
  𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
  ---------------------------\nSource: https://watch.onefc.com/events/one-sa
- murai-6\nCalendar updated: 2026-09-13T13:29:50.544Z
+ murai-6
 LOCATION:Yokohama Buntai\, Yokohama
 URL:https://watch.onefc.com/events/one-samurai-6
 CATEGORIES:ONE Championship
@@ -2493,9 +2471,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a968cef10c90c3a3d15f993@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261204T113008Z
 DTEND:20261204T153008Z
 SUMMARY:ONE Friday Fights 181 & The Inner Circle 41
@@ -2504,7 +2482,7 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
  𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
  ---------------------------\nSource: https://watch.onefc.com/events/one-fr
- iday-fights-181\nCalendar updated: 2026-09-13T13:29:50.544Z
+ iday-fights-181
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-181
 CATEGORIES:ONE Championship
@@ -2512,9 +2490,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a968d30d3539b67790ecd59@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261211T113007Z
 DTEND:20261211T153007Z
 SUMMARY:ONE Friday Fights 182 & The Inner Circle 42
@@ -2523,7 +2501,7 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
  𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
  ---------------------------\nSource: https://watch.onefc.com/events/one-fr
- iday-fights-182\nCalendar updated: 2026-09-13T13:29:50.544Z
+ iday-fights-182
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-182
 CATEGORIES:ONE Championship
@@ -2531,9 +2509,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69d5f15028ec3730786e73de@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261212T020017Z
 DTEND:20261212T080017Z
 SUMMARY:ONE Fight Night 50
@@ -2542,7 +2520,7 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
  𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
  ---------------------------\nSource: https://watch.onefc.com/events/one-fi
- ght-night-50\nCalendar updated: 2026-09-13T13:29:50.544Z
+ ght-night-50
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-fight-night-50
 CATEGORIES:ONE Championship
@@ -2550,9 +2528,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a968d70687675b16b9f8e3f@mma-calendar-one
-DTSTAMP:20260913T132950Z
-LAST-MODIFIED:20260913T132950Z
-SEQUENCE:1789306190
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260913T144507Z
+SEQUENCE:0
 DTSTART:20261218T113016Z
 DTEND:20261218T153016Z
 SUMMARY:ONE Friday Fights 183 & The Inner Circle 43
@@ -2561,7 +2539,7 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
  𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
  ---------------------------\nSource: https://watch.onefc.com/events/one-fr
- iday-fights-183\nCalendar updated: 2026-09-13T13:29:50.544Z
+ iday-fights-183
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-183
 CATEGORIES:ONE Championship

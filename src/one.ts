@@ -8,6 +8,7 @@ import {
   shortPromotionFighterName,
   type PromotionOddsSnapshot,
 } from "./promotion-odds.js";
+import { fallbackRevision, type RevisionProvider } from "./revision.js";
 
 export const ONE_CALENDAR_URL = "https://calendar.onefc.com/ONE-Championship-events.ics";
 export const ONE_EVENTS_URL = "https://www.onefc.com/events/";
@@ -158,13 +159,49 @@ export function parseOneCalendar(source: string): OneEvent[] {
   return events.sort((left, right) => left.start.localeCompare(right.start));
 }
 
-export function mergeOneEvents(storedEvents: OneEvent[], currentEvents: OneEvent[]): OneEvent[] {
+function oneStartDate(event: OneEvent): Date | null {
+  const match = event.start.match(/^(\d{4})(\d{2})(\d{2})(?:T(\d{2})(\d{2})(\d{2})Z?)?/);
+  if (!match) return null;
+  return new Date(Date.UTC(
+    Number(match[1]), Number(match[2]) - 1, Number(match[3]),
+    Number(match[4] ?? 0), Number(match[5] ?? 0), Number(match[6] ?? 0),
+  ));
+}
+
+function oneAliasCandidate(storedEvents: OneEvent[], event: OneEvent): OneEvent | undefined {
+  const start = oneStartDate(event);
+  if (!start) return undefined;
+  const candidates = storedEvents.filter((stored) => {
+    const storedStart = oneStartDate(stored);
+    return oneEventKey(stored.summary) === oneEventKey(event.summary)
+      && Boolean(storedStart && Math.abs(storedStart.valueOf() - start.valueOf()) <= 14 * 24 * 60 * 60 * 1000);
+  });
+  return candidates.length === 1 ? candidates[0] : undefined;
+}
+
+function freezeOneBout(current: OneBout, stored: OneBout | undefined, frozen: boolean): OneBout {
+  if (!stored) return current;
+  if (!frozen) return { ...stored, ...current };
+  return {
+    ...current,
+    ...stored,
+    redName: current.redName,
+    blueName: current.blueName,
+    details: stored.details || current.details,
+  };
+}
+
+export function mergeOneEvents(storedEvents: OneEvent[], currentEvents: OneEvent[], now = new Date()): OneEvent[] {
   const merged = new Map(storedEvents.map((event) => [event.uid, event]));
   for (const event of currentEvents) {
-    const stored = merged.get(event.uid);
+    const stored = merged.get(event.uid) ?? oneAliasCandidate(storedEvents, event);
+    const uid = stored?.uid ?? event.uid;
+    const frozen = Boolean(stored && oneStartDate(stored) && oneStartDate(stored)! <= now);
     const storedBouts = new Map((stored?.bouts ?? []).map((bout) => [oneBoutKey(bout.redName, bout.blueName), bout]));
-    const bouts = event.bouts.map((bout) => ({ ...storedBouts.get(oneBoutKey(bout.redName, bout.blueName)), ...bout }));
-    merged.set(event.uid, { ...stored, ...event, bouts, detailsUrl: stored?.detailsUrl });
+    const bouts = event.bouts.length
+      ? event.bouts.map((bout) => freezeOneBout(bout, storedBouts.get(oneBoutKey(bout.redName, bout.blueName)), frozen))
+      : (stored?.bouts ?? []);
+    merged.set(uid, { ...stored, ...event, uid, bouts, detailsUrl: event.detailsUrl ?? stored?.detailsUrl });
   }
   return [...merged.values()].sort((left, right) => left.start.localeCompare(right.start));
 }
@@ -240,10 +277,15 @@ export async function enrichOneEventDetails(events: OneEvent[], pages = [1, 2, 3
     }
   }));
   const urls = new Map(listings.flatMap((listing) => [...listing]));
-  const candidates = events.filter((event) =>
-    event.bouts.some((bout) => bout.redCountry === undefined || bout.blueCountry === undefined || !bout.redProfileUrl || !bout.blueProfileUrl)
-    && urls.has(oneEventKey(event.summary))
-  ).sort((left, right) => eventDistance(left.start, now) - eventDistance(right.start, now)).slice(0, 8);
+  const candidates = events.filter((event) => {
+    const frozen = Boolean(oneStartDate(event) && oneStartDate(event)! <= now);
+    const hasHistoricalSnapshot = event.bouts.some((bout) =>
+      Boolean(bout.redCountry || bout.blueCountry || bout.redRecord || bout.blueRecord || bout.redAge || bout.blueAge)
+    );
+    return (!frozen || !hasHistoricalSnapshot)
+      && event.bouts.some((bout) => bout.redCountry === undefined || bout.blueCountry === undefined || !bout.redProfileUrl || !bout.blueProfileUrl)
+      && urls.has(oneEventKey(event.summary));
+  }).sort((left, right) => eventDistance(left.start, now) - eventDistance(right.start, now)).slice(0, 8);
 
   for (const event of candidates) {
     const detailsUrl = urls.get(oneEventKey(event.summary))!;
@@ -312,9 +354,13 @@ function disciplineStyle(details: string): string | null {
 export async function enrichOneFighters(events: OneEvent[], store: OneFighterStore, now = new Date()): Promise<void> {
   store.profiles ??= {};
   const prioritizedEvents = [...events].sort((left, right) => eventDistance(left.start, now) - eventDistance(right.start, now));
-  const urls = [...new Set(prioritizedEvents.flatMap((event) => event.bouts.flatMap((bout) =>
-    [bout.redProfileUrl, bout.blueProfileUrl]
-  )).filter((url): url is string => Boolean(url)))];
+  const urls = [...new Set(prioritizedEvents.flatMap((event) => {
+    const frozen = Boolean(oneStartDate(event) && oneStartDate(event)! <= now);
+    return event.bouts.flatMap((bout) => {
+      const hasSnapshot = Boolean(bout.redRecord || bout.redAge || bout.redCountry || bout.blueRecord || bout.blueAge || bout.blueCountry);
+      return frozen && hasSnapshot ? [] : [bout.redProfileUrl, bout.blueProfileUrl];
+    });
+  }).filter((url): url is string => Boolean(url)))];
   const due = urls.filter((url) => !oneProfileIsFresh(store.profiles[url], now)).slice(0, 24);
   for (const url of due) {
     try {
@@ -327,17 +373,22 @@ export async function enrichOneFighters(events: OneEvent[], store: OneFighterSto
     await pause(750);
   }
   for (const event of events) {
+    const frozen = Boolean(oneStartDate(event) && oneStartDate(event)! <= now);
     for (const bout of event.bouts) {
       const red = bout.redProfileUrl ? store.profiles[bout.redProfileUrl] : undefined;
       const blue = bout.blueProfileUrl ? store.profiles[bout.blueProfileUrl] : undefined;
-      bout.redCountry = red?.country || bout.redCountry;
-      bout.blueCountry = blue?.country || bout.blueCountry;
-      bout.redAge = red?.age ?? bout.redAge;
-      bout.blueAge = blue?.age ?? bout.blueAge;
-      bout.redRecord = red?.record ?? bout.redRecord;
-      bout.blueRecord = blue?.record ?? bout.blueRecord;
-      bout.redStyle = disciplineStyle(bout.details) ?? red?.style ?? bout.redStyle;
-      bout.blueStyle = disciplineStyle(bout.details) ?? blue?.style ?? bout.blueStyle;
+      if (!frozen || !(bout.redRecord || bout.redAge || bout.redCountry)) {
+        bout.redCountry = red?.country || bout.redCountry;
+        bout.redAge = red?.age ?? bout.redAge;
+        bout.redRecord = red?.record ?? bout.redRecord;
+        bout.redStyle = disciplineStyle(bout.details) ?? red?.style ?? bout.redStyle;
+      }
+      if (!frozen || !(bout.blueRecord || bout.blueAge || bout.blueCountry)) {
+        bout.blueCountry = blue?.country || bout.blueCountry;
+        bout.blueAge = blue?.age ?? bout.blueAge;
+        bout.blueRecord = blue?.record ?? bout.blueRecord;
+        bout.blueStyle = disciplineStyle(bout.details) ?? blue?.style ?? bout.blueStyle;
+      }
     }
   }
 }
@@ -377,7 +428,7 @@ function oneFighterDetail(
   return details.length ? `• ${shortPromotionFighterName(name)}: ${details.join(" | ")}` : null;
 }
 
-function descriptionFor(event: OneEvent, generatedAt: Date): string {
+function descriptionFor(event: OneEvent): string {
   const boutCount = event.bouts.length === 1 ? "1 bout" : `${event.bouts.length} bouts`;
   const header = [
     `ONE Championship · Complete Event · ${event.bouts.length ? boutCount : "card details to be announced"}`,
@@ -408,11 +459,11 @@ function descriptionFor(event: OneEvent, generatedAt: Date): string {
     header,
     `--------------------------------\n${unicodeBold("BOUTS")}\n--------------------------------`,
     bouts,
-    `--------------------------------\nSource: ${event.detailsUrl ?? event.url}${oddsSource}\nCalendar updated: ${generatedAt.toISOString()}`,
+    `--------------------------------\nSource: ${event.detailsUrl ?? event.url}${oddsSource}`,
   ].join("\n\n");
 }
 
-export function renderOneCalendar(events: OneEvent[], generatedAt = new Date()): string {
+export function renderOneCalendar(events: OneEvent[], generatedAt = new Date(), revisionProvider?: RevisionProvider): string {
   const lines = [
     "BEGIN:VCALENDAR",
     "VERSION:2.0",
@@ -426,20 +477,25 @@ export function renderOneCalendar(events: OneEvent[], generatedAt = new Date()):
     "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
     "X-PUBLISHED-TTL:PT6H",
   ];
-  const stamp = generatedAt.toISOString().replace(/[-:]/g, "").replace(/\.\d{3}Z$/, "Z");
-  const revision = Math.floor(generatedAt.valueOf() / 1000);
   for (const event of events) {
     const status = /^(?:CONFIRMED|TENTATIVE|CANCELLED)$/.test(event.status) ? event.status : "CONFIRMED";
+    const description = descriptionFor(event);
+    const revision = revisionProvider?.(`one:${event.uid}`, {
+      start: event.start, end: event.end, summary: event.summary, description,
+      location: event.location, url: event.url, status,
+    }) ?? fallbackRevision(generatedAt);
+    const created = revision.createdAt.toISOString().replace(/[-:]/g, "").replace(/\.\d{3}Z$/, "Z");
+    const modified = revision.lastModified.toISOString().replace(/[-:]/g, "").replace(/\.\d{3}Z$/, "Z");
     lines.push(
       "BEGIN:VEVENT",
       `UID:${escapeIcs(`${event.uid}@mma-calendar-one`)}`,
-      `DTSTAMP:${stamp}`,
-      `LAST-MODIFIED:${stamp}`,
-      `SEQUENCE:${revision}`,
+      `DTSTAMP:${created}`,
+      `LAST-MODIFIED:${modified}`,
+      `SEQUENCE:${revision.sequence}`,
       `DTSTART:${event.start}`,
       `DTEND:${event.end}`,
       `SUMMARY:${escapeIcs(event.summary)}`,
-      `DESCRIPTION:${escapeIcs(descriptionFor(event, generatedAt))}`,
+      `DESCRIPTION:${escapeIcs(description)}`,
       `LOCATION:${escapeIcs(event.location)}`,
       `URL:${escapeIcs(event.url)}`,
       "CATEGORIES:ONE Championship",

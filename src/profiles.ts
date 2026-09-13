@@ -11,14 +11,31 @@ function profileIsFresh(profile: AthleteProfile | undefined, now: Date): boolean
     && now.valueOf() - checkedAt.valueOf() < 7 * DAY_MS;
 }
 
+function eventHasStarted(event: UfcEvent, now: Date): boolean {
+  const start = event.sections
+    .map((section) => section.start)
+    .filter((value): value is Date => Boolean(value))
+    .sort((left, right) => left.valueOf() - right.valueOf())[0] ?? event.heroStart;
+  return Boolean(start && start <= now);
+}
+
+function fighterNeedsInitialSnapshot(fighter: UfcEvent["sections"][number]["fights"][number]["red"]): boolean {
+  return !fighter.record && !fighter.birthDate && !fighter.familyName && !fighter.fightingStyle;
+}
+
 export async function enrichFighterProfiles(events: UfcEvent[], store: FighterStore, now = new Date()): Promise<UfcEvent[]> {
   store.fighters ??= {};
   const urls = new Set<string>();
   for (const event of events) {
+    const frozen = eventHasStarted(event, now);
     for (const section of event.sections) {
       for (const fight of section.fights) {
         for (const fighter of [fight.red, fight.blue]) {
-          if (fighter.profileUrl && !profileIsFresh(store.fighters[fighter.profileUrl], now)) urls.add(fighter.profileUrl);
+          if (
+            fighter.profileUrl
+            && (!frozen || fighterNeedsInitialSnapshot(fighter))
+            && !profileIsFresh(store.fighters[fighter.profileUrl], now)
+          ) urls.add(fighter.profileUrl);
         }
       }
     }
@@ -34,15 +51,18 @@ export async function enrichFighterProfiles(events: UfcEvent[], store: FighterSt
   });
 
   for (const event of events) {
+    const frozen = eventHasStarted(event, now);
     for (const section of event.sections) {
       for (const fight of section.fights) {
         for (const fighter of [fight.red, fight.blue]) {
           const profile: Partial<AthleteProfile> = fighter.profileUrl ? store.fighters[fighter.profileUrl] ?? {} : {};
           if (profile.record) profile.record = profile.record.replace(/\s*\(W-L-D\)$/i, "");
-          fighter.record = profile.record ?? null;
-          fighter.birthDate = profile.birthDate ?? null;
-          fighter.familyName = profile.familyName ?? null;
-          fighter.fightingStyle = profile.fightingStyle ?? null;
+          if (!frozen || fighterNeedsInitialSnapshot(fighter)) {
+            fighter.record = profile.record ?? fighter.record ?? null;
+            fighter.birthDate = profile.birthDate ?? fighter.birthDate ?? null;
+            fighter.familyName = profile.familyName ?? fighter.familyName ?? null;
+            fighter.fightingStyle = profile.fightingStyle ?? fighter.fightingStyle ?? null;
+          }
         }
       }
     }

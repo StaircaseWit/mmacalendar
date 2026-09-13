@@ -13,14 +13,20 @@ import {
   BEST_FIGHT_ODDS_URL,
   bestFightOddsSearchTerm,
   findBestFightOddsEventUrl,
+  fighterPairKey,
   formatPromotionOdds,
   matchBestFightOddsMarkets,
+  migratePromotionOddsStore,
   parseBestFightOdds,
+  promotionOddsKey,
   promotionOddsForBout,
   promotionOddsRefreshIsDue,
   updatePromotionOddsStore,
   type PromotionOddsStore,
 } from "../src/promotion-odds.js";
+import { assertCandidateQuality } from "../src/health.js";
+import { createRevisionProvider, emptyRevisionStore } from "../src/revision.js";
+import { validateCalendar } from "../src/validate.js";
 import type { EventStore, OddsStore } from "../src/types.js";
 
 const eventHtml = `
@@ -172,7 +178,7 @@ test("preserves an explicit UFC cancellation in calendar status", () => {
   const event = parseEventPage(cancelledPage, "https://www.ufc.com/event/noche-cancelled");
   const events = reconcileEvents({ events: {} }, [event], new Date("2026-09-12T12:00:00Z"));
   const output = renderCalendar(events, { generatedAt: new Date("2026-09-12T12:00:00Z") }).replace(/\r\n[ \t]/g, "");
-  assert.match(output, /Event status: Cancelled · verified 12 Sep 2026/);
+  assert.match(output, /Event status: Cancelled/);
   assert.match(output, /STATUS:CANCELLED/);
 });
 
@@ -199,7 +205,7 @@ test("renders UTC calendar data so calendar clients localise it", () => {
   assert.match(unfolded, /◦ 12 Sep: Silva 🟢 -425 \(1.24\) \| Delgado 🔴 \+325 \(4.25\)/);
   assert.match(unfolded, new RegExp(`--------------------------------\\\\n${unicodeBold("BOUTS")}`));
   assert.match(unfolded, /X-ALT-DESC;FMTTYPE=text\/html:<html><body><p>UFC/);
-  assert.match(unfolded, /Event status: Scheduled · verified 12 Sep 2026/);
+  assert.match(unfolded, /Event status: Scheduled/);
   assert.doesNotMatch(unfolded, /TRANSP:TRANSPARENT/);
 
   const combinedOutput = renderCombinedCalendar([event], { generatedAt: new Date("2026-09-12T12:00:00Z") }).replace(/\r\n[ \t]/g, "");
@@ -259,24 +265,29 @@ test("collects the best available BestFightOdds lines and keeps change-only hist
 
   assert.deepEqual(matchBestFightOddsMarkets([{
     ...markets[0]!, redName: "Jose Delgado", blueName: "Jean Silva", redOdds: "+325", blueOdds: "-425",
-  }], [{ eventName: "Noche UFC", redName: "Jean Silva", blueName: "Jose Miguel Delgado" }]), [{
-    ...markets[0]!, redName: "Jean Silva", blueName: "Jose Miguel Delgado", redOdds: "-425", blueOdds: "+325",
+  }], [{ promotion: "ufc", eventId: "noche-test", eventName: "Noche UFC", redName: "Jean Silva", blueName: "Jose Miguel Delgado" }]), [{
+    ...markets[0]!, promotion: "ufc", eventId: "noche-test", eventName: "Noche UFC",
+    redName: "Jean Silva", blueName: "Jose Miguel Delgado", redOdds: "-425", blueOdds: "+325",
   }]);
 
   const store: PromotionOddsStore = { lastCheckedAt: null, fights: {} };
   const firstCheck = new Date("2026-09-13T12:00:00Z");
-  updatePromotionOddsStore(store, markets, firstCheck);
+  const pflMarkets = matchBestFightOddsMarkets(markets, [{
+    promotion: "pfl", eventId: "pfl-test", eventName: "PFL Test",
+    redName: "AJ McKee", blueName: "Adam Borics",
+  }]);
+  updatePromotionOddsStore(store, pflMarkets, firstCheck);
   assert.equal(promotionOddsRefreshIsDue(store, new Date("2026-09-16T11:59:59Z")), false);
   assert.equal(promotionOddsRefreshIsDue(store, new Date("2026-09-16T12:00:00Z")), true);
-  assert.deepEqual(promotionOddsForBout("AJ McKee", "Adam Borics", store), {
+  assert.deepEqual(promotionOddsForBout("pfl", "pfl-test", "AJ McKee", "Adam Borics", store), {
     redOdds: "-130",
     blueOdds: "+109",
     oddsHistory: Object.values(store.fights)[0],
   });
-  updatePromotionOddsStore(store, markets, new Date("2026-09-20T12:00:00Z"));
+  updatePromotionOddsStore(store, pflMarkets, new Date("2026-09-20T12:00:00Z"));
   assert.equal(Object.values(store.fights)[0]!.length, 1);
-  markets[0]!.redOdds = "-125";
-  updatePromotionOddsStore(store, markets, new Date("2026-09-27T12:00:00Z"));
+  pflMarkets[0]!.redOdds = "-125";
+  updatePromotionOddsStore(store, pflMarkets, new Date("2026-09-27T12:00:00Z"));
   assert.equal(Object.values(store.fights)[0]!.length, 2);
 });
 
@@ -290,7 +301,7 @@ test("stores UFC odds from BestFightOdds using official fighter names", () => {
     blueName: "Jose Delgado",
     redOdds: "-425",
     blueOdds: "+325",
-  }], [{ eventName: event.title, redName: "Jean Silva", blueName: "Jose Miguel Delgado" }]);
+  }], [{ promotion: "ufc", eventId: event.slug, eventName: event.title, redName: "Jean Silva", blueName: "Jose Miguel Delgado" }]);
   updateOddsStoreFromBestFightOdds(store, [event], markets, new Date("2026-09-12T12:00:00Z"));
   attachStoredOdds([event], store);
   assert.equal(event.sections[0]!.fights[0]!.red.odds, "-425");
@@ -556,10 +567,106 @@ test("formats PFL fighter details and permanently tracks removed bouts", () => {
 
   const updated = { ...event, bouts: [], cancelledBouts: [] };
   const merged = mergePflEvents([event], [updated]);
-  assert.equal(merged[0]!.bouts.length, 0);
-  assert.equal(merged[0]!.cancelledBouts[0]!.note, "Removed from the official PFL card");
+  assert.equal(merged[0]!.bouts.length, 1);
+  assert.equal(merged[0]!.cancelledBouts.length, 0);
 
   const placeholder = { ...event, uid: "future", start: null, end: null, status: "TENTATIVE" as const, bouts: [], cancelledBouts: [] };
   const placeholderOutput = renderPflCalendar([placeholder], new Date("2026-09-13T12:00:00Z")).replace(/\r\n[ \t]/g, "");
   assert.match(placeholderOutput, /DTSTART;VALUE=DATE:20261016/);
+});
+
+test("rejects suspicious source drops before they can replace stored data", () => {
+  type Sample = { id: string; date: Date; bouts: number; cancelled?: number };
+  const adapter = {
+    id: (event: Sample) => event.id,
+    date: (event: Sample) => event.date,
+    activeBouts: (event: Sample) => event.bouts,
+    cancelledBouts: (event: Sample) => event.cancelled ?? 0,
+  };
+  const now = new Date("2026-09-13T12:00:00Z");
+  const stored = Array.from({ length: 6 }, (_, index) => ({
+    id: `event-${index}`,
+    date: new Date(`2026-09-${String(13 + index).padStart(2, "0")}T12:00:00Z`),
+    bouts: 10,
+  }));
+  assert.throws(
+    () => assertCandidateQuality("ufc", [stored[0]!], stored, adapter, now, 120),
+    /event count fell/,
+  );
+  assert.throws(
+    () => assertCandidateQuality("ufc", [{ ...stored[0]!, bouts: 0 }], [stored[0]!], adapter, now, 120),
+    /lost all 10 active bouts/,
+  );
+  assert.doesNotThrow(() => assertCandidateQuality(
+    "ufc",
+    [{ ...stored[0]!, bouts: 0, cancelled: 10 }],
+    [stored[0]!],
+    adapter,
+    now,
+    120,
+  ));
+});
+
+test("keeps calendar revisions stable until semantic event content changes", () => {
+  const event = parseOneCalendar(`BEGIN:VCALENDAR\r\nBEGIN:VEVENT\r\nUID:stable\r\nDTSTART:20261001T120000Z\r\nDTEND:20261001T180000Z\r\nSUMMARY:ONE Test\r\nLOCATION:Bangkok\r\nDESCRIPTION:A vs. B | Mixed Martial Arts | Flyweight\r\nEND:VEVENT\r\nEND:VCALENDAR\r\n`)[0]!;
+  const store = emptyRevisionStore();
+  const first = renderOneCalendar([event], new Date("2026-09-13T12:00:00Z"), createRevisionProvider(store, new Date("2026-09-13T12:00:00Z")));
+  const unchanged = renderOneCalendar([event], new Date("2026-09-17T12:00:00Z"), createRevisionProvider(store, new Date("2026-09-17T12:00:00Z")));
+  assert.equal(unchanged, first);
+  const changed = renderOneCalendar([{ ...event, summary: "ONE Test Updated" }], new Date("2026-09-17T12:00:00Z"), createRevisionProvider(store, new Date("2026-09-17T12:00:00Z")));
+  assert.match(changed, /SEQUENCE:1/);
+  assert.match(changed, /LAST-MODIFIED:20260917T120000Z/);
+});
+
+test("validates generated feeds independently from their renderers", () => {
+  const event = parseOneCalendar(`BEGIN:VCALENDAR\r\nBEGIN:VEVENT\r\nUID:valid\r\nDTSTART:20261001T120000Z\r\nDTEND:20261001T180000Z\r\nSUMMARY:ONE Test\r\nDESCRIPTION:A vs. B | MMA | Flyweight\r\nEND:VEVENT\r\nEND:VCALENDAR\r\n`)[0]!;
+  const rendered = renderOneCalendar([event], new Date("2026-09-13T12:00:00Z"));
+  assert.deepEqual(validateCalendar("one.ics", rendered).status, "valid");
+  assert.deepEqual(validateCalendar("one.ics", rendered.replace("UID:valid@", "UID:duplicate@") + "broken").status, "invalid");
+});
+
+test("stores rematch odds under event-specific identities", () => {
+  const known = [
+    { promotion: "pfl", eventId: "event-one", eventName: "PFL Final 1", redName: "Red Fighter", blueName: "Blue Fighter" },
+    { promotion: "pfl", eventId: "event-two", eventName: "PFL Final 2", redName: "Red Fighter", blueName: "Blue Fighter" },
+  ];
+  const markets = matchBestFightOddsMarkets([
+    { eventName: "PFL Final 1", sourceUrl: "https://example.test/1", redName: "Red Fighter", blueName: "Blue Fighter", redOdds: "-120", blueOdds: "+100" },
+    { eventName: "PFL Final 2", sourceUrl: "https://example.test/2", redName: "Red Fighter", blueName: "Blue Fighter", redOdds: "+140", blueOdds: "-160" },
+  ], known);
+  const store: PromotionOddsStore = { lastCheckedAt: null, fights: {} };
+  updatePromotionOddsStore(store, markets, new Date("2026-09-13T12:00:00Z"));
+  assert.equal(promotionOddsForBout("pfl", "event-one", "Red Fighter", "Blue Fighter", store).redOdds, "-120");
+  assert.equal(promotionOddsForBout("pfl", "event-two", "Red Fighter", "Blue Fighter", store).redOdds, "+140");
+  assert.notEqual(
+    promotionOddsKey("pfl", "event-one", "Red Fighter", "Blue Fighter"),
+    promotionOddsKey("pfl", "event-two", "Red Fighter", "Blue Fighter"),
+  );
+
+  const legacy: PromotionOddsStore = {
+    lastCheckedAt: null,
+    fights: {
+      [fighterPairKey("Red Fighter", "Blue Fighter")]: [{
+        checkedAt: "2026-09-01T12:00:00Z", eventName: "PFL Final 1", sourceUrl: "https://example.test/1",
+        odds: { "red fighter": "-110", "blue fighter": "-110" }, names: { "red fighter": "Red Fighter", "blue fighter": "Blue Fighter" },
+      }],
+    },
+  };
+  migratePromotionOddsStore(legacy, known);
+  assert.ok(legacy.fights[promotionOddsKey("pfl", "event-one", "Red Fighter", "Blue Fighter")]);
+});
+
+test("preserves a UFC identity and event-time fighter snapshot when the source slug changes", () => {
+  const before = parseEventPage(eventHtml, "https://www.ufc.com/event/original-slug");
+  before.sections[0]!.fights[0]!.red.record = "17-3-0";
+  before.sections[0]!.fights[0]!.red.fightingStyle = "Striker";
+  const store: EventStore = { events: {} };
+  reconcileEvents(store, [before], new Date("2026-09-12T17:00:00Z"));
+
+  const renamed = parseEventPage(eventHtml, "https://www.ufc.com/event/replacement-slug");
+  const [result] = reconcileEvents(store, [renamed], new Date("2026-09-12T19:00:00Z"));
+  assert.equal(result!.slug, "original-slug");
+  assert.equal(result!.sections[0]!.fights[0]!.red.record, "17-3-0");
+  assert.equal(result!.sections[0]!.fights[0]!.red.fightingStyle, "Striker");
+  assert.deepEqual(store.events["original-slug"]!.aliases, ["replacement-slug"]);
 });

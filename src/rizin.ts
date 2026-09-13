@@ -8,6 +8,7 @@ import {
   formatPromotionOddsHistory,
   type PromotionOddsSnapshot,
 } from "./promotion-odds.js";
+import { fallbackRevision, type RevisionProvider } from "./revision.js";
 
 export const RIZIN_EVENTS_URL = "https://jp.rizinff.com/_tags/%E5%A4%A7%E4%BC%9A%E6%83%85%E5%A0%B1?fr=rel";
 
@@ -106,6 +107,13 @@ function nextDate(value: string): string {
   const date = new Date(`${value}T00:00:00Z`);
   date.setUTCDate(date.getUTCDate() + 1);
   return dateOnly(date);
+}
+
+function rizinStartDate(event: RizinEvent): Date {
+  const match = event.start?.match(/^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/);
+  return match
+    ? new Date(Date.UTC(Number(match[1]), Number(match[2]) - 1, Number(match[3]), Number(match[4]), Number(match[5]), Number(match[6])))
+    : new Date(`${event.date}T23:59:59Z`);
 }
 
 function contentId(url: string): string {
@@ -363,8 +371,13 @@ function profileIsFresh(profile: RizinFighterProfile | undefined, now: Date): bo
 }
 
 export async function enrichRizinFighters(events: RizinEvent[], store: RizinFighterStore, now = new Date()): Promise<void> {
-  const urls = [...new Set(events.flatMap((event) => [...event.bouts, ...event.cancelledBouts]
-    .flatMap((bout) => [bout.red.profileUrl, bout.blue.profileUrl])).filter((url): url is string => Boolean(url)))];
+  const urls = [...new Set(events.flatMap((event) => {
+    const frozen = rizinStartDate(event) <= now;
+    return [...event.bouts, ...event.cancelledBouts].flatMap((bout) => {
+      const hasSnapshot = Boolean(bout.red.record || bout.red.birthDate || bout.red.countryCode || bout.blue.record || bout.blue.birthDate || bout.blue.countryCode);
+      return frozen && hasSnapshot ? [] : [bout.red.profileUrl, bout.blue.profileUrl];
+    });
+  }).filter((url): url is string => Boolean(url)))];
   const due = urls.filter((url) => !profileIsFresh(store.profiles[url], now));
   await mapWithConcurrency(due, 4, async (url) => {
     try {
@@ -376,9 +389,13 @@ export async function enrichRizinFighters(events: RizinEvent[], store: RizinFigh
     }
   });
   for (const event of events) {
+    const frozen = rizinStartDate(event) <= now;
     for (const bout of [...event.bouts, ...event.cancelledBouts]) {
       for (const fighter of [bout.red, bout.blue]) {
         const profile = fighter.profileUrl ? store.profiles[fighter.profileUrl] : undefined;
+        // The cached romanised name is part of the frozen event-time identity.
+        if (profile?.name) fighter.name = profile.name;
+        if (frozen && (fighter.record || fighter.birthDate || fighter.countryCode)) continue;
         if (profile?.name) fighter.name = profile.name;
         if (profile) {
           if (profile.origin) profile.countryCode = japaneseCountryCode(profile.origin);
@@ -396,18 +413,42 @@ function boutKey(bout: RizinBout): string {
   return [bout.red.profileUrl ?? normalizedName(bout.red.name), bout.blue.profileUrl ?? normalizedName(bout.blue.name)].sort().join("--");
 }
 
-export function mergeRizinEvents(storedEvents: RizinEvent[], currentEvents: RizinEvent[]): RizinEvent[] {
+export function mergeRizinEvents(storedEvents: RizinEvent[], currentEvents: RizinEvent[], now = new Date()): RizinEvent[] {
   const merged = new Map(storedEvents.map((event) => [event.uid, event]));
   for (const current of currentEvents) {
-    const stored = merged.get(current.uid);
-    const currentKeys = new Set(current.bouts.map(boutKey));
-    const removed = (stored?.bouts ?? []).filter((bout) => !currentKeys.has(boutKey(bout))).map((bout) => ({ ...bout, note: "Removed from the official RIZIN card" }));
+    const stored = merged.get(current.uid) ?? (() => {
+      const candidates = storedEvents.filter((event) =>
+        normalizedName(event.summary) === normalizedName(current.summary)
+        && Math.abs(new Date(`${event.date}T00:00:00Z`).valueOf() - new Date(`${current.date}T00:00:00Z`).valueOf()) <= 14 * 24 * 60 * 60 * 1000
+      );
+      return candidates.length === 1 ? candidates[0] : undefined;
+    })();
+    const uid = stored?.uid ?? current.uid;
+    const frozen = Boolean(stored && rizinStartDate(stored) <= now);
+    const storedByKey = new Map((stored?.bouts ?? []).map((bout) => [boutKey(bout), bout]));
+    const usableCurrentBouts = current.bouts.length ? current.bouts : (stored?.bouts ?? []);
+    const bouts = usableCurrentBouts.map((bout) => {
+      const known = storedByKey.get(boutKey(bout));
+      if (!known) return bout;
+      if (!frozen) return { ...known, ...bout, red: { ...known.red, ...bout.red }, blue: { ...known.blue, ...bout.blue } };
+      return {
+        ...bout,
+        details: known.details || bout.details,
+        red: { ...bout.red, ...known.red, name: known.red.name, profileUrl: bout.red.profileUrl ?? known.red.profileUrl },
+        blue: { ...bout.blue, ...known.blue, name: known.blue.name, profileUrl: bout.blue.profileUrl ?? known.blue.profileUrl },
+      };
+    });
+    const currentKeys = new Set(bouts.map(boutKey));
+    const removed = current.bouts.length
+      ? (stored?.bouts ?? []).filter((bout) => !currentKeys.has(boutKey(bout))).map((bout) => ({ ...bout, note: "Removed from the official RIZIN card" }))
+      : [];
     const cancelledByKey = new Map([...(stored?.cancelledBouts ?? []), ...removed, ...current.cancelledBouts].map((bout) => [boutKey(bout), bout]));
-    merged.set(current.uid, {
+    merged.set(uid, {
       ...stored,
       ...current,
       cardUrl: current.cardUrl ?? stored?.cardUrl,
-      bouts: current.cardUrl ? current.bouts : (stored?.bouts ?? current.bouts),
+      uid,
+      bouts,
       cancelledBouts: [...cancelledByKey.values()],
     });
   }
@@ -454,7 +495,7 @@ export function describeRizinBout(details: string): string {
   });
 }
 
-function descriptionFor(event: RizinEvent, generatedAt: Date): string {
+function descriptionFor(event: RizinEvent): string {
   const boutCount = event.bouts.length === 1 ? "1 announced bout" : `${event.bouts.length} announced bouts`;
   const timing = event.start
     ? event.timeIsTentative ? "Start time is provisional and will update when RIZIN confirms it." : "Times display automatically in your calendar time zone. End time is approximate."
@@ -496,11 +537,11 @@ function descriptionFor(event: RizinEvent, generatedAt: Date): string {
     `--------------------------------\n${unicodeBold("BOUTS")}\n--------------------------------`,
     bouts,
     ...cancelled,
-    `--------------------------------\nSource: ${event.cardUrl ?? event.url}${oddsSource}\nCalendar updated: ${generatedAt.toISOString()}`,
+    `--------------------------------\nSource: ${event.cardUrl ?? event.url}${oddsSource}`,
   ].join("\n\n");
 }
 
-export function renderRizinCalendar(events: RizinEvent[], generatedAt = new Date()): string {
+export function renderRizinCalendar(events: RizinEvent[], generatedAt = new Date(), revisionProvider?: RevisionProvider): string {
   const lines = [
     "BEGIN:VCALENDAR",
     "VERSION:2.0",
@@ -514,15 +555,18 @@ export function renderRizinCalendar(events: RizinEvent[], generatedAt = new Date
     "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
     "X-PUBLISHED-TTL:PT6H",
   ];
-  const stamp = basicUtc(generatedAt);
-  const revision = Math.floor(generatedAt.valueOf() / 1000);
   for (const event of events) {
+    const description = descriptionFor(event);
+    const revision = revisionProvider?.(`rizin:${event.uid}`, {
+      date: event.date, start: event.start, end: event.end, summary: event.summary,
+      description, location: event.location, url: event.url, status: event.status,
+    }) ?? fallbackRevision(generatedAt);
     lines.push(
       "BEGIN:VEVENT",
       `UID:${escapeIcs(`${event.uid}@mma-calendar-rizin`)}`,
-      `DTSTAMP:${stamp}`,
-      `LAST-MODIFIED:${stamp}`,
-      `SEQUENCE:${revision}`,
+      `DTSTAMP:${basicUtc(revision.createdAt)}`,
+      `LAST-MODIFIED:${basicUtc(revision.lastModified)}`,
+      `SEQUENCE:${revision.sequence}`,
     );
     if (event.start && event.end) {
       lines.push(`DTSTART:${event.start}`, `DTEND:${event.end}`);
@@ -531,7 +575,7 @@ export function renderRizinCalendar(events: RizinEvent[], generatedAt = new Date
     }
     lines.push(
       `SUMMARY:${escapeIcs(event.summary)}`,
-      `DESCRIPTION:${escapeIcs(descriptionFor(event, generatedAt))}`,
+      `DESCRIPTION:${escapeIcs(description)}`,
       `LOCATION:${escapeIcs(event.location)}`,
       `URL:${escapeIcs(event.url)}`,
       "CATEGORIES:RIZIN Fighting Federation",

@@ -35,6 +35,39 @@ function preserveKnownProfileUrls(event: UfcEvent, previous: UfcEvent | null): v
   }
 }
 
+function preserveStartedFightMetadata(event: UfcEvent, previous: UfcEvent | null, now: Date): void {
+  if (!previous || (eventStart(previous)?.valueOf() ?? Infinity) > now.valueOf()) return;
+  const previousFights = new Map(
+    previous.sections.flatMap(({ fights }) => fights.map((fight) => [boutKey(fight.red.name, fight.blue.name), fight] as const)),
+  );
+  for (const section of event.sections) {
+    for (const fight of section.fights) {
+      const knownFight = previousFights.get(boutKey(fight.red.name, fight.blue.name));
+      if (!knownFight) continue;
+      fight.weightClass = knownFight.weightClass || fight.weightClass;
+      for (const fighter of [fight.red, fight.blue]) {
+        const known = [knownFight.red, knownFight.blue]
+          .find((candidate) => normalizedName(candidate.name) === normalizedName(fighter.name));
+        if (!known) continue;
+        for (const property of [
+          "rank",
+          "profileUrl",
+          "country",
+          "countryCode",
+          "record",
+          "birthDate",
+          "familyName",
+          "fightingStyle",
+        ] as const) {
+          if (known[property] !== undefined && known[property] !== null) {
+            (fighter as unknown as Record<string, unknown>)[property] = known[property];
+          }
+        }
+      }
+    }
+  }
+}
+
 function mergeCancelledBouts(event: UfcEvent, previous: UfcEvent | null, checkedAt: string): void {
   const active = activeBoutKeys(event);
   const cancelled = new Map<string, CancelledBout>();
@@ -84,7 +117,7 @@ function eventStart(event: UfcEvent): Date | null {
     .sort((left, right) => left.valueOf() - right.valueOf())[0] ?? event.heroStart;
 }
 
-function serializeEvent(event: UfcEvent): StoredUfcEvent {
+export function serializeEvent(event: UfcEvent): StoredUfcEvent {
   const { scheduleStatus: _scheduleStatus, ...rest } = event;
   return {
     ...rest,
@@ -96,7 +129,7 @@ function serializeEvent(event: UfcEvent): StoredUfcEvent {
   };
 }
 
-function hydrateEvent(event: StoredUfcEvent): UfcEvent {
+export function hydrateEvent(event: StoredUfcEvent): UfcEvent {
   return {
     ...event,
     heroStart: event.heroStart ? new Date(event.heroStart) : null,
@@ -105,6 +138,33 @@ function hydrateEvent(event: StoredUfcEvent): UfcEvent {
       start: section.start ? new Date(section.start) : null,
     })),
   };
+}
+
+function tokens(value: string): Set<string> {
+  return new Set(normalizedName(value).split(/\s+/).filter((token) => token.length > 2));
+}
+
+function titleSimilarity(left: string, right: string): number {
+  const leftTokens = tokens(left);
+  const rightTokens = tokens(right);
+  const shared = [...leftTokens].filter((token) => rightTokens.has(token)).length;
+  const union = new Set([...leftTokens, ...rightTokens]).size;
+  return union ? shared / union : 0;
+}
+
+function aliasCandidate(store: EventStore, event: UfcEvent): [string, TrackedEvent] | null {
+  const directAlias = Object.entries(store.events).find(([, tracked]) => tracked.aliases?.includes(event.slug));
+  if (directAlias) return directAlias;
+  const currentStart = eventStart(event);
+  if (!currentStart) return null;
+  const candidates = Object.entries(store.events).filter(([, tracked]) => {
+    const previous = hydrateEvent(tracked.event);
+    const previousStart = eventStart(previous);
+    if (!previousStart || Math.abs(previousStart.valueOf() - currentStart.valueOf()) > 12 * 60 * 60 * 1000) return false;
+    const locationsMatch = normalizedName(previous.location) === normalizedName(event.location);
+    return locationsMatch && titleSimilarity(previous.title, event.title) >= 0.4;
+  });
+  return candidates.length === 1 ? candidates[0]! : null;
 }
 
 function timesDiffer(left: Date | null, right: Date | null): boolean {
@@ -134,10 +194,17 @@ export function reconcileEvents(
   const output: UfcEvent[] = [];
 
   for (const event of currentEvents) {
-    seen.add(event.slug);
-    const previous = store.events[event.slug];
+    const sourceSlug = event.slug;
+    const matched = store.events[sourceSlug]
+      ? [sourceSlug, store.events[sourceSlug]!] as [string, TrackedEvent]
+      : aliasCandidate(store, event);
+    const storeKey = matched?.[0] ?? sourceSlug;
+    const previous = matched?.[1];
+    event.slug = storeKey;
+    seen.add(storeKey);
     const previousEvent = previous ? hydrateEvent(previous.event) : null;
     preserveKnownProfileUrls(event, previousEvent);
+    preserveStartedFightMetadata(event, previousEvent, now);
     mergeCancelledBouts(event, previousEvent, checkedAt);
     const previousStart = previousEvent ? eventStart(previousEvent) : null;
     const currentStart = eventStart(event);
@@ -151,15 +218,17 @@ export function reconcileEvents(
       status = "rescheduled";
     }
 
+    const aliases = [...new Set([...(previous?.aliases ?? []), ...(sourceSlug === storeKey ? [] : [sourceSlug])])];
     const tracked: TrackedEvent = {
       event: serializeEvent(event),
+      ...(aliases.length ? { aliases } : {}),
       status,
       firstSeenAt: previous?.firstSeenAt ?? checkedAt,
       lastSeenAt: checkedAt,
       previousStart: originalStart,
       missingChecks: 0,
     };
-    store.events[event.slug] = tracked;
+    store.events[storeKey] = tracked;
     output.push(attachStatus(event, tracked, checkedAt));
   }
 
@@ -184,4 +253,17 @@ export function reconcileEvents(
   }
 
   return output.sort((left, right) => (eventStart(left)?.valueOf() ?? Infinity) - (eventStart(right)?.valueOf() ?? Infinity));
+}
+
+export function cachedEvents(store: EventStore): UfcEvent[] {
+  return Object.values(store.events)
+    .map((tracked) => attachStatus(hydrateEvent(tracked.event), tracked, tracked.lastSeenAt))
+    .sort((left, right) => (eventStart(left)?.valueOf() ?? Infinity) - (eventStart(right)?.valueOf() ?? Infinity));
+}
+
+export function persistEventSnapshots(store: EventStore, events: UfcEvent[]): void {
+  for (const event of events) {
+    const tracked = store.events[event.slug];
+    if (tracked) tracked.event = serializeEvent(event);
+  }
 }

@@ -9,6 +9,7 @@ import {
   unicodeBold,
 } from "./utils.js";
 import { BEST_FIGHT_ODDS_URL } from "./promotion-odds.js";
+import { fallbackRevision, type RevisionProvider } from "./revision.js";
 import type { CancelledBout, CardSection, Fight, Fighter, UfcEvent } from "./types.js";
 
 interface RenderCalendarOptions {
@@ -17,6 +18,7 @@ interface RenderCalendarOptions {
   publicBaseUrl?: string;
   displayTimeZone?: string;
   displayTimeZoneLabel?: string;
+  revisionProvider?: RevisionProvider;
 }
 
 const SECTION_BORDER = "--------------------------------";
@@ -121,19 +123,17 @@ function localDate(date: Date, timeZone: string): string {
   return `${Number(parts.day)} ${months[Number(parts.month) - 1]} ${parts.year}`;
 }
 
-function scheduleStatusLine(event: UfcEvent, generatedAt: Date, displayTimeZone: string): string {
+function scheduleStatusLine(event: UfcEvent, displayTimeZone: string): string {
   const status = event.scheduleStatus;
-  const checkedAt = new Date(status?.checkedAt ?? generatedAt);
-  const verified = `verified ${localDate(checkedAt, displayTimeZone)}`;
   switch (status?.state) {
-    case "cancelled": return `Event status: Cancelled · ${verified}`;
-    case "postponed": return `Event status: Postponed; new date TBD · ${verified}`;
+    case "cancelled": return "Event status: Cancelled";
+    case "postponed": return "Event status: Postponed; new date TBD";
     case "rescheduled": {
       const previous = status.previousStart ? new Date(status.previousStart) : null;
-      return `Event status: Rescheduled${previous ? `; previously ${localDate(previous, displayTimeZone)}` : ""} · ${verified}`;
+      return `Event status: Rescheduled${previous ? `; previously ${localDate(previous, displayTimeZone)}` : ""}`;
     }
-    case "unlisted": return `Event status: No longer listed by UFC; cancellation or postponement not yet confirmed · ${verified}`;
-    default: return `Event status: Scheduled · ${verified}`;
+    case "unlisted": return "Event status: No longer listed by UFC; cancellation or postponement not yet confirmed";
+    default: return "Event status: Scheduled";
   }
 }
 
@@ -232,7 +232,7 @@ function eventOverview(event: UfcEvent, section: CardSection, displayTimeZone: s
   return overview;
 }
 
-function htmlDescription(event: UfcEvent, section: CardSection, generatedAt: Date, publicBaseUrl: string, displayTimeZone: string, displayTimeZoneLabel: string): string {
+function htmlDescription(event: UfcEvent, section: CardSection, publicBaseUrl: string, displayTimeZone: string, displayTimeZoneLabel: string): string {
   const overview = `<p>${eventOverview(event, section, displayTimeZone, displayTimeZoneLabel).map(htmlEscape).join("<br>")}</p>`;
   const boutsHeading = `<p>${SECTION_BORDER}<br><strong>${BOUTS_HEADING}</strong><br>${SECTION_BORDER}</p>`;
   const fights = section.fights.map((fight, index) => {
@@ -247,7 +247,7 @@ function htmlDescription(event: UfcEvent, section: CardSection, generatedAt: Dat
   const oddsLog = publicBaseUrl
     ? `<br>Full odds log: <a href="${htmlEscape(`${publicBaseUrl.replace(/\/$/, "")}/odds-history.html`)}">view history</a>`
     : "";
-  return `<html><body>${overview}${boutsHeading}${fights || "<p>No bouts announced yet.</p>"}${cancellations}${source}${oddsLog}<br>Calendar updated: ${htmlEscape(generatedAt.toISOString())}<br>${htmlEscape(scheduleStatusLine(event, generatedAt, displayTimeZone))}</p></body></html>`;
+  return `<html><body>${overview}${boutsHeading}${fights || "<p>No bouts announced yet.</p>"}${cancellations}${source}${oddsLog}<br>${htmlEscape(scheduleStatusLine(event, displayTimeZone))}</p></body></html>`;
 }
 
 export function renderCalendar(events: UfcEvent[], {
@@ -256,8 +256,8 @@ export function renderCalendar(events: UfcEvent[], {
   publicBaseUrl = "",
   displayTimeZone = "Europe/Dublin",
   displayTimeZoneLabel = "Ireland",
+  revisionProvider,
 }: RenderCalendarOptions = {}): string {
-  const revision = Math.floor(generatedAt.valueOf() / 1000);
   const lines: string[] = [
     "BEGIN:VCALENDAR",
     "VERSION:2.0",
@@ -286,25 +286,32 @@ export function renderCalendar(events: UfcEvent[], {
           `Source: ${event.url}`,
           section.fights.some(hasBestFightOddsHistory) ? `Odds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked Monday and Friday` : "",
           publicBaseUrl ? `Full odds log: ${publicBaseUrl.replace(/\/$/, "")}/odds-history.html` : "",
-          `Calendar updated: ${generatedAt.toISOString()}`,
-          scheduleStatusLine(event, generatedAt, displayTimeZone),
+          scheduleStatusLine(event, displayTimeZone),
         ].filter(Boolean).join("\n"),
       ].filter(Boolean).join("\n\n");
+      const summary = `${section.label} – ${event.title}`;
+      const end = sectionEnd(event, section);
+      const status = calendarEventStatus(event, Boolean(section.provisional));
+      const html = htmlDescription(event, section, publicBaseUrl, displayTimeZone, displayTimeZoneLabel);
+      const revision = revisionProvider?.(`ufc:split:${event.slug}:${section.key}`, {
+        start: section.start.toISOString(), end: end.toISOString(), summary, description,
+        html, location: event.location, url: event.url, status,
+      }) ?? fallbackRevision(generatedAt);
       lines.push(
         "BEGIN:VEVENT",
         `UID:${escapeIcs(`${event.slug}-${section.key}@ufc-detailed-calendar`)}`,
-        `DTSTAMP:${icsDate(generatedAt)}`,
-        `LAST-MODIFIED:${icsDate(generatedAt)}`,
-        `SEQUENCE:${revision}`,
+        `DTSTAMP:${icsDate(revision.createdAt)}`,
+        `LAST-MODIFIED:${icsDate(revision.lastModified)}`,
+        `SEQUENCE:${revision.sequence}`,
         `DTSTART:${icsDate(section.start)}`,
-        `DTEND:${icsDate(sectionEnd(event, section))}`,
-        `SUMMARY:${escapeIcs(`${section.label} – ${event.title}`)}`,
+        `DTEND:${icsDate(end)}`,
+        `SUMMARY:${escapeIcs(summary)}`,
         `DESCRIPTION:${escapeIcs(description)}`,
-        `X-ALT-DESC;FMTTYPE=text/html:${escapeIcs(htmlDescription(event, section, generatedAt, publicBaseUrl, displayTimeZone, displayTimeZoneLabel))}`,
+        `X-ALT-DESC;FMTTYPE=text/html:${escapeIcs(html)}`,
         `LOCATION:${escapeIcs(event.location)}`,
         `URL:${escapeIcs(event.url)}`,
         `CATEGORIES:UFC,${escapeIcs(section.label)}`,
-        `STATUS:${calendarEventStatus(event, Boolean(section.provisional))}`,
+        `STATUS:${status}`,
         "END:VEVENT",
       );
     }
@@ -327,8 +334,8 @@ export function renderCombinedCalendar(events: UfcEvent[], {
   publicBaseUrl = "",
   displayTimeZone = "Europe/Dublin",
   displayTimeZoneLabel = "Ireland",
+  revisionProvider,
 }: RenderCalendarOptions = {}): string {
-  const revision = Math.floor(generatedAt.valueOf() / 1000);
   const lines: string[] = [
     "BEGIN:VCALENDAR",
     "VERSION:2.0",
@@ -379,17 +386,21 @@ export function renderCombinedCalendar(events: UfcEvent[], {
         `Source: ${event.url}`,
         sections.some((section) => section.fights.some(hasBestFightOddsHistory)) ? `Odds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked Monday and Friday` : "",
         publicBaseUrl ? `Full odds log: ${publicBaseUrl.replace(/\/$/, "")}/odds-history.html` : "",
-        `Calendar updated: ${generatedAt.toISOString()}`,
-        scheduleStatusLine(event, generatedAt, displayTimeZone),
+        scheduleStatusLine(event, displayTimeZone),
       ].filter(Boolean).join("\n"),
     ].filter(Boolean).join("\n\n");
     const html = `<html><body><p>${htmlEscape(description).replace(/\n/g, "<br>")}</p></body></html>`;
+    const status = calendarEventStatus(event, sections.some(({ provisional }) => provisional));
+    const revision = revisionProvider?.(`ufc:combined:${event.slug}`, {
+      start: bounds.start.toISOString(), end: bounds.end.toISOString(), summary: event.title,
+      description, html, location: event.location, url: event.url, status,
+    }) ?? fallbackRevision(generatedAt);
     lines.push(
       "BEGIN:VEVENT",
       `UID:${escapeIcs(`${event.slug}-combined@ufc-detailed-calendar`)}`,
-      `DTSTAMP:${icsDate(generatedAt)}`,
-      `LAST-MODIFIED:${icsDate(generatedAt)}`,
-      `SEQUENCE:${revision}`,
+      `DTSTAMP:${icsDate(revision.createdAt)}`,
+      `LAST-MODIFIED:${icsDate(revision.lastModified)}`,
+      `SEQUENCE:${revision.sequence}`,
       `DTSTART:${icsDate(bounds.start)}`,
       `DTEND:${icsDate(bounds.end)}`,
       `SUMMARY:${escapeIcs(event.title)}`,
@@ -398,7 +409,7 @@ export function renderCombinedCalendar(events: UfcEvent[], {
       `LOCATION:${escapeIcs(event.location)}`,
       `URL:${escapeIcs(event.url)}`,
       "CATEGORIES:UFC,Complete Event",
-      `STATUS:${calendarEventStatus(event, sections.some(({ provisional }) => provisional))}`,
+      `STATUS:${status}`,
       "END:VEVENT",
     );
   }
@@ -422,8 +433,8 @@ export function renderEstimatedFightCalendar(events: UfcEvent[], {
   publicBaseUrl = "",
   displayTimeZone = "Europe/Dublin",
   displayTimeZoneLabel = "Ireland",
+  revisionProvider,
 }: RenderCalendarOptions = {}): string {
-  const revision = Math.floor(generatedAt.valueOf() / 1000);
   const lines: string[] = [
     "BEGIN:VCALENDAR",
     "VERSION:2.0",
@@ -456,24 +467,29 @@ export function renderEstimatedFightCalendar(events: UfcEvent[], {
           `Event: ${event.title}`,
           `Source: ${event.url}`,
           publicBaseUrl ? `Main calendar: ${publicBaseUrl.replace(/\/$/, "")}/ufc.ics` : "",
-          `Calendar updated: ${generatedAt.toISOString()}`,
-          scheduleStatusLine(event, generatedAt, displayTimeZone),
+          scheduleStatusLine(event, displayTimeZone),
         ].filter(Boolean).join("\n");
+        const summary = `🥊 ${boutNumber}. ${fight.red.name} vs. ${fight.blue.name} (estimated)`;
+        const status = calendarEventStatus(event, true);
+        const revision = revisionProvider?.(`ufc:fight:${fightUid(event, fight)}`, {
+          start: start.toISOString(), end: end.toISOString(), summary, description,
+          location: event.location, url: event.url, status,
+        }) ?? fallbackRevision(generatedAt);
         lines.push(
           "BEGIN:VEVENT",
           `UID:${escapeIcs(fightUid(event, fight))}`,
-          `DTSTAMP:${icsDate(generatedAt)}`,
-          `LAST-MODIFIED:${icsDate(generatedAt)}`,
-          `SEQUENCE:${revision}`,
+          `DTSTAMP:${icsDate(revision.createdAt)}`,
+          `LAST-MODIFIED:${icsDate(revision.lastModified)}`,
+          `SEQUENCE:${revision.sequence}`,
           `DTSTART:${icsDate(start)}`,
           `DTEND:${icsDate(end)}`,
-          `SUMMARY:${escapeIcs(`🥊 ${boutNumber}. ${fight.red.name} vs. ${fight.blue.name} (estimated)`)}`,
+          `SUMMARY:${escapeIcs(summary)}`,
           `DESCRIPTION:${escapeIcs(description)}`,
           `LOCATION:${escapeIcs(event.location)}`,
           `URL:${escapeIcs(event.url)}`,
           `CATEGORIES:UFC,Estimated Fight,${escapeIcs(section.label)}`,
           `RELATED-TO:${escapeIcs(`${event.slug}-${section.key}@ufc-detailed-calendar`)}`,
-          `STATUS:${calendarEventStatus(event, true)}`,
+          `STATUS:${status}`,
           "END:VEVENT",
         );
       });

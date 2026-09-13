@@ -9,6 +9,8 @@ export const BEST_FIGHT_ODDS_URL = "https://www.bestfightodds.com/";
 export interface PromotionOddsMarket {
   eventName: string;
   sourceUrl: string;
+  promotion?: string;
+  eventId?: string;
   redName: string;
   blueName: string;
   redOdds: string | null;
@@ -19,6 +21,8 @@ export interface PromotionOddsSnapshot {
   checkedAt: string;
   eventName: string;
   sourceUrl: string;
+  promotion?: string;
+  eventId?: string;
   odds: Record<string, string | null>;
   names: Record<string, string>;
 }
@@ -29,6 +33,8 @@ export interface PromotionOddsStore {
 }
 
 export interface KnownOddsBout {
+  promotion: string;
+  eventId: string;
   eventName: string;
   redName: string;
   blueName: string;
@@ -53,8 +59,17 @@ export function canonicalOddsName(value: string): string {
   return name;
 }
 
-export function promotionOddsKey(redName: string, blueName: string): string {
+export function fighterPairKey(redName: string, blueName: string): string {
   return [canonicalOddsName(redName), canonicalOddsName(blueName)].sort().join("--");
+}
+
+export function promotionOddsKey(
+  promotion: string,
+  eventId: string,
+  redName: string,
+  blueName: string,
+): string {
+  return `${canonicalOddsName(promotion)}::${canonicalOddsName(eventId)}::${fighterPairKey(redName, blueName)}`;
 }
 
 function numericOdds(value: string): number {
@@ -212,6 +227,19 @@ function fighterNameScore(left: string, right: string): number {
   return 0;
 }
 
+function eventNameScore(left: string, right: string): number {
+  const leftIdentity = eventIdentity(left);
+  const rightIdentity = eventIdentity(right);
+  if (!leftIdentity || !rightIdentity || leftIdentity === "future events") return 0;
+  if (leftIdentity === rightIdentity) return 100;
+  if (leftIdentity.includes(rightIdentity) || rightIdentity.includes(leftIdentity)) return 85;
+  const leftTokens = new Set(leftIdentity.split(" ").filter((token) => token.length > 1));
+  const rightTokens = new Set(rightIdentity.split(" ").filter((token) => token.length > 1));
+  const shared = [...leftTokens].filter((token) => rightTokens.has(token)).length;
+  const union = new Set([...leftTokens, ...rightTokens]).size;
+  return union ? Math.round(70 * shared / union) : 0;
+}
+
 /**
  * Align bookmaker spellings with the official card names. This keeps stored keys
  * stable when a market omits a middle name or uses initials/a nickname.
@@ -222,7 +250,7 @@ export function matchBestFightOddsMarkets(
 ): PromotionOddsMarket[] {
   const matched: PromotionOddsMarket[] = [];
   for (const market of markets) {
-    let best: { bout: KnownOddsBout; reversed: boolean; score: number } | null = null;
+    const candidates: Array<{ bout: KnownOddsBout; reversed: boolean; fighterScore: number; eventScore: number }> = [];
     for (const bout of knownBouts) {
       const directRed = fighterNameScore(market.redName, bout.redName);
       const directBlue = fighterNameScore(market.blueName, bout.blueName);
@@ -230,13 +258,29 @@ export function matchBestFightOddsMarkets(
       const reverseBlue = fighterNameScore(market.blueName, bout.redName);
       const direct = Math.min(directRed, directBlue);
       const reverse = Math.min(reverseRed, reverseBlue);
-      const score = Math.max(direct, reverse);
-      if (score < 88 || (best && score <= best.score)) continue;
-      best = { bout, reversed: reverse > direct, score };
+      const fighterScore = Math.max(direct, reverse);
+      if (fighterScore < 88) continue;
+      candidates.push({
+        bout,
+        reversed: reverse > direct,
+        fighterScore,
+        eventScore: eventNameScore(market.eventName, bout.eventName),
+      });
     }
+    candidates.sort((left, right) =>
+      (right.fighterScore * 2 + right.eventScore) - (left.fighterScore * 2 + left.eventScore)
+    );
+    const best = candidates[0];
     if (!best) continue;
+    if (candidates.length > 1) {
+      const next = candidates[1]!;
+      if (best.eventScore < 75 || best.eventScore === next.eventScore) continue;
+    }
     matched.push({
       ...market,
+      promotion: best.bout.promotion,
+      eventId: best.bout.eventId,
+      eventName: best.bout.eventName,
       redName: best.bout.redName,
       blueName: best.bout.blueName,
       redOdds: best.reversed ? market.blueOdds : market.redOdds,
@@ -244,6 +288,50 @@ export function matchBestFightOddsMarkets(
     });
   }
   return matched;
+}
+
+/** Move unambiguous legacy fighter-pair histories into event-specific keys. */
+export function migratePromotionOddsStore(
+  store: PromotionOddsStore,
+  knownBouts: KnownOddsBout[],
+): PromotionOddsStore {
+  store.fights ??= {};
+  for (const [legacyKey, history] of Object.entries({ ...store.fights })) {
+    if (legacyKey.includes("::")) continue;
+    const candidates = knownBouts.filter((bout) => fighterPairKey(bout.redName, bout.blueName) === legacyKey);
+    if (!candidates.length) continue;
+    let selected: KnownOddsBout | undefined;
+    if (candidates.length === 1) {
+      selected = candidates[0];
+    } else {
+      const eventName = history.at(-1)?.eventName ?? "";
+      const ranked = candidates
+        .map((bout) => ({ bout, score: eventNameScore(eventName, bout.eventName) }))
+        .sort((left, right) => right.score - left.score);
+      if (ranked[0] && ranked[0].score >= 75 && ranked[0].score > (ranked[1]?.score ?? -1)) {
+        selected = ranked[0].bout;
+      }
+    }
+    if (!selected) continue;
+    const key = promotionOddsKey(
+      selected.promotion,
+      selected.eventId,
+      selected.redName,
+      selected.blueName,
+    );
+    const migrated = history.map((snapshot) => ({
+      ...snapshot,
+      promotion: selected!.promotion,
+      eventId: selected!.eventId,
+      eventName: selected!.eventName,
+    }));
+    store.fights[key] = [...(store.fights[key] ?? []), ...migrated]
+      .filter((snapshot, index, snapshots) =>
+        index === 0 || snapshots[index - 1]!.checkedAt !== snapshot.checkedAt || snapshotsDiffer(snapshots[index - 1], snapshot)
+      );
+    delete store.fights[legacyKey];
+  }
+  return compactPromotionOddsStore(store);
 }
 
 function snapshotsDiffer(left: PromotionOddsSnapshot | undefined, right: PromotionOddsSnapshot): boolean {
@@ -269,7 +357,8 @@ export function updatePromotionOddsStore(
   store.fights ??= {};
   const seen = new Set<string>();
   for (const market of markets) {
-    const key = promotionOddsKey(market.redName, market.blueName);
+    if (!market.promotion || !market.eventId) continue;
+    const key = promotionOddsKey(market.promotion, market.eventId, market.redName, market.blueName);
     if (seen.has(key)) continue;
     seen.add(key);
     const redKey = canonicalOddsName(market.redName);
@@ -278,6 +367,8 @@ export function updatePromotionOddsStore(
       checkedAt,
       eventName: market.eventName,
       sourceUrl: market.sourceUrl,
+      promotion: market.promotion,
+      eventId: market.eventId,
       odds: { [redKey]: market.redOdds, [blueKey]: market.blueOdds },
       names: { [redKey]: market.redName, [blueKey]: market.blueName },
     };
@@ -290,11 +381,13 @@ export function updatePromotionOddsStore(
 }
 
 export function promotionOddsForBout(
+  promotion: string,
+  eventId: string,
   redName: string,
   blueName: string,
   store: PromotionOddsStore,
 ): AttachedPromotionOdds {
-  const oddsHistory = store.fights?.[promotionOddsKey(redName, blueName)] ?? [];
+  const oddsHistory = store.fights?.[promotionOddsKey(promotion, eventId, redName, blueName)] ?? [];
   const latest = oddsHistory.at(-1)?.odds ?? {};
   const redOdds = latest[canonicalOddsName(redName)] ?? null;
   const blueOdds = latest[canonicalOddsName(blueName)] ?? null;

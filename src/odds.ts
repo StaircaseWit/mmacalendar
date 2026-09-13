@@ -56,7 +56,11 @@ export function updateOddsStoreFromBestFightOdds(
   now = new Date(),
 ): OddsStore {
   const checkedAt = now.toISOString();
-  const marketsByBout = new Map(markets.map((market) => [promotionOddsKey(market.redName, market.blueName), market]));
+  const marketsByBout = new Map(markets.flatMap((market) =>
+    market.promotion === "ufc" && market.eventId
+      ? [[promotionOddsKey("ufc", market.eventId, market.redName, market.blueName), market] as const]
+      : []
+  ));
   store.fights ??= {};
   for (const event of events) {
     const eventStart = event.sections
@@ -66,7 +70,7 @@ export function updateOddsStoreFromBestFightOdds(
     if (eventStart && eventStart <= now) continue;
     for (const section of event.sections) {
       for (const fight of section.fights) {
-        const market = marketsByBout.get(promotionOddsKey(fight.red.name, fight.blue.name));
+        const market = marketsByBout.get(promotionOddsKey("ufc", event.slug, fight.red.name, fight.blue.name));
         if (!market) continue;
         const redKey = normalizedName(fight.red.name);
         const blueKey = normalizedName(fight.blue.name);

@@ -16,3 +16,10 @@ export async function writeJson(path: string, value: unknown): Promise<void> {
   await writeFile(temporaryPath, `${JSON.stringify(value, null, 2)}\n`, "utf8");
   await rename(temporaryPath, path);
 }
+
+export async function writeText(path: string, value: string): Promise<void> {
+  await mkdir(dirname(path), { recursive: true });
+  const temporaryPath = `${path}.tmp`;
+  await writeFile(temporaryPath, value, "utf8");
+  await rename(temporaryPath, path);
+}

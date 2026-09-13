@@ -63,3 +63,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Alert if a source used cached data
+        run: node -e "const s=require('./docs/status.json'); if(s.overall!=='healthy'){ console.error('One or more sources used last-known-good data. See docs/status.json.'); process.exit(1) }"
