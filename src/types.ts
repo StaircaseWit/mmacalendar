@@ -14,6 +14,7 @@ export interface Fighter {
   record?: string | null;
   birthDate?: string | null;
   familyName?: string | null;
+  fightingStyle?: string | null;
   odds?: string | null;
   oddsHistory?: OddsSnapshot[];
 }
@@ -95,6 +96,7 @@ export interface AthleteProfile {
   birthDate: string | null;
   familyName: string | null;
   record: string | null;
+  fightingStyle: string | null;
   checkedAt?: string;
 }
 

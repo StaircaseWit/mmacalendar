@@ -6,6 +6,7 @@ import type { AthleteProfile, FighterStore, UfcEvent } from "./types.js";
 function profileIsFresh(profile: AthleteProfile | undefined, now: Date): boolean {
   const checkedAt = new Date(profile?.checkedAt ?? 0);
   return Object.hasOwn(profile ?? {}, "familyName")
+    && Object.hasOwn(profile ?? {}, "fightingStyle")
     && !Number.isNaN(checkedAt.valueOf())
     && now.valueOf() - checkedAt.valueOf() < 7 * DAY_MS;
 }
@@ -41,6 +42,7 @@ export async function enrichFighterProfiles(events: UfcEvent[], store: FighterSt
           fighter.record = profile.record ?? null;
           fighter.birthDate = profile.birthDate ?? null;
           fighter.familyName = profile.familyName ?? null;
+          fighter.fightingStyle = profile.fightingStyle ?? null;
         }
       }
     }

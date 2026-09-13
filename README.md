@@ -18,19 +18,20 @@ The generator is written in strict TypeScript. Its event, card, fighter, profile
   📍 Desert Diamond Arena, Glendale, United States
   🕒 22:00–Sun 01:00 Ireland
   --------------------------------
-  BOUTS
+  𝗕𝗢𝗨𝗧𝗦
   --------------------------------
 
-  🥊 6. 𝗝𝗲𝗮𝗻 𝗦𝗶𝗹𝘃𝗮 (#6) 🇧🇷 vs. 𝗝𝗼𝘀𝗲 𝗠𝗶𝗴𝘂𝗲𝗹 𝗗𝗲𝗹𝗴𝗮𝗱𝗼 🇲🇽 - 145lbs/66kg Featherweight
-      Silva: 17-3-0 | 29yo | Odds 🟢 -425 (1.24)
-      Delgado: 12-2-0 | 28yo | Odds 🔴 +325 (4.25)
-      Odds history:
-        12 Sep: Silva 🟢 -425 (1.24) | Delgado 🔴 +325 (4.25)
+  🥊 6. 𝗝𝗲𝗮𝗻 𝗦𝗶𝗹𝘃𝗮 (#6) 🇧🇷 vs. 𝗝𝗼𝘀𝗲 𝗠𝗶𝗴𝘂𝗲𝗹 𝗗𝗲𝗹𝗴𝗮𝗱𝗼 🇲🇽
+  • 145lbs/66kg Featherweight
+  • Silva: 17-3-0 | 29yo | Odds 🟢 -425 (1.24) | Striker
+  • Delgado: 12-2-0 | 28yo | Odds 🔴 +325 (4.25)
+  • Odds history:
+    ◦ 12 Sep: Silva 🟢 -425 (1.24) | Delgado 🔴 +325 (4.25)
   ```
 
 - A link to the source UFC event and to the complete odds-change log.
 
-Event/card times, venue, fights, rankings, countries, records, birth dates, and displayed odds are collected from UFC.com. If UFC has not published a field, the calendar says `unavailable`; it does not guess.
+Event/card times, venue, fights, rankings, countries, records, birth dates, fighting styles, and displayed odds are collected from UFC.com. If UFC has not published a field, the calendar says `unavailable`; it does not guess.
 
 The standard calendar description uses the `🥊` marker, bout order, and bold Unicode fighter names to make matchup rows easy to scan. A bold HTML alternative is also included for calendar clients that support rich descriptions.
 
@@ -50,7 +51,7 @@ The standard calendar description uses the `🥊` marker, bout order, and bold U
 - `docs/ufc.ics`: separate Early Prelims, Prelims, and Main Card events.
 - `docs/ufc-combined.ics`: one complete event containing every section and announced bout.
 - `docs/ufc-fights.ics`: optional estimated individual fight events that adapt to the calendar client's time zone.
-- `docs/one.ics`: one complete event per ONE Championship show, including the official venue, times and announced bouts.
+- `docs/one.ics`: one complete event per ONE Championship show, including the official venue, times, announced bouts, disciplines and available country flags.
 
 ## Optional local-time fight calendar
 

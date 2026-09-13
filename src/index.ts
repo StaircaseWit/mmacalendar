@@ -8,7 +8,7 @@ import { applyCancellationOverrides, reconcileEvents } from "./events.js";
 import { readJson, writeJson } from "./state.js";
 import { renderCalendar, renderCombinedCalendar, renderEstimatedFightCalendar } from "./ics.js";
 import { renderOddsPage } from "./odds-page.js";
-import { mergeOneEvents, renderOneCalendar, scrapeOneCalendar, type OneEvent } from "./one.js";
+import { enrichOneEventDetails, mergeOneEvents, renderOneCalendar, scrapeOneCalendar, type OneEvent } from "./one.js";
 import type { CancelledBout, EventStore, FighterStore, OddsStore } from "./types.js";
 
 const root = process.cwd();
@@ -63,6 +63,7 @@ try {
   const currentOneEvents = await scrapeOneCalendar();
   if (!currentOneEvents.length) throw new Error("the official calendar did not contain any events");
   oneEvents = mergeOneEvents(storedOneEvents, currentOneEvents);
+  await enrichOneEventDetails(oneEvents);
   await writeJson(oneEventStorePath, oneEvents);
   console.log(`Found ${currentOneEvents.length} ONE Championship event(s).`);
 } catch (error: unknown) {

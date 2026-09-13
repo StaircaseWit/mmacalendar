@@ -3,9 +3,9 @@ import assert from "node:assert/strict";
 import { parseAthletePage, parseEventPage, parseEventsListing } from "../src/ufc.js";
 import { renderCalendar, renderCombinedCalendar, renderEstimatedFightCalendar } from "../src/ics.js";
 import { applyCancellationOverrides, reconcileEvents } from "../src/events.js";
-import { ageOnDate, decimalOdds, describeWeightClass, flagEmoji, shortFighterName, unicodeBold } from "../src/utils.js";
+import { ageOnDate, countryFlags, decimalOdds, describeWeightClass, flagEmoji, shortFighterName, unicodeBold } from "../src/utils.js";
 import { oddsRefreshIsDue, updateOddsStore } from "../src/odds.js";
-import { mergeOneEvents, parseOneCalendar, renderOneCalendar } from "../src/one.js";
+import { mergeOneEvents, parseOneCalendar, parseOneEventPage, parseOneEventsListing, renderOneCalendar } from "../src/one.js";
 import type { EventStore, OddsStore } from "../src/types.js";
 
 const eventHtml = `
@@ -37,15 +37,17 @@ test("parses a UFC card even when UFC adds numeric ID suffixes", () => {
   assert.equal(event.sections[1].provisional, true);
 });
 
-test("parses record, family name and exact DOB from an athlete page", () => {
-  const profile = parseAthletePage(`<script type="application/ld+json">{"@graph":[{"mainEntity":{"@type":"Person","familyName":"Silva","birthDate":"1996-12-13"}}]}</script><p class="hero-profile__division-body">17-3-0 (W-L-D)</p>`);
-  assert.deepEqual(profile, { birthDate: "1996-12-13", familyName: "Silva", record: "17-3-0" });
+test("parses record, family name, DOB and official fighting style from an athlete page", () => {
+  const profile = parseAthletePage(`<script type="application/ld+json">{"@graph":[{"mainEntity":{"@type":"Person","familyName":"Silva","birthDate":"1996-12-13"}}]}</script><p class="hero-profile__division-body">17-3-0 (W-L-D)</p><div class="c-bio__field"><div class="c-bio__label">Fighting style</div><div class="c-bio__text">Striker</div></div>`);
+  assert.deepEqual(profile, { birthDate: "1996-12-13", familyName: "Silva", record: "17-3-0", fightingStyle: "Striker" });
 });
 
 test("formats weight and country fields", () => {
   assert.equal(describeWeightClass("Featherweight Bout"), "145lbs/66kg Featherweight");
   assert.equal(describeWeightClass("Featherweight Title Bout"), "145lbs/66kg Featherweight · Title Bout");
   assert.equal(flagEmoji("BR"), "🇧🇷");
+  assert.equal(countryFlags("France / Thailand"), "🇫🇷/🇹🇭");
+  assert.equal(countryFlags("Myanmar [Burma]"), "🇲🇲");
   assert.equal(decimalOdds("-425"), "1.24");
   assert.equal(decimalOdds("+325"), "4.25");
   assert.equal(ageOnDate("1996-12-13", new Date("2026-09-12T21:00:00Z")), 29);
@@ -134,7 +136,7 @@ test("renders configured cancelled bouts at the bottom of event descriptions", (
     "noche-test": [{ redName: "Yair Rodriguez", blueName: "Jean Silva", reason: "Rodriguez injury" }],
   });
   const output = renderCalendar([event], { generatedAt: new Date("2026-09-12T12:00:00Z") }).replace(/\r\n[ \t]/g, "");
-  assert.match(output, /CANCELLED OR WITHDRAWN BOUTS/);
+  assert.match(output, new RegExp(unicodeBold("CANCELLED OR WITHDRAWN BOUTS")));
   assert.match(output, /✕ Yair Rodriguez vs\. Jean Silva \| Rodriguez injury/);
 });
 
@@ -150,8 +152,8 @@ test("preserves an explicit UFC cancellation in calendar status", () => {
 test("renders UTC calendar data so calendar clients localise it", () => {
   const event = parseEventPage(eventHtml, "https://www.ufc.com/event/noche-test");
   const fight = event.sections[0].fights[0];
-  Object.assign(fight.red, { familyName: "Silva", record: "17-3-0", birthDate: "1996-12-13", odds: "-425", oddsHistory: [] });
-  Object.assign(fight.blue, { familyName: "Delgado", record: "10-1-0", birthDate: "1998-11-17", odds: "+325", oddsHistory: [] });
+  Object.assign(fight.red, { familyName: "Silva", record: "17-3-0", birthDate: "1996-12-13", fightingStyle: "Striker", odds: "-425", oddsHistory: [] });
+  Object.assign(fight.blue, { familyName: "Delgado", record: "10-1-0", birthDate: "1998-11-17", fightingStyle: "Grappler", odds: "+325", oddsHistory: [] });
   fight.oddsHistory = [{
     checkedAt: "2026-09-12T12:00:00Z",
     odds: { "jean silva": "-425", "jose miguel delgado": "+325" },
@@ -164,10 +166,11 @@ test("renders UTC calendar data so calendar clients localise it", () => {
   assert.match(unfolded, /🥊 1\. 𝗝𝗲𝗮𝗻 𝗦𝗶𝗹𝘃𝗮/);
   assert.match(unfolded, /145lbs\/66kg Featherweight/);
   assert.doesNotMatch(unfolded, /Est\. 19:00 Ireland/);
-  assert.match(unfolded, /Silva: 17-3-0 \| 29yo \| Odds 🟢 -425 \(1.24\)/);
-  assert.match(unfolded, /Delgado: 10-1-0 \| 27yo \| Odds 🔴 \+325 \(4.25\)/);
-  assert.match(unfolded, /12 Sep: Silva 🟢 -425 \(1.24\) \| Delgado 🔴 \+325 \(4.25\)/);
-  assert.match(unfolded, /--------------------------------\\nBOUTS/);
+  assert.match(unfolded, /• 145lbs\/66kg Featherweight/);
+  assert.match(unfolded, /• Silva: 17-3-0 \| 29yo \| Odds 🟢 -425 \(1.24\) \| Striker/);
+  assert.match(unfolded, /• Delgado: 10-1-0 \| 27yo \| Odds 🔴 \+325 \(4.25\) \| Grappler/);
+  assert.match(unfolded, /◦ 12 Sep: Silva 🟢 -425 \(1.24\) \| Delgado 🔴 \+325 \(4.25\)/);
+  assert.match(unfolded, new RegExp(`--------------------------------\\\\n${unicodeBold("BOUTS")}`));
   assert.match(unfolded, /X-ALT-DESC;FMTTYPE=text\/html:<html><body><p>UFC/);
   assert.match(unfolded, /Event status: Scheduled · verified 12 Sep 2026/);
   assert.doesNotMatch(unfolded, /TRANSP:TRANSPARENT/);
@@ -175,7 +178,7 @@ test("renders UTC calendar data so calendar clients localise it", () => {
   const combinedOutput = renderCombinedCalendar([event], { generatedAt: new Date("2026-09-12T12:00:00Z") }).replace(/\r\n[ \t]/g, "");
   assert.equal((combinedOutput.match(/BEGIN:VEVENT/g) ?? []).length, 1);
   assert.match(combinedOutput, /SUMMARY:Noche UFC: Silva vs Delgado/);
-  assert.match(combinedOutput, /── PRELIMS · 1 bout ──/);
+  assert.match(combinedOutput, new RegExp(unicodeBold("── PRELIMS · 1 bout ──")));
 
   const fightsOutput = renderEstimatedFightCalendar([event], { generatedAt: new Date("2026-09-12T12:00:00Z") }).replace(/\r\n[ \t]/g, "");
   assert.match(fightsOutput, /X-WR-CALNAME:UFC Estimated Fight Times/);
@@ -214,8 +217,28 @@ test("formats ONE Championship's official calendar as a permanent detailed feed"
   const output = renderOneCalendar(parsed, new Date("2026-09-12T12:00:00Z")).replace(/\r\n[ \t]/g, "");
   assert.match(output, /X-WR-CALNAME:ONE Championship/);
   assert.match(output, /DTSTART:20260912T003000Z/);
-  assert.match(output, /🥊 2\. 𝗡𝗮𝗱𝗮𝗸𝗮 vs\. 𝗛𝗮𝗿 𝗟𝗶𝗻𝗴 𝗢𝗺 - Atomweight Kickboxing/);
+  assert.match(output, /🥊 2\. 𝗡𝗮𝗱𝗮𝗸𝗮 vs\. 𝗛𝗮𝗿 𝗟𝗶𝗻𝗴 𝗢𝗺\\n• Atomweight Kickboxing/);
 
   const historical = { ...parsed[0], uid: "older", start: "20250912T003000Z" };
   assert.deepEqual(mergeOneEvents([historical], parsed).map(({ uid }) => uid), ["older", "stable-one-id"]);
+});
+
+test("adds official ONE Championship country flags to matching bouts", () => {
+  const listing = `<a class="title" href="https://www.onefc.com/events/one-friday-fights-170/"><h3>ONE Friday Fights 170 &amp; The Inner Circle 30</h3></a>`;
+  assert.equal(parseOneEventsListing(listing).get("one friday fights 170"), "https://www.onefc.com/events/one-friday-fights-170/");
+  const eventPage = `<div class="event-matchup"><div class="title">Flyweight Muay Thai</div><div class="stats"><table><tr class="vs"><td>Yodlekpet Or Atchariya</td><th>VS</th><td>Pompet Pongsuphan PK</td></tr><tr><td>Thailand</td><th>Country</th><td>Thailand</td></tr></table></div></div>`;
+  const bouts = parseOneEventPage(eventPage);
+  assert.deepEqual(bouts[0], {
+    redName: "Yodlekpet Or Atchariya",
+    blueName: "Pompet Pongsuphan PK",
+    details: "Flyweight Muay Thai",
+    redCountry: "Thailand",
+    blueCountry: "Thailand",
+  });
+  const event = {
+    uid: "one-170", start: "20260911T113000Z", end: "20260911T173000Z", summary: "ONE Friday Fights 170", location: "Bangkok",
+    description: "", url: "https://watch.onefc.com", status: "CONFIRMED", bouts,
+  };
+  const output = renderOneCalendar([event], new Date("2026-09-12T12:00:00Z")).replace(/\r\n[ \t]/g, "");
+  assert.match(output, /𝗬𝗼𝗱𝗹𝗲𝗸𝗽𝗲𝘁 𝗢𝗿 𝗔𝘁𝗰𝗵𝗮𝗿𝗶𝘆𝗮 🇹🇭 vs\. 𝗣𝗼𝗺𝗽𝗲𝘁 𝗣𝗼𝗻𝗴𝘀𝘂𝗽𝗵𝗮𝗻 𝗣𝗞 🇹🇭/);
 });

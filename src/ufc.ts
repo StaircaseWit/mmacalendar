@@ -223,10 +223,14 @@ export function parseAthletePage(html: string): AthleteProfile {
   const person = people[0];
   const record = recordText.match(/\d+\s*-\s*\d+\s*-\s*\d+/)?.[0]
     ?.replace(/\s*-\s*/g, "-") ?? null;
+  const fightingStyleField = $(".c-bio__field").filter((_, field) =>
+    cleanText($(field).find(".c-bio__label").text()).toLowerCase() === "fighting style"
+  ).first();
   return {
     birthDate: person?.birthDate ?? null,
     familyName: cleanText(person?.familyName ?? "") || null,
     record,
+    fightingStyle: cleanText(fightingStyleField.find(".c-bio__text").text()) || null,
   };
 }
 

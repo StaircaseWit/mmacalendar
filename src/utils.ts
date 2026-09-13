@@ -32,6 +32,67 @@ export function flagEmoji(countryCode: string | null | undefined): string {
   return [...countryCode].map((letter) => String.fromCodePoint(127397 + letter.charCodeAt(0))).join("");
 }
 
+const REGION_ALIASES: Record<string, string> = {
+  "burma": "MM",
+  "china": "CN",
+  "czech republic": "CZ",
+  "dr congo": "CD",
+  "england": "GB",
+  "france": "FR",
+  "hong kong": "HK",
+  "iran": "IR",
+  "ivory coast": "CI",
+  "laos": "LA",
+  "macau": "MO",
+  "moldova": "MD",
+  "myanmar [burma]": "MM",
+  "republic of korea": "KR",
+  "russia": "RU",
+  "scotland": "GB",
+  "south korea": "KR",
+  "syria": "SY",
+  "taiwan": "TW",
+  "tanzania": "TZ",
+  "turkey": "TR",
+  "united kingdom": "GB",
+  "united states": "US",
+  "united states of america": "US",
+  "usa": "US",
+  "venezuela": "VE",
+  "vietnam": "VN",
+  "wales": "GB",
+};
+
+let regionCodesByName: Map<string, string> | undefined;
+
+function normalizedRegionName(value: string): string {
+  return cleanText(value).toLocaleLowerCase("en").normalize("NFKD").replace(/[\u0300-\u036f]/g, "");
+}
+
+function regionCodeLookup(): Map<string, string> {
+  if (regionCodesByName) return regionCodesByName;
+  const displayNames = new Intl.DisplayNames(["en"], { type: "region" });
+  regionCodesByName = new Map(Object.entries(REGION_ALIASES));
+  for (let first = 65; first <= 90; first += 1) {
+    for (let second = 65; second <= 90; second += 1) {
+      const code = String.fromCharCode(first, second);
+      const name = displayNames.of(code);
+      if (name && name !== code && !regionCodesByName.has(normalizedRegionName(name))) regionCodesByName.set(normalizedRegionName(name), code);
+    }
+  }
+  return regionCodesByName;
+}
+
+export function countryCodesFromName(value: string | null | undefined): string[] {
+  if (!value) return [];
+  const lookup = regionCodeLookup();
+  return value.split(/\s*\/\s*/).map((country) => lookup.get(normalizedRegionName(country))).filter((code): code is string => Boolean(code));
+}
+
+export function countryFlags(value: string | null | undefined): string {
+  return countryCodesFromName(value).map(flagEmoji).join("/");
+}
+
 export function describeWeightClass(rawValue: string): string {
   const original = cleanText(rawValue);
   const isTitleBout = /title bout/i.test(original);
