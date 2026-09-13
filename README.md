@@ -1,6 +1,6 @@
 # MMA Calendar
 
-A free, automatically updated set of MMA calendar subscriptions. UFC feeds provide detailed cards, fighter information and odds history. ONE Championship events are generated from ONE's official calendar with venues, times and announced bouts.
+A free, automatically updated set of MMA calendar subscriptions. UFC feeds provide detailed cards, fighter information and odds history. ONE Championship and RIZIN events include official venues, times and announced bouts.
 
 No database, paid host, Chrome extension, or Google API is required. GitHub Actions runs the generator, and GitHub Pages serves the resulting calendar feeds.
 
@@ -52,6 +52,7 @@ The standard calendar description uses the `🥊` marker, bout order, and bold U
 - `docs/ufc-combined.ics`: one complete event containing every section and announced bout.
 - `docs/ufc-fights.ics`: optional estimated individual fight events that adapt to the calendar client's time zone.
 - `docs/one.ics`: one complete event per ONE Championship show, including the official venue, times, announced bouts, disciplines and available country flags.
+- `docs/rizin.ics`: one complete event per RIZIN show, including official venues, localised start times, rule sets, announced bouts and cancellation notices. Events without an announced start time begin as date-only placeholders and update later.
 
 ## Optional local-time fight calendar
 
@@ -98,4 +99,4 @@ The subscription is written to `docs/ufc.ics`.
 
 ## Current scope
 
-UFC and ONE Championship are supported. UFC data is collected from UFC.com. ONE event schedules and announced bouts come from ONE Championship's official calendar. Rich ONE fighter profiles and odds are not included yet. "Follow a fighter" notifications are deliberately deferred.
+UFC, ONE Championship and RIZIN are supported. UFC data is collected from UFC.com. ONE event schedules and announced bouts come from ONE Championship's official calendar. RIZIN schedules, cards, fighter countries and cancellation notices come from RIZIN's official event and fighter pages. Promotion-specific odds are not included for ONE or RIZIN yet. "Follow a fighter" notifications are deliberately deferred.

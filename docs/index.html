@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Calendar subscriptions for UFC, ONE Championship and other MMA organisations.">
+  <meta name="description" content="Calendar subscriptions for UFC, ONE Championship, RIZIN and other MMA organisations.">
   <meta name="color-scheme" content="light">
   <title>MMA Event Schedules in your calendar</title>
   <style>
@@ -63,6 +63,7 @@
     .promotion-name { display: flex; align-items: center; gap: 15px; min-width: 0; }
     .promotion-icon { display: grid; place-items: center; flex: 0 0 48px; height: 48px; border-radius: 9px; background: #cf2936; color: #fff; font-size: 12px; font-weight: 900; letter-spacing: -.04em; }
     .promotion-icon.one { background: var(--ink); }
+    .promotion-icon.rizin { background: #687c75; }
     .promotion-icon.planned { background: var(--paper-deep); color: var(--muted); }
     .promotion-name h3 { margin: 0; font: 700 22px/1.2 Georgia, "Times New Roman", serif; letter-spacing: -.02em; }
     .promotion-name p { margin: 3px 0 0; color: var(--muted); font-size: 13px; }
@@ -128,7 +129,7 @@
       </div>
     </div>
 
-    <div class="shell promotion-strip" aria-label="Promotion availability"><span>AVAILABLE NOW</span><strong>UFC</strong><strong>ONE</strong><span>COMING NEXT</span><strong>PFL</strong><strong>RIZIN</strong></div>
+    <div class="shell promotion-strip" aria-label="Promotion availability"><span>AVAILABLE NOW</span><strong>UFC</strong><strong>ONE</strong><strong>RIZIN</strong><span>COMING NEXT</span><strong>PFL</strong></div>
 
     <section class="shell" id="calendars">
       <div class="section-heading"><div><p class="section-label">Calendar subscriptions</p><h2>Choose an organisation</h2></div><p>Open a promotion to see the available calendar formats.</p></div>
@@ -149,8 +150,14 @@
           </div><p class="calendar-help">Schedules and bout details come from ONE Championship’s official calendar and event pages.</p></div>
         </details>
 
+        <details class="promotion-panel" name="promotion">
+          <summary class="promotion-head"><div class="promotion-name"><span class="promotion-icon rizin">RZN</span><div><h3>RIZIN Fighting Federation</h3><p>Events, venues, rule sets and announced bouts</p></div></div><span class="promotion-chevron" aria-hidden="true">⌄</span></summary>
+          <div class="promotion-body"><div class="feed-grid">
+            <article class="feed-card"><div class="feed-card-top"><span class="feed-number">01</span></div><h4>Complete events</h4><p>One calendar event per show with its venue, localised start time, rule sets and announced fight card.</p><code class="feed-url" data-url-for="rizin.ics"></code><div class="feed-actions"><button class="button small copy-feed" type="button" data-feed="rizin.ics">Copy subscription URL</button><a class="button secondary small" href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl" target="_blank" rel="noreferrer">Open Google Calendar ↗</a></div></article>
+          </div><p class="calendar-help">Schedules, cards and cancellation notices come from RIZIN’s official event pages.</p></div>
+        </details>
+
         <details class="promotion-panel" name="promotion"><summary class="promotion-head"><div class="promotion-name"><span class="promotion-icon planned">PFL</span><div><h3>Professional Fighters League</h3><p>Calendar integration planned</p></div></div><span class="promotion-chevron" aria-hidden="true">⌄</span></summary><div class="promotion-body"><p class="planned-copy">PFL calendar subscriptions are planned for a future phase.</p></div></details>
-        <details class="promotion-panel" name="promotion"><summary class="promotion-head"><div class="promotion-name"><span class="promotion-icon planned">RZN</span><div><h3>Rizin Fighting Federation</h3><p>Calendar integration planned</p></div></div><span class="promotion-chevron" aria-hidden="true">⌄</span></summary><div class="promotion-body"><p class="planned-copy">Rizin calendar subscriptions are planned for a future phase.</p></div></details>
       </div>
     </section>
 

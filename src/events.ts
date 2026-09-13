@@ -16,6 +16,25 @@ function activeBoutKeys(event: UfcEvent): Set<string> {
   return new Set(event.sections.flatMap(({ fights }) => fights.map(({ red, blue }) => boutKey(red.name, blue.name))));
 }
 
+function preserveKnownProfileUrls(event: UfcEvent, previous: UfcEvent | null): void {
+  if (!previous) return;
+  const previousFights = new Map(
+    previous.sections.flatMap(({ fights }) => fights.map((fight) => [boutKey(fight.red.name, fight.blue.name), fight] as const)),
+  );
+
+  for (const section of event.sections) {
+    for (const fight of section.fights) {
+      const previousFight = previousFights.get(boutKey(fight.red.name, fight.blue.name));
+      if (!previousFight) continue;
+      for (const fighter of [fight.red, fight.blue]) {
+        const known = [previousFight.red, previousFight.blue]
+          .find((candidate) => normalizedName(candidate.name) === normalizedName(fighter.name));
+        if (known?.profileUrl) fighter.profileUrl = known.profileUrl;
+      }
+    }
+  }
+}
+
 function mergeCancelledBouts(event: UfcEvent, previous: UfcEvent | null, checkedAt: string): void {
   const active = activeBoutKeys(event);
   const cancelled = new Map<string, CancelledBout>();
@@ -118,6 +137,7 @@ export function reconcileEvents(
     seen.add(event.slug);
     const previous = store.events[event.slug];
     const previousEvent = previous ? hydrateEvent(previous.event) : null;
+    preserveKnownProfileUrls(event, previousEvent);
     mergeCancelledBouts(event, previousEvent, checkedAt);
     const previousStart = previousEvent ? eventStart(previousEvent) : null;
     const currentStart = eventStart(event);

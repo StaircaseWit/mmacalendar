@@ -1,4 +1,4 @@
-name: Update UFC calendar
+name: Update MMA calendars
 
 on:
   workflow_dispatch:
@@ -21,7 +21,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: update-ufc-calendar
+  group: update-mma-calendars
   cancel-in-progress: false
 
 jobs:
@@ -52,7 +52,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs data
-          git diff --cached --quiet || git commit -m "Update UFC calendar"
+          git diff --cached --quiet || git commit -m "Update MMA calendars"
           git push
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5

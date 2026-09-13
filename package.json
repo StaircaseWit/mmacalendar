@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "packageManager": "pnpm@11.19.0",
-  "description": "Automatically updated MMA calendar feeds for UFC and ONE Championship.",
+  "description": "Automatically updated MMA calendar feeds for UFC, ONE Championship and RIZIN.",
   "engines": {
     "node": ">=20"
   },

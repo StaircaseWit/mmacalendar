@@ -9,6 +9,7 @@ import { readJson, writeJson } from "./state.js";
 import { renderCalendar, renderCombinedCalendar, renderEstimatedFightCalendar } from "./ics.js";
 import { renderOddsPage } from "./odds-page.js";
 import { enrichOneEventDetails, mergeOneEvents, renderOneCalendar, scrapeOneCalendar, type OneEvent } from "./one.js";
+import { enrichRizinFighters, mergeRizinEvents, renderRizinCalendar, scrapeRizinEvents, type RizinEvent, type RizinFighterStore } from "./rizin.js";
 import type { CancelledBout, EventStore, FighterStore, OddsStore } from "./types.js";
 
 const root = process.cwd();
@@ -18,6 +19,8 @@ const oddsStorePath = resolve(root, "data/odds-history.json");
 const eventStorePath = resolve(root, "data/events.json");
 const cancellationOverridesPath = resolve(root, "data/cancellations.json");
 const oneEventStorePath = resolve(root, "data/one-events.json");
+const rizinEventStorePath = resolve(root, "data/rizin-events.json");
+const rizinFighterStorePath = resolve(root, "data/rizin-fighters.json");
 const now = new Date();
 
 const configuredUrls = (process.env.UFC_EVENT_URLS ?? "").split(",").map((value) => value.trim()).filter(Boolean);
@@ -72,6 +75,28 @@ try {
   console.warn(`Keeping the stored ONE Championship calendar after a source error: ${message}`);
 }
 
+const storedRizinEvents = await readJson<RizinEvent[]>(rizinEventStorePath, []);
+const rizinFighterStore = await readJson<RizinFighterStore>(rizinFighterStorePath, { profiles: {} });
+let rizinEvents = storedRizinEvents;
+try {
+  const currentRizinEvents = await scrapeRizinEvents(now, {
+    pastDays: Number(process.env.RIZIN_PAST_DAYS ?? 180),
+    maxEvents: Number(process.env.RIZIN_MAX_EVENTS ?? 20),
+  });
+  if (!currentRizinEvents.length) throw new Error("the official events page did not contain any recent or upcoming events");
+  await enrichRizinFighters(currentRizinEvents, rizinFighterStore, now);
+  rizinEvents = mergeRizinEvents(storedRizinEvents, currentRizinEvents);
+  await Promise.all([
+    writeJson(rizinEventStorePath, rizinEvents),
+    writeJson(rizinFighterStorePath, rizinFighterStore),
+  ]);
+  console.log(`Found ${currentRizinEvents.length} recent/upcoming RIZIN event(s).`);
+} catch (error: unknown) {
+  const message = error instanceof Error ? error.message : String(error);
+  if (!rizinEvents.length) throw new Error(`RIZIN calendar could not be generated: ${message}`);
+  console.warn(`Keeping the stored RIZIN calendar after a source error: ${message}`);
+}
+
 await mkdir(outputDirectory, { recursive: true });
 const calendarOptions = {
   generatedAt: now,
@@ -84,6 +109,7 @@ await Promise.all([
   writeFile(resolve(outputDirectory, "ufc-combined.ics"), renderCombinedCalendar(events, calendarOptions)),
   writeFile(resolve(outputDirectory, "ufc-fights.ics"), renderEstimatedFightCalendar(events, calendarOptions)),
   writeFile(resolve(outputDirectory, "one.ics"), renderOneCalendar(oneEvents, now)),
+  writeFile(resolve(outputDirectory, "rizin.ics"), renderRizinCalendar(rizinEvents, now)),
   writeFile(resolve(outputDirectory, "odds-history.html"), renderOddsPage(oddsStore)),
 ]);
 

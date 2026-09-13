@@ -1,0 +1,1748 @@
+[
+  {
+    "uid": "17813447",
+    "date": "2026-04-12",
+    "start": "20260412T050000Z",
+    "end": "20260412T110000Z",
+    "summary": "大和開発 presents RIZIN LANDMARK 13 in FUKUOKA",
+    "location": "マリンメッセ福岡 A館",
+    "url": "https://jp.rizinff.com/_ct/17813447",
+    "cardUrl": "https://jp.rizinff.com/_ct/17821442",
+    "status": "CONFIRMED",
+    "timeIsTentative": false,
+    "bouts": [
+      {
+        "order": 12,
+        "section": "Main Card",
+        "red": {
+          "name": "Razhabali Shaidulloev",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%A9%E3%82%B8%E3%83%A3%E3%83%96%E3%82%A2%E3%83%AA%E3%83%BB%E3%82%B7%E3%82%A7%E3%82%A4%E3%83%89%E3%82%A5%E3%83%A9%E3%82%A8%E3%83%95",
+          "countryCode": "KG",
+          "birthDate": "2000-10-11"
+        },
+        "blue": {
+          "name": "Yuta Kubo",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E4%B9%85%E4%BF%9D%E5%84%AA%E5%A4%AA",
+          "countryCode": "JP",
+          "birthDate": "1987-10-19"
+        },
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+      },
+      {
+        "order": 11,
+        "section": "Main Card",
+        "red": {
+          "name": "Danny Sabatello",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%80%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B5%E3%83%90%E3%83%86%E3%83%AD",
+          "countryCode": "US",
+          "birthDate": "1993-03-31"
+        },
+        "blue": {
+          "name": "Joji Goto",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%BE%8C%E8%97%A4%E4%B8%88%E6%B2%BB",
+          "countryCode": "JP",
+          "birthDate": "1996-03-09"
+        },
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+      },
+      {
+        "order": 10,
+        "section": "Main Card",
+        "red": {
+          "name": "Yoshinori Horie",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%A0%80%E6%B1%9F%E5%9C%AD%E5%8A%9F",
+          "countryCode": "JP",
+          "birthDate": "1995-05-10"
+        },
+        "blue": {
+          "name": "Patricky Pitbull",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%91%E3%83%88%E3%83%AA%E3%83%83%E3%82%AD%E3%83%BC%E3%83%BB%E3%83%94%E3%83%83%E3%83%88%E3%83%96%E3%83%AB",
+          "countryCode": "BR",
+          "birthDate": "1986-01-21"
+        },
+        "details": "71kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 9,
+        "section": "Main Card",
+        "red": {
+          "name": "Kyohei Hagiwara",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E8%90%A9%E5%8E%9F%E4%BA%AC%E5%B9%B3",
+          "countryCode": "JP",
+          "birthDate": "1995-12-28"
+        },
+        "blue": {
+          "name": "Abijah Kaleo Meheula",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%A2%E3%83%90%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%BB%E3%82%AB%E3%83%AC%E3%82%AA%E3%83%BB%E3%83%A1%E3%83%98%E3%82%A6%E3%83%A9",
+          "countryCode": "US",
+          "birthDate": "1995-11-25"
+        },
+        "details": "66kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 8,
+        "section": "Main Card",
+        "red": {
+          "name": "Ryuya Fukuda",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%A6%8F%E7%94%B0%E9%BE%8D%E5%BD%8C",
+          "countryCode": "JP",
+          "birthDate": "1992-06-12"
+        },
+        "blue": {
+          "name": "Azizbek Temirov",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%A2%E3%82%B8%E3%82%BA%E3%83%99%E3%82%AF%E3%83%BB%E3%83%86%E3%83%9F%E3%83%AD%E3%83%95",
+          "countryCode": "UZ",
+          "birthDate": "1998-09-28"
+        },
+        "details": "61kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 7,
+        "section": "Main Card",
+        "red": {
+          "name": "Taio Asahisa",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%9C%9D%E4%B9%85%E6%B3%B0%E5%A4%AE",
+          "countryCode": "JP",
+          "birthDate": "1998-01-16"
+        },
+        "blue": {
+          "name": "Singphayak HAMAGYM",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%B7%E3%83%B3%E3%83%91%E3%83%A4%E3%83%83%E3%82%AF%E3%83%BB%E3%83%8F%E3%83%9E%E3%82%B8%E3%83%A0",
+          "countryCode": "TH",
+          "birthDate": "1995-12-17"
+        },
+        "details": "66kg · RIZIN Kickboxing · 3 × 3 min rounds"
+      },
+      {
+        "order": 6,
+        "section": "Main Card",
+        "red": {
+          "name": "Makoto Shinryu",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%A5%9E%E9%BE%8D%E8%AA%A0",
+          "countryCode": "JP",
+          "birthDate": "2000-07-05"
+        },
+        "blue": {
+          "name": "Nkazimulo Zulu",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%A8%E3%83%B3%E3%82%AB%E3%82%B8%E3%83%A0%E3%83%BC%E3%83%AD%E3%83%BB%E3%82%BA%E3%83%BC%E3%83%AB%E3%83%BC",
+          "countryCode": "ZA",
+          "birthDate": "1989-08-19"
+        },
+        "details": "57kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 5,
+        "section": "Main Card",
+        "red": {
+          "name": "Ayaka Hamasaki",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%B5%9C%E5%B4%8E%E6%9C%B1%E5%8A%A0",
+          "countryCode": "JP",
+          "birthDate": "1982-03-31"
+        },
+        "blue": {
+          "name": "Natasha Kuziutina",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%8A%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BB%E3%82%AF%E3%82%B8%E3%83%A5%E3%83%86%E3%82%A3%E3%83%8A",
+          "countryCode": "RU",
+          "birthDate": "1989-05-08"
+        },
+        "details": "49kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 4,
+        "section": "Main Card",
+        "red": {
+          "name": "Kazumasa Majima",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%91%A9%E5%B6%8B%E4%B8%80%E6%95%B4",
+          "countryCode": "JP",
+          "birthDate": "1991-10-16"
+        },
+        "blue": {
+          "name": "James Gallagher",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AC%E3%83%BC",
+          "countryCode": "IE",
+          "birthDate": "1996-10-24"
+        },
+        "details": "66kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 3,
+        "section": "Main Card",
+        "red": {
+          "name": "Nurkhan Zhumagazy",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%8C%E3%83%AB%E3%83%8F%E3%83%B3%E3%83%BB%E3%82%BA%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%BC",
+          "countryCode": "KZ",
+          "birthDate": "2001-01-06"
+        },
+        "blue": {
+          "name": "Tenya",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%A4%A9%E5%BC%A5",
+          "countryCode": "JP",
+          "birthDate": "2004-05-07"
+        },
+        "details": "71kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 2,
+        "section": "Main Card",
+        "red": {
+          "name": "Ryosuke Honda",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%9C%AC%E7%94%B0%E8%89%AF%E4%BB%8B",
+          "countryCode": "JP",
+          "birthDate": "1991-04-06"
+        },
+        "blue": {
+          "name": "Hinotori",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%81%AB%E3%81%AE%E9%B3%A5",
+          "countryCode": "JP",
+          "birthDate": "1994-03-22"
+        },
+        "details": "57kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 1,
+        "section": "Main Card",
+        "red": {
+          "name": "Seiya Inoue",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E4%BA%95%E4%B8%8A%E8%81%96%E7%9F%A2",
+          "countryCode": "JP",
+          "birthDate": "2004-04-04"
+        },
+        "blue": {
+          "name": "Hyuga Miyagawa",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%AE%AE%E5%B7%9D%E6%97%A5%E5%90%91",
+          "countryCode": "JP",
+          "birthDate": "2002-07-15"
+        },
+        "details": "61kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 4,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Daiki Yahiro",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%85%AB%E5%B0%8B%E5%A4%A7%E8%BC%9D",
+          "countryCode": "JP",
+          "birthDate": "1991-12-15"
+        },
+        "blue": {
+          "name": "Shun Okamoto",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%B2%A1%E6%9C%AC%E7%9E%AC",
+          "countryCode": "JP",
+          "birthDate": "1990-07-03"
+        },
+        "details": "57kg · RIZIN MMA · 2 × 5 min rounds"
+      },
+      {
+        "order": 3,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Kodai Yamasaki",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%B1%B1%EF%A8%91%E9%BC%93%E5%A4%A7",
+          "countryCode": "JP",
+          "birthDate": null
+        },
+        "blue": {
+          "name": "Tomoaki Arimatsu",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%9C%89%E6%9D%BE%E6%9C%8B%E6%99%83",
+          "countryCode": "JP",
+          "birthDate": "2000-10-10"
+        },
+        "details": "61kg · RIZIN MMA · 2 × 5 min rounds"
+      },
+      {
+        "order": 2,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Ryota Oki",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%A4%A7%E6%9C%A8%E8%89%AF%E5%A4%AA",
+          "countryCode": "JP",
+          "birthDate": "1989-06-27"
+        },
+        "blue": {
+          "name": "Ginji Arai",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E8%8D%92%E4%BA%95%E9%8A%80%E4%BA%8C",
+          "countryCode": "JP",
+          "birthDate": "2004-08-11"
+        },
+        "details": "71kg · RIZIN MMA · 2 × 5 min rounds"
+      },
+      {
+        "order": 1,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Ryusei Imamura",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E4%BB%8A%E6%9D%91%E6%B5%81%E6%98%9F",
+          "countryCode": "JP",
+          "birthDate": "2003-05-30"
+        },
+        "blue": {
+          "name": "YU-KI",
+          "profileUrl": "https://jp.rizinff.com/_tags/YU-KI",
+          "countryCode": "JP",
+          "birthDate": "1997-12-22"
+        },
+        "details": "57kg · RIZIN Kickboxing · 3 × 3 min rounds"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "17821353",
+    "date": "2026-05-10",
+    "start": "20260510T050000Z",
+    "end": "20260510T110000Z",
+    "summary": "RIZIN.53",
+    "location": "GLION ARENA KOBE",
+    "url": "https://jp.rizinff.com/_ct/17821353",
+    "cardUrl": "https://jp.rizinff.com/_ct/17831008",
+    "status": "CONFIRMED",
+    "timeIsTentative": false,
+    "bouts": [
+      {
+        "order": 11,
+        "section": "Main Card",
+        "red": {
+          "name": "Ilkhom Nozimov",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%A4%E3%83%AB%E3%83%9B%E3%83%A0%E3%83%BB%E3%83%8E%E3%82%B8%E3%83%A2%E3%83%95",
+          "countryCode": "UZ",
+          "birthDate": "1995-03-27"
+        },
+        "blue": {
+          "name": "Luiz Gustavo",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%B0%E3%82%B9%E3%82%BF%E3%83%9C",
+          "countryCode": "BR",
+          "birthDate": "1996-05-25"
+        },
+        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+      },
+      {
+        "order": 10,
+        "section": "Main Card",
+        "red": {
+          "name": "Ren Hiramoto",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%B9%B3%E6%9C%AC%E8%93%AE",
+          "countryCode": "JP",
+          "birthDate": "1998-06-27"
+        },
+        "blue": {
+          "name": "Kouzi",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%9A%87%E6%B2%BB",
+          "countryCode": "JP",
+          "birthDate": "1989-05-06"
+        },
+        "details": "RIZIN Standing Bout · 3 × 3 min rounds"
+      },
+      {
+        "order": 9,
+        "section": "Main Card",
+        "red": {
+          "name": "Ryo Takagi",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%AB%98%E6%9C%A8%E5%87%8C",
+          "countryCode": "JP",
+          "birthDate": "1999-09-12"
+        },
+        "blue": {
+          "name": "Kaiwen Li",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%AB%E3%82%A4%E3%82%A6%E3%82%A7%E3%83%B3",
+          "countryCode": "CN",
+          "birthDate": "1995-10-16"
+        },
+        "details": "66kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 8,
+        "section": "Main Card",
+        "red": {
+          "name": "Shinobu Ota",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%A4%AA%E7%94%B0%E5%BF%8D",
+          "countryCode": "JP",
+          "birthDate": "1993-12-28"
+        },
+        "blue": {
+          "name": "Kintaro",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%87%91%E5%A4%AA%E9%83%8E",
+          "countryCode": "JP",
+          "birthDate": "1993-03-19"
+        },
+        "details": "61kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 7,
+        "section": "Main Card",
+        "red": {
+          "name": "Kate Lotus",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%B1%E3%82%A4%E3%83%88%E3%83%BB%E3%83%AD%E3%83%BC%E3%82%BF%E3%82%B9",
+          "countryCode": "JP",
+          "birthDate": "1998-03-16"
+        },
+        "blue": {
+          "name": "Katie Perez",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%B1%E3%82%A4%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9A%E3%83%AC%E3%82%B9",
+          "countryCode": "US",
+          "birthDate": "1993-05-24"
+        },
+        "details": "51kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 6,
+        "section": "Main Card",
+        "red": {
+          "name": "Tatsuya “Yanbo” Saika",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%9B%91%E8%B3%80%E2%80%9C%E3%83%A4%E3%83%B3%E5%9D%8A%E2%80%9D%E9%81%94%E4%B9%9F",
+          "countryCode": "JP",
+          "birthDate": "1990-09-18"
+        },
+        "blue": {
+          "name": "Sho Patrick Usami",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%AE%87%E4%BD%90%E7%BE%8E%E6%AD%A3%E3%83%91%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF",
+          "countryCode": "JP",
+          "birthDate": "2000-05-08"
+        },
+        "details": "71kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 5,
+        "section": "Main Card",
+        "red": {
+          "name": "Koyomi Matsushima",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%9D%BE%E5%B6%8B%E3%81%93%E3%82%88%E3%81%BF",
+          "countryCode": "JP",
+          "birthDate": "1992-10-08"
+        },
+        "blue": {
+          "name": "Ryan Cafaro",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%95%E3%82%A1%E3%83%AD",
+          "countryCode": "US",
+          "birthDate": "1989-10-24"
+        },
+        "details": "66kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 4,
+        "section": "Main Card",
+        "red": {
+          "name": "Daiki Lightyear",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%80%E3%82%A4%E3%82%AD%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%88%E3%82%A4%E3%83%A4%E3%83%BC",
+          "countryCode": "JP",
+          "birthDate": "1988-09-10"
+        },
+        "blue": {
+          "name": "Genji Umeno",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%A2%85%E9%87%8E%E6%BA%90%E6%B2%BB",
+          "countryCode": "JP",
+          "birthDate": "1988-12-13"
+        },
+        "details": "61kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 3,
+        "section": "Main Card",
+        "red": {
+          "name": "JOLLY",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%B8%E3%83%A7%E3%83%AA%E3%83%BC",
+          "countryCode": "JP",
+          "birthDate": "1997-04-23"
+        },
+        "blue": {
+          "name": "Kenshin Kodama",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%85%90%E7%8E%89%E5%85%BC%E6%85%8E",
+          "countryCode": "JP",
+          "birthDate": "2001-12-25"
+        },
+        "details": "62kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 2,
+        "section": "Main Card",
+        "red": {
+          "name": "Seiya Ameyama",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%A3%B4%E5%B1%B1%E8%81%96%E4%B9%9F",
+          "countryCode": "JP",
+          "birthDate": "2002-10-23"
+        },
+        "blue": {
+          "name": "Joe Hiramoto",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%B9%B3%E6%9C%AC%E4%B8%88",
+          "countryCode": "JP",
+          "birthDate": "2003-07-22"
+        },
+        "details": "57kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 1,
+        "section": "Main Card",
+        "red": {
+          "name": "Kouki Nakagawa",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E4%B8%AD%E5%B7%9D%E7%9A%93%E8%B2%B4",
+          "countryCode": "JP",
+          "birthDate": "1996-10-10"
+        },
+        "blue": {
+          "name": "Jake Wilkins",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%AD%E3%83%B3%E3%82%B9",
+          "countryCode": "JP",
+          "birthDate": "1992-07-26"
+        },
+        "details": "66kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 4,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Soul Hamaguchi",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%BF%B1%E5%8F%A3%E5%A5%8F%E7%90%89",
+          "countryCode": "JP",
+          "birthDate": "2003-03-03"
+        },
+        "blue": {
+          "name": "Haruto Sunada",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%A0%82%E7%94%B0%E8%8F%AF%E6%9D%9C",
+          "countryCode": "JP",
+          "birthDate": "2001-12-02"
+        },
+        "details": "57kg · RIZIN MMA · 2 × 5 min rounds"
+      },
+      {
+        "order": 3,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Yushi",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%8B%87%E5%BF%97",
+          "countryCode": "JP",
+          "birthDate": "2000-04-28"
+        },
+        "blue": {
+          "name": "Asatarou",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%BA%BB%E5%A4%AA%E9%83%8E",
+          "countryCode": "JP",
+          "birthDate": "2002-02-08"
+        },
+        "details": "62kg · RIZIN Kickboxing · 3 × 3 min rounds"
+      },
+      {
+        "order": 2,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Juna Koda",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E4%B8%8A%E7%94%B0%E6%A8%B9%E9%82%A3",
+          "countryCode": "JP",
+          "birthDate": "2007-08-30"
+        },
+        "blue": {
+          "name": "Hinata Kitano",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%8C%97%E9%87%8E%E3%83%92%E3%83%8A%E3%82%BF",
+          "countryCode": "JP",
+          "birthDate": "2010-06-07"
+        },
+        "details": "46kg · RIZIN Kickboxing · 3 × 3 min rounds"
+      },
+      {
+        "order": 1,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Shota",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%A5%A5%E6%B1%B0",
+          "countryCode": "JP",
+          "birthDate": "2006-10-19"
+        },
+        "blue": {
+          "name": "Tomoya Sudo",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%A0%88%E8%97%A4%E6%99%BA%E4%B9%9F",
+          "countryCode": "JP",
+          "birthDate": "2001-09-25"
+        },
+        "details": "57kg · RIZIN Kickboxing · 3 × 3 min rounds"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "17825993",
+    "date": "2026-06-06",
+    "start": "20260606T060000Z",
+    "end": "20260606T120000Z",
+    "summary": "RIZIN LANDMARK 14 in SENDAI",
+    "location": "ゼビオアリーナ仙台",
+    "url": "https://jp.rizinff.com/_ct/17825993",
+    "cardUrl": "https://jp.rizinff.com/_ct/17835093",
+    "status": "CONFIRMED",
+    "timeIsTentative": false,
+    "bouts": [
+      {
+        "order": 8,
+        "section": "Main Card",
+        "red": {
+          "name": "Hiromasa Ougikubo",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%89%87%E4%B9%85%E4%BF%9D%E5%8D%9A%E6%AD%A3",
+          "countryCode": "JP",
+          "birthDate": "1987-04-01"
+        },
+        "blue": {
+          "name": "Makoto Shinryu",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%A5%9E%E9%BE%8D%E8%AA%A0",
+          "countryCode": "JP",
+          "birthDate": "2000-07-05"
+        },
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+      },
+      {
+        "order": 7,
+        "section": "Main Card",
+        "red": {
+          "name": "Yuki Motoya",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%85%83%E8%B0%B7%E5%8F%8B%E8%B2%B4",
+          "countryCode": "JP",
+          "birthDate": "1989-09-14"
+        },
+        "blue": {
+          "name": "Tony Laramie",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%88%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%A9%E3%83%A9%E3%83%9F%E3%83%BC",
+          "countryCode": "CA",
+          "birthDate": "1999-01-06"
+        },
+        "details": "59kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 6,
+        "section": "Main Card",
+        "red": {
+          "name": "Ryo Sakai",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%85%92%E4%BA%95%E3%83%AA%E3%83%A7%E3%82%A6",
+          "countryCode": "JP",
+          "birthDate": "1987-03-24"
+        },
+        "blue": {
+          "name": "Takakenshin",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E8%B2%B4%E8%B3%A2%E7%A5%9E",
+          "countryCode": "JP",
+          "birthDate": "1997-05-13"
+        },
+        "details": "120kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 5,
+        "section": "Main Card",
+        "red": {
+          "name": "“BlackPanther”Beynoah",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E2%80%9C%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%91%E3%83%B3%E3%82%B5%E3%83%BC%E2%80%9D%E3%83%99%E3%82%A4%E3%83%8E%E3%82%A2",
+          "countryCode": "US",
+          "birthDate": "1995-08-20"
+        },
+        "blue": {
+          "name": "Bilal Kai Haga",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E8%8A%B3%E8%B3%80%E3%83%93%E3%83%A9%E3%83%AB%E6%B5%B7",
+          "countryCode": "JP",
+          "birthDate": "1996-11-22"
+        },
+        "details": "71kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 4,
+        "section": "Main Card",
+        "red": {
+          "name": "Yusuke Yachi",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%9F%A2%E5%9C%B0%E7%A5%90%E4%BB%8B",
+          "countryCode": "JP",
+          "birthDate": "1990-05-13"
+        },
+        "blue": {
+          "name": "ISAO",
+          "profileUrl": "https://jp.rizinff.com/_tags/ISAO",
+          "countryCode": "JP",
+          "birthDate": "1988-10-28"
+        },
+        "details": "71kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 3,
+        "section": "Main Card",
+        "red": {
+          "name": "Daichi Tomizawa",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%86%A8%E6%BE%A4%E5%A4%A7%E6%99%BA",
+          "countryCode": "JP",
+          "birthDate": "1997-10-03"
+        },
+        "blue": {
+          "name": "Rui Kato",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%8A%A0%E8%97%A4%E7%91%A0%E5%81%89",
+          "countryCode": "JP",
+          "birthDate": "2002-02-10"
+        },
+        "details": "57kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 2,
+        "section": "Main Card",
+        "red": {
+          "name": "Naoki",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%9B%B4%E6%A8%B9",
+          "countryCode": "JP",
+          "birthDate": "1992-06-24"
+        },
+        "blue": {
+          "name": "Kaisei Kuroi",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%BB%92%E4%BA%95%E6%B5%B7%E6%88%90",
+          "countryCode": "JP",
+          "birthDate": "2001-06-21"
+        },
+        "details": "66kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 1,
+        "section": "Main Card",
+        "red": {
+          "name": "Koki Akada",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E8%B5%A4%E7%94%B0%E5%8A%9F%E8%BC%9D",
+          "countryCode": "JP",
+          "birthDate": "1998-12-23"
+        },
+        "blue": {
+          "name": "Seiya Inoue",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E4%BA%95%E4%B8%8A%E8%81%96%E7%9F%A2",
+          "countryCode": "JP",
+          "birthDate": "2004-04-04"
+        },
+        "details": "61kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 4,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Hayato",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%A2%AF%E6%96%97",
+          "countryCode": "JP",
+          "birthDate": "2000-03-12"
+        },
+        "blue": {
+          "name": "Taylan Yuasa",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%B9%AF%E6%B5%85%E5%B8%9D%E8%93%AE",
+          "countryCode": "US",
+          "birthDate": "1996-12-01"
+        },
+        "details": "57kg · RIZIN MMA · 2 × 5 min rounds"
+      },
+      {
+        "order": 3,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Koya Saito",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%BD%8B%E8%97%A4%E7%B4%98%E4%B9%9F",
+          "countryCode": "JP",
+          "birthDate": "2000-05-18"
+        },
+        "blue": {
+          "name": "TAaaaCHAN",
+          "profileUrl": "https://jp.rizinff.com/_tags/TAaaaCHAN",
+          "countryCode": "JP",
+          "birthDate": "1991-07-30"
+        },
+        "details": "67.5kg · RIZIN Kickboxing · 3 × 3 min rounds"
+      },
+      {
+        "order": 2,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Daichi Akahira",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E8%B5%A4%E5%B9%B3%E5%A4%A7%E6%B2%BB",
+          "countryCode": "JP",
+          "birthDate": "2001-10-31"
+        },
+        "blue": {
+          "name": "Sho Uchida",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%86%85%E7%94%B0%E6%99%B6",
+          "countryCode": "JP",
+          "birthDate": "1997-10-21"
+        },
+        "details": "56.5kg · RIZIN Kickboxing · 3 × 3 min rounds"
+      },
+      {
+        "order": 1,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Yusuke Iwaki",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%B2%A9%E5%9F%8E%E6%82%A0%E4%BB%8B",
+          "countryCode": "JP",
+          "birthDate": "1994-03-24"
+        },
+        "blue": {
+          "name": "Sho Nakaizumi",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E4%B8%AD%E6%B3%89%E7%BF%94",
+          "countryCode": "JP",
+          "birthDate": "1989-12-06"
+        },
+        "details": "62kg · RIZIN Kickboxing · 3 × 3 min rounds"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "17825995",
+    "date": "2026-07-18",
+    "start": "20260718T050000Z",
+    "end": "20260718T110000Z",
+    "summary": "RIZIN LANDMARK 15 in HIROSHIMA",
+    "location": "広島グリーンアリーナ",
+    "url": "https://jp.rizinff.com/_ct/17825995",
+    "cardUrl": "https://jp.rizinff.com/_ct/17841138",
+    "status": "CONFIRMED",
+    "timeIsTentative": false,
+    "bouts": [
+      {
+        "order": 12,
+        "section": "Main Card",
+        "red": {
+          "name": "Danny Sabatello",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%80%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B5%E3%83%90%E3%83%86%E3%83%AD",
+          "style": "Grappler",
+          "countryCode": "US",
+          "birthDate": "1993-03-31"
+        },
+        "blue": {
+          "name": "Jinnosuke Kashimura",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%B9%BF%E5%BF%97%E6%9D%91%E4%BB%81%E4%B9%8B%E4%BB%8B",
+          "style": "Grappler",
+          "countryCode": "JP",
+          "birthDate": "2001-08-12"
+        },
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+      },
+      {
+        "order": 11,
+        "section": "Main Card",
+        "red": {
+          "name": "Karshyga Dautbek",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%AB%E3%83%AB%E3%82%B7%E3%83%A3%E3%82%AC%E3%83%BB%E3%83%80%E3%82%A6%E3%83%88%E3%83%99%E3%83%83%E3%82%AF",
+          "style": "Striker",
+          "countryCode": "KZ",
+          "birthDate": "1993-12-07"
+        },
+        "blue": {
+          "name": "Kyohei Hagiwara",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E8%90%A9%E5%8E%9F%E4%BA%AC%E5%B9%B3",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "1995-12-28"
+        },
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 10,
+        "section": "Main Card",
+        "red": {
+          "name": "Shinobu Ota",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%A4%AA%E7%94%B0%E5%BF%8D",
+          "style": "Grappler",
+          "countryCode": "JP",
+          "birthDate": "1993-12-28"
+        },
+        "blue": {
+          "name": "Yrysbek Tilenov",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%99%E3%82%AF%E3%83%BB%E3%83%86%E3%82%A3%E3%83%AC%E3%83%8E%E3%83%95",
+          "style": "All-rounder",
+          "countryCode": "KG",
+          "birthDate": "2003-12-14"
+        },
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 9,
+        "section": "Main Card",
+        "red": {
+          "name": "Hiroya",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%92%E3%83%AD%E3%83%A4",
+          "style": "All-rounder",
+          "countryCode": "JP",
+          "birthDate": "1998-05-07"
+        },
+        "blue": {
+          "name": "Erson Yamamoto",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%B1%B1%E6%9C%AC%E3%82%A2%E3%83%BC%E3%82%BB%E3%83%B3",
+          "style": "Grappler",
+          "countryCode": "JP",
+          "birthDate": "1996-09-08"
+        },
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 8,
+        "section": "Main Card",
+        "red": {
+          "name": "Johnny Case",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B1%E3%83%BC%E3%82%B9",
+          "style": "All-rounder",
+          "countryCode": "US",
+          "birthDate": "1989-06-28"
+        },
+        "blue": {
+          "name": "Tenya",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%A4%A9%E5%BC%A5",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "2004-05-07"
+        },
+        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+      },
+      {
+        "order": 7,
+        "section": "Main Card",
+        "red": {
+          "name": "Saori Oshima",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%A4%A7%E5%B3%B6%E6%B2%99%E7%B7%92%E9%87%8C",
+          "style": "Grappler",
+          "countryCode": "JP",
+          "birthDate": "1994-11-14"
+        },
+        "blue": {
+          "name": "Ye Ji Lee",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%A4%E3%83%BB%E3%82%A4%E3%82%A7%E3%82%B8",
+          "style": null,
+          "countryCode": "KR",
+          "birthDate": "1999-07-03"
+        },
+        "details": "49kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 6,
+        "section": "Main Card",
+        "red": {
+          "name": "Si Woo Park",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%91%E3%82%AF%E3%83%BB%E3%82%B7%E3%82%A6",
+          "style": "Striker",
+          "countryCode": "KR",
+          "birthDate": "1991-06-26"
+        },
+        "blue": {
+          "name": "Moeri Suda",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%A0%88%E7%94%B0%E8%90%8C%E9%87%8C",
+          "style": "Grappler",
+          "countryCode": "JP",
+          "birthDate": "2004-07-29"
+        },
+        "details": "49kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 5,
+        "section": "Main Card",
+        "red": {
+          "name": "Shoji",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%98%87%E4%BE%8D",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "1983-04-24"
+        },
+        "blue": {
+          "name": "Genji Umeno",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%A2%85%E9%87%8E%E6%BA%90%E6%B2%BB",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "1988-12-13"
+        },
+        "details": "64kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 4,
+        "section": "Main Card",
+        "red": {
+          "name": "Hiroaki Suzuki",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%88%B4%E6%9C%A8%E5%8D%9A%E6%98%AD",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "1984-12-06"
+        },
+        "blue": {
+          "name": "Hyuga Miyagawa",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%AE%AE%E5%B7%9D%E6%97%A5%E5%90%91",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "2002-07-15"
+        },
+        "details": "66kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 3,
+        "section": "Main Card",
+        "red": {
+          "name": "Shinji Sasaki",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E4%BD%90%E3%80%85%E6%9C%A8%E4%BF%A1%E6%B2%BB",
+          "style": "Grappler",
+          "countryCode": "JP",
+          "birthDate": "1980-05-02"
+        },
+        "blue": {
+          "name": "Yota Rice Hayashi",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%9E%97RICE%E9%99%BD%E5%A4%AA",
+          "style": "All-rounder",
+          "countryCode": "JP",
+          "birthDate": "1993-06-02"
+        },
+        "details": "77kg Welterweight · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 2,
+        "section": "Main Card",
+        "red": {
+          "name": "Hinotori",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%81%AB%E3%81%AE%E9%B3%A5",
+          "style": "Grappler",
+          "countryCode": "JP",
+          "birthDate": "1994-03-22"
+        },
+        "blue": {
+          "name": "Jae Hun Lee",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%A4%E3%83%BB%E3%82%B8%E3%82%A7%E3%83%95%E3%83%B3",
+          "style": "Striker",
+          "countryCode": "KR",
+          "birthDate": "2002-12-09"
+        },
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 1,
+        "section": "Main Card",
+        "red": {
+          "name": "Kojiro Shiba",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E8%8A%9D%E5%AE%8F%E4%BA%8C%E9%83%8E",
+          "countryCode": "JP",
+          "birthDate": "2005-08-25"
+        },
+        "blue": {
+          "name": "Haruto",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%81%A5%E5%BF%83",
+          "countryCode": "JP",
+          "birthDate": "2004-03-20"
+        },
+        "details": "54.5kg · RIZIN Kickboxing · 3 × 3 min rounds"
+      },
+      {
+        "order": 4,
+        "section": "Opening Fights",
+        "red": {
+          "name": "HIME",
+          "profileUrl": "https://jp.rizinff.com/_tags/HIME",
+          "countryCode": "JP",
+          "birthDate": "1987-02-28"
+        },
+        "blue": {
+          "name": "Ayane Hirata",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%B9%B3%E7%94%B0%E5%BD%A9%E9%9F%B3",
+          "countryCode": "JP",
+          "birthDate": "2004-12-19"
+        },
+        "details": "49kg · RIZIN MMA · 2 × 5 min rounds"
+      },
+      {
+        "order": 3,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Shuichi T800 Kanda",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%A5%9E%E7%94%B0T800%E5%91%A8%E4%B8%80",
+          "countryCode": "JP",
+          "birthDate": "1990-12-24"
+        },
+        "blue": {
+          "name": "Shota Nagano",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%95%B7%E9%87%8E%E5%B0%86%E5%A4%A7",
+          "countryCode": "JP",
+          "birthDate": "1996-02-22"
+        },
+        "details": "61kg · RIZIN MMA · 2 × 5 min rounds"
+      },
+      {
+        "order": 2,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Shivaev",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%B7%E3%83%B4%E3%82%A1%E3%82%A8%E3%83%95",
+          "countryCode": "JP",
+          "birthDate": "1999-10-07"
+        },
+        "blue": {
+          "name": "Benjamin",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%9F%E3%83%B3",
+          "countryCode": "JP",
+          "birthDate": "2000-02-23"
+        },
+        "details": "71kg · RIZIN MMA · 2 × 5 min rounds"
+      },
+      {
+        "order": 1,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Jin Tanaka",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%94%B0%E4%B8%AD%E4%BB%81",
+          "countryCode": "JP",
+          "birthDate": "2010-06-06"
+        },
+        "blue": {
+          "name": "Kentaro",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%81%A5%E5%A4%AA%E6%9C%97",
+          "countryCode": "JP",
+          "birthDate": "2010-01-15"
+        },
+        "details": "57kg · RIZIN rules · 2 × 3 min rounds"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "17833730",
+    "date": "2026-08-11",
+    "start": "20260811T050000Z",
+    "end": "20260811T110000Z",
+    "summary": "RIZIN.54",
+    "location": "TOYOTA ARENA TOKYO",
+    "url": "https://jp.rizinff.com/_ct/17833730",
+    "cardUrl": "https://jp.rizinff.com/_ct/17846026",
+    "status": "CONFIRMED",
+    "timeIsTentative": false,
+    "bouts": [
+      {
+        "order": 10,
+        "section": "Main Card",
+        "red": {
+          "name": "Kleber Koike",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%AF%E3%83%AC%E3%83%99%E3%83%AB%E3%83%BB%E3%82%B3%E3%82%A4%E3%82%B1",
+          "style": "All-rounder",
+          "countryCode": "BR",
+          "birthDate": "1989-10-16"
+        },
+        "blue": {
+          "name": "Kyoma Akimoto",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%A7%8B%E5%85%83%E5%BC%B7%E7%9C%9F",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "2006-03-08"
+        },
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 9,
+        "section": "Main Card",
+        "red": {
+          "name": "Shoko Sato",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E4%BD%90%E8%97%A4%E5%B0%86%E5%85%89",
+          "style": "All-rounder",
+          "countryCode": "JP",
+          "birthDate": "1987-08-21"
+        },
+        "blue": {
+          "name": "Patchy Mix",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%91%E3%83%83%E3%83%81%E3%83%BC%E3%83%BB%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9",
+          "style": "Grappler",
+          "countryCode": "US",
+          "birthDate": "1993-08-16"
+        },
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 8,
+        "section": "Main Card",
+        "red": {
+          "name": "Mikio Ueda",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E4%B8%8A%E7%94%B0%E5%B9%B9%E9%9B%84",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "1995-05-01"
+        },
+        "blue": {
+          "name": "King Edokpolo",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%A8%E3%83%89%E3%83%9D%E3%83%AD%E3%82%AD%E3%83%B3%E3%82%B0",
+          "style": null,
+          "countryCode": "JP",
+          "birthDate": "2001-02-08"
+        },
+        "details": "120kg Heavyweight · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 7,
+        "section": "Main Card",
+        "red": {
+          "name": "Tsuyoshi Sudario",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%B9%E3%82%BF%E3%82%99%E3%83%AA%E3%82%AA%E5%89%9B",
+          "style": null,
+          "countryCode": "JP",
+          "birthDate": "1997-05-13"
+        },
+        "blue": {
+          "name": "Ryo Sakai",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%85%92%E4%BA%95%E3%83%AA%E3%83%A7%E3%82%A6",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "1987-03-24"
+        },
+        "details": "120kg Heavyweight · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 6,
+        "section": "Main Card",
+        "red": {
+          "name": "Yuki Ito",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E4%BC%8A%E8%97%A4%E8%A3%95%E6%A8%B9",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "1997-04-19"
+        },
+        "blue": {
+          "name": "Alibek Gadzhammatov",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%A2%E3%83%AA%E3%83%99%E3%82%AF%E3%83%BB%E3%82%AC%E3%82%B8%E3%83%A3%E3%83%9E%E3%83%88%E3%83%95",
+          "style": "Striker",
+          "countryCode": "RU",
+          "birthDate": "2001-07-12"
+        },
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 5,
+        "section": "Main Card",
+        "red": {
+          "name": "Kazumasa Majima",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%91%A9%E5%B6%8B%E4%B8%80%E6%95%B4",
+          "style": "Grappler",
+          "countryCode": "JP",
+          "birthDate": "1991-10-16"
+        },
+        "blue": {
+          "name": "Koji Takeda",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%AD%A6%E7%94%B0%E5%85%89%E5%8F%B8",
+          "style": "Grappler",
+          "countryCode": "JP",
+          "birthDate": "1995-08-13"
+        },
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 4,
+        "section": "Main Card",
+        "red": {
+          "name": "Joji Goto",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%BE%8C%E8%97%A4%E4%B8%88%E6%B2%BB",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "1996-03-09"
+        },
+        "blue": {
+          "name": "Azizbek Temirov",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%A2%E3%82%B8%E3%82%BA%E3%83%99%E3%82%AF%E3%83%BB%E3%83%86%E3%83%9F%E3%83%AD%E3%83%95",
+          "style": "Striker",
+          "countryCode": "UZ",
+          "birthDate": "1998-09-28"
+        },
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+      },
+      {
+        "order": 3,
+        "section": "Main Card",
+        "red": {
+          "name": "Joe Hiramoto",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%B9%B3%E6%9C%AC%E4%B8%88",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "2003-07-22"
+        },
+        "blue": {
+          "name": "JOLLY",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%B8%E3%83%A7%E3%83%AA%E3%83%BC",
+          "style": "Grappler",
+          "countryCode": "JP",
+          "birthDate": "1997-04-23"
+        },
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 2,
+        "section": "Main Card",
+        "red": {
+          "name": "Naoki",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%9B%B4%E6%A8%B9",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "1992-06-24"
+        },
+        "blue": {
+          "name": "Issa Hosokawa",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%B4%B0%E5%B7%9D%E4%B8%80%E9%A2%AF",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "2000-04-07"
+        },
+        "details": "69kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 1,
+        "section": "Main Card",
+        "red": {
+          "name": "Arata Mizuno",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%B0%B4%E9%87%8E%E6%96%B0%E5%A4%AA",
+          "style": "All-rounder",
+          "countryCode": "JP",
+          "birthDate": "2003-01-04"
+        },
+        "blue": {
+          "name": "Kaiwen Li",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%AB%E3%82%A4%E3%82%A6%E3%82%A7%E3%83%B3",
+          "style": "All-rounder",
+          "countryCode": "CN",
+          "birthDate": "1995-10-16"
+        },
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+      }
+    ],
+    "cancelledBouts": [
+      {
+        "order": 0,
+        "section": "Main Card",
+        "red": {
+          "name": "ケイト・ロータス"
+        },
+        "blue": {
+          "name": "NOEL"
+        },
+        "details": "",
+        "note": "Postponed by RIZIN"
+      }
+    ]
+  },
+  {
+    "uid": "17834937",
+    "date": "2026-09-10",
+    "start": "20260910T070000Z",
+    "end": "20260910T130000Z",
+    "summary": "超RIZIN.5 浪速の超復活祭り",
+    "location": "京セラドーム大阪",
+    "url": "https://jp.rizinff.com/_ct/17834937",
+    "cardUrl": "https://jp.rizinff.com/_ct/17853585",
+    "status": "CONFIRMED",
+    "timeIsTentative": false,
+    "bouts": [
+      {
+        "order": 8,
+        "section": "Main Card",
+        "red": {
+          "name": "Razhabali Shaidulloev",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%A9%E3%82%B8%E3%83%A3%E3%83%96%E3%82%A2%E3%83%AA%E3%83%BB%E3%82%B7%E3%82%A7%E3%82%A4%E3%83%89%E3%82%A5%E3%83%A9%E3%82%A8%E3%83%95",
+          "countryCode": "KG",
+          "birthDate": "2000-10-11"
+        },
+        "blue": {
+          "name": "AJ McKee",
+          "profileUrl": "https://jp.rizinff.com/_tags/AJ%E3%83%BB%E3%83%9E%E3%83%83%E3%82%AD%E3%83%BC",
+          "countryCode": "US",
+          "birthDate": "1995-04-07"
+        },
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+      },
+      {
+        "order": 7,
+        "section": "Main Card",
+        "red": {
+          "name": "Mikuru Asakura",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A5",
+          "countryCode": "JP",
+          "birthDate": "1992-07-15"
+        },
+        "blue": {
+          "name": "Shinya Aoki",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%9D%92%E6%9C%A8%E7%9C%9F%E4%B9%9F",
+          "countryCode": "JP",
+          "birthDate": "1983-05-09"
+        },
+        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 6,
+        "section": "Main Card",
+        "red": {
+          "name": "Karshyga Dautbek",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%AB%E3%83%AB%E3%82%B7%E3%83%A3%E3%82%AC%E3%83%BB%E3%83%80%E3%82%A6%E3%83%88%E3%83%99%E3%83%83%E3%82%AF",
+          "countryCode": "KZ",
+          "birthDate": "1993-12-07"
+        },
+        "blue": {
+          "name": "Ren Hiramoto",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%B9%B3%E6%9C%AC%E8%93%AE",
+          "countryCode": "JP",
+          "birthDate": "1998-06-27"
+        },
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 5,
+        "section": "Main Card",
+        "red": {
+          "name": "Roberto Satoshi Souza",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%9B%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B5%E3%83%88%E3%82%B7%E3%83%BB%E3%82%BD%E3%82%A6%E3%82%B6",
+          "countryCode": "BR",
+          "birthDate": "1989-09-19"
+        },
+        "blue": {
+          "name": "Shunta Nomura",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%87%8E%E6%9D%91%E9%A7%BF%E5%A4%AA",
+          "countryCode": "JP",
+          "birthDate": "1997-10-11"
+        },
+        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 4,
+        "section": "Main Card",
+        "red": {
+          "name": "Yutaka Saito",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%96%8E%E8%97%A4%E8%A3%95",
+          "countryCode": "JP",
+          "birthDate": "1987-10-08"
+        },
+        "blue": {
+          "name": "YA-MAN",
+          "profileUrl": "https://jp.rizinff.com/_tags/YA-MAN",
+          "countryCode": "JP",
+          "birthDate": "1996-05-31"
+        },
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 3,
+        "section": "Main Card",
+        "red": {
+          "name": "Vugar Karamov",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%B4%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B1%E3%83%A9%E3%83%A2%E3%83%95",
+          "countryCode": "AZ",
+          "birthDate": "1992-02-20"
+        },
+        "blue": {
+          "name": "Ryo Takagi",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%AB%98%E6%9C%A8%E5%87%8C",
+          "countryCode": "JP",
+          "birthDate": "1999-09-12"
+        },
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+      },
+      {
+        "order": 2,
+        "section": "Main Card",
+        "red": {
+          "name": "RENA",
+          "profileUrl": "https://jp.rizinff.com/_tags/RENA",
+          "countryCode": "JP",
+          "birthDate": "1991-06-29"
+        },
+        "blue": {
+          "name": "Natasha Kuziutina",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%8A%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BB%E3%82%AF%E3%82%B8%E3%83%A5%E3%83%86%E3%82%A3%E3%83%8A",
+          "countryCode": "RU",
+          "birthDate": "1989-05-08"
+        },
+        "details": "49kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 1,
+        "section": "Main Card",
+        "red": {
+          "name": "“BlackPanther”Beynoah",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E2%80%9C%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%91%E3%83%B3%E3%82%B5%E3%83%BC%E2%80%9D%E3%83%99%E3%82%A4%E3%83%8E%E3%82%A2",
+          "countryCode": "US",
+          "birthDate": "1995-08-20"
+        },
+        "blue": {
+          "name": "Hide Meison Usami",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%AE%87%E4%BD%90%E7%BE%8E%E7%A7%80%E3%83%A1%E3%82%A4%E3%82%BD%E3%83%B3",
+          "countryCode": "JP",
+          "birthDate": "2001-05-20"
+        },
+        "details": "71kg Lightweight · RIZIN Kickboxing · 3 × 3 min rounds"
+      }
+    ],
+    "cancelledBouts": [
+      {
+        "order": 1,
+        "section": "Main Card",
+        "red": {
+          "name": "冨澤大智"
+        },
+        "blue": {
+          "name": "ドンマイ川端"
+        },
+        "details": "RIZIN rules",
+        "note": "Cancelled by RIZIN"
+      }
+    ]
+  },
+  {
+    "uid": "17852438",
+    "date": "2026-10-03",
+    "start": "20261003T050000Z",
+    "end": "20261003T110000Z",
+    "summary": "RIZIN LANDMARK 16 in NAGASAKI",
+    "location": "長崎スタジアムシティ HAPPINESS ARENA",
+    "url": "https://jp.rizinff.com/_ct/17852438",
+    "cardUrl": "https://jp.rizinff.com/_ct/17857720",
+    "status": "TENTATIVE",
+    "timeIsTentative": true,
+    "bouts": [
+      {
+        "order": 10,
+        "section": "Main Card",
+        "red": {
+          "name": "Yoshinori Horie",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%A0%80%E6%B1%9F%E5%9C%AD%E5%8A%9F",
+          "countryCode": "JP",
+          "birthDate": "1995-05-10"
+        },
+        "blue": {
+          "name": "Sho Patrick Usami",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%AE%87%E4%BD%90%E7%BE%8E%E6%AD%A3%E3%83%91%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF",
+          "countryCode": "JP",
+          "birthDate": "2000-05-08"
+        },
+        "details": "71kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 9,
+        "section": "Main Card",
+        "red": {
+          "name": "Viktor Kolesnik",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%93%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B3%E3%83%AC%E3%82%B9%E3%83%8B%E3%83%83%E3%82%AF",
+          "countryCode": "RU",
+          "birthDate": "1996-03-07"
+        },
+        "blue": {
+          "name": "Koyomi Matsushima",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%9D%BE%E5%B6%8B%E3%81%93%E3%82%88%E3%81%BF",
+          "countryCode": "JP",
+          "birthDate": "1992-10-08"
+        },
+        "details": "66kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 8,
+        "section": "Main Card",
+        "red": {
+          "name": "Ryusei Ashizawa",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E8%8A%A6%E6%BE%A4%E7%AB%9C%E8%AA%A0",
+          "countryCode": "JP",
+          "birthDate": "1995-05-01"
+        },
+        "blue": {
+          "name": "Seiya Inoue",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E4%BA%95%E4%B8%8A%E8%81%96%E7%9F%A2",
+          "countryCode": "JP",
+          "birthDate": "2004-04-04"
+        },
+        "details": "61kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 7,
+        "section": "Main Card",
+        "red": {
+          "name": "Kate Lotus",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%B1%E3%82%A4%E3%83%88%E3%83%BB%E3%83%AD%E3%83%BC%E3%82%BF%E3%82%B9",
+          "countryCode": "JP",
+          "birthDate": "1998-03-16"
+        },
+        "blue": {
+          "name": "NOEL",
+          "profileUrl": "https://jp.rizinff.com/_tags/NOEL",
+          "countryCode": "JP",
+          "birthDate": "2008-05-21"
+        },
+        "details": "49kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 6,
+        "section": "Main Card",
+        "red": {
+          "name": "Ryan Cafaro",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%95%E3%82%A1%E3%83%AD",
+          "countryCode": "US",
+          "birthDate": "1989-10-24"
+        },
+        "blue": {
+          "name": "Hyuma Yasui",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%AE%89%E4%BA%95%E9%A3%9B%E9%A6%AC",
+          "countryCode": "JP",
+          "birthDate": "2000-12-29"
+        },
+        "details": "66kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 5,
+        "section": "Main Card",
+        "red": {
+          "name": "Hinotori",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%81%AB%E3%81%AE%E9%B3%A5",
+          "countryCode": "JP",
+          "birthDate": "1994-03-22"
+        },
+        "blue": {
+          "name": "Masatoshi Ueda",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E4%B8%8A%E7%94%B0%E5%B0%86%E5%B9%B4",
+          "countryCode": "JP",
+          "birthDate": "1987-09-19"
+        },
+        "details": "57kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 4,
+        "section": "Main Card",
+        "red": {
+          "name": "Kohei Sugiyama",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%9D%89%E2%BC%AD%E5%BB%A3%E5%B9%B3",
+          "countryCode": "JP",
+          "birthDate": "1995-11-21"
+        },
+        "blue": {
+          "name": "Kaito Oda",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%B0%8F%E7%94%B0%E9%AD%81%E6%96%97",
+          "countryCode": "JP",
+          "birthDate": "1997-02-13"
+        },
+        "details": "57kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 3,
+        "section": "Main Card",
+        "red": {
+          "name": "Hidetaka\"Kaiju Killer\"Arato",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E8%8D%92%E6%9D%B1%E2%80%9C%E6%80%AA%E7%8D%A3%E3%82%AD%E3%83%A9%E3%83%BC%E2%80%9D%E8%8B%B1%E8%B2%B4",
+          "countryCode": "JP",
+          "birthDate": "1988-05-05"
+        },
+        "blue": {
+          "name": "Ken Hasegawa",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%95%B7%E8%B0%B7%E5%B7%9D%E8%B3%A2",
+          "countryCode": "JP",
+          "birthDate": "1987-02-26"
+        },
+        "details": "120kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 2,
+        "section": "Main Card",
+        "red": {
+          "name": "Alan“Hiro”Yamaniha",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%A2%E3%83%A9%E3%83%B3%E2%80%9C%E3%83%92%E3%83%AD%E2%80%9D%E3%83%A4%E3%83%9E%E3%83%8B%E3%83%8F",
+          "countryCode": "BR",
+          "birthDate": "1986-04-04"
+        },
+        "blue": {
+          "name": "Seigo Yamamoto",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%B1%B1%E6%9C%AC%E8%81%96%E6%82%9F",
+          "countryCode": "JP",
+          "birthDate": "1995-10-11"
+        },
+        "details": "61kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 1,
+        "section": "Main Card",
+        "red": {
+          "name": "Mac Papalii",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%9E%E3%83%83%E3%82%AF%E3%83%BB%E3%83%91%E3%83%91%E3%83%AA%E3%82%A4",
+          "countryCode": "WS",
+          "birthDate": "1999-03-12"
+        },
+        "blue": {
+          "name": "Alboury Ndiaye",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%A2%E3%83%AB%E3%83%96%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%A4",
+          "countryCode": "SN",
+          "birthDate": "1996-04-15"
+        },
+        "details": "120kg · RIZIN MMA · 3 × 5 min rounds"
+      },
+      {
+        "order": 4,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Ryota Oki",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%A4%A7%E6%9C%A8%E8%89%AF%E5%A4%AA",
+          "countryCode": "JP",
+          "birthDate": "1989-06-27"
+        },
+        "blue": {
+          "name": "Hunt Rangers",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%8F%E3%83%B3%E3%83%88%E3%83%BB%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BA",
+          "countryCode": "JP",
+          "birthDate": "1981-11-02"
+        },
+        "details": "71kg · RIZIN MMA · 2 × 5 min rounds"
+      },
+      {
+        "order": 3,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Ryusei Imamura",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E4%BB%8A%E6%9D%91%E6%B5%81%E6%98%9F",
+          "countryCode": "JP",
+          "birthDate": "2003-05-30"
+        },
+        "blue": {
+          "name": "Reon Uemura",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E4%B8%8A%E6%9D%91%E7%8E%B2%E9%9F%B3",
+          "countryCode": "JP",
+          "birthDate": "2005-02-08"
+        },
+        "details": "57kg · RIZIN Kickboxing · 3 × 3 min rounds"
+      },
+      {
+        "order": 2,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Kotaro Mori",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%A3%AE%E5%AD%9D%E5%A4%AA%E9%83%8E",
+          "countryCode": "JP",
+          "birthDate": "1987-07-04"
+        },
+        "blue": {
+          "name": "Yuki",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%8B%87%E6%B0%97",
+          "countryCode": "JP",
+          "birthDate": "1984-01-23"
+        },
+        "details": "100kg · RIZIN Kickboxing · 3 × 3 min rounds"
+      },
+      {
+        "order": 1,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Kakeru",
+          "profileUrl": "https://jp.rizinff.com/_tags/KAKERU",
+          "countryCode": "JP",
+          "birthDate": "1993-12-09"
+        },
+        "blue": {
+          "name": "Ayuto",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%AD%A9%E5%8F%B6",
+          "countryCode": "JP",
+          "birthDate": "2002-12-22"
+        },
+        "details": "65kg · RIZIN Kickboxing · 3 × 3 min rounds"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "17852466",
+    "date": "2026-11-08",
+    "start": "20261108T050000Z",
+    "end": "20261108T110000Z",
+    "summary": "RIZIN LANDMARK 17 in CHIBA",
+    "location": "LaLa arena TOKYO-BAY",
+    "url": "https://jp.rizinff.com/_ct/17852466",
+    "status": "TENTATIVE",
+    "timeIsTentative": true,
+    "bouts": [],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "17813466",
+    "date": "2026-12-31",
+    "start": null,
+    "end": null,
+    "summary": "大晦日 名古屋大会（仮）",
+    "location": "バンテリンドーム ナゴヤ",
+    "url": "https://jp.rizinff.com/_ct/17813466",
+    "status": "TENTATIVE",
+    "timeIsTentative": true,
+    "bouts": [],
+    "cancelledBouts": []
+  }
+]
