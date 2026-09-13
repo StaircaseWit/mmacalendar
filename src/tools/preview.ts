@@ -1,11 +1,11 @@
 import { readFile } from "node:fs/promises";
 import { resolve } from "node:path";
-import { cachedEvents } from "../events.js";
-import { mergeOneEvents, type OneEvent } from "../one.js";
-import { mergePflEvents, type PflEvent } from "../pfl.js";
+import { cachedEvents } from "../promotions/ufc/events.js";
+import { mergeOneEvents, type OneEvent } from "../promotions/one/source.js";
+import { mergePflEvents, type PflEvent } from "../promotions/pfl/source.js";
 import { createPromotionRegistry } from "../promotions/registry.js";
 import type { PromotionOddsStore } from "../promotion-odds.js";
-import { mergeRizinEvents, type RizinEvent } from "../rizin.js";
+import { mergeRizinEvents, type RizinEvent } from "../promotions/rizin/source.js";
 import {
   validateEventStore,
   validateOddsStore,
@@ -15,11 +15,13 @@ import {
   validateRizinEvents,
 } from "../schema.js";
 import { readJsonValidated, writeJson, writeText } from "../state.js";
-import type { EventStore, OddsStore } from "../types.js";
+import { loadRuntimeSettings } from "../settings.js";
+import type { EventStore, OddsStore } from "../promotions/ufc/types.js";
 import { assertValidCalendar } from "../validate.js";
 import { compareCalendarFeeds, type CalendarDiff } from "./calendar-diff.js";
 
 const root = process.cwd();
+const settings = loadRuntimeSettings();
 const dataPath = (name: string) => resolve(root, "data", name);
 const now = new Date();
 const outputDirectory = resolve(root, process.env.CALENDAR_PREVIEW_DIR ?? "work/calendar-preview");
@@ -70,9 +72,9 @@ const registry = createPromotionRegistry({ ufc: ufcEvents, one: oneEvents, rizin
 registry.attachOdds(promotionOdds);
 const feeds = registry.renderFeeds({
   generatedAt: now,
-  publicBaseUrl: process.env.PUBLIC_BASE_URL ?? "https://staircasewit.github.io/mmacalendar",
-  displayTimeZone: process.env.DISPLAY_TIME_ZONE ?? "Europe/Dublin",
-  displayTimeZoneLabel: process.env.DISPLAY_TIME_ZONE_LABEL ?? "Ireland",
+  publicBaseUrl: settings.publicBaseUrl,
+  displayTimeZone: settings.displayTimeZone,
+  displayTimeZoneLabel: settings.displayTimeZoneLabel,
 });
 const report: Record<string, CalendarDiff> = {};
 for (const [name, contents] of feeds) {

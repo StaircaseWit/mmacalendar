@@ -1,6 +1,6 @@
 import * as cheerio from "cheerio";
 import type { AnyNode } from "domhandler";
-import { fetchText } from "./http.js";
+import { fetchText } from "../../http.js";
 import {
   absoluteUrl,
   ageOnDate,
@@ -9,10 +9,10 @@ import {
   describeWeightClass,
   mapWithConcurrency,
   normalizedName,
-} from "./utils.js";
-import type { PromotionOddsSnapshot } from "./promotion-odds.js";
-import { calendarUtc } from "./calendar-renderer.js";
-import { retainEventHistory } from "./retention.js";
+} from "../../utils.js";
+import type { PromotionOddsSnapshot } from "../../promotion-odds.js";
+import { calendarUtc } from "../../calendar-renderer.js";
+import { retainEventHistory } from "../../retention.js";
 
 export const PFL_EVENTS_URL = "https://pflmma.com/events";
 
@@ -481,5 +481,3 @@ export async function scrapePflEvents(now = new Date(), options: { pastDays?: nu
   const listings = all.filter((listing) => listing.date >= dateOnly(cutoff)).slice(-(options.maxEvents ?? 30));
   return mapWithConcurrency(listings, 4, async (listing) => parsePflEventPage(await fetchText(listing.url), listing));
 }
-
-export { renderPflCalendar } from "./promotions/pfl/calendar.js";

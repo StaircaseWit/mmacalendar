@@ -9,10 +9,18 @@
     "node": ">=20"
   },
   "scripts": {
-    "build": "tsc",
-    "generate": "tsc && node dist/src/index.js",
-    "preview": "tsc && node dist/src/tools/preview.js",
-    "test": "tsc && node --test dist/test/*.test.js",
+    "clean": "node scripts/clean.mjs",
+    "build": "node scripts/clean.mjs && tsc",
+    "generate": "node scripts/clean.mjs && tsc && node dist/src/index.js",
+    "preview": "node scripts/clean.mjs && tsc && node dist/src/tools/preview.js",
+    "test": "node scripts/clean.mjs && tsc && node --test dist/test/*.test.js",
+    "test:shared": "node scripts/clean.mjs && tsc && node --test dist/test/shared.test.js dist/test/resilience.test.js dist/test/fixture-pipeline.test.js",
+    "test:ufc": "node scripts/clean.mjs && tsc && node --test dist/test/ufc.test.js",
+    "test:one": "node scripts/clean.mjs && tsc && node --test dist/test/one.test.js",
+    "test:rizin": "node scripts/clean.mjs && tsc && node --test dist/test/rizin.test.js",
+    "test:pfl": "node scripts/clean.mjs && tsc && node --test dist/test/pfl.test.js",
+    "test:odds": "node scripts/clean.mjs && tsc && node --test dist/test/odds.test.js",
+    "check": "node scripts/clean.mjs && tsc && node --test dist/test/*.test.js",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {

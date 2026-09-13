@@ -1,5 +1,6 @@
 import { unicodeBold } from "./utils.js";
 import { fallbackRevision } from "./revision.js";
+import { DEFAULT_REFRESH_INTERVAL } from "./settings.js";
 import type {
   CalendarBoutModel,
   CalendarCancellationModel,
@@ -166,7 +167,7 @@ function eventLines(event: CalendarEventModel, feed: CalendarFeedModel): string[
 }
 
 export function renderCalendarFeed(feed: CalendarFeedModel): string {
-  const refreshInterval = feed.refreshInterval ?? "PT6H";
+  const refreshInterval = feed.refreshInterval ?? DEFAULT_REFRESH_INTERVAL;
   const lines = [
     "BEGIN:VCALENDAR",
     "VERSION:2.0",

@@ -6,6 +6,7 @@ on:
     branches: [main]
     paths:
       - "src/**"
+      - "scripts/**"
       - "test/**"
       - "package.json"
       - "pnpm-lock.yaml"

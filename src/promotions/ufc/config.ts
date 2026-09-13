@@ -1,5 +1,5 @@
 export const UFC_ORIGIN = "https://www.ufc.com";
-export const DAY_MS = 24 * 60 * 60 * 1000;
+export { DAY_MS } from "../../settings.js";
 
 import type { CardDefinition } from "./types.js";
 

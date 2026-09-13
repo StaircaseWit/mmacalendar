@@ -1,8 +1,8 @@
 import * as cheerio from "cheerio";
-import { fetchText } from "./http.js";
-import { absoluteUrl, cleanText, normalizedName } from "./utils.js";
-import type { PromotionOddsSnapshot } from "./promotion-odds.js";
-import { retainEventHistory } from "./retention.js";
+import { fetchText } from "../../http.js";
+import { absoluteUrl, cleanText, normalizedName } from "../../utils.js";
+import type { PromotionOddsSnapshot } from "../../promotion-odds.js";
+import { retainEventHistory } from "../../retention.js";
 
 export const ONE_CALENDAR_URL = "https://calendar.onefc.com/ONE-Championship-events.ics";
 export const ONE_EVENTS_URL = "https://www.onefc.com/events/";
@@ -364,5 +364,3 @@ export async function enrichOneFighters(events: OneEvent[], store: OneFighterSto
     }
   }
 }
-
-export { describeOneBout, renderOneCalendar } from "./promotions/one/calendar.js";

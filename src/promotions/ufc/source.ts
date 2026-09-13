@@ -9,8 +9,8 @@ import {
   countryCodeFromFlag,
   parseTimestamp,
   slugFromUrl,
-} from "./utils.js";
-import { fetchText } from "./http.js";
+} from "../../utils.js";
+import { fetchText } from "../../http.js";
 
 interface EventListing {
   url: string;

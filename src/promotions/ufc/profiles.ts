@@ -1,6 +1,6 @@
-import { DAY_MS } from "./config.js";
-import { scrapeAthlete } from "./ufc.js";
-import { mapWithConcurrency } from "./utils.js";
+import { DAY_MS } from "../../settings.js";
+import { scrapeAthlete } from "./source.js";
+import { mapWithConcurrency } from "../../utils.js";
 import type { AthleteProfile, FighterStore, UfcEvent } from "./types.js";
 
 function profileIsFresh(profile: AthleteProfile | undefined, now: Date): boolean {

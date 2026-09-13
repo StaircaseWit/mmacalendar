@@ -7,23 +7,24 @@ import {
   normalizedName,
   shortFighterName,
   unicodeBold,
-} from "./utils.js";
-import { BEST_FIGHT_ODDS_URL } from "./promotion-odds.js";
-import type { RevisionProvider } from "./revision.js";
+} from "../../utils.js";
+import { BEST_FIGHT_ODDS_URL } from "../../promotion-odds.js";
+import type { RevisionProvider } from "../../revision.js";
 import type {
   CalendarBoutModel,
   CalendarDescriptionModel,
   CalendarEventModel,
   CalendarFighterModel,
-} from "./calendar-model.js";
+} from "../../calendar-model.js";
 import {
   BOUTS_HEADING,
   SECTION_BORDER,
   renderCalendarBout,
   renderCalendarDescription,
   renderCalendarFeed,
-} from "./calendar-renderer.js";
+} from "../../calendar-renderer.js";
 import type { CancelledBout, CardSection, Fight, Fighter, UfcEvent } from "./types.js";
+import { DEFAULT_DISPLAY_TIME_ZONE, DEFAULT_DISPLAY_TIME_ZONE_LABEL } from "../../settings.js";
 
 interface RenderCalendarOptions {
   generatedAt?: Date;
@@ -232,8 +233,8 @@ export function renderCalendar(events: UfcEvent[], {
   generatedAt = new Date(),
   calendarName = "Detailed UFC Calendar",
   publicBaseUrl = "",
-  displayTimeZone = "Europe/Dublin",
-  displayTimeZoneLabel = "Ireland",
+  displayTimeZone = DEFAULT_DISPLAY_TIME_ZONE,
+  displayTimeZoneLabel = DEFAULT_DISPLAY_TIME_ZONE_LABEL,
   revisionProvider,
 }: RenderCalendarOptions = {}): string {
   const calendarEvents: CalendarEventModel[] = [];
@@ -307,8 +308,8 @@ export function renderCombinedCalendar(events: UfcEvent[], {
   generatedAt = new Date(),
   calendarName = "Complete UFC Events",
   publicBaseUrl = "",
-  displayTimeZone = "Europe/Dublin",
-  displayTimeZoneLabel = "Ireland",
+  displayTimeZone = DEFAULT_DISPLAY_TIME_ZONE,
+  displayTimeZoneLabel = DEFAULT_DISPLAY_TIME_ZONE_LABEL,
   revisionProvider,
 }: RenderCalendarOptions = {}): string {
   const calendarEvents: CalendarEventModel[] = [];
@@ -401,8 +402,8 @@ export function renderEstimatedFightCalendar(events: UfcEvent[], {
   generatedAt = new Date(),
   calendarName = "UFC Estimated Fight Times",
   publicBaseUrl = "",
-  displayTimeZone = "Europe/Dublin",
-  displayTimeZoneLabel = "Ireland",
+  displayTimeZone = DEFAULT_DISPLAY_TIME_ZONE,
+  displayTimeZoneLabel = DEFAULT_DISPLAY_TIME_ZONE_LABEL,
   revisionProvider,
 }: RenderCalendarOptions = {}): string {
   const calendarEvents: CalendarEventModel[] = [];

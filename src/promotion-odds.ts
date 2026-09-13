@@ -1,5 +1,5 @@
 import * as cheerio from "cheerio";
-import { DAY_MS } from "./config.js";
+import { DAY_MS } from "./settings.js";
 import { fetchText } from "./http.js";
 import { absoluteUrl, cleanText, decimalOdds, formatShortCheckDate, normalizedName } from "./utils.js";
 import { mapWithConcurrency } from "./utils.js";

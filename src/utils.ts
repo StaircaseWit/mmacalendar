@@ -1,5 +1,5 @@
-import { WEIGHT_CLASSES } from "./config.js";
-import type { Fighter } from "./types.js";
+import { WEIGHT_CLASSES } from "./promotions/ufc/config.js";
+import type { Fighter } from "./promotions/ufc/types.js";
 
 export function cleanText(value: string = ""): string {
   return value.replace(/\u00a0/g, " ").replace(/\s+/g, " ").trim();

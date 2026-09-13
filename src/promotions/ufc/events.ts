@@ -6,8 +6,8 @@ import type {
   TrackedEvent,
   UfcEvent,
 } from "./types.js";
-import { normalizedName } from "./utils.js";
-import { isWithinEventHistory } from "./retention.js";
+import { normalizedName } from "../../utils.js";
+import { isWithinEventHistory } from "../../retention.js";
 
 function boutKey(redName: string, blueName: string): string {
   return [normalizedName(redName), normalizedName(blueName)].sort().join("--");

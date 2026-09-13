@@ -1,6 +1,6 @@
-import { DAY_MS } from "./config.js";
-import { fightKey, normalizedName } from "./utils.js";
-import { BEST_FIGHT_ODDS_URL, canonicalOddsName, promotionOddsKey, type PromotionOddsMarket } from "./promotion-odds.js";
+import { DAY_MS } from "../../settings.js";
+import { fightKey, normalizedName } from "../../utils.js";
+import { BEST_FIGHT_ODDS_URL, canonicalOddsName, promotionOddsKey, type PromotionOddsMarket } from "../../promotion-odds.js";
 import type { Fight, OddsSnapshot, OddsStore, UfcEvent } from "./types.js";
 
 export function oddsRefreshIsDue(store: OddsStore, now = new Date()): boolean {

@@ -1,10 +1,10 @@
 import type { CalendarStatus } from "./health.js";
-import type { OneEvent, OneFighterStore } from "./one.js";
-import type { PflEvent, PflFighterStore } from "./pfl.js";
+import type { OneEvent, OneFighterStore } from "./promotions/one/source.js";
+import type { PflEvent, PflFighterStore } from "./promotions/pfl/source.js";
 import type { PromotionOddsStore } from "./promotion-odds.js";
 import type { RevisionStore } from "./revision.js";
-import type { RizinEvent, RizinFighterStore } from "./rizin.js";
-import type { CancelledBout, EventStore, FighterStore, OddsStore } from "./types.js";
+import type { RizinEvent, RizinFighterStore } from "./promotions/rizin/source.js";
+import type { CancelledBout, EventStore, FighterStore, OddsStore } from "./promotions/ufc/types.js";
 
 type JsonObject = Record<string, unknown>;
 

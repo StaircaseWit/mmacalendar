@@ -1,6 +1,6 @@
 import { renderCalendarDescription, renderCalendarFeed } from "../../calendar-renderer.js";
 import type { CalendarBoutModel, CalendarDescriptionModel, CalendarEventModel } from "../../calendar-model.js";
-import type { PflEvent, PflFighter } from "../../pfl.js";
+import type { PflEvent, PflFighter } from "./source.js";
 import { BEST_FIGHT_ODDS_URL, formatPromotionOdds, promotionOddsHistoryRows } from "../../promotion-odds.js";
 import type { RevisionProvider } from "../../revision.js";
 import { ageOnDate, cleanText, flagEmoji } from "../../utils.js";

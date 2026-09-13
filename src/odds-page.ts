@@ -1,5 +1,5 @@
 import { decimalOdds, formatCheckDate } from "./utils.js";
-import type { OddsStore } from "./types.js";
+import type { OddsStore } from "./promotions/ufc/types.js";
 import type { PromotionOddsStore } from "./promotion-odds.js";
 
 function htmlEscape(value: unknown = ""): string {

@@ -6,7 +6,7 @@ import {
   oddsRefreshIsDue,
   pruneUfcOddsStore,
   updateOddsStoreFromBestFightOdds,
-} from "./odds.js";
+} from "./promotions/ufc/odds.js";
 import {
   compactPromotionOddsStore,
   matchBestFightOddsMarkets,
@@ -19,10 +19,10 @@ import {
   type KnownOddsBout,
   type PromotionOddsStore,
 } from "./promotion-odds.js";
-import { loadOnePromotion } from "./promotions/load-one.js";
-import { loadPflPromotion } from "./promotions/load-pfl.js";
-import { loadRizinPromotion } from "./promotions/load-rizin.js";
-import { loadUfcPromotion } from "./promotions/load-ufc.js";
+import { loadOnePromotion } from "./promotions/one/load.js";
+import { loadPflPromotion } from "./promotions/pfl/load.js";
+import { loadRizinPromotion } from "./promotions/rizin/load.js";
+import { loadUfcPromotion } from "./promotions/ufc/load.js";
 import { createPromotionRegistry } from "./promotions/registry.js";
 import { sourceErrorMessage } from "./promotions/types.js";
 import { createRevisionProvider, emptyRevisionStore, pruneRevisionStore, type RevisionStore } from "./revision.js";
@@ -33,10 +33,12 @@ import {
   validateRevisionStore,
 } from "./schema.js";
 import { readJsonValidated, writeJson, writeText } from "./state.js";
-import type { OddsStore } from "./types.js";
+import { loadRuntimeSettings } from "./settings.js";
+import type { OddsStore } from "./promotions/ufc/types.js";
 import { assertValidCalendar } from "./validate.js";
 
 const root = process.cwd();
+const settings = loadRuntimeSettings();
 const outputDirectory = resolve(root, "docs");
 const dataPath = (name: string) => resolve(root, "data", name);
 const now = new Date();
@@ -49,7 +51,7 @@ const defaultStatus: CalendarStatus = {
 };
 const previousStatus = await readJsonValidated(dataPath("status.json"), defaultStatus, validateCalendarStatus);
 
-const loadContext = { now, previousStatus, dataPath };
+const loadContext = { now, previousStatus, dataPath, settings };
 const [ufc, one, rizin, pfl] = await Promise.all([
   loadUfcPromotion(loadContext),
   loadOnePromotion(loadContext),
@@ -153,9 +155,9 @@ const usedRevisionKeys = new Set<string>();
 const revisionProvider = createRevisionProvider(revisionStore, now, usedRevisionKeys);
 const feeds = registry.renderFeeds({
   generatedAt: now,
-  publicBaseUrl: process.env.PUBLIC_BASE_URL ?? "",
-  displayTimeZone: process.env.DISPLAY_TIME_ZONE ?? "Europe/Dublin",
-  displayTimeZoneLabel: process.env.DISPLAY_TIME_ZONE_LABEL ?? "Ireland",
+  publicBaseUrl: settings.publicBaseUrl,
+  displayTimeZone: settings.displayTimeZone,
+  displayTimeZoneLabel: settings.displayTimeZoneLabel,
   revisionProvider,
 });
 const feedHealth: CalendarStatus["feeds"] = {};

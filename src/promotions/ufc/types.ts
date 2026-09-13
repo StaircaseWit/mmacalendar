@@ -1,3 +1,4 @@
+/** UFC source, cache, and calendar domain types. */
 export interface OddsSnapshot {
   checkedAt: string;
   odds: Record<string, string | null>;

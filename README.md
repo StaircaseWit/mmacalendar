@@ -104,11 +104,12 @@ Requires Node.js 20 or newer:
 
 ```bash
 pnpm install
-pnpm test
-pnpm typecheck
+pnpm check
 pnpm preview
 pnpm run generate
 ```
+
+For a quicker development loop, use `pnpm test:shared`, `pnpm test:ufc`, `pnpm test:one`, `pnpm test:rizin`, `pnpm test:pfl`, or `pnpm test:odds`. Each command compiles the project and runs only the relevant focused suite.
 
 `pnpm preview` is offline: it reads the saved project data, writes candidate feeds and a readable before/after report to `work/calendar-preview`, and does not scrape or publish anything. The report lists added, changed, removed and unchanged calendar entries for each feed.
 

@@ -1,18 +1,18 @@
-import { applyCancellationOverrides, cachedEvents, persistEventSnapshots, reconcileEvents } from "../events.js";
-import { cachedSourceHealth, freshSourceHealth, assertCandidateQuality } from "../health.js";
-import { enrichFighterProfiles } from "../profiles.js";
+import { applyCancellationOverrides, cachedEvents, persistEventSnapshots, reconcileEvents } from "./events.js";
+import { cachedSourceHealth, freshSourceHealth, assertCandidateQuality } from "../../health.js";
+import { enrichFighterProfiles } from "./profiles.js";
 import {
   validateCancellationOverrides,
   validateEventStore,
   validateFighterStore,
-} from "../schema.js";
-import { readJsonValidated, writeJson } from "../state.js";
-import type { EventStore, FighterStore, UfcEvent } from "../types.js";
-import { discoverUpcomingEventUrls, scrapeEvent } from "../ufc.js";
-import { mapWithConcurrency } from "../utils.js";
-import { pruneRecordToKeys } from "../retention.js";
-import type { LoadedPromotion, PromotionLoadContext } from "./types.js";
-import { sourceErrorMessage } from "./types.js";
+} from "../../schema.js";
+import { readJsonValidated, writeJson } from "../../state.js";
+import type { EventStore, FighterStore, UfcEvent } from "./types.js";
+import { discoverUpcomingEventUrls, scrapeEvent } from "./source.js";
+import { mapWithConcurrency } from "../../utils.js";
+import { pruneRecordToKeys } from "../../retention.js";
+import type { LoadedPromotion, PromotionLoadContext } from "../types.js";
+import { sourceErrorMessage } from "../types.js";
 
 export interface LoadedUfcPromotion extends LoadedPromotion<UfcEvent> {
   eventStore: EventStore;
@@ -27,12 +27,12 @@ function ufcStart(event: UfcEvent): Date | null {
 }
 
 export async function loadUfcPromotion(context: PromotionLoadContext): Promise<LoadedUfcPromotion> {
-  const { now, previousStatus, dataPath } = context;
+  const { now, previousStatus, dataPath, settings } = context;
   const eventStorePath = dataPath("events.json");
   const fighterStorePath = dataPath("fighters.json");
   const eventStore = await readJsonValidated<EventStore>(eventStorePath, { events: {} }, validateEventStore);
   const previousEvents = cachedEvents(eventStore, now);
-  const configuredUrls = (process.env.UFC_EVENT_URLS ?? "").split(",").map((value) => value.trim()).filter(Boolean);
+  const configuredUrls = settings.ufcEventUrls;
   let events: UfcEvent[];
   let health;
 
@@ -41,9 +41,9 @@ export async function loadUfcPromotion(context: PromotionLoadContext): Promise<L
       ? configuredUrls
       : await discoverUpcomingEventUrls({
           now,
-          pages: (process.env.UFC_EVENT_PAGES ?? "0,1,2").split(",").map(Number).filter(Number.isFinite),
-          maxEvents: Number(process.env.MAX_EVENTS ?? 50),
-          pastDays: Number(process.env.PAST_DAYS ?? 120),
+          pages: settings.ufcEventPages,
+          maxEvents: settings.ufcMaxEvents,
+          pastDays: settings.ufcPastDays,
         });
     console.log(`Found ${eventUrls.length} recent/upcoming UFC event URL(s).`);
     const results = await mapWithConcurrency(eventUrls, 4, async (url) => {
@@ -63,7 +63,7 @@ export async function loadUfcPromotion(context: PromotionLoadContext): Promise<L
       date: ufcStart,
       activeBouts: (event) => event.sections.reduce((total, section) => total + section.fights.length, 0),
       cancelledBouts: (event) => event.cancelledBouts?.length ?? 0,
-    }, now, Number(process.env.PAST_DAYS ?? 120));
+    }, now, settings.ufcPastDays);
     events = reconcileEvents(eventStore, scrapedEvents, now, {
       trackMissing: configuredUrls.length === 0 && failedEventPages === 0,
     });

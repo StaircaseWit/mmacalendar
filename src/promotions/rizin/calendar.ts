@@ -2,7 +2,7 @@ import { renderCalendarDescription, renderCalendarFeed } from "../../calendar-re
 import type { CalendarBoutModel, CalendarDescriptionModel, CalendarEventModel } from "../../calendar-model.js";
 import { BEST_FIGHT_ODDS_URL, formatPromotionOdds, promotionOddsHistoryRows } from "../../promotion-odds.js";
 import type { RevisionProvider } from "../../revision.js";
-import type { RizinEvent, RizinFighter } from "../../rizin.js";
+import type { RizinEvent, RizinFighter } from "./source.js";
 import { ageOnDate, cleanText, flagEmoji } from "../../utils.js";
 import { rizinDivisionForKilograms } from "./divisions.js";
 

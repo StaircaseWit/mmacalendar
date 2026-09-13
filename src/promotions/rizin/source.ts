@@ -1,11 +1,11 @@
 import * as cheerio from "cheerio";
 import type { AnyNode } from "domhandler";
-import { fetchText } from "./http.js";
-import { absoluteUrl, cleanText, mapWithConcurrency, normalizedName } from "./utils.js";
-import type { PromotionOddsSnapshot } from "./promotion-odds.js";
-import { calendarUtc } from "./calendar-renderer.js";
-import { retainEventHistory } from "./retention.js";
-import { rizinDivisionForKilograms } from "./promotions/rizin/divisions.js";
+import { fetchText } from "../../http.js";
+import { absoluteUrl, cleanText, mapWithConcurrency, normalizedName } from "../../utils.js";
+import type { PromotionOddsSnapshot } from "../../promotion-odds.js";
+import { calendarUtc } from "../../calendar-renderer.js";
+import { retainEventHistory } from "../../retention.js";
+import { rizinDivisionForKilograms } from "./divisions.js";
 
 export const RIZIN_EVENTS_URL = "https://jp.rizinff.com/_tags/%E5%A4%A7%E4%BC%9A%E6%83%85%E5%A0%B1?fr=rel";
 
@@ -420,5 +420,3 @@ export async function scrapeRizinEvents(now = new Date(), options: { pastDays?: 
   });
   return events;
 }
-
-export { describeRizinBout, renderRizinCalendar } from "./promotions/rizin/calendar.js";

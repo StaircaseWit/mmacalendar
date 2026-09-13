@@ -1,6 +1,6 @@
 import { renderCalendarDescription, renderCalendarFeed } from "../../calendar-renderer.js";
 import type { CalendarBoutModel, CalendarDescriptionModel, CalendarEventModel } from "../../calendar-model.js";
-import type { OneEvent } from "../../one.js";
+import type { OneEvent } from "./source.js";
 import {
   BEST_FIGHT_ODDS_URL,
   formatPromotionOdds,
