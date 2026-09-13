@@ -3488,7 +3488,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/dedduanglek/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/kongsuk-sitsarawatsuer/"
       },
       {
         "redName": "Yokkiri TN Muaythai",
@@ -3497,7 +3499,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Iraq",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/yokkiri-tn-muaythai/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/ali-al-kinani/"
       },
       {
         "redName": "Kajornklai Sor Sor Toipadriew",
@@ -3506,7 +3510,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/kajornklai-sor-sor-toipadriew/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/tewadalek-tor-muangthoenmuaythai/"
       },
       {
         "redName": "Petgarfield Jitmuangnon",
@@ -3515,14 +3521,18 @@
         "redCountry": "Thailand",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/petgarfield-jitmuangnon/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/netpayak-changaewburiram/"
       },
       {
         "redName": "Nauris Bartoska",
         "blueName": "Patrick Hill",
-        "details": "Bantamweight Mixed Martial Arts",
+        "details": "Bantamweight MMA",
         "redCountry": "Ireland / Lithuania",
-        "blueCountry": "Australia"
+        "blueCountry": "Australia",
+        "redProfileUrl": "https://www.onefc.com/athletes/nauris-bartoska/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/patrick-hill/"
       },
       {
         "redName": "Ployjan Sitnayokdam",
@@ -3531,7 +3541,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Italy",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/ployjan-sitnayokdam/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/giorgia-pieropan/"
       },
       {
         "redName": "Vusal Aliyev",
@@ -3540,7 +3552,9 @@
         "redCountry": "Azerbaijan",
         "blueCountry": "Japan",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/vusal-aliyev/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/raize/"
       },
       {
         "redName": "Sheng Yi Yang",
@@ -3549,7 +3563,9 @@
         "redCountry": "China",
         "blueCountry": "Japan",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/sheng-yi-yang/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/shota-takezoe/"
       },
       {
         "redName": "Songchainoi Kiatsongrit",
@@ -3558,7 +3574,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/songchainoi-kiatsongrit/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/banluerit-or-atchariya/"
       },
       {
         "redName": "Kyaw Swar Win",
@@ -3567,7 +3585,9 @@
         "redCountry": "Myanmar [Burma]",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/kyaw-swar-win/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/komawut-fa-group/"
       },
       {
         "redName": "Yodphupa Petkiatpet",
@@ -3576,7 +3596,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Myanmar [Burma]",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/yodphupa/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/saw-min-min/"
       },
       {
         "redName": "Dalian Dawody",
@@ -3585,7 +3607,9 @@
         "redCountry": "Sweden",
         "blueCountry": "Libya",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/dalian-dawody/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/lamin-souayah/"
       },
       {
         "redName": "Ben Longstaff",
@@ -3594,7 +3618,9 @@
         "redCountry": "United Kingdom",
         "blueCountry": "Japan",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/ben-longstaff/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/kazuteru-yamazaki/"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-167/"
@@ -3616,7 +3642,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Iran",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/wuttikrai-wor-chakrawut/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/mohammad-habibpour/"
       },
       {
         "redName": "Petphupa Aekpujean",
@@ -3625,7 +3653,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/petphupa-aekpujean/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/brazil-aekmuangnon/"
       },
       {
         "redName": "Nuengkaonueng Laochokcharoen",
@@ -3634,7 +3664,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Ukraine",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/nuengkaonueng-laochokcharoen/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/denis-dotsenko/"
       },
       {
         "redName": "Korpai Sor Yingcharoenkarnchang",
@@ -3643,7 +3675,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/korpai-sor-yingcharoenkarnchang/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/petburapha-petchompu/"
       },
       {
         "redName": "Chalamkhao Sitkhunma",
@@ -3652,7 +3686,9 @@
         "redCountry": "Thailand",
         "blueCountry": "United Kingdom",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/chalamkhao-sitkhunma/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/mohammed-faizan/"
       },
       {
         "redName": "Burklerk Lookmuangpet",
@@ -3661,7 +3697,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/burklerk-lookmuangpet/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/nueapayak-pudprachachuen/"
       },
       {
         "redName": "Zhao Chongyang",
@@ -3670,7 +3708,9 @@
         "redCountry": "China",
         "blueCountry": "Japan",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/zhao-chongyang/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/yuri-tanaka/"
       },
       {
         "redName": "Fahlab Nakhonsawan Sports School",
@@ -3679,14 +3719,18 @@
         "redCountry": "Thailand",
         "blueCountry": "Italy",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/fahlab-nakhonsawan-sports-school/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/valentina-cancello/"
       },
       {
         "redName": "Geun Ho Son",
         "blueName": "Ryoto Nishiyama",
-        "details": "Flyweight Mixed Martial Arts",
+        "details": "Flyweight MMA",
         "redCountry": "South Korea",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redProfileUrl": "https://www.onefc.com/athletes/geun-ho-son/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/ryoto-nishiyama/"
       },
       {
         "redName": "Worapon Lukjaoporongtom",
@@ -3695,7 +3739,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Italy",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/worapon-sor-dechapan/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/lenny-blasi/"
       },
       {
         "redName": "Rambong Sor Therapat",
@@ -3704,16 +3750,20 @@
         "redCountry": "Thailand",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/rambong-sor-therapat/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/chartpayak-saksatoon/"
       },
       {
         "redName": "Isannuea Sor Sasiwat",
         "blueName": "Ubaid Hussain",
-        "details": "Openweight Muay Thai",
+        "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
         "blueCountry": "Pakistan / United Kingdom",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/isannuea-tor-tanjaroen/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/ubaid-hussain/"
       },
       {
         "redName": "Basta Abdelmouneme",
@@ -3722,7 +3772,9 @@
         "redCountry": "Algeria",
         "blueCountry": "Uzbekistan",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/basta-abdelmouneme/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/fakhriddin-khasanov/"
       },
       {
         "redName": "Jung Hyun Woo",
@@ -3731,7 +3783,9 @@
         "redCountry": "South Korea",
         "blueCountry": "Japan",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/jung-hyun-woo/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/keisuke-monguchi/"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-168/"
@@ -3753,7 +3807,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/khunponnoi-sor-sommai/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/sunvo-tded99/"
       },
       {
         "redName": "Dansiam Weerasakreck",
@@ -3762,7 +3818,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Iran",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/dansiam-weerasakreck/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/arman-moradi/"
       },
       {
         "redName": "Sunday Sor Sombatfarm",
@@ -3778,14 +3836,18 @@
         "redCountry": "Thailand",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/pinsiam-sitbonsakon/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/yodphupa-teammehdizatout/"
       },
       {
         "redName": "Ruslan Bulut",
         "blueName": "Sanzhar Mansurov",
-        "details": "Strawweight Mixed Martial Arts",
+        "details": "Strawweight MMA",
         "redCountry": "Turkey / Turkmenistan",
-        "blueCountry": "Kyrgyzstan"
+        "blueCountry": "Kyrgyzstan",
+        "redProfileUrl": "https://www.onefc.com/athletes/ruslan-bulut/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/sanzhar-mansurov/"
       },
       {
         "redName": "Siwanat Mavinn Muaythai",
@@ -3794,7 +3856,9 @@
         "redCountry": "Thailand",
         "blueCountry": "France",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/siwanat-mavinn-muaythai/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/yanis-ben-alaya/"
       },
       {
         "redName": "Daniel Vortiah",
@@ -3803,7 +3867,9 @@
         "redCountry": "Ghana / Spain",
         "blueCountry": "Japan",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/daniel-vortiah/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/ryoya-inai/"
       },
       {
         "redName": "Petmuangsri Torfunfarm",
@@ -3812,7 +3878,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Scotland",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/petmuangsri/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/gregor-thom/"
       },
       {
         "redName": "Mongkoldetlek Por Pim-on",
@@ -3821,7 +3889,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Morocco",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/mongkolpetch/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/yassir-rassafi/"
       },
       {
         "redName": "Rak Erawan",
@@ -3830,7 +3900,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/rak-erawan/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/hern-nf-looksuan/"
       },
       {
         "redName": "Songpandin Chor Kaewwiset",
@@ -3839,7 +3911,9 @@
         "redCountry": "Laos",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/songpandin-chor-kaewwiset/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/petsiam-soonsrangthangtak/"
       },
       {
         "redName": "Isaiah Badato",
@@ -3848,7 +3922,9 @@
         "redCountry": "Australia",
         "blueCountry": "Japan",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/isaiah-badato/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/kyo-kawakami/"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-169/"
@@ -3870,7 +3946,9 @@
         "redCountry": "Thailand",
         "blueCountry": "United States",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/stamp/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/selina-flores/"
       },
       {
         "redName": "Mohamed Younes Rabah",
@@ -3879,14 +3957,18 @@
         "redCountry": "Algeria",
         "blueCountry": "Argentina",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/mohamed-younes-rabah/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/ricardo-bravo/"
       },
       {
         "redName": "Ryohei Kurosawa",
         "blueName": "Fabio Henrique",
-        "details": "Strawweight Mixed Martial Arts",
+        "details": "Strawweight MMA",
         "redCountry": "Japan",
-        "blueCountry": "Brazil"
+        "blueCountry": "Brazil",
+        "redProfileUrl": "https://www.onefc.com/athletes/ryohei-kurosawa/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/fabio-henrique/"
       },
       {
         "redName": "Jaosuayai Mor Krungthepthonburi",
@@ -3895,7 +3977,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Colombia",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/jaosuayai/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/jordan-estupinan/"
       },
       {
         "redName": "Rafael Lovato Jr",
@@ -3907,16 +3991,20 @@
       {
         "redName": "Hector Almonacid",
         "blueName": "Pedro Dantas",
-        "details": "Featherweight Mixed Martial Arts",
+        "details": "Featherweight MMA",
         "redCountry": "Argentina",
-        "blueCountry": "Brazil"
+        "blueCountry": "Brazil",
+        "redProfileUrl": "https://www.onefc.com/athletes/hector-almonacid/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/pedro-dantas/"
       },
       {
         "redName": "Gabi Fujimoto",
         "blueName": "Macarena Aragon",
-        "details": "Atomweight Mixed Martial Arts",
+        "details": "Atomweight MMA",
         "redCountry": "Brazil",
-        "blueCountry": "Argentina"
+        "blueCountry": "Argentina",
+        "redProfileUrl": "https://www.onefc.com/athletes/gabi-fujimoto/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/macarena-aragon/"
       },
       {
         "redName": "Ngoc Phu Nguyen",
@@ -3925,7 +4013,9 @@
         "redCountry": "Vietnam",
         "blueCountry": "Morocco",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/ngoc-phu-nguyen/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/elmehdi-el-jamari/"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/onefightnight47/"
@@ -3942,12 +4032,18 @@
     "bouts": [
       {
         "redName": "Yodlekpet Or Atchariya",
-        "blueName": "Pompet PongSuphan PK",
+        "blueName": "Pompet Pongsuphan PK",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/yodlekpet-or-atchariya/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/pompet/",
+        "redAge": 31,
+        "blueAge": 28,
+        "redRecord": "11-7-0",
+        "blueRecord": "10-5-0"
       },
       {
         "redName": "Xavier Gonzalez",
@@ -3956,7 +4052,13 @@
         "redCountry": "Spain",
         "blueCountry": "Myanmar [Burma]",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/xavier-gonzalez/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/thway-lin-htet/",
+        "redAge": 24,
+        "blueAge": 23,
+        "redRecord": "7-7-0",
+        "blueRecord": "6-4-0"
       },
       {
         "redName": "Dabdam Por Tor Tor Thongtawee",
@@ -3965,7 +4067,13 @@
         "redCountry": "Thailand",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/dabdam-por-tor-tor-thongtawee/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/petsangwan-sor-samarngarment/",
+        "redAge": 26,
+        "blueAge": 23,
+        "redRecord": "2-5-0",
+        "blueRecord": "2-3-0"
       },
       {
         "redName": "Yonis Anane",
@@ -3974,7 +4082,9 @@
         "redCountry": "France / Thailand",
         "blueCountry": "Mexico",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/yonis-anane/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/ricardo-sanchez/"
       },
       {
         "redName": "Ganchai Jitmuangnon",
@@ -3983,7 +4093,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Egypt",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/ganchai-jitmuangnon/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/tantawy-ahmed-hafez/"
       },
       {
         "redName": "Maisangngern Sor Yingcharoenkarnchang",
@@ -3992,7 +4104,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Japan",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/kaichon-sor-yingcharoenkarnchang/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/jurai-ishii/"
       },
       {
         "redName": "Pek Por Tor Tor Thongtawee",
@@ -4001,14 +4115,20 @@
         "redCountry": "Thailand",
         "blueCountry": "Japan",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/pek-por-tor-tor-thongtawee/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/shinichi-watanabe/"
       },
       {
         "redName": "Rambolek Chor Ajalaboon",
         "blueName": "Yod-IQ Or Pimolsri",
-        "details": "Bantamweight World Championship",
+        "details": "Bantamweight Muay Thai World Championship",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redProfileUrl": "https://www.onefc.com/athletes/rambolek-chor-ajalaboon/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/yod-iq/",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Seksan Or Kwanmuang",
@@ -4017,7 +4137,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/seksan-or-kwanmuang/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/muangthai-p-k-saenchaimuaythaigym/"
       },
       {
         "redName": "Ferrari Fairtex",
@@ -4026,7 +4148,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Brazil",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/ferrari-fairtex/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/julio-lobo/"
       },
       {
         "redName": "Sangarthit Looksaikongdin",
@@ -4035,7 +4159,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Hong Kong SAR China / Scotland",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/sangarthit-looksaikongdin/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/logan-chan/"
       },
       {
         "redName": "Freddie Haggerty",
@@ -4044,7 +4170,9 @@
         "redCountry": "England",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/freddie-haggerty/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/rungruanglek-tn-muaythai/"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-170/"
@@ -4066,14 +4194,27 @@
         "redCountry": "Japan",
         "blueCountry": "Myanmar [Burma]",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/nadaka-yoshinari/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/har-ling-om/",
+        "redAge": 25,
+        "blueAge": 28,
+        "redRecord": "6-0-0",
+        "blueRecord": "2-4-0"
       },
       {
         "redName": "Yuya Wakamatsu",
         "blueName": "Willie van Rooyen",
-        "details": "Flyweight Mixed Martial Arts",
+        "details": "Flyweight MMA",
         "redCountry": "Japan",
-        "blueCountry": "South Africa"
+        "blueCountry": "South Africa",
+        "redProfileUrl": "https://www.onefc.com/athletes/yuya-wakamatsu/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/willie-van-rooyen/",
+        "redAge": 31,
+        "blueAge": 23,
+        "redRecord": "11-5-0",
+        "blueRecord": "1-2-0",
+        "redStyle": "All-rounder"
       },
       {
         "redName": "Shimon Yoshinari",
@@ -4082,7 +4223,13 @@
         "redCountry": "Japan",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/shimon-yoshinari/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/suablack-tor-pran49/",
+        "redAge": 22,
+        "blueAge": 30,
+        "redRecord": "6-0-0",
+        "blueRecord": "9-6-0"
       },
       {
         "redName": "Hyu",
@@ -4091,14 +4238,26 @@
         "redCountry": "Japan",
         "blueCountry": "Japan",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/hyu/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/hyuma-hitachi/",
+        "redAge": 23,
+        "redRecord": "6-1-0",
+        "blueRecord": "0-1-0"
       },
       {
         "redName": "Hiroba Minowa",
         "blueName": "Yuta Miyazawa",
-        "details": "Strawweight Mixed Martial Arts",
+        "details": "Strawweight MMA",
         "redCountry": "Japan",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redProfileUrl": "https://www.onefc.com/athletes/hiroba-minowa/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/yuta-miyazawa/",
+        "redAge": 27,
+        "blueAge": 32,
+        "redRecord": "5-4-0",
+        "blueRecord": "0-1-0",
+        "redStyle": "Grappler"
       },
       {
         "redName": "Ryuya Okuwaki",
@@ -4107,7 +4266,13 @@
         "redCountry": "Japan",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/ryuya-okuwaki/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/chokdee-maxjandee/",
+        "redAge": 26,
+        "blueAge": 28,
+        "redRecord": "4-0-0",
+        "blueRecord": "5-5-0"
       },
       {
         "redName": "Kosei Yoshida",
@@ -4116,14 +4281,25 @@
         "redCountry": "Japan",
         "blueCountry": "China",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/kosei-yoshida/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/zhao-zhengdong/",
+        "redAge": 20,
+        "redRecord": "5-1-0",
+        "blueRecord": "3-1-0"
       },
       {
         "redName": "Seiichiro Ito",
         "blueName": "Kazusa Kurobe",
-        "details": "Strawweight Mixed Martial Arts",
+        "details": "Strawweight MMA",
         "redCountry": "Japan",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redProfileUrl": "https://www.onefc.com/athletes/seiichiro-ito/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/kazusa-kurobe/",
+        "redAge": 32,
+        "blueAge": 24,
+        "redRecord": "1-1-0",
+        "blueRecord": "0-1-0"
       },
       {
         "redName": "Homura Abe",
@@ -4132,7 +4308,13 @@
         "redCountry": "Japan",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/homura-abe/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/tuakiao/",
+        "redAge": 18,
+        "blueAge": 29,
+        "redRecord": "1-0-0",
+        "blueRecord": "0-1-0"
       },
       {
         "redName": "Aiji Kobayashi",
@@ -4172,7 +4354,9 @@
         "redCountry": "Thailand",
         "blueCountry": "Thailand",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/panpayak/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/lamnamoonlek-tded99/"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-172/"
@@ -4201,9 +4385,11 @@
       {
         "redName": "Shamil Erdogan",
         "blueName": "Paul Elliott",
-        "details": "Heavyweight Mixed Martial Arts",
+        "details": "Heavyweight MMA",
         "redCountry": "Turkey",
-        "blueCountry": "United Kingdom"
+        "blueCountry": "United Kingdom",
+        "redProfileUrl": "https://www.onefc.com/athletes/shamil-erdogan/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/paul-elliott/"
       },
       {
         "redName": "Luke Lessei",
@@ -4212,7 +4398,9 @@
         "redCountry": "United States",
         "blueCountry": "England",
         "redStyle": "Striker",
-        "blueStyle": "Striker"
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/luke-lessei/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/charlie-guest/"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/onefightnight48/"
