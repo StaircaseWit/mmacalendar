@@ -18,7 +18,8 @@
           "countryCode": "ES",
           "birthDate": "1992-07-25",
           "record": "18-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Fabian Edwards",
@@ -26,9 +27,11 @@
           "countryCode": null,
           "birthDate": "1993-03-23",
           "record": "16-5-0",
-          "style": "Striker"
+          "style": "Striker",
+          "odds": null
         },
-        "details": "Winner: Costello van Steenis by KO"
+        "details": "Winner: Costello van Steenis by KO",
+        "oddsHistory": []
       },
       {
         "id": "1353",
@@ -39,7 +42,8 @@
           "countryCode": null,
           "birthDate": "1995-04-06",
           "record": "25-2-0",
-          "style": "Striker"
+          "style": "Striker",
+          "odds": null
         },
         "blue": {
           "name": "Adam Borics",
@@ -47,9 +51,11 @@
           "countryCode": "HU",
           "birthDate": "1993-07-06",
           "record": "20-4-0",
-          "style": "Striker"
+          "style": "Striker",
+          "odds": null
         },
-        "details": "Winner: AJ McKee by Decision"
+        "details": "Winner: AJ McKee by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1379",
@@ -60,7 +66,8 @@
           "countryCode": "AR",
           "birthDate": "1996-09-29",
           "record": "6-2-0",
-          "style": "Striker"
+          "style": "Striker",
+          "odds": null
         },
         "blue": {
           "name": "Yassin Najid",
@@ -68,9 +75,11 @@
           "countryCode": null,
           "birthDate": "1985-07-25",
           "record": "9-5-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Franco Tenaglia by TKO"
+        "details": "Winner: Franco Tenaglia by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1381",
@@ -81,7 +90,8 @@
           "countryCode": "AU",
           "birthDate": "1994-10-19",
           "record": "9-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Benita Van Rooji",
@@ -89,9 +99,11 @@
           "countryCode": "NL",
           "birthDate": "1999-06-02",
           "record": "7-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Jacinta Austin by KO"
+        "details": "Winner: Jacinta Austin by KO",
+        "oddsHistory": []
       },
       {
         "id": "1358",
@@ -102,7 +114,8 @@
           "countryCode": "GB",
           "birthDate": "1983-06-02",
           "record": "26-10-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
         "blue": {
           "name": "Jose Augusto",
@@ -110,9 +123,11 @@
           "countryCode": null,
           "birthDate": "1992-03-27",
           "record": "11-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Linton Vassell by TKO"
+        "details": "Winner: Linton Vassell by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1382",
@@ -123,7 +138,8 @@
           "countryCode": "ES",
           "birthDate": "1999-11-23",
           "record": "15-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Luciano Pereira",
@@ -131,9 +147,11 @@
           "countryCode": null,
           "birthDate": "2001-01-08",
           "record": "16-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Luciano Pereira by KO"
+        "details": "Winner: Luciano Pereira by KO",
+        "oddsHistory": []
       },
       {
         "id": "1371",
@@ -144,7 +162,8 @@
           "countryCode": null,
           "birthDate": "2000-03-08",
           "record": "7-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Rafael Calderon",
@@ -152,9 +171,11 @@
           "countryCode": null,
           "birthDate": "1996-02-09",
           "record": "6-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Borja Garcia by Decision"
+        "details": "Winner: Borja Garcia by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1360",
@@ -165,7 +186,8 @@
           "countryCode": null,
           "birthDate": "1998-02-14",
           "record": "9-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Mark Ewen",
@@ -173,9 +195,11 @@
           "countryCode": "GB",
           "birthDate": "1998-12-09",
           "record": "7-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Gino Van Steenis by KO"
+        "details": "Winner: Gino Van Steenis by KO",
+        "oddsHistory": []
       },
       {
         "id": "1380",
@@ -186,7 +210,8 @@
           "countryCode": "ES",
           "birthDate": "1994-01-18",
           "record": "5-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Ernesto Schisano",
@@ -194,9 +219,11 @@
           "countryCode": null,
           "birthDate": "1993-03-07",
           "record": "5-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Mattia Giordano by Decision"
+        "details": "Winner: Mattia Giordano by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1372",
@@ -207,7 +234,8 @@
           "countryCode": null,
           "birthDate": "1995-03-18",
           "record": "10-7-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Claudio Pacella",
@@ -215,9 +243,11 @@
           "countryCode": "IT",
           "birthDate": "1999-10-16",
           "record": "7-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Claudio Pacella by Decision"
+        "details": "Winner: Claudio Pacella by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1370",
@@ -228,7 +258,8 @@
           "countryCode": "ES",
           "birthDate": "1996-06-28",
           "record": "8-2-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
         "blue": {
           "name": "Mathys Duragrin",
@@ -236,9 +267,11 @@
           "countryCode": "FR",
           "birthDate": "2001-12-04",
           "record": "4-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Ignacio Campos by Decision"
+        "details": "Winner: Ignacio Campos by Decision",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -262,7 +295,8 @@
           "countryCode": null,
           "birthDate": "1991-12-12",
           "record": "18-1-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
         "blue": {
           "name": "Bryan Battle",
@@ -270,9 +304,11 @@
           "countryCode": null,
           "birthDate": "1994-09-20",
           "record": "13-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Johnny Eblen by Submission"
+        "details": "Winner: Johnny Eblen by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1369",
@@ -283,7 +319,8 @@
           "countryCode": null,
           "birthDate": "1995-11-08",
           "record": "11-4-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
         "blue": {
           "name": "Impa Kasanganay",
@@ -291,9 +328,11 @@
           "countryCode": "US",
           "birthDate": "1994-01-16",
           "record": "20-7-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Impa Kasanganay by KO"
+        "details": "Winner: Impa Kasanganay by KO",
+        "oddsHistory": []
       },
       {
         "id": "1374",
@@ -304,7 +343,8 @@
           "countryCode": null,
           "birthDate": "1994-01-25",
           "record": "18-12-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Sumiko Inaba",
@@ -312,9 +352,11 @@
           "countryCode": null,
           "birthDate": "1992-02-05",
           "record": "8-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Ariane Lipski da Silva by Decision"
+        "details": "Winner: Ariane Lipski da Silva by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1373",
@@ -325,7 +367,8 @@
           "countryCode": "US",
           "birthDate": "2001-05-10",
           "record": "8-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Julio Arce",
@@ -333,9 +376,11 @@
           "countryCode": null,
           "birthDate": "1989-10-26",
           "record": "22-7-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Alexei Pergande by Decision"
+        "details": "Winner: Alexei Pergande by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1375",
@@ -346,7 +391,8 @@
           "countryCode": "US",
           "birthDate": "1992-07-24",
           "record": "11-0-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Jacob Thrall",
@@ -354,9 +400,11 @@
           "countryCode": "US",
           "birthDate": "1995-04-08",
           "record": "15-8-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Lazaro Dayron by Decision"
+        "details": "Winner: Lazaro Dayron by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1385",
@@ -367,7 +415,8 @@
           "countryCode": null,
           "birthDate": "1995-11-22",
           "record": "10-5-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Jack Cartwright",
@@ -375,9 +424,11 @@
           "countryCode": "GB",
           "birthDate": "1994-05-25",
           "record": "14-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Jack Cartwright by Decision"
+        "details": "Winner: Jack Cartwright by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1386",
@@ -388,7 +439,8 @@
           "countryCode": null,
           "birthDate": "1992-02-19",
           "record": "26-6-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Jakub Kaszuba",
@@ -396,9 +448,11 @@
           "countryCode": "PL",
           "birthDate": "1995-06-01",
           "record": "16-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Jakub Kaszuba by Decision"
+        "details": "Winner: Jakub Kaszuba by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1387",
@@ -409,7 +463,8 @@
           "countryCode": "US",
           "birthDate": "1989-08-21",
           "record": "16-5-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Dakota Bush",
@@ -417,9 +472,11 @@
           "countryCode": "US",
           "birthDate": "1994-06-08",
           "record": "17-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Dakota Bush by KO"
+        "details": "Winner: Dakota Bush by KO",
+        "oddsHistory": []
       },
       {
         "id": "1388",
@@ -430,7 +487,8 @@
           "countryCode": "CU",
           "birthDate": "1997-08-08",
           "record": "11-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Masayuki Kikuiri",
@@ -438,9 +496,11 @@
           "countryCode": null,
           "birthDate": "1995-06-29",
           "record": "11-4-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Ernesto Rodriguez by Decision"
+        "details": "Winner: Ernesto Rodriguez by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1389",
@@ -451,7 +511,8 @@
           "countryCode": null,
           "birthDate": "2000-04-02",
           "record": "8-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Elora Dana",
@@ -459,9 +520,11 @@
           "countryCode": "BR",
           "birthDate": "1993-06-22",
           "record": "8-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Tatiana Postarnakova by Decision"
+        "details": "Winner: Tatiana Postarnakova by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1390",
@@ -472,7 +535,8 @@
           "countryCode": null,
           "birthDate": "1994-01-14",
           "record": "13-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Jarrah Al Salawi",
@@ -480,9 +544,11 @@
           "countryCode": "JO",
           "birthDate": "1992-06-25",
           "record": "21-8-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Josh Fremd by KO"
+        "details": "Winner: Josh Fremd by KO",
+        "oddsHistory": []
       },
       {
         "id": "1391",
@@ -493,7 +559,8 @@
           "countryCode": null,
           "birthDate": "1992-01-07",
           "record": "12-9-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Fred Dupras",
@@ -501,9 +568,11 @@
           "countryCode": "CA",
           "birthDate": "1993-09-14",
           "record": "10-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Fred Dupras by Submission"
+        "details": "Winner: Fred Dupras by Submission",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -527,7 +596,8 @@
           "countryCode": "ZA",
           "birthDate": "1995-03-21",
           "record": "14-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Michele Clemente",
@@ -535,9 +605,11 @@
           "countryCode": "IT",
           "birthDate": "2000-06-08",
           "record": "7-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Nkosi Ndebele by Decision"
+        "details": "Winner: Nkosi Ndebele by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1384",
@@ -548,7 +620,8 @@
           "countryCode": "ZA",
           "birthDate": null,
           "record": "5-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Abdoulaye Kane",
@@ -556,9 +629,11 @@
           "countryCode": "SN",
           "birthDate": "1998-08-14",
           "record": "5-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Justin Clarke by TKO"
+        "details": "Winner: Justin Clarke by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1430",
@@ -569,7 +644,8 @@
           "countryCode": "GW",
           "birthDate": "1997-08-04",
           "record": "13-3-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Peace Nguphane",
@@ -577,9 +653,11 @@
           "countryCode": "ZA",
           "birthDate": null,
           "record": "10-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Peace Nguphane by Decision"
+        "details": "Winner: Peace Nguphane by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1431",
@@ -590,7 +668,8 @@
           "countryCode": "AO",
           "birthDate": "1994-12-22",
           "record": "12-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Emilios Dassi",
@@ -598,9 +677,11 @@
           "countryCode": "CM",
           "birthDate": "1997-01-31",
           "record": "5-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Shido Boris Esperanca by TKO"
+        "details": "Winner: Shido Boris Esperanca by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1432",
@@ -611,7 +692,8 @@
           "countryCode": "LU",
           "birthDate": "1997-05-20",
           "record": "3-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Kunle Lawal",
@@ -619,9 +701,11 @@
           "countryCode": "NG",
           "birthDate": "1998-09-23",
           "record": "3-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Rivaldo Pereira by TKO"
+        "details": "Winner: Rivaldo Pereira by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1433",
@@ -632,7 +716,8 @@
           "countryCode": "NG",
           "birthDate": "1999-05-25",
           "record": "9-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Jane Osigwe",
@@ -640,9 +725,11 @@
           "countryCode": null,
           "birthDate": "2005-06-13",
           "record": "5-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Juliet Ukah by Decision"
+        "details": "Winner: Juliet Ukah by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1434",
@@ -653,7 +740,8 @@
           "countryCode": "EG",
           "birthDate": "2000-08-16",
           "record": "5-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "David Samuel",
@@ -661,9 +749,11 @@
           "countryCode": "RU",
           "birthDate": null,
           "record": "6-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: David Samuel by Submission"
+        "details": "Winner: David Samuel by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1435",
@@ -674,7 +764,8 @@
           "countryCode": "BF",
           "birthDate": "2001-01-09",
           "record": "7-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Áureo Cruz",
@@ -682,9 +773,11 @@
           "countryCode": "AO",
           "birthDate": null,
           "record": "3-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "155lbs/70kg Lightweight"
+        "details": "155lbs/70kg Lightweight",
+        "oddsHistory": []
       },
       {
         "id": "1436",
@@ -695,7 +788,8 @@
           "countryCode": null,
           "birthDate": "1997-03-17",
           "record": "10-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Shadrack Yemba",
@@ -703,9 +797,11 @@
           "countryCode": null,
           "birthDate": "1998-08-30",
           "record": "5-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Shadrack Yemba by Decision"
+        "details": "Winner: Shadrack Yemba by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1437",
@@ -716,7 +812,8 @@
           "countryCode": null,
           "birthDate": "1995-03-20",
           "record": "7-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Asiashu Tshitamba",
@@ -724,9 +821,11 @@
           "countryCode": "ZA",
           "birthDate": "1992-05-20",
           "record": "7-5-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Asiashu Tshitamba by Decision"
+        "details": "Winner: Asiashu Tshitamba by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1438",
@@ -737,7 +836,8 @@
           "countryCode": "KE",
           "birthDate": "2000-02-14",
           "record": "6-2-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Annet Kiiza",
@@ -745,9 +845,11 @@
           "countryCode": "UG",
           "birthDate": "2001-01-13",
           "record": "3-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Felista Mugo by Decision"
+        "details": "Winner: Felista Mugo by Decision",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -771,7 +873,8 @@
           "countryCode": "US",
           "birthDate": "1993-08-17",
           "record": "25-8-0",
-          "style": null
+          "style": null,
+          "odds": "-120"
         },
         "blue": {
           "name": "Mitch McKee",
@@ -779,9 +882,27 @@
           "countryCode": "US",
           "birthDate": "1997-12-23",
           "record": "11-0-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": "+100"
         },
-        "details": "Winner: Mitch McKee by Decision"
+        "details": "Winner: Mitch McKee by Decision",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Chicago",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4129",
+            "odds": {
+              "mitch mckee": "+100",
+              "sergio pettis": "-120"
+            },
+            "names": {
+              "mitch mckee": "Mitch McKee",
+              "sergio pettis": "Sergio Pettis"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-chicago-2026"
+          }
+        ]
       },
       {
         "id": "1404",
@@ -792,7 +913,8 @@
           "countryCode": null,
           "birthDate": "1988-12-15",
           "record": "21-5-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": "+250"
         },
         "blue": {
           "name": "Renat Khavalov",
@@ -800,9 +922,27 @@
           "countryCode": "RU",
           "birthDate": "1998-08-05",
           "record": "12-0-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": "-200"
         },
-        "details": "Winner: Renat Khavalov by Decision"
+        "details": "Winner: Renat Khavalov by Decision",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Chicago",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4129",
+            "odds": {
+              "raufeon stots": "+250",
+              "renat khavalov": "-200"
+            },
+            "names": {
+              "raufeon stots": "Raufeon Stots",
+              "renat khavalov": "Renat Khavalov"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-chicago-2026"
+          }
+        ]
       },
       {
         "id": "1416",
@@ -813,7 +953,8 @@
           "countryCode": null,
           "birthDate": "1986-11-20",
           "record": "14-8-0",
-          "style": null
+          "style": null,
+          "odds": "-450"
         },
         "blue": {
           "name": "Shanna Young",
@@ -821,9 +962,27 @@
           "countryCode": "US",
           "birthDate": "1991-02-19",
           "record": "9-8-0",
-          "style": null
+          "style": null,
+          "odds": "+700"
         },
-        "details": "Winner: Viviane Araujo by Decision"
+        "details": "Winner: Viviane Araujo by Decision",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Chicago",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4129",
+            "odds": {
+              "shanna young": "+700",
+              "viviane araujo": "-450"
+            },
+            "names": {
+              "shanna young": "Shanna Young",
+              "viviane araujo": "Viviane Araujo"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-chicago-2026"
+          }
+        ]
       },
       {
         "id": "1417",
@@ -834,7 +993,8 @@
           "countryCode": "BR",
           "birthDate": "1998-04-22",
           "record": "17-3-0",
-          "style": "Striker"
+          "style": "Striker",
+          "odds": "-800"
         },
         "blue": {
           "name": "Cheyden Leialoha",
@@ -842,9 +1002,27 @@
           "countryCode": null,
           "birthDate": "1994-03-14",
           "record": "12-3-0",
-          "style": null
+          "style": null,
+          "odds": "+850"
         },
-        "details": "Winner: Gabriel Braga by Decision"
+        "details": "Winner: Gabriel Braga by Decision",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Chicago",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4129",
+            "odds": {
+              "cheyden leialoha": "+850",
+              "gabriel braga": "-800"
+            },
+            "names": {
+              "cheyden leialoha": "Cheyden Leialoha",
+              "gabriel braga": "Gabriel Braga"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-chicago-2026"
+          }
+        ]
       },
       {
         "id": "1399",
@@ -855,7 +1033,8 @@
           "countryCode": null,
           "birthDate": "1986-02-19",
           "record": "11-3-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
         "blue": {
           "name": "Borena Tsertsvadze",
@@ -863,9 +1042,11 @@
           "countryCode": null,
           "birthDate": "1999-03-12",
           "record": "6-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Jena Bishop by Submission"
+        "details": "Winner: Jena Bishop by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1400",
@@ -876,7 +1057,8 @@
           "countryCode": null,
           "birthDate": "1995-04-04",
           "record": "16-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "James Vake",
@@ -884,9 +1066,11 @@
           "countryCode": "NZ",
           "birthDate": "1994-05-30",
           "record": "7-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Omar El Dafrawy by KO"
+        "details": "Winner: Omar El Dafrawy by KO",
+        "oddsHistory": []
       },
       {
         "id": "1414",
@@ -897,7 +1081,8 @@
           "countryCode": null,
           "birthDate": "1988-08-20",
           "record": "13-5-1",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": "+265"
         },
         "blue": {
           "name": "Paulina Wisniewska",
@@ -905,9 +1090,27 @@
           "countryCode": "PL",
           "birthDate": "1998-11-26",
           "record": "7-1-0",
-          "style": null
+          "style": null,
+          "odds": "-330"
         },
-        "details": "Winner: Paulina Wisniewska by TKO"
+        "details": "Winner: Paulina Wisniewska by TKO",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Chicago",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4129",
+            "odds": {
+              "kana watanabe": "+265",
+              "paulina wisniewska": "-330"
+            },
+            "names": {
+              "kana watanabe": "Kana Watanabe",
+              "paulina wisniewska": "Paulina Wisniewska"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-chicago-2026"
+          }
+        ]
       },
       {
         "id": "1413",
@@ -918,7 +1121,8 @@
           "countryCode": null,
           "birthDate": "1990-12-10",
           "record": "20-4-0",
-          "style": null
+          "style": null,
+          "odds": "-250"
         },
         "blue": {
           "name": "Rodrigo Nascimento",
@@ -926,9 +1130,27 @@
           "countryCode": "BR",
           "birthDate": "1992-11-25",
           "record": "12-5-0",
-          "style": null
+          "style": null,
+          "odds": "+235"
         },
-        "details": "Winner: Alexandr Romanov by Submission"
+        "details": "Winner: Alexandr Romanov by Submission",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Chicago",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4129",
+            "odds": {
+              "alexandr romanov": "-250",
+              "rodrigo nascimento": "+235"
+            },
+            "names": {
+              "alexandr romanov": "Alexandr Romanov",
+              "rodrigo nascimento": "Rodrigo Nascimento"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-chicago-2026"
+          }
+        ]
       },
       {
         "id": "1409",
@@ -939,7 +1161,8 @@
           "countryCode": "US",
           "birthDate": "1998-09-03",
           "record": "4-2-0",
-          "style": null
+          "style": null,
+          "odds": "-315"
         },
         "blue": {
           "name": "Dash Harris",
@@ -947,9 +1170,27 @@
           "countryCode": "US",
           "birthDate": "2003-07-09",
           "record": "2-1-0",
-          "style": null
+          "style": null,
+          "odds": "+350"
         },
-        "details": "Winner: Biaggio Ali Walsh by TKO"
+        "details": "Winner: Biaggio Ali Walsh by TKO",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Chicago",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4129",
+            "odds": {
+              "biaggio ali walsh": "-315",
+              "dash harris": "+350"
+            },
+            "names": {
+              "biaggio ali walsh": "Biaggio Ali Walsh",
+              "dash harris": "Dash Harris"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-chicago-2026"
+          }
+        ]
       },
       {
         "id": "1410",
@@ -960,7 +1201,8 @@
           "countryCode": null,
           "birthDate": "1991-10-01",
           "record": "10-1-0",
-          "style": null
+          "style": null,
+          "odds": "-128"
         },
         "blue": {
           "name": "Nate Jennerman",
@@ -968,9 +1210,27 @@
           "countryCode": null,
           "birthDate": "1993-01-11",
           "record": "16-6-0",
-          "style": null
+          "style": null,
+          "odds": "+122"
         },
-        "details": "Winner: Valanti Atsas by Decision"
+        "details": "Winner: Valanti Atsas by Decision",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Chicago",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4129",
+            "odds": {
+              "nate jennerman": "+122",
+              "valanti atsas": "-128"
+            },
+            "names": {
+              "nate jennerman": "Nate Jennerman",
+              "valanti atsas": "Valanti Atsas"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-chicago-2026"
+          }
+        ]
       }
     ],
     "cancelledBouts": []
@@ -994,7 +1254,8 @@
           "countryCode": "IE",
           "birthDate": "1998-06-03",
           "record": "9-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Jay-Jay Wilson",
@@ -1002,9 +1263,11 @@
           "countryCode": "NZ",
           "birthDate": "1997-08-01",
           "record": "12-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Jay-Jay Wilson by KO"
+        "details": "Winner: Jay-Jay Wilson by KO",
+        "oddsHistory": []
       },
       {
         "id": "1426",
@@ -1015,7 +1278,8 @@
           "countryCode": null,
           "birthDate": "1995-09-09",
           "record": "15-7-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Alex Lohoré",
@@ -1023,9 +1287,11 @@
           "countryCode": "GB",
           "birthDate": "1989-12-18",
           "record": "26-12-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Rhys McKee by Decision"
+        "details": "Winner: Rhys McKee by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1408",
@@ -1036,7 +1302,8 @@
           "countryCode": "TM",
           "birthDate": "1989-05-10",
           "record": "26-9-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Tyson Pedro",
@@ -1044,9 +1311,11 @@
           "countryCode": null,
           "birthDate": "1991-09-16",
           "record": "10-7-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Dovlet Yagshimuradov by Decision"
+        "details": "Winner: Dovlet Yagshimuradov by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1407",
@@ -1057,7 +1326,8 @@
           "countryCode": "UA",
           "birthDate": "1998-11-25",
           "record": "7-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Eoin Sheridan",
@@ -1065,9 +1335,11 @@
           "countryCode": "IE",
           "birthDate": "1994-09-05",
           "record": "6-0-0",
-          "style": "Striker"
+          "style": "Striker",
+          "odds": null
         },
-        "details": "Winner: Eoin Sheridan by Decision"
+        "details": "Winner: Eoin Sheridan by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1405",
@@ -1078,7 +1350,8 @@
           "countryCode": "IE",
           "birthDate": "1996-05-17",
           "record": "11-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Alan Philpott",
@@ -1086,9 +1359,11 @@
           "countryCode": null,
           "birthDate": "1992-09-21",
           "record": "21-18-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Caolan Loughran by Submission"
+        "details": "Winner: Caolan Loughran by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1427",
@@ -1099,7 +1374,8 @@
           "countryCode": "FI",
           "birthDate": "2000-08-10",
           "record": "10-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Chequina Noso Pedro",
@@ -1107,9 +1383,11 @@
           "countryCode": "AO",
           "birthDate": "1993-12-31",
           "record": "10-5-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Omran Chaaban by TKO"
+        "details": "Winner: Omran Chaaban by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1403",
@@ -1120,7 +1398,8 @@
           "countryCode": "IE",
           "birthDate": "1995-05-24",
           "record": "10-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Dean Garnett",
@@ -1128,9 +1407,11 @@
           "countryCode": "GB",
           "birthDate": "1988-07-24",
           "record": "15-3-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Dean Garnett by KO"
+        "details": "Winner: Dean Garnett by KO",
+        "oddsHistory": []
       },
       {
         "id": "1397",
@@ -1141,7 +1422,8 @@
           "countryCode": "PT",
           "birthDate": "1995-08-05",
           "record": "14-10-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Sergio Cossio",
@@ -1149,9 +1431,11 @@
           "countryCode": "MX",
           "birthDate": "1990-11-07",
           "record": "27-12-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Pedro Carvalho by Decision"
+        "details": "Winner: Pedro Carvalho by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1428",
@@ -1162,7 +1446,8 @@
           "countryCode": null,
           "birthDate": "1993-08-20",
           "record": "17-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Giannis Bachar",
@@ -1170,9 +1455,11 @@
           "countryCode": null,
           "birthDate": "1990-06-04",
           "record": "9-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: David Martinez by Submission"
+        "details": "Winner: David Martinez by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1412",
@@ -1183,7 +1470,8 @@
           "countryCode": "AU",
           "birthDate": "1996-10-06",
           "record": "12-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Liam Gittins",
@@ -1191,9 +1479,11 @@
           "countryCode": "GB",
           "birthDate": "1999-05-31",
           "record": "13-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Sean Gauci by Decision"
+        "details": "Winner: Sean Gauci by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1418",
@@ -1204,7 +1494,8 @@
           "countryCode": "IE",
           "birthDate": "2003-04-05",
           "record": "2-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Shane Mullen",
@@ -1212,9 +1503,11 @@
           "countryCode": "IE",
           "birthDate": "1999-04-25",
           "record": "1-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Eoghan Masoliver by Submission"
+        "details": "Winner: Eoghan Masoliver by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1429",
@@ -1225,7 +1518,8 @@
           "countryCode": "AU",
           "birthDate": "1999-10-28",
           "record": "5-3-1",
-          "style": "Striker"
+          "style": "Striker",
+          "odds": null
         },
         "blue": {
           "name": "Andrea Vazquez",
@@ -1233,9 +1527,11 @@
           "countryCode": null,
           "birthDate": "1993-12-21",
           "record": "8-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Chelsea Hackett by Decision"
+        "details": "Winner: Chelsea Hackett by Decision",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -1259,7 +1555,8 @@
           "countryCode": null,
           "birthDate": "1992-09-07",
           "record": "19-4-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
         "blue": {
           "name": "Florim Zendeli",
@@ -1267,9 +1564,11 @@
           "countryCode": "AL",
           "birthDate": "1998-09-16",
           "record": "11-2-1",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
-        "details": "Winner: Logan Storley by Decision"
+        "details": "Winner: Logan Storley by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1425",
@@ -1280,7 +1579,8 @@
           "countryCode": null,
           "birthDate": "1993-06-30",
           "record": "28-5-2",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
         "blue": {
           "name": "Alex Chizov",
@@ -1288,9 +1588,11 @@
           "countryCode": "LV",
           "birthDate": "1997-12-03",
           "record": "13-4-0",
-          "style": "Striker"
+          "style": "Striker",
+          "odds": null
         },
-        "details": "Winner: Gadzhi Rabadanov by Decision"
+        "details": "Winner: Gadzhi Rabadanov by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1419",
@@ -1301,7 +1603,8 @@
           "countryCode": null,
           "birthDate": "1999-02-05",
           "record": "13-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Emiliano Sordi",
@@ -1309,9 +1612,11 @@
           "countryCode": null,
           "birthDate": "1991-02-14",
           "record": "23-12-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Simeon Powell by TKO"
+        "details": "Winner: Simeon Powell by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1439",
@@ -1322,7 +1627,8 @@
           "countryCode": null,
           "birthDate": "1989-11-22",
           "record": "13-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Sergey Bilostenniy",
@@ -1330,9 +1636,11 @@
           "countryCode": "RU",
           "birthDate": "1995-10-22",
           "record": "15-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Sergey Bilostenniy by TKO"
+        "details": "Winner: Sergey Bilostenniy by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1440",
@@ -1343,7 +1651,8 @@
           "countryCode": "RU",
           "birthDate": "1991-12-24",
           "record": "22-5-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Leandro Higo",
@@ -1351,9 +1660,11 @@
           "countryCode": null,
           "birthDate": "1989-01-18",
           "record": "23-8-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Magomed Magomedov by Decision"
+        "details": "Winner: Magomed Magomedov by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1447",
@@ -1364,7 +1675,8 @@
           "countryCode": "BH",
           "birthDate": "1994-12-31",
           "record": "10-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Rafael Xavier",
@@ -1372,9 +1684,11 @@
           "countryCode": null,
           "birthDate": "1991-01-11",
           "record": "15-9-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Rasul Magomedov by Decision"
+        "details": "Winner: Rasul Magomedov by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1396",
@@ -1385,7 +1699,8 @@
           "countryCode": "BR",
           "birthDate": "2000-11-01",
           "record": "7-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Cheyanne Bowers",
@@ -1393,9 +1708,11 @@
           "countryCode": "US",
           "birthDate": "1994-08-15",
           "record": "8-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Sabrinna de Sousa by Decision"
+        "details": "Winner: Sabrinna de Sousa by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1448",
@@ -1406,7 +1723,8 @@
           "countryCode": null,
           "birthDate": "1994-09-03",
           "record": "27-9-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Sang Won Kim",
@@ -1414,9 +1732,11 @@
           "countryCode": null,
           "birthDate": "1993-08-31",
           "record": "15-6-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Sang Won Kim by TKO"
+        "details": "Winner: Sang Won Kim by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1442",
@@ -1427,7 +1747,8 @@
           "countryCode": "BR",
           "birthDate": "1993-06-21",
           "record": "23-5-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Qihui Yan",
@@ -1435,9 +1756,11 @@
           "countryCode": "CN",
           "birthDate": "1996-09-30",
           "record": "25-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Taila Santos by TKO"
+        "details": "Winner: Taila Santos by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1423",
@@ -1448,7 +1771,8 @@
           "countryCode": "CU",
           "birthDate": "1995-01-19",
           "record": "11-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Bryce Logan",
@@ -1456,9 +1780,11 @@
           "countryCode": null,
           "birthDate": "1989-12-03",
           "record": "13-10-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Angel Alvarez by Decision"
+        "details": "Winner: Angel Alvarez by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1424",
@@ -1469,7 +1795,8 @@
           "countryCode": "US",
           "birthDate": "1996-12-25",
           "record": "4-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Taylor Michels",
@@ -1477,9 +1804,11 @@
           "countryCode": null,
           "birthDate": "1993-03-17",
           "record": "1-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Brett Bye by TKO"
+        "details": "Winner: Brett Bye by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1449",
@@ -1490,7 +1819,8 @@
           "countryCode": "CM",
           "birthDate": "1991-01-18",
           "record": "9-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Karl Williams",
@@ -1498,9 +1828,11 @@
           "countryCode": "US",
           "birthDate": "1990-01-05",
           "record": "10-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Maxwell Djantou Nana by Decision"
+        "details": "Winner: Maxwell Djantou Nana by Decision",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -1524,7 +1856,8 @@
           "countryCode": "BE",
           "birthDate": "2001-03-25",
           "record": "9-0-0",
-          "style": "Striker"
+          "style": "Striker",
+          "odds": null
         },
         "blue": {
           "name": "Benson Henderson",
@@ -1532,9 +1865,11 @@
           "countryCode": null,
           "birthDate": "1983-11-15",
           "record": "30-13-2",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Patrick Habirora by KO"
+        "details": "Winner: Patrick Habirora by KO",
+        "oddsHistory": []
       },
       {
         "id": "1402",
@@ -1545,7 +1880,8 @@
           "countryCode": null,
           "birthDate": "1992-04-07",
           "record": "25-4-0",
-          "style": "All-rounder"
+          "style": "All-rounder",
+          "odds": null
         },
         "blue": {
           "name": "Jake Hadley",
@@ -1553,9 +1889,11 @@
           "countryCode": null,
           "birthDate": "1996-08-02",
           "record": "12-6-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
-        "details": "Winner: Taylor Lapilus by Decision"
+        "details": "Winner: Taylor Lapilus by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1406",
@@ -1566,7 +1904,8 @@
           "countryCode": "BE",
           "birthDate": "1999-04-30",
           "record": "9-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Jared Gooden",
@@ -1574,9 +1913,11 @@
           "countryCode": "US",
           "birthDate": "1993-12-04",
           "record": "23-12-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Boris Atangana by KO"
+        "details": "Winner: Boris Atangana by KO",
+        "oddsHistory": []
       },
       {
         "id": "1420",
@@ -1587,7 +1928,8 @@
           "countryCode": "BR",
           "birthDate": "1999-07-21",
           "record": "15-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Naoki Inoue",
@@ -1595,9 +1937,11 @@
           "countryCode": null,
           "birthDate": "1997-06-13",
           "record": "21-5-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Naoki Inoue by Decision"
+        "details": "Winner: Naoki Inoue by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1421",
@@ -1608,7 +1952,8 @@
           "countryCode": "DZ",
           "birthDate": "1999-01-15",
           "record": "11-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Keisuke Sasu",
@@ -1616,9 +1961,11 @@
           "countryCode": null,
           "birthDate": "1994-09-29",
           "record": "14-5-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Asaël Adjoudj by KO"
+        "details": "Winner: Asaël Adjoudj by KO",
+        "oddsHistory": []
       },
       {
         "id": "1415",
@@ -1629,7 +1976,8 @@
           "countryCode": "FR",
           "birthDate": "1999-04-30",
           "record": "10-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Gustavo Oliveira",
@@ -1637,9 +1985,11 @@
           "countryCode": "PT",
           "birthDate": "1996-08-24",
           "record": "13-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Gustavo Oliveira by Submission"
+        "details": "Winner: Gustavo Oliveira by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1422",
@@ -1650,7 +2000,8 @@
           "countryCode": null,
           "birthDate": "1998-02-22",
           "record": "1-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Joe Schilling",
@@ -1658,9 +2009,11 @@
           "countryCode": null,
           "birthDate": "1984-01-12",
           "record": "4-7-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Donegi Abena by TKO"
+        "details": "Winner: Donegi Abena by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1443",
@@ -1671,7 +2024,8 @@
           "countryCode": "BE",
           "birthDate": "1999-05-04",
           "record": "8-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Shane Campbell",
@@ -1679,9 +2033,11 @@
           "countryCode": "GB",
           "birthDate": "1988-01-20",
           "record": "22-9-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "135lbs/61kg Bantamweight"
+        "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": []
       },
       {
         "id": "1446",
@@ -1692,7 +2048,8 @@
           "countryCode": null,
           "birthDate": "1996-09-23",
           "record": "6-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Luca Poclit",
@@ -1700,9 +2057,11 @@
           "countryCode": "MD",
           "birthDate": "1989-09-20",
           "record": "10-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Khamzat Abaev by KO"
+        "details": "Winner: Khamzat Abaev by KO",
+        "oddsHistory": []
       },
       {
         "id": "1460",
@@ -1713,7 +2072,8 @@
           "countryCode": "MA",
           "birthDate": "1996-07-28",
           "record": "11-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Keweny Lopes",
@@ -1721,9 +2081,11 @@
           "countryCode": "BR",
           "birthDate": "1995-07-25",
           "record": "12-5-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Adam Meskini by Decision"
+        "details": "Winner: Adam Meskini by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1461",
@@ -1734,7 +2096,8 @@
           "countryCode": "RU",
           "birthDate": "1998-03-28",
           "record": "9-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Ashley Reece",
@@ -1742,9 +2105,11 @@
           "countryCode": "GB",
           "birthDate": "1988-09-07",
           "record": "10-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Ashley Reece by Decision"
+        "details": "Winner: Ashley Reece by Decision",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -1768,7 +2133,8 @@
           "countryCode": "AE",
           "birthDate": "1994-05-22",
           "record": "12-7-0",
-          "style": null
+          "style": null,
+          "odds": "+146"
         },
         "blue": {
           "name": "Mehdi Saadi",
@@ -1776,9 +2142,27 @@
           "countryCode": "FR",
           "birthDate": "1993-03-07",
           "record": "6-2-0",
-          "style": null
+          "style": null,
+          "odds": "-135"
         },
-        "details": "Winner: Mehdi Saadi by Decision"
+        "details": "Winner: Mehdi Saadi by Decision",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL MENA 9",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4191",
+            "odds": {
+              "mehdi saadi": "-135",
+              "mohammed yahya": "+146"
+            },
+            "names": {
+              "mehdi saadi": "Mehdi Saadi",
+              "mohammed yahya": "Mohammed Yahya"
+            },
+            "promotion": "pfl",
+            "eventId": "pflmena-9"
+          }
+        ]
       },
       {
         "id": "1452",
@@ -1789,7 +2173,8 @@
           "countryCode": "MA",
           "birthDate": "1998-05-17",
           "record": "11-1-0",
-          "style": null
+          "style": null,
+          "odds": "-175"
         },
         "blue": {
           "name": "Ylies Djiroun",
@@ -1797,9 +2182,27 @@
           "countryCode": null,
           "birthDate": null,
           "record": "16-6-0",
-          "style": null
+          "style": null,
+          "odds": "+168"
         },
-        "details": "Winner: Ylies Djiroun by TKO"
+        "details": "Winner: Ylies Djiroun by TKO",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL MENA 9",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4191",
+            "odds": {
+              "salah eddine hamli": "-175",
+              "ylies djiroun": "+168"
+            },
+            "names": {
+              "salah eddine hamli": "Salah Eddine Hamli",
+              "ylies djiroun": "Ylies Djiroun"
+            },
+            "promotion": "pfl",
+            "eventId": "pflmena-9"
+          }
+        ]
       },
       {
         "id": "1453",
@@ -1810,7 +2213,8 @@
           "countryCode": "BH",
           "birthDate": "1993-01-29",
           "record": "15-4-0",
-          "style": null
+          "style": null,
+          "odds": "-188"
         },
         "blue": {
           "name": "Taha Bendaoud",
@@ -1818,9 +2222,27 @@
           "countryCode": "MA",
           "birthDate": "1995-01-17",
           "record": "5-2-0",
-          "style": null
+          "style": null,
+          "odds": "+180"
         },
-        "details": "Winner: Hamza Kooheji by Decision"
+        "details": "Winner: Hamza Kooheji by Decision",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL MENA 9",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4191",
+            "odds": {
+              "hamza kooheji": "-188",
+              "taha bendaoud": "+180"
+            },
+            "names": {
+              "hamza kooheji": "Hamza Kooheji",
+              "taha bendaoud": "Taha Bendaoud"
+            },
+            "promotion": "pfl",
+            "eventId": "pflmena-9"
+          }
+        ]
       },
       {
         "id": "1467",
@@ -1831,7 +2253,8 @@
           "countryCode": null,
           "birthDate": null,
           "record": "1-0-0",
-          "style": null
+          "style": null,
+          "odds": "-1000"
         },
         "blue": {
           "name": "Abeer Mansour",
@@ -1839,9 +2262,27 @@
           "countryCode": "EG",
           "birthDate": "2002-04-04",
           "record": "2-2-0",
-          "style": null
+          "style": null,
+          "odds": "+830"
         },
-        "details": "Winner: Zamzam Al-Hammadi by Decision"
+        "details": "Winner: Zamzam Al-Hammadi by Decision",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL MENA 9",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4191",
+            "odds": {
+              "abeer mansour": "+830",
+              "zamzam al hammadi": "-1000"
+            },
+            "names": {
+              "abeer mansour": "Abeer Mansour",
+              "zamzam al hammadi": "Zamzam Al-Hammadi"
+            },
+            "promotion": "pfl",
+            "eventId": "pflmena-9"
+          }
+        ]
       },
       {
         "id": "1454",
@@ -1852,7 +2293,8 @@
           "countryCode": "IQ",
           "birthDate": "1995-07-30",
           "record": "5-1-0",
-          "style": null
+          "style": null,
+          "odds": "-160"
         },
         "blue": {
           "name": "Assem Ghanem",
@@ -1860,9 +2302,27 @@
           "countryCode": "EG",
           "birthDate": "2001-04-16",
           "record": "7-0-0",
-          "style": null
+          "style": null,
+          "odds": "+160"
         },
-        "details": "Winner: Mohammad Fahmi"
+        "details": "Winner: Mohammad Fahmi",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL MENA 9",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4191",
+            "odds": {
+              "assem ghanem": "+160",
+              "mohammad fahmi": "-160"
+            },
+            "names": {
+              "assem ghanem": "Assem Ghanem",
+              "mohammad fahmi": "Mohammad Fahmi"
+            },
+            "promotion": "pfl",
+            "eventId": "pflmena-9"
+          }
+        ]
       },
       {
         "id": "1455",
@@ -1873,7 +2333,8 @@
           "countryCode": "EG",
           "birthDate": null,
           "record": "8-2-0",
-          "style": null
+          "style": null,
+          "odds": "-110"
         },
         "blue": {
           "name": "Harda Karim",
@@ -1881,9 +2342,27 @@
           "countryCode": "IQ",
           "birthDate": "1996-03-25",
           "record": "5-3-0",
-          "style": null
+          "style": null,
+          "odds": "-102"
         },
-        "details": "Winner: Ahmed El Sisy by Decision"
+        "details": "Winner: Ahmed El Sisy by Decision",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL MENA 9",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4191",
+            "odds": {
+              "ahmed el sisy": "-110",
+              "harda karim": "-102"
+            },
+            "names": {
+              "ahmed el sisy": "Ahmed El Sisy",
+              "harda karim": "Harda Karim"
+            },
+            "promotion": "pfl",
+            "eventId": "pflmena-9"
+          }
+        ]
       },
       {
         "id": "1456",
@@ -1894,7 +2373,8 @@
           "countryCode": "LB",
           "birthDate": "1990-08-23",
           "record": "11-6-0",
-          "style": null
+          "style": null,
+          "odds": "-450"
         },
         "blue": {
           "name": "Hussein Fakher",
@@ -1902,9 +2382,27 @@
           "countryCode": "IQ",
           "birthDate": "1991-02-24",
           "record": "7-4-0",
-          "style": null
+          "style": null,
+          "odds": "+350"
         },
-        "details": "155lbs/70kg Lightweight · Quarterfinal"
+        "details": "155lbs/70kg Lightweight · Quarterfinal",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL MENA 9",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4191",
+            "odds": {
+              "georges eid": "-450",
+              "hussein fakher": "+350"
+            },
+            "names": {
+              "georges eid": "Georges Eid",
+              "hussein fakher": "Hussein Fakher"
+            },
+            "promotion": "pfl",
+            "eventId": "pflmena-9"
+          }
+        ]
       },
       {
         "id": "1457",
@@ -1915,7 +2413,8 @@
           "countryCode": "KW",
           "birthDate": null,
           "record": "5-2-0",
-          "style": null
+          "style": null,
+          "odds": "-112"
         },
         "blue": {
           "name": "Basel Shalaan",
@@ -1923,9 +2422,27 @@
           "countryCode": "EG",
           "birthDate": "2002-08-03",
           "record": "7-1-0",
-          "style": null
+          "style": null,
+          "odds": "+140"
         },
-        "details": "Winner: Basel Shalaan by Decision"
+        "details": "Winner: Basel Shalaan by Decision",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL MENA 9",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4191",
+            "odds": {
+              "abdullah saleem": "-112",
+              "basel shalaan": "+140"
+            },
+            "names": {
+              "abdullah saleem": "Abdullah Saleem",
+              "basel shalaan": "Basel Shalaan"
+            },
+            "promotion": "pfl",
+            "eventId": "pflmena-9"
+          }
+        ]
       },
       {
         "id": "1458",
@@ -1936,7 +2453,8 @@
           "countryCode": "BH",
           "birthDate": "2003-12-26",
           "record": "1-1-0",
-          "style": null
+          "style": null,
+          "odds": "-260"
         },
         "blue": {
           "name": "Saher Qasmieh",
@@ -1944,9 +2462,27 @@
           "countryCode": null,
           "birthDate": null,
           "record": "0-1-0",
-          "style": null
+          "style": null,
+          "odds": "+220"
         },
-        "details": "Winner: Saher Qasmieh by Decision"
+        "details": "Winner: Saher Qasmieh by Decision",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL MENA 9",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4191",
+            "odds": {
+              "hamad marhoon": "-260",
+              "saher qasmieh": "+220"
+            },
+            "names": {
+              "hamad marhoon": "Hamad Marhoon",
+              "saher qasmieh": "Saher Qasmieh"
+            },
+            "promotion": "pfl",
+            "eventId": "pflmena-9"
+          }
+        ]
       },
       {
         "id": "1459",
@@ -1957,7 +2493,8 @@
           "countryCode": "SA",
           "birthDate": "1996-09-17",
           "record": "1-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Ibrahim Mahmoud",
@@ -1965,9 +2502,11 @@
           "countryCode": "EG",
           "birthDate": "2007-05-14",
           "record": "0-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Ahmed Albrahim by TKO"
+        "details": "Winner: Ahmed Albrahim by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1471",
@@ -1978,7 +2517,8 @@
           "countryCode": null,
           "birthDate": "2000-09-06",
           "record": "9-4-0",
-          "style": null
+          "style": null,
+          "odds": "-170"
         },
         "blue": {
           "name": "Hamada Osman",
@@ -1986,9 +2526,27 @@
           "countryCode": null,
           "birthDate": "1997-03-28",
           "record": "3-1-0",
-          "style": null
+          "style": null,
+          "odds": "+194"
         },
-        "details": "145lbs/66kg Featherweight"
+        "details": "145lbs/66kg Featherweight",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL MENA 9",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4191",
+            "odds": {
+              "butti alameri": "-170",
+              "hamada osman": "+194"
+            },
+            "names": {
+              "butti alameri": "Butti Alameri",
+              "hamada osman": "Hamada Osman"
+            },
+            "promotion": "pfl",
+            "eventId": "pflmena-9"
+          }
+        ]
       }
     ],
     "cancelledBouts": []
@@ -2012,7 +2570,8 @@
           "countryCode": "NG",
           "birthDate": "1996-11-22",
           "record": "10-3-0",
-          "style": null
+          "style": null,
+          "odds": "-350"
         },
         "blue": {
           "name": "Ignacio Campos",
@@ -2020,9 +2579,27 @@
           "countryCode": "ES",
           "birthDate": "1996-06-28",
           "record": "8-2-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": "+370"
         },
-        "details": "Winner: Ignacio Campos by Submission"
+        "details": "Winner: Ignacio Campos by Submission",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Africa Nigeria",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4228",
+            "odds": {
+              "ignacio campos": "+370",
+              "wasi adeshina": "-350"
+            },
+            "names": {
+              "ignacio campos": "Ignacio Campos",
+              "wasi adeshina": "Wasi Adeshina"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-africa-nigeria"
+          }
+        ]
       },
       {
         "id": "1445",
@@ -2033,7 +2610,8 @@
           "countryCode": "NG",
           "birthDate": "1994-11-27",
           "record": "9-1-0",
-          "style": null
+          "style": null,
+          "odds": "-225"
         },
         "blue": {
           "name": "Octave Ayinda",
@@ -2041,9 +2619,27 @@
           "countryCode": "CM",
           "birthDate": "1997-05-14",
           "record": "6-2-0",
-          "style": null
+          "style": null,
+          "odds": "+350"
         },
-        "details": "Winner: Patrick Ocheme by KO"
+        "details": "Winner: Patrick Ocheme by KO",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Africa Nigeria",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4228",
+            "odds": {
+              "octave ayinda": "+350",
+              "patrick ocheme": "-225"
+            },
+            "names": {
+              "octave ayinda": "Octave Ayinda",
+              "patrick ocheme": "Patrick Ocheme"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-africa-nigeria"
+          }
+        ]
       },
       {
         "id": "1494",
@@ -2054,7 +2650,8 @@
           "countryCode": "DZ",
           "birthDate": "1995-07-05",
           "record": "7-0-0",
-          "style": null
+          "style": null,
+          "odds": "-175"
         },
         "blue": {
           "name": "Thimna Mhlauli",
@@ -2062,9 +2659,27 @@
           "countryCode": "ZA",
           "birthDate": null,
           "record": "5-1-0",
-          "style": null
+          "style": null,
+          "odds": "+156"
         },
-        "details": "Winner: Karim Henniene by Submission"
+        "details": "Winner: Karim Henniene by Submission",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Africa Nigeria",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4228",
+            "odds": {
+              "karim henniene": "-175",
+              "thimna mhlauli": "+156"
+            },
+            "names": {
+              "karim henniene": "Karim Henniene",
+              "thimna mhlauli": "Thimna Mhlauli"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-africa-nigeria"
+          }
+        ]
       },
       {
         "id": "1495",
@@ -2075,7 +2690,8 @@
           "countryCode": "AO",
           "birthDate": null,
           "record": "3-1-0",
-          "style": null
+          "style": null,
+          "odds": "+290"
         },
         "blue": {
           "name": "Cornel Thompson",
@@ -2083,9 +2699,27 @@
           "countryCode": null,
           "birthDate": "1995-03-01",
           "record": "11-3-0",
-          "style": null
+          "style": null,
+          "odds": "-333"
         },
-        "details": "Winner: Cornel Thompson by Decision"
+        "details": "Winner: Cornel Thompson by Decision",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Africa Nigeria",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4228",
+            "odds": {
+              "aureo cruz": "+290",
+              "cornel thompson": "-333"
+            },
+            "names": {
+              "aureo cruz": "Aureo Cruz",
+              "cornel thompson": "Cornel Thompson"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-africa-nigeria"
+          }
+        ]
       },
       {
         "id": "1496",
@@ -2096,7 +2730,8 @@
           "countryCode": null,
           "birthDate": "2001-06-07",
           "record": "8-1-0",
-          "style": null
+          "style": null,
+          "odds": "-174"
         },
         "blue": {
           "name": "Jordan Fongno",
@@ -2104,9 +2739,27 @@
           "countryCode": null,
           "birthDate": "2001-06-07",
           "record": "5-1-0",
-          "style": null
+          "style": null,
+          "odds": "+146"
         },
-        "details": "Winner: Jordan Fongno by TKO"
+        "details": "Winner: Jordan Fongno by TKO",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Africa Nigeria",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4228",
+            "odds": {
+              "jordan fongno": "+146",
+              "yahaya yahuza": "-174"
+            },
+            "names": {
+              "jordan fongno": "Jordan Fongno",
+              "yahaya yahuza": "Yahaya Yahuza"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-africa-nigeria"
+          }
+        ]
       },
       {
         "id": "1497",
@@ -2117,7 +2770,8 @@
           "countryCode": null,
           "birthDate": "2001-06-07",
           "record": "7-2-0",
-          "style": null
+          "style": null,
+          "odds": "+188"
         },
         "blue": {
           "name": "Raphael Uchegbu",
@@ -2125,9 +2779,27 @@
           "countryCode": "GB",
           "birthDate": null,
           "record": "7-1-0",
-          "style": null
+          "style": null,
+          "odds": "-225"
         },
-        "details": "Winner: Raphael Uchegbu by Decision"
+        "details": "Winner: Raphael Uchegbu by Decision",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Africa Nigeria",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4228",
+            "odds": {
+              "edson machavane": "+188",
+              "raphael uchegbu": "-225"
+            },
+            "names": {
+              "edson machavane": "Edson Machavane",
+              "raphael uchegbu": "Raphael Uchegbu"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-africa-nigeria"
+          }
+        ]
       },
       {
         "id": "1498",
@@ -2138,7 +2810,8 @@
           "countryCode": "NG",
           "birthDate": "1999-05-25",
           "record": "9-1-0",
-          "style": null
+          "style": null,
+          "odds": "+265"
         },
         "blue": {
           "name": "Elisandra Ferreira",
@@ -2146,9 +2819,27 @@
           "countryCode": null,
           "birthDate": "2001-03-18",
           "record": "10-2-0",
-          "style": null
+          "style": null,
+          "odds": "-300"
         },
-        "details": "Winner: Juliet Ukah by Submission"
+        "details": "Winner: Juliet Ukah by Submission",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Africa Nigeria",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4228",
+            "odds": {
+              "elisandra ferreira": "-300",
+              "juliet ukah": "+265"
+            },
+            "names": {
+              "elisandra ferreira": "Elisandra Ferreira",
+              "juliet ukah": "Juliet Ukah"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-africa-nigeria"
+          }
+        ]
       },
       {
         "id": "1499",
@@ -2159,7 +2850,8 @@
           "countryCode": "MA",
           "birthDate": "2001-02-03",
           "record": "5-2-0",
-          "style": null
+          "style": null,
+          "odds": "+142"
         },
         "blue": {
           "name": "Hussain Al Kurdi",
@@ -2167,9 +2859,27 @@
           "countryCode": null,
           "birthDate": "2001-06-07",
           "record": "3-0-0",
-          "style": null
+          "style": null,
+          "odds": "-168"
         },
-        "details": "Winner: Hussain Al Kurdi by Submission"
+        "details": "Winner: Hussain Al Kurdi by Submission",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Africa Nigeria",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4228",
+            "odds": {
+              "abderrahman errachidy": "+142",
+              "hussain al kurdi": "-168"
+            },
+            "names": {
+              "abderrahman errachidy": "Abderrahman Errachidy",
+              "hussain al kurdi": "Hussain Al Kurdi"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-africa-nigeria"
+          }
+        ]
       },
       {
         "id": "1500",
@@ -2180,7 +2890,8 @@
           "countryCode": "CM",
           "birthDate": "1989-11-05",
           "record": "6-2-0",
-          "style": null
+          "style": null,
+          "odds": "-138"
         },
         "blue": {
           "name": "Dwight Joseph",
@@ -2188,9 +2899,27 @@
           "countryCode": "LR",
           "birthDate": "1989-08-15",
           "record": "16-3-1",
-          "style": null
+          "style": null,
+          "odds": "+120"
         },
-        "details": "Winner: Dwight Joseph by Decision"
+        "details": "Winner: Dwight Joseph by Decision",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Africa Nigeria",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4228",
+            "odds": {
+              "alain majorique": "-138",
+              "dwight joseph": "+120"
+            },
+            "names": {
+              "alain majorique": "Alain Majorique",
+              "dwight joseph": "Dwight Joseph"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-africa-nigeria"
+          }
+        ]
       },
       {
         "id": "1501",
@@ -2201,7 +2930,8 @@
           "countryCode": "BJ",
           "birthDate": "2001-12-30",
           "record": "9-2-0",
-          "style": null
+          "style": null,
+          "odds": "+154"
         },
         "blue": {
           "name": "Demba Seck",
@@ -2209,9 +2939,27 @@
           "countryCode": null,
           "birthDate": "1994-07-19",
           "record": "11-3-0",
-          "style": null
+          "style": null,
+          "odds": "-175"
         },
-        "details": "Winner: Demba Seck by Decision"
+        "details": "Winner: Demba Seck by Decision",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Africa Nigeria",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4228",
+            "odds": {
+              "demba seck": "-175",
+              "jean do santos": "+154"
+            },
+            "names": {
+              "demba seck": "Demba Seck",
+              "jean do santos": "Jean Do Santos"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-africa-nigeria"
+          }
+        ]
       },
       {
         "id": "1502",
@@ -2222,7 +2970,8 @@
           "countryCode": "AO",
           "birthDate": null,
           "record": "5-1-0",
-          "style": null
+          "style": null,
+          "odds": "-250"
         },
         "blue": {
           "name": "Dauda Rajabu",
@@ -2230,9 +2979,27 @@
           "countryCode": null,
           "birthDate": "2001-06-07",
           "record": "4-2-0",
-          "style": null
+          "style": null,
+          "odds": "+210"
         },
-        "details": "Winner: Boule Godogo by KO"
+        "details": "Winner: Boule Godogo by KO",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Africa Nigeria",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4228",
+            "odds": {
+              "boule godogo": "-250",
+              "dauda rajabu": "+210"
+            },
+            "names": {
+              "boule godogo": "Boule Godogo",
+              "dauda rajabu": "Dauda Rajabu"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-africa-nigeria"
+          }
+        ]
       },
       {
         "id": "1503",
@@ -2243,7 +3010,8 @@
           "countryCode": "CM",
           "birthDate": "1999-09-18",
           "record": "8-1-0",
-          "style": null
+          "style": null,
+          "odds": "-400"
         },
         "blue": {
           "name": "Richard Muzaan",
@@ -2251,16 +3019,35 @@
           "countryCode": null,
           "birthDate": "2001-04-12",
           "record": "6-4-1",
-          "style": null
+          "style": null,
+          "odds": "+410"
         },
-        "details": "Winner: Styve Ngono by Decision"
+        "details": "Winner: Styve Ngono by Decision",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Africa Nigeria",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4228",
+            "odds": {
+              "richard muzaan": "+410",
+              "styve ngono": "-400"
+            },
+            "names": {
+              "richard muzaan": "Richard Muzaan",
+              "styve ngono": "Styve Ngono"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-africa-nigeria"
+          }
+        ]
       },
       {
         "id": "1464",
         "order": 1,
         "red": {
           "name": "Miracle Chipito",
-          "profileUrl": "https://pflmma.com/africa-fighter/shelda-chipito"
+          "profileUrl": "https://pflmma.com/africa-fighter/shelda-chipito",
+          "odds": null
         },
         "blue": {
           "name": "Haidy Ahmed",
@@ -2268,9 +3055,11 @@
           "countryCode": "EG",
           "birthDate": null,
           "record": "2-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Miracle Chipito by Submission"
+        "details": "Winner: Miracle Chipito by Submission",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -2294,7 +3083,8 @@
           "countryCode": null,
           "birthDate": "1995-04-06",
           "record": "25-2-0",
-          "style": "Striker"
+          "style": "Striker",
+          "odds": null
         },
         "blue": {
           "name": "Salamat Isbulaev",
@@ -2302,9 +3092,11 @@
           "countryCode": null,
           "birthDate": "1996-12-07",
           "record": "10-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: AJ McKee by Decision"
+        "details": "Winner: AJ McKee by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1462",
@@ -2315,7 +3107,8 @@
           "countryCode": "US",
           "birthDate": "1984-02-17",
           "record": "26-8-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Viviane Araujo",
@@ -2323,9 +3116,11 @@
           "countryCode": null,
           "birthDate": "1986-11-20",
           "record": "14-8-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Liz Carmouche by Submission"
+        "details": "Winner: Liz Carmouche by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1465",
@@ -2336,7 +3131,8 @@
           "countryCode": null,
           "birthDate": "1993-04-17",
           "record": "25-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Alfie Davis",
@@ -2344,9 +3140,11 @@
           "countryCode": "GB",
           "birthDate": "1992-02-24",
           "record": "20-7-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Alexander Shabliy by Decision"
+        "details": "Winner: Alexander Shabliy by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1468",
@@ -2357,7 +3155,8 @@
           "countryCode": "CI",
           "birthDate": "1995-12-29",
           "record": "8-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Rob Wilkinson",
@@ -2365,9 +3164,11 @@
           "countryCode": "AU",
           "birthDate": "1992-02-20",
           "record": "20-5-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Rob Wilkinson by TKO"
+        "details": "Winner: Rob Wilkinson by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1466",
@@ -2378,7 +3179,8 @@
           "countryCode": null,
           "birthDate": "2000-06-09",
           "record": "11-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Josh Weems",
@@ -2386,9 +3188,11 @@
           "countryCode": "US",
           "birthDate": "1994-05-04",
           "record": "13-7-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Khasan Magomedsharipov by Submission"
+        "details": "Winner: Khasan Magomedsharipov by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1469",
@@ -2399,7 +3203,8 @@
           "countryCode": null,
           "birthDate": "1994-01-25",
           "record": "18-12-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Jena Bishop",
@@ -2407,9 +3212,11 @@
           "countryCode": null,
           "birthDate": "1986-02-19",
           "record": "11-3-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
-        "details": "Winner: Jena Bishop by Submission"
+        "details": "Winner: Jena Bishop by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1477",
@@ -2420,7 +3227,8 @@
           "countryCode": "US",
           "birthDate": "1992-01-22",
           "record": "12-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Sarvarjon Khamidov",
@@ -2428,9 +3236,11 @@
           "countryCode": "TJ",
           "birthDate": "1997-04-12",
           "record": "17-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Sarvarjon Khamidov by Submission"
+        "details": "Winner: Sarvarjon Khamidov by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1479",
@@ -2441,7 +3251,8 @@
           "countryCode": "CA",
           "birthDate": "1992-07-06",
           "record": "8-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Ilara Joanne",
@@ -2449,9 +3260,11 @@
           "countryCode": null,
           "birthDate": "1994-06-05",
           "record": "13-11-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Shannon Clark by TKO"
+        "details": "Winner: Shannon Clark by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1480",
@@ -2462,7 +3275,8 @@
           "countryCode": null,
           "birthDate": "1994-08-24",
           "record": "4-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Daniel Bzdigian",
@@ -2470,9 +3284,11 @@
           "countryCode": "US",
           "birthDate": "2003-05-25",
           "record": "3-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Cobey Fehr by Submission"
+        "details": "Winner: Cobey Fehr by Submission",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -2496,7 +3312,8 @@
           "countryCode": "SA",
           "birthDate": "2001-11-23",
           "record": "1-0-0",
-          "style": "Striker"
+          "style": "Striker",
+          "odds": null
         },
         "blue": {
           "name": "Dania Ouhachi",
@@ -2504,9 +3321,11 @@
           "countryCode": "DZ",
           "birthDate": "2003-12-23",
           "record": "1-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Hattan Alsaif by TKO"
+        "details": "Winner: Hattan Alsaif by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1488",
@@ -2517,7 +3336,8 @@
           "countryCode": "LB",
           "birthDate": "2001-09-18",
           "record": "6-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Hazem Kayyali",
@@ -2525,9 +3345,11 @@
           "countryCode": "JO",
           "birthDate": "2000-05-14",
           "record": "3-0-2",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Hazem Kayyali by Decision"
+        "details": "Winner: Hazem Kayyali by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1482",
@@ -2538,7 +3360,8 @@
           "countryCode": "SA",
           "birthDate": "2001-11-14",
           "record": "4-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Imad El Azami",
@@ -2546,9 +3369,11 @@
           "countryCode": "MA",
           "birthDate": "2004-05-03",
           "record": "1-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Malik Basahel by Decision"
+        "details": "Winner: Malik Basahel by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1485",
@@ -2559,7 +3384,8 @@
           "countryCode": "MA",
           "birthDate": "1996-10-29",
           "record": "11-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Yousef Adel",
@@ -2567,9 +3393,11 @@
           "countryCode": "EG",
           "birthDate": "2001-12-03",
           "record": "7-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Badreddine Diani by Decision"
+        "details": "Winner: Badreddine Diani by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1487",
@@ -2580,7 +3408,8 @@
           "countryCode": "MA",
           "birthDate": null,
           "record": "7-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Abdelkrim Zouad",
@@ -2588,9 +3417,11 @@
           "countryCode": "DZ",
           "birthDate": null,
           "record": "8-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Abdelkrim Zouad by Submission"
+        "details": "Winner: Abdelkrim Zouad by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1530",
@@ -2601,7 +3432,8 @@
           "countryCode": "SY",
           "birthDate": null,
           "record": "5-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Ahmed Tarek",
@@ -2609,9 +3441,11 @@
           "countryCode": "EG",
           "birthDate": "1999-09-01",
           "record": "7-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Shadi Kabbani by Decision"
+        "details": "Winner: Shadi Kabbani by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1486",
@@ -2622,7 +3456,8 @@
           "countryCode": null,
           "birthDate": null,
           "record": "12-7-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Ahmed Darwish",
@@ -2630,9 +3465,11 @@
           "countryCode": "EG",
           "birthDate": null,
           "record": "6-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Omar Hussein by TKO"
+        "details": "Winner: Omar Hussein by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1484",
@@ -2643,7 +3480,8 @@
           "countryCode": "DZ",
           "birthDate": "1993-10-16",
           "record": "21-9-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Hussein Salem",
@@ -2651,9 +3489,11 @@
           "countryCode": "IQ",
           "birthDate": null,
           "record": "12-7-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Elias Boudegzdame by Submission"
+        "details": "Winner: Elias Boudegzdame by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1538",
@@ -2664,7 +3504,8 @@
           "countryCode": "DZ",
           "birthDate": "1993-02-19",
           "record": "6-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Eslam Mostafa",
@@ -2672,9 +3513,11 @@
           "countryCode": "EG",
           "birthDate": "1995-01-17",
           "record": "5-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Rayan Atmani by KO"
+        "details": "Winner: Rayan Atmani by KO",
+        "oddsHistory": []
       },
       {
         "id": "1539",
@@ -2685,7 +3528,8 @@
           "countryCode": "SA",
           "birthDate": "2001-06-07",
           "record": "2-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Abdelhalim Elhoufy",
@@ -2693,9 +3537,11 @@
           "countryCode": "EG",
           "birthDate": null,
           "record": "2-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Saud Almolhem by Decision"
+        "details": "Winner: Saud Almolhem by Decision",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -2719,7 +3565,8 @@
           "countryCode": null,
           "birthDate": "1991-12-12",
           "record": "18-1-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
         "blue": {
           "name": "Impa Kasanganay",
@@ -2727,9 +3574,11 @@
           "countryCode": "US",
           "birthDate": "1994-01-16",
           "record": "20-7-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Johnny Eblen by KO"
+        "details": "Winner: Johnny Eblen by KO",
+        "oddsHistory": []
       },
       {
         "id": "1474",
@@ -2740,7 +3589,8 @@
           "countryCode": "GB",
           "birthDate": "2000-10-23",
           "record": "13-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Rafael do Nascimento",
@@ -2748,9 +3598,11 @@
           "countryCode": "BR",
           "birthDate": "1991-11-14",
           "record": "13-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Rafael do Nascimento by Submission"
+        "details": "Winner: Rafael do Nascimento by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1506",
@@ -2761,7 +3613,8 @@
           "countryCode": "IE",
           "birthDate": "1996-05-17",
           "record": "11-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Julio Arce",
@@ -2769,9 +3622,11 @@
           "countryCode": null,
           "birthDate": "1989-10-26",
           "record": "22-7-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Julio Arce by Decision"
+        "details": "Winner: Julio Arce by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1505",
@@ -2782,7 +3637,8 @@
           "countryCode": "PE",
           "birthDate": "1996-06-21",
           "record": "26-7-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Joseph Ruquet",
@@ -2790,9 +3646,11 @@
           "countryCode": "US",
           "birthDate": "1992-07-14",
           "record": "10-5-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Jesus Pinedo by TKO"
+        "details": "Winner: Jesus Pinedo by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1510",
@@ -2803,7 +3661,8 @@
           "countryCode": "US",
           "birthDate": "1998-09-03",
           "record": "4-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Gamid Khizriev",
@@ -2811,9 +3670,11 @@
           "countryCode": "RU",
           "birthDate": "2000-07-26",
           "record": "5-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Gamid Khizriev by Submission"
+        "details": "Winner: Gamid Khizriev by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1490",
@@ -2824,7 +3685,8 @@
           "countryCode": null,
           "birthDate": "1993-12-21",
           "record": "8-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Aleksandra Savicheva",
@@ -2832,9 +3694,11 @@
           "countryCode": "RU",
           "birthDate": "1998-05-28",
           "record": "8-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Aleksandra Savicheva by Decision"
+        "details": "Winner: Aleksandra Savicheva by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1523",
@@ -2845,7 +3709,8 @@
           "countryCode": "US",
           "birthDate": "2000-11-16",
           "record": "3-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Ashley Thiner",
@@ -2853,9 +3718,11 @@
           "countryCode": null,
           "birthDate": "1993-11-11",
           "record": "3-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Ashley Thiner by Decision"
+        "details": "Winner: Ashley Thiner by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1524",
@@ -2866,7 +3733,8 @@
           "countryCode": null,
           "birthDate": "2007-08-20",
           "record": "4-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Zak Flessas",
@@ -2874,9 +3742,11 @@
           "countryCode": "US",
           "birthDate": "1991-10-17",
           "record": "2-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Jackson Glass by TKO"
+        "details": "Winner: Jackson Glass by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1525",
@@ -2887,7 +3757,8 @@
           "countryCode": null,
           "birthDate": "1992-10-10",
           "record": "7-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Borena Tsertsvadze",
@@ -2895,9 +3766,11 @@
           "countryCode": null,
           "birthDate": "1999-03-12",
           "record": "6-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Victoria Alba by TKO"
+        "details": "Winner: Victoria Alba by TKO",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -2921,7 +3794,8 @@
           "countryCode": "HT",
           "birthDate": "1998-07-15",
           "record": "12-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Ernesto Rodriguez",
@@ -2929,9 +3803,11 @@
           "countryCode": "CU",
           "birthDate": "1997-08-08",
           "record": "11-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Thad Jean by TKO"
+        "details": "Winner: Thad Jean by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1507",
@@ -2942,7 +3818,8 @@
           "countryCode": null,
           "birthDate": "1991-09-16",
           "record": "10-7-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Rafael Xavier",
@@ -2950,9 +3827,11 @@
           "countryCode": null,
           "birthDate": "1991-01-11",
           "record": "15-9-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Rafael Xavier by TKO"
+        "details": "Winner: Rafael Xavier by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1520",
@@ -2963,7 +3842,8 @@
           "countryCode": null,
           "birthDate": "1996-05-14",
           "record": "8-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Rasul Magomedov",
@@ -2971,9 +3851,11 @@
           "countryCode": "BH",
           "birthDate": "1994-12-31",
           "record": "10-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Rasul Magomedov by Decision"
+        "details": "Winner: Rasul Magomedov by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1527",
@@ -2984,7 +3866,8 @@
           "countryCode": null,
           "birthDate": "1997-12-22",
           "record": "9-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Chris Mixan",
@@ -2992,9 +3875,11 @@
           "countryCode": "UA",
           "birthDate": "1998-11-25",
           "record": "7-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Eliezer Kubanza by Submission"
+        "details": "Winner: Eliezer Kubanza by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1545",
@@ -3005,7 +3890,8 @@
           "countryCode": "US",
           "birthDate": "1995-04-28",
           "record": "8-1-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
         "blue": {
           "name": "Michael Cyr",
@@ -3013,9 +3899,11 @@
           "countryCode": "US",
           "birthDate": "1995-04-21",
           "record": "8-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Bryce Meredith by Decision"
+        "details": "Winner: Bryce Meredith by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1522",
@@ -3026,7 +3914,8 @@
           "countryCode": "ZA",
           "birthDate": "1995-03-21",
           "record": "14-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Brandon Davis",
@@ -3034,9 +3923,11 @@
           "countryCode": "US",
           "birthDate": "1990-05-07",
           "record": "14-12-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Nkosi Ndebele by Decision"
+        "details": "Winner: Nkosi Ndebele by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1528",
@@ -3047,7 +3938,8 @@
           "countryCode": null,
           "birthDate": "1995-08-01",
           "record": null,
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Coby Bradford",
@@ -3055,9 +3947,11 @@
           "countryCode": "US",
           "birthDate": "1994-10-25",
           "record": null,
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Coby Bradford by Submission"
+        "details": "Winner: Coby Bradford by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1529",
@@ -3068,7 +3962,8 @@
           "countryCode": "US",
           "birthDate": "1999-03-25",
           "record": null,
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Jacob Pais",
@@ -3076,9 +3971,11 @@
           "countryCode": "US",
           "birthDate": "2003-02-08",
           "record": "1-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Noah Hermosillo by Decision"
+        "details": "Winner: Noah Hermosillo by Decision",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -3102,7 +3999,8 @@
           "countryCode": "RU",
           "birthDate": "1998-04-16",
           "record": "22-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Archie Colgan",
@@ -3110,9 +4008,11 @@
           "countryCode": null,
           "birthDate": "1995-07-21",
           "record": "13-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Usman Nurmagomedov by KO"
+        "details": "Winner: Usman Nurmagomedov by KO",
+        "oddsHistory": []
       },
       {
         "id": "1476",
@@ -3123,7 +4023,8 @@
           "countryCode": null,
           "birthDate": "1998-07-24",
           "record": "16-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Denise Kielholtz",
@@ -3131,9 +4032,11 @@
           "countryCode": null,
           "birthDate": "1989-03-29",
           "record": "9-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Dakota Ditcheva by Decision"
+        "details": "Winner: Dakota Ditcheva by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1504",
@@ -3144,7 +4047,8 @@
           "countryCode": null,
           "birthDate": "1999-06-01",
           "record": "11-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Angel Alvarez",
@@ -3152,9 +4056,11 @@
           "countryCode": "CU",
           "birthDate": "1995-01-19",
           "record": "11-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Amru Magomedov by TKO"
+        "details": "Winner: Amru Magomedov by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1532",
@@ -3165,7 +4071,8 @@
           "countryCode": "SN",
           "birthDate": "2001-06-25",
           "record": "6-0-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Darryl Walker",
@@ -3173,9 +4080,11 @@
           "countryCode": "US",
           "birthDate": "1991-12-20",
           "record": "2-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Moustapha Diakhaté by TKO"
+        "details": "Winner: Moustapha Diakhaté by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1517",
@@ -3186,7 +4095,8 @@
           "countryCode": null,
           "birthDate": "1988-12-15",
           "record": "21-5-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
         "blue": {
           "name": "Lazaro Dayron",
@@ -3194,9 +4104,11 @@
           "countryCode": "US",
           "birthDate": "1992-07-24",
           "record": "11-0-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Lazaro Dayron by Decision"
+        "details": "Winner: Lazaro Dayron by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1531",
@@ -3207,7 +4119,8 @@
           "countryCode": "AU",
           "birthDate": "1996-10-06",
           "record": "12-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Allan Begosso",
@@ -3215,9 +4128,11 @@
           "countryCode": null,
           "birthDate": "1995-11-22",
           "record": "10-5-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Sean Gauci by Decision"
+        "details": "Winner: Sean Gauci by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1518",
@@ -3228,7 +4143,8 @@
           "countryCode": null,
           "birthDate": "1996-03-02",
           "record": "12-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Omar El Dafrawy",
@@ -3236,9 +4152,11 @@
           "countryCode": null,
           "birthDate": "1995-04-04",
           "record": "16-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Omar El Dafrawy by Decision"
+        "details": "Winner: Omar El Dafrawy by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1508",
@@ -3249,7 +4167,8 @@
           "countryCode": null,
           "birthDate": "1995-02-13",
           "record": "13-10-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Tatiana Postarnakova",
@@ -3257,9 +4176,11 @@
           "countryCode": null,
           "birthDate": "2000-04-02",
           "record": "8-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Tatiana Postarnakova by Decision"
+        "details": "Winner: Tatiana Postarnakova by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1559",
@@ -3270,7 +4191,8 @@
           "countryCode": "US",
           "birthDate": "1981-01-30",
           "record": "7-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Levan Khabalaev",
@@ -3278,9 +4200,11 @@
           "countryCode": "GE",
           "birthDate": "1999-03-09",
           "record": "5-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Levan Khabalaev by TKO"
+        "details": "Winner: Levan Khabalaev by TKO",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -3304,7 +4228,8 @@
           "countryCode": null,
           "birthDate": "1994-09-20",
           "record": "13-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Dalton Rosta",
@@ -3312,9 +4237,11 @@
           "countryCode": null,
           "birthDate": "1995-11-08",
           "record": "11-4-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
-        "details": "Winner: Bryan Battle by Decision"
+        "details": "Winner: Bryan Battle by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1560",
@@ -3325,7 +4252,8 @@
           "countryCode": "TM",
           "birthDate": "1989-05-10",
           "record": "26-9-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Simeon Powell",
@@ -3333,9 +4261,11 @@
           "countryCode": null,
           "birthDate": "1999-02-05",
           "record": "13-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Simeon Powell by Decision"
+        "details": "Winner: Simeon Powell by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1534",
@@ -3346,7 +4276,8 @@
           "countryCode": null,
           "birthDate": "1992-12-24",
           "record": "15-6-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
         "blue": {
           "name": "Aaron Jeffery",
@@ -3354,9 +4285,11 @@
           "countryCode": null,
           "birthDate": "1992-11-13",
           "record": "17-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Aaron Jeffery by Decision"
+        "details": "Winner: Aaron Jeffery by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1555",
@@ -3367,7 +4300,8 @@
           "countryCode": "GB",
           "birthDate": "2000-10-23",
           "record": "13-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Brandon Lewis",
@@ -3375,9 +4309,11 @@
           "countryCode": null,
           "birthDate": "1997-08-01",
           "record": "7-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Lewis McGrillen by Decision"
+        "details": "Winner: Lewis McGrillen by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1535",
@@ -3388,7 +4324,8 @@
           "countryCode": null,
           "birthDate": "1994-01-14",
           "record": "13-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Jhony Gregory",
@@ -3396,9 +4333,11 @@
           "countryCode": "BR",
           "birthDate": "1994-01-20",
           "record": "11-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Josh Fremd by TKO"
+        "details": "Winner: Josh Fremd by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1552",
@@ -3409,7 +4348,8 @@
           "countryCode": "RU",
           "birthDate": "1990-06-09",
           "record": "37-9-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Hasan Mezhiev",
@@ -3417,9 +4357,11 @@
           "countryCode": "LV",
           "birthDate": "1992-07-24",
           "record": "14-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Denis Goltsov by TKO"
+        "details": "Winner: Denis Goltsov by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1540",
@@ -3430,7 +4372,8 @@
           "countryCode": null,
           "birthDate": "1994-03-14",
           "record": "12-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Robert Ring",
@@ -3438,9 +4381,11 @@
           "countryCode": null,
           "birthDate": "2000-07-13",
           "record": "9-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Cheyden Leialoha by Decision"
+        "details": "Winner: Cheyden Leialoha by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1547",
@@ -3451,7 +4396,8 @@
           "countryCode": "US",
           "birthDate": "1994-08-15",
           "record": "8-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Elora Dana",
@@ -3459,9 +4405,11 @@
           "countryCode": "BR",
           "birthDate": "1993-06-22",
           "record": "8-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Cheyanne Bowers by Submission"
+        "details": "Winner: Cheyanne Bowers by Submission",
+        "oddsHistory": []
       },
       {
         "id": "1553",
@@ -3472,7 +4420,8 @@
           "countryCode": "US",
           "birthDate": "2001-03-20",
           "record": "6-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Landry Ward",
@@ -3480,9 +4429,11 @@
           "countryCode": "US",
           "birthDate": "1996-12-08",
           "record": "11-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Landry Ward by Decision"
+        "details": "Winner: Landry Ward by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1556",
@@ -3493,7 +4444,8 @@
           "countryCode": null,
           "birthDate": "1992-02-05",
           "record": "14-5-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Bruno Cappelozza",
@@ -3501,9 +4453,11 @@
           "countryCode": null,
           "birthDate": "1989-05-18",
           "record": "16-7-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Bruno Cappelozza by Decision"
+        "details": "Winner: Bruno Cappelozza by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1550",
@@ -3514,7 +4468,8 @@
           "countryCode": null,
           "birthDate": "1996-06-28",
           "record": "9-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Wilson Lopshire",
@@ -3522,9 +4477,11 @@
           "countryCode": null,
           "birthDate": "1998-12-24",
           "record": "7-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Jonathan Martin by Decision"
+        "details": "Winner: Jonathan Martin by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1548",
@@ -3535,7 +4492,8 @@
           "countryCode": "BR",
           "birthDate": "2000-03-15",
           "record": "9-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Maxwell Djantou Nana",
@@ -3543,9 +4501,11 @@
           "countryCode": "CM",
           "birthDate": "1991-01-18",
           "record": "9-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Maxwell Djantou Nana by TKO"
+        "details": "Winner: Maxwell Djantou Nana by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1536",
@@ -3556,7 +4516,8 @@
           "countryCode": "US",
           "birthDate": "1995-04-12",
           "record": "6-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Trey Waters",
@@ -3564,9 +4525,11 @@
           "countryCode": null,
           "birthDate": "1995-02-20",
           "record": "10-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Trey Waters by TKO"
+        "details": "Winner: Trey Waters by TKO",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -3590,7 +4553,8 @@
           "countryCode": "BR",
           "birthDate": "1985-07-08",
           "record": "30-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Ketlen Vieira",
@@ -3598,9 +4562,11 @@
           "countryCode": null,
           "birthDate": "1991-08-25",
           "record": null,
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Cris Cyborg by Decision"
+        "details": "Winner: Cris Cyborg by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1537",
@@ -3611,7 +4577,8 @@
           "countryCode": null,
           "birthDate": "1993-06-30",
           "record": "28-5-2",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
         "blue": {
           "name": "Tracy Reeder",
@@ -3619,9 +4586,11 @@
           "countryCode": "US",
           "birthDate": "1999-04-12",
           "record": "12-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Gadzhi Rabadanov by TKO"
+        "details": "Winner: Gadzhi Rabadanov by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1544",
@@ -3632,7 +4601,8 @@
           "countryCode": "BR",
           "birthDate": "1993-06-21",
           "record": "23-5-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Sabrinna de Sousa",
@@ -3640,9 +4610,11 @@
           "countryCode": "BR",
           "birthDate": "2000-11-01",
           "record": "7-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Sabrinna de Sousa by Decision"
+        "details": "Winner: Sabrinna de Sousa by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1542",
@@ -3653,7 +4625,8 @@
           "countryCode": "GB",
           "birthDate": "1996-02-26",
           "record": "11-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Roland Dunlap",
@@ -3661,9 +4634,11 @@
           "countryCode": "US",
           "birthDate": "1992-12-07",
           "record": "7-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Luke Trainer by TKO"
+        "details": "Winner: Luke Trainer by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1541",
@@ -3674,7 +4649,8 @@
           "countryCode": "BR",
           "birthDate": "1999-07-21",
           "record": "15-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Nkosi Ndebele",
@@ -3682,9 +4658,11 @@
           "countryCode": "ZA",
           "birthDate": "1995-03-21",
           "record": "14-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Nkosi Ndebele by Decision"
+        "details": "Winner: Nkosi Ndebele by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1543",
@@ -3695,7 +4673,8 @@
           "countryCode": "RU",
           "birthDate": "1991-12-24",
           "record": "22-5-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Daniel Marcos",
@@ -3703,9 +4682,11 @@
           "countryCode": null,
           "birthDate": "1993-03-06",
           "record": "18-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Daniel Marcos by TKO"
+        "details": "Winner: Daniel Marcos by TKO",
+        "oddsHistory": []
       },
       {
         "id": "1549",
@@ -3716,7 +4697,8 @@
           "countryCode": "BE",
           "birthDate": "1999-05-04",
           "record": "8-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Javid Basharat",
@@ -3724,9 +4706,11 @@
           "countryCode": null,
           "birthDate": "1995-09-06",
           "record": "16-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Javid Basharat by Decision"
+        "details": "Winner: Javid Basharat by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1557",
@@ -3737,7 +4721,8 @@
           "countryCode": "US",
           "birthDate": "1994-06-08",
           "record": "17-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Morquez Forest",
@@ -3745,9 +4730,11 @@
           "countryCode": "US",
           "birthDate": "1993-07-07",
           "record": "8-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Dakota Bush by Decision"
+        "details": "Winner: Dakota Bush by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1551",
@@ -3758,13 +4745,16 @@
           "countryCode": null,
           "birthDate": "1992-02-19",
           "record": "26-6-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Artur Zaynukov",
-          "profileUrl": "https://pflmma.com/wt-fighter/makkasharip-zaynukov"
+          "profileUrl": "https://pflmma.com/wt-fighter/makkasharip-zaynukov",
+          "odds": null
         },
-        "details": "Winner: Natan Schulte by Decision"
+        "details": "Winner: Natan Schulte by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1554",
@@ -3775,7 +4765,8 @@
           "countryCode": null,
           "birthDate": "1998-02-14",
           "record": "9-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Robert Watley",
@@ -3783,9 +4774,11 @@
           "countryCode": "US",
           "birthDate": "1989-08-21",
           "record": "16-5-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Gino Van Steenis by Decision"
+        "details": "Winner: Gino Van Steenis by Decision",
+        "oddsHistory": []
       },
       {
         "id": "1558",
@@ -3796,7 +4789,8 @@
           "countryCode": "IE",
           "birthDate": "1994-09-05",
           "record": "6-0-0",
-          "style": "Striker"
+          "style": "Striker",
+          "odds": null
         },
         "blue": {
           "name": "James Vake",
@@ -3804,9 +4798,11 @@
           "countryCode": "NZ",
           "birthDate": "1994-05-30",
           "record": "7-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "Winner: Eoin Sheridan by Decision"
+        "details": "Winner: Eoin Sheridan by Decision",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -3830,7 +4826,8 @@
           "countryCode": "MA",
           "birthDate": "1996-10-29",
           "record": "11-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Hazem Kayyali",
@@ -3838,9 +4835,11 @@
           "countryCode": "JO",
           "birthDate": "2000-05-14",
           "record": "3-0-2",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "170lbs/77kg Welterweight · Semifinal"
+        "details": "170lbs/77kg Welterweight · Semifinal",
+        "oddsHistory": []
       },
       {
         "id": "1575",
@@ -3851,7 +4850,8 @@
           "countryCode": "BH",
           "birthDate": "1993-01-29",
           "record": "15-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Elias Boudegzdame",
@@ -3859,9 +4859,11 @@
           "countryCode": "DZ",
           "birthDate": "1993-10-16",
           "record": "21-9-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "145lbs/66kg Featherweight · Semifinal"
+        "details": "145lbs/66kg Featherweight · Semifinal",
+        "oddsHistory": []
       },
       {
         "id": "1576",
@@ -3872,7 +4874,8 @@
           "countryCode": null,
           "birthDate": null,
           "record": "16-6-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Basel Shalaan",
@@ -3880,9 +4883,11 @@
           "countryCode": "EG",
           "birthDate": "2002-08-03",
           "record": "7-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "155lbs/70kg Lightweight · Semifinal"
+        "details": "155lbs/70kg Lightweight · Semifinal",
+        "oddsHistory": []
       },
       {
         "id": "1577",
@@ -3893,7 +4898,8 @@
           "countryCode": null,
           "birthDate": null,
           "record": "12-7-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Abdelkrim Zouad",
@@ -3901,9 +4907,11 @@
           "countryCode": "DZ",
           "birthDate": null,
           "record": "8-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "170lbs/77kg Welterweight · Semifinal"
+        "details": "170lbs/77kg Welterweight · Semifinal",
+        "oddsHistory": []
       },
       {
         "id": "1578",
@@ -3914,7 +4922,8 @@
           "countryCode": "FR",
           "birthDate": "1993-03-07",
           "record": "6-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Shadi Kabbani",
@@ -3922,9 +4931,11 @@
           "countryCode": "SY",
           "birthDate": null,
           "record": "5-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "145lbs/66kg Featherweight · Semifinal"
+        "details": "145lbs/66kg Featherweight · Semifinal",
+        "oddsHistory": []
       },
       {
         "id": "1579",
@@ -3935,7 +4946,8 @@
           "countryCode": "IQ",
           "birthDate": "1995-07-30",
           "record": "5-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Ahmed El Sisy",
@@ -3943,9 +4955,11 @@
           "countryCode": "EG",
           "birthDate": null,
           "record": "8-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "155lbs/70kg Lightweight · Semifinal"
+        "details": "155lbs/70kg Lightweight · Semifinal",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -3969,7 +4983,8 @@
           "countryCode": "SN",
           "birthDate": "1998-08-14",
           "record": "5-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Badr Medkouri",
@@ -3977,9 +4992,11 @@
           "countryCode": "FR",
           "birthDate": "1993-12-04",
           "record": "7-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "265lbs/120kg Heavyweight"
+        "details": "265lbs/120kg Heavyweight",
+        "oddsHistory": []
       },
       {
         "id": "1563",
@@ -3990,7 +5007,8 @@
           "countryCode": "DZ",
           "birthDate": "1995-07-05",
           "record": "7-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Raphael Uchegbu",
@@ -3998,9 +5016,11 @@
           "countryCode": "GB",
           "birthDate": null,
           "record": "7-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "135lbs/61kg Bantamweight · Semifinal"
+        "details": "135lbs/61kg Bantamweight · Semifinal",
+        "oddsHistory": []
       },
       {
         "id": "1564",
@@ -4011,7 +5031,8 @@
           "countryCode": "AO",
           "birthDate": "1994-12-22",
           "record": "12-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Peace Nguphane",
@@ -4019,9 +5040,11 @@
           "countryCode": "ZA",
           "birthDate": null,
           "record": "10-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "170lbs/77kg Welterweight · Semifinal"
+        "details": "170lbs/77kg Welterweight · Semifinal",
+        "oddsHistory": []
       },
       {
         "id": "1565",
@@ -4032,7 +5055,8 @@
           "countryCode": "NG",
           "birthDate": "1994-11-27",
           "record": "9-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Cornel Thompson",
@@ -4040,9 +5064,11 @@
           "countryCode": null,
           "birthDate": "1995-03-01",
           "record": "11-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "155lbs/70kg Lightweight · Semifinal"
+        "details": "155lbs/70kg Lightweight · Semifinal",
+        "oddsHistory": []
       },
       {
         "id": "1566",
@@ -4053,7 +5079,8 @@
           "countryCode": "LU",
           "birthDate": "1997-05-20",
           "record": "3-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "David Samuel",
@@ -4061,9 +5088,11 @@
           "countryCode": "RU",
           "birthDate": null,
           "record": "6-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "170lbs/77kg Welterweight · Semifinal"
+        "details": "170lbs/77kg Welterweight · Semifinal",
+        "oddsHistory": []
       },
       {
         "id": "1567",
@@ -4074,7 +5103,8 @@
           "countryCode": null,
           "birthDate": "1994-07-19",
           "record": "11-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Hussain Al Kurdi",
@@ -4082,9 +5112,11 @@
           "countryCode": null,
           "birthDate": "2001-06-07",
           "record": "3-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "155lbs/70kg Lightweight · Semifinal"
+        "details": "155lbs/70kg Lightweight · Semifinal",
+        "oddsHistory": []
       },
       {
         "id": "1568",
@@ -4095,7 +5127,8 @@
           "countryCode": "LR",
           "birthDate": "1989-08-15",
           "record": "16-3-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Boule Godogo",
@@ -4103,9 +5136,11 @@
           "countryCode": "AO",
           "birthDate": null,
           "record": "5-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "135lbs/61kg Bantamweight · Semifinal"
+        "details": "135lbs/61kg Bantamweight · Semifinal",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -4129,7 +5164,8 @@
           "countryCode": "US",
           "birthDate": "1984-02-17",
           "record": "26-8-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Jena Bishop",
@@ -4137,9 +5173,11 @@
           "countryCode": null,
           "birthDate": "1986-02-19",
           "record": "11-3-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
-        "details": "125lbs/57kg Women's Flyweight · Championship"
+        "details": "125lbs/57kg Women's Flyweight · Championship",
+        "oddsHistory": []
       },
       {
         "id": "1588",
@@ -4150,7 +5188,8 @@
           "countryCode": "PL",
           "birthDate": "1998-11-26",
           "record": "7-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Chelsea Hackett",
@@ -4158,9 +5197,11 @@
           "countryCode": "AU",
           "birthDate": "1999-10-28",
           "record": "5-3-1",
-          "style": "Striker"
+          "style": "Striker",
+          "odds": null
         },
-        "details": "125lbs/57kg Women's Flyweight"
+        "details": "125lbs/57kg Women's Flyweight",
+        "oddsHistory": []
       },
       {
         "id": "1584",
@@ -4171,7 +5212,8 @@
           "countryCode": "BR",
           "birthDate": "1995-09-02",
           "record": "10-1-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Kevin Pease",
@@ -4179,9 +5221,11 @@
           "countryCode": "US",
           "birthDate": "1997-10-02",
           "record": "6-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "155lbs/70kg Lightweight"
+        "details": "155lbs/70kg Lightweight",
+        "oddsHistory": []
       },
       {
         "id": "1581",
@@ -4192,7 +5236,8 @@
           "countryCode": "CA",
           "birthDate": "1992-07-06",
           "record": "8-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Lucero Acosta",
@@ -4200,9 +5245,11 @@
           "countryCode": null,
           "birthDate": "1994-08-22",
           "record": "6-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "125lbs/57kg Women's Flyweight"
+        "details": "125lbs/57kg Women's Flyweight",
+        "oddsHistory": []
       },
       {
         "id": "1580",
@@ -4213,7 +5260,8 @@
           "countryCode": null,
           "birthDate": "1991-02-14",
           "record": "23-12-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Abraham Bably",
@@ -4221,9 +5269,11 @@
           "countryCode": "CI",
           "birthDate": "1995-12-29",
           "record": "8-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "205lbs/93kg Light Heavyweight"
+        "details": "205lbs/93kg Light Heavyweight",
+        "oddsHistory": []
       },
       {
         "id": "1571",
@@ -4234,7 +5284,8 @@
           "countryCode": "TJ",
           "birthDate": "1997-04-12",
           "record": "17-1-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Rafael do Nascimento",
@@ -4242,9 +5293,11 @@
           "countryCode": "BR",
           "birthDate": "1991-11-14",
           "record": "13-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "135lbs/61kg Bantamweight"
+        "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": []
       },
       {
         "id": "1570",
@@ -4255,7 +5308,8 @@
           "countryCode": "RU",
           "birthDate": "1990-06-09",
           "record": "37-9-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Maxwell Djantou Nana",
@@ -4263,9 +5317,11 @@
           "countryCode": "CM",
           "birthDate": "1991-01-18",
           "record": "9-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "265lbs/120kg Heavyweight"
+        "details": "265lbs/120kg Heavyweight",
+        "oddsHistory": []
       },
       {
         "id": "1572",
@@ -4276,7 +5332,8 @@
           "countryCode": null,
           "birthDate": "1993-04-17",
           "record": "25-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Landry Ward",
@@ -4284,9 +5341,11 @@
           "countryCode": "US",
           "birthDate": "1996-12-08",
           "record": "11-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "135lbs/61kg Bantamweight"
+        "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": []
       },
       {
         "id": "1573",
@@ -4297,7 +5356,8 @@
           "countryCode": "RU",
           "birthDate": "1995-11-17",
           "record": "18-0-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
         "blue": {
           "name": "Gabriel Braga",
@@ -4305,9 +5365,11 @@
           "countryCode": "BR",
           "birthDate": "1998-04-22",
           "record": "17-3-0",
-          "style": "Striker"
+          "style": "Striker",
+          "odds": null
         },
-        "details": "145lbs/66kg Featherweight"
+        "details": "145lbs/66kg Featherweight",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -4331,7 +5393,8 @@
           "countryCode": null,
           "birthDate": "2000-06-09",
           "record": "11-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Adam Borics",
@@ -4339,9 +5402,11 @@
           "countryCode": "HU",
           "birthDate": "1993-07-06",
           "record": "20-4-0",
-          "style": "Striker"
+          "style": "Striker",
+          "odds": null
         },
-        "details": "145lbs/66kg Featherweight"
+        "details": "145lbs/66kg Featherweight",
+        "oddsHistory": []
       },
       {
         "id": "1586",
@@ -4352,7 +5417,8 @@
           "countryCode": "US",
           "birthDate": "1993-08-17",
           "record": "25-8-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Joji Goto",
@@ -4360,9 +5426,11 @@
           "countryCode": null,
           "birthDate": "1996-03-08",
           "record": "21-9-1",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "135lbs/61kg Bantamweight"
+        "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": []
       },
       {
         "id": "1583",
@@ -4373,7 +5441,8 @@
           "countryCode": null,
           "birthDate": "1992-07-26",
           "record": "6-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Oleg Popov",
@@ -4381,9 +5450,11 @@
           "countryCode": "RU",
           "birthDate": "1992-01-01",
           "record": "22-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "265lbs/120kg Heavyweight"
+        "details": "265lbs/120kg Heavyweight",
+        "oddsHistory": []
       },
       {
         "id": "1582",
@@ -4394,7 +5465,8 @@
           "countryCode": "RU",
           "birthDate": "1992-06-19",
           "record": "20-2-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Sergey Bilostenniy",
@@ -4402,9 +5474,11 @@
           "countryCode": "RU",
           "birthDate": "1995-10-22",
           "record": "15-4-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "265lbs/120kg Heavyweight · PFL World Title"
+        "details": "265lbs/120kg Heavyweight · PFL World Title",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -4428,7 +5502,8 @@
           "countryCode": "BE",
           "birthDate": "1999-04-30",
           "record": "9-0-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
         "blue": {
           "name": "Bryan Battle",
@@ -4436,9 +5511,11 @@
           "countryCode": null,
           "birthDate": "1994-09-20",
           "record": "13-3-0",
-          "style": null
+          "style": null,
+          "odds": null
         },
-        "details": "185lbs/84kg Middleweight"
+        "details": "185lbs/84kg Middleweight",
+        "oddsHistory": []
       },
       {
         "id": "1585",
@@ -4449,7 +5526,8 @@
           "countryCode": null,
           "birthDate": "1992-04-07",
           "record": "25-4-0",
-          "style": "All-rounder"
+          "style": "All-rounder",
+          "odds": null
         },
         "blue": {
           "name": "Mitch McKee",
@@ -4457,9 +5535,11 @@
           "countryCode": "US",
           "birthDate": "1997-12-23",
           "record": "11-0-0",
-          "style": "Grappler"
+          "style": "Grappler",
+          "odds": null
         },
-        "details": "135lbs/61kg Bantamweight · World Title"
+        "details": "135lbs/61kg Bantamweight · World Title",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []

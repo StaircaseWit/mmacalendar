@@ -20,7 +20,8 @@
           "style": "All-rounder",
           "countryCode": "KG",
           "birthDate": "2000-10-11",
-          "record": "7-0-0"
+          "record": "7-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Yuta Kubo",
@@ -28,9 +29,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1987-10-19",
-          "record": "5-4-0"
+          "record": "5-4-0",
+          "odds": null
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds · Title bout",
+        "oddsHistory": []
       },
       {
         "order": 11,
@@ -41,7 +44,8 @@
           "style": "Grappler",
           "countryCode": "US",
           "birthDate": "1993-03-31",
-          "record": "5-1-0"
+          "record": "5-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Joji Goto",
@@ -49,9 +53,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1996-03-09",
-          "record": "6-1-0"
+          "record": "6-1-0",
+          "odds": null
         },
-        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds · Title bout",
+        "oddsHistory": []
       },
       {
         "order": 10,
@@ -62,7 +68,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1995-05-10",
-          "record": "6-3-0"
+          "record": "6-3-0",
+          "odds": null
         },
         "blue": {
           "name": "Patricky Pitbull",
@@ -70,9 +77,11 @@
           "style": "All-rounder",
           "countryCode": "BR",
           "birthDate": "1986-01-21",
-          "record": "3-3-0"
+          "record": "3-3-0",
+          "odds": null
         },
-        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 9,
@@ -83,7 +92,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1995-12-28",
-          "record": "8-10-0"
+          "record": "8-10-0",
+          "odds": null
         },
         "blue": {
           "name": "Abijah Kaleo Meheula",
@@ -91,9 +101,11 @@
           "style": "Striker",
           "countryCode": "US",
           "birthDate": "1995-11-25",
-          "record": null
+          "record": null,
+          "odds": null
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 8,
@@ -104,7 +116,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1992-06-12",
-          "record": "4-2-0"
+          "record": "4-2-0",
+          "odds": null
         },
         "blue": {
           "name": "Azizbek Temirov",
@@ -112,9 +125,11 @@
           "style": "All-rounder",
           "countryCode": "UZ",
           "birthDate": "1998-09-28",
-          "record": "1-1-0"
+          "record": "1-1-0",
+          "odds": null
         },
-        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 7,
@@ -125,7 +140,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1998-01-16",
-          "record": "3-0-0"
+          "record": "3-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Singphayak HAMAGYM",
@@ -133,9 +149,11 @@
           "style": "Striker",
           "countryCode": "TH",
           "birthDate": "1995-12-17",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "66kg Featherweight · RIZIN Kickboxing · 3 × 3 min rounds"
+        "details": "66kg Featherweight · RIZIN Kickboxing · 3 × 3 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 6,
@@ -146,7 +164,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "2000-07-05",
-          "record": "10-4-0"
+          "record": "10-4-0",
+          "odds": null
         },
         "blue": {
           "name": "Nkazimulo Zulu",
@@ -154,9 +173,11 @@
           "style": "Striker",
           "countryCode": "ZA",
           "birthDate": "1989-08-19",
-          "record": "1-3-0"
+          "record": "1-3-0",
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 5,
@@ -167,7 +188,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1982-03-31",
-          "record": "11-5-0"
+          "record": "11-5-0",
+          "odds": null
         },
         "blue": {
           "name": "Natasha Kuziutina",
@@ -175,9 +197,11 @@
           "style": "Grappler",
           "countryCode": "RU",
           "birthDate": "1989-05-08",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
-        "details": "49kg Women's Super Atomweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "49kg Women's Super Atomweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 4,
@@ -188,7 +212,8 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "1991-10-16",
-          "record": "5-6-0"
+          "record": "5-6-0",
+          "odds": null
         },
         "blue": {
           "name": "James Gallagher",
@@ -196,9 +221,11 @@
           "style": "All-rounder",
           "countryCode": "IE",
           "birthDate": "1996-10-24",
-          "record": null
+          "record": null,
+          "odds": null
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 3,
@@ -209,7 +236,8 @@
           "style": "All-rounder",
           "countryCode": "KZ",
           "birthDate": "2001-01-06",
-          "record": "2-0-0"
+          "record": "2-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Tenya",
@@ -217,9 +245,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "2004-05-07",
-          "record": "0-2-0"
+          "record": "0-2-0",
+          "odds": null
         },
-        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 2,
@@ -230,7 +260,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1991-04-06",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Hinotori",
@@ -238,9 +269,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1994-03-22",
-          "record": "2-0-0"
+          "record": "2-0-0",
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 1,
@@ -251,7 +284,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "2004-04-04",
-          "record": "2-1-0"
+          "record": "2-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Hyuga Miyagawa",
@@ -259,9 +293,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "2002-07-15",
-          "record": "2-1-0"
+          "record": "2-1-0",
+          "odds": null
         },
-        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 4,
@@ -272,7 +308,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1991-12-15",
-          "record": "1-1-0"
+          "record": "1-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Shun Okamoto",
@@ -280,9 +317,11 @@
           "style": null,
           "countryCode": "JP",
           "birthDate": "1990-07-03",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN MMA · 2 × 5 min rounds"
+        "details": "57kg Flyweight · RIZIN MMA · 2 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 3,
@@ -293,7 +332,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": null,
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Tomoaki Arimatsu",
@@ -301,9 +341,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "2000-10-10",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
-        "details": "61kg Bantamweight · RIZIN MMA · 2 × 5 min rounds"
+        "details": "61kg Bantamweight · RIZIN MMA · 2 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 2,
@@ -314,7 +356,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1989-06-27",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Ginji Arai",
@@ -322,9 +365,11 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "2004-08-11",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "71kg Lightweight · RIZIN MMA · 2 × 5 min rounds"
+        "details": "71kg Lightweight · RIZIN MMA · 2 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 1,
@@ -335,7 +380,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2003-05-30",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
         "blue": {
           "name": "YU-KI",
@@ -343,9 +389,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1997-12-22",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN Kickboxing · 3 × 3 min rounds"
+        "details": "57kg Flyweight · RIZIN Kickboxing · 3 × 3 min rounds",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -371,7 +419,8 @@
           "style": "All-rounder",
           "countryCode": "UZ",
           "birthDate": "1995-03-27",
-          "record": "4-1-0"
+          "record": "4-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Luiz Gustavo",
@@ -379,9 +428,11 @@
           "style": "Grappler",
           "countryCode": "BR",
           "birthDate": "1996-05-25",
-          "record": "8-4-0"
+          "record": "8-4-0",
+          "odds": null
         },
-        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds · Title bout",
+        "oddsHistory": []
       },
       {
         "order": 10,
@@ -392,7 +443,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1998-06-27",
-          "record": "5-3-1"
+          "record": "5-3-1",
+          "odds": null
         },
         "blue": {
           "name": "Kouzi",
@@ -400,9 +452,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1989-05-06",
-          "record": "3-6-2"
+          "record": "3-6-2",
+          "odds": null
         },
-        "details": "RIZIN Standing Bout · 3 × 3 min rounds"
+        "details": "RIZIN Standing Bout · 3 × 3 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 9,
@@ -413,7 +467,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1999-09-12",
-          "record": "5-2-0"
+          "record": "5-2-0",
+          "odds": null
         },
         "blue": {
           "name": "Kaiwen Li",
@@ -421,9 +476,11 @@
           "style": "All-rounder",
           "countryCode": "CN",
           "birthDate": "1995-10-16",
-          "record": "1-1-0"
+          "record": "1-1-0",
+          "odds": null
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 8,
@@ -434,7 +491,8 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "1993-12-28",
-          "record": "8-5-1"
+          "record": "8-5-1",
+          "odds": null
         },
         "blue": {
           "name": "Kintaro",
@@ -442,9 +500,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1993-03-19",
-          "record": "4-8-0"
+          "record": "4-8-0",
+          "odds": null
         },
-        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 7,
@@ -455,7 +515,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1998-03-16",
-          "record": "3-2-0"
+          "record": "3-2-0",
+          "odds": null
         },
         "blue": {
           "name": "Katie Perez",
@@ -463,9 +524,11 @@
           "style": "All-rounder",
           "countryCode": "US",
           "birthDate": "1993-05-24",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "51kg Catchweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "51kg Catchweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 6,
@@ -476,7 +539,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1990-09-18",
-          "record": "1-4-0"
+          "record": "1-4-0",
+          "odds": null
         },
         "blue": {
           "name": "Sho Patrick Usami",
@@ -484,9 +548,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2000-05-08",
-          "record": "6-4-0"
+          "record": "6-4-0",
+          "odds": null
         },
-        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 5,
@@ -497,7 +563,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1992-10-08",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Ryan Cafaro",
@@ -505,9 +572,11 @@
           "style": "All-rounder",
           "countryCode": "US",
           "birthDate": "1989-10-24",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 4,
@@ -518,7 +587,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1988-09-10",
-          "record": "2-1-0"
+          "record": "2-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Genji Umeno",
@@ -526,9 +596,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1988-12-13",
-          "record": "5-4-0"
+          "record": "5-4-0",
+          "odds": null
         },
-        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 3,
@@ -539,7 +611,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1997-04-23",
-          "record": "2-1-0"
+          "record": "2-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Kenshin Kodama",
@@ -547,9 +620,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2001-12-25",
-          "record": null
+          "record": null,
+          "odds": null
         },
-        "details": "62kg Catchweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "62kg Catchweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 2,
@@ -560,7 +635,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "2002-10-23",
-          "record": "0-2-0"
+          "record": "0-2-0",
+          "odds": null
         },
         "blue": {
           "name": "Joe Hiramoto",
@@ -568,9 +644,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "2003-07-22",
-          "record": "4-1-0"
+          "record": "4-1-0",
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 1,
@@ -581,7 +659,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1996-10-10",
-          "record": "2-0-0"
+          "record": "2-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Jake Wilkins",
@@ -589,9 +668,11 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "1992-07-26",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 4,
@@ -602,7 +683,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "2003-03-03",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Haruto Sunada",
@@ -610,9 +692,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2001-12-02",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN MMA · 2 × 5 min rounds"
+        "details": "57kg Flyweight · RIZIN MMA · 2 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 3,
@@ -623,7 +707,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2000-04-28",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Asatarou",
@@ -631,9 +716,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2002-02-08",
-          "record": "1-1-0"
+          "record": "1-1-0",
+          "odds": null
         },
-        "details": "62kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds"
+        "details": "62kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 2,
@@ -644,7 +731,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2007-08-30",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Hinata Kitano",
@@ -652,9 +740,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2010-06-07",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
-        "details": "46kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds"
+        "details": "46kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 1,
@@ -665,7 +755,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2006-10-19",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Tomoya Sudo",
@@ -673,9 +764,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2001-09-25",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN Kickboxing · 3 × 3 min rounds"
+        "details": "57kg Flyweight · RIZIN Kickboxing · 3 × 3 min rounds",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -701,7 +794,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1987-04-01",
-          "record": "12-6-0"
+          "record": "12-6-0",
+          "odds": null
         },
         "blue": {
           "name": "Makoto Shinryu",
@@ -709,9 +803,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "2000-07-05",
-          "record": "10-4-0"
+          "record": "10-4-0",
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds · Title bout",
+        "oddsHistory": []
       },
       {
         "order": 7,
@@ -722,7 +818,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1989-09-14",
-          "record": "14-10-0"
+          "record": "14-10-0",
+          "odds": null
         },
         "blue": {
           "name": "Tony Laramie",
@@ -730,9 +827,11 @@
           "style": "All-rounder",
           "countryCode": "CA",
           "birthDate": "1999-01-06",
-          "record": "4-1-0"
+          "record": "4-1-0",
+          "odds": null
         },
-        "details": "59kg Catchweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "59kg Catchweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 6,
@@ -743,7 +842,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1987-03-24",
-          "record": "0-4-0"
+          "record": "0-4-0",
+          "odds": null
         },
         "blue": {
           "name": "Takakenshin",
@@ -751,9 +851,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1997-05-13",
-          "record": "4-4-0"
+          "record": "4-4-0",
+          "odds": null
         },
-        "details": "120kg Heavyweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "120kg Heavyweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 5,
@@ -764,7 +866,8 @@
           "style": "All-rounder",
           "countryCode": "US",
           "birthDate": "1995-08-20",
-          "record": "4-4-0"
+          "record": "4-4-0",
+          "odds": null
         },
         "blue": {
           "name": "Bilal Kai Haga",
@@ -772,9 +875,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1996-11-22",
-          "record": "0-2-0"
+          "record": "0-2-0",
+          "odds": null
         },
-        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 4,
@@ -785,7 +890,8 @@
           "style": null,
           "countryCode": "JP",
           "birthDate": "1990-05-13",
-          "record": "14-9-0"
+          "record": "14-9-0",
+          "odds": null
         },
         "blue": {
           "name": "ISAO",
@@ -793,9 +899,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1988-10-28",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 3,
@@ -806,7 +914,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1997-10-03",
-          "record": "3-3-0"
+          "record": "3-3-0",
+          "odds": null
         },
         "blue": {
           "name": "Rui Kato",
@@ -814,9 +923,11 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "2002-02-10",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 2,
@@ -827,7 +938,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1992-06-24",
-          "record": "2-1-0"
+          "record": "2-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Kaisei Kuroi",
@@ -835,9 +947,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2001-06-21",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 1,
@@ -848,7 +962,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1998-12-23",
-          "record": "0-4-0"
+          "record": "0-4-0",
+          "odds": null
         },
         "blue": {
           "name": "Seiya Inoue",
@@ -856,9 +971,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "2004-04-04",
-          "record": "2-1-0"
+          "record": "2-1-0",
+          "odds": null
         },
-        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 4,
@@ -869,7 +986,8 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "2000-03-12",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Taylan Yuasa",
@@ -877,9 +995,11 @@
           "style": "Grappler",
           "countryCode": "US",
           "birthDate": "1996-12-01",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN MMA · 2 × 5 min rounds"
+        "details": "57kg Flyweight · RIZIN MMA · 2 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 3,
@@ -890,7 +1010,8 @@
           "style": null,
           "countryCode": "JP",
           "birthDate": "2000-05-18",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
         "blue": {
           "name": "TAaaaCHAN",
@@ -898,9 +1019,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1991-07-30",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "67.5kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds"
+        "details": "67.5kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 2,
@@ -911,7 +1034,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2001-10-31",
-          "record": "3-2-0"
+          "record": "3-2-0",
+          "odds": null
         },
         "blue": {
           "name": "Sho Uchida",
@@ -919,9 +1043,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1997-10-21",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
-        "details": "56.5kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds"
+        "details": "56.5kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 1,
@@ -932,7 +1058,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1994-03-24",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Sho Nakaizumi",
@@ -940,9 +1067,11 @@
           "style": null,
           "countryCode": "JP",
           "birthDate": "1989-12-06",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "62kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds"
+        "details": "62kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -968,7 +1097,8 @@
           "style": "Grappler",
           "countryCode": "US",
           "birthDate": "1993-03-31",
-          "record": "5-1-0"
+          "record": "5-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Jinnosuke Kashimura",
@@ -976,9 +1106,11 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "2001-08-12",
-          "record": "2-2-0"
+          "record": "2-2-0",
+          "odds": null
         },
-        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds · Title bout",
+        "oddsHistory": []
       },
       {
         "order": 11,
@@ -989,7 +1121,8 @@
           "style": "Striker",
           "countryCode": "KZ",
           "birthDate": "1993-12-07",
-          "record": "5-1-0"
+          "record": "5-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Kyohei Hagiwara",
@@ -997,9 +1130,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1995-12-28",
-          "record": "8-10-0"
+          "record": "8-10-0",
+          "odds": null
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 10,
@@ -1010,7 +1145,8 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "1993-12-28",
-          "record": "8-5-1"
+          "record": "8-5-1",
+          "odds": null
         },
         "blue": {
           "name": "Yrysbek Tilenov",
@@ -1018,9 +1154,11 @@
           "style": "All-rounder",
           "countryCode": "KG",
           "birthDate": "2003-12-14",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 9,
@@ -1031,7 +1169,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1998-05-07",
-          "record": "3-6-0"
+          "record": "3-6-0",
+          "odds": null
         },
         "blue": {
           "name": "Erson Yamamoto",
@@ -1039,9 +1178,11 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "1996-09-08",
-          "record": "6-8-0"
+          "record": "6-8-0",
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 8,
@@ -1052,7 +1193,8 @@
           "style": "All-rounder",
           "countryCode": "US",
           "birthDate": "1989-06-28",
-          "record": "5-4-0"
+          "record": "5-4-0",
+          "odds": null
         },
         "blue": {
           "name": "Tenya",
@@ -1060,9 +1202,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2004-05-07",
-          "record": "0-2-0"
+          "record": "0-2-0",
+          "odds": null
         },
-        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds · Title bout",
+        "oddsHistory": []
       },
       {
         "order": 7,
@@ -1073,7 +1217,8 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "1994-11-14",
-          "record": "6-1-0"
+          "record": "6-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Ye Ji Lee",
@@ -1081,9 +1226,11 @@
           "style": null,
           "countryCode": "KR",
           "birthDate": "1999-07-03",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "49kg Women's Super Atomweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "49kg Women's Super Atomweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 6,
@@ -1094,7 +1241,8 @@
           "style": "Striker",
           "countryCode": "KR",
           "birthDate": "1991-06-26",
-          "record": "4-1-0"
+          "record": "4-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Moeri Suda",
@@ -1102,9 +1250,11 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "2004-07-29",
-          "record": "2-1-0"
+          "record": "2-1-0",
+          "odds": null
         },
-        "details": "49kg Women's Super Atomweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "49kg Women's Super Atomweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 5,
@@ -1115,7 +1265,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1983-04-24",
-          "record": "2-5-0"
+          "record": "2-5-0",
+          "odds": null
         },
         "blue": {
           "name": "Genji Umeno",
@@ -1123,9 +1274,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1988-12-13",
-          "record": "5-4-0"
+          "record": "5-4-0",
+          "odds": null
         },
-        "details": "64kg Catchweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "64kg Catchweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 4,
@@ -1136,7 +1289,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1984-12-06",
-          "record": "7-6-0"
+          "record": "7-6-0",
+          "odds": null
         },
         "blue": {
           "name": "Hyuga Miyagawa",
@@ -1144,9 +1298,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2002-07-15",
-          "record": "2-1-0"
+          "record": "2-1-0",
+          "odds": null
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 3,
@@ -1157,7 +1313,8 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "1980-05-02",
-          "record": "0-3-0"
+          "record": "0-3-0",
+          "odds": null
         },
         "blue": {
           "name": "Yota Rice Hayashi",
@@ -1165,9 +1322,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1993-06-02",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
-        "details": "77kg Welterweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "77kg Welterweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 2,
@@ -1178,7 +1337,8 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "1994-03-22",
-          "record": "2-0-0"
+          "record": "2-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Jae Hun Lee",
@@ -1186,9 +1346,11 @@
           "style": "Striker",
           "countryCode": "KR",
           "birthDate": "2002-12-09",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 1,
@@ -1199,7 +1361,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2005-08-25",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Haruto",
@@ -1207,9 +1370,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2004-03-20",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "54.5kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds"
+        "details": "54.5kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 4,
@@ -1220,7 +1385,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1987-02-28",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Ayane Hirata",
@@ -1228,9 +1394,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2004-12-19",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "49kg Women's Super Atomweight · RIZIN MMA · 2 × 5 min rounds"
+        "details": "49kg Women's Super Atomweight · RIZIN MMA · 2 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 3,
@@ -1241,7 +1409,8 @@
           "style": null,
           "countryCode": "JP",
           "birthDate": "1990-12-24",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Shota Nagano",
@@ -1249,9 +1418,11 @@
           "style": null,
           "countryCode": "JP",
           "birthDate": "1996-02-22",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
-        "details": "61kg Bantamweight · RIZIN MMA · 2 × 5 min rounds"
+        "details": "61kg Bantamweight · RIZIN MMA · 2 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 2,
@@ -1262,7 +1433,8 @@
           "style": null,
           "countryCode": "JP",
           "birthDate": "1999-10-07",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Benjamin",
@@ -1270,9 +1442,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "2000-02-23",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "71kg Lightweight · RIZIN MMA · 2 × 5 min rounds"
+        "details": "71kg Lightweight · RIZIN MMA · 2 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 1,
@@ -1283,7 +1457,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "2010-06-06",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Kentaro",
@@ -1291,9 +1466,11 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "2010-01-15",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN rules · 2 × 3 min rounds"
+        "details": "57kg Flyweight · RIZIN rules · 2 × 3 min rounds",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -1319,7 +1496,8 @@
           "style": "All-rounder",
           "countryCode": "BR",
           "birthDate": "1989-10-16",
-          "record": "10-5-0"
+          "record": "10-5-0",
+          "odds": null
         },
         "blue": {
           "name": "Kyoma Akimoto",
@@ -1327,9 +1505,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2006-03-08",
-          "record": "8-1-0"
+          "record": "8-1-0",
+          "odds": null
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 9,
@@ -1340,7 +1520,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1987-08-21",
-          "record": "5-2-0"
+          "record": "5-2-0",
+          "odds": null
         },
         "blue": {
           "name": "Patchy Mix",
@@ -1348,9 +1529,11 @@
           "style": "Grappler",
           "countryCode": "US",
           "birthDate": "1993-08-16",
-          "record": "1-2-0"
+          "record": "1-2-0",
+          "odds": null
         },
-        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 8,
@@ -1361,7 +1544,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1995-05-01",
-          "record": "4-4-0"
+          "record": "4-4-0",
+          "odds": null
         },
         "blue": {
           "name": "King Edokpolo",
@@ -1369,9 +1553,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "2001-02-08",
-          "record": "3-0-0"
+          "record": "3-0-0",
+          "odds": null
         },
-        "details": "120kg Heavyweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "120kg Heavyweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 7,
@@ -1382,7 +1568,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1997-05-13",
-          "record": "10-4-0"
+          "record": "10-4-0",
+          "odds": null
         },
         "blue": {
           "name": "Ryo Sakai",
@@ -1390,9 +1577,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1987-03-24",
-          "record": "0-4-0"
+          "record": "0-4-0",
+          "odds": null
         },
-        "details": "120kg Heavyweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "120kg Heavyweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 6,
@@ -1403,7 +1592,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1997-04-19",
-          "record": "11-3-0"
+          "record": "11-3-0",
+          "odds": null
         },
         "blue": {
           "name": "Alibek Gadzhammatov",
@@ -1411,9 +1601,11 @@
           "style": "Striker",
           "countryCode": "RU",
           "birthDate": "2001-07-12",
-          "record": "2-2-0"
+          "record": "2-2-0",
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 5,
@@ -1424,7 +1616,8 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "1991-10-16",
-          "record": "5-6-0"
+          "record": "5-6-0",
+          "odds": null
         },
         "blue": {
           "name": "Koji Takeda",
@@ -1432,9 +1625,11 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "1995-08-13",
-          "record": "9-8-0"
+          "record": "9-8-0",
+          "odds": null
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 4,
@@ -1445,7 +1640,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1996-03-09",
-          "record": "6-1-0"
+          "record": "6-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Azizbek Temirov",
@@ -1453,9 +1649,11 @@
           "style": "Striker",
           "countryCode": "UZ",
           "birthDate": "1998-09-28",
-          "record": "1-1-0"
+          "record": "1-1-0",
+          "odds": null
         },
-        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds · Title bout",
+        "oddsHistory": []
       },
       {
         "order": 3,
@@ -1466,7 +1664,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2003-07-22",
-          "record": "4-1-0"
+          "record": "4-1-0",
+          "odds": null
         },
         "blue": {
           "name": "JOLLY",
@@ -1474,9 +1673,11 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "1997-04-23",
-          "record": "2-1-0"
+          "record": "2-1-0",
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 2,
@@ -1487,7 +1688,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1992-06-24",
-          "record": "2-1-0"
+          "record": "2-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Issa Hosokawa",
@@ -1495,9 +1697,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2000-04-07",
-          "record": "0-2-0"
+          "record": "0-2-0",
+          "odds": null
         },
-        "details": "69kg Catchweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "69kg Catchweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 1,
@@ -1508,7 +1712,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "2003-01-04",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Kaiwen Li",
@@ -1516,9 +1721,11 @@
           "style": "All-rounder",
           "countryCode": "CN",
           "birthDate": "1995-10-16",
-          "record": "1-1-0"
+          "record": "1-1-0",
+          "odds": null
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": [
@@ -1526,13 +1733,16 @@
         "order": 0,
         "section": "Main Card",
         "red": {
-          "name": "ケイト・ロータス"
+          "name": "ケイト・ロータス",
+          "odds": null
         },
         "blue": {
-          "name": "NOEL"
+          "name": "NOEL",
+          "odds": null
         },
         "details": "",
-        "note": "Postponed by RIZIN"
+        "note": "Postponed by RIZIN",
+        "oddsHistory": []
       }
     ]
   },
@@ -1557,7 +1767,8 @@
           "style": "All-rounder",
           "countryCode": "KG",
           "birthDate": "2000-10-11",
-          "record": "7-0-0"
+          "record": "7-0-0",
+          "odds": null
         },
         "blue": {
           "name": "AJ McKee",
@@ -1565,9 +1776,11 @@
           "style": "All-rounder",
           "countryCode": "US",
           "birthDate": "1995-04-07",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds · Title bout",
+        "oddsHistory": []
       },
       {
         "order": 7,
@@ -1578,7 +1791,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1992-07-15",
-          "record": "13-5-0"
+          "record": "13-5-0",
+          "odds": "-400"
         },
         "blue": {
           "name": "Shinya Aoki",
@@ -1586,9 +1800,27 @@
           "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "1983-05-09",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": "+275"
         },
-        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "超RIZIN.5 浪速の超復活祭り",
+            "sourceUrl": "https://www.bestfightodds.com/events/super-rizin-5-4349",
+            "odds": {
+              "mikuru asakura": "-400",
+              "shinya aoki": "+275"
+            },
+            "names": {
+              "mikuru asakura": "Mikuru Asakura",
+              "shinya aoki": "Shinya Aoki"
+            },
+            "promotion": "rizin",
+            "eventId": "17834937"
+          }
+        ]
       },
       {
         "order": 6,
@@ -1599,7 +1831,8 @@
           "style": "All-rounder",
           "countryCode": "KZ",
           "birthDate": "1993-12-07",
-          "record": "5-1-0"
+          "record": "5-1-0",
+          "odds": "-250"
         },
         "blue": {
           "name": "Ren Hiramoto",
@@ -1607,9 +1840,27 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1998-06-27",
-          "record": "5-3-1"
+          "record": "5-3-1",
+          "odds": "+175"
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "超RIZIN.5 浪速の超復活祭り",
+            "sourceUrl": "https://www.bestfightodds.com/events/super-rizin-5-4349",
+            "odds": {
+              "karshyga dautbek": "-250",
+              "ren hiramoto": "+175"
+            },
+            "names": {
+              "karshyga dautbek": "Karshyga Dautbek",
+              "ren hiramoto": "Ren Hiramoto"
+            },
+            "promotion": "rizin",
+            "eventId": "17834937"
+          }
+        ]
       },
       {
         "order": 5,
@@ -1620,7 +1871,8 @@
           "style": "All-rounder",
           "countryCode": "BR",
           "birthDate": "1989-09-19",
-          "record": "14-4-0"
+          "record": "14-4-0",
+          "odds": "-150"
         },
         "blue": {
           "name": "Shunta Nomura",
@@ -1628,9 +1880,27 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1997-10-11",
-          "record": "2-0-0"
+          "record": "2-0-0",
+          "odds": "+110"
         },
-        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T13:20:20.773Z",
+            "eventName": "超RIZIN.5 浪速の超復活祭り",
+            "sourceUrl": "https://www.bestfightodds.com/events/super-rizin-5-4349",
+            "odds": {
+              "roberto satoshi souza": "-150",
+              "shunta nomura": "+110"
+            },
+            "names": {
+              "roberto satoshi souza": "Roberto Satoshi Souza",
+              "shunta nomura": "Shunta Nomura"
+            },
+            "promotion": "rizin",
+            "eventId": "17834937"
+          }
+        ]
       },
       {
         "order": 4,
@@ -1641,7 +1911,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1987-10-08",
-          "record": "4-5-0"
+          "record": "4-5-0",
+          "odds": null
         },
         "blue": {
           "name": "YA-MAN",
@@ -1649,9 +1920,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1996-05-31",
-          "record": "4-2-0"
+          "record": "4-2-0",
+          "odds": null
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 3,
@@ -1662,7 +1935,8 @@
           "style": "All-rounder",
           "countryCode": "AZ",
           "birthDate": "1992-02-20",
-          "record": "7-4-0"
+          "record": "7-4-0",
+          "odds": "-120"
         },
         "blue": {
           "name": "Ryo Takagi",
@@ -1670,9 +1944,27 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1999-09-12",
-          "record": "5-2-0"
+          "record": "5-2-0",
+          "odds": "-110"
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds · Title bout"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds · Title bout",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "超RIZIN.5 浪速の超復活祭り",
+            "sourceUrl": "https://www.bestfightodds.com/events/super-rizin-5-4349",
+            "odds": {
+              "ryo takagi": "-110",
+              "vugar karamov": "-120"
+            },
+            "names": {
+              "ryo takagi": "Ryo Takagi",
+              "vugar karamov": "Vugar Karamov"
+            },
+            "promotion": "rizin",
+            "eventId": "17834937"
+          }
+        ]
       },
       {
         "order": 2,
@@ -1683,7 +1975,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1991-06-29",
-          "record": "15-5-0"
+          "record": "15-5-0",
+          "odds": null
         },
         "blue": {
           "name": "Natasha Kuziutina",
@@ -1691,9 +1984,11 @@
           "style": "Grappler",
           "countryCode": "RU",
           "birthDate": "1989-05-08",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
-        "details": "49kg Women's Super Atomweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "49kg Women's Super Atomweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 1,
@@ -1704,7 +1999,8 @@
           "style": "All-rounder",
           "countryCode": "US",
           "birthDate": "1995-08-20",
-          "record": "4-4-0"
+          "record": "4-4-0",
+          "odds": null
         },
         "blue": {
           "name": "Hide Meison Usami",
@@ -1712,9 +2008,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2001-05-20",
-          "record": "0-0-1"
+          "record": "0-0-1",
+          "odds": null
         },
-        "details": "71kg Lightweight · RIZIN Kickboxing · 3 × 3 min rounds"
+        "details": "71kg Lightweight · RIZIN Kickboxing · 3 × 3 min rounds",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": [
@@ -1722,13 +2020,16 @@
         "order": 1,
         "section": "Main Card",
         "red": {
-          "name": "冨澤大智"
+          "name": "冨澤大智",
+          "odds": null
         },
         "blue": {
-          "name": "ドンマイ川端"
+          "name": "ドンマイ川端",
+          "odds": null
         },
         "details": "RIZIN rules",
-        "note": "Cancelled by RIZIN"
+        "note": "Cancelled by RIZIN",
+        "oddsHistory": []
       }
     ]
   },
@@ -1753,7 +2054,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1995-05-10",
-          "record": "6-3-0"
+          "record": "6-3-0",
+          "odds": null
         },
         "blue": {
           "name": "Sho Patrick Usami",
@@ -1761,9 +2063,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2000-05-08",
-          "record": "6-4-0"
+          "record": "6-4-0",
+          "odds": null
         },
-        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 9,
@@ -1774,7 +2078,8 @@
           "style": "Striker",
           "countryCode": "RU",
           "birthDate": "1996-03-07",
-          "record": "4-2-0"
+          "record": "4-2-0",
+          "odds": null
         },
         "blue": {
           "name": "Koyomi Matsushima",
@@ -1782,9 +2087,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1992-10-08",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 8,
@@ -1795,7 +2102,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1995-05-01",
-          "record": "3-4-0"
+          "record": "3-4-0",
+          "odds": null
         },
         "blue": {
           "name": "Seiya Inoue",
@@ -1803,9 +2111,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "2004-04-04",
-          "record": "2-1-0"
+          "record": "2-1-0",
+          "odds": null
         },
-        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 7,
@@ -1816,7 +2126,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1998-03-16",
-          "record": "3-2-0"
+          "record": "3-2-0",
+          "odds": null
         },
         "blue": {
           "name": "NOEL",
@@ -1824,9 +2135,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "2008-05-21",
-          "record": "2-1-0"
+          "record": "2-1-0",
+          "odds": null
         },
-        "details": "49kg Women's Super Atomweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "49kg Women's Super Atomweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 6,
@@ -1837,7 +2150,8 @@
           "style": "All-rounder",
           "countryCode": "US",
           "birthDate": "1989-10-24",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Hyuma Yasui",
@@ -1845,9 +2159,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "2000-12-29",
-          "record": "1-1-0"
+          "record": "1-1-0",
+          "odds": null
         },
-        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 5,
@@ -1858,7 +2174,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1994-03-22",
-          "record": "2-0-0"
+          "record": "2-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Masatoshi Ueda",
@@ -1866,9 +2183,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1987-09-19",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 4,
@@ -1879,7 +2198,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1995-11-21",
-          "record": "0-1-0"
+          "record": "0-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Kaito Oda",
@@ -1887,9 +2207,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1997-02-13",
-          "record": null
+          "record": null,
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 3,
@@ -1900,7 +2222,8 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1988-05-05",
-          "record": "1-1-0"
+          "record": "1-1-0",
+          "odds": null
         },
         "blue": {
           "name": "Ken Hasegawa",
@@ -1908,9 +2231,11 @@
           "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1987-02-26",
-          "record": null
+          "record": null,
+          "odds": null
         },
-        "details": "120kg Heavyweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "120kg Heavyweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 2,
@@ -1921,7 +2246,8 @@
           "style": "All-rounder",
           "countryCode": "BR",
           "birthDate": "1986-04-04",
-          "record": "5-2-0"
+          "record": "5-2-0",
+          "odds": null
         },
         "blue": {
           "name": "Seigo Yamamoto",
@@ -1929,9 +2255,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1995-10-11",
-          "record": "0-2-0"
+          "record": "0-2-0",
+          "odds": null
         },
-        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 1,
@@ -1942,7 +2270,8 @@
           "style": "All-rounder",
           "countryCode": "WS",
           "birthDate": "1999-03-12",
-          "record": null
+          "record": null,
+          "odds": null
         },
         "blue": {
           "name": "Alboury Ndiaye",
@@ -1950,9 +2279,11 @@
           "style": "All-rounder",
           "countryCode": "SN",
           "birthDate": "1996-04-15",
-          "record": null
+          "record": null,
+          "odds": null
         },
-        "details": "120kg Heavyweight · RIZIN MMA · 3 × 5 min rounds"
+        "details": "120kg Heavyweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 4,
@@ -1963,7 +2294,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1989-06-27",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Hunt Rangers",
@@ -1971,9 +2303,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1981-11-02",
-          "record": null
+          "record": null,
+          "odds": null
         },
-        "details": "71kg Lightweight · RIZIN MMA · 2 × 5 min rounds"
+        "details": "71kg Lightweight · RIZIN MMA · 2 × 5 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 3,
@@ -1984,7 +2318,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2003-05-30",
-          "record": "1-0-0"
+          "record": "1-0-0",
+          "odds": null
         },
         "blue": {
           "name": "Reon Uemura",
@@ -1992,9 +2327,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2005-02-08",
-          "record": null
+          "record": null,
+          "odds": null
         },
-        "details": "57kg Flyweight · RIZIN Kickboxing · 3 × 3 min rounds"
+        "details": "57kg Flyweight · RIZIN Kickboxing · 3 × 3 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 2,
@@ -2005,7 +2342,8 @@
           "style": null,
           "countryCode": "JP",
           "birthDate": "1987-07-04",
-          "record": null
+          "record": null,
+          "odds": null
         },
         "blue": {
           "name": "Yuki",
@@ -2013,9 +2351,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1984-01-23",
-          "record": null
+          "record": null,
+          "odds": null
         },
-        "details": "100kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds"
+        "details": "100kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds",
+        "oddsHistory": []
       },
       {
         "order": 1,
@@ -2026,7 +2366,8 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1993-12-09",
-          "record": null
+          "record": null,
+          "odds": null
         },
         "blue": {
           "name": "Ayuto",
@@ -2034,9 +2375,11 @@
           "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2002-12-22",
-          "record": null
+          "record": null,
+          "odds": null
         },
-        "details": "65kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds"
+        "details": "65kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
