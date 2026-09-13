@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T14:45:48.931Z",
+  "generatedAt": "2026-09-13T14:47:47.313Z",
   "overall": "healthy",
   "sources": {
     "ufc": {
       "status": "fresh",
-      "checkedAt": "2026-09-13T14:45:48.931Z",
-      "lastSuccessAt": "2026-09-13T14:45:48.931Z",
+      "checkedAt": "2026-09-13T14:47:47.313Z",
+      "lastSuccessAt": "2026-09-13T14:47:47.313Z",
       "eventCount": 27,
       "boutCount": 262,
       "previousEventCount": 27,
@@ -14,8 +14,8 @@
     },
     "one": {
       "status": "fresh",
-      "checkedAt": "2026-09-13T14:45:48.931Z",
-      "lastSuccessAt": "2026-09-13T14:45:48.931Z",
+      "checkedAt": "2026-09-13T14:47:47.313Z",
+      "lastSuccessAt": "2026-09-13T14:47:47.313Z",
       "eventCount": 54,
       "boutCount": 442,
       "previousEventCount": 52,
@@ -23,8 +23,8 @@
     },
     "rizin": {
       "status": "fresh",
-      "checkedAt": "2026-09-13T14:45:48.931Z",
-      "lastSuccessAt": "2026-09-13T14:45:48.931Z",
+      "checkedAt": "2026-09-13T14:47:47.313Z",
+      "lastSuccessAt": "2026-09-13T14:47:47.313Z",
       "eventCount": 9,
       "boutCount": 93,
       "previousEventCount": 9,
@@ -32,8 +32,8 @@
     },
     "pfl": {
       "status": "fresh",
-      "checkedAt": "2026-09-13T14:45:48.931Z",
-      "lastSuccessAt": "2026-09-13T14:45:48.931Z",
+      "checkedAt": "2026-09-13T14:47:47.313Z",
+      "lastSuccessAt": "2026-09-13T14:47:47.313Z",
       "eventCount": 21,
       "boutCount": 200,
       "previousEventCount": 21,
@@ -41,7 +41,7 @@
     },
     "bestfightodds": {
       "status": "skipped",
-      "checkedAt": "2026-09-13T14:45:48.931Z",
+      "checkedAt": "2026-09-13T14:47:47.313Z",
       "lastSuccessAt": "2026-09-13T13:20:20.773Z",
       "message": "Twice-weekly refresh is not due yet",
       "boutCount": 65
