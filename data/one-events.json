@@ -33,7 +33,7 @@
       {
         "redName": "Arsoonnoi Sitjasing",
         "blueName": "Nuapayak Jitmuangnon",
-        "details": "Flyweight Muay Thai",
+        "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
         "blueCountry": "Thailand"
       },
@@ -47,7 +47,7 @@
       {
         "redName": "Dias Otegen",
         "blueName": "Malambo Pelaez",
-        "details": "Lightweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redCountry": "Kazakhstan",
         "blueCountry": "Peru"
       },
@@ -89,7 +89,7 @@
       {
         "redName": "Rungruanglek TN Muaythai",
         "blueName": "Kraithong PU Phabai",
-        "details": "Flyweight Muay Thai",
+        "details": "Openweight Muay Thai",
         "redCountry": "Thailand",
         "blueCountry": "Thailand"
       },
@@ -103,7 +103,7 @@
       {
         "redName": "Chih Cheng Yu",
         "blueName": "Sarmad Jahanara",
-        "details": "Welterweight MMA",
+        "details": "Welterweight Mixed Martial Arts",
         "redCountry": "Republic of China (Taiwan)",
         "blueCountry": "Australia"
       }
@@ -130,21 +130,21 @@
       {
         "redName": "Tye Ruotolo",
         "blueName": "Pawel Jaworski",
-        "details": "Welterweight Submission Grappling World Championship",
+        "details": "Welterweight World Championship",
         "redCountry": "United States",
         "blueCountry": "Poland"
       },
       {
         "redName": "John Lineker",
         "blueName": "Ben Woolliss",
-        "details": "Featherweight Kickboxing",
+        "details": "Bantamweight Kickboxing",
         "redCountry": "Brazil",
         "blueCountry": "United Kingdom"
       },
       {
         "redName": "Lee Seung Cheol",
         "blueName": "Fabio Henrique",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redCountry": "South Korea",
         "blueCountry": "Brazil"
       },
@@ -158,14 +158,14 @@
       {
         "redName": "Victoria Souza",
         "blueName": "Anastasia Nikolakakos",
-        "details": "Atomweight MMA",
+        "details": "Atomweight Mixed Martial Arts",
         "redCountry": "Brazil",
         "blueCountry": "Canada"
       },
       {
         "redName": "Marcos Aurelio",
         "blueName": "Mauro Mastromarini",
-        "details": "Bantamweight MMA",
+        "details": "Bantamweight Mixed Martial Arts",
         "redCountry": "Brazil",
         "blueCountry": "Argentina"
       },
@@ -179,7 +179,7 @@
       {
         "redName": "Jeremy Miado",
         "blueName": "Willie van Rooyen",
-        "details": "Flyweight MMA",
+        "details": "Flyweight Mixed Martial Arts",
         "redCountry": "Philippines",
         "blueCountry": "South Africa"
       }
@@ -199,13 +199,13 @@
       {
         "redName": "Nong-O Hama",
         "blueName": "Asadula Imangazaliev",
-        "details": "Flyweight Muay Thai World Championship",
+        "details": "Flyweight World Championship",
         "redCountry": "Thailand",
         "blueCountry": "Russia"
       },
       {
         "redName": "Jaosuayai Mor Krungthepthonburi",
-        "blueName": "Pompet Pongsuphan PK",
+        "blueName": "Pompet PongSuphan PK",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
         "blueCountry": "Thailand"
@@ -262,7 +262,7 @@
       {
         "redName": "Nabil Anane",
         "blueName": "Rambolek Chor Ajalaboon",
-        "details": "Bantamweight Muay Thai World Championship",
+        "details": "Bantamweight World Championship",
         "redCountry": "Algeria / Thailand",
         "blueCountry": "Thailand"
       },
@@ -345,7 +345,7 @@
       {
         "redName": "Sattor Rizoev",
         "blueName": "Felipe Silva",
-        "details": "Flyweight MMA",
+        "details": "Flyweight Mixed Martial Arts",
         "redCountry": "Russia / Tajikistan",
         "blueCountry": "Brazil"
       },
@@ -401,7 +401,7 @@
       {
         "redName": "Quoc Danh",
         "blueName": "Kotaro Tanaka",
-        "details": "Flyweight MMA",
+        "details": "Flyweight Mixed Martial Arts",
         "redCountry": "Vietnam",
         "blueCountry": "Japan"
       }
@@ -449,7 +449,7 @@
       {
         "redName": "Torepchi Dongak",
         "blueName": "Parviz Khamidzhonov",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redCountry": "Russia",
         "blueCountry": "Tajikistan"
       },
@@ -512,7 +512,7 @@
       {
         "redName": "Zar Mawia",
         "blueName": "Taiga Orii",
-        "details": "Bantamweight MMA",
+        "details": "Bantamweight Mixed Martial Arts",
         "redCountry": "India",
         "blueCountry": "Japan"
       }
@@ -574,7 +574,7 @@
       {
         "redName": "Waldimir Britez",
         "blueName": "Rasul Rahimov",
-        "details": "Bantamweight MMA",
+        "details": "Bantamweight Mixed Martial Arts",
         "redCountry": "Paraguay",
         "blueCountry": "Azerbaijan / Turkey"
       },
@@ -595,7 +595,7 @@
       {
         "redName": "Regian Eersel",
         "blueName": "Rungrawee Sitsongpeenong",
-        "details": "Lightweight Kickboxing World Championship",
+        "details": "Lightweight World Championship",
         "redCountry": "Suriname",
         "blueCountry": "Thailand"
       },
@@ -623,7 +623,7 @@
       {
         "redName": "Hero Marco Manguray",
         "blueName": "Kota Abe",
-        "details": "Lightweight MMA",
+        "details": "Lightweight Mixed Martial Arts",
         "redCountry": "Philippines",
         "blueCountry": null
       }
@@ -643,7 +643,7 @@
       {
         "redName": "Chase Mann",
         "blueName": "Dzhabir Dzhabrailov",
-        "details": "Welterweight MMA",
+        "details": "Welterweight Mixed Martial Arts",
         "redCountry": "United States",
         "blueCountry": "Turkey"
       },
@@ -664,7 +664,7 @@
       {
         "redName": "Hiroba Minowa",
         "blueName": "Karen Ghazaryan",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redCountry": "Japan",
         "blueCountry": "Armenia"
       },
@@ -685,7 +685,7 @@
       {
         "redName": "Joshua Perreira",
         "blueName": "Gilbert Nakatani",
-        "details": "Flyweight MMA",
+        "details": "Flyweight Mixed Martial Arts",
         "redCountry": "United States",
         "blueCountry": "United States"
       },
@@ -740,7 +740,7 @@
       {
         "redName": "Niko Aikonen",
         "blueName": "Ruslan Bolkvadze",
-        "details": "Lightweight MMA",
+        "details": "Lightweight Mixed Martial Arts",
         "redCountry": "Finland",
         "blueCountry": "Georgia"
       },
@@ -761,7 +761,7 @@
       {
         "redName": "Thoan Nguyen Thanh",
         "blueName": "Rory Turner",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redCountry": "Vietnam",
         "blueCountry": "Australia"
       },
@@ -775,7 +775,7 @@
       {
         "redName": "Carlo Bumina-ang",
         "blueName": "Batochir Batsaikhan",
-        "details": "Bantamweight MMA",
+        "details": "Bantamweight Mixed Martial Arts",
         "redCountry": "Philippines",
         "blueCountry": "Mongolia"
       },
@@ -816,28 +816,28 @@
       {
         "redName": "Rodtang Jitmuangnon",
         "blueName": "Takeru Segawa",
-        "details": "Interim Flyweight Kickboxing World Championship",
+        "details": "Interim Flyweight World Championship",
         "redCountry": "Thailand",
         "blueCountry": "Japan"
       },
       {
         "redName": "Yuya Wakamatsu",
         "blueName": "Avazbek Kholmirzaev",
-        "details": "Flyweight MMA World Championship",
+        "details": "Flyweight World Championship",
         "redCountry": "Japan",
         "blueCountry": "Uzbekistan"
       },
       {
         "redName": "Nadaka",
         "blueName": "Songchainoi Kiatsongrit",
-        "details": "Atomweight Muay Thai World Championship",
+        "details": "Atomweight World Championship",
         "redCountry": "Japan",
         "blueCountry": "Thailand"
       },
       {
         "redName": "Jonathan Haggerty",
         "blueName": "Yuki Yoza",
-        "details": "Bantamweight Kickboxing World Championship",
+        "details": "Bantamweight World Championship",
         "redCountry": "United Kingdom",
         "blueCountry": "Japan"
       },
@@ -851,7 +851,7 @@
       {
         "redName": "Ayaka Miura",
         "blueName": "Chihiro Sawada",
-        "details": "Atomweight MMA",
+        "details": "Atomweight Mixed Martial Arts",
         "redCountry": "Japan",
         "blueCountry": "Japan"
       },
@@ -872,21 +872,21 @@
       {
         "redName": "Itsuki Hirata",
         "blueName": "Ritu Phogat",
-        "details": "Atomweight MMA",
+        "details": "Atomweight Mixed Martial Arts",
         "redCountry": "Japan",
         "blueCountry": "India"
       },
       {
         "redName": "Tatsumitsu Wada",
         "blueName": "Seiichiro Ito",
-        "details": "Flyweight MMA",
+        "details": "Flyweight Mixed Martial Arts",
         "redCountry": "Japan",
         "blueCountry": "Japan"
       },
       {
         "redName": "Keito Yamakita",
         "blueName": "Ryohei Kurosawa",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redCountry": "Japan",
         "blueCountry": "Japan"
       },
@@ -914,7 +914,7 @@
       {
         "redName": "Kanata Nagai",
         "blueName": "Atsubo Kambe",
-        "details": "Bantamweight MMA",
+        "details": "Bantamweight Mixed Martial Arts",
         "redCountry": "Japan",
         "blueCountry": "Japan"
       }
@@ -1094,7 +1094,7 @@
       {
         "redName": "Jongjun Park",
         "blueName": "Junpei Nagatome",
-        "details": "Bantamweight MMA",
+        "details": "Bantamweight Mixed Martial Arts",
         "redCountry": "South Korea",
         "blueCountry": "Japan"
       },
@@ -1212,14 +1212,14 @@
       {
         "redName": "Oumar Kane",
         "blueName": "Anatoly Malykhin",
-        "details": "Heavyweight MMA World Championship",
+        "details": "Heavyweight World Championship",
         "redCountry": "Senegal",
         "blueCountry": "Russia"
       },
       {
         "redName": "Kade Ruotolo",
         "blueName": "Hiroyuki Tetsuka",
-        "details": "Lightweight MMA",
+        "details": "Lightweight Mixed Martial Arts",
         "redCountry": "United States",
         "blueCountry": "Japan"
       },
@@ -1411,7 +1411,7 @@
       {
         "redName": "Viet Anh Do",
         "blueName": "Kyungjung Kim",
-        "details": "Flyweight MMA",
+        "details": "Flyweight Mixed Martial Arts",
         "redCountry": "New Zealand / Vietnam",
         "blueCountry": "South Korea"
       }
@@ -1473,7 +1473,7 @@
       {
         "redName": "Monjit Yein",
         "blueName": "Parviz Khamidzhonov",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redCountry": "India",
         "blueCountry": "Tajikistan"
       },
@@ -1515,7 +1515,7 @@
       {
         "redName": "Adilet Kalenderov",
         "blueName": "Jang Seon Gyu",
-        "details": "Flyweight MMA",
+        "details": "Flyweight Mixed Martial Arts",
         "redCountry": "Kyrgyzstan",
         "blueCountry": "South Korea"
       }
@@ -1591,7 +1591,7 @@
       {
         "redName": "Nazareth Lalthazuala",
         "blueName": "Jhon Brutas",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redCountry": "India",
         "blueCountry": "Philippines"
       },
@@ -1626,7 +1626,7 @@
       {
         "redName": "Julian Mayorga",
         "blueName": "Taiga Orii",
-        "details": "Bantamweight MMA",
+        "details": "Bantamweight Mixed Martial Arts",
         "redCountry": "United States",
         "blueCountry": "Japan"
       }
@@ -1737,7 +1737,7 @@
       {
         "redName": "Ethan Brockett",
         "blueName": "Sora Enmei",
-        "details": "Featherweight MMA",
+        "details": "Featherweight Mixed Martial Arts",
         "redCountry": "New Zealand",
         "blueCountry": "Japan"
       }
@@ -1922,7 +1922,7 @@
       {
         "redName": "Asadula Imangazaliev",
         "blueName": "Aslamjon Ortikov",
-        "details": "Flyweight Muay Thai World Championship",
+        "details": "Flyweight World Championship",
         "redCountry": "Russia",
         "blueCountry": "Uzbekistan"
       },
@@ -1977,7 +1977,7 @@
       {
         "redName": "Ok Rae Yoon",
         "blueName": "Lucas Gabriel",
-        "details": "Lightweight MMA",
+        "details": "Lightweight Mixed Martial Arts",
         "redCountry": "South Korea",
         "blueCountry": "Brazil"
       },
@@ -2012,7 +2012,7 @@
       {
         "redName": "Karen Ghazaryan",
         "blueName": "Hisashi Ezaki",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redCountry": "Armenia",
         "blueCountry": "Japan"
       },
@@ -2026,7 +2026,7 @@
       {
         "redName": "Paul Elliott",
         "blueName": "Regan Upshaw",
-        "details": "Heavyweight MMA",
+        "details": "Heavyweight Mixed Martial Arts",
         "redCountry": "United Kingdom",
         "blueCountry": "United States"
       }
@@ -2088,7 +2088,7 @@
       {
         "redName": "Alexandre Khan",
         "blueName": "Go Todoroki",
-        "details": "Featherweight MMA",
+        "details": "Featherweight Mixed Martial Arts",
         "redCountry": "France / Thailand",
         "blueCountry": "Japan"
       },
@@ -2109,21 +2109,21 @@
       {
         "redName": "Min Sung Kang",
         "blueName": "Yusei Iwakura",
-        "details": "Lightweight MMA",
+        "details": "Lightweight Mixed Martial Arts",
         "redCountry": null,
         "blueCountry": "Japan"
       },
       {
         "redName": "Joshua Pacio",
         "blueName": "Mansur Malachiev",
-        "details": "Strawweight MMA World Championship",
+        "details": "Strawweight World Championship",
         "redCountry": "Philippines",
         "blueCountry": "Russia"
       },
       {
         "redName": "Eduard Folayang",
         "blueName": "Shozo Isojima",
-        "details": "Lightweight MMA",
+        "details": "Lightweight Mixed Martial Arts",
         "redCountry": "Philippines",
         "blueCountry": "Japan"
       },
@@ -2213,7 +2213,7 @@
       {
         "redName": "Jonathan Di Bella",
         "blueName": "Zhang Peimian",
-        "details": "Strawweight Kickboxing World Championship",
+        "details": "Strawweight World Championship",
         "redCountry": "Canada / Italy",
         "blueCountry": "China"
       },
@@ -2275,14 +2275,14 @@
       {
         "redName": "Lito Adiwang",
         "blueName": "Antonio Cesar",
-        "details": "Flyweight MMA",
+        "details": "Flyweight Mixed Martial Arts",
         "redCountry": "Philippines",
         "blueCountry": "Brazil"
       },
       {
         "redName": "Jihin Radzuan",
         "blueName": "Anastasia Nikolakakos",
-        "details": "Atomweight MMA",
+        "details": "Atomweight Mixed Martial Arts",
         "redCountry": "Malaysia",
         "blueCountry": "Canada"
       },
@@ -2296,7 +2296,7 @@
       {
         "redName": "Bokang Masunyane",
         "blueName": "Lee Seung Cheol",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redCountry": "South Africa",
         "blueCountry": "South Korea"
       },
@@ -2310,14 +2310,14 @@
       {
         "redName": "Ayaka Miura",
         "blueName": "Victoria Souza",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redCountry": "Japan",
         "blueCountry": "Brazil"
       },
       {
         "redName": "Sanzhar Zakirov",
         "blueName": "Ruslan Satiev",
-        "details": "Flyweight MMA",
+        "details": "Flyweight Mixed Martial Arts",
         "redCountry": "Uzbekistan",
         "blueCountry": "Russia"
       }
@@ -2335,7 +2335,7 @@
     "status": "CONFIRMED",
     "bouts": [
       {
-        "redName": "Pompet Pongsuphan PK",
+        "redName": "Pompet PongSuphan PK",
         "blueName": "Nat Khat Min",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
@@ -2372,7 +2372,7 @@
       {
         "redName": "O'Neal Thompson",
         "blueName": "Jason Chen",
-        "details": "Featherweight MMA",
+        "details": "Featherweight Mixed Martial Arts",
         "redCountry": "South Africa",
         "blueCountry": "Taipei, China"
       },
@@ -2393,14 +2393,14 @@
       {
         "redName": "Jay De Villa",
         "blueName": "Myke Ohura",
-        "details": "Featherweight MMA",
+        "details": "Featherweight Mixed Martial Arts",
         "redCountry": "Philippines",
         "blueCountry": "Japan"
       },
       {
         "redName": "Sam-A Gaiyanghadao",
         "blueName": "Aliff Sor Dechapan",
-        "details": "Interim Strawweight Muay Thai World Championship",
+        "details": "Interim Strawweight World Championship",
         "redCountry": "Thailand",
         "blueCountry": "Malaysia / Thailand"
       },
@@ -2497,7 +2497,7 @@
       {
         "redName": "Philemon Bitrus Jeb",
         "blueName": "Kevin Perdomo",
-        "details": "Featherweight MMA",
+        "details": "Featherweight Mixed Martial Arts",
         "redCountry": "Nigeria",
         "blueCountry": "Spain"
       },
@@ -2511,7 +2511,7 @@
       {
         "redName": "Enkh-Orgil Baatarkhuu",
         "blueName": "Elbek Alyshov",
-        "details": "Bantamweight MMA World Championship",
+        "details": "Bantamweight World Championship",
         "redCountry": "Mongolia",
         "blueCountry": "Azerbaijan / Russia"
       },
@@ -2684,7 +2684,7 @@
       {
         "redName": "Keito Yamakita",
         "blueName": "Koyuru Tanoue",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redCountry": "Japan",
         "blueCountry": "Japan"
       },
@@ -2712,7 +2712,7 @@
       {
         "redName": "Subaru Mori",
         "blueName": "Yusuke Sato",
-        "details": "Lightweight MMA",
+        "details": "Lightweight Mixed Martial Arts",
         "redCountry": "Japan",
         "blueCountry": "Japan"
       }
@@ -2774,7 +2774,7 @@
       {
         "redName": "Batochir Batsaikhan",
         "blueName": "Mirmehti Miriyev",
-        "details": "Bantamweight MMA",
+        "details": "Bantamweight Mixed Martial Arts",
         "redCountry": "Mongolia",
         "blueCountry": "Azerbaijan"
       },
@@ -2788,7 +2788,7 @@
       {
         "redName": "Chi Lu Lee",
         "blueName": "Kenya Yamada",
-        "details": "Bantamweight MMA",
+        "details": "Bantamweight Mixed Martial Arts",
         "redCountry": "Taipei, China",
         "blueCountry": "Japan"
       },
@@ -2938,7 +2938,7 @@
       {
         "redName": "Nauris Bartoska",
         "blueName": "Patrick Hill",
-        "details": "Bantamweight MMA",
+        "details": "Bantamweight Mixed Martial Arts",
         "redCountry": "Ireland / Lithuania",
         "blueCountry": "Australia"
       },
@@ -3070,7 +3070,7 @@
       {
         "redName": "Geun Ho Son",
         "blueName": "Ryoto Nishiyama",
-        "details": "Flyweight MMA",
+        "details": "Flyweight Mixed Martial Arts",
         "redCountry": "South Korea",
         "blueCountry": "Japan"
       },
@@ -3091,7 +3091,7 @@
       {
         "redName": "Isannuea Sor Sasiwat",
         "blueName": "Ubaid Hussain",
-        "details": "Flyweight Muay Thai",
+        "details": "Openweight Muay Thai",
         "redCountry": "Thailand",
         "blueCountry": "Pakistan / United Kingdom"
       },
@@ -3286,7 +3286,7 @@
     "bouts": [
       {
         "redName": "Yodlekpet Or Atchariya",
-        "blueName": "Pompet Pongsuphan PK",
+        "blueName": "Pompet PongSuphan PK",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
         "blueCountry": "Thailand"
@@ -3336,7 +3336,7 @@
       {
         "redName": "Rambolek Chor Ajalaboon",
         "blueName": "Yod-IQ Or Pimolsri",
-        "details": "Bantamweight Muay Thai World Championship",
+        "details": "Bantamweight World Championship",
         "redCountry": "Thailand",
         "blueCountry": "Thailand"
       },
@@ -3507,7 +3507,7 @@
       {
         "redName": "Shamil Erdogan",
         "blueName": "Paul Elliott",
-        "details": "Heavyweight MMA",
+        "details": "Heavyweight Mixed Martial Arts",
         "redCountry": "Turkey",
         "blueCountry": "United Kingdom"
       },
@@ -3556,14 +3556,14 @@
       {
         "redName": "Jonathan Haggerty",
         "blueName": "Hiroki Akimoto",
-        "details": "Bantamweight Kickboxing World Championship",
+        "details": "Bantamweight World Championship",
         "redCountry": "United Kingdom",
         "blueCountry": "Japan"
       },
       {
         "redName": "Nadaka",
         "blueName": "Rifdean Masdor",
-        "details": "Atomweight Muay Thai World Championship",
+        "details": "Atomweight World Championship",
         "redCountry": "Japan",
         "blueCountry": "Malaysia"
       },
@@ -3591,7 +3591,7 @@
       {
         "redName": "Itsuki Hirata",
         "blueName": "Jihin Radzuan",
-        "details": "Atomweight MMA",
+        "details": "Atomweight Mixed Martial Arts",
         "redCountry": "Japan",
         "blueCountry": "Malaysia"
       },
@@ -3669,7 +3669,7 @@
       {
         "redName": "Joshua Pacio",
         "blueName": "Keito Yamakita",
-        "details": "Strawweight MMA World Championship",
+        "details": "Strawweight World Championship",
         "redCountry": "Philippines",
         "blueCountry": "Japan"
       }
