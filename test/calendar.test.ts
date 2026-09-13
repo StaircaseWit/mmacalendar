@@ -4,7 +4,7 @@ import { parseAthletePage, parseEventPage, parseEventsListing } from "../src/ufc
 import { renderCalendar, renderCombinedCalendar, renderEstimatedFightCalendar } from "../src/ics.js";
 import { applyCancellationOverrides, reconcileEvents } from "../src/events.js";
 import { ageOnDate, countryFlags, decimalOdds, describeWeightClass, flagEmoji, shortFighterName, unicodeBold } from "../src/utils.js";
-import { attachStoredOdds, discardPostStartBestFightOddsSnapshots, oddsRefreshIsDue, updateOddsStore, updateOddsStoreFromBestFightOdds } from "../src/odds.js";
+import { attachStoredOdds, discardPostStartBestFightOddsSnapshots, oddsRefreshIsDue, pruneUfcOddsStore, updateOddsStore, updateOddsStoreFromBestFightOdds } from "../src/odds.js";
 import { describeOneBout, mergeOneEvents, parseOneCalendar, parseOneEventPage, parseOneEventsListing, parseOneFighterPage, renderOneCalendar } from "../src/one.js";
 import { describeRizinBout, mergeRizinEvents, parseRizinCardPage, parseRizinEventListing, parseRizinEventPage, parseRizinFighterPage, renderRizinCalendar } from "../src/rizin.js";
 import { mergePflEvents, parsePflEventListing, parsePflEventPage, parsePflFighterPage, renderPflCalendar } from "../src/pfl.js";
@@ -20,15 +20,18 @@ import {
   parseBestFightOdds,
   promotionOddsKey,
   promotionOddsForBout,
+  promotionEventKey,
   promotionOddsRefreshIsDue,
+  prunePromotionOddsStore,
   updatePromotionOddsStore,
   type PromotionOddsStore,
 } from "../src/promotion-odds.js";
 import { assertCandidateQuality } from "../src/health.js";
-import { createRevisionProvider, emptyRevisionStore } from "../src/revision.js";
+import { createRevisionProvider, emptyRevisionStore, pruneRevisionStore } from "../src/revision.js";
 import { validateCalendar } from "../src/validate.js";
 import { renderCalendarDescription, renderCalendarFeed } from "../src/calendar-renderer.js";
 import type { CalendarDescriptionModel, CalendarEventModel } from "../src/calendar-model.js";
+import { eventHistoryCutoff, isWithinEventHistory, pruneRecordToKeys } from "../src/retention.js";
 import type { EventStore, OddsStore } from "../src/types.js";
 
 const eventHtml = `
@@ -136,6 +139,74 @@ test("renders every promotion through the shared calendar model", () => {
   assert.ok(output.split("\r\n").every((line) => Buffer.byteLength(line, "utf8") <= 75));
 });
 
+test("caps promotion history and orphaned cache data at one year", () => {
+  const now = new Date("2026-09-13T12:00:00Z");
+  assert.equal(eventHistoryCutoff(now).toISOString(), "2025-09-13T12:00:00.000Z");
+  assert.equal(eventHistoryCutoff(new Date("2028-02-29T12:00:00Z")).toISOString(), "2027-02-28T12:00:00.000Z");
+  assert.equal(isWithinEventHistory(new Date("2025-09-13T12:00:00Z"), now), true);
+  assert.equal(isWithinEventHistory(new Date("2025-09-13T11:59:59Z"), now), false);
+
+  const oneBase = parseOneCalendar(`BEGIN:VCALENDAR\r\nBEGIN:VEVENT\r\nUID:base\r\nDTSTART:20261001T120000Z\r\nDTEND:20261001T180000Z\r\nSUMMARY:ONE Test\r\nDESCRIPTION:A vs. B | MMA | Flyweight\r\nEND:VEVENT\r\nEND:VCALENDAR\r\n`)[0]!;
+  const retainedOne = { ...oneBase, uid: "one-retained", start: "20250913T120000Z", end: "20250913T180000Z" };
+  const expiredOne = { ...oneBase, uid: "one-expired", start: "20250913T115959Z", end: "20250913T175959Z" };
+  assert.deepEqual(mergeOneEvents([expiredOne, retainedOne], [], now).map(({ uid }) => uid), ["one-retained"]);
+
+  const rizinBase = {
+    uid: "rizin-retained", date: "2025-09-13", start: null, end: null,
+    summary: "RIZIN Test", location: "", url: "https://example.test/rizin",
+    status: "TENTATIVE" as const, timeIsTentative: true, bouts: [], cancelledBouts: [],
+  };
+  assert.deepEqual(mergeRizinEvents([
+    { ...rizinBase, uid: "rizin-expired", date: "2025-09-12" },
+    rizinBase,
+  ], [], now).map(({ uid }) => uid), ["rizin-retained"]);
+
+  const pflBase = {
+    uid: "pfl-retained", date: "2025-09-13", start: null, end: null,
+    summary: "PFL Test", location: "", url: "https://example.test/pfl",
+    status: "TENTATIVE" as const, bouts: [], cancelledBouts: [],
+  };
+  assert.deepEqual(mergePflEvents([
+    { ...pflBase, uid: "pfl-expired", date: "2025-09-12" },
+    pflBase,
+  ], [], now).map(({ uid }) => uid), ["pfl-retained"]);
+
+  const ufcOdds: OddsStore = {
+    lastCheckedAt: null,
+    fights: { "retained::a--b": [], "expired::c--d": [] },
+  };
+  pruneUfcOddsStore(ufcOdds, new Set(["retained"]));
+  assert.deepEqual(Object.keys(ufcOdds.fights), ["retained::a--b"]);
+
+  const promotionOdds: PromotionOddsStore = {
+    lastCheckedAt: null,
+    fights: {
+      "one::retained::a--b": [{
+        checkedAt: now.toISOString(), eventName: "Retained", sourceUrl: "https://example.test/odds",
+        promotion: "one", eventId: "retained", odds: {}, names: {},
+      }],
+      "one::expired::c--d": [{
+        checkedAt: now.toISOString(), eventName: "Expired", sourceUrl: "https://example.test/odds",
+        promotion: "one", eventId: "expired", odds: {}, names: {},
+      }],
+    },
+  };
+  prunePromotionOddsStore(promotionOdds, new Set([promotionEventKey("one", "retained")]));
+  assert.deepEqual(Object.keys(promotionOdds.fights), ["one::retained::a--b"]);
+
+  const revisions = emptyRevisionStore();
+  const usedRevisionKeys = new Set<string>();
+  const revisionProvider = createRevisionProvider(revisions, now, usedRevisionKeys);
+  revisionProvider("retained", { value: 1 });
+  createRevisionProvider(revisions, now)("expired", { value: 2 });
+  pruneRevisionStore(revisions, usedRevisionKeys);
+  assert.deepEqual(Object.keys(revisions.events), ["retained"]);
+
+  const profiles = { retained: { checkedAt: now.toISOString() }, expired: { checkedAt: now.toISOString() } };
+  pruneRecordToKeys(profiles, new Set(["retained"]));
+  assert.deepEqual(Object.keys(profiles), ["retained"]);
+});
+
 test("keeps a bounded window of historical events", () => {
   const listing = `<div class="c-card-event--result"><div class="c-card-event--result__date" data-main-card-timestamp="1789156800"></div><div class="c-card-event--result__headline"><a href="/event/recent">Recent</a></div></div>
   <div class="c-card-event--result"><div class="c-card-event--result__date" data-main-card-timestamp="1777944000"></div><div class="c-card-event--result__headline"><a href="/event/too-old">Old</a></div></div>`;
@@ -192,15 +263,19 @@ test("keeps established UFC fighter profile links when live card markup changes"
   assert.equal(events[0].sections[0].fights[0].red.profileUrl, "https://www.ufc.com/athlete/jean-silva");
 });
 
-test("keeps completed events permanently when they leave the UFC listing", () => {
+test("keeps completed UFC events for one year, then removes them", () => {
   const store: EventStore = { events: {} };
   const event = parseEventPage(eventHtml, "https://www.ufc.com/event/noche-test");
   reconcileEvents(store, [event], new Date("2026-09-12T12:00:00Z"));
 
-  const retained = reconcileEvents(store, [], new Date("2028-09-12T12:00:00Z"));
+  const retained = reconcileEvents(store, [], new Date("2027-09-12T17:59:00Z"));
   assert.equal(retained.length, 1);
   assert.equal(retained[0].title, "Noche UFC: Silva vs Delgado");
   assert.equal(retained[0].scheduleStatus?.state, "scheduled");
+
+  const expired = reconcileEvents(store, [], new Date("2027-09-12T18:01:00Z"));
+  assert.equal(expired.length, 0);
+  assert.deepEqual(store.events, {});
 });
 
 test("retains bouts that disappear from an active UFC card", () => {
@@ -373,7 +448,7 @@ test("stores UFC odds from BestFightOdds using official fighter names", () => {
   assert.equal(Object.values(store.fights)[0]!.length, 1);
 });
 
-test("formats ONE Championship's official calendar as a permanent detailed feed", () => {
+test("formats ONE Championship's official calendar as a detailed feed", () => {
   const source = `BEGIN:VCALENDAR\r\nBEGIN:VEVENT\r\nUID:official-uid\r\nDTSTART:20260912T003000Z\r\nDTEND:20260912T063000Z\r\nSUMMARY:ONE SAMURAI 3\r\nLOCATION:Yokohama Buntai\\, Yokohama\r\nDESCRIPTION:Watch at https://watch.onefc.com/events/one-samurai-3\\n\\nNadaka vs. Har Ling Om | Kickboxing | Atomweight\\n\\nYuya Wakamatsu vs. Willie van Rooyen | Mixed Martial Arts | Flyweight\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:Reminder\r\nEND:VALARM\r\nURL;VALUE=URI:https://watch.onefc.com/events/one-samurai-3\r\nSTATUS:CONFIRMED\r\nX-UID:stable-one-id\r\nEND:VEVENT\r\nEND:VCALENDAR\r\n`;
   const parsed = parseOneCalendar(source);
   assert.equal(parsed.length, 1);
@@ -391,7 +466,10 @@ test("formats ONE Championship's official calendar as a permanent detailed feed"
   assert.equal(describeOneBout("102 LBS Muay Thai"), "102lbs/46.3kg Muay Thai");
 
   const historical = { ...parsed[0], uid: "older", start: "20250912T003000Z" };
-  assert.deepEqual(mergeOneEvents([historical], parsed).map(({ uid }) => uid), ["older", "stable-one-id"]);
+  assert.deepEqual(
+    mergeOneEvents([historical], parsed, new Date("2026-09-12T00:00:00Z")).map(({ uid }) => uid),
+    ["older", "stable-one-id"],
+  );
 });
 
 test("adds official ONE Championship country flags to matching bouts", () => {
@@ -584,7 +662,7 @@ test("discovers PFL events and converts published card times to UTC", () => {
   assert.equal(event.bouts[0]!.details, "125lbs/57kg Women's Flyweight · Semifinal");
 });
 
-test("formats PFL fighter details and permanently tracks removed bouts", () => {
+test("formats PFL fighter details and tracks removed bouts", () => {
   const profile = parsePflFighterPage(`<script type="application/ld+json">${JSON.stringify({
     "@graph": [{
       "@type": "Person",

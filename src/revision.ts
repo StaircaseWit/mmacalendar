@@ -40,8 +40,13 @@ export function contentHash(content: unknown): string {
   return createHash("sha256").update(JSON.stringify(canonical(content))).digest("hex");
 }
 
-export function createRevisionProvider(store: RevisionStore, now: Date): RevisionProvider {
+export function createRevisionProvider(
+  store: RevisionStore,
+  now: Date,
+  usedKeys?: Set<string>,
+): RevisionProvider {
   return (key, content) => {
+    usedKeys?.add(key);
     const hash = contentHash(content);
     const previous = store.events[key];
     if (!previous) {
@@ -68,7 +73,13 @@ export function createRevisionProvider(store: RevisionStore, now: Date): Revisio
   };
 }
 
+export function pruneRevisionStore(store: RevisionStore, usedKeys: ReadonlySet<string>): RevisionStore {
+  for (const key of Object.keys(store.events ?? {})) {
+    if (!usedKeys.has(key)) delete store.events[key];
+  }
+  return store;
+}
+
 export function fallbackRevision(date: Date): RevisionMetadata {
   return { sequence: 0, createdAt: date, lastModified: date };
 }
-

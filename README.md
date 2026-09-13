@@ -38,7 +38,7 @@ The standard calendar description uses the `🥊` marker, bout order, and bold U
 ## Update policy
 
 - The workflow checks event and card details every Monday and Friday at 06:17 UTC.
-- Once an event has been discovered, it remains in the feed permanently. This preserves an expanding archive rather than a rolling window.
+- Once an event has been discovered, it remains in the feed for one year after its start time. Older events and their orphaned cache records are removed automatically so the repository stays bounded.
 - Fighter records, birth dates, and family names are cached for seven days. Birth dates are used only to calculate age on the event date.
 - Available UFC, ONE Championship, RIZIN and PFL moneylines come from BestFightOdds. They are checked every Monday and Friday and shown in American and decimal formats. A history row is added only when a line changes.
 - `data/odds-history.json` stores only the first snapshot and subsequent changes. The same history appears in each relevant calendar entry and in `docs/odds-history.html`.
@@ -55,6 +55,7 @@ The standard calendar description uses the `🥊` marker, bout order, and bold U
 - Odds are keyed by promotion, event, and matchup. Rematches therefore keep separate histories, and ambiguous bookmaker matches are ignored instead of guessed.
 - Calendar `SEQUENCE` and `LAST-MODIFIED` values change only when that specific event changes. Routine workflow runs no longer make every calendar entry look newly edited.
 - All six generated calendars are parsed and validated before publication. `docs/status.json` reports source freshness, fallback use, feed sizes, and validation results; a degraded source is published safely and then marks the workflow as failed so GitHub can notify the maintainer.
+- A shared one-year retention policy applies to every promotion. Event snapshots, event-specific odds and revision records are pruned together, while reusable fighter profiles remain only when referenced by a retained event.
 
 ## Architecture
 

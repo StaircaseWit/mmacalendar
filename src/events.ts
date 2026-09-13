@@ -7,6 +7,7 @@ import type {
   UfcEvent,
 } from "./types.js";
 import { normalizedName } from "./utils.js";
+import { isWithinEventHistory } from "./retention.js";
 
 function boutKey(redName: string, blueName: string): string {
   return [normalizedName(redName), normalizedName(blueName)].sort().join("--");
@@ -117,6 +118,12 @@ function eventStart(event: UfcEvent): Date | null {
     .sort((left, right) => left.valueOf() - right.valueOf())[0] ?? event.heroStart;
 }
 
+export function pruneUfcEventHistory(store: EventStore, now = new Date()): void {
+  for (const [slug, tracked] of Object.entries(store.events ?? {})) {
+    if (!isWithinEventHistory(eventStart(hydrateEvent(tracked.event)), now)) delete store.events[slug];
+  }
+}
+
 export function serializeEvent(event: UfcEvent): StoredUfcEvent {
   const { scheduleStatus: _scheduleStatus, ...rest } = event;
   return {
@@ -189,11 +196,13 @@ export function reconcileEvents(
   { trackMissing = true }: { trackMissing?: boolean } = {},
 ): UfcEvent[] {
   store.events ??= {};
+  pruneUfcEventHistory(store, now);
   const checkedAt = now.toISOString();
   const seen = new Set<string>();
   const output: UfcEvent[] = [];
 
   for (const event of currentEvents) {
+    if (!isWithinEventHistory(eventStart(event), now)) continue;
     const sourceSlug = event.slug;
     const matched = store.events[sourceSlug]
       ? [sourceSlug, store.events[sourceSlug]!] as [string, TrackedEvent]
@@ -255,7 +264,8 @@ export function reconcileEvents(
   return output.sort((left, right) => (eventStart(left)?.valueOf() ?? Infinity) - (eventStart(right)?.valueOf() ?? Infinity));
 }
 
-export function cachedEvents(store: EventStore): UfcEvent[] {
+export function cachedEvents(store: EventStore, now = new Date()): UfcEvent[] {
+  pruneUfcEventHistory(store, now);
   return Object.values(store.events)
     .map((tracked) => attachStatus(hydrateEvent(tracked.event), tracked, tracked.lastSeenAt))
     .sort((left, right) => (eventStart(left)?.valueOf() ?? Infinity) - (eventStart(right)?.valueOf() ?? Infinity));

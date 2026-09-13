@@ -15,6 +15,7 @@ import type {
   CalendarEventModel,
 } from "./calendar-model.js";
 import { calendarUtc, renderCalendarDescription, renderCalendarFeed } from "./calendar-renderer.js";
+import { retainEventHistory } from "./retention.js";
 
 export const RIZIN_EVENTS_URL = "https://jp.rizinff.com/_tags/%E5%A4%A7%E4%BC%9A%E6%83%85%E5%A0%B1?fr=rel";
 
@@ -383,10 +384,11 @@ function boutKey(bout: RizinBout): string {
 }
 
 export function mergeRizinEvents(storedEvents: RizinEvent[], currentEvents: RizinEvent[], now = new Date()): RizinEvent[] {
-  const merged = new Map(storedEvents.map((event) => [event.uid, event]));
-  for (const current of currentEvents) {
+  const retainedStoredEvents = retainEventHistory(storedEvents, rizinStartDate, now);
+  const merged = new Map(retainedStoredEvents.map((event) => [event.uid, event]));
+  for (const current of retainEventHistory(currentEvents, rizinStartDate, now)) {
     const stored = merged.get(current.uid) ?? (() => {
-      const candidates = storedEvents.filter((event) =>
+      const candidates = retainedStoredEvents.filter((event) =>
         normalizedName(event.summary) === normalizedName(current.summary)
         && Math.abs(new Date(`${event.date}T00:00:00Z`).valueOf() - new Date(`${current.date}T00:00:00Z`).valueOf()) <= 14 * 24 * 60 * 60 * 1000
       );

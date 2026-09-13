@@ -24,6 +24,7 @@ import type {
   CalendarEventModel,
 } from "./calendar-model.js";
 import { calendarUtc, renderCalendarDescription, renderCalendarFeed } from "./calendar-renderer.js";
+import { retainEventHistory } from "./retention.js";
 
 export const PFL_EVENTS_URL = "https://pflmma.com/events";
 
@@ -443,10 +444,11 @@ function boutKey(bout: PflBout): string {
 }
 
 export function mergePflEvents(storedEvents: PflEvent[], currentEvents: PflEvent[], now = new Date()): PflEvent[] {
-  const merged = new Map(storedEvents.map((event) => [event.uid, event]));
-  for (const current of currentEvents) {
+  const retainedStoredEvents = retainEventHistory(storedEvents, pflStartDate, now);
+  const merged = new Map(retainedStoredEvents.map((event) => [event.uid, event]));
+  for (const current of retainEventHistory(currentEvents, pflStartDate, now)) {
     const stored = merged.get(current.uid) ?? (() => {
-      const candidates = storedEvents.filter((event) =>
+      const candidates = retainedStoredEvents.filter((event) =>
         normalizedName(event.summary) === normalizedName(current.summary)
         && Math.abs(new Date(`${event.date}T00:00:00Z`).valueOf() - new Date(`${current.date}T00:00:00Z`).valueOf()) <= 14 * 24 * 60 * 60 * 1000
       );

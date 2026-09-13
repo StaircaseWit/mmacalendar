@@ -15,6 +15,7 @@ import type {
   CalendarEventModel,
 } from "./calendar-model.js";
 import { renderCalendarDescription, renderCalendarFeed } from "./calendar-renderer.js";
+import { retainEventHistory } from "./retention.js";
 
 export const ONE_CALENDAR_URL = "https://calendar.onefc.com/ONE-Championship-events.ics";
 export const ONE_EVENTS_URL = "https://www.onefc.com/events/";
@@ -175,9 +176,10 @@ function freezeOneBout(current: OneBout, stored: OneBout | undefined, frozen: bo
 }
 
 export function mergeOneEvents(storedEvents: OneEvent[], currentEvents: OneEvent[], now = new Date()): OneEvent[] {
-  const merged = new Map(storedEvents.map((event) => [event.uid, event]));
-  for (const event of currentEvents) {
-    const stored = merged.get(event.uid) ?? oneAliasCandidate(storedEvents, event);
+  const retainedStoredEvents = retainEventHistory(storedEvents, oneStartDate, now);
+  const merged = new Map(retainedStoredEvents.map((event) => [event.uid, event]));
+  for (const event of retainEventHistory(currentEvents, oneStartDate, now)) {
+    const stored = merged.get(event.uid) ?? oneAliasCandidate(retainedStoredEvents, event);
     const uid = stored?.uid ?? event.uid;
     const frozen = Boolean(stored && oneStartDate(stored) && oneStartDate(stored)! <= now);
     const storedBouts = new Map((stored?.bouts ?? []).map((bout) => [oneBoutKey(bout.redName, bout.blueName), bout]));

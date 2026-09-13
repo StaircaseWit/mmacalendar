@@ -72,6 +72,26 @@ export function promotionOddsKey(
   return `${canonicalOddsName(promotion)}::${canonicalOddsName(eventId)}::${fighterPairKey(redName, blueName)}`;
 }
 
+export function promotionEventKey(promotion: string, eventId: string): string {
+  return `${canonicalOddsName(promotion)}::${canonicalOddsName(eventId)}`;
+}
+
+export function prunePromotionOddsStore(
+  store: PromotionOddsStore,
+  retainedEvents: ReadonlySet<string>,
+): PromotionOddsStore {
+  store.fights ??= {};
+  for (const [key, history] of Object.entries(store.fights)) {
+    const latest = history.at(-1);
+    const promotion = latest?.promotion;
+    const eventId = latest?.eventId;
+    if (promotion && eventId && !retainedEvents.has(promotionEventKey(promotion, eventId))) {
+      delete store.fights[key];
+    }
+  }
+  return store;
+}
+
 function numericOdds(value: string): number {
   return value.toUpperCase() === "EVEN" ? 100 : Number(value);
 }

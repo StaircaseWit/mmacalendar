@@ -10,6 +10,15 @@ export function oddsRefreshIsDue(store: OddsStore, now = new Date()): boolean {
   return Number.isNaN(lastCheck.valueOf()) || now.valueOf() - lastCheck.valueOf() >= 3 * DAY_MS;
 }
 
+export function pruneUfcOddsStore(store: OddsStore, retainedEventSlugs: ReadonlySet<string>): OddsStore {
+  store.fights ??= {};
+  for (const key of Object.keys(store.fights)) {
+    const eventSlug = key.split("::", 1)[0] ?? "";
+    if (!retainedEventSlugs.has(eventSlug)) delete store.fights[key];
+  }
+  return store;
+}
+
 function sourceSnapshot(fight: Fight, checkedAt: string): OddsSnapshot {
   const redKey = normalizedName(fight.red.name);
   const blueKey = normalizedName(fight.blue.name);

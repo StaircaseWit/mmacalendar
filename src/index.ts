@@ -1,7 +1,7 @@
 import { resolve } from "node:path";
 import { discoverUpcomingEventUrls, scrapeEvent } from "./ufc.js";
 import { mapWithConcurrency } from "./utils.js";
-import { attachStoredOdds, discardPostStartBestFightOddsSnapshots, oddsRefreshIsDue, updateOddsStoreFromBestFightOdds } from "./odds.js";
+import { attachStoredOdds, discardPostStartBestFightOddsSnapshots, oddsRefreshIsDue, pruneUfcOddsStore, updateOddsStoreFromBestFightOdds } from "./odds.js";
 import { enrichFighterProfiles } from "./profiles.js";
 import { applyCancellationOverrides, cachedEvents, persistEventSnapshots, reconcileEvents } from "./events.js";
 import { readJson, writeJson, writeText } from "./state.js";
@@ -12,11 +12,13 @@ import { enrichRizinFighters, mergeRizinEvents, renderRizinCalendar, scrapeRizin
 import { enrichPflFighters, mergePflEvents, renderPflCalendar, scrapePflEvents, type PflEvent, type PflFighterStore } from "./pfl.js";
 import {
   promotionOddsForBout,
+  promotionEventKey,
   promotionOddsKey,
   promotionOddsRefreshIsDue,
   compactPromotionOddsStore,
   matchBestFightOddsMarkets,
   migratePromotionOddsStore,
+  prunePromotionOddsStore,
   scrapeBestFightOddsMarkets,
   updatePromotionOddsStore,
   type KnownOddsBout,
@@ -29,8 +31,9 @@ import {
   type CalendarStatus,
   type SourceHealth,
 } from "./health.js";
-import { createRevisionProvider, emptyRevisionStore, type RevisionStore } from "./revision.js";
+import { createRevisionProvider, emptyRevisionStore, pruneRevisionStore, type RevisionStore } from "./revision.js";
 import { assertValidCalendar } from "./validate.js";
+import { pruneRecordToKeys } from "./retention.js";
 import type { CancelledBout, EventStore, FighterStore, OddsStore, UfcEvent } from "./types.js";
 
 const root = process.cwd();
@@ -82,7 +85,7 @@ function isoDate(value: string): Date | null {
 
 const configuredUrls = (process.env.UFC_EVENT_URLS ?? "").split(",").map((value) => value.trim()).filter(Boolean);
 const eventStore = await readJson<EventStore>(eventStorePath, { events: {} });
-const previousUfcEvents = cachedEvents(eventStore);
+const previousUfcEvents = cachedEvents(eventStore, now);
 let events: UfcEvent[];
 try {
   const eventUrls = configuredUrls.length
@@ -147,9 +150,10 @@ persistEventSnapshots(eventStore, events);
 await Promise.all([writeJson(eventStorePath, eventStore), writeJson(fighterStorePath, fighterStore)]);
 
 const oddsStore = await readJson<OddsStore>(oddsStorePath, { lastCheckedAt: null, fights: {} });
+pruneUfcOddsStore(oddsStore, new Set(events.map(({ slug }) => slug)));
 discardPostStartBestFightOddsSnapshots(events, oddsStore);
 
-const storedOneEvents = await readJson<OneEvent[]>(oneEventStorePath, []);
+const storedOneEvents = mergeOneEvents(await readJson<OneEvent[]>(oneEventStorePath, []), [], now);
 const oneFighterStore = await readJson<OneFighterStore>(oneFighterStorePath, { profiles: {} });
 let oneEvents = storedOneEvents;
 try {
@@ -172,7 +176,7 @@ try {
   console.warn(`Keeping the last-known-good ONE Championship calendar: ${sourceErrorMessage(error)}`);
 }
 
-const storedRizinEvents = await readJson<RizinEvent[]>(rizinEventStorePath, []);
+const storedRizinEvents = mergeRizinEvents(await readJson<RizinEvent[]>(rizinEventStorePath, []), [], now);
 const rizinFighterStore = await readJson<RizinFighterStore>(rizinFighterStorePath, { profiles: {} });
 let rizinEvents = storedRizinEvents;
 try {
@@ -198,7 +202,7 @@ try {
   console.warn(`Keeping the last-known-good RIZIN calendar: ${sourceErrorMessage(error)}`);
 }
 
-const storedPflEvents = await readJson<PflEvent[]>(pflEventStorePath, []);
+const storedPflEvents = mergePflEvents(await readJson<PflEvent[]>(pflEventStorePath, []), [], now);
 const pflFighterStore = await readJson<PflFighterStore>(pflFighterStorePath, { profiles: {} });
 let pflEvents = storedPflEvents;
 try {
@@ -224,6 +228,27 @@ try {
   console.warn(`Keeping the last-known-good PFL calendar: ${sourceErrorMessage(error)}`);
 }
 
+pruneRecordToKeys(fighterStore.fighters, new Set(events.flatMap((event) =>
+  event.sections.flatMap((section) => section.fights.flatMap((fight) =>
+    [fight.red.profileUrl, fight.blue.profileUrl].filter((url): url is string => Boolean(url))
+  ))
+)));
+pruneRecordToKeys(oneFighterStore.profiles, new Set(oneEvents.flatMap((event) =>
+  event.bouts.flatMap((bout) =>
+    [bout.redProfileUrl, bout.blueProfileUrl].filter((url): url is string => Boolean(url))
+  )
+)));
+pruneRecordToKeys(rizinFighterStore.profiles, new Set(rizinEvents.flatMap((event) =>
+  [...event.bouts, ...event.cancelledBouts].flatMap((bout) =>
+    [bout.red.profileUrl, bout.blue.profileUrl].filter((url): url is string => Boolean(url))
+  )
+)));
+pruneRecordToKeys(pflFighterStore.profiles, new Set(pflEvents.flatMap((event) =>
+  [...event.bouts, ...event.cancelledBouts].flatMap((bout) =>
+    [bout.red.profileUrl, bout.blue.profileUrl].filter((url): url is string => Boolean(url))
+  )
+)));
+
 const knownBouts: KnownOddsBout[] = [
   ...events.flatMap((event) => event.sections.flatMap((section) => section.fights.map((fight) => ({
     promotion: "ufc", eventId: event.slug, eventName: event.title,
@@ -245,6 +270,12 @@ const knownBouts: KnownOddsBout[] = [
 
 const promotionOddsStore = await readJson<PromotionOddsStore>(promotionOddsStorePath, { lastCheckedAt: null, fights: {} });
 migratePromotionOddsStore(promotionOddsStore, knownBouts);
+prunePromotionOddsStore(promotionOddsStore, new Set([
+  ...events.map((event) => promotionEventKey("ufc", event.slug)),
+  ...oneEvents.map((event) => promotionEventKey("one", event.uid)),
+  ...rizinEvents.map((event) => promotionEventKey("rizin", event.uid)),
+  ...pflEvents.map((event) => promotionEventKey("pfl", event.uid)),
+]));
 compactPromotionOddsStore(promotionOddsStore);
 if (oddsRefreshIsDue(oddsStore, now) || promotionOddsRefreshIsDue(promotionOddsStore, now)) {
   try {
@@ -326,10 +357,9 @@ for (const event of pflEvents) {
     bout.oddsHistory = odds.oddsHistory;
   }
 }
-await Promise.all([writeJson(oddsStorePath, oddsStore), writeJson(promotionOddsStorePath, promotionOddsStore)]);
-
 const revisionStore = await readJson<RevisionStore>(revisionStorePath, emptyRevisionStore());
-const revisionProvider = createRevisionProvider(revisionStore, now);
+const usedRevisionKeys = new Set<string>();
+const revisionProvider = createRevisionProvider(revisionStore, now, usedRevisionKeys);
 const calendarOptions = {
   generatedAt: now,
   publicBaseUrl: process.env.PUBLIC_BASE_URL ?? "",
@@ -347,6 +377,7 @@ const feeds = new Map<string, string>([
 ]);
 const feedHealth: CalendarStatus["feeds"] = {};
 for (const [name, contents] of feeds) feedHealth[name] = assertValidCalendar(name, contents);
+pruneRevisionStore(revisionStore, usedRevisionKeys);
 const status: CalendarStatus = {
   schemaVersion: 1,
   generatedAt: now.toISOString(),
@@ -363,6 +394,16 @@ await Promise.all([
   writeJson(resolve(outputDirectory, "status.json"), status),
   writeJson(statusStorePath, status),
   writeJson(revisionStorePath, revisionStore),
+  writeJson(eventStorePath, eventStore),
+  writeJson(fighterStorePath, fighterStore),
+  writeJson(oneEventStorePath, oneEvents),
+  writeJson(oneFighterStorePath, oneFighterStore),
+  writeJson(rizinEventStorePath, rizinEvents),
+  writeJson(rizinFighterStorePath, rizinFighterStore),
+  writeJson(pflEventStorePath, pflEvents),
+  writeJson(pflFighterStorePath, pflFighterStore),
+  writeJson(oddsStorePath, oddsStore),
+  writeJson(promotionOddsStorePath, promotionOddsStore),
 ]);
 
 const sectionCount = events.reduce((total, event) => total + event.sections.filter((section) => section.start).length, 0);
