@@ -11,6 +11,7 @@
   "scripts": {
     "build": "tsc",
     "generate": "tsc && node dist/src/index.js",
+    "preview": "tsc && node dist/src/tools/preview.js",
     "test": "tsc && node --test dist/test/*.test.js",
     "typecheck": "tsc --noEmit"
   },

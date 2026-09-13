@@ -1,0 +1,30 @@
+{
+  "ufc": [
+    {
+      "uid": "fixture-ufc-combined@ufc-detailed-calendar",
+      "summary": "Fixture UFC: Alpha vs Bravo",
+      "semanticHash": "138f5cf47f6c8309e3bcdbcb72561949189643a9db18c640b8dc3ad1068e8eee"
+    }
+  ],
+  "one": [
+    {
+      "uid": "fixture-one@mma-calendar-one",
+      "summary": "ONE Fixture 1",
+      "semanticHash": "1d4a38a8f33e0fa6afd75f1cad46820a1644a4112cd46b55c67955ef1b15efe0"
+    }
+  ],
+  "rizin": [
+    {
+      "uid": "/_ct/fixture-rizin@mma-calendar-rizin",
+      "summary": "RIZIN FIXTURE 1",
+      "semanticHash": "1dfafae628ac2ae02842ec2f6f24b84fad8d879b5465de29b0bcf5afa8f0ba0e"
+    }
+  ],
+  "pfl": [
+    {
+      "uid": "pfl-fixture-1@mma-calendar-pfl",
+      "summary": "PFL Fixture 1",
+      "semanticHash": "c12370f204e293e8b34cbebe6059ca8d1236f72e5343fdffbcc1fd0f75e3ed38"
+    }
+  ]
+}

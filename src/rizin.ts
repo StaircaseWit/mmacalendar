@@ -1,21 +1,11 @@
 import * as cheerio from "cheerio";
 import type { AnyNode } from "domhandler";
 import { fetchText } from "./http.js";
-import { absoluteUrl, ageOnDate, cleanText, flagEmoji, mapWithConcurrency, normalizedName } from "./utils.js";
-import {
-  BEST_FIGHT_ODDS_URL,
-  formatPromotionOdds,
-  promotionOddsHistoryRows,
-  type PromotionOddsSnapshot,
-} from "./promotion-odds.js";
-import type { RevisionProvider } from "./revision.js";
-import type {
-  CalendarBoutModel,
-  CalendarDescriptionModel,
-  CalendarEventModel,
-} from "./calendar-model.js";
-import { calendarUtc, renderCalendarDescription, renderCalendarFeed } from "./calendar-renderer.js";
+import { absoluteUrl, cleanText, mapWithConcurrency, normalizedName } from "./utils.js";
+import type { PromotionOddsSnapshot } from "./promotion-odds.js";
+import { calendarUtc } from "./calendar-renderer.js";
 import { retainEventHistory } from "./retention.js";
+import { rizinDivisionForKilograms } from "./promotions/rizin/divisions.js";
 
 export const RIZIN_EVENTS_URL = "https://jp.rizinff.com/_tags/%E5%A4%A7%E4%BC%9A%E6%83%85%E5%A0%B1?fr=rel";
 
@@ -195,18 +185,6 @@ const DIVISIONS: Array<[RegExp, string]> = [
   [/ヘビー級/, "Heavyweight"],
 ];
 
-const DIVISION_BY_WEIGHT = new Map([
-  ["49", "Women's Super Atomweight"],
-  ["57", "Flyweight"],
-  ["61", "Bantamweight"],
-  ["66", "Featherweight"],
-  ["71", "Lightweight"],
-  ["77", "Welterweight"],
-  ["84", "Middleweight"],
-  ["93", "Light Heavyweight"],
-  ["120", "Heavyweight"],
-]);
-
 function boutDetails(lines: string[], sectionText: string): string {
   const rule = lines.find((line) => line.includes("ルール")) ?? "";
   const weight = rule.match(/[（(]([\d.]+)kg[）)]/)?.[1]?.replace(/\.0$/, "");
@@ -219,7 +197,7 @@ function boutDetails(lines: string[], sectionText: string): string {
         ? "RIZIN Standing Bout"
         : "RIZIN rules";
   const division = DIVISIONS.find(([pattern]) => pattern.test(sectionText))?.[1]
-    ?? (weight ? DIVISION_BY_WEIGHT.get(weight) : undefined);
+    ?? (weight ? rizinDivisionForKilograms(weight) : undefined);
   const weightLabel = weight
     ? `${weight}kg${division ? ` ${division}` : " Catchweight"}`
     : division;
@@ -443,110 +421,4 @@ export async function scrapeRizinEvents(now = new Date(), options: { pastDays?: 
   return events;
 }
 
-function shortName(name: string): string {
-  return cleanText(name).split(" ").at(-1) || name;
-}
-
-function rizinFighterFacts(fighter: RizinFighter, eventDate: string, opponentOdds: string | null | undefined): string[] {
-  const age = ageOnDate(fighter.birthDate, new Date(`${eventDate}T12:00:00Z`));
-  const odds = formatPromotionOdds(fighter.odds, opponentOdds);
-  return [fighter.record ? `RIZIN ${fighter.record}` : null, age === null ? null : `${age}yo`, fighter.style, odds]
-    .filter((value): value is string => Boolean(value));
-}
-
-export function describeRizinBout(details: string): string {
-  let value = cleanText(details);
-  const kilograms = value.match(/^([\d.]+)kg\b/i)?.[1]?.replace(/\.0$/, "");
-  if (kilograms && !/\b(?:Atomweight|Flyweight|Bantamweight|Featherweight|Lightweight|Welterweight|Middleweight|Heavyweight|Catchweight)\b/i.test(value)) {
-    value = value.replace(/^([\d.]+kg)\b/i, `$1 ${DIVISION_BY_WEIGHT.get(kilograms) ?? "Catchweight"}`);
-  }
-  return value.replace(/^([\d.]+)kg\b/i, (match, kilogramsValue: string) => {
-    const pounds = (Number(kilogramsValue) * 2.2046226218).toFixed(1).replace(/\.0$/, "");
-    return `${pounds}lbs/${match}`;
-  });
-}
-
-function rizinDescription(event: RizinEvent): CalendarDescriptionModel {
-  const boutCount = event.bouts.length === 1 ? "1 announced bout" : `${event.bouts.length} announced bouts`;
-  const timing = event.start
-    ? event.timeIsTentative ? "Start time is provisional and will update when RIZIN confirms it." : "Times display automatically in your calendar time zone. End time is approximate."
-    : "Start time has not been announced. This date-only entry will update automatically.";
-  const sections = (["Main Card", "Opening Fights"] as const).flatMap((sectionName) => {
-    const sectionBouts = event.bouts.filter((bout) => bout.section === sectionName);
-    if (!sectionBouts.length) return [];
-    const count = sectionBouts.length === 1 ? "1 bout" : `${sectionBouts.length} bouts`;
-    const bouts: CalendarBoutModel[] = sectionBouts.map((bout) => ({
-      order: bout.order,
-      red: {
-        name: bout.red.name,
-        shortName: shortName(bout.red.name),
-        flag: flagEmoji(bout.red.countryCode),
-        facts: rizinFighterFacts(bout.red, event.date, bout.blue.odds),
-      },
-      blue: {
-        name: bout.blue.name,
-        shortName: shortName(bout.blue.name),
-        flag: flagEmoji(bout.blue.countryCode),
-        facts: rizinFighterFacts(bout.blue, event.date, bout.red.odds),
-      },
-      details: bout.details ? describeRizinBout(bout.details) : undefined,
-      oddsHistoryRows: promotionOddsHistoryRows(bout.oddsHistory, bout.red.name, bout.blue.name),
-    }));
-    return [{ heading: `── ${sectionName.toUpperCase()} · ${count} ──`, bouts }];
-  });
-  const oddsSource = event.bouts.some((bout) => bout.oddsHistory?.length)
-    ? `Odds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked Monday and Friday`
-    : null;
-  return {
-    overview: [
-      `RIZIN Fighting Federation · Complete Event · ${event.bouts.length ? boutCount : "card details to be announced"}`,
-      `📍 ${event.location || "Venue to be announced"}`,
-      timing,
-    ],
-    sections,
-    emptyText: "No bouts announced yet.",
-    cancelledBouts: event.cancelledBouts.map((bout) => ({
-      redName: bout.red.name,
-      blueName: bout.blue.name,
-      note: bout.note ?? "Removed from the official RIZIN card",
-      layout: "stacked",
-    })),
-    footer: [
-      `Source: ${event.cardUrl ?? event.url}`,
-      ...(oddsSource ? [oddsSource] : []),
-    ],
-  };
-}
-
-export function renderRizinCalendar(events: RizinEvent[], generatedAt = new Date(), revisionProvider?: RevisionProvider): string {
-  const calendarEvents: CalendarEventModel[] = events.map((event) => {
-    const description = rizinDescription(event);
-    const descriptionText = renderCalendarDescription(description);
-    return {
-      uid: `${event.uid}@mma-calendar-rizin`,
-      revisionKey: `rizin:${event.uid}`,
-      timing: event.start && event.end
-        ? { kind: "timed", start: event.start, end: event.end }
-        : { kind: "all-day", startDate: event.date },
-      summary: event.summary,
-      description,
-      location: event.location,
-      url: event.url,
-      categories: ["RIZIN Fighting Federation"],
-      status: event.status,
-      revisionContent: {
-        date: event.date, start: event.start, end: event.end, summary: event.summary,
-        description: descriptionText, location: event.location, url: event.url, status: event.status,
-      },
-    };
-  });
-  return renderCalendarFeed({
-    productId: "-//MMA Calendar//RIZIN Fighting Federation//EN",
-    name: "RIZIN Fighting Federation",
-    description: "RIZIN events and announced bouts.",
-    color: "#CF1F2B",
-    events: calendarEvents,
-    generatedAt,
-    revisionProvider,
-  });
-}
+export { describeRizinBout, renderRizinCalendar } from "./promotions/rizin/calendar.js";

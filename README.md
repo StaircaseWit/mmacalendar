@@ -59,9 +59,11 @@ The standard calendar description uses the `🥊` marker, bout order, and bold U
 
 ## Architecture
 
-Each promotion keeps its own source adapter because UFC, ONE Championship, RIZIN and PFL publish different data. After collection and reconciliation, every adapter maps its events, sections, bouts, fighters and cancellations into the same calendar model. A shared renderer then produces the descriptions and iCalendar structure for every feed.
+Each promotion keeps its own source lifecycle because UFC, ONE Championship, RIZIN and PFL publish different data. The lifecycle modules load stored data, collect current data, apply quality gates, enrich fighters, reconcile history and preserve a last-known-good result. Calendar mapping is kept in promotion-specific `calendar.ts` files.
 
-This keeps source-specific parsing isolated while giving all promotions the same formatting, escaping, line folding, revision handling and timed or date-only event behaviour. Adding another promotion requires a source adapter and a mapping into the common model rather than another calendar serializer.
+A central promotion registry then handles the shared work: discovering known bouts for odds matching, retaining event identities, attaching odds and rendering feeds. Every calendar adapter maps its events, sections, bouts, fighters and cancellations into the same calendar model. The shared renderer provides consistent formatting, escaping, line folding, revision handling and timed or date-only event behaviour.
+
+All persisted JSON is validated when it is loaded. A malformed cache now fails with the file and field name rather than reaching a scraper or renderer as partially valid data.
 
 ## Calendar choices
 
@@ -104,8 +106,13 @@ Requires Node.js 20 or newer:
 pnpm install
 pnpm test
 pnpm typecheck
+pnpm preview
 pnpm run generate
 ```
+
+`pnpm preview` is offline: it reads the saved project data, writes candidate feeds and a readable before/after report to `work/calendar-preview`, and does not scrape or publish anything. The report lists added, changed, removed and unchanged calendar entries for each feed.
+
+The test suite also contains saved source fixtures for every promotion. Those fixtures run through the real parsers and calendar adapters, and their semantic calendar output is compared with reviewed golden contracts. This makes scraper and formatting changes reproducible without relying on live websites.
 
 To generate only selected events while developing:
 

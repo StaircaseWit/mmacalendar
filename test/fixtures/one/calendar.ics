@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+UID:fixture-one
+DTSTART:20261009T113000Z
+DTEND:20261009T173000Z
+SUMMARY:ONE Fixture 1
+LOCATION:Lumpinee Stadium\, Bangkok
+DESCRIPTION:Alex Anan vs. Boonmee Dee | Muay Thai | Flyweight
+URL:https://watch.onefc.com/events/fixture-one
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
