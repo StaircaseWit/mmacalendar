@@ -1,18 +1,19 @@
 import { renderCalendarDescription, renderCalendarFeed } from "../../calendar-renderer.js";
 import type { CalendarBoutModel, CalendarDescriptionModel, CalendarEventModel } from "../../calendar-model.js";
-import { BEST_FIGHT_ODDS_URL, formatPromotionOdds, promotionOddsHistoryRows } from "../../promotion-odds.js";
+import {
+  BEST_FIGHT_ODDS_URL,
+  formatPromotionOdds,
+  promotionOddsHistoryRows,
+  shortPromotionFighterName,
+} from "../../promotion-odds.js";
 import type { RevisionProvider } from "../../revision.js";
 import type { RizinEvent, RizinFighter } from "./source.js";
 import { ageOnDate, cleanText, flagEmoji } from "../../utils.js";
 import { rizinDivisionForKilograms } from "./divisions.js";
 
-function shortName(name: string): string {
-  return cleanText(name).split(" ").at(-1) || name;
-}
-
-function fighterFacts(fighter: RizinFighter, eventDate: string, opponentOdds: string | null | undefined): string[] {
+function fighterFacts(fighter: RizinFighter, eventDate: string): string[] {
   const age = ageOnDate(fighter.birthDate, new Date(`${eventDate}T12:00:00Z`));
-  const odds = formatPromotionOdds(fighter.odds, opponentOdds);
+  const odds = formatPromotionOdds(fighter.odds);
   return [fighter.record ? `RIZIN ${fighter.record}` : null, age === null ? null : `${age}yo`, fighter.style, odds]
     .filter((value): value is string => Boolean(value));
 }
@@ -40,8 +41,8 @@ function descriptionFor(event: RizinEvent): CalendarDescriptionModel {
     const count = sectionBouts.length === 1 ? "1 bout" : `${sectionBouts.length} bouts`;
     const bouts: CalendarBoutModel[] = sectionBouts.map((bout) => ({
       order: bout.order,
-      red: { name: bout.red.name, shortName: shortName(bout.red.name), flag: flagEmoji(bout.red.countryCode), facts: fighterFacts(bout.red, event.date, bout.blue.odds) },
-      blue: { name: bout.blue.name, shortName: shortName(bout.blue.name), flag: flagEmoji(bout.blue.countryCode), facts: fighterFacts(bout.blue, event.date, bout.red.odds) },
+      red: { name: bout.red.name, shortName: shortPromotionFighterName(bout.red.name), flag: flagEmoji(bout.red.countryCode), facts: fighterFacts(bout.red, event.date) },
+      blue: { name: bout.blue.name, shortName: shortPromotionFighterName(bout.blue.name), flag: flagEmoji(bout.blue.countryCode), facts: fighterFacts(bout.blue, event.date) },
       details: bout.details ? describeRizinBout(bout.details) : undefined,
       oddsHistoryRows: promotionOddsHistoryRows(bout.oddsHistory, bout.red.name, bout.blue.name),
     }));

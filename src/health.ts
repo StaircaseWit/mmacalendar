@@ -1,4 +1,6 @@
-export type SourceName = "ufc" | "one" | "rizin" | "pfl" | "bestfightodds";
+import type { SourceName } from "./promotions/ids.js";
+
+export type { SourceName } from "./promotions/ids.js";
 
 export interface SourceHealth {
   status: "fresh" | "cached" | "failed" | "skipped";

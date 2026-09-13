@@ -1,20 +1,19 @@
 import { renderCalendarDescription, renderCalendarFeed } from "../../calendar-renderer.js";
 import type { CalendarBoutModel, CalendarDescriptionModel, CalendarEventModel } from "../../calendar-model.js";
 import type { PflEvent, PflFighter } from "./source.js";
-import { BEST_FIGHT_ODDS_URL, formatPromotionOdds, promotionOddsHistoryRows } from "../../promotion-odds.js";
+import {
+  BEST_FIGHT_ODDS_URL,
+  formatPromotionOdds,
+  promotionOddsHistoryRows,
+  shortPromotionFighterName,
+} from "../../promotion-odds.js";
 import type { RevisionProvider } from "../../revision.js";
-import { ageOnDate, cleanText, flagEmoji } from "../../utils.js";
+import { ageOnDate, flagEmoji } from "../../utils.js";
 
-function shortName(name: string): string {
-  const parts = cleanText(name).split(" ");
-  if (/^(?:jr\.?|sr\.?|ii|iii|iv)$/i.test(parts.at(-1) ?? "") && parts.length > 1) parts.pop();
-  return parts.at(-1) || name;
-}
-
-function fighterFacts(fighter: PflFighter, eventDate: string, opponentOdds: string | null | undefined): string[] {
+function fighterFacts(fighter: PflFighter, eventDate: string): string[] {
   const age = ageOnDate(fighter.birthDate, new Date(`${eventDate}T12:00:00Z`));
   const plausibleAge = age !== null && age >= 16 && age <= 65 ? `${age}yo` : null;
-  const odds = formatPromotionOdds(fighter.odds, opponentOdds);
+  const odds = formatPromotionOdds(fighter.odds);
   return [fighter.record, plausibleAge, fighter.style, odds].filter((value): value is string => Boolean(value));
 }
 
@@ -25,8 +24,8 @@ function descriptionFor(event: PflEvent): CalendarDescriptionModel {
     : "Card times have not been announced. This date-only entry will update automatically.";
   const bouts: CalendarBoutModel[] = event.bouts.map((bout) => ({
     order: bout.order,
-    red: { name: bout.red.name, shortName: shortName(bout.red.name), flag: flagEmoji(bout.red.countryCode), facts: fighterFacts(bout.red, event.date, bout.blue.odds) },
-    blue: { name: bout.blue.name, shortName: shortName(bout.blue.name), flag: flagEmoji(bout.blue.countryCode), facts: fighterFacts(bout.blue, event.date, bout.red.odds) },
+    red: { name: bout.red.name, shortName: shortPromotionFighterName(bout.red.name), flag: flagEmoji(bout.red.countryCode), facts: fighterFacts(bout.red, event.date) },
+    blue: { name: bout.blue.name, shortName: shortPromotionFighterName(bout.blue.name), flag: flagEmoji(bout.blue.countryCode), facts: fighterFacts(bout.blue, event.date) },
     details: bout.details || undefined,
     oddsHistoryRows: promotionOddsHistoryRows(bout.oddsHistory, bout.red.name, bout.blue.name),
   }));

@@ -5,8 +5,9 @@ import {
   type PromotionOddsStore,
 } from "../promotion-odds.js";
 import type { RevisionProvider } from "../revision.js";
+import type { PromotionId } from "./ids.js";
 
-export type PromotionId = "ufc" | "one" | "rizin" | "pfl";
+export type { PromotionId } from "./ids.js";
 
 export interface PromotionRenderContext {
   generatedAt: Date;

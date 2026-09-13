@@ -6,13 +6,15 @@ Keep changes narrow. The project deliberately uses TypeScript, static HTML, JSON
 
 - Shared calendar layout: `src/calendar-model.ts` and `src/calendar-renderer.ts`
 - Shared runtime defaults: `src/settings.ts`
+- Promotion identifiers: `src/promotions/ids.ts`
 - Promotion registration and odds wiring: `src/promotions/registry.ts`
 - Generic stored-source lifecycle: `src/promotions/stored-loader.ts`
 - UFC: `src/promotions/ufc/`
 - ONE Championship: `src/promotions/one/`
 - RIZIN: `src/promotions/rizin/`
 - PFL: `src/promotions/pfl/`
-- Cross-promotion odds: `src/promotion-odds.ts`
+- Cross-promotion odds public API: `src/promotion-odds.ts`
+- Odds data model, BestFightOdds provider, storage and formatting: `src/promotion-odds/`
 - Persisted-data validation: `src/schema.ts`
 - Feed validation and health checks: `src/validate.ts` and `src/health.ts`
 - Subscription page: `docs/index.html`

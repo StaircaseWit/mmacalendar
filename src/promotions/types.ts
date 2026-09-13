@@ -1,5 +1,6 @@
-import type { CalendarStatus, SourceHealth, SourceName } from "../health.js";
+import type { CalendarStatus, SourceHealth } from "../health.js";
 import type { RuntimeSettings } from "../settings.js";
+import type { PromotionId } from "./ids.js";
 
 export interface PromotionLoadContext {
   now: Date;
@@ -9,7 +10,7 @@ export interface PromotionLoadContext {
 }
 
 export interface LoadedPromotion<TEvent> {
-  id: Exclude<SourceName, "bestfightodds">;
+  id: PromotionId;
   events: TEvent[];
   health: SourceHealth;
   persist: () => Promise<void>;

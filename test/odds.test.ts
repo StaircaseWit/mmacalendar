@@ -52,8 +52,8 @@ test("collects the best available BestFightOdds lines and keeps change-only hist
     `<a href="/events/one-friday-fights-169-4300">One Friday Fights 169</a><a href="/events/one-friday-fights-170-4350">One Friday Fights 170</a>`,
     "ONE Friday Fights 170 & The Inner Circle 30",
   ), "https://www.bestfightodds.com/events/one-friday-fights-170-4350");
-  assert.equal(formatPromotionOdds("-130", "+109"), "-130 (1.77)");
-  assert.equal(formatPromotionOdds("+109", "-130"), "+109 (2.09)");
+  assert.equal(formatPromotionOdds("-130"), "-130 (1.77)");
+  assert.equal(formatPromotionOdds("+109"), "+109 (2.09)");
 
   assert.deepEqual(matchBestFightOddsMarkets([{
     ...markets[0]!, redName: "Jose Delgado", blueName: "Jean Silva", redOdds: "+325", blueOdds: "-425",

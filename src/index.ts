@@ -24,7 +24,7 @@ import { loadPflPromotion } from "./promotions/pfl/load.js";
 import { loadRizinPromotion } from "./promotions/rizin/load.js";
 import { loadUfcPromotion } from "./promotions/ufc/load.js";
 import { createPromotionRegistry } from "./promotions/registry.js";
-import { sourceErrorMessage } from "./promotions/types.js";
+import { sourceErrorMessage, type LoadedPromotion } from "./promotions/types.js";
 import { createRevisionProvider, emptyRevisionStore, pruneRevisionStore, type RevisionStore } from "./revision.js";
 import {
   validateCalendarStatus,
@@ -58,12 +58,10 @@ const [ufc, one, rizin, pfl] = await Promise.all([
   loadRizinPromotion(loadContext),
   loadPflPromotion(loadContext),
 ]);
-const sourceHealth: CalendarStatus["sources"] = {
-  ufc: ufc.health,
-  one: one.health,
-  rizin: rizin.health,
-  pfl: pfl.health,
-};
+const loadedPromotions: LoadedPromotion<unknown>[] = [ufc, one, rizin, pfl];
+const sourceHealth = Object.fromEntries(
+  loadedPromotions.map(({ id, health }) => [id, health]),
+) as CalendarStatus["sources"];
 
 const oddsStorePath = dataPath("odds-history.json");
 const promotionOddsStorePath = dataPath("promotion-odds.json");
@@ -181,10 +179,7 @@ await Promise.all([
   writeJson(revisionStorePath, revisionStore),
   writeJson(oddsStorePath, oddsStore),
   writeJson(promotionOddsStorePath, promotionOddsStore),
-  ufc.persist(),
-  one.persist(),
-  rizin.persist(),
-  pfl.persist(),
+  ...loadedPromotions.map(({ persist }) => persist()),
 ]);
 
 const sectionCount = ufc.events.reduce((total, event) => total + event.sections.filter((section) => section.start).length, 0);

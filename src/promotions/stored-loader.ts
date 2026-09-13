@@ -3,15 +3,14 @@ import {
   cachedSourceHealth,
   freshSourceHealth,
   type CandidateAdapter,
-  type SourceName,
 } from "../health.js";
 import { pruneRecordToKeys } from "../retention.js";
 import { readJsonValidated, writeJson } from "../state.js";
 import type { RuntimeSettings } from "../settings.js";
 import type { LoadedPromotion, PromotionLoadContext } from "./types.js";
+import type { PromotionId } from "./ids.js";
 import { sourceErrorMessage } from "./types.js";
 
-type PromotionId = Exclude<SourceName, "bestfightodds">;
 type Validator<T> = (value: unknown, source: string) => T;
 
 export interface StoredPromotionDefinition<TEvent, TFighterStore extends { profiles: Record<string, unknown> }> {

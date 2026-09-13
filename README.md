@@ -1,16 +1,16 @@
 # MMA Calendar
 
-A free, automatically updated set of MMA calendar subscriptions. The feeds provide detailed cards, fighter information and twice-weekly odds history where a market is available. ONE Championship, RIZIN and PFL events include official venues, times and announced bouts.
+An automatically updated set of MMA calendar subscriptions. The feeds provide detailed cards, fighter information and twice-weekly odds history where a market is available. UFC, ONE Championship, RIZIN and PFL are currently supported.
 
-No database, paid host, Chrome extension, or Google API is required. GitHub Actions runs the generator, and GitHub Pages serves the resulting calendar feeds.
+GitHub Actions runs the generator, versioned JSON files preserve the required state, and GitHub Pages serves the resulting calendar feeds.
 
 The generator is written in strict TypeScript. Its event, card, fighter, profile, and odds-history structures are type-checked before every automated update.
 
 ## What each calendar entry contains
 
 - The correct card start and end time. Times are stored in UTC, so Google Calendar, Apple Calendar, and Outlook display them in the subscriber's own time zone.
-- Announced events remain visible even while fights or card placements are still TBD. They are marked tentative and update automatically when UFC publishes more detail.
-- UFC venue in the calendar's location field.
+- Announced events remain visible while fights, card placements or start times are still TBD. Tentative entries update automatically as more information is published.
+- The event venue in the calendar's location field.
 - One block per fight, for example:
 
   ```text
@@ -29,7 +29,7 @@ The generator is written in strict TypeScript. Its event, card, fighter, profile
     ◦ 12 Sep: Silva 🟢 -425 (1.24) | Delgado 🔴 +325 (4.25)
   ```
 
-- A link to the source UFC event and to the complete odds-change log.
+- A link to the source event and, when applicable, the complete odds-change log.
 
 Event/card times, venue, fights, rankings, countries, records, birth dates and fighting styles are collected from UFC.com. Displayed moneylines are collected from BestFightOdds. If a source has not published a field, the calendar does not guess.
 
@@ -44,13 +44,13 @@ The standard calendar description uses the `🥊` marker, bout order, and bold U
 - `data/odds-history.json` stores only the first snapshot and subsequent changes. The same history appears in each relevant calendar entry and in `docs/odds-history.html`.
 - `data/promotion-odds.json` applies the same change-only history policy to ONE Championship, RIZIN and PFL.
 - Stable event IDs mean a changed time or fight card updates the existing calendar entry instead of creating a duplicate.
-- Every entry ends with a schedule status. Explicit UFC cancellations and postponements are preserved, date changes are labelled as reschedules, and events missing from two consecutive UFC listings remain visible as unconfirmed rather than silently disappearing.
+- UFC schedule status is preserved with each entry. Explicit cancellations and postponements remain visible, date changes are labelled as reschedules, and events missing from two consecutive UFC listings remain visible as unconfirmed rather than silently disappearing.
 - When an announced bout disappears from a UFC card, it is retained under **Cancelled or withdrawn bouts**. `data/cancellations.json` provides a small backfill for cancellations that happened before this project began tracking the card.
 
 ## Resilience and data integrity
 
 - Every fresh source result must pass event and bout-count quality gates before it can replace stored data. Empty pages, suspicious card drops, and partial fetches keep the last-known-good snapshot instead.
-- Each promotion is isolated. A problem with one source does not stop the other calendars from updating or prevent cached, validated feeds from being published.
+- Each promotion keeps a validated last-known-good snapshot. Once a promotion has stored data, a temporary live-source failure can fall back to that snapshot instead of replacing it with an empty or partial result.
 - Fighter and card metadata is snapshotted once an event starts, so later changes to a fighter profile do not rewrite historical calendar entries.
 - Odds are keyed by promotion, event, and matchup. Rematches therefore keep separate histories, and ambiguous bookmaker matches are ignored instead of guessed.
 - Calendar `SEQUENCE` and `LAST-MODIFIED` values change only when that specific event changes. Routine workflow runs no longer make every calendar entry look newly edited.
@@ -65,6 +65,8 @@ A central promotion registry then handles the shared work: discovering known bou
 
 All persisted JSON is validated when it is loaded. A malformed cache now fails with the file and field name rather than reaching a scraper or renderer as partially valid data.
 
+For a detailed explanation of the architecture and a step-by-step guide to building a similar project, see [DEVELOPMENT_GUIDE.md](DEVELOPMENT_GUIDE.md).
+
 ## Calendar choices
 
 - `docs/ufc.ics`: separate Early Prelims, Prelims, and Main Card events.
@@ -78,12 +80,12 @@ All persisted JSON is validated when it is loaded. A malformed cache now fails w
 
 `docs/ufc-fights.ics` contains one tentative calendar entry per current or upcoming announced fight at its estimated start time. Unlike a time written inside an event description, these are real UTC calendar times, so the calendar client can display them in the device or account's selected time zone while travelling. The estimates assume an even pace within each card section. When UFC has not assigned bouts to sections yet, they are spread across the entire published event window and labelled accordingly. All estimates may move as the card is finalised or progresses live.
 
-## Publish it for free
+## Publish with GitHub Pages
 
 1. Create a public GitHub repository and add these files.
 2. In **Settings → Actions → General**, give workflows read and write permission.
 3. In **Settings → Pages**, set **Source** to **GitHub Actions**.
-4. Run **Actions → Update UFC calendar → Run workflow** once. The workflow regenerates the feed, saves its state, and deploys the `/docs` files directly to GitHub Pages.
+4. Run **Actions → Update MMA calendars → Run workflow** once. The workflow regenerates the feeds, saves their state, and deploys the `/docs` files directly to GitHub Pages.
 5. Your subscription URL will be:
 
    ```text
@@ -100,14 +102,16 @@ https://YOUR-GITHUB-NAME.github.io/YOUR-REPOSITORY/odds-history.html
 
 ## Run it locally
 
-Requires Node.js 20 or newer:
+Requires Node.js 20 or newer and pnpm 11. If pnpm is not already installed, enable it through Corepack first:
 
 ```bash
+corepack enable
 pnpm install
 pnpm check
 pnpm preview
-pnpm run generate
 ```
+
+`pnpm run generate` performs live source requests and rewrites generated files under `data/` and `docs/`. Use it only when intentionally testing the complete update process. For normal development, prefer the offline tests and preview.
 
 For a quicker development loop, use `pnpm test:shared`, `pnpm test:ufc`, `pnpm test:one`, `pnpm test:rizin`, `pnpm test:pfl`, or `pnpm test:odds`. Each command compiles the project and runs only the relevant focused suite.
 
