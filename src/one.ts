@@ -1,6 +1,13 @@
 import * as cheerio from "cheerio";
 import { fetchText } from "./http.js";
 import { absoluteUrl, cleanText, countryFlags, mapWithConcurrency, normalizedName, unicodeBold } from "./utils.js";
+import {
+  BEST_FIGHT_ODDS_URL,
+  formatPromotionOdds,
+  formatPromotionOddsHistory,
+  shortPromotionFighterName,
+  type PromotionOddsSnapshot,
+} from "./promotion-odds.js";
 
 export const ONE_CALENDAR_URL = "https://calendar.onefc.com/ONE-Championship-events.ics";
 export const ONE_EVENTS_URL = "https://www.onefc.com/events/";
@@ -11,6 +18,9 @@ export interface OneBout {
   details: string;
   redCountry?: string | null;
   blueCountry?: string | null;
+  redOdds?: string | null;
+  blueOdds?: string | null;
+  oddsHistory?: PromotionOddsSnapshot[];
 }
 
 export interface OneEvent {
@@ -229,14 +239,25 @@ function descriptionFor(event: OneEvent, generatedAt: Date): string {
         const redFlag = countryFlags(bout.redCountry);
         const blueFlag = countryFlags(bout.blueCountry);
         const matchup = `🥊 ${number}. ${unicodeBold(bout.redName)}${redFlag ? ` ${redFlag}` : ""} vs. ${unicodeBold(bout.blueName)}${blueFlag ? ` ${blueFlag}` : ""}`;
-        return bout.details ? `${matchup}\n• ${bout.details}` : matchup;
+        const redOdds = formatPromotionOdds(bout.redOdds, bout.blueOdds);
+        const blueOdds = formatPromotionOdds(bout.blueOdds, bout.redOdds);
+        return [
+          matchup,
+          bout.details ? `• ${bout.details}` : null,
+          redOdds ? `• ${shortPromotionFighterName(bout.redName)}: Odds ${redOdds}` : null,
+          blueOdds ? `• ${shortPromotionFighterName(bout.blueName)}: Odds ${blueOdds}` : null,
+          formatPromotionOddsHistory(bout.oddsHistory, bout.redName, bout.blueName),
+        ].filter(Boolean).join("\n");
       }).join("\n\n")
     : "No bouts announced yet.";
+  const oddsSource = event.bouts.some((bout) => bout.oddsHistory?.length)
+    ? `\nOdds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked weekly`
+    : "";
   return [
     header,
     `--------------------------------\n${unicodeBold("BOUTS")}\n--------------------------------`,
     bouts,
-    `--------------------------------\nSource: ${event.detailsUrl ?? event.url}\nCalendar updated: ${generatedAt.toISOString()}`,
+    `--------------------------------\nSource: ${event.detailsUrl ?? event.url}${oddsSource}\nCalendar updated: ${generatedAt.toISOString()}`,
   ].join("\n\n");
 }
 
@@ -251,16 +272,19 @@ export function renderOneCalendar(events: OneEvent[], generatedAt = new Date()):
     "X-WR-CALDESC:ONE Championship events and announced bouts.",
     "COLOR:#202428",
     "X-APPLE-CALENDAR-COLOR:#202428",
-    "REFRESH-INTERVAL;VALUE=DURATION:P3D",
-    "X-PUBLISHED-TTL:P3D",
+    "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
+    "X-PUBLISHED-TTL:PT6H",
   ];
   const stamp = generatedAt.toISOString().replace(/[-:]/g, "").replace(/\.\d{3}Z$/, "Z");
+  const revision = Math.floor(generatedAt.valueOf() / 1000);
   for (const event of events) {
     const status = /^(?:CONFIRMED|TENTATIVE|CANCELLED)$/.test(event.status) ? event.status : "CONFIRMED";
     lines.push(
       "BEGIN:VEVENT",
       `UID:${escapeIcs(`${event.uid}@mma-calendar-one`)}`,
       `DTSTAMP:${stamp}`,
+      `LAST-MODIFIED:${stamp}`,
+      `SEQUENCE:${revision}`,
       `DTSTART:${event.start}`,
       `DTEND:${event.end}`,
       `SUMMARY:${escapeIcs(event.summary)}`,

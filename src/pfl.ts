@@ -12,6 +12,12 @@ import {
   normalizedName,
   unicodeBold,
 } from "./utils.js";
+import {
+  BEST_FIGHT_ODDS_URL,
+  formatPromotionOdds,
+  formatPromotionOddsHistory,
+  type PromotionOddsSnapshot,
+} from "./promotion-odds.js";
 
 export const PFL_EVENTS_URL = "https://pflmma.com/events";
 
@@ -22,6 +28,7 @@ export interface PflFighter {
   birthDate?: string | null;
   record?: string | null;
   style?: string | null;
+  odds?: string | null;
 }
 
 export interface PflBout {
@@ -31,6 +38,7 @@ export interface PflBout {
   blue: PflFighter;
   details: string;
   note?: string;
+  oddsHistory?: PromotionOddsSnapshot[];
 }
 
 export interface PflListing {
@@ -485,10 +493,11 @@ function shortName(name: string): string {
   return parts.at(-1) || name;
 }
 
-function fighterDetail(fighter: PflFighter, eventDate: string): string | null {
+function fighterDetail(fighter: PflFighter, eventDate: string, opponentOdds: string | null | undefined): string | null {
   const age = ageOnDate(fighter.birthDate, new Date(`${eventDate}T12:00:00Z`));
   const plausibleAge = age !== null && age >= 16 && age <= 65 ? `${age}yo` : null;
-  const details = [fighter.record, plausibleAge, fighter.style].filter(Boolean);
+  const odds = formatPromotionOdds(fighter.odds, opponentOdds);
+  const details = [fighter.record, plausibleAge, odds ? `Odds ${odds}` : null, fighter.style].filter(Boolean);
   return details.length ? `• ${shortName(fighter.name)}: ${details.join(" | ")}` : null;
 }
 
@@ -504,8 +513,9 @@ function descriptionFor(event: PflEvent, generatedAt: Date): string {
       return [
         `🥊 ${bout.order}. ${unicodeBold(bout.red.name)}${redFlag ? ` ${redFlag}` : ""} vs. ${unicodeBold(bout.blue.name)}${blueFlag ? ` ${blueFlag}` : ""}`,
         bout.details ? `• ${bout.details}` : null,
-        fighterDetail(bout.red, event.date),
-        fighterDetail(bout.blue, event.date),
+        fighterDetail(bout.red, event.date, bout.blue.odds),
+        fighterDetail(bout.blue, event.date, bout.red.odds),
+        formatPromotionOddsHistory(bout.oddsHistory, bout.red.name, bout.blue.name),
       ].filter(Boolean).join("\n");
     }).join("\n\n")
     : "No bouts announced yet.";
@@ -513,6 +523,9 @@ function descriptionFor(event: PflEvent, generatedAt: Date): string {
     `--------------------------------\n${unicodeBold("CANCELLED OR POSTPONED BOUTS")}\n--------------------------------`,
     event.cancelledBouts.map((bout) => `✕ ${bout.red.name} vs. ${bout.blue.name}\n• ${bout.note ?? "Removed from the official PFL card"}`).join("\n\n"),
   ] : [];
+  const oddsSource = event.bouts.some((bout) => bout.oddsHistory?.length)
+    ? `\nOdds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked weekly`
+    : "";
   return [
     [
       `Professional Fighters League · Complete Event · ${event.bouts.length ? boutCount : "card details to be announced"}`,
@@ -522,7 +535,7 @@ function descriptionFor(event: PflEvent, generatedAt: Date): string {
     `--------------------------------\n${unicodeBold("BOUTS")}\n--------------------------------`,
     bouts,
     ...cancelled,
-    `--------------------------------\nSource: ${event.url}\nCalendar updated: ${generatedAt.toISOString()}`,
+    `--------------------------------\nSource: ${event.url}${oddsSource}\nCalendar updated: ${generatedAt.toISOString()}`,
   ].join("\n\n");
 }
 
@@ -537,12 +550,19 @@ export function renderPflCalendar(events: PflEvent[], generatedAt = new Date()):
     "X-WR-CALDESC:PFL events and announced bouts.",
     "COLOR:#102A83",
     "X-APPLE-CALENDAR-COLOR:#102A83",
-    "REFRESH-INTERVAL;VALUE=DURATION:P3D",
-    "X-PUBLISHED-TTL:P3D",
+    "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
+    "X-PUBLISHED-TTL:PT6H",
   ];
   const stamp = basicUtc(generatedAt);
+  const revision = Math.floor(generatedAt.valueOf() / 1000);
   for (const event of events) {
-    lines.push("BEGIN:VEVENT", `UID:${escapeIcs(`${event.uid}@mma-calendar-pfl`)}`, `DTSTAMP:${stamp}`);
+    lines.push(
+      "BEGIN:VEVENT",
+      `UID:${escapeIcs(`${event.uid}@mma-calendar-pfl`)}`,
+      `DTSTAMP:${stamp}`,
+      `LAST-MODIFIED:${stamp}`,
+      `SEQUENCE:${revision}`,
+    );
     if (event.start && event.end) {
       lines.push(`DTSTART:${event.start}`, `DTEND:${event.end}`);
     } else {

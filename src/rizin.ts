@@ -2,6 +2,12 @@ import * as cheerio from "cheerio";
 import type { AnyNode } from "domhandler";
 import { fetchText } from "./http.js";
 import { absoluteUrl, ageOnDate, cleanText, flagEmoji, mapWithConcurrency, normalizedName, unicodeBold } from "./utils.js";
+import {
+  BEST_FIGHT_ODDS_URL,
+  formatPromotionOdds,
+  formatPromotionOddsHistory,
+  type PromotionOddsSnapshot,
+} from "./promotion-odds.js";
 
 export const RIZIN_EVENTS_URL = "https://jp.rizinff.com/_tags/%E5%A4%A7%E4%BC%9A%E6%83%85%E5%A0%B1?fr=rel";
 
@@ -11,6 +17,7 @@ export interface RizinFighter {
   countryCode?: string | null;
   birthDate?: string | null;
   style?: string | null;
+  odds?: string | null;
 }
 
 export interface RizinBout {
@@ -20,6 +27,7 @@ export interface RizinBout {
   blue: RizinFighter;
   details: string;
   note?: string;
+  oddsHistory?: PromotionOddsSnapshot[];
 }
 
 export interface RizinEvent {
@@ -395,9 +403,10 @@ function shortName(name: string): string {
   return cleanText(name).split(" ").at(-1) || name;
 }
 
-function fighterDetail(fighter: RizinFighter, eventDate: string): string | null {
+function fighterDetail(fighter: RizinFighter, eventDate: string, opponentOdds: string | null | undefined): string | null {
   const age = ageOnDate(fighter.birthDate, new Date(`${eventDate}T12:00:00Z`));
-  const details = [age === null ? null : `${age}yo`, fighter.style].filter(Boolean);
+  const odds = formatPromotionOdds(fighter.odds, opponentOdds);
+  const details = [age === null ? null : `${age}yo`, odds ? `Odds ${odds}` : null, fighter.style].filter(Boolean);
   return details.length ? `• ${shortName(fighter.name)}: ${details.join(" | ")}` : null;
 }
 
@@ -422,14 +431,18 @@ function descriptionFor(event: RizinEvent, generatedAt: Date): string {
       const lines = [
         `🥊 ${bout.order}. ${unicodeBold(bout.red.name)}${redFlag ? ` ${redFlag}` : ""} vs. ${unicodeBold(bout.blue.name)}${blueFlag ? ` ${blueFlag}` : ""}`,
         bout.details ? `• ${bout.details}` : null,
-        fighterDetail(bout.red, event.date),
-        fighterDetail(bout.blue, event.date),
+        fighterDetail(bout.red, event.date, bout.blue.odds),
+        fighterDetail(bout.blue, event.date, bout.red.odds),
+        formatPromotionOddsHistory(bout.oddsHistory, bout.red.name, bout.blue.name),
       ].filter(Boolean);
       return lines.join("\n");
     }).join("\n\n");
     return [`${heading}\n\n${body}`];
   });
   const bouts = sections.length ? sections.join("\n\n") : "No bouts announced yet.";
+  const oddsSource = event.bouts.some((bout) => bout.oddsHistory?.length)
+    ? `\nOdds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked weekly`
+    : "";
   const cancelled = event.cancelledBouts.length ? [
     `--------------------------------\n${unicodeBold("CANCELLED OR POSTPONED BOUTS")}\n--------------------------------`,
     event.cancelledBouts.map((bout) => `✕ ${bout.red.name} vs. ${bout.blue.name}\n• ${bout.note ?? "Removed from the official RIZIN card"}`).join("\n\n"),
@@ -439,7 +452,7 @@ function descriptionFor(event: RizinEvent, generatedAt: Date): string {
     `--------------------------------\n${unicodeBold("BOUTS")}\n--------------------------------`,
     bouts,
     ...cancelled,
-    `--------------------------------\nSource: ${event.cardUrl ?? event.url}\nCalendar updated: ${generatedAt.toISOString()}`,
+    `--------------------------------\nSource: ${event.cardUrl ?? event.url}${oddsSource}\nCalendar updated: ${generatedAt.toISOString()}`,
   ].join("\n\n");
 }
 
@@ -454,12 +467,19 @@ export function renderRizinCalendar(events: RizinEvent[], generatedAt = new Date
     "X-WR-CALDESC:RIZIN events and announced bouts.",
     "COLOR:#CF1F2B",
     "X-APPLE-CALENDAR-COLOR:#CF1F2B",
-    "REFRESH-INTERVAL;VALUE=DURATION:P3D",
-    "X-PUBLISHED-TTL:P3D",
+    "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
+    "X-PUBLISHED-TTL:PT6H",
   ];
   const stamp = basicUtc(generatedAt);
+  const revision = Math.floor(generatedAt.valueOf() / 1000);
   for (const event of events) {
-    lines.push("BEGIN:VEVENT", `UID:${escapeIcs(`${event.uid}@mma-calendar-rizin`)}`, `DTSTAMP:${stamp}`);
+    lines.push(
+      "BEGIN:VEVENT",
+      `UID:${escapeIcs(`${event.uid}@mma-calendar-rizin`)}`,
+      `DTSTAMP:${stamp}`,
+      `LAST-MODIFIED:${stamp}`,
+      `SEQUENCE:${revision}`,
+    );
     if (event.start && event.end) {
       lines.push(`DTSTART:${event.start}`, `DTEND:${event.end}`);
     } else {

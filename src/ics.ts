@@ -246,6 +246,7 @@ export function renderCalendar(events: UfcEvent[], {
   displayTimeZone = "Europe/Dublin",
   displayTimeZoneLabel = "Ireland",
 }: RenderCalendarOptions = {}): string {
+  const revision = Math.floor(generatedAt.valueOf() / 1000);
   const lines: string[] = [
     "BEGIN:VCALENDAR",
     "VERSION:2.0",
@@ -256,8 +257,8 @@ export function renderCalendar(events: UfcEvent[], {
     "X-WR-CALDESC:Automatically updated UFC cards with fighter details and weekly odds history.",
     "COLOR:#D8070C",
     "X-APPLE-CALENDAR-COLOR:#D8070C",
-    "REFRESH-INTERVAL;VALUE=DURATION:P3D",
-    "X-PUBLISHED-TTL:P3D",
+    "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
+    "X-PUBLISHED-TTL:PT6H",
   ];
 
   for (const event of events) {
@@ -281,6 +282,8 @@ export function renderCalendar(events: UfcEvent[], {
         "BEGIN:VEVENT",
         `UID:${escapeIcs(`${event.slug}-${section.key}@ufc-detailed-calendar`)}`,
         `DTSTAMP:${icsDate(generatedAt)}`,
+        `LAST-MODIFIED:${icsDate(generatedAt)}`,
+        `SEQUENCE:${revision}`,
         `DTSTART:${icsDate(section.start)}`,
         `DTEND:${icsDate(sectionEnd(event, section))}`,
         `SUMMARY:${escapeIcs(`${section.label} – ${event.title}`)}`,
@@ -313,6 +316,7 @@ export function renderCombinedCalendar(events: UfcEvent[], {
   displayTimeZone = "Europe/Dublin",
   displayTimeZoneLabel = "Ireland",
 }: RenderCalendarOptions = {}): string {
+  const revision = Math.floor(generatedAt.valueOf() / 1000);
   const lines: string[] = [
     "BEGIN:VCALENDAR",
     "VERSION:2.0",
@@ -323,8 +327,8 @@ export function renderCombinedCalendar(events: UfcEvent[], {
     "X-WR-CALDESC:One complete calendar entry per UFC event with all announced bouts.",
     "COLOR:#D8070C",
     "X-APPLE-CALENDAR-COLOR:#D8070C",
-    "REFRESH-INTERVAL;VALUE=DURATION:P3D",
-    "X-PUBLISHED-TTL:P3D",
+    "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
+    "X-PUBLISHED-TTL:PT6H",
   ];
 
   for (const event of events) {
@@ -371,6 +375,8 @@ export function renderCombinedCalendar(events: UfcEvent[], {
       "BEGIN:VEVENT",
       `UID:${escapeIcs(`${event.slug}-combined@ufc-detailed-calendar`)}`,
       `DTSTAMP:${icsDate(generatedAt)}`,
+      `LAST-MODIFIED:${icsDate(generatedAt)}`,
+      `SEQUENCE:${revision}`,
       `DTSTART:${icsDate(bounds.start)}`,
       `DTEND:${icsDate(bounds.end)}`,
       `SUMMARY:${escapeIcs(event.title)}`,
@@ -404,6 +410,7 @@ export function renderEstimatedFightCalendar(events: UfcEvent[], {
   displayTimeZone = "Europe/Dublin",
   displayTimeZoneLabel = "Ireland",
 }: RenderCalendarOptions = {}): string {
+  const revision = Math.floor(generatedAt.valueOf() / 1000);
   const lines: string[] = [
     "BEGIN:VCALENDAR",
     "VERSION:2.0",
@@ -414,8 +421,8 @@ export function renderEstimatedFightCalendar(events: UfcEvent[], {
     "X-WR-CALDESC:Optional estimated UFC bout times that adapt to the calendar client's time zone.",
     "COLOR:#D8070C",
     "X-APPLE-CALENDAR-COLOR:#D8070C",
-    "REFRESH-INTERVAL;VALUE=DURATION:P3D",
-    "X-PUBLISHED-TTL:P3D",
+    "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
+    "X-PUBLISHED-TTL:PT6H",
   ];
 
   for (const event of events) {
@@ -443,6 +450,8 @@ export function renderEstimatedFightCalendar(events: UfcEvent[], {
           "BEGIN:VEVENT",
           `UID:${escapeIcs(fightUid(event, fight))}`,
           `DTSTAMP:${icsDate(generatedAt)}`,
+          `LAST-MODIFIED:${icsDate(generatedAt)}`,
+          `SEQUENCE:${revision}`,
           `DTSTART:${icsDate(start)}`,
           `DTEND:${icsDate(end)}`,
           `SUMMARY:${escapeIcs(`🥊 ${boutNumber}. ${fight.red.name} vs. ${fight.blue.name} (estimated)`)}`,

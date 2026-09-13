@@ -11,6 +11,14 @@ import { renderOddsPage } from "./odds-page.js";
 import { enrichOneEventDetails, mergeOneEvents, renderOneCalendar, scrapeOneCalendar, type OneEvent } from "./one.js";
 import { enrichRizinFighters, mergeRizinEvents, renderRizinCalendar, scrapeRizinEvents, type RizinEvent, type RizinFighterStore } from "./rizin.js";
 import { enrichPflFighters, mergePflEvents, renderPflCalendar, scrapePflEvents, type PflEvent, type PflFighterStore } from "./pfl.js";
+import {
+  promotionOddsForBout,
+  promotionOddsKey,
+  promotionOddsRefreshIsDue,
+  scrapeBestFightOddsMarkets,
+  updatePromotionOddsStore,
+  type PromotionOddsStore,
+} from "./promotion-odds.js";
 import type { CancelledBout, EventStore, FighterStore, OddsStore } from "./types.js";
 
 const root = process.cwd();
@@ -24,6 +32,7 @@ const rizinEventStorePath = resolve(root, "data/rizin-events.json");
 const rizinFighterStorePath = resolve(root, "data/rizin-fighters.json");
 const pflEventStorePath = resolve(root, "data/pfl-events.json");
 const pflFighterStorePath = resolve(root, "data/pfl-fighters.json");
+const promotionOddsStorePath = resolve(root, "data/promotion-odds.json");
 const now = new Date();
 
 const configuredUrls = (process.env.UFC_EVENT_URLS ?? "").split(",").map((value) => value.trim()).filter(Boolean);
@@ -122,6 +131,61 @@ try {
   console.warn(`Keeping the stored PFL calendar after a source error: ${message}`);
 }
 
+const promotionOddsStore = await readJson<PromotionOddsStore>(promotionOddsStorePath, { lastCheckedAt: null, fights: {} });
+if (promotionOddsRefreshIsDue(promotionOddsStore, now)) {
+  try {
+    const windowStart = new Date(now.valueOf() - 14 * 24 * 60 * 60 * 1000);
+    // The live page supplies most upcoming markets. A modest future window also
+    // catches promotion pages that are searchable before they reach that page.
+    const windowEnd = new Date(now.valueOf() + 45 * 24 * 60 * 60 * 1000);
+    const inOddsWindow = (value: string): boolean => {
+      const date = new Date(`${value}T12:00:00Z`);
+      return Number.isFinite(date.valueOf()) && date >= windowStart && date <= windowEnd;
+    };
+    const eventNames = [
+      ...oneEvents.filter((event) => inOddsWindow(`${event.start.slice(0, 4)}-${event.start.slice(4, 6)}-${event.start.slice(6, 8)}`)).map(({ summary }) => summary),
+      ...rizinEvents.filter((event) => inOddsWindow(event.date)).map(({ summary }) => summary),
+      ...pflEvents.filter((event) => inOddsWindow(event.date)).map(({ summary }) => summary),
+    ];
+    const markets = await scrapeBestFightOddsMarkets(eventNames);
+    if (!markets.length) throw new Error("no current moneyline markets were found");
+    const knownBoutKeys = new Set([
+      ...oneEvents.flatMap((event) => event.bouts.map((bout) => promotionOddsKey(bout.redName, bout.blueName))),
+      ...rizinEvents.flatMap((event) => [...event.bouts, ...event.cancelledBouts].map((bout) => promotionOddsKey(bout.red.name, bout.blue.name))),
+      ...pflEvents.flatMap((event) => [...event.bouts, ...event.cancelledBouts].map((bout) => promotionOddsKey(bout.red.name, bout.blue.name))),
+    ]);
+    const matchedMarkets = markets.filter((market) => knownBoutKeys.has(promotionOddsKey(market.redName, market.blueName)));
+    updatePromotionOddsStore(promotionOddsStore, matchedMarkets, now);
+    await writeJson(promotionOddsStorePath, promotionOddsStore);
+    console.log(`Recorded ${matchedMarkets.length} matching weekly non-UFC odds market(s).`);
+  } catch (error: unknown) {
+    const message = error instanceof Error ? error.message : String(error);
+    console.warn(`Keeping the stored non-UFC odds after a source error: ${message}`);
+  }
+} else {
+  console.log(`Kept the existing non-UFC odds snapshot from ${promotionOddsStore.lastCheckedAt}.`);
+}
+
+for (const event of oneEvents) {
+  for (const bout of event.bouts) Object.assign(bout, promotionOddsForBout(bout.redName, bout.blueName, promotionOddsStore));
+}
+for (const event of rizinEvents) {
+  for (const bout of [...event.bouts, ...event.cancelledBouts]) {
+    const odds = promotionOddsForBout(bout.red.name, bout.blue.name, promotionOddsStore);
+    bout.red.odds = odds.redOdds;
+    bout.blue.odds = odds.blueOdds;
+    bout.oddsHistory = odds.oddsHistory;
+  }
+}
+for (const event of pflEvents) {
+  for (const bout of [...event.bouts, ...event.cancelledBouts]) {
+    const odds = promotionOddsForBout(bout.red.name, bout.blue.name, promotionOddsStore);
+    bout.red.odds = odds.redOdds;
+    bout.blue.odds = odds.blueOdds;
+    bout.oddsHistory = odds.oddsHistory;
+  }
+}
+
 await mkdir(outputDirectory, { recursive: true });
 const calendarOptions = {
   generatedAt: now,
@@ -136,7 +200,7 @@ await Promise.all([
   writeFile(resolve(outputDirectory, "one.ics"), renderOneCalendar(oneEvents, now)),
   writeFile(resolve(outputDirectory, "rizin.ics"), renderRizinCalendar(rizinEvents, now)),
   writeFile(resolve(outputDirectory, "pfl.ics"), renderPflCalendar(pflEvents, now)),
-  writeFile(resolve(outputDirectory, "odds-history.html"), renderOddsPage(oddsStore)),
+  writeFile(resolve(outputDirectory, "odds-history.html"), renderOddsPage(oddsStore, promotionOddsStore)),
 ]);
 
 const sectionCount = events.reduce((total, event) => total + event.sections.filter((section) => section.start).length, 0);

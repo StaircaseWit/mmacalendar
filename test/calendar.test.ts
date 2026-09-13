@@ -8,6 +8,17 @@ import { oddsRefreshIsDue, updateOddsStore } from "../src/odds.js";
 import { mergeOneEvents, parseOneCalendar, parseOneEventPage, parseOneEventsListing, renderOneCalendar } from "../src/one.js";
 import { mergeRizinEvents, parseRizinCardPage, parseRizinEventListing, parseRizinEventPage, parseRizinFighterPage, renderRizinCalendar } from "../src/rizin.js";
 import { mergePflEvents, parsePflEventListing, parsePflEventPage, parsePflFighterPage, renderPflCalendar } from "../src/pfl.js";
+import {
+  canonicalOddsName,
+  bestFightOddsSearchTerm,
+  findBestFightOddsEventUrl,
+  formatPromotionOdds,
+  parseBestFightOdds,
+  promotionOddsForBout,
+  promotionOddsRefreshIsDue,
+  updatePromotionOddsStore,
+  type PromotionOddsStore,
+} from "../src/promotion-odds.js";
 import type { EventStore, OddsStore } from "../src/types.js";
 
 const eventHtml = `
@@ -215,6 +226,50 @@ test("odds are checked weekly and unchanged values do not inflate history", () =
   event.sections[0].fights[0].red.sourceOdds = "-450";
   updateOddsStore(store, [event], new Date("2026-09-26T12:00:00Z"));
   assert.equal(history.length, 2);
+});
+
+test("collects best available non-UFC odds and keeps a weekly change history", () => {
+  const source = `<div class="table-outer-wrapper">
+    <div class="table-header"><a href="/events/pfl-test-4000"><h1>PFL Test</h1></a></div>
+    <div class="table-inner-wrapper"><table><tbody>
+      <tr><th><span class="t-b-fcc">A.J. McKee Jr.</span></th><td><span id="oID1">-138</span></td><td><span id="oID2" class="bestbet">-130</span></td></tr>
+      <tr><th><span class="t-b-fcc">Adam Borics</span></th><td><span id="oID3">+104</span></td><td><span id="oID4" class="bestbet">+109</span></td></tr>
+    </tbody></table></div>
+  </div>`;
+  const markets = parseBestFightOdds(source);
+  assert.deepEqual(markets, [{
+    eventName: "PFL Test",
+    sourceUrl: "https://www.bestfightodds.com/events/pfl-test-4000",
+    redName: "A.J. McKee Jr.",
+    blueName: "Adam Borics",
+    redOdds: "-130",
+    blueOdds: "+109",
+  }]);
+  assert.equal(canonicalOddsName("A.J. McKee Jr."), canonicalOddsName("AJ McKee"));
+  assert.equal(bestFightOddsSearchTerm("ONE Friday Fights 170 & The Inner Circle 30"), "ONE Friday Fights 170");
+  assert.equal(bestFightOddsSearchTerm("超RIZIN.5 浪速の超復活祭り"), "Super RIZIN 5");
+  assert.equal(findBestFightOddsEventUrl(
+    `<a href="/events/one-friday-fights-169-4300">One Friday Fights 169</a><a href="/events/one-friday-fights-170-4350">One Friday Fights 170</a>`,
+    "ONE Friday Fights 170 & The Inner Circle 30",
+  ), "https://www.bestfightodds.com/events/one-friday-fights-170-4350");
+  assert.equal(formatPromotionOdds("-130", "+109"), "🟢 -130 (1.77)");
+  assert.equal(formatPromotionOdds("+109", "-130"), "🔴 +109 (2.09)");
+
+  const store: PromotionOddsStore = { lastCheckedAt: null, fights: {} };
+  const firstCheck = new Date("2026-09-13T12:00:00Z");
+  updatePromotionOddsStore(store, markets, firstCheck);
+  assert.equal(promotionOddsRefreshIsDue(store, new Date("2026-09-19T11:59:59Z")), false);
+  assert.equal(promotionOddsRefreshIsDue(store, new Date("2026-09-20T12:00:00Z")), true);
+  assert.deepEqual(promotionOddsForBout("AJ McKee", "Adam Borics", store), {
+    redOdds: "-130",
+    blueOdds: "+109",
+    oddsHistory: Object.values(store.fights)[0],
+  });
+  updatePromotionOddsStore(store, markets, new Date("2026-09-20T12:00:00Z"));
+  assert.equal(Object.values(store.fights)[0]!.length, 1);
+  markets[0]!.redOdds = "-125";
+  updatePromotionOddsStore(store, markets, new Date("2026-09-27T12:00:00Z"));
+  assert.equal(Object.values(store.fights)[0]!.length, 2);
 });
 
 test("formats ONE Championship's official calendar as a permanent detailed feed", () => {

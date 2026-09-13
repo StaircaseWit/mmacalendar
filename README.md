@@ -1,6 +1,6 @@
 # MMA Calendar
 
-A free, automatically updated set of MMA calendar subscriptions. UFC feeds provide detailed cards, fighter information and odds history. ONE Championship, RIZIN and PFL events include official venues, times and announced bouts.
+A free, automatically updated set of MMA calendar subscriptions. The feeds provide detailed cards, fighter information and weekly odds history where a market is available. ONE Championship, RIZIN and PFL events include official venues, times and announced bouts.
 
 No database, paid host, Chrome extension, or Google API is required. GitHub Actions runs the generator, and GitHub Pages serves the resulting calendar feeds.
 
@@ -40,8 +40,9 @@ The standard calendar description uses the `🥊` marker, bout order, and bold U
 - The workflow checks event and card details every Monday and Friday at 06:17 UTC.
 - Once an event has been discovered, it remains in the feed permanently. This preserves an expanding archive rather than a rolling window.
 - Fighter records, birth dates, and family names are cached for seven days. Birth dates are used only to calculate age on the event date.
-- Odds are accepted into the calendar **no more than once every seven days**.
+- UFC odds come from UFC.com. Available ONE Championship, RIZIN and PFL moneylines come from BestFightOdds. All odds are accepted into the calendar **no more than once every seven days** and are shown in American and decimal formats.
 - `data/odds-history.json` stores only the first snapshot and subsequent changes. The same history appears in each relevant calendar entry and in `docs/odds-history.html`.
+- `data/promotion-odds.json` applies the same change-only history policy to ONE Championship, RIZIN and PFL.
 - Stable event IDs mean a changed time or fight card updates the existing calendar entry instead of creating a duplicate.
 - Every entry ends with a verified schedule status. Explicit UFC cancellations and postponements are preserved, date changes are labelled as reschedules, and events missing from two consecutive UFC listings remain visible as unconfirmed rather than silently disappearing.
 - When an announced bout disappears from a UFC card, it is retained under **Cancelled or withdrawn bouts**. `data/cancellations.json` provides a small backfill for cancellations that happened before this project began tracking the card.
@@ -51,9 +52,9 @@ The standard calendar description uses the `🥊` marker, bout order, and bold U
 - `docs/ufc.ics`: separate Early Prelims, Prelims, and Main Card events.
 - `docs/ufc-combined.ics`: one complete event containing every section and announced bout.
 - `docs/ufc-fights.ics`: optional estimated individual fight events that adapt to the calendar client's time zone.
-- `docs/one.ics`: one complete event per ONE Championship show, including the official venue, times, announced bouts, disciplines and available country flags.
-- `docs/rizin.ics`: one complete event per RIZIN show, including official venues, localised start times, rule sets, announced bouts and cancellation notices. Events without an announced start time begin as date-only placeholders and update later.
-- `docs/pfl.ics`: one complete event per PFL show, including published card times, venues, announced matchups, fighter records, ages and country flags where available.
+- `docs/one.ics`: one complete event per ONE Championship show, including the official venue, times, announced bouts, disciplines, available country flags and available odds.
+- `docs/rizin.ics`: one complete event per RIZIN show, including official venues, localised start times, rule sets, announced bouts, available odds and cancellation notices. Events without an announced start time begin as date-only placeholders and update later.
+- `docs/pfl.ics`: one complete event per PFL show, including published card times, venues, announced matchups, fighter records, ages, available odds and country flags where available.
 
 ## Optional local-time fight calendar
 
@@ -100,4 +101,4 @@ The subscription is written to `docs/ufc.ics`.
 
 ## Current scope
 
-UFC, ONE Championship, RIZIN and PFL are supported. UFC data is collected from UFC.com. ONE event schedules and announced bouts come from ONE Championship's official calendar. RIZIN schedules, cards, fighter countries and cancellation notices come from RIZIN's official event and fighter pages. PFL schedules, cards, records, ages and countries come from PFL's official event and fighter pages. Promotion-specific odds are not included for ONE, RIZIN or PFL yet. "Follow a fighter" notifications are deliberately deferred.
+UFC, ONE Championship, RIZIN and PFL are supported. UFC data is collected from UFC.com. ONE event schedules and announced bouts come from ONE Championship's official calendar. RIZIN schedules, cards, fighter countries and cancellation notices come from RIZIN's official event and fighter pages. PFL schedules, cards, records, ages and countries come from PFL's official event and fighter pages. Available non-UFC moneylines are aggregated by BestFightOdds; a bout stays uncluttered when no market has been posted. "Follow a fighter" notifications are deliberately deferred.
