@@ -8,7 +8,7 @@ import { applyCancellationOverrides, reconcileEvents } from "./events.js";
 import { readJson, writeJson } from "./state.js";
 import { renderCalendar, renderCombinedCalendar, renderEstimatedFightCalendar } from "./ics.js";
 import { renderOddsPage } from "./odds-page.js";
-import { enrichOneEventDetails, mergeOneEvents, renderOneCalendar, scrapeOneCalendar, type OneEvent } from "./one.js";
+import { enrichOneEventDetails, enrichOneFighters, mergeOneEvents, renderOneCalendar, scrapeOneCalendar, type OneEvent, type OneFighterStore } from "./one.js";
 import { enrichRizinFighters, mergeRizinEvents, renderRizinCalendar, scrapeRizinEvents, type RizinEvent, type RizinFighterStore } from "./rizin.js";
 import { enrichPflFighters, mergePflEvents, renderPflCalendar, scrapePflEvents, type PflEvent, type PflFighterStore } from "./pfl.js";
 import {
@@ -28,6 +28,7 @@ const oddsStorePath = resolve(root, "data/odds-history.json");
 const eventStorePath = resolve(root, "data/events.json");
 const cancellationOverridesPath = resolve(root, "data/cancellations.json");
 const oneEventStorePath = resolve(root, "data/one-events.json");
+const oneFighterStorePath = resolve(root, "data/one-fighters.json");
 const rizinEventStorePath = resolve(root, "data/rizin-events.json");
 const rizinFighterStorePath = resolve(root, "data/rizin-fighters.json");
 const pflEventStorePath = resolve(root, "data/pfl-events.json");
@@ -73,13 +74,18 @@ attachStoredOdds(events, oddsStore);
 await writeJson(oddsStorePath, oddsStore);
 
 const storedOneEvents = await readJson<OneEvent[]>(oneEventStorePath, []);
+const oneFighterStore = await readJson<OneFighterStore>(oneFighterStorePath, { profiles: {} });
 let oneEvents = storedOneEvents;
 try {
   const currentOneEvents = await scrapeOneCalendar();
   if (!currentOneEvents.length) throw new Error("the official calendar did not contain any events");
   oneEvents = mergeOneEvents(storedOneEvents, currentOneEvents);
   await enrichOneEventDetails(oneEvents);
-  await writeJson(oneEventStorePath, oneEvents);
+  await enrichOneFighters(oneEvents, oneFighterStore, now);
+  await Promise.all([
+    writeJson(oneEventStorePath, oneEvents),
+    writeJson(oneFighterStorePath, oneFighterStore),
+  ]);
   console.log(`Found ${currentOneEvents.length} ONE Championship event(s).`);
 } catch (error: unknown) {
   const message = error instanceof Error ? error.message : String(error);

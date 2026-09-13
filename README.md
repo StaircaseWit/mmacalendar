@@ -52,8 +52,8 @@ The standard calendar description uses the `🥊` marker, bout order, and bold U
 - `docs/ufc.ics`: separate Early Prelims, Prelims, and Main Card events.
 - `docs/ufc-combined.ics`: one complete event containing every section and announced bout.
 - `docs/ufc-fights.ics`: optional estimated individual fight events that adapt to the calendar client's time zone.
-- `docs/one.ics`: one complete event per ONE Championship show, including the official venue, times, announced bouts, disciplines, available country flags and available odds.
-- `docs/rizin.ics`: one complete event per RIZIN show, including official venues, localised start times, rule sets, announced bouts, available odds and cancellation notices. Events without an announced start time begin as date-only placeholders and update later.
+- `docs/one.ics`: one complete event per ONE Championship show, including the official venue, times, announced bouts, ONE division limits, available athlete ages, ONE records, styles, country flags and odds.
+- `docs/rizin.ics`: one complete event per RIZIN show, including official venues, localised start times, rule sets, weights in pounds and kilograms, available athlete ages, RIZIN records, styles, odds and cancellation notices. Events without an announced start time begin as date-only placeholders and update later.
 - `docs/pfl.ics`: one complete event per PFL show, including published card times, venues, announced matchups, fighter records, ages, available odds and country flags where available.
 
 ## Optional local-time fight calendar

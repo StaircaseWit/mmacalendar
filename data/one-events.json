@@ -14,35 +14,45 @@
         "blueName": "Denis Dotsenko",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Ukraine"
+        "blueCountry": "Ukraine",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kongsuk Sitsarawatsuer",
         "blueName": "Babak Solouki",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Iran"
+        "blueCountry": "Iran",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kajornklai Sor Sor Toipadriew",
         "blueName": "Singharat SitKhuntab",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Arsoonnoi Sitjasing",
         "blueName": "Nuapayak Jitmuangnon",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kongmeechai Sor Bangrajan",
         "blueName": "Andrii Mezentsev",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Ukraine"
+        "blueCountry": "Ukraine",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Dias Otegen",
@@ -56,49 +66,63 @@
         "blueName": "Ye Yint Naung",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Sheng Yizhuo",
         "blueName": "Fuga Tokoro",
         "details": "Strawweight Kickboxing",
         "redCountry": "China",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petkhaokradong Lukjaomaesaithong",
         "blueName": "Tun Min Aung",
         "details": "Welterweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petkriangkrai Jitmuangnon",
         "blueName": "Densiam Liamthanawat",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Iran"
+        "blueCountry": "Iran",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Zhang Jinhu",
         "blueName": "Sulaiman Looksuan",
         "details": "Flyweight Muay Thai",
         "redCountry": "China",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Rungruanglek TN Muaythai",
         "blueName": "Kraithong PU Phabai",
         "details": "Openweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Priaowan Petphairat",
         "blueName": "Misaki",
         "details": "Atomweight Kickboxing",
         "redCountry": "Thailand",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Chih Cheng Yu",
@@ -125,7 +149,9 @@
         "blueName": "George Jarvis",
         "details": "Lightweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "England"
+        "blueCountry": "England",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Tye Ruotolo",
@@ -139,7 +165,9 @@
         "blueName": "Ben Woolliss",
         "details": "Bantamweight Kickboxing",
         "redCountry": "Brazil",
-        "blueCountry": "United Kingdom"
+        "blueCountry": "United Kingdom",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Lee Seung Cheol",
@@ -153,7 +181,9 @@
         "blueName": "Suablack Tor Pran49",
         "details": "Flyweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Victoria Souza",
@@ -174,7 +204,9 @@
         "blueName": "Yu Yau Pui",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Hong Kong SAR China"
+        "blueCountry": "Hong Kong SAR China",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Jeremy Miado",
@@ -208,56 +240,72 @@
         "blueName": "Pompet PongSuphan PK",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ratchasiesan Laochokcharoen",
         "blueName": "Uzair Ismoiljonov",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Uzbekistan"
+        "blueCountry": "Uzbekistan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Suriyanlek Por Yenying",
         "blueName": "Gregor Thom",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Scotland"
+        "blueCountry": "Scotland",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Samingdam Looksuan",
         "blueName": "Kyaw Swar Win",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Decho Mavinn Muaythai",
         "blueName": "Elvin Kazumovi",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Azerbaijan / Georgia"
+        "blueCountry": "Azerbaijan / Georgia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Numsurin Chor Ketwina",
         "blueName": "Pet Suanluangrodyok",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Yonis Anane",
         "blueName": "Zhao Zhengdong",
         "details": "Strawweight Muay Thai",
         "redCountry": "France / Thailand",
-        "blueCountry": "China"
+        "blueCountry": "China",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Narek Khachikyan",
         "blueName": "Ryoga Terayama",
         "details": "Bantamweight Kickboxing",
         "redCountry": "Armenia",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Nabil Anane",
@@ -271,28 +319,36 @@
         "blueName": "Pakorn PK Sialaytentmungkorn",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "PTT Apichart Farm",
         "blueName": "Arian Esparza",
         "details": "Featherweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "United States"
+        "blueCountry": "United States",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Gingsanglek Wor Kumchamnarn",
         "blueName": "Yodlekpet Or Atchariya",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Adam Messaoudi",
         "blueName": "Hikaru Furumura",
         "details": "Flyweight Muay Thai",
         "redCountry": "Algeria / France",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-147/"
@@ -312,35 +368,45 @@
         "blueName": "Mehrdad Khanzadeh",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Iran"
+        "blueCountry": "Iran",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Denkriangkrai Mavinn Muaythai",
         "blueName": "Valerii Strungari",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Moldova"
+        "blueCountry": "Moldova",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Superjeng Torfunfarm",
         "blueName": "Prompadej Looksuan",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Jorge Pastor",
         "blueName": "Ahad Varghaeian",
         "details": "Featherweight Muay Thai",
         "redCountry": "Spain",
-        "blueCountry": "Iran"
+        "blueCountry": "Iran",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Krungthai Torfunfarm",
         "blueName": "Binladin Sor Poonsawat",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Sattor Rizoev",
@@ -354,49 +420,63 @@
         "blueName": "Wang Tsz Ching",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Hong Kong SAR China"
+        "blueCountry": "Hong Kong SAR China",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Sheng Yi Yang",
         "blueName": "Shota Takezoe",
         "details": "Strawweight Kickboxing",
         "redCountry": "China",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Velihan Palit",
         "blueName": "Ranma",
         "details": "Bantamweight Kickboxing",
         "redCountry": "France / Turkey",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Sonrak Fairtex",
         "blueName": "Dedduanglek Torfunfarm",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Myanmar [Burma]",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Lamnamoonlek Torfunfarm",
         "blueName": "Yuan Pengjie",
         "details": "Flyweight Kickboxing",
         "redCountry": "Thailand",
-        "blueCountry": "China"
+        "blueCountry": "China",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Anuar Cisneros",
         "blueName": "Khundet PK Saenchai",
         "details": "Flyweight Muay Thai",
         "redCountry": "Mexico",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Adham Ruziev",
         "blueName": "Shoma Okumura",
         "details": "Strawweight Kickboxing",
         "redCountry": null,
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Quoc Danh",
@@ -423,28 +503,36 @@
         "blueName": "Bejenuta Maximus",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Moldova"
+        "blueCountry": "Moldova",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Isannuea Sor Sasiwat",
         "blueName": "Khunpon Aekmuangnon",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kevin Guillen",
         "blueName": "Ali Kelat",
         "details": "Featherweight Muay Thai",
         "redCountry": "Bolivia / Spain",
-        "blueCountry": "Turkey"
+        "blueCountry": "Turkey",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Khunsuk T1 Fight Academy",
         "blueName": "Har Ling Om",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Torepchi Dongak",
@@ -458,56 +546,72 @@
         "blueName": "Vanessa Romanowski",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Poland / Sweden"
+        "blueCountry": "Poland / Sweden",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Delfan Dwi Satrio",
         "blueName": "Blackshisha Sotaro",
         "details": "Atomweight Kickboxing",
         "redCountry": "Indonesia",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Isaiah Badato",
         "blueName": "Retsu Sashida",
         "details": "Flyweight Kickboxing",
         "redCountry": "Australia",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Payakrut Suajantokmuaythai",
         "blueName": "Ikko Ota",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kaotaem Fairtex",
         "blueName": "Xavier Gonzalez",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Spain"
+        "blueCountry": "Spain",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Aekkalak Sor Samarngarment",
         "blueName": "Dokmaipa Santiubon",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Tonglampoon FA Group",
         "blueName": "Petnamkhong Sor Maneekhot",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Laos"
+        "blueCountry": "Laos",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Jaradchai Maxjandee",
         "blueName": "Thant Zin",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Zar Mawia",
@@ -534,42 +638,54 @@
         "blueName": "Attachai Kelasport",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Rambong Sor Therapat",
         "blueName": "Pethuahin Jitmuangnon",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Nuapet Torfunfarm",
         "blueName": "Sornsueknoi FA Group",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Bartek Paszczyk",
         "blueName": "Nassib Hmede",
         "details": "Lightweight Muay Thai",
         "redCountry": "Poland",
-        "blueCountry": "Lebanon"
+        "blueCountry": "Lebanon",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Dante Rodrigues",
         "blueName": "Dalian Dawody",
         "details": "Lightweight Muay Thai",
         "redCountry": "Australia / Portugal",
-        "blueCountry": "Sweden"
+        "blueCountry": "Sweden",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Chokdee Maxjandee",
         "blueName": "Salai Htan Khee Shein",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Waldimir Britez",
@@ -583,14 +699,18 @@
         "blueName": "Kazuteru Yamazaki",
         "details": "Flyweight Kickboxing",
         "redCountry": "China",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Huang Zhengbang",
         "blueName": "Kosei Yoshida",
         "details": "Flyweight Kickboxing",
         "redCountry": "China",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Regian Eersel",
@@ -604,21 +724,27 @@
         "blueName": "Rittidet Lukjaoporongtom",
         "details": "Strawweight Muay Thai",
         "redCountry": "Algeria / France",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Elies Abdelali",
         "blueName": "Hicham Zerouali",
         "details": "Featherweight Muay Thai",
         "redCountry": "France",
-        "blueCountry": "Morocco"
+        "blueCountry": "Morocco",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kaokarat Sor Tienpo",
         "blueName": "Logan Chan",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Hong Kong SAR China / Scotland"
+        "blueCountry": "Hong Kong SAR China / Scotland",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Hero Marco Manguray",
@@ -652,14 +778,18 @@
         "blueName": "Elmehdi El Jamari",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Morocco"
+        "blueCountry": "Morocco",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Suakim Pongsuphan PK",
         "blueName": "Vladimir Kuzmin",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Russia"
+        "blueCountry": "Russia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Hiroba Minowa",
@@ -673,14 +803,18 @@
         "blueName": "Diego Paez",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Colombia / United States"
+        "blueCountry": "Colombia / United States",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Dante Leon",
         "blueName": "Kenta Iwamoto",
         "details": "Welterweight Submission Grappling",
         "redCountry": "Canada",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Grappler",
+        "blueStyle": "Grappler"
       },
       {
         "redName": "Joshua Perreira",
@@ -694,7 +828,9 @@
         "blueName": "Mohanad Battbootti",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Russia / Tajikistan",
-        "blueCountry": "Iraq"
+        "blueCountry": "Iraq",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/onefightnight42/"
@@ -714,28 +850,36 @@
         "blueName": "Ubaid Hussain",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Pakistan / United Kingdom"
+        "blueCountry": "Pakistan / United Kingdom",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petmuangsri Torfunfarm",
         "blueName": "Chankrit Manop Gym",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Lamsing T1 Fight Academy",
         "blueName": "Fakhriddin Khasanov",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Uzbekistan"
+        "blueCountry": "Uzbekistan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petmuangthai Sor Naruemon",
         "blueName": "Martín Parra",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Ecuador"
+        "blueCountry": "Ecuador",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Niko Aikonen",
@@ -749,14 +893,18 @@
         "blueName": "Klinphaka Por Thaisong",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ricardo Sanchez",
         "blueName": "Ryuki Kawano",
         "details": "Strawweight Kickboxing",
         "redCountry": "Mexico",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Thoan Nguyen Thanh",
@@ -770,7 +918,9 @@
         "blueName": "Nahyan Mohammed",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "France"
+        "blueCountry": "France",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Carlo Bumina-ang",
@@ -784,21 +934,27 @@
         "blueName": "Chen Jiayi",
         "details": "Flyweight Kickboxing",
         "redCountry": "Thailand",
-        "blueCountry": "China"
+        "blueCountry": "China",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Tessa De Kom",
         "blueName": "Giorgia Pieropan",
         "details": "Atomweight Kickboxing",
         "redCountry": "Netherlands",
-        "blueCountry": "Italy"
+        "blueCountry": "Italy",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Sheng Yi Hang",
         "blueName": "Reiji",
         "details": "Strawweight Kickboxing",
         "redCountry": "China",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-151/"
@@ -846,7 +1002,9 @@
         "blueName": "Kaito",
         "details": "Featherweight Kickboxing",
         "redCountry": "Armenia",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ayaka Miura",
@@ -860,14 +1018,18 @@
         "blueName": "Taimu Hisai",
         "details": "Bantamweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Hiromi Wajima",
         "blueName": "Ricardo Bravo",
         "details": "Featherweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "Argentina"
+        "blueCountry": "Argentina",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Itsuki Hirata",
@@ -895,21 +1057,27 @@
         "blueName": "Johan Ghazali",
         "details": "Flyweight Muay Thai",
         "redCountry": "Japan",
-        "blueCountry": "Malaysia / United States"
+        "blueCountry": "Malaysia / United States",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Toma Kuroda",
         "blueName": "Toki Tamaru",
         "details": "Strawweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Hyu",
         "blueName": "Taiki Naito",
         "details": "Flyweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kanata Nagai",
@@ -936,91 +1104,117 @@
         "blueName": "Julio Lobo",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Brazil"
+        "blueCountry": "Brazil",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Panrit Lukjaomaesaiwaree",
         "blueName": "Krisana Dowdenmuaythai",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petchakrit Gavingym",
         "blueName": "Singsuek Sakanupong",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Face Erawan",
         "blueName": "Payakmuangsing PK Saenchai",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Suajan Sor Isarachot",
         "blueName": "Arsoonnoi Sitjasing",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Tepkamin ThanapolResort",
         "blueName": "Dawit T1 Fight Academy",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petsamart Muangphaphum",
         "blueName": "Jaipet Patcharagym",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": null
+        "blueCountry": null,
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Fahsai Aor Yutthachai",
         "blueName": "Natalia Diachkova",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Russia"
+        "blueCountry": "Russia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ratchasiesan Laochokcharoen",
         "blueName": "Elbrus Osmanov",
         "details": "Featherweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Russia"
+        "blueCountry": "Russia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Duangdawnoi Looksaikongdin",
         "blueName": "Yana Yip",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Hong Kong SAR China"
+        "blueCountry": "Hong Kong SAR China",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Suksawat PK Saenchai",
         "blueName": "Linus Bylander",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Sweden"
+        "blueCountry": "Sweden",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Cho Kyeong Jae",
         "blueName": "Dzhamil Osmanov",
         "details": "Bantamweight Kickboxing",
         "redCountry": "South Korea",
-        "blueCountry": null
+        "blueCountry": null,
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Chatpet Suablackmuaythai",
         "blueName": "Riku Ito",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-152/"
@@ -1040,56 +1234,72 @@
         "blueName": "Tom Casse",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "France"
+        "blueCountry": "France",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Dedduanglek Torfunfarm",
         "blueName": "Cyber Sor Tienpo",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Khunponnoi Sor Sommai",
         "blueName": "Ye Yint Naung",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kaewkangwan Torfunfarm",
         "blueName": "Mohamed Taoufyq",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Morocco"
+        "blueCountry": "Morocco",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kendu Irving",
         "blueName": "Adam Benwarwar",
         "details": "Bantamweight Muay Thai",
         "redCountry": "United States",
-        "blueCountry": "Morocco"
+        "blueCountry": "Morocco",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Hern Looksuan",
         "blueName": "Cihan Dogu",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Turkey"
+        "blueCountry": "Turkey",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Taylor McClatchie",
         "blueName": "Zoe Neuschwander",
         "details": "Flyweight Muay Thai",
         "redCountry": "Canada",
-        "blueCountry": "Switzerland"
+        "blueCountry": "Switzerland",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Wan Muhammad Sabri",
         "blueName": "Aldo Cruz",
         "details": "Flyweight Muay Thai",
         "redCountry": "Malaysia",
-        "blueCountry": "Mexico"
+        "blueCountry": "Mexico",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Jongjun Park",
@@ -1103,35 +1313,45 @@
         "blueName": "Enzo Clarisse",
         "details": "Strawweight Muay Thai",
         "redCountry": "Malaysia / Thailand",
-        "blueCountry": "France"
+        "blueCountry": "France",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Rifdean Masdor",
         "blueName": "Petkiattisak O Sansuk",
         "details": "Atomweight Muay Thai",
         "redCountry": "Malaysia",
-        "blueCountry": "Laos"
+        "blueCountry": "Laos",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Chartpayak Saksatoon",
         "blueName": "Thway Lin Htet",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petkhaokradong Lukjaomaesaithong",
         "blueName": "Victor Hugo",
         "details": "Lightweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Brazil"
+        "blueCountry": "Brazil",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Rodrigo Marello",
         "blueName": "Daiki Yonekura",
         "details": "Bantamweight Submission Grappling",
         "redCountry": "Brazil",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Grappler",
+        "blueStyle": "Grappler"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-153/"
@@ -1151,63 +1371,81 @@
         "blueName": "Yodphupa Petkiatpet",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Rungnarai Kiatmoo9",
         "blueName": "Den Sitnayoktaweeptaphong",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Sanit Aekmuangnon",
         "blueName": "Elvin Mammadov",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Azerbaijan"
+        "blueCountry": "Azerbaijan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Dafi Sor Dechapan",
         "blueName": "Anouwat Merlet",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "France / Laos"
+        "blueCountry": "France / Laos",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Saenmuangnoi PK Saenchai",
         "blueName": "Asura Thiagesh",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Malaysia"
+        "blueCountry": "Malaysia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Mahesuan Aekmuangnon",
         "blueName": "Aung Tun Bo",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Wang Penghui",
         "blueName": "Semih Sah Cindir",
         "details": "Featherweight Kickboxing",
         "redCountry": "China",
-        "blueCountry": "Turkey"
+        "blueCountry": "Turkey",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Sulaiman Looksuan",
         "blueName": "Juan Martinez",
         "details": "Flyweight Muay Thai",
         "redCountry": "Myanmar [Burma]",
-        "blueCountry": "Spain"
+        "blueCountry": "Spain",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Denis Dotsenko",
         "blueName": "Hiroki Suzuki",
         "details": "Bantamweight Kickboxing",
         "redCountry": "Ukraine",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Oumar Kane",
@@ -1228,14 +1466,18 @@
         "blueName": "Abdulla Dayakaev",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Russia"
+        "blueCountry": "Russia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Mia Trevorrow",
         "blueName": "Kokoz",
         "details": "Atomweight Muay Thai",
         "redCountry": "United Kingdom",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-154/"
@@ -1253,7 +1495,7 @@
       {
         "redName": "Tang Kai",
         "blueName": "Shamil Gasanov",
-        "details": "Featherweight MMA World Championship",
+        "details": "Featherweight World Championship",
         "redCountry": "China",
         "blueCountry": "Russia"
       },
@@ -1262,26 +1504,32 @@
         "blueName": "Ben Woolliss",
         "details": "Bantamweight Kickboxing",
         "redCountry": "Thailand",
-        "blueCountry": "United Kingdom"
+        "blueCountry": "United Kingdom",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Diogo Reis",
         "blueName": "Yuki Takahashi",
         "details": "Bantamweight Submission Grappling",
         "redCountry": "Brazil",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Grappler",
+        "blueStyle": "Grappler"
       },
       {
         "redName": "Aslamjon Ortikov",
         "blueName": "Jordan Estupinan",
         "details": "Flyweight Muay Thai",
         "redCountry": "Uzbekistan",
-        "blueCountry": "Colombia"
+        "blueCountry": "Colombia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Yosuke Saruta",
         "blueName": "Fabio Henrique",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redCountry": "Japan",
         "blueCountry": "Brazil"
       },
@@ -1290,26 +1538,32 @@
         "blueName": "Nontachai Jitmuangnon",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Brazil",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Eko Roni Saputra",
         "blueName": "Lito Adiwang",
-        "details": "Bantamweight MMA",
+        "details": "Bantamweight Mixed Martial Arts",
         "redCountry": "Indonesia",
         "blueCountry": "Philippines"
       },
       {
         "redName": "Luo Chao",
         "blueName": "Denis Souza Jr",
-        "details": "Featherweight Kickboxing"
+        "details": "Featherweight Kickboxing",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Johanna Persson",
         "blueName": "Martyna Dominczak",
         "details": "Atomweight Muay Thai",
         "redCountry": "Sweden",
-        "blueCountry": "Poland"
+        "blueCountry": "Poland",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/onefightnight43/"
@@ -1329,84 +1583,108 @@
         "blueName": "Rustam Yunusov",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Russia"
+        "blueCountry": "Russia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Panpayak Jitmuangnon",
         "blueName": "Othman Rhouni",
         "details": "Bantamweight Kickboxing",
         "redCountry": "Thailand",
-        "blueCountry": "Morocco"
+        "blueCountry": "Morocco",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kohtao Petsomnuk",
         "blueName": "Dokmaipa Santiubon",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Chokpreecha PK TomTKalaiyont",
         "blueName": "Huynh Van Tuan",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Vietnam"
+        "blueCountry": "Vietnam",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Rungruanglek TN Muaythai",
         "blueName": "Terdkiat Sit Jaykarn",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kom PK Saenchai",
         "blueName": "Kwangpa Teenoikachin",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Sheng Yizhuo",
         "blueName": "Shoma Okumura",
         "details": "Strawweight Kickboxing",
         "redCountry": "China",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Yi Nuo",
         "blueName": "Ranma",
         "details": "Bantamweight Kickboxing",
         "redCountry": "China",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Yod-IQ Or Pimolsri",
         "blueName": "Kiamran Nabati",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Russia"
+        "blueCountry": "Russia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Liu Mengyang",
         "blueName": "Gabriel Pereira",
         "details": "Featherweight Kickboxing",
         "redCountry": "China",
-        "blueCountry": "Venezuela"
+        "blueCountry": "Venezuela",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Freddie Haggerty",
         "blueName": "Yonis Anane",
         "details": "Strawweight Muay Thai",
         "redCountry": "England",
-        "blueCountry": "France / Thailand"
+        "blueCountry": "France / Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Vero",
         "blueName": "Kana",
         "details": "Atomweight Kickboxing",
         "redCountry": "Myanmar [Burma]",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Viet Anh Do",
@@ -1433,42 +1711,54 @@
         "blueName": "Khakimov Anisjon",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Uzbekistan"
+        "blueCountry": "Uzbekistan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Mongkoldetlek Por Pim-on",
         "blueName": "Ruslan Tuktarov",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Russia"
+        "blueCountry": "Russia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petmuangsri Torfunfarm",
         "blueName": "Diogo Miguel Silva",
         "details": "Flyweight Kickboxing",
         "redCountry": "Thailand",
-        "blueCountry": "Cape Verde"
+        "blueCountry": "Cape Verde",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Songpandin Chor Kaewwiset",
         "blueName": "Guanyu Sor Ratchanikul",
         "details": "Flyweight Muay Thai",
         "redCountry": "Laos",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Tandiao Por Prawit",
         "blueName": "Bakjo Sitkhunma",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petbangsaray Por Aowtalaybangsaray",
         "blueName": "Wanchana Bomuangpan",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Monjit Yein",
@@ -1482,35 +1772,45 @@
         "blueName": "Kosei Yoshida",
         "details": "Flyweight Kickboxing",
         "redCountry": "Vietnam",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ramadan Ondash",
         "blueName": "Suriyanlek Por Yenying",
         "details": "Flyweight Muay Thai",
         "redCountry": "Lebanon",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Abdallah Ondash",
         "blueName": "Denkriangkrai Mavinn Muaythai",
         "details": "Strawweight Muay Thai",
         "redCountry": "Lebanon",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Tangtang Sor Dechapan",
         "blueName": "Zeynep Cetintas",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Turkey"
+        "blueCountry": "Turkey",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Li-Chih Yeh",
         "blueName": "Yuto Hirayama",
         "details": "Atomweight Kickboxing",
         "redCountry": "Taipei, China",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Adilet Kalenderov",
@@ -1537,56 +1837,72 @@
         "blueName": "Saw Min Min",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Xavier Gonzalez",
         "blueName": "Payaksurin JP Power",
         "details": "Flyweight Muay Thai",
         "redCountry": "Spain",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Lamnamkhong BS Muaythai",
         "blueName": "Kajornklai Sor Sor Toipadriew",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Laos",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Jomhod Wor Auracha",
         "blueName": "Petkongfa Wor Technoluangpusuang",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Krungthai Torfunfarm",
         "blueName": "Tepatip Champkhaomootod",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Alicia Sanchez Saez",
         "blueName": "Nongnuk Sor Dechapan",
         "details": "Atomweight Muay Thai",
         "redCountry": "Spain",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Tayo Zahir",
         "blueName": "Mahan Fotouhi",
         "details": "Lightweight Muay Thai",
         "redCountry": "United Kingdom",
-        "blueCountry": "Iran"
+        "blueCountry": "Iran",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Jacob Thompson",
         "blueName": "Takuma Ota",
         "details": "Flyweight Muay Thai",
         "redCountry": "United Kingdom",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Nazareth Lalthazuala",
@@ -1600,28 +1916,36 @@
         "blueName": "Valerii Strungari",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Moldova"
+        "blueCountry": "Moldova",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Jaosuayai Mor Krungthepthonburi",
         "blueName": "Yuan Pengjie",
         "details": "Flyweight Kickboxing",
         "redCountry": "Thailand",
-        "blueCountry": "China"
+        "blueCountry": "China",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Banluelok Sitwatcharachai",
         "blueName": "Rak Erawan",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Rahim Tcherchaiko",
         "blueName": "Zhang Jinhu",
         "details": "Flyweight Kickboxing",
         "redCountry": "Belgium",
-        "blueCountry": "China"
+        "blueCountry": "China",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Julian Mayorga",
@@ -1648,91 +1972,117 @@
         "blueName": "Petnamkhong Sor Maneekhot",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Laos"
+        "blueCountry": "Laos",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Mamuka Usubyan",
         "blueName": "Enzo Kartoum",
         "details": "Featherweight Kickboxing",
         "redCountry": "Russia",
-        "blueCountry": "France"
+        "blueCountry": "France",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kyaw Swar Win",
         "blueName": "Slatan Jitmuangnon",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Myanmar [Burma]",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petphupa Aekpujean",
         "blueName": "Wuttidet Torfunfarm",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Tepkamin ThanapolResort",
         "blueName": "YodUdon K Tongtalingchan",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petsuphan Lookmuangpet",
         "blueName": "Rawee Puanpratuphee",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ricardo Sanchez",
         "blueName": "Yanis Ben Alaya",
         "details": "Strawweight Muay Thai",
         "redCountry": "Mexico",
-        "blueCountry": "France"
+        "blueCountry": "France",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Sheila Barrios",
         "blueName": "Ployjan Sitnayokdam",
         "details": "Atomweight Muay Thai",
         "redCountry": "Argentina",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Chen Jiayi",
         "blueName": "Kazuteru Yamazaki",
         "details": "Flyweight Kickboxing",
         "redCountry": "China",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Tomyamkoong Bhumjaithai",
         "blueName": "Anar Mammadov",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Azerbaijan"
+        "blueCountry": "Azerbaijan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Rambong Sor Therapat",
         "blueName": "Sornsueknoi FA Group",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Titus Proctor",
         "blueName": "Tun Min Aung",
         "details": "Lightweight Muay Thai",
         "redCountry": "New Zealand",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Adham Ruziev",
         "blueName": "Sora Tanazawa",
         "details": "Strawweight Kickboxing",
         "redCountry": null,
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ethan Brockett",
@@ -1759,47 +2109,59 @@
         "blueName": "Chatanan Apichat Muaythai",
         "details": "Flyweight Muay Thai",
         "redCountry": "Spain",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petgarfield Jitmuangnon",
         "blueName": "Denis Dotsenko",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Ukraine"
+        "blueCountry": "Ukraine",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kritpet PK Saenchai",
         "blueName": "Petlampun Muadablampang",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Teeyai Torfunfarm",
         "blueName": "Har Ling Om",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Arthur Klopp",
         "blueName": "Soner Sen",
         "details": "Bantamweight Kickboxing",
         "redCountry": "France",
-        "blueCountry": "Turkey"
+        "blueCountry": "Turkey",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Nuapatapee Pudprachachuen",
         "blueName": "Gaichon Sor Prawatmuang",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Bos Chayut",
         "blueName": "Hsiang Liao",
-        "details": "Bantamweight MMA",
+        "details": "Bantamweight Mixed Martial Arts",
         "redCountry": "Thailand",
         "blueCountry": "Taipei, China"
       },
@@ -1808,12 +2170,14 @@
         "blueName": "Kakeru",
         "details": "Flyweight Kickboxing",
         "redCountry": "Morocco",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Sarmad Jahanara",
         "blueName": "Ryo Goto",
-        "details": "Lightweight MMA",
+        "details": "Lightweight Mixed Martial Arts",
         "redCountry": "Australia",
         "blueCountry": "Japan"
       },
@@ -1825,7 +2189,7 @@
       {
         "redName": "Samet Agdeve",
         "blueName": "Roman Kryklia",
-        "details": "Heavyweight Kickboxing World Championship",
+        "details": "Heavyweight World Championship",
         "redCountry": "Turkey",
         "blueCountry": "Ukraine"
       },
@@ -1834,14 +2198,18 @@
         "blueName": "Javad Mozafari",
         "details": "Atomweight Muay Thai",
         "redCountry": "Malaysia",
-        "blueCountry": "Iran"
+        "blueCountry": "Iran",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Olivia Bahsous",
         "blueName": "Phontip Khlongtoeiyouthcenter",
-        "details": "102 LBS Muay Thai",
+        "details": "Catchweight Muay Thai",
         "redCountry": "Canada",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-159/"
@@ -1861,63 +2229,81 @@
         "blueName": "Songchainoi Kiatsongrit",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Yodkhunpon",
         "blueName": "Semih Sah Cindir",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Turkey"
+        "blueCountry": "Turkey",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Wanchainoi Pongsuphan PK",
         "blueName": "Dokmaipa Santiubon",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ubaid Hussain",
         "blueName": "Sanpet Sor Salacheep",
         "details": "Flyweight Muay Thai",
         "redCountry": "Pakistan / United Kingdom",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Chartpayak Saksatoon",
         "blueName": "Panpadej Looksuan",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Face Erawan",
         "blueName": "Rungruanglek TN Muaythai",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Pet Suanluangrodyok",
         "blueName": "Adam Sor Dechapan",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Malaysia / Thailand"
+        "blueCountry": "Malaysia / Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ayad Albadr",
         "blueName": "Saenmuangnoi PK Saenchai",
         "details": "Flyweight Muay Thai",
         "redCountry": "Iraq",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Hern Looksuan",
         "blueName": "Ryuya Okuwaki",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Asadula Imangazaliev",
@@ -1931,28 +2317,36 @@
         "blueName": "Kongthoranee Sor Sommai",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "PTT Apichart Farm",
         "blueName": "Julio Lobo",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Brazil"
+        "blueCountry": "Brazil",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Stamp Fairtex",
         "blueName": "Cynthia Flores",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Mexico"
+        "blueCountry": "Mexico",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Muangthai PK Saenchai",
         "blueName": "Panrit Lukjaomaesaiwaree",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-160/"
@@ -1972,7 +2366,9 @@
         "blueName": "Rungrawee Sitsongpeenong",
         "details": "Lightweight Muay Thai",
         "redCountry": "England",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ok Rae Yoon",
@@ -1986,28 +2382,36 @@
         "blueName": "Johan Estupinan",
         "details": "Flyweight Kickboxing",
         "redCountry": "Azerbaijan",
-        "blueCountry": "Colombia"
+        "blueCountry": "Colombia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Sam Fitzgerald",
         "blueName": "Charlie Guest",
         "details": "Featherweight Muay Thai",
         "redCountry": "New Zealand",
-        "blueCountry": "England"
+        "blueCountry": "England",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Nakrob Fairtex",
         "blueName": "Jacob Smith",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "United Kingdom"
+        "blueCountry": "United Kingdom",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Fabricio Andrey",
         "blueName": "Owen Jones",
         "details": "Featherweight Submission Grappling",
         "redCountry": "Brazil",
-        "blueCountry": "England"
+        "blueCountry": "England",
+        "redStyle": "Grappler",
+        "blueStyle": "Grappler"
       },
       {
         "redName": "Karen Ghazaryan",
@@ -2021,7 +2425,9 @@
         "blueName": "Shinji Suzuki",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Paul Elliott",
@@ -2048,42 +2454,54 @@
         "blueName": "Othman Rhouni",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Morocco"
+        "blueCountry": "Morocco",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petsiam T2A Waterubon",
         "blueName": "Nihad Taghizade",
         "details": "Strawweight Kickboxing",
         "redCountry": "Thailand",
-        "blueCountry": "Azerbaijan"
+        "blueCountry": "Azerbaijan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Tonglampoon FA Group",
         "blueName": "Petsangwan Sor Samarngarment",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Tom Keogh",
         "blueName": "Michael Baranov",
         "details": "Featherweight Muay Thai",
         "redCountry": "Ireland",
-        "blueCountry": "Russia"
+        "blueCountry": "Russia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Klarob NuiCafeboran",
         "blueName": "Omar El Halabi",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Lebanon"
+        "blueCountry": "Lebanon",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Nuengkaonueng Laochokcharoen",
         "blueName": "Meshal Alsaeed",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Kuwait"
+        "blueCountry": "Kuwait",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Alexandre Khan",
@@ -2097,14 +2515,18 @@
         "blueName": "Sunvo Torfunfarm",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Phatiphan Arthinkong",
         "blueName": "J Han",
         "details": "Featherweight Submission Grappling",
         "redCountry": "Thailand",
-        "blueCountry": "Malaysia"
+        "blueCountry": "Malaysia",
+        "redStyle": "Grappler",
+        "blueStyle": "Grappler"
       },
       {
         "redName": "Min Sung Kang",
@@ -2132,14 +2554,18 @@
         "blueName": "Tom Casse",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "France"
+        "blueCountry": "France",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Elies Abdelali",
         "blueName": "Ali Kelat",
         "details": "Featherweight Muay Thai",
         "redCountry": "France",
-        "blueCountry": "Turkey"
+        "blueCountry": "Turkey",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-161/"
@@ -2159,56 +2585,72 @@
         "blueName": "Adam Benwarwar",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Morocco"
+        "blueCountry": "Morocco",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Khunponnoi Sor Sommai",
         "blueName": "Gregor Thom",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Scotland"
+        "blueCountry": "Scotland",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Buakaew Sor Sor Pakorn",
         "blueName": "Aldo Cruz",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Mexico"
+        "blueCountry": "Mexico",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Singsuek Sakanupong",
         "blueName": "Watcharaphon Risingmuaythai",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Jaxson Hayman",
         "blueName": "Liu Quan",
         "details": "Lightweight Muay Thai",
         "redCountry": "Australia",
-        "blueCountry": "China"
+        "blueCountry": "China",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petubon Sor Teanchai",
         "blueName": "Lerdsila Jitmuangnon",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ali Al-Kinani",
         "blueName": "Ryunosuke Omori",
         "details": "Strawweight Kickboxing",
         "redCountry": "Iraq",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Mia Trevorrow",
         "blueName": "Magdalena Pircher",
         "details": "Atomweight Muay Thai",
         "redCountry": "United Kingdom",
-        "blueCountry": "Italy"
+        "blueCountry": "Italy",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Jonathan Di Bella",
@@ -2222,28 +2664,36 @@
         "blueName": "Paige Ivette Clymer",
         "details": "Openweight Submission Grappling",
         "redCountry": "United States",
-        "blueCountry": "United States"
+        "blueCountry": "United States",
+        "redStyle": "Grappler",
+        "blueStyle": "Grappler"
       },
       {
         "redName": "Kompikart PK Saenchai",
         "blueName": "Mustafa Al-Tekreeti",
         "details": "Lightweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Iraq"
+        "blueCountry": "Iraq",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Sonrak Fairtex",
         "blueName": "Wuttikrai Wor Chakrawut",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Myanmar [Burma]",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Yuki Yoza",
         "blueName": "Ben Woolliss",
         "details": "Bantamweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "United Kingdom"
+        "blueCountry": "United Kingdom",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-162/"
@@ -2263,14 +2713,18 @@
         "blueName": "Mohamed Younes Rabah",
         "details": "Featherweight Muay Thai",
         "redCountry": "United States",
-        "blueCountry": "Algeria"
+        "blueCountry": "Algeria",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Suablack Tor Pran49",
         "blueName": "Stephen Irvine",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Scotland"
+        "blueCountry": "Scotland",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Lito Adiwang",
@@ -2291,7 +2745,9 @@
         "blueName": "Dmitrii Kovtun",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Brazil",
-        "blueCountry": "Russia / Tajikistan"
+        "blueCountry": "Russia / Tajikistan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Bokang Masunyane",
@@ -2305,7 +2761,9 @@
         "blueName": "Sean Climaco",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Philippines / United States"
+        "blueCountry": "Philippines / United States",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ayaka Miura",
@@ -2339,35 +2797,45 @@
         "blueName": "Nat Khat Min",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Mongkoldetlek Por Pim-on",
         "blueName": "Utkirzhon Khamidov",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Uzbekistan"
+        "blueCountry": "Uzbekistan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Brazil Aekmuangnon",
         "blueName": "Grippen Rachanon",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petsamart Muangphaphum",
         "blueName": "Petsuphan Lookmuangpet",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Zhao Zhengdong",
         "blueName": "Eduard Markarian",
         "details": "Strawweight Muay Thai",
         "redCountry": "China",
-        "blueCountry": null
+        "blueCountry": null,
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "O'Neal Thompson",
@@ -2381,14 +2849,18 @@
         "blueName": "YodUdon K Tongtalingchan",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Nakee Siriluckmuaythai",
         "blueName": "Petbancha Hongthongmuaythai",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Jay De Villa",
@@ -2409,28 +2881,36 @@
         "blueName": "Anuar Cisneros",
         "details": "Bantamweight Kickboxing",
         "redCountry": "Thailand",
-        "blueCountry": "Mexico"
+        "blueCountry": "Mexico",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Michel Dirlenbach",
         "blueName": "Mahan Fotouhi",
         "details": "Lightweight Muay Thai",
         "redCountry": "Germany",
-        "blueCountry": "Iran"
+        "blueCountry": "Iran",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ryujin Nasukawa",
         "blueName": "Thongpoon PK Saenchai",
         "details": "Strawweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kosei Yoshida",
         "blueName": "Liu Junchao",
         "details": "Flyweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "China"
+        "blueCountry": "China",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-163/"
@@ -2450,49 +2930,63 @@
         "blueName": "Akram Hamidi",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Algeria / France"
+        "blueCountry": "Algeria / France",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Arsoonnoi Sitjasing",
         "blueName": "Nongkhailek Dr.Knotmuaythai",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Pongsiri Sujeebameekiew",
         "blueName": "Adham Ruziev",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": null
+        "blueCountry": null,
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kongmeechai Sor Bangrajan",
         "blueName": "Thongchai Jeabramintra",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Islay Erika Bomogao",
         "blueName": "Klinphaka Por Thaisong",
         "details": "Atomweight Muay Thai",
         "redCountry": "Philippines",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Rahim Tcherchaiko",
         "blueName": "Diogo Miguel Silva",
         "details": "Flyweight Kickboxing",
         "redCountry": "Belgium",
-        "blueCountry": "Cape Verde"
+        "blueCountry": "Cape Verde",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Olivia Bahsous",
         "blueName": "Nonglek Krudamgym",
         "details": "Atomweight Muay Thai",
         "redCountry": "Canada",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Philemon Bitrus Jeb",
@@ -2506,7 +3000,9 @@
         "blueName": "Shinichi Watanabe",
         "details": "Atomweight Muay Thai",
         "redCountry": "Laos",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Enkh-Orgil Baatarkhuu",
@@ -2520,21 +3016,27 @@
         "blueName": "Ramadan Ondash",
         "details": "Flyweight Muay Thai",
         "redCountry": "Malaysia / United States",
-        "blueCountry": "Lebanon"
+        "blueCountry": "Lebanon",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Chokpreecha PK TomTKalaiyont",
         "blueName": "Abdallah Ondash",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Lebanon"
+        "blueCountry": "Lebanon",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Salvador Velazquez Villarello",
         "blueName": "Asahi Shinagawa",
         "details": "Strawweight Muay Thai",
         "redCountry": "Mexico",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-164/"
@@ -2554,98 +3056,126 @@
         "blueName": "Pet Suanluangrodyok",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Suksawat PK Saenchai",
         "blueName": "Ilyas Musaev",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Russia"
+        "blueCountry": "Russia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Monpraram Sitpetchalukan",
         "blueName": "Kom PK Saenchai",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Rawee Looksuan",
         "blueName": "Tantawy Ahmed",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Egypt"
+        "blueCountry": "Egypt",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Changthong M U Den",
         "blueName": "Petanda Kiatyodying",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Attachai Looksuan",
         "blueName": "Superchamp Wutdychonburipraleasing",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Pettri Sitjaedang",
         "blueName": "Aung Tun Bo",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Songpandin Chor Kaewwiset",
         "blueName": "Vincenzo Esposito",
         "details": "Flyweight Muay Thai",
         "redCountry": "Laos",
-        "blueCountry": "Italy"
+        "blueCountry": "Italy",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Peng Zihao",
         "blueName": "Tsubasa",
         "details": "Strawweight Kickboxing",
         "redCountry": "China",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Nabil Anane",
         "blueName": "Suakim Pongsuphan PK",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Algeria / Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Abdulla Dayakaev",
         "blueName": "Superlek",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Russia",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Marat Grigorian",
         "blueName": "Mamuka Usubyan",
         "details": "Featherweight Kickboxing",
         "redCountry": "Armenia",
-        "blueCountry": "Russia"
+        "blueCountry": "Russia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Tahaneak Nayokatasala",
         "blueName": "Dabdam Por Tor Tor Thongtawee",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Chatpet Suablackmuaythai",
         "blueName": "Riku Ito",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-165/"
@@ -2665,21 +3195,27 @@
         "blueName": "Liu Mengyang",
         "details": "Featherweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "China"
+        "blueCountry": "China",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kaito",
         "blueName": "Mohammad Siasarani",
         "details": "Featherweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "Iran"
+        "blueCountry": "Iran",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kosuke Takagi",
         "blueName": "Luo Chao",
         "details": "Featherweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "China"
+        "blueCountry": "China",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Keito Yamakita",
@@ -2693,21 +3229,27 @@
         "blueName": "Ryuto Shiokawa",
         "details": "Featherweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Shoma Okumura",
         "blueName": "Reiji",
         "details": "Strawweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ranma",
         "blueName": "Katsuki Kitano",
         "details": "Bantamweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Subaru Mori",
@@ -2734,42 +3276,54 @@
         "blueName": "Panpadej Looksuan",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Denkriangkrai Mavinn Muaythai",
         "blueName": "Abdessamie Rhenimi",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Morocco"
+        "blueCountry": "Morocco",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Pet Sitchalongsak",
         "blueName": "Sompongchai Sit Dr.Charnchai",
         "details": "Featherweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Aidangkoeychai Sitkaewprapon",
         "blueName": "Saipetlek Rongsamak Orborjor Udon Thani",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Laos"
+        "blueCountry": "Laos",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Arthur Klopp",
         "blueName": "Gabriel Pereira",
         "details": "Bantamweight Kickboxing",
         "redCountry": "France",
-        "blueCountry": "Venezuela"
+        "blueCountry": "Venezuela",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Chamanow Santiubon",
         "blueName": "Babak Haghi",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Iran"
+        "blueCountry": "Iran",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Batochir Batsaikhan",
@@ -2783,7 +3337,9 @@
         "blueName": "Zeynep Cetintas",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Turkey"
+        "blueCountry": "Turkey",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Chi Lu Lee",
@@ -2797,35 +3353,45 @@
         "blueName": "Petnamkhong Sor Maneekhot",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Laos"
+        "blueCountry": "Laos",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Gingsanglek Wor Kumchamnarn",
         "blueName": "Dmitri Ramos",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "United States"
+        "blueCountry": "United States",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petkhaokradong Lukjaomaesaithong",
         "blueName": "Vadzim Shapiatsiuk",
         "details": "Lightweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Belarus"
+        "blueCountry": "Belarus",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Bakjo Sitkhunma",
         "blueName": "Petsuphan Por Prajansi",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Nongnuk Sor Dechapan",
         "blueName": "Saya Ito",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-166/"
@@ -2843,7 +3409,7 @@
       {
         "redName": "Stella Hemetsberger",
         "blueName": "Natalia Diachkova",
-        "details": "Strawweight Muay Thai World Championship",
+        "details": "Strawweight World Championship",
         "redCountry": "Austria",
         "blueCountry": "Russia"
       },
@@ -2852,12 +3418,14 @@
         "blueName": "Zhou Jiaqiang",
         "details": "Featherweight Kickboxing",
         "redCountry": "Scotland",
-        "blueCountry": "China"
+        "blueCountry": "China",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Jhanlo Mark Sangiao",
         "blueName": "Marcos Aurelio",
-        "details": "Bantamweight MMA",
+        "details": "Bantamweight Mixed Martial Arts",
         "redCountry": "Philippines",
         "blueCountry": "Brazil"
       },
@@ -2866,12 +3434,14 @@
         "blueName": "Yu Yau Pui",
         "details": "Atomweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "Hong Kong SAR China"
+        "blueCountry": "Hong Kong SAR China",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Viet Anh Do",
         "blueName": "Davi Brandāo",
-        "details": "Flyweight MMA",
+        "details": "Flyweight Mixed Martial Arts",
         "redCountry": "New Zealand / Vietnam",
         "blueCountry": "Brazil"
       },
@@ -2880,19 +3450,23 @@
         "blueName": "Meyram Maquine",
         "details": "Featherweight Submission Grappling",
         "redCountry": "Brazil",
-        "blueCountry": "Brazil"
+        "blueCountry": "Brazil",
+        "redStyle": "Grappler",
+        "blueStyle": "Grappler"
       },
       {
         "redName": "Natalie Salcedo",
         "blueName": "Magdalena Czaban",
-        "details": "Atomweight MMA",
+        "details": "Atomweight Mixed Martial Arts",
         "redCountry": "United States",
         "blueCountry": "Poland"
       },
       {
         "redName": "Dmitrii Kovtun",
         "blueName": "Denis Souza Jr",
-        "details": "Bantamweight Kickboxing"
+        "details": "Bantamweight Kickboxing",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/onefightnight46/"
@@ -2912,28 +3486,36 @@
         "blueName": "Kongsuk Sitsarawatsuer",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Yokkiri TN Muaythai",
         "blueName": "Ali Al-Kinani",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Iraq"
+        "blueCountry": "Iraq",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kajornklai Sor Sor Toipadriew",
         "blueName": "Tewadalek Tor Muangthoenmuaythai",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petgarfield Jitmuangnon",
         "blueName": "Netpayak Changaewburiram",
         "details": "Featherweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Nauris Bartoska",
@@ -2947,56 +3529,72 @@
         "blueName": "Giorgia Pieropan",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Italy"
+        "blueCountry": "Italy",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Vusal Aliyev",
         "blueName": "Raize",
         "details": "Strawweight Kickboxing",
         "redCountry": "Azerbaijan",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Sheng Yi Yang",
         "blueName": "Shota Takezoe",
         "details": "Flyweight Muay Thai",
         "redCountry": "China",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Songchainoi Kiatsongrit",
         "blueName": "Banluelok Sitwatcharachai",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kyaw Swar Win",
         "blueName": "Komawut FA Group",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Myanmar [Burma]",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Yodphupa Petkiatpet",
         "blueName": "Saw Min Min",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Dalian Dawody",
         "blueName": "Lamin Souayah",
         "details": "Lightweight Muay Thai",
         "redCountry": "Sweden",
-        "blueCountry": "Libya"
+        "blueCountry": "Libya",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ben Longstaff",
         "blueName": "Kazuteru Yamazaki",
         "details": "Flyweight Kickboxing",
         "redCountry": "United Kingdom",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-167/"
@@ -3016,56 +3614,72 @@
         "blueName": "Mohammad Habibpour",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Iran"
+        "blueCountry": "Iran",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petphupa Aekpujean",
         "blueName": "Brazil Aekmuangnon",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Nuengkaonueng Laochokcharoen",
         "blueName": "Denis Dotsenko",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Ukraine"
+        "blueCountry": "Ukraine",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Korpai Sor Yingcharoenkarnchang",
         "blueName": "Petburapha Petchompu",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Chalamkhao Sitkhunma",
         "blueName": "Mohammed Faizan",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "United Kingdom"
+        "blueCountry": "United Kingdom",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Burklerk Lookmuangpet",
         "blueName": "Nueapayak Pudprachachuen",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Zhao Chongyang",
         "blueName": "Yuri Tanaka",
         "details": "Bantamweight Kickboxing",
         "redCountry": "China",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Fahlab Nakhonsawan Sports School",
         "blueName": "Valentina Cancello",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Italy"
+        "blueCountry": "Italy",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Geun Ho Son",
@@ -3079,35 +3693,45 @@
         "blueName": "Lenny Blasi",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Italy"
+        "blueCountry": "Italy",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Rambong Sor Therapat",
         "blueName": "Chartpayak Saksatoon",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Isannuea Sor Sasiwat",
         "blueName": "Ubaid Hussain",
         "details": "Openweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Pakistan / United Kingdom"
+        "blueCountry": "Pakistan / United Kingdom",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Basta Abdelmouneme",
         "blueName": "Fakhriddin Khasanov",
         "details": "Flyweight Muay Thai",
         "redCountry": "Algeria",
-        "blueCountry": "Uzbekistan"
+        "blueCountry": "Uzbekistan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Jung Hyun Woo",
         "blueName": "Keisuke Monguchi",
         "details": "Strawweight Kickboxing",
         "redCountry": "South Korea",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-168/"
@@ -3127,31 +3751,39 @@
         "blueName": "Sunvo Torfunfarm",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Dansiam Weerasakreck",
         "blueName": "Arman Moradi",
         "details": "Featherweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Iran"
+        "blueCountry": "Iran",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Sunday Sor Sombatfarm",
         "blueName": "Kongpoxay PK Saenchai",
-        "details": "Strawweight Muay Thai"
+        "details": "Strawweight Muay Thai",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Pinsiam Sitbonsakon",
         "blueName": "Yodphupa TeamMehdiZatout",
         "details": "Flyweight Kickboxing",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ruslan Bulut",
         "blueName": "Sanzhar Mansurov",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redCountry": "Turkey / Turkmenistan",
         "blueCountry": "Kyrgyzstan"
       },
@@ -3160,49 +3792,63 @@
         "blueName": "Yanis Ben Alaya",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "France"
+        "blueCountry": "France",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Daniel Vortiah",
         "blueName": "Ryoya Inai",
         "details": "Featherweight Kickboxing",
         "redCountry": "Ghana / Spain",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Petmuangsri Torfunfarm",
         "blueName": "Gregor Thom",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Scotland"
+        "blueCountry": "Scotland",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Mongkoldetlek Por Pim-on",
         "blueName": "Yassir Rassafi",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Morocco"
+        "blueCountry": "Morocco",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Rak Erawan",
         "blueName": "Hern Looksuan",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Songpandin Chor Kaewwiset",
         "blueName": "Petsiam Soonsrangthangtak",
         "details": "Flyweight Muay Thai",
         "redCountry": "Laos",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Isaiah Badato",
         "blueName": "Kyo Kawakami",
         "details": "Flyweight Kickboxing",
         "redCountry": "Australia",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-169/"
@@ -3222,19 +3868,23 @@
         "blueName": "Selina Flores",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "United States"
+        "blueCountry": "United States",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Mohamed Younes Rabah",
         "blueName": "Ricardo Bravo",
         "details": "Featherweight Muay Thai",
         "redCountry": "Algeria",
-        "blueCountry": "Argentina"
+        "blueCountry": "Argentina",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ryohei Kurosawa",
         "blueName": "Fabio Henrique",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redCountry": "Japan",
         "blueCountry": "Brazil"
       },
@@ -3243,24 +3893,28 @@
         "blueName": "Jordan Estupinan",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Colombia"
+        "blueCountry": "Colombia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Rafael Lovato Jr",
         "blueName": "Pawel Jaworski",
-        "details": "Middleweight Submission Grappling"
+        "details": "Middleweight Submission Grappling",
+        "redStyle": "Grappler",
+        "blueStyle": "Grappler"
       },
       {
         "redName": "Hector Almonacid",
         "blueName": "Pedro Dantas",
-        "details": "Featherweight MMA",
+        "details": "Featherweight Mixed Martial Arts",
         "redCountry": "Argentina",
         "blueCountry": "Brazil"
       },
       {
         "redName": "Gabi Fujimoto",
         "blueName": "Macarena Aragon",
-        "details": "Atomweight MMA",
+        "details": "Atomweight Mixed Martial Arts",
         "redCountry": "Brazil",
         "blueCountry": "Argentina"
       },
@@ -3269,7 +3923,9 @@
         "blueName": "Elmehdi El Jamari",
         "details": "Strawweight Muay Thai",
         "redCountry": "Vietnam",
-        "blueCountry": "Morocco"
+        "blueCountry": "Morocco",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/onefightnight47/"
@@ -3289,49 +3945,63 @@
         "blueName": "Pompet PongSuphan PK",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Xavier Gonzalez",
         "blueName": "Thway Lin Htet",
         "details": "Flyweight Muay Thai",
         "redCountry": "Spain",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Dabdam Por Tor Tor Thongtawee",
         "blueName": "Petsangwan Sor Samarngarment",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Yonis Anane",
         "blueName": "Ricardo Sanchez",
         "details": "Strawweight Muay Thai",
         "redCountry": "France / Thailand",
-        "blueCountry": "Mexico"
+        "blueCountry": "Mexico",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ganchai Jitmuangnon",
         "blueName": "Tantawy Ahmed",
         "details": "Flyweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Egypt"
+        "blueCountry": "Egypt",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Maisangngern Sor Yingcharoenkarnchang",
         "blueName": "Jurai Ishii",
         "details": "Strawweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Pek Por Tor Tor Thongtawee",
         "blueName": "Shinichi Watanabe",
         "details": "Atomweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Rambolek Chor Ajalaboon",
@@ -3345,28 +4015,36 @@
         "blueName": "Muangthai PK Saenchai",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Ferrari Fairtex",
         "blueName": "Julio Lobo",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Brazil"
+        "blueCountry": "Brazil",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Sangarthit Looksaikongdin",
         "blueName": "Logan Chan",
         "details": "Bantamweight Muay Thai",
         "redCountry": "Thailand",
-        "blueCountry": "Hong Kong SAR China / Scotland"
+        "blueCountry": "Hong Kong SAR China / Scotland",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Freddie Haggerty",
         "blueName": "Rungruanglek TN Muaythai",
         "details": "Strawweight Muay Thai",
         "redCountry": "England",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-170/"
@@ -3386,12 +4064,14 @@
         "blueName": "Har Ling Om",
         "details": "Atomweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "Myanmar [Burma]"
+        "blueCountry": "Myanmar [Burma]",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Yuya Wakamatsu",
         "blueName": "Willie van Rooyen",
-        "details": "Flyweight MMA",
+        "details": "Flyweight Mixed Martial Arts",
         "redCountry": "Japan",
         "blueCountry": "South Africa"
       },
@@ -3400,19 +4080,23 @@
         "blueName": "Suablack Tor Pran49",
         "details": "Flyweight Muay Thai",
         "redCountry": "Japan",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Hyu",
         "blueName": "Hyuma Hitachi",
         "details": "Flyweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "Japan"
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Hiroba Minowa",
         "blueName": "Yuta Miyazawa",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redCountry": "Japan",
         "blueCountry": "Japan"
       },
@@ -3421,19 +4105,23 @@
         "blueName": "Chokdee Maxjandee",
         "details": "Atomweight Muay Thai",
         "redCountry": "Japan",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Kosei Yoshida",
         "blueName": "Zhao Zhengdong",
         "details": "Flyweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "China"
+        "blueCountry": "China",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Seiichiro Ito",
         "blueName": "Kazusa Kurobe",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redCountry": "Japan",
         "blueCountry": "Japan"
       },
@@ -3442,12 +4130,16 @@
         "blueName": "Tuakiao",
         "details": "Strawweight Muay Thai",
         "redCountry": "Japan",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Aiji Kobayashi",
         "blueName": "Yuki Tanaka",
-        "details": "Featherweight Kickboxing"
+        "details": "Featherweight Kickboxing",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-samurai-3/"
@@ -3478,7 +4170,9 @@
         "blueName": "Lamnamoonlek Torfunfarm",
         "details": "Flyweight Kickboxing",
         "redCountry": "Thailand",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-172/"
@@ -3516,7 +4210,9 @@
         "blueName": "Charlie Guest",
         "details": "Featherweight Muay Thai",
         "redCountry": "United States",
-        "blueCountry": "England"
+        "blueCountry": "England",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/onefightnight48/"
@@ -3572,21 +4268,27 @@
         "blueName": "Mohammad Siasarani",
         "details": "Featherweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "Iran"
+        "blueCountry": "Iran",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Marat Grigorian",
         "blueName": "Luo Chao",
         "details": "Featherweight Kickboxing",
         "redCountry": "Armenia",
-        "blueCountry": "China"
+        "blueCountry": "China",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Rukiya Anpo",
         "blueName": "Bogdan Shumarov",
         "details": "Lightweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "Bulgaria"
+        "blueCountry": "Bulgaria",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Itsuki Hirata",
@@ -3600,14 +4302,18 @@
         "blueName": "Nabil Anane",
         "details": "Bantamweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "Algeria / Thailand"
+        "blueCountry": "Algeria / Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       },
       {
         "redName": "Shintaro Matsukura",
         "blueName": "Sinsamut Klinmee",
         "details": "Lightweight Kickboxing",
         "redCountry": "Japan",
-        "blueCountry": "Thailand"
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-samurai-4/"

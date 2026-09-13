@@ -5,8 +5,8 @@ import { renderCalendar, renderCombinedCalendar, renderEstimatedFightCalendar } 
 import { applyCancellationOverrides, reconcileEvents } from "../src/events.js";
 import { ageOnDate, countryFlags, decimalOdds, describeWeightClass, flagEmoji, shortFighterName, unicodeBold } from "../src/utils.js";
 import { oddsRefreshIsDue, updateOddsStore } from "../src/odds.js";
-import { mergeOneEvents, parseOneCalendar, parseOneEventPage, parseOneEventsListing, renderOneCalendar } from "../src/one.js";
-import { mergeRizinEvents, parseRizinCardPage, parseRizinEventListing, parseRizinEventPage, parseRizinFighterPage, renderRizinCalendar } from "../src/rizin.js";
+import { describeOneBout, mergeOneEvents, parseOneCalendar, parseOneEventPage, parseOneEventsListing, parseOneFighterPage, renderOneCalendar } from "../src/one.js";
+import { describeRizinBout, mergeRizinEvents, parseRizinCardPage, parseRizinEventListing, parseRizinEventPage, parseRizinFighterPage, renderRizinCalendar } from "../src/rizin.js";
 import { mergePflEvents, parsePflEventListing, parsePflEventPage, parsePflFighterPage, renderPflCalendar } from "../src/pfl.js";
 import {
   canonicalOddsName,
@@ -286,7 +286,8 @@ test("formats ONE Championship's official calendar as a permanent detailed feed"
   const output = renderOneCalendar(parsed, new Date("2026-09-12T12:00:00Z")).replace(/\r\n[ \t]/g, "");
   assert.match(output, /X-WR-CALNAME:ONE Championship/);
   assert.match(output, /DTSTART:20260912T003000Z/);
-  assert.match(output, /🥊 2\. 𝗡𝗮𝗱𝗮𝗸𝗮 vs\. 𝗛𝗮𝗿 𝗟𝗶𝗻𝗴 𝗢𝗺\\n• Atomweight Kickboxing/);
+  assert.match(output, /🥊 2\. 𝗡𝗮𝗱𝗮𝗸𝗮 vs\. 𝗛𝗮𝗿 𝗟𝗶𝗻𝗴 𝗢𝗺\\n• 115lbs\/52\.2kg Atomweight Kickboxing/);
+  assert.equal(describeOneBout("102 LBS Muay Thai"), "102lbs/46.3kg Muay Thai");
 
   const historical = { ...parsed[0], uid: "older", start: "20250912T003000Z" };
   assert.deepEqual(mergeOneEvents([historical], parsed).map(({ uid }) => uid), ["older", "stable-one-id"]);
@@ -295,14 +296,29 @@ test("formats ONE Championship's official calendar as a permanent detailed feed"
 test("adds official ONE Championship country flags to matching bouts", () => {
   const listing = `<a class="title" href="https://www.onefc.com/events/one-friday-fights-170/"><h3>ONE Friday Fights 170 &amp; The Inner Circle 30</h3></a>`;
   assert.equal(parseOneEventsListing(listing).get("one friday fights 170"), "https://www.onefc.com/events/one-friday-fights-170/");
-  const eventPage = `<div class="event-matchup"><div class="title">Flyweight Muay Thai</div><div class="stats"><table><tr class="vs"><td>Yodlekpet Or Atchariya</td><th>VS</th><td>Pompet Pongsuphan PK</td></tr><tr><td>Thailand</td><th>Country</th><td>Thailand</td></tr></table></div></div>`;
+  const eventPage = `<div class="event-matchup"><div class="title">Flyweight Muay Thai</div><div class="stats"><table><tr class="vs"><td><a href="/athletes/yodlekpet-or-atchariya/">Yodlekpet Or Atchariya</a></td><th>VS</th><td><a href="/athletes/pompet/">Pompet Pongsuphan PK</a></td></tr><tr><td>Thailand</td><th>Country</th><td>Thailand</td></tr></table></div></div>`;
   const bouts = parseOneEventPage(eventPage);
   assert.deepEqual(bouts[0], {
     redName: "Yodlekpet Or Atchariya",
     blueName: "Pompet Pongsuphan PK",
     details: "Flyweight Muay Thai",
+    redProfileUrl: "https://www.onefc.com/athletes/yodlekpet-or-atchariya/",
+    blueProfileUrl: "https://www.onefc.com/athletes/pompet/",
     redCountry: "Thailand",
     blueCountry: "Thailand",
+  });
+  const athlete = parseOneFighterPage(`
+    <div class="athlete-banner"><div class="attributes">
+      <div class="attr"><h5 class="title">Country</h5><div class="value">Thailand</div></div>
+      <div class="attr"><h5 class="title">Age</h5><div class="value">31 Y</div></div>
+    </div></div>
+    <div class="container"><div class="editor-content">A dangerous southpaw with powerful punches, kicks and elbows.</div></div>
+    <div class="athlete-bout-breakdown"><div class="wins">Wins - 11</div><div class="losses">Losses - 7</div></div>
+  `, new Date("2026-09-13T12:00:00Z"));
+  assert.deepEqual(athlete, { country: "Thailand", age: 31, record: "11-7-0", style: "Striker", checkedAt: "2026-09-13T12:00:00.000Z" });
+  Object.assign(bouts[0], {
+    redAge: athlete.age, redRecord: athlete.record, redStyle: athlete.style,
+    blueAge: 28, blueRecord: "9-3-0", blueStyle: "Striker",
   });
   const event = {
     uid: "one-170", start: "20260911T113000Z", end: "20260911T173000Z", summary: "ONE Friday Fights 170", location: "Bangkok",
@@ -310,6 +326,7 @@ test("adds official ONE Championship country flags to matching bouts", () => {
   };
   const output = renderOneCalendar([event], new Date("2026-09-12T12:00:00Z")).replace(/\r\n[ \t]/g, "");
   assert.match(output, /𝗬𝗼𝗱𝗹𝗲𝗸𝗽𝗲𝘁 𝗢𝗿 𝗔𝘁𝗰𝗵𝗮𝗿𝗶𝘆𝗮 🇹🇭 vs\. 𝗣𝗼𝗺𝗽𝗲𝘁 𝗣𝗼𝗻𝗴𝘀𝘂𝗽𝗵𝗮𝗻 𝗣𝗞 🇹🇭/);
+  assert.match(output, /• 135lbs\/61\.2kg Flyweight Muay Thai\\n• Atchariya: ONE 11-7-0 \| 31yo \| Striker/);
 });
 
 test("discovers RIZIN events and reads official schedule details", () => {
@@ -354,8 +371,9 @@ test("formats RIZIN cards, profiles and cancellation notices", () => {
   assert.equal(parsed.bouts[0]!.blue.style, "Striker");
   assert.equal(parsed.cancelledBouts[0]!.note, "Cancelled by RIZIN");
 
-  const profile = parseRizinFighterPage(`<div class="fighter_profile"><table><tr><th>名前：</th><td>クレベル・コイケ<br>Kleber Koike</td></tr><tr><th>出身地：</th><td>ブラジル</td></tr><tr><th>生年月日：</th><td>1989年10月16日</td></tr></table></div>`, new Date("2026-09-13T12:00:00Z"));
-  assert.deepEqual(profile, { name: "Kleber Koike", origin: "ブラジル", countryCode: "BR", birthDate: "1989-10-16", checkedAt: "2026-09-13T12:00:00.000Z" });
+  const profile = parseRizinFighterPage(`<div class="fighter_profile"><table><tr><th>名前：</th><td>クレベル・コイケ<br>Kleber Koike</td></tr><tr><th>出身地：</th><td>ブラジル</td></tr><tr><th>生年月日：</th><td>1989年10月16日</td></tr></table><div class="profile_desc">柔術とサブミッションを得意とする。</div><div class="match_record"><table><tr><td class="under">WIN</td></tr><tr><td class="under">WIN</td></tr><tr><td class="under">LOSE</td></tr></table></div></div>`, new Date("2026-09-13T12:00:00Z"));
+  assert.deepEqual(profile, { name: "Kleber Koike", origin: "ブラジル", countryCode: "BR", birthDate: "1989-10-16", record: "2-1-0", style: "Grappler", checkedAt: "2026-09-13T12:00:00.000Z" });
+  assert.equal(describeRizinBout(parsed.bouts[0]!.details), "145.5lbs/66kg Featherweight · RIZIN MMA · 3 × 5 min rounds");
 
   Object.assign(parsed.bouts[0]!.red, profile);
   Object.assign(parsed.bouts[0]!.blue, { name: "Kyoma Akimoto", countryCode: "JP", birthDate: "2006-05-10" });
@@ -369,7 +387,8 @@ test("formats RIZIN cards, profiles and cancellation notices", () => {
   assert.match(output, /X-WR-CALNAME:RIZIN Fighting Federation/);
   assert.match(output, /DTSTART:20261003T050000Z/);
   assert.match(output, /🥊 2\. 𝗞𝗹𝗲𝗯𝗲𝗿 𝗞𝗼𝗶𝗸𝗲 🇧🇷 vs\. 𝗞𝘆𝗼𝗺𝗮 𝗔𝗸𝗶𝗺𝗼𝘁𝗼 🇯🇵/);
-  assert.match(output, /• Koike: 36yo \| Grappler/);
+  assert.match(output, /• 145\.5lbs\/66kg Featherweight · RIZIN MMA · 3 × 5 min rounds/);
+  assert.match(output, /• Koike: RIZIN 2-1-0 \| 36yo \| Grappler/);
   assert.match(output, new RegExp(unicodeBold("CANCELLED OR POSTPONED BOUTS")));
 
   const placeholder = { ...event, uid: "future", date: "2026-12-31", start: null, end: null, status: "TENTATIVE" as const, bouts: [], cancelledBouts: [] };

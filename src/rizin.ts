@@ -16,6 +16,7 @@ export interface RizinFighter {
   profileUrl?: string;
   countryCode?: string | null;
   birthDate?: string | null;
+  record?: string | null;
   style?: string | null;
   odds?: string | null;
 }
@@ -57,6 +58,8 @@ export interface RizinFighterProfile {
   origin?: string;
   countryCode?: string | null;
   birthDate?: string | null;
+  record?: string | null;
+  style?: string | null;
   checkedAt: string;
 }
 
@@ -193,8 +196,8 @@ function matchupFromHeading(value: string): { order: number | null; redName: str
 }
 
 function inferStyle(value: string): string | null {
-  const allRound = /総合力|オールラウンダー/.test(value);
-  const striking = /打撃|パンチ|ボクシング|蹴り|キック|空手|ムエタイ/.test(value);
+  const allRound = /総合力|オールラウンダー|コンプリートファイター/.test(value);
+  const striking = /打撃|立技|パンチ|ボクシング|蹴り|キック|空手|ムエタイ/.test(value);
   const grappling = /グラウンド|グラップリング|レスリング|柔術|柔道|サブミッション|寝技|組み|テイクダウン/.test(value);
   if (allRound || (striking && grappling)) return "All-rounder";
   if (grappling) return "Grappler";
@@ -316,17 +319,28 @@ export function parseRizinFighterPage(source: string, checkedAt = new Date()): R
   const origin = cleanText(profileCell($, "出身地").text());
   const birth = cleanText(profileCell($, "生年月日").text());
   const birthMatch = birth.match(/(\d{4})年(\d{1,2})月(\d{1,2})日/);
+  const results = $(".match_record tr").toArray().flatMap((row) => {
+    const result = cleanText($(row).find("td.under").first().text()).toUpperCase();
+    return /^(?:WIN|LOSE|LOSS|DRAW)$/.test(result) ? [result] : [];
+  });
+  const wins = results.filter((result) => result === "WIN").length;
+  const losses = results.filter((result) => result === "LOSE" || result === "LOSS").length;
+  const draws = results.filter((result) => result === "DRAW").length;
+  const description = cleanText($(".fighter_profile .profile_desc").text());
   return {
     name: names[1] || names[0] || undefined,
     origin: origin || undefined,
     countryCode: japaneseCountryCode(origin),
     birthDate: birthMatch ? `${birthMatch[1]}-${birthMatch[2]!.padStart(2, "0")}-${birthMatch[3]!.padStart(2, "0")}` : null,
+    record: results.length ? `${wins}-${losses}-${draws}` : null,
+    style: inferStyle(description),
     checkedAt: checkedAt.toISOString(),
   };
 }
 
 function profileIsFresh(profile: RizinFighterProfile | undefined, now: Date): boolean {
   if (!profile) return false;
+  if (profile.record === undefined || profile.style === undefined) return false;
   if (profile.countryCode === null && !profile.origin) return false;
   const checkedAt = new Date(profile.checkedAt);
   return Number.isFinite(checkedAt.valueOf()) && now.valueOf() - checkedAt.valueOf() < 30 * 24 * 60 * 60 * 1000;
@@ -354,6 +368,8 @@ export async function enrichRizinFighters(events: RizinEvent[], store: RizinFigh
           if (profile.origin) profile.countryCode = japaneseCountryCode(profile.origin);
           fighter.countryCode = profile.countryCode;
           fighter.birthDate = profile.birthDate;
+          fighter.record = profile.record;
+          fighter.style = fighter.style ?? profile.style;
         }
       }
     }
@@ -406,8 +422,15 @@ function shortName(name: string): string {
 function fighterDetail(fighter: RizinFighter, eventDate: string, opponentOdds: string | null | undefined): string | null {
   const age = ageOnDate(fighter.birthDate, new Date(`${eventDate}T12:00:00Z`));
   const odds = formatPromotionOdds(fighter.odds, opponentOdds);
-  const details = [age === null ? null : `${age}yo`, odds ? `Odds ${odds}` : null, fighter.style].filter(Boolean);
+  const details = [fighter.record ? `RIZIN ${fighter.record}` : null, age === null ? null : `${age}yo`, odds ? `Odds ${odds}` : null, fighter.style].filter(Boolean);
   return details.length ? `• ${shortName(fighter.name)}: ${details.join(" | ")}` : null;
+}
+
+export function describeRizinBout(details: string): string {
+  return cleanText(details).replace(/^([\d.]+)kg\b/i, (match, kilograms: string) => {
+    const pounds = (Number(kilograms) * 2.2046226218).toFixed(1).replace(/\.0$/, "");
+    return `${pounds}lbs/${match}`;
+  });
 }
 
 function descriptionFor(event: RizinEvent, generatedAt: Date): string {
@@ -430,7 +453,7 @@ function descriptionFor(event: RizinEvent, generatedAt: Date): string {
       const blueFlag = flagEmoji(bout.blue.countryCode);
       const lines = [
         `🥊 ${bout.order}. ${unicodeBold(bout.red.name)}${redFlag ? ` ${redFlag}` : ""} vs. ${unicodeBold(bout.blue.name)}${blueFlag ? ` ${blueFlag}` : ""}`,
-        bout.details ? `• ${bout.details}` : null,
+        bout.details ? `• ${describeRizinBout(bout.details)}` : null,
         fighterDetail(bout.red, event.date, bout.blue.odds),
         fighterDetail(bout.blue, event.date, bout.red.odds),
         formatPromotionOddsHistory(bout.oddsHistory, bout.red.name, bout.blue.name),
