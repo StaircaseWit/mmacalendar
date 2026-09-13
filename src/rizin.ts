@@ -284,7 +284,7 @@ export function parseRizinCardPage(source: string): { bouts: RizinBout[]; cancel
 }
 
 const JAPANESE_COUNTRIES: Array<[RegExp, string]> = [
-  [/日本|沖縄|北海道|東京都|大阪府|京都府|[^ -]+県/, "JP"],
+  [/日本|沖縄|北海道|東京都|大阪府|京都府|[\u0080-\uFFFF]+県/, "JP"],
   [/ブラジル/, "BR"], [/アメリカ|米国|ハワイ/, "US"], [/ロシア/, "RU"], [/アゼルバイジャン/, "AZ"],
   [/キルギス/, "KG"], [/ウズベキスタン/, "UZ"], [/カザフスタン/, "KZ"], [/ダゲスタン/, "RU"], [/韓国/, "KR"], [/中国/, "CN"],
   [/モンゴル/, "MN"], [/イギリス/, "GB"], [/フランス/, "FR"], [/オーストラリア/, "AU"], [/ジョージア/, "GE"],
@@ -452,6 +452,8 @@ export function renderRizinCalendar(events: RizinEvent[], generatedAt = new Date
     "METHOD:PUBLISH",
     "X-WR-CALNAME:RIZIN Fighting Federation",
     "X-WR-CALDESC:RIZIN events and announced bouts.",
+    "COLOR:#CF1F2B",
+    "X-APPLE-CALENDAR-COLOR:#CF1F2B",
     "REFRESH-INTERVAL;VALUE=DURATION:P3D",
     "X-PUBLISHED-TTL:P3D",
   ];

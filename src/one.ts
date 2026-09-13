@@ -249,6 +249,8 @@ export function renderOneCalendar(events: OneEvent[], generatedAt = new Date()):
     "METHOD:PUBLISH",
     "X-WR-CALNAME:ONE Championship",
     "X-WR-CALDESC:ONE Championship events and announced bouts.",
+    "COLOR:#202428",
+    "X-APPLE-CALENDAR-COLOR:#202428",
     "REFRESH-INTERVAL;VALUE=DURATION:P3D",
     "X-PUBLISHED-TTL:P3D",
   ];

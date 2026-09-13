@@ -1,0 +1,998 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MMA Calendar//Professional Fighters League//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Professional Fighters League
+X-WR-CALDESC:PFL events and announced bouts.
+COLOR:#102A83
+X-APPLE-CALENDAR-COLOR:#102A83
+REFRESH-INTERVAL;VALUE=DURATION:P3D
+X-PUBLISHED-TTL:P3D
+BEGIN:VEVENT
+UID:2026-pfl-madrid@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+TRANSP:TRANSPARENT
+SUMMARY:PFL MADRID
+DESCRIPTION:Professional Fighters League · Complete Event · 11 announced 
+ bouts\n📍 Palacio Vistalegre\, Madrid\, Spain\nCard times have not been 
+ announced. This date-only entry will update automatically.\n\n------------
+ --------------------\n𝗕𝗢𝗨𝗧𝗦\n------------------------------
+ --\n\n🥊 11. 𝗖𝗼𝘀𝘁𝗲𝗹𝗹𝗼 𝘃𝗮𝗻 𝗦𝘁𝗲
+ 𝗲𝗻𝗶𝘀 🇪🇸 vs. 𝗙𝗮𝗯𝗶𝗮𝗻 𝗘𝗱𝘄𝗮
+ 𝗿𝗱𝘀\n• Winner: Costello van Steenis by KO\n• Steenis: 18-3-0 
+ | 33yo\n• Edwards: 16-5-0 | 32yo | Striker\n\n🥊 10. 𝗔𝗝 𝗠𝗰
+ 𝗞𝗲𝗲 vs. 𝗔𝗱𝗮𝗺 𝗕𝗼𝗿𝗶𝗰𝘀 🇭🇺\n• W
+ inner: AJ McKee by Decision\n• McKee: 25-2-0 | 30yo | Striker\n• Boric
+ s: 20-4-0 | 32yo | Striker\n\n🥊 9. 𝗙𝗿𝗮𝗻𝗰𝗼 𝗧𝗲
+ 𝗻𝗮𝗴𝗹𝗶𝗮 🇦🇷 vs. 𝗬𝗮𝘀𝘀𝗶𝗻 𝗡𝗮
+ 𝗷𝗶𝗱\n• Winner: Franco Tenaglia by TKO\n• Tenaglia: 6-2-0 | 29
+ yo | Striker\n• Najid: 9-5-0 | 40yo\n\n🥊 8. 𝗝𝗮𝗰𝗶𝗻𝘁
+ 𝗮 𝗔𝘂𝘀𝘁𝗶𝗻 🇦🇺 vs. 𝗕𝗲𝗻𝗶𝘁𝗮 𝗩
+ 𝗮𝗻 𝗥𝗼𝗼𝗷𝗶 🇳🇱\n• Winner: Jacinta Austin by KO\n
+ • Austin: 9-2-0 | 31yo\n• Rooji: 7-2-0 | 26yo\n\n🥊 7. 𝗟𝗶𝗻
+ 𝘁𝗼𝗻 𝗩𝗮𝘀𝘀𝗲𝗹𝗹 🇬🇧 vs. 𝗝𝗼𝘀𝗲 
+ 𝗔𝘂𝗴𝘂𝘀𝘁𝗼\n• Winner: Linton Vassell by TKO\n• Vasse
+ ll: 26-10-0 | 42yo | Grappler\n• Augusto: 11-6-0 | 33yo\n\n🥊 6. 𝗞
+ 𝗲𝘃𝗶𝗻 𝗖𝗼𝗿𝗱𝗲𝗿𝗼 🇪🇸 vs. 𝗟𝘂𝗰
+ 𝗶𝗮𝗻𝗼 𝗣𝗲𝗿𝗲𝗶𝗿𝗮\n• Winner: Luciano Pereira
+  by KO\n• Cordero: 15-6-0 | 26yo\n• Pereira: 16-1-0 | 25yo\n\n🥊 5. 
+ 𝗕𝗼𝗿𝗷𝗮 𝗚𝗮𝗿𝗰𝗶𝗮 vs. 𝗥𝗮𝗳𝗮𝗲𝗹
+  𝗖𝗮𝗹𝗱𝗲𝗿𝗼𝗻\n• Winner: Borja Garcia by Decision\n
+ • Garcia: 7-2-0 | 26yo\n• Calderon: 6-3-0 | 30yo\n\n🥊 4. 𝗚𝗶
+ 𝗻𝗼 𝗩𝗮𝗻 𝗦𝘁𝗲𝗲𝗻𝗶𝘀 vs. 𝗠𝗮𝗿𝗸 
+ 𝗘𝘄𝗲𝗻 🇬🇧\n• Winner: Gino Van Steenis by KO\n• Steenis
+ : 9-2-0 | 28yo\n• Ewen: 7-3-0 | 27yo\n\n🥊 3. 𝗠𝗮𝘁𝘁𝗶𝗮
+  𝗚𝗶𝗼𝗿𝗱𝗮𝗻𝗼 🇪🇸 vs. 𝗘𝗿𝗻𝗲𝘀𝘁
+ 𝗼 𝗦𝗰𝗵𝗶𝘀𝗮𝗻𝗼\n• Winner: Mattia Giordano by Deci
+ sion\n• Giordano: 5-2-0 | 32yo\n• Schisano: 5-2-0 | 33yo\n\n🥊 2. 
+ 𝗗𝗮𝘃𝗶𝗱 𝗠𝗼𝗿𝗮 vs. 𝗖𝗹𝗮𝘂𝗱𝗶𝗼 
+ 𝗣𝗮𝗰𝗲𝗹𝗹𝗮 🇮🇹\n• Winner: Claudio Pacella by Deci
+ sion\n• Mora: 10-7-0 | 31yo\n• Pacella: 7-3-0 | 26yo\n\n🥊 1. 𝗜
+ 𝗴𝗻𝗮𝗰𝗶𝗼 𝗖𝗮𝗺𝗽𝗼𝘀 🇪🇸 vs. 𝗠𝗮
+ 𝘁𝗵𝘆𝘀 𝗗𝘂𝗿𝗮𝗴𝗿𝗶𝗻 🇫🇷\n• Winner: Ig
+ nacio Campos by Decision\n• Campos: 8-2-0 | 29yo | Grappler\n• Duragri
+ n: 4-2-0 | 24yo\n\n--------------------------------\nSource: https://pflmm
+ a.com/event/2026-pfl-madrid\nCalendar updated: 2026-09-13T10:13:24.156Z
+LOCATION:Palacio Vistalegre\, Madrid\, Spain
+URL:https://pflmma.com/event/2026-pfl-madrid
+CATEGORIES:Professional Fighters League
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:pfl-pittsburgh@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART:20260328T190000Z
+DTEND:20260329T010000Z
+SUMMARY:PFL Pittsburgh
+DESCRIPTION:Professional Fighters League · Complete Event · 12 announced 
+ bouts\n📍 UPMC Events Center\, Pittsburgh PA\nTimes display automaticall
+ y in your calendar time zone. End time is approximate.\n\n----------------
+ ----------------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n
+ \n🥊 12. 𝗝𝗼𝗵𝗻𝗻𝘆 𝗘𝗯𝗹𝗲𝗻 vs. 𝗕𝗿𝘆
+ 𝗮𝗻 𝗕𝗮𝘁𝘁𝗹𝗲\n• Winner: Johnny Eblen by Submission\
+ n• Eblen: 18-1-0 | 34yo | Grappler\n• Battle: 13-3-0 | 31yo\n\n🥊 11
+ . 𝗗𝗮𝗹𝘁𝗼𝗻 𝗥𝗼𝘀𝘁𝗮 vs. 𝗜𝗺𝗽𝗮 𝗞
+ 𝗮𝘀𝗮𝗻𝗴𝗮𝗻𝗮𝘆 🇺🇸\n• Winner: Impa Kasanganay
+  by KO\n• Rosta: 11-4-0 | 30yo | Grappler\n• Kasanganay: 20-7-0 | 32yo
+ \n\n🥊 10. 𝗔𝗿𝗶𝗮𝗻𝗲 𝗟𝗶𝗽𝘀𝗸𝗶 𝗱𝗮 
+ 𝗦𝗶𝗹𝘃𝗮 vs. 𝗦𝘂𝗺𝗶𝗸𝗼 𝗜𝗻𝗮𝗯𝗮\n
+ • Winner: Ariane Lipski da Silva by Decision\n• Silva: 18-12-0 | 32yo\
+ n• Inaba: 8-3-0 | 34yo\n\n🥊 9. 𝗔𝗹𝗲𝘅𝗲𝗶 𝗣𝗲𝗿
+ 𝗴𝗮𝗻𝗱𝗲 🇺🇸 vs. 𝗝𝘂𝗹𝗶𝗼 𝗔𝗿𝗰𝗲\n
+ • Winner: Alexei Pergande by Decision\n• Pergande: 8-0-0 | 24yo\n• A
+ rce: 22-7-0 | 36yo\n\n🥊 8. 𝗟𝗮𝘇𝗮𝗿𝗼 𝗗𝗮𝘆𝗿
+ 𝗼𝗻 🇺🇸 vs. 𝗝𝗮𝗰𝗼𝗯 𝗧𝗵𝗿𝗮𝗹𝗹 🇺
+ 🇸\n• Winner: Lazaro Dayron by Decision\n• Dayron: 11-0-1 | 33yo\n
+ • Thrall: 15-8-1 | 30yo\n\n🥊 7. 𝗔𝗹𝗹𝗮𝗻 𝗕𝗲𝗴𝗼
+ 𝘀𝘀𝗼 vs. 𝗝𝗮𝗰𝗸 𝗖𝗮𝗿𝘁𝘄𝗿𝗶𝗴𝗵𝘁
+  🇬🇧\n• Winner: Jack Cartwright by Decision\n• Begosso: 10-5-1 | 
+ 30yo\n• Cartwright: 14-2-0 | 31yo\n\n🥊 6. 𝗡𝗮𝘁𝗮𝗻 𝗦
+ 𝗰𝗵𝘂𝗹𝘁𝗲 vs. 𝗝𝗮𝗸𝘂𝗯 𝗞𝗮𝘀𝘇𝘂𝗯
+ 𝗮 🇵🇱\n• Winner: Jakub Kaszuba by Decision\n• Schulte: 26-6-1 
+ | 34yo\n• Kaszuba: 16-0-0 | 30yo\n\n🥊 5. 𝗥𝗼𝗯𝗲𝗿𝘁 
+ 𝗪𝗮𝘁𝗹𝗲𝘆 🇺🇸 vs. 𝗗𝗮𝗸𝗼𝘁𝗮 𝗕𝘂
+ 𝘀𝗵 🇺🇸\n• Winner: Dakota Bush by KO\n• Watley: 16-5-0 | 36y
+ o\n• Bush: 17-4-0 | 31yo\n\n🥊 4. 𝗘𝗿𝗻𝗲𝘀𝘁𝗼 𝗥
+ 𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 🇨🇺 vs. 𝗠𝗮𝘀𝗮𝘆𝘂𝗸
+ 𝗶 𝗞𝗶𝗸𝘂𝗶𝗿𝗶\n• Winner: Ernesto Rodriguez by Decisi
+ on\n• Rodriguez: 11-2-0 | 28yo\n• Kikuiri: 11-4-1 | 30yo\n\n🥊 3. 
+ 𝗧𝗮𝘁𝗶𝗮𝗻𝗮 𝗣𝗼𝘀𝘁𝗮𝗿𝗻𝗮𝗸𝗼𝘃
+ 𝗮 vs. 𝗘𝗹𝗼𝗿𝗮 𝗗𝗮𝗻𝗮 🇧🇷\n• Winner: Tatia
+ na Postarnakova by Decision\n• Postarnakova: 8-0-0 | 25yo\n• Dana: 8-3
+ -0 | 32yo\n\n🥊 2. 𝗝𝗼𝘀𝗵 𝗙𝗿𝗲𝗺𝗱 vs. 𝗝𝗮
+ 𝗿𝗿𝗮𝗵 𝗔𝗹 𝗦𝗮𝗹𝗮𝘄𝗶 🇯🇴\n• Winner: J
+ osh Fremd by KO\n• Fremd: 13-6-0 | 32yo\n• Salawi: 21-8-0 | 33yo\n\n
+ 🥊 1. 𝗘𝘁𝗵𝗮𝗻 𝗚𝗼𝘀𝘀 vs. 𝗙𝗿𝗲𝗱 𝗗
+ 𝘂𝗽𝗿𝗮𝘀 🇨🇦\n• Winner: Fred Dupras by Submission\n• 
+ Goss: 12-9-0 | 34yo\n• Dupras: 10-2-0 | 32yo\n\n------------------------
+ --------\nSource: https://pflmma.com/event/pfl-pittsburgh\nCalendar update
+ d: 2026-09-13T10:13:24.156Z
+LOCATION:UPMC Events Center\, Pittsburgh PA
+URL:https://pflmma.com/event/pfl-pittsburgh
+CATEGORIES:Professional Fighters League
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pfl-africa-pretoria@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART:20260410T180000Z
+DTEND:20260410T230000Z
+SUMMARY:PFL Africa
+DESCRIPTION:Professional Fighters League · Complete Event · 11 announced 
+ bouts\n📍 SunBet Arena - Pretoria\, South Africa\nTimes display automati
+ cally in your calendar time zone. End time is approximate.\n\n------------
+ --------------------\n𝗕𝗢𝗨𝗧𝗦\n------------------------------
+ --\n\n🥊 11. 𝗡𝗸𝗼𝘀𝗶 𝗡𝗱𝗲𝗯𝗲𝗹𝗲 🇿🇦 
+ vs. 𝗠𝗶𝗰𝗵𝗲𝗹𝗲 𝗖𝗹𝗲𝗺𝗲𝗻𝘁𝗲 🇮🇹
+ \n• Winner: Nkosi Ndebele by Decision\n• Ndebele: 14-3-0 | 31yo\n• C
+ lemente: 7-2-0 | 25yo\n\n🥊 10. 𝗝𝘂𝘀𝘁𝗶𝗻 𝗖𝗹𝗮
+ 𝗿𝗸𝗲 🇿🇦 vs. 𝗔𝗯𝗱𝗼𝘂𝗹𝗮𝘆𝗲 𝗞𝗮
+ 𝗻𝗲 🇸🇳\n• Winner: Justin Clarke by TKO\n• Clarke: 5-1-0\n
+ • Kane: 5-2-0 | 27yo\n\n🥊 9. 𝗬𝗮𝗯𝗻𝗮 𝗡’𝘁𝗰𝗵
+ 𝗮𝗹𝗮 🇬🇼 vs. 𝗣𝗲𝗮𝗰𝗲 𝗡𝗴𝘂𝗽𝗵𝗮
+ 𝗻𝗲 🇿🇦\n• Winner: Peace Nguphane by Decision\n• N’tchala:
+  13-3-1 | 28yo\n• Nguphane: 10-3-0\n\n🥊 8. 𝗦𝗵𝗶𝗱𝗼 𝗕
+ 𝗼𝗿𝗶𝘀 𝗘𝘀𝗽𝗲𝗿𝗮𝗻𝗰𝗮 🇦🇴 vs. 𝗘
+ 𝗺𝗶𝗹𝗶𝗼𝘀 𝗗𝗮𝘀𝘀𝗶 🇨🇲\n• Winner: Shido 
+ Boris Esperanca by TKO\n• Esperanca: 12-1-0 | 31yo\n• Dassi: 5-3-0 | 2
+ 9yo\n\n🥊 7. 𝗥𝗶𝘃𝗮𝗹𝗱𝗼 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 
+ 🇱🇺 vs. 𝗞𝘂𝗻𝗹𝗲 𝗟𝗮𝘄𝗮𝗹 🇳🇬\n• Winne
+ r: Rivaldo Pereira by TKO\n• Pereira: 3-2-0 | 28yo\n• Lawal: 3-1-0 | 2
+ 7yo\n\n🥊 6. 𝗝𝘂𝗹𝗶𝗲𝘁 𝗨𝗸𝗮𝗵 🇳🇬 vs. 𝗝
+ 𝗮𝗻𝗲 𝗢𝘀𝗶𝗴𝘄𝗲\n• Winner: Juliet Ukah by Decision
+ \n• Ukah: 9-1-0 | 26yo\n• Osigwe: 5-4-0 | 20yo\n\n🥊 5. 𝗔𝗯𝗱
+ 𝗲𝗹𝗿𝗮𝗵𝗺𝗮𝗻 𝗠𝗼𝗵𝗮𝗺𝗲𝗱 🇪🇬 vs.
+  𝗗𝗮𝘃𝗶𝗱 𝗦𝗮𝗺𝘂𝗲𝗹 🇷🇺\n• Winner: David
+  Samuel by Submission\n• Mohamed: 5-1-0 | 25yo\n• Samuel: 6-0-0\n\n
+ 🥊 4. 𝗔𝗯𝗱𝘂𝗹 𝗥𝗮𝘇𝗮𝗰 𝗦𝗮𝗻𝗸𝗮𝗿
+ 𝗮 🇧🇫 vs. Á𝘂𝗿𝗲𝗼 𝗖𝗿𝘂𝘇 🇦🇴\n• 155lbs
+ /70kg Lightweight\n• Sankara: 7-4-0 | 25yo\n• Cruz: 3-1-0\n\n🥊 3. 
+ 𝗝𝗲𝗮𝗻-𝗝𝗮𝗰𝗾𝘂𝗲𝘀 𝗟𝘂𝗯𝗮𝘆𝗮 vs.
+  𝗦𝗵𝗮𝗱𝗿𝗮𝗰𝗸 𝗬𝗲𝗺𝗯𝗮\n• Winner: Shadra
+ ck Yemba by Decision\n• Lubaya: 10-2-0 | 29yo\n• Yemba: 5-1-0 | 27yo\n
+ \n🥊 2. 𝗦𝗵𝗮𝗻𝗻𝗼𝗻 𝘃𝗮𝗻 𝗧𝗼𝗻𝗱𝗲
+ 𝗿 vs. 𝗔𝘀𝗶𝗮𝘀𝗵𝘂 𝗧𝘀𝗵𝗶𝘁𝗮𝗺𝗯𝗮
+  🇿🇦\n• Winner: Asiashu Tshitamba by Decision\n• Tonder: 7-4-0 | 
+ 31yo\n• Tshitamba: 7-5-0 | 33yo\n\n🥊 1. 𝗙𝗲𝗹𝗶𝘀𝘁𝗮 
+ 𝗠𝘂𝗴𝗼 🇰🇪 vs. 𝗔𝗻𝗻𝗲𝘁 𝗞𝗶𝗶𝘇𝗮 
+ 🇺🇬\n• Winner: Felista Mugo by Decision\n• Mugo: 6-2-1 | 26yo\n
+ • Kiiza: 3-2-0 | 25yo\n\n--------------------------------\nSource: https
+ ://pflmma.com/event/pfl-africa-pretoria\nCalendar updated: 2026-09-13T10:1
+ 3:24.156Z
+LOCATION:SunBet Arena - Pretoria\, South Africa
+URL:https://pflmma.com/event/pfl-africa-pretoria
+CATEGORIES:Professional Fighters League
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pfl-chicago-2026@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART:20260411T180000Z
+DTEND:20260412T000000Z
+SUMMARY:PFL Chicago
+DESCRIPTION:Professional Fighters League · Complete Event · 10 announced 
+ bouts\n📍 Wintrust Arena\, Chicago\nTimes display automatically in your 
+ calendar time zone. End time is approximate.\n\n--------------------------
+ ------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 10.
+  𝗦𝗲𝗿𝗴𝗶𝗼 𝗣𝗲𝘁𝘁𝗶𝘀 🇺🇸 vs. 𝗠𝗶
+ 𝘁𝗰𝗵 𝗠𝗰𝗞𝗲𝗲 🇺🇸\n• Winner: Mitch McKee by Dec
+ ision\n• Pettis: 25-8-0 | 32yo\n• McKee: 11-0-0 | 28yo | Grappler\n\n
+ 🥊 9. 𝗥𝗮𝘂𝗳𝗲𝗼𝗻 𝗦𝘁𝗼𝘁𝘀 vs. 𝗥𝗲𝗻
+ 𝗮𝘁 𝗞𝗵𝗮𝘃𝗮𝗹𝗼𝘃 🇷🇺\n• Winner: Renat Khav
+ alov by Decision\n• Stots: 21-5-0 | 37yo | Grappler\n• Khavalov: 12-0-
+ 0 | 27yo | Grappler\n\n🥊 8. 𝗩𝗶𝘃𝗶𝗮𝗻𝗲 𝗔𝗿𝗮
+ 𝘂𝗷𝗼 vs. 𝗦𝗵𝗮𝗻𝗻𝗮 𝗬𝗼𝘂𝗻𝗴 🇺🇸\n
+ • Winner: Viviane Araujo by Decision\n• Araujo: 14-8-0 | 39yo\n• You
+ ng: 9-8-0 | 35yo\n\n🥊 7. 𝗚𝗮𝗯𝗿𝗶𝗲𝗹 𝗕𝗿𝗮𝗴
+ 𝗮 🇧🇷 vs. 𝗖𝗵𝗲𝘆𝗱𝗲𝗻 𝗟𝗲𝗶𝗮𝗹𝗼
+ 𝗵𝗮\n• Winner: Gabriel Braga by Decision\n• Braga: 17-3-0 | 27yo 
+ | Striker\n• Leialoha: 12-3-0 | 32yo\n\n🥊 6. 𝗝𝗲𝗻𝗮 𝗕
+ 𝗶𝘀𝗵𝗼𝗽 vs. 𝗕𝗼𝗿𝗲𝗻𝗮 𝗧𝘀𝗲𝗿𝘁𝘀
+ 𝘃𝗮𝗱𝘇𝗲\n• Winner: Jena Bishop by Submission\n• Bishop: 1
+ 1-3-0 | 40yo | Grappler\n• Tsertsvadze: 6-2-0 | 27yo\n\n🥊 5. 𝗢𝗺
+ 𝗮𝗿 𝗘𝗹 𝗗𝗮𝗳𝗿𝗮𝘄𝘆 vs. 𝗝𝗮𝗺𝗲𝘀 
+ 𝗩𝗮𝗸𝗲 🇳🇿\n• Winner: Omar El Dafrawy by KO\n• Dafrawy:
+  16-6-0 | 31yo\n• Vake: 7-3-0 | 31yo\n\n🥊 4. 𝗞𝗮𝗻𝗮 𝗪
+ 𝗮𝘁𝗮𝗻𝗮𝗯𝗲 vs. 𝗣𝗮𝘂𝗹𝗶𝗻𝗮 𝗪𝗶𝘀
+ 𝗻𝗶𝗲𝘄𝘀𝗸𝗮 🇵🇱\n• Winner: Paulina Wisniewska by T
+ KO\n• Watanabe: 13-5-1 | 37yo | Grappler\n• Wisniewska: 7-1-0 | 27yo\n
+ \n🥊 3. 𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗿 𝗥𝗼𝗺𝗮𝗻𝗼𝘃 vs
+ . 𝗥𝗼𝗱𝗿𝗶𝗴𝗼 𝗡𝗮𝘀𝗰𝗶𝗺𝗲𝗻𝘁𝗼 
+ 🇧🇷\n• Winner: Alexandr Romanov by Submission\n• Romanov: 20-4-0 
+ | 35yo\n• Nascimento: 12-5-0 | 33yo\n\n🥊 2. 𝗕𝗶𝗮𝗴𝗴𝗶
+ 𝗼 𝗔𝗹𝗶 𝗪𝗮𝗹𝘀𝗵 🇺🇸 vs. 𝗗𝗮𝘀𝗵 𝗛
+ 𝗮𝗿𝗿𝗶𝘀 🇺🇸\n• Winner: Biaggio Ali Walsh by TKO\n• W
+ alsh: 4-2-0 | 27yo\n• Harris: 2-1-0 | 22yo\n\n🥊 1. 𝗩𝗮𝗹𝗮
+ 𝗻𝘁𝗶 𝗔𝘁𝘀𝗮𝘀 vs. 𝗡𝗮𝘁𝗲 𝗝𝗲𝗻𝗻
+ 𝗲𝗿𝗺𝗮𝗻\n• Winner: Valanti Atsas by Decision\n• Atsas: 10
+ -1-0 | 34yo\n• Jennerman: 16-6-0 | 33yo\n\n-----------------------------
+ ---\nSource: https://pflmma.com/event/pfl-chicago-2026\nCalendar updated: 
+ 2026-09-13T10:13:24.156Z
+LOCATION:Wintrust Arena\, Chicago
+URL:https://pflmma.com/event/pfl-chicago-2026
+CATEGORIES:Professional Fighters League
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pfl-belfast-2026@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART:20260416T150000Z
+DTEND:20260416T220000Z
+SUMMARY:PFL Belfast
+DESCRIPTION:Professional Fighters League · Complete Event · 12 announced 
+ bouts\n📍 SSE Arena\, Belfast\, Northern Ireland\nTimes display automati
+ cally in your calendar time zone. End time is approximate.\n\n------------
+ --------------------\n𝗕𝗢𝗨𝗧𝗦\n------------------------------
+ --\n\n🥊 12. 𝗗𝗮𝗿𝗿𝗮𝗴𝗵 𝗞𝗲𝗹𝗹𝘆 🇮🇪 
+ vs. 𝗝𝗮𝘆-𝗝𝗮𝘆 𝗪𝗶𝗹𝘀𝗼𝗻 🇳🇿\n• Winne
+ r: Jay-Jay Wilson by KO\n• Kelly: 9-1-0 | 27yo\n• Wilson: 12-2-0 | 28y
+ o\n\n🥊 11. 𝗥𝗵𝘆𝘀 𝗠𝗰𝗞𝗲𝗲 vs. 𝗔𝗹𝗲𝘅 
+ 𝗟𝗼𝗵𝗼𝗿é 🇬🇧\n• Winner: Rhys McKee by Decision\n• M
+ cKee: 15-7-1 | 30yo\n• Lohoré: 26-12-0 | 36yo\n\n🥊 10. 𝗗𝗼𝘃
+ 𝗹𝗲𝘁 𝗬𝗮𝗴𝘀𝗵𝗶𝗺𝘂𝗿𝗮𝗱𝗼𝘃 🇹🇲
+  vs. 𝗧𝘆𝘀𝗼𝗻 𝗣𝗲𝗱𝗿𝗼\n• Winner: Dovlet Yagshim
+ uradov by Decision\n• Yagshimuradov: 26-9-1 | 36yo\n• Pedro: 10-7-0 | 
+ 34yo\n\n🥊 9. 𝗖𝗵𝗿𝗶𝘀 𝗠𝗶𝘅𝗮𝗻 🇺🇦 vs. 
+ 𝗘𝗼𝗶𝗻 𝗦𝗵𝗲𝗿𝗶𝗱𝗮𝗻 🇮🇪\n• Winner: Eo
+ in Sheridan by Decision\n• Mixan: 7-3-0 | 27yo\n• Sheridan: 6-0-0 | 31
+ yo | Striker\n\n🥊 8. 𝗖𝗮𝗼𝗹𝗮𝗻 𝗟𝗼𝘂𝗴𝗵𝗿
+ 𝗮𝗻 🇮🇪 vs. 𝗔𝗹𝗮𝗻 𝗣𝗵𝗶𝗹𝗽𝗼𝘁𝘁\n
+ • Winner: Caolan Loughran by Submission\n• Loughran: 11-4-0 | 29yo\n
+ • Philpott: 21-18-0 | 33yo\n\n🥊 7. 𝗢𝗺𝗿𝗮𝗻 𝗖𝗵𝗮
+ 𝗮𝗯𝗮𝗻 🇫🇮 vs. 𝗖𝗵𝗲𝗾𝘂𝗶𝗻𝗮 𝗡𝗼
+ 𝘀𝗼 𝗣𝗲𝗱𝗿𝗼 🇦🇴\n• Winner: Omran Chaaban by TKO\n
+ • Chaaban: 10-1-0 | 25yo\n• Pedro: 10-5-0 | 32yo\n\n🥊 6. 𝗖𝗶
+ 𝗮𝗿𝗮𝗻 𝗖𝗹𝗮𝗿𝗸𝗲 🇮🇪 vs. 𝗗𝗲𝗮𝗻 
+ 𝗚𝗮𝗿𝗻𝗲𝘁𝘁 🇬🇧\n• Winner: Dean Garnett by KO\n•
+  Clarke: 10-1-0 | 30yo\n• Garnett: 15-3-1 | 37yo\n\n🥊 5. 𝗣𝗲𝗱
+ 𝗿𝗼 𝗖𝗮𝗿𝘃𝗮𝗹𝗵𝗼 🇵🇹 vs. 𝗦𝗲𝗿𝗴
+ 𝗶𝗼 𝗖𝗼𝘀𝘀𝗶𝗼 🇲🇽\n• Winner: Pedro Carvalho by 
+ Decision\n• Carvalho: 14-10-0 | 30yo\n• Cossio: 27-12-1 | 35yo\n\n🥊
+  4. 𝗗𝗮𝘃𝗶𝗱 𝗠𝗮𝗿𝘁𝗶𝗻𝗲𝘇 vs. 𝗚𝗶𝗮
+ 𝗻𝗻𝗶𝘀 𝗕𝗮𝗰𝗵𝗮𝗿\n• Winner: David Martinez by S
+ ubmission\n• Martinez: 17-6-0 | 32yo\n• Bachar: 9-4-0 | 35yo\n\n🥊 3
+ . 𝗦𝗲𝗮𝗻 𝗚𝗮𝘂𝗰𝗶 🇦🇺 vs. 𝗟𝗶𝗮𝗺 𝗚
+ 𝗶𝘁𝘁𝗶𝗻𝘀 🇬🇧\n• Winner: Sean Gauci by Decision\n•
+  Gauci: 12-1-0 | 29yo\n• Gittins: 13-6-0 | 26yo\n\n🥊 2. 𝗘𝗼𝗴
+ 𝗵𝗮𝗻 𝗠𝗮𝘀𝗼𝗹𝗶𝘃𝗲𝗿 🇮🇪 vs. 𝗦𝗵
+ 𝗮𝗻𝗲 𝗠𝘂𝗹𝗹𝗲𝗻 🇮🇪\n• Winner: Eoghan Masoliv
+ er by Submission\n• Masoliver: 2-0-0 | 23yo\n• Mullen: 1-1-0 | 26yo\n\
+ n🥊 1. 𝗖𝗵𝗲𝗹𝘀𝗲𝗮 𝗛𝗮𝗰𝗸𝗲𝘁𝘁 🇦
+ 🇺 vs. 𝗔𝗻𝗱𝗿𝗲𝗮 𝗩𝗮𝘇𝗾𝘂𝗲𝘇\n• Winner
+ : Chelsea Hackett by Decision\n• Hackett: 5-3-1 | 26yo | Striker\n• Va
+ zquez: 8-4-0 | 32yo\n\n--------------------------------\nSource: https://p
+ flmma.com/event/pfl-belfast-2026\nCalendar updated: 2026-09-13T10:13:24.15
+ 6Z
+LOCATION:SSE Arena\, Belfast\, Northern Ireland
+URL:https://pflmma.com/event/pfl-belfast-2026
+CATEGORIES:Professional Fighters League
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pfl-sioux-falls-2026@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART:20260502T190000Z
+DTEND:20260503T010000Z
+SUMMARY:PFL Sioux Falls
+DESCRIPTION:Professional Fighters League · Complete Event · 12 announced 
+ bouts\n📍 Sanford Pentagon\, Sioux Falls\, South Dakota\nTimes display a
+ utomatically in your calendar time zone. End time is approximate.\n\n-----
+ ---------------------------\n𝗕𝗢𝗨𝗧𝗦\n-----------------------
+ ---------\n\n🥊 12. 𝗟𝗼𝗴𝗮𝗻 𝗦𝘁𝗼𝗿𝗹𝗲𝘆 vs
+ . 𝗙𝗹𝗼𝗿𝗶𝗺 𝗭𝗲𝗻𝗱𝗲𝗹𝗶 🇦🇱\n• Winn
+ er: Logan Storley by Decision\n• Storley: 19-4-0 | 33yo | Grappler\n• 
+ Zendeli: 11-2-1 | 27yo | Grappler\n\n🥊 11. 𝗚𝗮𝗱𝘇𝗵𝗶 
+ 𝗥𝗮𝗯𝗮𝗱𝗮𝗻𝗼𝘃 vs. 𝗔𝗹𝗲𝘅 𝗖𝗵𝗶𝘇
+ 𝗼𝘃 🇱🇻\n• Winner: Gadzhi Rabadanov by Decision\n• Rabadanov
+ : 28-5-2 | 32yo | Grappler\n• Chizov: 13-4-0 | 28yo | Striker\n\n🥊 10
+ . 𝗦𝗶𝗺𝗲𝗼𝗻 𝗣𝗼𝘄𝗲𝗹𝗹 vs. 𝗘𝗺𝗶𝗹
+ 𝗶𝗮𝗻𝗼 𝗦𝗼𝗿𝗱𝗶\n• Winner: Simeon Powell by TKO\n
+ • Powell: 13-2-0 | 27yo\n• Sordi: 23-12-1 | 35yo\n\n🥊 9. 𝗥𝗲
+ 𝗻𝗮𝗻 𝗙𝗲𝗿𝗿𝗲𝗶𝗿𝗮 vs. 𝗦𝗲𝗿𝗴𝗲𝘆
+  𝗕𝗶𝗹𝗼𝘀𝘁𝗲𝗻𝗻𝗶𝘆 🇷🇺\n• Winner: Sergey
+  Bilostenniy by TKO\n• Ferreira: 13-6-0 | 36yo\n• Bilostenniy: 15-4-0 
+ | 30yo\n\n🥊 8. 𝗠𝗮𝗴𝗼𝗺𝗲𝗱 𝗠𝗮𝗴𝗼𝗺𝗲
+ 𝗱𝗼𝘃 🇷🇺 vs. 𝗟𝗲𝗮𝗻𝗱𝗿𝗼 𝗛𝗶𝗴𝗼\n
+ • Winner: Magomed Magomedov by Decision\n• Magomedov: 22-5-0 | 34yo\n
+ • Higo: 23-8-0 | 37yo\n\n🥊 7. 𝗥𝗮𝘀𝘂𝗹 𝗠𝗮𝗴𝗼
+ 𝗺𝗲𝗱𝗼𝘃 🇧🇭 vs. 𝗥𝗮𝗳𝗮𝗲𝗹 𝗫𝗮𝘃
+ 𝗶𝗲𝗿\n• Winner: Rasul Magomedov by Decision\n• Magomedov: 10-0
+ -0 | 31yo\n• Xavier: 15-9-0 | 35yo\n\n🥊 6. 𝗦𝗮𝗯𝗿𝗶𝗻
+ 𝗻𝗮 𝗱𝗲 𝗦𝗼𝘂𝘀𝗮 🇧🇷 vs. 𝗖𝗵𝗲𝘆𝗮
+ 𝗻𝗻𝗲 𝗕𝗼𝘄𝗲𝗿𝘀 🇺🇸\n• Winner: Sabrinna de So
+ usa by Decision\n• Sousa: 7-0-0 | 25yo\n• Bowers: 8-3-0 | 31yo\n\n🥊
+  5. 𝗛𝘂𝗺𝗯𝗲𝗿𝘁𝗼 𝗕𝗮𝗻𝗱𝗲𝗻𝗮𝘆 vs. 
+ 𝗦𝗮𝗻𝗴 𝗪𝗼𝗻 𝗞𝗶𝗺\n• Winner: Sang Won Kim by TK
+ O\n• Bandenay: 27-9-0 | 31yo\n• Kim: 15-6-1 | 32yo\n\n🥊 4. 𝗧𝗮
+ 𝗶𝗹𝗮 𝗦𝗮𝗻𝘁𝗼𝘀 🇧🇷 vs. 𝗤𝗶𝗵𝘂𝗶 
+ 𝗬𝗮𝗻 🇨🇳\n• Winner: Taila Santos by TKO\n• Santos: 23-5-0
+  | 32yo\n• Yan: 25-6-0 | 29yo\n\n🥊 3. 𝗔𝗻𝗴𝗲𝗹 𝗔𝗹
+ 𝘃𝗮𝗿𝗲𝘇 🇨🇺 vs. 𝗕𝗿𝘆𝗰𝗲 𝗟𝗼𝗴𝗮
+ 𝗻\n• Winner: Angel Alvarez by Decision\n• Alvarez: 11-3-0 | 31yo\n
+ • Logan: 13-10-0 | 36yo\n\n🥊 2. 𝗕𝗿𝗲𝘁𝘁 𝗕𝘆𝗲 
+ 🇺🇸 vs. 𝗧𝗮𝘆𝗹𝗼𝗿 𝗠𝗶𝗰𝗵𝗲𝗹𝘀\n• Wi
+ nner: Brett Bye by TKO\n• Bye: 4-3-0 | 29yo\n• Michels: 1-1-0 | 33yo\n
+ \n🥊 1. 𝗠𝗮𝘅𝘄𝗲𝗹𝗹 𝗗𝗷𝗮𝗻𝘁𝗼𝘂 𝗡
+ 𝗮𝗻𝗮 🇨🇲 vs. 𝗞𝗮𝗿𝗹 𝗪𝗶𝗹𝗹𝗶𝗮𝗺
+ 𝘀 🇺🇸\n• Winner: Maxwell Djantou Nana by Decision\n• Nana: 9-2
+ -0 | 35yo\n• Williams: 10-6-0 | 36yo\n\n--------------------------------
+ \nSource: https://pflmma.com/event/pfl-sioux-falls-2026\nCalendar updated:
+  2026-09-13T10:13:24.156Z
+LOCATION:Sanford Pentagon\, Sioux Falls\, South Dakota
+URL:https://pflmma.com/event/pfl-sioux-falls-2026
+CATEGORIES:Professional Fighters League
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pfl-brussels-2026@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART:20260523T123000Z
+DTEND:20260523T180000Z
+SUMMARY:PFL Brussels 2026
+DESCRIPTION:Professional Fighters League · Complete Event · 11 announced 
+ bouts\n📍 ING Arena\, Brussels\, Belgium\nTimes display automatically in
+  your calendar time zone. End time is approximate.\n\n--------------------
+ ------------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n
+ 🥊 11. 𝗣𝗮𝘁𝗿𝗶𝗰𝗸 𝗛𝗮𝗯𝗶𝗿𝗼𝗿𝗮 
+ 🇧🇪 vs. 𝗕𝗲𝗻𝘀𝗼𝗻 𝗛𝗲𝗻𝗱𝗲𝗿𝘀𝗼𝗻
+ \n• Winner: Patrick Habirora by KO\n• Habirora: 9-0-0 | 25yo | Striker
+ \n• Henderson: 30-13-2 | 42yo\n\n🥊 10. 𝗧𝗮𝘆𝗹𝗼𝗿 𝗟
+ 𝗮𝗽𝗶𝗹𝘂𝘀 vs. 𝗝𝗮𝗸𝗲 𝗛𝗮𝗱𝗹𝗲𝘆\n
+ • Winner: Taylor Lapilus by Decision\n• Lapilus: 25-4-0 | 34yo | All-r
+ ounder\n• Hadley: 12-6-0 | 29yo | Grappler\n\n🥊 9. 𝗕𝗼𝗿𝗶
+ 𝘀 𝗔𝘁𝗮𝗻𝗴𝗮𝗻𝗮 🇧🇪 vs. 𝗝𝗮𝗿𝗲𝗱 
+ 𝗚𝗼𝗼𝗱𝗲𝗻 🇺🇸\n• Winner: Boris Atangana by KO\n• A
+ tangana: 9-0-0 | 27yo\n• Gooden: 23-12-0 | 32yo\n\n🥊 8. 𝗠𝗮𝗿
+ 𝗰𝗶𝗿𝗹𝗲𝘆 𝗔𝗹𝘃𝗲𝘀 🇧🇷 vs. 𝗡𝗮𝗼
+ 𝗸𝗶 𝗜𝗻𝗼𝘂𝗲\n• Winner: Naoki Inoue by Decision\n• Al
+ ves: 15-6-0 | 26yo\n• Inoue: 21-5-0 | 28yo\n\n🥊 7. 𝗔𝘀𝗮ë𝗹
+  𝗔𝗱𝗷𝗼𝘂𝗱𝗷 🇩🇿 vs. 𝗞𝗲𝗶𝘀𝘂𝗸𝗲 
+ 𝗦𝗮𝘀𝘂\n• Winner: Asaël Adjoudj by KO\n• Adjoudj: 11-1-0 | 
+ 27yo\n• Sasu: 14-5-1 | 31yo\n\n🥊 6. 𝗕𝗮𝗿𝗶𝘀 𝗔𝗱𝗶
+ 𝗴𝘂𝘇𝗲𝗹 🇫🇷 vs. 𝗚𝘂𝘀𝘁𝗮𝘃𝗼 𝗢𝗹
+ 𝗶𝘃𝗲𝗶𝗿𝗮 🇵🇹\n• Winner: Gustavo Oliveira by Submiss
+ ion\n• Adiguzel: 10-2-0 | 27yo\n• Oliveira: 13-2-0 | 29yo\n\n🥊 5. 
+ 𝗗𝗼𝗻𝗲𝗴𝗶 𝗔𝗯𝗲𝗻𝗮 vs. 𝗝𝗼𝗲 𝗦𝗰
+ 𝗵𝗶𝗹𝗹𝗶𝗻𝗴\n• Winner: Donegi Abena by TKO\n• Abena: 
+ 1-0-0 | 28yo\n• Schilling: 4-7-0 | 42yo\n\n🥊 4. 𝗠𝗼𝘃𝘀𝗮
+ 𝗿 𝗜𝗯𝗿𝗮𝗴𝗶𝗺𝗼𝘃 🇧🇪 vs. 𝗦𝗵𝗮𝗻
+ 𝗲 𝗖𝗮𝗺𝗽𝗯𝗲𝗹𝗹 🇬🇧\n• 135lbs/61kg Bantamweig
+ ht\n• Ibragimov: 8-2-0 | 27yo\n• Campbell: 22-9-0 | 38yo\n\n🥊 3. 
+ 𝗞𝗵𝗮𝗺𝘇𝗮𝘁 𝗔𝗯𝗮𝗲𝘃 vs. 𝗟𝘂𝗰𝗮 
+ 𝗣𝗼𝗰𝗹𝗶𝘁 🇲🇩\n• Winner: Khamzat Abaev by KO\n• Ab
+ aev: 6-1-0 | 29yo\n• Poclit: 10-3-0 | 36yo\n\n🥊 2. 𝗔𝗱𝗮𝗺 
+ 𝗠𝗲𝘀𝗸𝗶𝗻𝗶 🇲🇦 vs. 𝗞𝗲𝘄𝗲𝗻𝘆 𝗟
+ 𝗼𝗽𝗲𝘀 🇧🇷\n• Winner: Adam Meskini by Decision\n• Meski
+ ni: 11-3-0 | 29yo\n• Lopes: 12-5-1 | 30yo\n\n🥊 1. 𝗥𝘂𝘀𝘁
+ 𝗮𝗺 𝗦𝗲𝗿𝗯𝗶𝗲𝘃 🇷🇺 vs. 𝗔𝘀𝗵𝗹𝗲
+ 𝘆 𝗥𝗲𝗲𝗰𝗲 🇬🇧\n• Winner: Ashley Reece by Decision\n
+ • Serbiev: 9-6-0 | 28yo\n• Reece: 10-3-0 | 37yo\n\n-------------------
+ -------------\nSource: https://pflmma.com/event/pfl-brussels-2026\nCalenda
+ r updated: 2026-09-13T10:13:24.156Z
+LOCATION:ING Arena\, Brussels\, Belgium
+URL:https://pflmma.com/event/pfl-brussels-2026
+CATEGORIES:Professional Fighters League
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pflmena-9@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+TRANSP:TRANSPARENT
+SUMMARY:PFL MENA 9
+DESCRIPTION:Professional Fighters League · Complete Event · 11 announced 
+ bouts\n📍 Dubai\, United Arab Emirates\nCard times have not been announc
+ ed. This date-only entry will update automatically.\n\n-------------------
+ -------------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n
+ 🥊 11. 𝗠𝗼𝗵𝗮𝗺𝗺𝗲𝗱 𝗬𝗮𝗵𝘆𝗮 🇦🇪 vs
+ . 𝗠𝗲𝗵𝗱𝗶 𝗦𝗮𝗮𝗱𝗶 🇫🇷\n• Winner: Mehdi Sa
+ adi by Decision\n• Yahya: 12-7-0 | 32yo\n• Saadi: 6-2-0 | 33yo\n\n🥊
+  10. 𝗦𝗮𝗹𝗮𝗵 𝗘𝗱𝗱𝗶𝗻𝗲 𝗛𝗮𝗺𝗹𝗶 
+ 🇲🇦 vs. 𝗬𝗹𝗶𝗲𝘀 𝗗𝗷𝗶𝗿𝗼𝘂𝗻\n• Winner
+ : Ylies Djiroun by TKO\n• Hamli: 11-1-0 | 28yo\n• Djiroun: 16-6-0\n\n
+ 🥊 9. 𝗛𝗮𝗺𝘇𝗮 𝗞𝗼𝗼𝗵𝗲𝗷𝗶 🇧🇭 vs. 
+ 𝗧𝗮𝗵𝗮 𝗕𝗲𝗻𝗱𝗮𝗼𝘂𝗱 🇲🇦\n• Winner: Ha
+ mza Kooheji by Decision\n• Kooheji: 15-4-0 | 33yo\n• Bendaoud: 5-2-0 |
+  31yo\n\n🥊 8. 𝗭𝗮𝗺𝘇𝗮𝗺 𝗔𝗹-𝗛𝗮𝗺𝗺𝗮
+ 𝗱𝗶 vs. 𝗔𝗯𝗲𝗲𝗿 𝗠𝗮𝗻𝘀𝗼𝘂𝗿 🇪🇬\n
+ • Winner: Zamzam Al-Hammadi by Decision\n• Al-Hammadi: 1-0-0\n• Mans
+ our: 2-2-0 | 24yo\n\n🥊 7. 𝗠𝗼𝗵𝗮𝗺𝗺𝗮𝗱 𝗙𝗮𝗵
+ 𝗺𝗶 🇮🇶 vs. 𝗔𝘀𝘀𝗲𝗺 𝗚𝗵𝗮𝗻𝗲𝗺 🇪
+ 🇬\n• Winner: Mohammad Fahmi\n• Fahmi: 5-1-0 | 30yo\n• Ghanem: 7-0
+ -0 | 25yo\n\n🥊 6. 𝗔𝗵𝗺𝗲𝗱 𝗘𝗹 𝗦𝗶𝘀𝘆 🇪
+ 🇬 vs. 𝗛𝗮𝗿𝗱𝗮 𝗞𝗮𝗿𝗶𝗺 🇮🇶\n• Winner: A
+ hmed El Sisy by Decision\n• Sisy: 8-2-0\n• Karim: 5-3-0 | 30yo\n\n🥊
+  5. 𝗚𝗲𝗼𝗿𝗴𝗲𝘀 𝗘𝗶𝗱 🇱🇧 vs. 𝗛𝘂𝘀
+ 𝘀𝗲𝗶𝗻 𝗙𝗮𝗸𝗵𝗲𝗿 🇮🇶\n• 155lbs/70kg Lightw
+ eight · Quarterfinal\n• Eid: 11-6-0 | 35yo\n• Fakher: 7-4-0 | 35yo\n\
+ n🥊 4. 𝗔𝗯𝗱𝘂𝗹𝗹𝗮𝗵 𝗦𝗮𝗹𝗲𝗲𝗺 🇰
+ 🇼 vs. 𝗕𝗮𝘀𝗲𝗹 𝗦𝗵𝗮𝗹𝗮𝗮𝗻 🇪🇬\n• W
+ inner: Basel Shalaan by Decision\n• Saleem: 5-2-0\n• Shalaan: 7-1-0 | 
+ 23yo\n\n🥊 3. 𝗛𝗮𝗺𝗮𝗱 𝗠𝗮𝗿𝗵𝗼𝗼𝗻 🇧🇭
+  vs. 𝗦𝗮𝗵𝗲𝗿 𝗤𝗮𝘀𝗺𝗶𝗲𝗵\n• Winner: Saher 
+ Qasmieh by Decision\n• Marhoon: 1-1-0 | 22yo\n• Qasmieh: 0-1-0\n\n🥊
+  2. 𝗔𝗵𝗺𝗲𝗱 𝗔𝗹𝗯𝗿𝗮𝗵𝗶𝗺 🇸🇦 vs. 
+ 𝗜𝗯𝗿𝗮𝗵𝗶𝗺 𝗠𝗮𝗵𝗺𝗼𝘂𝗱 🇪🇬\n• Wi
+ nner: Ahmed Albrahim by TKO\n• Albrahim: 1-0-0 | 29yo\n• Mahmoud: 0-1-
+ 0 | 19yo\n\n🥊 1. 𝗕𝘂𝘁𝘁𝗶 𝗔𝗹𝗮𝗺𝗲𝗿𝗶 vs. 
+ 𝗛𝗮𝗺𝗮𝗱𝗮 𝗢𝘀𝗺𝗮𝗻\n• 145lbs/66kg Featherweig
+ ht\n• Alameri: 9-4-0 | 25yo\n• Osman: 3-1-0 | 29yo\n\n----------------
+ ----------------\nSource: https://pflmma.com/event/pflmena-9\nCalendar upd
+ ated: 2026-09-13T10:13:24.156Z
+LOCATION:Dubai\, United Arab Emirates
+URL:https://pflmma.com/event/pflmena-9
+CATEGORIES:Professional Fighters League
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:pfl-africa-nigeria@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART:20260613T130000Z
+DTEND:20260613T160000Z
+SUMMARY:PFL Africa Nigeria
+DESCRIPTION:Professional Fighters League · Complete Event · 13 announced 
+ bouts\n📍 Eko Convention Center\, Lagos\, Nigeria\nTimes display automat
+ ically in your calendar time zone. End time is approximate.\n\n-----------
+ ---------------------\n𝗕𝗢𝗨𝗧𝗦\n-----------------------------
+ ---\n\n🥊 13. 𝗪𝗮𝘀𝗶 𝗔𝗱𝗲𝘀𝗵𝗶𝗻𝗮 🇳🇬
+  vs. 𝗜𝗴𝗻𝗮𝗰𝗶𝗼 𝗖𝗮𝗺𝗽𝗼𝘀 🇪🇸\n• W
+ inner: Ignacio Campos by Submission\n• Adeshina: 10-3-0 | 29yo\n• Camp
+ os: 8-2-0 | 29yo | Grappler\n\n🥊 12. 𝗣𝗮𝘁𝗿𝗶𝗰𝗸 𝗢
+ 𝗰𝗵𝗲𝗺𝗲 🇳🇬 vs. 𝗢𝗰𝘁𝗮𝘃𝗲 𝗔𝘆𝗶
+ 𝗻𝗱𝗮 🇨🇲\n• Winner: Patrick Ocheme by KO\n• Ocheme: 9-1-0
+  | 31yo\n• Ayinda: 6-2-0 | 29yo\n\n🥊 11. 𝗞𝗮𝗿𝗶𝗺 𝗛
+ 𝗲𝗻𝗻𝗶𝗲𝗻𝗲 🇩🇿 vs. 𝗧𝗵𝗶𝗺𝗻𝗮 𝗠
+ 𝗵𝗹𝗮𝘂𝗹𝗶 🇿🇦\n• Winner: Karim Henniene by Submissio
+ n\n• Henniene: 7-0-0 | 30yo\n• Mhlauli: 5-1-0\n\n🥊 10. Á𝘂𝗿
+ 𝗲𝗼 𝗖𝗿𝘂𝘇 🇦🇴 vs. 𝗖𝗼𝗿𝗻𝗲𝗹 𝗧𝗵
+ 𝗼𝗺𝗽𝘀𝗼𝗻\n• Winner: Cornel Thompson by Decision\n• Cru
+ z: 3-1-0\n• Thompson: 11-3-0 | 31yo\n\n🥊 9. 𝗬𝗮𝗵𝗮𝘆𝗮 
+ 𝗬𝗮𝗵𝘂𝘇𝗮 vs. 𝗝𝗼𝗿𝗱𝗮𝗻 𝗙𝗼𝗻𝗴𝗻
+ 𝗼\n• Winner: Jordan Fongno by TKO\n• Yahuza: 8-1-0 | 25yo\n• Fong
+ no: 5-1-0 | 25yo\n\n🥊 8. 𝗘𝗱𝘀𝗼𝗻 𝗠𝗮𝗰𝗵𝗮𝘃
+ 𝗮𝗻𝗲 vs. 𝗥𝗮𝗽𝗵𝗮𝗲𝗹 𝗨𝗰𝗵𝗲𝗴𝗯𝘂
+  🇬🇧\n• Winner: Raphael Uchegbu by Decision\n• Machavane: 7-2-0 |
+  25yo\n• Uchegbu: 7-1-0\n\n🥊 7. 𝗝𝘂𝗹𝗶𝗲𝘁 𝗨𝗸𝗮
+ 𝗵 🇳🇬 vs. 𝗘𝗹𝗶𝘀𝗮𝗻𝗱𝗿𝗮 𝗙𝗲𝗿𝗿
+ 𝗲𝗶𝗿𝗮\n• Winner: Juliet Ukah by Submission\n• Ukah: 9-1-0 |
+  27yo\n• Ferreira: 10-2-0 | 25yo\n\n🥊 6. 𝗔𝗯𝗱𝗲𝗿𝗿𝗮
+ 𝗵𝗺𝗮𝗻 𝗘𝗿𝗿𝗮𝗰𝗵𝗶𝗱𝘆 🇲🇦 vs. 𝗛
+ 𝘂𝘀𝘀𝗮𝗶𝗻 𝗔𝗹 𝗞𝘂𝗿𝗱𝗶\n• Winner: Hussai
+ n Al Kurdi by Submission\n• Errachidy: 5-2-0 | 25yo\n• Kurdi: 3-0-0 | 
+ 25yo\n\n🥊 5. 𝗔𝗹𝗮𝗶𝗻 𝗠𝗮𝗷𝗼𝗿𝗶𝗾𝘂𝗲 
+ 🇨🇲 vs. 𝗗𝘄𝗶𝗴𝗵𝘁 𝗝𝗼𝘀𝗲𝗽𝗵 🇱🇷\n
+ • Winner: Dwight Joseph by Decision\n• Majorique: 6-2-0 | 36yo\n• Jo
+ seph: 16-3-1 | 36yo\n\n🥊 4. 𝗝𝗲𝗮𝗻 𝗗𝗼 𝗦𝗮𝗻𝘁
+ 𝗼𝘀 🇧🇯 vs. 𝗗𝗲𝗺𝗯𝗮 𝗦𝗲𝗰𝗸\n• Winner: D
+ emba Seck by Decision\n• Santos: 9-2-0 | 24yo\n• Seck: 11-3-0 | 31yo\n
+ \n🥊 3. 𝗕𝗼𝘂𝗹𝗲 𝗚𝗼𝗱𝗼𝗴𝗼 🇦🇴 vs. 𝗗
+ 𝗮𝘂𝗱𝗮 𝗥𝗮𝗷𝗮𝗯𝘂\n• Winner: Boule Godogo by KO\
+ n• Godogo: 5-1-0\n• Rajabu: 4-2-0 | 25yo\n\n🥊 2. 𝗦𝘁𝘆𝘃
+ 𝗲 𝗡𝗴𝗼𝗻𝗼 🇨🇲 vs. 𝗥𝗶𝗰𝗵𝗮𝗿𝗱 𝗠
+ 𝘂𝘇𝗮𝗮𝗻\n• Winner: Styve Ngono by Decision\n• Ngono: 8-1-
+ 0 | 26yo\n• Muzaan: 6-4-1 | 25yo\n\n🥊 1. 𝗠𝗶𝗿𝗮𝗰𝗹𝗲
+  𝗖𝗵𝗶𝗽𝗶𝘁𝗼 vs. 𝗛𝗮𝗶𝗱𝘆 𝗔𝗵𝗺𝗲
+ 𝗱 🇪🇬\n• Winner: Miracle Chipito by Submission\n• Ahmed: 2-2-0
+ \n\n--------------------------------\nSource: https://pflmma.com/event/pfl
+ -africa-nigeria\nCalendar updated: 2026-09-13T10:13:24.156Z
+LOCATION:Eko Convention Center\, Lagos\, Nigeria
+URL:https://pflmma.com/event/pfl-africa-nigeria
+CATEGORIES:Professional Fighters League
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pfl-san-diego-2026@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART:20260627T200000Z
+DTEND:20260628T010000Z
+SUMMARY:PFL San Diego
+DESCRIPTION:Professional Fighters League · Complete Event · 9 announced b
+ outs\n📍 Pechanga Arena San Diego – San Diego\, Calif.\nTimes display 
+ automatically in your calendar time zone. End time is approximate.\n\n----
+ ----------------------------\n𝗕𝗢𝗨𝗧𝗦\n----------------------
+ ----------\n\n🥊 9. 𝗔𝗝 𝗠𝗰𝗞𝗲𝗲 vs. 𝗦𝗮𝗹𝗮
+ 𝗺𝗮𝘁 𝗜𝘀𝗯𝘂𝗹𝗮𝗲𝘃\n• Winner: AJ McKee by Dec
+ ision\n• McKee: 25-2-0 | 31yo | Striker\n• Isbulaev: 10-1-0 | 29yo\n\n
+ 🥊 8. 𝗟𝗶𝘇 𝗖𝗮𝗿𝗺𝗼𝘂𝗰𝗵𝗲 🇺🇸 vs. 
+ 𝗩𝗶𝘃𝗶𝗮𝗻𝗲 𝗔𝗿𝗮𝘂𝗷𝗼\n• Winner: Liz Car
+ mouche by Submission\n• Carmouche: 26-8-0 | 42yo\n• Araujo: 14-8-0 | 3
+ 9yo\n\n🥊 7. 𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗲𝗿 𝗦𝗵𝗮𝗯𝗹
+ 𝗶𝘆 vs. 𝗔𝗹𝗳𝗶𝗲 𝗗𝗮𝘃𝗶𝘀 🇬🇧\n• Winne
+ r: Alexander Shabliy by Decision\n• Shabliy: 25-4-0 | 33yo\n• Davis: 2
+ 0-7-1 | 34yo\n\n🥊 6. 𝗔𝗯𝗿𝗮𝗵𝗮𝗺 𝗕𝗮𝗯𝗹𝘆 
+ 🇨🇮 vs. 𝗥𝗼𝗯 𝗪𝗶𝗹𝗸𝗶𝗻𝘀𝗼𝗻 🇦🇺\n
+ • Winner: Rob Wilkinson by TKO\n• Bably: 8-3-0 | 30yo\n• Wilkinson: 
+ 20-5-0 | 34yo\n\n🥊 5. 𝗞𝗵𝗮𝘀𝗮𝗻 𝗠𝗮𝗴𝗼𝗺𝗲
+ 𝗱𝘀𝗵𝗮𝗿𝗶𝗽𝗼𝘃 vs. 𝗝𝗼𝘀𝗵 𝗪𝗲𝗲𝗺
+ 𝘀 🇺🇸\n• Winner: Khasan Magomedsharipov by Submission\n• Magom
+ edsharipov: 11-0-0 | 26yo\n• Weems: 13-7-0 | 32yo\n\n🥊 4. 𝗔𝗿
+ 𝗶𝗮𝗻𝗲 𝗟𝗶𝗽𝘀𝗸𝗶 𝗱𝗮 𝗦𝗶𝗹𝘃𝗮 vs
+ . 𝗝𝗲𝗻𝗮 𝗕𝗶𝘀𝗵𝗼𝗽\n• Winner: Jena Bishop by Su
+ bmission\n• Silva: 18-12-0 | 32yo\n• Bishop: 11-3-0 | 40yo | Grappler\
+ n\n🥊 3. 𝗝𝘂𝘀𝘁𝗶𝗻 𝗪𝗲𝘁𝘇𝗲𝗹𝗹 🇺🇸 
+ vs. 𝗦𝗮𝗿𝘃𝗮𝗿𝗷𝗼𝗻 𝗞𝗵𝗮𝗺𝗶𝗱𝗼𝘃 
+ 🇹🇯\n• Winner: Sarvarjon Khamidov by Submission\n• Wetzell: 12-4-
+ 0 | 34yo\n• Khamidov: 17-1-0 | 29yo\n\n🥊 2. 𝗦𝗵𝗮𝗻𝗻𝗼
+ 𝗻 𝗖𝗹𝗮𝗿𝗸 🇨🇦 vs. 𝗜𝗹𝗮𝗿𝗮 𝗝𝗼𝗮
+ 𝗻𝗻𝗲\n• Winner: Shannon Clark by TKO\n• Clark: 8-1-0 | 33yo\n
+ • Joanne: 13-11-0 | 32yo\n\n🥊 1. 𝗖𝗼𝗯𝗲𝘆 𝗙𝗲𝗵
+ 𝗿 vs. 𝗗𝗮𝗻𝗶𝗲𝗹 𝗕𝘇𝗱𝗶𝗴𝗶𝗮𝗻 🇺
+ 🇸\n• Winner: Cobey Fehr by Submission\n• Fehr: 4-0-0 | 31yo\n• Bz
+ digian: 3-1-0 | 23yo\n\n--------------------------------\nSource: https://
+ pflmma.com/event/pfl-san-diego-2026\nCalendar updated: 2026-09-13T10:13:24
+ .156Z
+LOCATION:Pechanga Arena San Diego – San Diego\, Calif.
+URL:https://pflmma.com/event/pfl-san-diego-2026
+CATEGORIES:Professional Fighters League
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pflmena10@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+TRANSP:TRANSPARENT
+SUMMARY:PFL MENA 10
+DESCRIPTION:Professional Fighters League · Complete Event · 10 announced 
+ bouts\n📍 Riyadh\, KSA\nCard times have not been announced. This date-on
+ ly entry will update automatically.\n\n--------------------------------\n
+ 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 10. 𝗛
+ 𝗮𝘁𝘁𝗮𝗻 𝗔𝗹𝘀𝗮𝗶𝗳 🇸🇦 vs. 𝗗𝗮𝗻
+ 𝗶𝗮 𝗢𝘂𝗵𝗮𝗰𝗵𝗶 🇩🇿\n• Winner: Hattan Alsaif 
+ by TKO\n• Alsaif: 1-0-0 | 24yo | Striker\n• Ouhachi: 1-2-0 | 22yo\n\n
+ 🥊 9. 𝗛𝗮𝘀𝘀𝗮𝗻 𝗦𝗵𝗮𝗮𝗯𝗮𝗻 🇱🇧 vs.
+  𝗛𝗮𝘇𝗲𝗺 𝗞𝗮𝘆𝘆𝗮𝗹𝗶 🇯🇴\n• Winner: H
+ azem Kayyali by Decision\n• Shaaban: 6-2-0 | 24yo\n• Kayyali: 3-0-2 | 
+ 26yo\n\n🥊 8. 𝗠𝗮𝗹𝗶𝗸 𝗕𝗮𝘀𝗮𝗵𝗲𝗹 🇸🇦
+  vs. 𝗜𝗺𝗮𝗱 𝗘𝗹 𝗔𝘇𝗮𝗺𝗶 🇲🇦\n• Winner: 
+ Malik Basahel by Decision\n• Basahel: 4-0-0 | 24yo\n• Azami: 1-1-0 | 2
+ 2yo\n\n🥊 7. 𝗕𝗮𝗱𝗿𝗲𝗱𝗱𝗶𝗻𝗲 𝗗𝗶𝗮𝗻
+ 𝗶 🇲🇦 vs. 𝗬𝗼𝘂𝘀𝗲𝗳 𝗔𝗱𝗲𝗹 🇪🇬\n• 
+ Winner: Badreddine Diani by Decision\n• Diani: 11-4-0 | 29yo\n• Adel: 
+ 7-1-0 | 24yo\n\n🥊 6. 𝗪𝗶𝘀𝘀𝗮𝗺𝗲 𝗔𝗸𝗵𝗺𝗼
+ 𝘂𝗰𝗵 🇲🇦 vs. 𝗔𝗯𝗱𝗲𝗹𝗸𝗿𝗶𝗺 𝗭𝗼
+ 𝘂𝗮𝗱 🇩🇿\n• Winner: Abdelkrim Zouad by Submission\n• Akhm
+ ouch: 7-3-0\n• Zouad: 8-2-0\n\n🥊 5. 𝗦𝗵𝗮𝗱𝗶 𝗞𝗮𝗯
+ 𝗯𝗮𝗻𝗶 🇸🇾 vs. 𝗔𝗵𝗺𝗲𝗱 𝗧𝗮𝗿𝗲𝗸 
+ 🇪🇬\n• Winner: Shadi Kabbani by Decision\n• Kabbani: 5-0-0\n• T
+ arek: 7-2-0 | 26yo\n\n🥊 4. 𝗢𝗺𝗮𝗿 𝗛𝘂𝘀𝘀𝗲𝗶
+ 𝗻 vs. 𝗔𝗵𝗺𝗲𝗱 𝗗𝗮𝗿𝘄𝗶𝘀𝗵 🇪🇬\n• W
+ inner: Omar Hussein by TKO\n• Hussein: 12-7-0\n• Darwish: 6-2-0\n\n
+ 🥊 3. 𝗘𝗹𝗶𝗮𝘀 𝗕𝗼𝘂𝗱𝗲𝗴𝘇𝗱𝗮𝗺𝗲 
+ 🇩🇿 vs. 𝗛𝘂𝘀𝘀𝗲𝗶𝗻 𝗦𝗮𝗹𝗲𝗺 🇮🇶\n
+ • Winner: Elias Boudegzdame by Submission\n• Boudegzdame: 21-9-0 | 32y
+ o\n• Salem: 12-7-0\n\n🥊 2. 𝗥𝗮𝘆𝗮𝗻 𝗔𝘁𝗺𝗮𝗻
+ 𝗶 🇩🇿 vs. 𝗘𝘀𝗹𝗮𝗺 𝗠𝗼𝘀𝘁𝗮𝗳𝗮 🇪
+ 🇬\n• Winner: Rayan Atmani by KO\n• Atmani: 6-3-0 | 33yo\n• Mostaf
+ a: 5-3-0 | 31yo\n\n🥊 1. 𝗦𝗮𝘂𝗱 𝗔𝗹𝗺𝗼𝗹𝗵𝗲
+ 𝗺 🇸🇦 vs. 𝗔𝗯𝗱𝗲𝗹𝗵𝗮𝗹𝗶𝗺 𝗘𝗹𝗵
+ 𝗼𝘂𝗳𝘆 🇪🇬\n• Winner: Saud Almolhem by Decision\n• Almo
+ lhem: 2-0-0 | 25yo\n• Elhoufy: 2-2-0\n\n--------------------------------
+ \nSource: https://pflmma.com/event/pflmena10\nCalendar updated: 2026-09-13
+ T10:13:24.156Z
+LOCATION:Riyadh\, KSA
+URL:https://pflmma.com/event/pflmena10
+CATEGORIES:Professional Fighters League
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:pfl-austin-2026@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART:20260718T173000Z
+DTEND:20260718T230000Z
+SUMMARY:PFL AUSTIN 2026
+DESCRIPTION:Professional Fighters League · Complete Event · 9 announced b
+ outs\n📍 Moody Center - Austin\, Texas\nTimes display automatically in y
+ our calendar time zone. End time is approximate.\n\n----------------------
+ ----------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊
+  9. 𝗝𝗼𝗵𝗻𝗻𝘆 𝗘𝗯𝗹𝗲𝗻 vs. 𝗜𝗺𝗽𝗮 
+ 𝗞𝗮𝘀𝗮𝗻𝗴𝗮𝗻𝗮𝘆 🇺🇸\n• Winner: Johnny Eble
+ n by KO\n• Eblen: 18-1-0 | 34yo | Grappler\n• Kasanganay: 20-7-0 | 32y
+ o\n\n🥊 8. 𝗟𝗲𝘄𝗶𝘀 𝗠𝗰𝗚𝗿𝗶𝗹𝗹𝗲𝗻 
+ 🇬🇧 vs. 𝗥𝗮𝗳𝗮𝗲𝗹 𝗱𝗼 𝗡𝗮𝘀𝗰𝗶𝗺
+ 𝗲𝗻𝘁𝗼 🇧🇷\n• Winner: Rafael do Nascimento by Submission\
+ n• McGrillen: 13-2-0 | 25yo\n• Nascimento: 13-3-0 | 34yo\n\n🥊 7. 
+ 𝗖𝗮𝗼𝗹𝗮𝗻 𝗟𝗼𝘂𝗴𝗵𝗿𝗮𝗻 🇮🇪 vs. 
+ 𝗝𝘂𝗹𝗶𝗼 𝗔𝗿𝗰𝗲\n• Winner: Julio Arce by Decision\
+ n• Loughran: 11-4-0 | 30yo\n• Arce: 22-7-0 | 36yo\n\n🥊 6. 𝗝𝗲
+ 𝘀𝘂𝘀 𝗣𝗶𝗻𝗲𝗱𝗼 🇵🇪 vs. 𝗝𝗼𝘀𝗲𝗽
+ 𝗵 𝗥𝘂𝗾𝘂𝗲𝘁 🇺🇸\n• Winner: Jesus Pinedo by TKO\n
+ • Pinedo: 26-7-1 | 30yo\n• Ruquet: 10-5-0 | 34yo\n\n🥊 5. 𝗕𝗶
+ 𝗮𝗴𝗴𝗶𝗼 𝗔𝗹𝗶 𝗪𝗮𝗹𝘀𝗵 🇺🇸 vs. 𝗚
+ 𝗮𝗺𝗶𝗱 𝗞𝗵𝗶𝘇𝗿𝗶𝗲𝘃 🇷🇺\n• Winner: Ga
+ mid Khizriev by Submission\n• Walsh: 4-2-0 | 27yo\n• Khizriev: 5-0-0 |
+  25yo\n\n🥊 4. 𝗔𝗻𝗱𝗿𝗲𝗮 𝗩𝗮𝘇𝗾𝘂𝗲𝘇 vs.
+  𝗔𝗹𝗲𝗸𝘀𝗮𝗻𝗱𝗿𝗮 𝗦𝗮𝘃𝗶𝗰𝗵𝗲𝘃
+ 𝗮 🇷🇺\n• Winner: Aleksandra Savicheva by Decision\n• Vazquez: 
+ 8-4-0 | 32yo\n• Savicheva: 8-2-0 | 28yo\n\n🥊 3. 𝗠𝗶𝗮 𝗚𝗿
+ 𝗮𝘄𝗲 🇺🇸 vs. 𝗔𝘀𝗵𝗹𝗲𝘆 𝗧𝗵𝗶𝗻𝗲
+ 𝗿\n• Winner: Ashley Thiner by Decision\n• Grawe: 3-1-0 | 25yo\n• 
+ Thiner: 3-0-0 | 32yo\n\n🥊 2. 𝗝𝗮𝗰𝗸𝘀𝗼𝗻 𝗚𝗹𝗮
+ 𝘀𝘀 vs. 𝗭𝗮𝗸 𝗙𝗹𝗲𝘀𝘀𝗮𝘀 🇺🇸\n• Winne
+ r: Jackson Glass by TKO\n• Glass: 4-0-0 | 18yo\n• Flessas: 2-2-0 | 34y
+ o\n\n🥊 1. 𝗩𝗶𝗰𝘁𝗼𝗿𝗶𝗮 𝗔𝗹𝗯𝗮 vs. 𝗕
+ 𝗼𝗿𝗲𝗻𝗮 𝗧𝘀𝗲𝗿𝘁𝘀𝘃𝗮𝗱𝘇𝗲\n• Win
+ ner: Victoria Alba by TKO\n• Alba: 7-2-0 | 33yo\n• Tsertsvadze: 6-2-0 
+ | 27yo\n\n--------------------------------\nSource: https://pflmma.com/eve
+ nt/pfl-austin-2026\nCalendar updated: 2026-09-13T10:13:24.156Z
+LOCATION:Moody Center - Austin\, Texas
+URL:https://pflmma.com/event/pfl-austin-2026
+CATEGORIES:Professional Fighters League
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pfl-washington-dc-2026@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART:20260725T200000Z
+DTEND:20260726T010000Z
+SUMMARY:PFL Washington DC
+DESCRIPTION:Professional Fighters League · Complete Event · 8 announced b
+ outs\n📍 CareFirst Arena\, Washington D.C.\nTimes display automatically 
+ in your calendar time zone. End time is approximate.\n\n------------------
+ --------------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n
+ 🥊 8. 𝗧𝗵𝗮𝗱 𝗝𝗲𝗮𝗻 🇭🇹 vs. 𝗘𝗿𝗻𝗲
+ 𝘀𝘁𝗼 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 🇨🇺\n• Winner: Th
+ ad Jean by TKO\n• Jean: 12-0-0 | 28yo\n• Rodriguez: 11-2-0 | 28yo\n\n
+ 🥊 7. 𝗧𝘆𝘀𝗼𝗻 𝗣𝗲𝗱𝗿𝗼 vs. 𝗥𝗮𝗳𝗮𝗲
+ 𝗹 𝗫𝗮𝘃𝗶𝗲𝗿\n• Winner: Rafael Xavier by TKO\n• Pedro
+ : 10-7-0 | 34yo\n• Xavier: 15-9-0 | 35yo\n\n🥊 6. 𝗦𝘂𝗹𝗹𝗶
+ 𝘃𝗮𝗻 𝗖𝗮𝘂𝗹𝗲𝘆 vs. 𝗥𝗮𝘀𝘂𝗹 𝗠𝗮
+ 𝗴𝗼𝗺𝗲𝗱𝗼𝘃 🇧🇭\n• Winner: Rasul Magomedov by Deci
+ sion\n• Cauley: 8-3-0 | 30yo\n• Magomedov: 10-0-0 | 31yo\n\n🥊 5. 
+ 𝗘𝗹𝗶𝗲𝘇𝗲𝗿 𝗞𝘂𝗯𝗮𝗻𝘇𝗮 vs. 𝗖𝗵𝗿
+ 𝗶𝘀 𝗠𝗶𝘅𝗮𝗻 🇺🇦\n• Winner: Eliezer Kubanza by Sub
+ mission\n• Kubanza: 9-1-0 | 28yo\n• Mixan: 7-3-0 | 27yo\n\n🥊 4. 
+ 𝗕𝗿𝘆𝗰𝗲 𝗠𝗲𝗿𝗲𝗱𝗶𝘁𝗵 🇺🇸 vs. 𝗠
+ 𝗶𝗰𝗵𝗮𝗲𝗹 𝗖𝘆𝗿 🇺🇸\n• Winner: Bryce Meredith
+  by Decision\n• Meredith: 8-1-0 | 31yo | Grappler\n• Cyr: 8-3-0 | 31yo
+ \n\n🥊 3. 𝗡𝗸𝗼𝘀𝗶 𝗡𝗱𝗲𝗯𝗲𝗹𝗲 🇿🇦 vs.
+  𝗕𝗿𝗮𝗻𝗱𝗼𝗻 𝗗𝗮𝘃𝗶𝘀 🇺🇸\n• Winner: N
+ kosi Ndebele by Decision\n• Ndebele: 14-3-0 | 31yo\n• Davis: 14-12-0 |
+  36yo\n\n🥊 2. 𝗖𝗵𝗮𝗱 𝗬𝗮𝗿𝗱 vs. 𝗖𝗼𝗯𝘆 
+ 𝗕𝗿𝗮𝗱𝗳𝗼𝗿𝗱 🇺🇸\n• Winner: Coby Bradford by Su
+ bmission\n• Yard: 30yo\n• Bradford: 31yo\n\n🥊 1. 𝗡𝗼𝗮𝗵 
+ 𝗛𝗲𝗿𝗺𝗼𝘀𝗶𝗹𝗹𝗼 🇺🇸 vs. 𝗝𝗮𝗰𝗼𝗯
+  𝗣𝗮𝗶𝘀 🇺🇸\n• Winner: Noah Hermosillo by Decision\n• H
+ ermosillo: 27yo\n• Pais: 1-1-0 | 23yo\n\n-------------------------------
+ -\nSource: https://pflmma.com/event/pfl-washington-dc-2026\nCalendar updat
+ ed: 2026-09-13T10:13:24.156Z
+LOCATION:CareFirst Arena\, Washington D.C.
+URL:https://pflmma.com/event/pfl-washington-dc-2026
+CATEGORIES:Professional Fighters League
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pfl-ny-2026@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART:20260731T163000Z
+DTEND:20260731T220000Z
+SUMMARY:PFL NEW YORK
+DESCRIPTION:Professional Fighters League · Complete Event · 9 announced b
+ outs\n📍 UBS Arena\, Belmont Park\, New York\nTimes display automaticall
+ y in your calendar time zone. End time is approximate.\n\n----------------
+ ----------------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n
+ \n🥊 9. 𝗨𝘀𝗺𝗮𝗻 𝗡𝘂𝗿𝗺𝗮𝗴𝗼𝗺𝗲𝗱
+ 𝗼𝘃 🇷🇺 vs. 𝗔𝗿𝗰𝗵𝗶𝗲 𝗖𝗼𝗹𝗴𝗮𝗻\n
+ • Winner: Usman Nurmagomedov by KO\n• Nurmagomedov: 22-0-0 | 28yo\n•
+  Colgan: 13-1-0 | 31yo\n\n🥊 8. 𝗗𝗮𝗸𝗼𝘁𝗮 𝗗𝗶𝘁
+ 𝗰𝗵𝗲𝘃𝗮 vs. 𝗗𝗲𝗻𝗶𝘀𝗲 𝗞𝗶𝗲𝗹𝗵𝗼
+ 𝗹𝘁𝘇\n• Winner: Dakota Ditcheva by Decision\n• Ditcheva: 16-0-
+ 0 | 28yo\n• Kielholtz: 9-6-0 | 37yo\n\n🥊 7. 𝗔𝗺𝗿𝘂 𝗠𝗮
+ 𝗴𝗼𝗺𝗲𝗱𝗼𝘃 vs. 𝗔𝗻𝗴𝗲𝗹 𝗔𝗹𝘃𝗮𝗿
+ 𝗲𝘇 🇨🇺\n• Winner: Amru Magomedov by TKO\n• Magomedov: 11-0-
+ 0 | 27yo\n• Alvarez: 11-3-0 | 31yo\n\n🥊 6. 𝗠𝗼𝘂𝘀𝘁𝗮
+ 𝗽𝗵𝗮 𝗗𝗶𝗮𝗸𝗵𝗮𝘁é 🇸🇳 vs. 𝗗𝗮𝗿𝗿
+ 𝘆𝗹 𝗪𝗮𝗹𝗸𝗲𝗿 🇺🇸\n• Winner: Moustapha Diakhat
+ é by TKO\n• Diakhaté: 6-0-1 | 25yo\n• Walker: 2-1-0 | 34yo\n\n🥊 5
+ . 𝗥𝗮𝘂𝗳𝗲𝗼𝗻 𝗦𝘁𝗼𝘁𝘀 vs. 𝗟𝗮𝘇𝗮
+ 𝗿𝗼 𝗗𝗮𝘆𝗿𝗼𝗻 🇺🇸\n• Winner: Lazaro Dayron by D
+ ecision\n• Stots: 21-5-0 | 37yo | Grappler\n• Dayron: 11-0-1 | 34yo\n\
+ n🥊 4. 𝗦𝗲𝗮𝗻 𝗚𝗮𝘂𝗰𝗶 🇦🇺 vs. 𝗔𝗹𝗹
+ 𝗮𝗻 𝗕𝗲𝗴𝗼𝘀𝘀𝗼\n• Winner: Sean Gauci by Decision\
+ n• Gauci: 12-1-0 | 29yo\n• Begosso: 10-5-1 | 30yo\n\n🥊 3. 𝗝𝗼
+ 𝗻𝗮𝘁𝗵𝗮𝗻 𝗣𝗶𝗲𝗿𝘀𝗺𝗮 vs. 𝗢𝗺𝗮𝗿
+  𝗘𝗹 𝗗𝗮𝗳𝗿𝗮𝘄𝘆\n• Winner: Omar El Dafrawy by Dec
+ ision\n• Piersma: 12-4-0 | 30yo\n• Dafrawy: 16-6-0 | 31yo\n\n🥊 2. 
+ 𝗠𝗼𝗻𝘁𝗮𝗻𝗮 𝗗𝗲 𝗟𝗮 𝗥𝗼𝘀𝗮 vs. 𝗧
+ 𝗮𝘁𝗶𝗮𝗻𝗮 𝗣𝗼𝘀𝘁𝗮𝗿𝗻𝗮𝗸𝗼𝘃𝗮\
+ n• Winner: Tatiana Postarnakova by Decision\n• Rosa: 13-10-1 | 31yo\n
+ • Postarnakova: 8-0-0 | 26yo\n\n🥊 1. 𝗖𝗵𝗮𝗺𝘆 𝗗𝗲
+ 𝗹𝘃𝗮 🇺🇸 vs. 𝗟𝗲𝘃𝗮𝗻 𝗞𝗵𝗮𝗯𝗮𝗹
+ 𝗮𝗲𝘃 🇬🇪\n• Winner: Levan Khabalaev by TKO\n• Delva: 7-2-
+ 0 | 45yo\n• Khabalaev: 5-0-0 | 27yo\n\n--------------------------------\
+ nSource: https://pflmma.com/event/pfl-ny-2026\nCalendar updated: 2026-09-1
+ 3T10:13:24.156Z
+LOCATION:UBS Arena\, Belmont Park\, New York
+URL:https://pflmma.com/event/pfl-ny-2026
+CATEGORIES:Professional Fighters League
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pfl-charlotte@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART:20260807T183000Z
+DTEND:20260808T010000Z
+SUMMARY:PFL Charlotte
+DESCRIPTION:Professional Fighters League · Complete Event · 13 announced 
+ bouts\n📍 Bojangles Coliseum\, Charlotte\, North Carolina\nTimes display
+  automatically in your calendar time zone. End time is approximate.\n\n---
+ -----------------------------\n𝗕𝗢𝗨𝗧𝗦\n---------------------
+ -----------\n\n🥊 13. 𝗕𝗿𝘆𝗮𝗻 𝗕𝗮𝘁𝘁𝗹𝗲 vs. 
+ 𝗗𝗮𝗹𝘁𝗼𝗻 𝗥𝗼𝘀𝘁𝗮\n• Winner: Bryan Battle by
+  Decision\n• Battle: 13-3-0 | 31yo\n• Rosta: 11-4-0 | 30yo | Grappler\
+ n\n🥊 12. 𝗗𝗼𝘃𝗹𝗲𝘁 𝗬𝗮𝗴𝘀𝗵𝗶𝗺𝘂𝗿
+ 𝗮𝗱𝗼𝘃 🇹🇲 vs. 𝗦𝗶𝗺𝗲𝗼𝗻 𝗣𝗼𝘄𝗲
+ 𝗹𝗹\n• Winner: Simeon Powell by Decision\n• Yagshimuradov: 26-9-1
+  | 37yo\n• Powell: 13-2-0 | 27yo\n\n🥊 11. 𝗝𝗼𝘀𝗵 𝗦𝗶
+ 𝗹𝘃𝗲𝗶𝗿𝗮 vs. 𝗔𝗮𝗿𝗼𝗻 𝗝𝗲𝗳𝗳𝗲𝗿
+ 𝘆\n• Winner: Aaron Jeffery by Decision\n• Silveira: 15-6-0 | 33yo |
+  Grappler\n• Jeffery: 17-6-0 | 33yo\n\n🥊 10. 𝗟𝗲𝘄𝗶𝘀 
+ 𝗠𝗰𝗚𝗿𝗶𝗹𝗹𝗲𝗻 🇬🇧 vs. 𝗕𝗿𝗮𝗻𝗱𝗼
+ 𝗻 𝗟𝗲𝘄𝗶𝘀\n• Winner: Lewis McGrillen by Decision\n• Mc
+ Grillen: 13-2-0 | 25yo\n• Lewis: 7-4-0 | 29yo\n\n🥊 9. 𝗝𝗼𝘀
+ 𝗵 𝗙𝗿𝗲𝗺𝗱 vs. 𝗝𝗵𝗼𝗻𝘆 𝗚𝗿𝗲𝗴𝗼
+ 𝗿𝘆 🇧🇷\n• Winner: Josh Fremd by TKO\n• Fremd: 13-6-0 | 32yo
+ \n• Gregory: 11-6-0 | 32yo\n\n🥊 8. 𝗗𝗲𝗻𝗶𝘀 𝗚𝗼𝗹
+ 𝘁𝘀𝗼𝘃 🇷🇺 vs. 𝗛𝗮𝘀𝗮𝗻 𝗠𝗲𝘇𝗵𝗶
+ 𝗲𝘃 🇱🇻\n• Winner: Denis Goltsov by TKO\n• Goltsov: 37-9-0 |
+  36yo\n• Mezhiev: 14-1-0 | 34yo\n\n🥊 7. 𝗖𝗵𝗲𝘆𝗱𝗲𝗻 
+ 𝗟𝗲𝗶𝗮𝗹𝗼𝗵𝗮 vs. 𝗥𝗼𝗯𝗲𝗿𝘁 𝗥𝗶𝗻
+ 𝗴\n• Winner: Cheyden Leialoha by Decision\n• Leialoha: 12-3-0 | 32y
+ o\n• Ring: 9-2-0 | 26yo\n\n🥊 6. 𝗖𝗵𝗲𝘆𝗮𝗻𝗻𝗲 𝗕
+ 𝗼𝘄𝗲𝗿𝘀 🇺🇸 vs. 𝗘𝗹𝗼𝗿𝗮 𝗗𝗮𝗻𝗮 
+ 🇧🇷\n• Winner: Cheyanne Bowers by Submission\n• Bowers: 8-3-0 | 3
+ 1yo\n• Dana: 8-3-0 | 33yo\n\n🥊 5. 𝗠𝗶𝗰𝗵𝗮𝗲𝗹 𝗕
+ 𝗼𝘆𝗹𝗮𝗻 🇺🇸 vs. 𝗟𝗮𝗻𝗱𝗿𝘆 𝗪𝗮𝗿
+ 𝗱 🇺🇸\n• Winner: Landry Ward by Decision\n• Boylan: 6-1-0 | 25
+ yo\n• Ward: 11-3-0 | 29yo\n\n🥊 4. 𝗩𝗮𝗹𝗲𝗻𝘁𝗶𝗻 
+ 𝗠𝗼𝗹𝗱𝗮𝘃𝘀𝗸𝘆 vs. 𝗕𝗿𝘂𝗻𝗼 𝗖𝗮𝗽
+ 𝗽𝗲𝗹𝗼𝘇𝘇𝗮\n• Winner: Bruno Cappelozza by Decision\n
+ • Moldavsky: 14-5-0 | 34yo\n• Cappelozza: 16-7-0 | 37yo\n\n🥊 3. 
+ 𝗝𝗼𝗻𝗮𝘁𝗵𝗮𝗻 𝗠𝗮𝗿𝘁𝗶𝗻 vs. 𝗪𝗶𝗹
+ 𝘀𝗼𝗻 𝗟𝗼𝗽𝘀𝗵𝗶𝗿𝗲\n• Winner: Jonathan Martin
+  by Decision\n• Martin: 9-3-0 | 30yo\n• Lopshire: 7-1-0 | 27yo\n\n🥊
+  2. 𝗘𝗱𝘂𝗮𝗿𝗱𝗼 𝗡𝗲𝘃𝗲𝘀 🇧🇷 vs. 𝗠
+ 𝗮𝘅𝘄𝗲𝗹𝗹 𝗗𝗷𝗮𝗻𝘁𝗼𝘂 𝗡𝗮𝗻𝗮 
+ 🇨🇲\n• Winner: Maxwell Djantou Nana by TKO\n• Neves: 9-4-0 | 26yo
+ \n• Nana: 9-2-0 | 35yo\n\n🥊 1. 𝗧𝗿𝘂𝗸𝗼𝗻 𝗖𝗮𝗿
+ 𝘀𝗼𝗻 🇺🇸 vs. 𝗧𝗿𝗲𝘆 𝗪𝗮𝘁𝗲𝗿𝘀\n• W
+ inner: Trey Waters by TKO\n• Carson: 6-2-0 | 31yo\n• Waters: 10-2-0 | 
+ 31yo\n\n--------------------------------\nSource: https://pflmma.com/event
+ /pfl-charlotte\nCalendar updated: 2026-09-13T10:13:24.156Z
+LOCATION:Bojangles Coliseum\, Charlotte\, North Carolina
+URL:https://pflmma.com/event/pfl-charlotte
+CATEGORIES:Professional Fighters League
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pfl-tampa@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART:20260822T173000Z
+DTEND:20260823T000000Z
+SUMMARY:PFL Tampa
+DESCRIPTION:Professional Fighters League · Complete Event · 11 announced 
+ bouts\n📍 Benchmark International Arena\, Tampa\, FL\nTimes display auto
+ matically in your calendar time zone. End time is approximate.\n\n--------
+ ------------------------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------
+ ------\n\n🥊 11. 𝗖𝗿𝗶𝘀 𝗖𝘆𝗯𝗼𝗿𝗴 🇧🇷 vs. 
+ 𝗞𝗲𝘁𝗹𝗲𝗻 𝗩𝗶𝗲𝗶𝗿𝗮\n• Winner: Cris Cyborg
+  by Decision\n• Cyborg: 30-2-0 | 41yo\n• Vieira: 34yo\n\n🥊 10. 𝗚
+ 𝗮𝗱𝘇𝗵𝗶 𝗥𝗮𝗯𝗮𝗱𝗮𝗻𝗼𝘃 vs. 𝗧𝗿𝗮
+ 𝗰𝘆 𝗥𝗲𝗲𝗱𝗲𝗿 🇺🇸\n• Winner: Gadzhi Rabadanov b
+ y TKO\n• Rabadanov: 28-5-2 | 33yo | Grappler\n• Reeder: 12-6-0 | 27yo\
+ n\n🥊 9. 𝗧𝗮𝗶𝗹𝗮 𝗦𝗮𝗻𝘁𝗼𝘀 🇧🇷 vs. 𝗦
+ 𝗮𝗯𝗿𝗶𝗻𝗻𝗮 𝗱𝗲 𝗦𝗼𝘂𝘀𝗮 🇧🇷\n• W
+ inner: Sabrinna de Sousa by Decision\n• Santos: 23-5-0 | 33yo\n• Sousa
+ : 7-0-0 | 25yo\n\n🥊 8. 𝗟𝘂𝗸𝗲 𝗧𝗿𝗮𝗶𝗻𝗲𝗿 
+ 🇬🇧 vs. 𝗥𝗼𝗹𝗮𝗻𝗱 𝗗𝘂𝗻𝗹𝗮𝗽 🇺🇸\n
+ • Winner: Luke Trainer by TKO\n• Trainer: 11-1-0 | 30yo\n• Dunlap: 7
+ -1-0 | 33yo\n\n🥊 7. 𝗠𝗮𝗿𝗰𝗶𝗿𝗹𝗲𝘆 𝗔𝗹𝘃
+ 𝗲𝘀 🇧🇷 vs. 𝗡𝗸𝗼𝘀𝗶 𝗡𝗱𝗲𝗯𝗲𝗹𝗲 
+ 🇿🇦\n• Winner: Nkosi Ndebele by Decision\n• Alves: 15-6-0 | 27yo\
+ n• Ndebele: 14-3-0 | 31yo\n\n🥊 6. 𝗠𝗮𝗴𝗼𝗺𝗲𝗱 𝗠
+ 𝗮𝗴𝗼𝗺𝗲𝗱𝗼𝘃 🇷🇺 vs. 𝗗𝗮𝗻𝗶𝗲𝗹 
+ 𝗠𝗮𝗿𝗰𝗼𝘀\n• Winner: Daniel Marcos by TKO\n• Magomedov:
+  22-5-0 | 34yo\n• Marcos: 18-1-0 | 33yo\n\n🥊 5. 𝗠𝗼𝘃𝘀𝗮
+ 𝗿 𝗜𝗯𝗿𝗮𝗴𝗶𝗺𝗼𝘃 🇧🇪 vs. 𝗝𝗮𝘃𝗶
+ 𝗱 𝗕𝗮𝘀𝗵𝗮𝗿𝗮𝘁\n• Winner: Javid Basharat by Decis
+ ion\n• Ibragimov: 8-2-0 | 27yo\n• Basharat: 16-2-0 | 30yo\n\n🥊 4. 
+ 𝗗𝗮𝗸𝗼𝘁𝗮 𝗕𝘂𝘀𝗵 🇺🇸 vs. 𝗠𝗼𝗿𝗾
+ 𝘂𝗲𝘇 𝗙𝗼𝗿𝗲𝘀𝘁 🇺🇸\n• Winner: Dakota Bush by
+  Decision\n• Bush: 17-4-0 | 32yo\n• Forest: 8-2-0 | 33yo\n\n🥊 3. 
+ 𝗡𝗮𝘁𝗮𝗻 𝗦𝗰𝗵𝘂𝗹𝘁𝗲 vs. 𝗔𝗿𝘁𝘂𝗿
+  𝗭𝗮𝘆𝗻𝘂𝗸𝗼𝘃\n• Winner: Natan Schulte by Decision\n
+ • Schulte: 26-6-1 | 34yo\n\n🥊 2. 𝗚𝗶𝗻𝗼 𝗩𝗮𝗻 𝗦
+ 𝘁𝗲𝗲𝗻𝗶𝘀 vs. 𝗥𝗼𝗯𝗲𝗿𝘁 𝗪𝗮𝘁𝗹𝗲
+ 𝘆 🇺🇸\n• Winner: Gino Van Steenis by Decision\n• Steenis: 9-2-
+ 0 | 28yo\n• Watley: 16-5-0 | 37yo\n\n🥊 1. 𝗘𝗼𝗶𝗻 𝗦𝗵
+ 𝗲𝗿𝗶𝗱𝗮𝗻 🇮🇪 vs. 𝗝𝗮𝗺𝗲𝘀 𝗩𝗮𝗸
+ 𝗲 🇳🇿\n• Winner: Eoin Sheridan by Decision\n• Sheridan: 6-0-0 
+ | 31yo | Striker\n• Vake: 7-3-0 | 32yo\n\n------------------------------
+ --\nSource: https://pflmma.com/event/pfl-tampa\nCalendar updated: 2026-09-
+ 13T10:13:24.156Z
+LOCATION:Benchmark International Arena\, Tampa\, FL
+URL:https://pflmma.com/event/pfl-tampa
+CATEGORIES:Professional Fighters League
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pflmena11@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+TRANSP:TRANSPARENT
+SUMMARY:PFL MENA 11
+DESCRIPTION:Professional Fighters League · Complete Event · 6 announced b
+ outs\n📍 Riyadh\, KSA\nCard times have not been announced. This date-onl
+ y entry will update automatically.\n\n--------------------------------\n
+ 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 6. 𝗕𝗮
+ 𝗱𝗿𝗲𝗱𝗱𝗶𝗻𝗲 𝗗𝗶𝗮𝗻𝗶 🇲🇦 vs. 𝗛
+ 𝗮𝘇𝗲𝗺 𝗞𝗮𝘆𝘆𝗮𝗹𝗶 🇯🇴\n• 170lbs/77kg We
+ lterweight · Semifinal\n• Diani: 11-4-0 | 29yo\n• Kayyali: 3-0-2 | 26
+ yo\n\n🥊 5. 𝗛𝗮𝗺𝘇𝗮 𝗞𝗼𝗼𝗵𝗲𝗷𝗶 🇧🇭 v
+ s. 𝗘𝗹𝗶𝗮𝘀 𝗕𝗼𝘂𝗱𝗲𝗴𝘇𝗱𝗮𝗺𝗲 🇩
+ 🇿\n• 145lbs/66kg Featherweight · Semifinal\n• Kooheji: 15-4-0 | 33
+ yo\n• Boudegzdame: 21-9-0 | 32yo\n\n🥊 4. 𝗬𝗹𝗶𝗲𝘀 𝗗
+ 𝗷𝗶𝗿𝗼𝘂𝗻 vs. 𝗕𝗮𝘀𝗲𝗹 𝗦𝗵𝗮𝗹𝗮𝗮
+ 𝗻 🇪🇬\n• 155lbs/70kg Lightweight · Semifinal\n• Djiroun: 16-6
+ -0\n• Shalaan: 7-1-0 | 24yo\n\n🥊 3. 𝗢𝗺𝗮𝗿 𝗛𝘂𝘀𝘀
+ 𝗲𝗶𝗻 vs. 𝗔𝗯𝗱𝗲𝗹𝗸𝗿𝗶𝗺 𝗭𝗼𝘂𝗮𝗱
+  🇩🇿\n• 170lbs/77kg Welterweight · Semifinal\n• Hussein: 12-7-0\
+ n• Zouad: 8-2-0\n\n🥊 2. 𝗠𝗲𝗵𝗱𝗶 𝗦𝗮𝗮𝗱𝗶 
+ 🇫🇷 vs. 𝗦𝗵𝗮𝗱𝗶 𝗞𝗮𝗯𝗯𝗮𝗻𝗶 🇸🇾\n
+ • 145lbs/66kg Featherweight · Semifinal\n• Saadi: 6-2-0 | 33yo\n• K
+ abbani: 5-0-0\n\n🥊 1. 𝗠𝗼𝗵𝗮𝗺𝗺𝗮𝗱 𝗙𝗮𝗵𝗺
+ 𝗶 🇮🇶 vs. 𝗔𝗵𝗺𝗲𝗱 𝗘𝗹 𝗦𝗶𝘀𝘆 🇪🇬\
+ n• 155lbs/70kg Lightweight · Semifinal\n• Fahmi: 5-1-0 | 31yo\n• Si
+ sy: 8-2-0\n\n--------------------------------\nSource: https://pflmma.com/
+ event/pflmena11\nCalendar updated: 2026-09-13T10:13:24.156Z
+LOCATION:Riyadh\, KSA
+URL:https://pflmma.com/event/pflmena11
+CATEGORIES:Professional Fighters League
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:pfl-morocco@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+TRANSP:TRANSPARENT
+SUMMARY:PFL Africa Morocco
+DESCRIPTION:Professional Fighters League · Complete Event · 7 announced b
+ outs\n📍 CASABLANCA\nCard times have not been announced. This date-only 
+ entry will update automatically.\n\n--------------------------------\n𝗕
+ 𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 7. 𝗔𝗯𝗱
+ 𝗼𝘂𝗹𝗮𝘆𝗲 𝗞𝗮𝗻𝗲 🇸🇳 vs. 𝗕𝗮𝗱𝗿 
+ 𝗠𝗲𝗱𝗸𝗼𝘂𝗿𝗶 🇫🇷\n• 265lbs/120kg Heavyweight\n
+ • Kane: 5-2-0 | 28yo\n• Medkouri: 7-2-0 | 32yo\n\n🥊 6. 𝗞𝗮𝗿
+ 𝗶𝗺 𝗛𝗲𝗻𝗻𝗶𝗲𝗻𝗲 🇩🇿 vs. 𝗥𝗮𝗽𝗵
+ 𝗮𝗲𝗹 𝗨𝗰𝗵𝗲𝗴𝗯𝘂 🇬🇧\n• 135lbs/61kg Bantam
+ weight · Semifinal\n• Henniene: 7-0-0 | 31yo\n• Uchegbu: 7-1-0\n\n
+ 🥊 5. 𝗦𝗵𝗶𝗱𝗼 𝗕𝗼𝗿𝗶𝘀 𝗘𝘀𝗽𝗲𝗿𝗮
+ 𝗻𝗰𝗮 🇦🇴 vs. 𝗣𝗲𝗮𝗰𝗲 𝗡𝗴𝘂𝗽𝗵𝗮
+ 𝗻𝗲 🇿🇦\n• 170lbs/77kg Welterweight · Semifinal\n• Esperanc
+ a: 12-1-0 | 31yo\n• Nguphane: 10-3-0\n\n🥊 4. 𝗣𝗮𝘁𝗿𝗶𝗰
+ 𝗸 𝗢𝗰𝗵𝗲𝗺𝗲 🇳🇬 vs. 𝗖𝗼𝗿𝗻𝗲𝗹 𝗧
+ 𝗵𝗼𝗺𝗽𝘀𝗼𝗻\n• 155lbs/70kg Lightweight · Semifinal\n
+ • Ocheme: 9-1-0 | 31yo\n• Thompson: 11-3-0 | 31yo\n\n🥊 3. 𝗥𝗶
+ 𝘃𝗮𝗹𝗱𝗼 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 🇱🇺 vs. 𝗗𝗮
+ 𝘃𝗶𝗱 𝗦𝗮𝗺𝘂𝗲𝗹 🇷🇺\n• 170lbs/77kg Welterweig
+ ht · Semifinal\n• Pereira: 3-2-0 | 29yo\n• Samuel: 6-0-0\n\n🥊 2. 
+ 𝗗𝗲𝗺𝗯𝗮 𝗦𝗲𝗰𝗸 vs. 𝗛𝘂𝘀𝘀𝗮𝗶𝗻 
+ 𝗔𝗹 𝗞𝘂𝗿𝗱𝗶\n• 155lbs/70kg Lightweight · Semifinal\n
+ • Seck: 11-3-0 | 32yo\n• Kurdi: 3-0-0 | 25yo\n\n🥊 1. 𝗗𝘄𝗶
+ 𝗴𝗵𝘁 𝗝𝗼𝘀𝗲𝗽𝗵 🇱🇷 vs. 𝗕𝗼𝘂𝗹𝗲 
+ 𝗚𝗼𝗱𝗼𝗴𝗼 🇦🇴\n• 135lbs/61kg Bantamweight · Semifin
+ al\n• Joseph: 16-3-1 | 37yo\n• Godogo: 5-1-0\n\n----------------------
+ ----------\nSource: https://pflmma.com/event/pfl-morocco\nCalendar updated
+ : 2026-09-13T10:13:24.156Z
+LOCATION:CASABLANCA
+URL:https://pflmma.com/event/pfl-morocco
+CATEGORIES:Professional Fighters League
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-chicago2@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART:20261016T230000Z
+DTEND:20261017T060000Z
+SUMMARY:PFL Chicago 2
+DESCRIPTION:Professional Fighters League · Complete Event · 9 announced b
+ outs\n📍 Wintrust Arena\nTimes display automatically in your calendar ti
+ me zone. End time is approximate.\n\n--------------------------------\n
+ 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 9. 𝗟𝗶
+ 𝘇 𝗖𝗮𝗿𝗺𝗼𝘂𝗰𝗵𝗲 🇺🇸 vs. 𝗝𝗲𝗻𝗮 
+ 𝗕𝗶𝘀𝗵𝗼𝗽\n• 125lbs/57kg Women's Flyweight · Championshi
+ p\n• Carmouche: 26-8-0 | 42yo\n• Bishop: 11-3-0 | 40yo | Grappler\n\n
+ 🥊 8. 𝗣𝗮𝘂𝗹𝗶𝗻𝗮 𝗪𝗶𝘀𝗻𝗶𝗲𝘄𝘀𝗸
+ 𝗮 🇵🇱 vs. 𝗖𝗵𝗲𝗹𝘀𝗲𝗮 𝗛𝗮𝗰𝗸𝗲𝘁
+ 𝘁 🇦🇺\n• 125lbs/57kg Women's Flyweight\n• Wisniewska: 7-1-0 | 
+ 27yo\n• Hackett: 5-3-1 | 26yo | Striker\n\n🥊 7. 𝗖á𝘀𝘀𝗶
+ 𝗼 𝗕𝗮𝗿ã𝗼 🇧🇷 vs. 𝗞𝗲𝘃𝗶𝗻 𝗣𝗲𝗮𝘀
+ 𝗲 🇺🇸\n• 155lbs/70kg Lightweight\n• Barão: 10-1-1 | 31yo\n•
+  Pease: 6-0-0 | 29yo\n\n🥊 6. 𝗦𝗵𝗮𝗻𝗻𝗼𝗻 𝗖𝗹𝗮
+ 𝗿𝗸 🇨🇦 vs. 𝗟𝘂𝗰𝗲𝗿𝗼 𝗔𝗰𝗼𝘀𝘁𝗮\n
+ • 125lbs/57kg Women's Flyweight\n• Clark: 8-1-0 | 34yo\n• Acosta: 6-
+ 2-0 | 32yo\n\n🥊 5. 𝗘𝗺𝗶𝗹𝗶𝗮𝗻𝗼 𝗦𝗼𝗿𝗱
+ 𝗶 vs. 𝗔𝗯𝗿𝗮𝗵𝗮𝗺 𝗕𝗮𝗯𝗹𝘆 🇨🇮\n• 2
+ 05lbs/93kg Light Heavyweight\n• Sordi: 23-12-1 | 35yo\n• Bably: 8-3-0 
+ | 30yo\n\n🥊 4. 𝗦𝗮𝗿𝘃𝗮𝗿𝗷𝗼𝗻 𝗞𝗵𝗮𝗺
+ 𝗶𝗱𝗼𝘃 🇹🇯 vs. 𝗥𝗮𝗳𝗮𝗲𝗹 𝗱𝗼 𝗡𝗮
+ 𝘀𝗰𝗶𝗺𝗲𝗻𝘁𝗼 🇧🇷\n• 135lbs/61kg Bantamweight\n
+ • Khamidov: 17-1-0 | 29yo\n• Nascimento: 13-3-0 | 34yo\n\n🥊 3. 𝗗
+ 𝗲𝗻𝗶𝘀 𝗚𝗼𝗹𝘁𝘀𝗼𝘃 🇷🇺 vs. 𝗠𝗮𝘅
+ 𝘄𝗲𝗹𝗹 𝗗𝗷𝗮𝗻𝘁𝗼𝘂 𝗡𝗮𝗻𝗮 🇨🇲\n
+ • 265lbs/120kg Heavyweight\n• Goltsov: 37-9-0 | 36yo\n• Nana: 9-2-0 
+ | 35yo\n\n🥊 2. 𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗲𝗿 𝗦𝗵𝗮𝗯
+ 𝗹𝗶𝘆 vs. 𝗟𝗮𝗻𝗱𝗿𝘆 𝗪𝗮𝗿𝗱 🇺🇸\n• 1
+ 35lbs/61kg Bantamweight\n• Shabliy: 25-4-0 | 33yo\n• Ward: 11-3-0 | 29
+ yo\n\n🥊 1. 𝗧𝗶𝗺𝘂𝗿 𝗞𝗵𝗶𝘇𝗿𝗶𝗲𝘃 🇷
+ 🇺 vs. 𝗚𝗮𝗯𝗿𝗶𝗲𝗹 𝗕𝗿𝗮𝗴𝗮 🇧🇷\n• 1
+ 45lbs/66kg Featherweight\n• Khizriev: 18-0-0 | 30yo | Grappler\n• Brag
+ a: 17-3-0 | 28yo | Striker\n\n--------------------------------\nSource: ht
+ tps://pflmma.com/event/2026-chicago2\nCalendar updated: 2026-09-13T10:13:2
+ 4.156Z
+LOCATION:Wintrust Arena
+URL:https://pflmma.com/event/2026-chicago2
+CATEGORIES:Professional Fighters League
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pfl-returns-to-dubai@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+SUMMARY:PFL Returns to Dubai
+DESCRIPTION:Professional Fighters League · Complete Event · 4 announced b
+ outs\n📍 Dubai\, United Arab Emirates\nCard times have not been announce
+ d. This date-only entry will update automatically.\n\n--------------------
+ ------------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n
+ 🥊 4. 𝗞𝗵𝗮𝘀𝗮𝗻 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝘀𝗵𝗮
+ 𝗿𝗶𝗽𝗼𝘃 vs. 𝗔𝗱𝗮𝗺 𝗕𝗼𝗿𝗶𝗰𝘀 🇭
+ 🇺\n• 145lbs/66kg Featherweight\n• Magomedsharipov: 11-0-0 | 26yo\n
+ • Borics: 20-4-0 | 33yo | Striker\n\n🥊 3. 𝗦𝗲𝗿𝗴𝗶𝗼 
+ 𝗣𝗲𝘁𝘁𝗶𝘀 🇺🇸 vs. 𝗝𝗼𝗷𝗶 𝗚𝗼𝘁𝗼\n
+ • 135lbs/61kg Bantamweight\n• Pettis: 25-8-0 | 33yo\n• Goto: 21-9-1 
+ | 30yo\n\n🥊 2. 𝗣𝗼𝘂𝘆𝗮 𝗥𝗮𝗵𝗺𝗮𝗻𝗶 vs. 
+ 𝗢𝗹𝗲𝗴 𝗣𝗼𝗽𝗼𝘃 🇷🇺\n• 265lbs/120kg Heavyweig
+ ht\n• Rahmani: 6-0-0 | 34yo\n• Popov: 22-2-0 | 34yo\n\n🥊 1. 𝗩
+ 𝗮𝗱𝗶𝗺 𝗡𝗲𝗺𝗸𝗼𝘃 🇷🇺 vs. 𝗦𝗲𝗿𝗴
+ 𝗲𝘆 𝗕𝗶𝗹𝗼𝘀𝘁𝗲𝗻𝗻𝗶𝘆 🇷🇺\n• 265lbs
+ /120kg Heavyweight · PFL World Title\n• Nemkov: 20-2-0 | 34yo\n• Bilo
+ stenniy: 15-4-0 | 31yo\n\n--------------------------------\nSource: https:
+ //pflmma.com/event/pfl-returns-to-dubai\nCalendar updated: 2026-09-13T10:1
+ 3:24.156Z
+LOCATION:Dubai\, United Arab Emirates
+URL:https://pflmma.com/event/pfl-returns-to-dubai
+CATEGORIES:Professional Fighters League
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:pfl-lyon-2026@mma-calendar-pfl
+DTSTAMP:20260913T101324Z
+DTSTART:20261219T160000Z
+DTEND:20261219T220000Z
+SUMMARY:PFL Lyon 2026
+DESCRIPTION:Professional Fighters League · Complete Event · 2 announced b
+ outs\n📍 Lyon\, France\nTimes display automatically in your calendar tim
+ e zone. End time is approximate.\n\n--------------------------------\n𝗕
+ 𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 2. 𝗕𝗼𝗿
+ 𝗶𝘀 𝗔𝘁𝗮𝗻𝗴𝗮𝗻𝗮 🇧🇪 vs. 𝗕𝗿𝘆𝗮
+ 𝗻 𝗕𝗮𝘁𝘁𝗹𝗲\n• 185lbs/84kg Middleweight\n• Atangana:
+  9-0-0 | 27yo\n• Battle: 13-3-0 | 32yo\n\n🥊 1. 𝗧𝗮𝘆𝗹𝗼
+ 𝗿 𝗟𝗮𝗽𝗶𝗹𝘂𝘀 vs. 𝗠𝗶𝘁𝗰𝗵 𝗠𝗰𝗞
+ 𝗲𝗲 🇺🇸\n• 135lbs/61kg Bantamweight · World Title\n• Lapilu
+ s: 25-4-0 | 34yo | All-rounder\n• McKee: 11-0-0 | 28yo | Grappler\n\n---
+ -----------------------------\nSource: https://pflmma.com/event/pfl-lyon-2
+ 026\nCalendar updated: 2026-09-13T10:13:24.156Z
+LOCATION:Lyon\, France
+URL:https://pflmma.com/event/pfl-lyon-2026
+CATEGORIES:Professional Fighters League
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

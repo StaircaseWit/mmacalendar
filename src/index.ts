@@ -10,6 +10,7 @@ import { renderCalendar, renderCombinedCalendar, renderEstimatedFightCalendar } 
 import { renderOddsPage } from "./odds-page.js";
 import { enrichOneEventDetails, mergeOneEvents, renderOneCalendar, scrapeOneCalendar, type OneEvent } from "./one.js";
 import { enrichRizinFighters, mergeRizinEvents, renderRizinCalendar, scrapeRizinEvents, type RizinEvent, type RizinFighterStore } from "./rizin.js";
+import { enrichPflFighters, mergePflEvents, renderPflCalendar, scrapePflEvents, type PflEvent, type PflFighterStore } from "./pfl.js";
 import type { CancelledBout, EventStore, FighterStore, OddsStore } from "./types.js";
 
 const root = process.cwd();
@@ -21,6 +22,8 @@ const cancellationOverridesPath = resolve(root, "data/cancellations.json");
 const oneEventStorePath = resolve(root, "data/one-events.json");
 const rizinEventStorePath = resolve(root, "data/rizin-events.json");
 const rizinFighterStorePath = resolve(root, "data/rizin-fighters.json");
+const pflEventStorePath = resolve(root, "data/pfl-events.json");
+const pflFighterStorePath = resolve(root, "data/pfl-fighters.json");
 const now = new Date();
 
 const configuredUrls = (process.env.UFC_EVENT_URLS ?? "").split(",").map((value) => value.trim()).filter(Boolean);
@@ -97,6 +100,28 @@ try {
   console.warn(`Keeping the stored RIZIN calendar after a source error: ${message}`);
 }
 
+const storedPflEvents = await readJson<PflEvent[]>(pflEventStorePath, []);
+const pflFighterStore = await readJson<PflFighterStore>(pflFighterStorePath, { profiles: {} });
+let pflEvents = storedPflEvents;
+try {
+  const currentPflEvents = await scrapePflEvents(now, {
+    pastDays: Number(process.env.PFL_PAST_DAYS ?? 180),
+    maxEvents: Number(process.env.PFL_MAX_EVENTS ?? 30),
+  });
+  if (!currentPflEvents.length) throw new Error("the official events page did not contain any recent or upcoming events");
+  await enrichPflFighters(currentPflEvents, pflFighterStore, now);
+  pflEvents = mergePflEvents(storedPflEvents, currentPflEvents);
+  await Promise.all([
+    writeJson(pflEventStorePath, pflEvents),
+    writeJson(pflFighterStorePath, pflFighterStore),
+  ]);
+  console.log(`Found ${currentPflEvents.length} recent/upcoming PFL event(s).`);
+} catch (error: unknown) {
+  const message = error instanceof Error ? error.message : String(error);
+  if (!pflEvents.length) throw new Error(`PFL calendar could not be generated: ${message}`);
+  console.warn(`Keeping the stored PFL calendar after a source error: ${message}`);
+}
+
 await mkdir(outputDirectory, { recursive: true });
 const calendarOptions = {
   generatedAt: now,
@@ -110,6 +135,7 @@ await Promise.all([
   writeFile(resolve(outputDirectory, "ufc-fights.ics"), renderEstimatedFightCalendar(events, calendarOptions)),
   writeFile(resolve(outputDirectory, "one.ics"), renderOneCalendar(oneEvents, now)),
   writeFile(resolve(outputDirectory, "rizin.ics"), renderRizinCalendar(rizinEvents, now)),
+  writeFile(resolve(outputDirectory, "pfl.ics"), renderPflCalendar(pflEvents, now)),
   writeFile(resolve(outputDirectory, "odds-history.html"), renderOddsPage(oddsStore)),
 ]);
 

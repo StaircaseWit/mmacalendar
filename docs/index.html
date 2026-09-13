@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Calendar subscriptions for UFC, ONE Championship, RIZIN and other MMA organisations.">
+  <meta name="description" content="Calendar subscriptions for UFC, ONE Championship, RIZIN and PFL.">
   <meta name="color-scheme" content="light">
   <title>MMA Event Schedules in your calendar</title>
   <style>
@@ -57,28 +57,34 @@
     .section-heading h2 { margin: 0; font: 700 clamp(35px, 4.5vw, 54px)/1 Georgia, "Times New Roman", serif; letter-spacing: -.045em; }
     .section-heading p { max-width: 460px; margin: 0; color: var(--muted); }
     .promotion-list { border-top: 1px solid var(--line); }
-    .promotion-panel { border-bottom: 1px solid var(--line); }
+    .promotion-panel { --promotion-accent: var(--accent); --promotion-soft: var(--accent-soft); border-bottom: 1px solid var(--line); }
+    .promotion-panel.ufc { --promotion-accent: #d8070c; --promotion-soft: #f8dfdf; }
+    .promotion-panel.one { --promotion-accent: #202428; --promotion-soft: #e5e7e8; }
+    .promotion-panel.rizin { --promotion-accent: #cf1f2b; --promotion-soft: #f5dfe1; }
+    .promotion-panel.pfl { --promotion-accent: #112b84; --promotion-soft: #e0e5f4; }
     .promotion-head { display: flex; align-items: center; justify-content: space-between; gap: 18px; padding: 21px 4px; cursor: pointer; list-style: none; }
     .promotion-head::-webkit-details-marker { display: none; }
     .promotion-name { display: flex; align-items: center; gap: 15px; min-width: 0; }
-    .promotion-icon { display: grid; place-items: center; flex: 0 0 48px; height: 48px; border-radius: 9px; background: #cf2936; color: #fff; font-size: 12px; font-weight: 900; letter-spacing: -.04em; }
-    .promotion-icon.one { background: var(--ink); }
-    .promotion-icon.rizin { background: #687c75; }
-    .promotion-icon.planned { background: var(--paper-deep); color: var(--muted); }
+    .promotion-logo { display: grid; place-items: center; flex: 0 0 52px; height: 52px; overflow: hidden; border: 1px solid color-mix(in srgb, var(--promotion-accent) 28%, var(--line)); border-radius: 10px; background: #fff; }
+    .promotion-logo img { display: block; width: 100%; height: 100%; object-fit: cover; }
     .promotion-name h3 { margin: 0; font: 700 22px/1.2 Georgia, "Times New Roman", serif; letter-spacing: -.02em; }
     .promotion-name p { margin: 3px 0 0; color: var(--muted); font-size: 13px; }
-    .promotion-chevron { color: var(--accent); font-family: Georgia, "Times New Roman", serif; font-size: 22px; transition: transform .18s ease; }
+    .promotion-chevron { color: var(--promotion-accent); font-family: Georgia, "Times New Roman", serif; font-size: 22px; transition: transform .18s ease; }
     .promotion-panel[open] .promotion-chevron { transform: rotate(180deg); }
+    .promotion-panel[open] .promotion-head { color: var(--promotion-accent); }
+    .promotion-panel[open] .promotion-name p { color: var(--muted); }
     .promotion-body { padding: 4px 0 30px 63px; }
     .feed-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 11px; }
-    .feed-card { display: grid; grid-template-columns: minmax(0, 1fr) minmax(290px, 360px); grid-template-areas: "number url" "title actions" "description actions"; gap: 5px 28px; min-width: 0; padding: 20px; border-radius: var(--radius); background: rgba(251,250,246,.82); box-shadow: inset 0 0 0 1px rgba(108,126,119,.2); }
+    .feed-card { display: grid; grid-template-columns: minmax(0, 1fr) minmax(290px, 360px); grid-template-areas: "number url" "title actions" "description actions"; gap: 5px 28px; min-width: 0; padding: 20px; border-radius: var(--radius); background: linear-gradient(100deg, color-mix(in srgb, var(--promotion-soft) 28%, var(--cream)), rgba(251,250,246,.86) 38%); box-shadow: inset 3px 0 0 var(--promotion-accent), inset 0 0 0 1px rgba(108,126,119,.2); }
     .feed-card-top { grid-area: number; }
-    .feed-number { color: var(--accent); font-size: 12px; font-weight: 800; }
+    .feed-number { color: var(--promotion-accent); font-size: 12px; font-weight: 800; }
     .feed-card h4 { grid-area: title; margin: 8px 0 1px; font: 700 20px/1.2 Georgia, "Times New Roman", serif; }
     .feed-card > p { grid-area: description; margin: 0; color: var(--muted); font-size: 14px; }
     .feed-url { grid-area: url; display: block; min-width: 0; overflow: hidden; padding: 10px 11px; border-radius: 7px; background: var(--paper-deep); color: #55635f; font: 11px/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; text-overflow: ellipsis; white-space: nowrap; }
     .feed-actions { grid-area: actions; display: grid; align-content: start; gap: 8px; }
     .feed-actions .button { width: 100%; min-width: 0; white-space: normal; }
+    .promotion-panel .feed-actions .button:not(.secondary) { border-color: var(--promotion-accent); background: var(--promotion-accent); }
+    .promotion-panel .feed-actions .button:not(.secondary):hover { filter: brightness(.88); }
     .calendar-help, .planned-copy { margin: 17px 0 0; color: var(--muted); font-size: 13px; }
     .calendar-help a { color: var(--accent-dark); }
     .steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 26px; }
@@ -129,13 +135,13 @@
       </div>
     </div>
 
-    <div class="shell promotion-strip" aria-label="Promotion availability"><span>AVAILABLE NOW</span><strong>UFC</strong><strong>ONE</strong><strong>RIZIN</strong><span>COMING NEXT</span><strong>PFL</strong></div>
+    <div class="shell promotion-strip" aria-label="Promotion availability"><span>AVAILABLE NOW</span><strong>UFC</strong><strong>ONE</strong><strong>RIZIN</strong><strong>PFL</strong></div>
 
     <section class="shell" id="calendars">
       <div class="section-heading"><div><p class="section-label">Calendar subscriptions</p><h2>Choose an organisation</h2></div><p>Open a promotion to see the available calendar formats.</p></div>
       <div class="promotion-list">
-        <details class="promotion-panel" name="promotion" open>
-          <summary class="promotion-head"><div class="promotion-name"><span class="promotion-icon">UFC</span><div><h3>Ultimate Fighting Championship</h3><p>Events, fighters, rankings, records and odds</p></div></div><span class="promotion-chevron" aria-hidden="true">⌄</span></summary>
+        <details class="promotion-panel ufc" name="promotion" open>
+          <summary class="promotion-head"><div class="promotion-name"><span class="promotion-logo"><img src="assets/ufc.png" alt="UFC logo" width="52" height="52"></span><div><h3>Ultimate Fighting Championship</h3><p>Events, fighters, rankings, records and odds</p></div></div><span class="promotion-chevron" aria-hidden="true">⌄</span></summary>
           <div class="promotion-body"><div class="feed-grid">
             <article class="feed-card"><div class="feed-card-top"><span class="feed-number">01</span></div><h4>Split cards</h4><p>Early Prelims, Prelims and Main Card appear as separate calendar events.</p><code class="feed-url" data-url-for="ufc.ics"></code><div class="feed-actions"><button class="button small copy-feed" type="button" data-feed="ufc.ics">Copy subscription URL</button><a class="button secondary small" href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl" target="_blank" rel="noreferrer">Open Google Calendar ↗</a></div></article>
             <article class="feed-card"><div class="feed-card-top"><span class="feed-number">02</span></div><h4>Complete events</h4><p>One calendar event containing every card section and all announced bouts.</p><code class="feed-url" data-url-for="ufc-combined.ics"></code><div class="feed-actions"><button class="button small copy-feed" type="button" data-feed="ufc-combined.ics">Copy subscription URL</button><a class="button secondary small" href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl" target="_blank" rel="noreferrer">Open Google Calendar ↗</a></div></article>
@@ -143,21 +149,26 @@
           </div><p class="calendar-help">In Google Calendar, use <strong>Other calendars → From URL</strong>. Looking for the numbers? <a href="odds-history.html">View the full odds history.</a></p></div>
         </details>
 
-        <details class="promotion-panel" name="promotion">
-          <summary class="promotion-head"><div class="promotion-name"><span class="promotion-icon one">ONE</span><div><h3>ONE Championship</h3><p>Events, venues, disciplines and announced bouts</p></div></div><span class="promotion-chevron" aria-hidden="true">⌄</span></summary>
+        <details class="promotion-panel one" name="promotion">
+          <summary class="promotion-head"><div class="promotion-name"><span class="promotion-logo"><img src="assets/one.png" alt="ONE Championship logo" width="52" height="52"></span><div><h3>ONE Championship</h3><p>Events, venues, disciplines and announced bouts</p></div></div><span class="promotion-chevron" aria-hidden="true">⌄</span></summary>
           <div class="promotion-body"><div class="feed-grid">
             <article class="feed-card"><div class="feed-card-top"><span class="feed-number">01</span></div><h4>Complete events</h4><p>One calendar event per show with its venue, times, disciplines and announced fight card.</p><code class="feed-url" data-url-for="one.ics"></code><div class="feed-actions"><button class="button small copy-feed" type="button" data-feed="one.ics">Copy subscription URL</button><a class="button secondary small" href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl" target="_blank" rel="noreferrer">Open Google Calendar ↗</a></div></article>
           </div><p class="calendar-help">Schedules and bout details come from ONE Championship’s official calendar and event pages.</p></div>
         </details>
 
-        <details class="promotion-panel" name="promotion">
-          <summary class="promotion-head"><div class="promotion-name"><span class="promotion-icon rizin">RZN</span><div><h3>RIZIN Fighting Federation</h3><p>Events, venues, rule sets and announced bouts</p></div></div><span class="promotion-chevron" aria-hidden="true">⌄</span></summary>
+        <details class="promotion-panel rizin" name="promotion">
+          <summary class="promotion-head"><div class="promotion-name"><span class="promotion-logo"><img src="assets/rizin.png" alt="RIZIN Fighting Federation logo" width="52" height="52"></span><div><h3>RIZIN Fighting Federation</h3><p>Events, venues, rule sets and announced bouts</p></div></div><span class="promotion-chevron" aria-hidden="true">⌄</span></summary>
           <div class="promotion-body"><div class="feed-grid">
             <article class="feed-card"><div class="feed-card-top"><span class="feed-number">01</span></div><h4>Complete events</h4><p>One calendar event per show with its venue, localised start time, rule sets and announced fight card.</p><code class="feed-url" data-url-for="rizin.ics"></code><div class="feed-actions"><button class="button small copy-feed" type="button" data-feed="rizin.ics">Copy subscription URL</button><a class="button secondary small" href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl" target="_blank" rel="noreferrer">Open Google Calendar ↗</a></div></article>
           </div><p class="calendar-help">Schedules, cards and cancellation notices come from RIZIN’s official event pages.</p></div>
         </details>
 
-        <details class="promotion-panel" name="promotion"><summary class="promotion-head"><div class="promotion-name"><span class="promotion-icon planned">PFL</span><div><h3>Professional Fighters League</h3><p>Calendar integration planned</p></div></div><span class="promotion-chevron" aria-hidden="true">⌄</span></summary><div class="promotion-body"><p class="planned-copy">PFL calendar subscriptions are planned for a future phase.</p></div></details>
+        <details class="promotion-panel pfl" name="promotion">
+          <summary class="promotion-head"><div class="promotion-name"><span class="promotion-logo"><img src="assets/pfl.png" alt="Professional Fighters League logo" width="52" height="52"></span><div><h3>Professional Fighters League</h3><p>Events, venues, fighter records and announced bouts</p></div></div><span class="promotion-chevron" aria-hidden="true">⌄</span></summary>
+          <div class="promotion-body"><div class="feed-grid">
+            <article class="feed-card"><div class="feed-card-top"><span class="feed-number">01</span></div><h4>Complete events</h4><p>One calendar event per show with published card times, venue and all announced matchups.</p><code class="feed-url" data-url-for="pfl.ics"></code><div class="feed-actions"><button class="button small copy-feed" type="button" data-feed="pfl.ics">Copy subscription URL</button><a class="button secondary small" href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl" target="_blank" rel="noreferrer">Open Google Calendar ↗</a></div></article>
+          </div><p class="calendar-help">Schedules, cards and fighter details come from PFL’s official event and fighter pages.</p></div>
+        </details>
       </div>
     </section>
 

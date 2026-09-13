@@ -254,6 +254,8 @@ export function renderCalendar(events: UfcEvent[], {
     "METHOD:PUBLISH",
     `X-WR-CALNAME:${escapeIcs(calendarName)}`,
     "X-WR-CALDESC:Automatically updated UFC cards with fighter details and weekly odds history.",
+    "COLOR:#D8070C",
+    "X-APPLE-CALENDAR-COLOR:#D8070C",
     "REFRESH-INTERVAL;VALUE=DURATION:P3D",
     "X-PUBLISHED-TTL:P3D",
   ];
@@ -319,6 +321,8 @@ export function renderCombinedCalendar(events: UfcEvent[], {
     "METHOD:PUBLISH",
     `X-WR-CALNAME:${escapeIcs(calendarName)}`,
     "X-WR-CALDESC:One complete calendar entry per UFC event with all announced bouts.",
+    "COLOR:#D8070C",
+    "X-APPLE-CALENDAR-COLOR:#D8070C",
     "REFRESH-INTERVAL;VALUE=DURATION:P3D",
     "X-PUBLISHED-TTL:P3D",
   ];
@@ -408,6 +412,8 @@ export function renderEstimatedFightCalendar(events: UfcEvent[], {
     "METHOD:PUBLISH",
     `X-WR-CALNAME:${escapeIcs(calendarName)}`,
     "X-WR-CALDESC:Optional estimated UFC bout times that adapt to the calendar client's time zone.",
+    "COLOR:#D8070C",
+    "X-APPLE-CALENDAR-COLOR:#D8070C",
     "REFRESH-INTERVAL;VALUE=DURATION:P3D",
     "X-PUBLISHED-TTL:P3D",
   ];

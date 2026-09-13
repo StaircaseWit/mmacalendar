@@ -1,0 +1,2428 @@
+{
+  "profiles": {
+    "https://pflmma.com/wt-fighter/costello-vansteenis": {
+      "name": "Costello van Steenis",
+      "countryCode": "ES",
+      "birthDate": "1992-07-25",
+      "record": "18-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/adam-borics": {
+      "name": "Adam Borics",
+      "countryCode": "HU",
+      "birthDate": "1993-07-06",
+      "record": "20-4-0",
+      "style": "Striker",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/fabian-edwards": {
+      "name": "Fabian Edwards",
+      "countryCode": null,
+      "birthDate": "1993-03-23",
+      "record": "16-5-0",
+      "style": "Striker",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/aj-mckee": {
+      "name": "AJ McKee",
+      "countryCode": null,
+      "birthDate": "1995-04-06",
+      "record": "25-2-0",
+      "style": "Striker",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/franco-tenaglia": {
+      "name": "Franco Tenaglia",
+      "countryCode": "AR",
+      "birthDate": "1996-09-29",
+      "record": "6-2-0",
+      "style": "Striker",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/yassin-najid": {
+      "name": "Yassin Najid",
+      "countryCode": null,
+      "birthDate": "1985-07-25",
+      "record": "9-5-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/jacinta-austin": {
+      "name": "Jacinta Austin",
+      "countryCode": "AU",
+      "birthDate": "1994-10-19",
+      "record": "9-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/benita-vanrooji": {
+      "name": "Benita Van Rooji",
+      "countryCode": "NL",
+      "birthDate": "1999-06-02",
+      "record": "7-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/jose-augusto": {
+      "name": "Jose Augusto",
+      "countryCode": null,
+      "birthDate": "1992-03-27",
+      "record": "11-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/kevin-cordero": {
+      "name": "Kevin Cordero",
+      "countryCode": "ES",
+      "birthDate": "1999-11-23",
+      "record": "15-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/linton-vassell": {
+      "name": "Linton Vassell",
+      "countryCode": "GB",
+      "birthDate": "1983-06-02",
+      "record": "26-10-0",
+      "style": "Grappler",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/luciano-pereira": {
+      "name": "Luciano Pereira",
+      "countryCode": null,
+      "birthDate": "2001-01-08",
+      "record": "16-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/borja-garcia": {
+      "name": "Borja Garcia",
+      "countryCode": null,
+      "birthDate": "2000-03-08",
+      "record": "7-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/rafael-calderon": {
+      "name": "Rafael Calderon",
+      "countryCode": null,
+      "birthDate": "1996-02-09",
+      "record": "6-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/gino-vansteenis": {
+      "name": "Gino Van Steenis",
+      "countryCode": null,
+      "birthDate": "1998-02-14",
+      "record": "9-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/mark-ewen": {
+      "name": "Mark Ewen",
+      "countryCode": "GB",
+      "birthDate": "1998-12-09",
+      "record": "7-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/mattia-giordano": {
+      "name": "Mattia Giordano",
+      "countryCode": "ES",
+      "birthDate": "1994-01-18",
+      "record": "5-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/ernesto-schisano": {
+      "name": "Ernesto Schisano",
+      "countryCode": null,
+      "birthDate": "1993-03-07",
+      "record": "5-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/david-mora": {
+      "name": "David Mora",
+      "countryCode": null,
+      "birthDate": "1995-03-18",
+      "record": "10-7-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/claudio-pacella": {
+      "name": "Claudio Pacella",
+      "countryCode": "IT",
+      "birthDate": "1999-10-16",
+      "record": "7-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/ignacio-campos": {
+      "name": "Ignacio Campos",
+      "countryCode": "ES",
+      "birthDate": "1996-06-28",
+      "record": "8-2-0",
+      "style": "Grappler",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/mathys-duragrin": {
+      "name": "Mathys Duragrin",
+      "countryCode": "FR",
+      "birthDate": "2001-12-04",
+      "record": "4-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/bryan-battle": {
+      "name": "Bryan Battle",
+      "countryCode": null,
+      "birthDate": "1994-09-20",
+      "record": "13-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/ariane-lipskidasilva": {
+      "name": "Ariane Lipski da Silva",
+      "countryCode": null,
+      "birthDate": "1994-01-25",
+      "record": "18-12-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/dalton-rosta": {
+      "name": "Dalton Rosta",
+      "countryCode": null,
+      "birthDate": "1995-11-08",
+      "record": "11-4-0",
+      "style": "Grappler",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/johnny-eblen": {
+      "name": "Johnny Eblen",
+      "countryCode": null,
+      "birthDate": "1991-12-12",
+      "record": "18-1-0",
+      "style": "Grappler",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/sumiko-inaba": {
+      "name": "Sumiko Inaba",
+      "countryCode": null,
+      "birthDate": "1992-02-05",
+      "record": "8-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/julio-arce": {
+      "name": "Julio Arce",
+      "countryCode": null,
+      "birthDate": "1989-10-26",
+      "record": "22-7-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/alexei-pergande": {
+      "name": "Alexei Pergande",
+      "countryCode": "US",
+      "birthDate": "2001-05-10",
+      "record": "8-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/lazaro-dayron": {
+      "name": "Lazaro Dayron",
+      "countryCode": "US",
+      "birthDate": "1992-07-24",
+      "record": "11-0-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/jacob-thrall": {
+      "name": "Jacob Thrall",
+      "countryCode": "US",
+      "birthDate": "1995-04-08",
+      "record": "15-8-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/allan-begosso": {
+      "name": "Allan Begosso",
+      "countryCode": null,
+      "birthDate": "1995-11-22",
+      "record": "10-5-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/impa-kasanganay": {
+      "name": "Impa Kasanganay",
+      "countryCode": "US",
+      "birthDate": "1994-01-16",
+      "record": "20-7-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/jack-cartwright": {
+      "name": "Jack Cartwright",
+      "countryCode": "GB",
+      "birthDate": "1994-05-25",
+      "record": "14-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/jakub-kaszuba": {
+      "name": "Jakub Kaszuba",
+      "countryCode": "PL",
+      "birthDate": "1995-06-01",
+      "record": "16-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/robert-watley": {
+      "name": "Robert Watley",
+      "countryCode": "US",
+      "birthDate": "1989-08-21",
+      "record": "16-5-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/dakota-bush": {
+      "name": "Dakota Bush",
+      "countryCode": "US",
+      "birthDate": "1994-06-08",
+      "record": "17-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/ernesto-rodriguez": {
+      "name": "Ernesto Rodriguez",
+      "countryCode": "CU",
+      "birthDate": "1997-08-08",
+      "record": "11-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/natan-schulte": {
+      "name": "Natan Schulte",
+      "countryCode": null,
+      "birthDate": "1992-02-19",
+      "record": "26-6-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/masayuki-kikuiri": {
+      "name": "Masayuki Kikuiri",
+      "countryCode": null,
+      "birthDate": "1995-06-29",
+      "record": "11-4-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/tatiana-postarnakova": {
+      "name": "Tatiana Postarnakova",
+      "countryCode": null,
+      "birthDate": "2000-04-02",
+      "record": "8-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/elora-dana": {
+      "name": "Elora Dana",
+      "countryCode": "BR",
+      "birthDate": "1993-06-22",
+      "record": "8-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/josh-fremd": {
+      "name": "Josh Fremd",
+      "countryCode": null,
+      "birthDate": "1994-01-14",
+      "record": "13-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/ethan-goss": {
+      "name": "Ethan Goss",
+      "countryCode": null,
+      "birthDate": "1992-01-07",
+      "record": "12-9-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/fred-dupras": {
+      "name": "Fred Dupras",
+      "countryCode": "CA",
+      "birthDate": "1993-09-14",
+      "record": "10-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/jarrah-alsalawi": {
+      "name": "Jarrah Al Salawi",
+      "countryCode": "JO",
+      "birthDate": "1992-06-25",
+      "record": "21-8-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/nkosi-ndebele": {
+      "name": "Nkosi Ndebele",
+      "countryCode": "ZA",
+      "birthDate": "1995-03-21",
+      "record": "14-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/michele-clemente": {
+      "name": "Michele Clemente",
+      "countryCode": "IT",
+      "birthDate": "2000-06-08",
+      "record": "7-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/justin-clarke": {
+      "name": "Justin Clarke",
+      "countryCode": "ZA",
+      "birthDate": null,
+      "record": "5-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/abdoulaye-kane": {
+      "name": "Abdoulaye Kane",
+      "countryCode": "SN",
+      "birthDate": "1998-08-14",
+      "record": "5-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/peace-nguphane": {
+      "name": "Peace Nguphane",
+      "countryCode": "ZA",
+      "birthDate": null,
+      "record": "10-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/yabna-n%E2%80%99tchala": {
+      "name": "Yabna N’tchala",
+      "countryCode": "GW",
+      "birthDate": "1997-08-04",
+      "record": "13-3-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/shido-borisesperanca": {
+      "name": "Shido Boris Esperanca",
+      "countryCode": "AO",
+      "birthDate": "1994-12-22",
+      "record": "12-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/rivaldo-pereira": {
+      "name": "Rivaldo Pereira",
+      "countryCode": "LU",
+      "birthDate": "1997-05-20",
+      "record": "3-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/emilios-dassi": {
+      "name": "Emilios Dassi",
+      "countryCode": "CM",
+      "birthDate": "1997-01-31",
+      "record": "5-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/jane-osigwe": {
+      "name": "Jane Osigwe",
+      "countryCode": null,
+      "birthDate": "2005-06-13",
+      "record": "5-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/kunle-lawal": {
+      "name": "Kunle Lawal",
+      "countryCode": "NG",
+      "birthDate": "1998-09-23",
+      "record": "3-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/juliet-ukah": {
+      "name": "Juliet Ukah",
+      "countryCode": "NG",
+      "birthDate": "1999-05-25",
+      "record": "9-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/abdelrahman-mohamed": {
+      "name": "Abdelrahman Mohamed",
+      "countryCode": "EG",
+      "birthDate": "2000-08-16",
+      "record": "5-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/david-samuel": {
+      "name": "David Samuel",
+      "countryCode": "RU",
+      "birthDate": null,
+      "record": "6-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/abdulrazac-sankara": {
+      "name": "Abdul Razac Sankara",
+      "countryCode": "BF",
+      "birthDate": "2001-01-09",
+      "record": "7-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/aureo-cruz": {
+      "name": "Áureo Cruz",
+      "countryCode": "AO",
+      "birthDate": null,
+      "record": "3-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/jean-jacques-lubaya": {
+      "name": "Jean-Jacques Lubaya",
+      "countryCode": null,
+      "birthDate": "1997-03-17",
+      "record": "10-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/shadrack-yemba": {
+      "name": "Shadrack Yemba",
+      "countryCode": null,
+      "birthDate": "1998-08-30",
+      "record": "5-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/shannon-vantonder": {
+      "name": "Shannon van Tonder",
+      "countryCode": null,
+      "birthDate": "1995-03-20",
+      "record": "7-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/asiashu-tshitamba": {
+      "name": "Asiashu Tshitamba",
+      "countryCode": "ZA",
+      "birthDate": "1992-05-20",
+      "record": "7-5-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/felista-mugo": {
+      "name": "Felista Mugo",
+      "countryCode": "KE",
+      "birthDate": "2000-02-14",
+      "record": "6-2-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/annet-kiiza": {
+      "name": "Annet Kiiza",
+      "countryCode": "UG",
+      "birthDate": "2001-01-13",
+      "record": "3-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/mitch-mckee": {
+      "name": "Mitch McKee",
+      "countryCode": "US",
+      "birthDate": "1997-12-23",
+      "record": "11-0-0",
+      "style": "Grappler",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/sergio-pettis": {
+      "name": "Sergio Pettis",
+      "countryCode": "US",
+      "birthDate": "1993-08-17",
+      "record": "25-8-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/raufeon-stots": {
+      "name": "Raufeon Stots",
+      "countryCode": null,
+      "birthDate": "1988-12-15",
+      "record": "21-5-0",
+      "style": "Grappler",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/renat-khavalov": {
+      "name": "Renat Khavalov",
+      "countryCode": "RU",
+      "birthDate": "1998-08-05",
+      "record": "12-0-0",
+      "style": "Grappler",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/viviane-araujo": {
+      "name": "Viviane Araujo",
+      "countryCode": null,
+      "birthDate": "1986-11-20",
+      "record": "14-8-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/cheyden-leialoha": {
+      "name": "Cheyden Leialoha",
+      "countryCode": null,
+      "birthDate": "1994-03-14",
+      "record": "12-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/shanna-young": {
+      "name": "Shanna Young",
+      "countryCode": "US",
+      "birthDate": "1991-02-19",
+      "record": "9-8-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/borena-tsertsvadze": {
+      "name": "Borena Tsertsvadze",
+      "countryCode": null,
+      "birthDate": "1999-03-12",
+      "record": "6-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/jena-bishop": {
+      "name": "Jena Bishop",
+      "countryCode": null,
+      "birthDate": "1986-02-19",
+      "record": "11-3-0",
+      "style": "Grappler",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/gabriel-braga": {
+      "name": "Gabriel Braga",
+      "countryCode": "BR",
+      "birthDate": "1998-04-22",
+      "record": "17-3-0",
+      "style": "Striker",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/james-vake": {
+      "name": "James Vake",
+      "countryCode": "NZ",
+      "birthDate": "1994-05-30",
+      "record": "7-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/omar-eldafrawy": {
+      "name": "Omar El Dafrawy",
+      "countryCode": null,
+      "birthDate": "1995-04-04",
+      "record": "16-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/kana-watanabe": {
+      "name": "Kana Watanabe",
+      "countryCode": null,
+      "birthDate": "1988-08-20",
+      "record": "13-5-1",
+      "style": "Grappler",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/paulina-wisniewska": {
+      "name": "Paulina Wisniewska",
+      "countryCode": "PL",
+      "birthDate": "1998-11-26",
+      "record": "7-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/alexandr-romanov": {
+      "name": "Alexandr Romanov",
+      "countryCode": null,
+      "birthDate": "1990-12-10",
+      "record": "20-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/rodrigo-nascimento": {
+      "name": "Rodrigo Nascimento",
+      "countryCode": "BR",
+      "birthDate": "1992-11-25",
+      "record": "12-5-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/dash-harris": {
+      "name": "Dash Harris",
+      "countryCode": "US",
+      "birthDate": "2003-07-09",
+      "record": "2-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/valanti-atsas": {
+      "name": "Valanti Atsas",
+      "countryCode": null,
+      "birthDate": "1991-10-01",
+      "record": "10-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/nate-jennerman": {
+      "name": "Nate Jennerman",
+      "countryCode": null,
+      "birthDate": "1993-01-11",
+      "record": "16-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/biaggio-aliwalsh": {
+      "name": "Biaggio Ali Walsh",
+      "countryCode": "US",
+      "birthDate": "1998-09-03",
+      "record": "4-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/rhys-mckee": {
+      "name": "Rhys McKee",
+      "countryCode": null,
+      "birthDate": "1995-09-09",
+      "record": "15-7-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/darragh-kelly": {
+      "name": "Darragh Kelly",
+      "countryCode": "IE",
+      "birthDate": "1998-06-03",
+      "record": "9-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/alex-lohor%C3%A9": {
+      "name": "Alex Lohoré",
+      "countryCode": "GB",
+      "birthDate": "1989-12-18",
+      "record": "26-12-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/jay-jay-wilson": {
+      "name": "Jay-Jay Wilson",
+      "countryCode": "NZ",
+      "birthDate": "1997-08-01",
+      "record": "12-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/tyson-pedro": {
+      "name": "Tyson Pedro",
+      "countryCode": null,
+      "birthDate": "1991-09-16",
+      "record": "10-7-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/dovlet-yagshimuradov": {
+      "name": "Dovlet Yagshimuradov",
+      "countryCode": "TM",
+      "birthDate": "1989-05-10",
+      "record": "26-9-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/eoin-sheridan": {
+      "name": "Eoin Sheridan",
+      "countryCode": "IE",
+      "birthDate": "1994-09-05",
+      "record": "6-0-0",
+      "style": "Striker",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/caolan-loughran": {
+      "name": "Caolan Loughran",
+      "countryCode": "IE",
+      "birthDate": "1996-05-17",
+      "record": "11-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/alan-philpott": {
+      "name": "Alan Philpott",
+      "countryCode": null,
+      "birthDate": "1992-09-21",
+      "record": "21-18-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/chris-mixan": {
+      "name": "Chris Mixan",
+      "countryCode": "UA",
+      "birthDate": "1998-11-25",
+      "record": "7-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/omran-chaaban": {
+      "name": "Omran Chaaban",
+      "countryCode": "FI",
+      "birthDate": "2000-08-10",
+      "record": "10-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/chequina-nosopedro": {
+      "name": "Chequina Noso Pedro",
+      "countryCode": "AO",
+      "birthDate": "1993-12-31",
+      "record": "10-5-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/dean-garnett": {
+      "name": "Dean Garnett",
+      "countryCode": "GB",
+      "birthDate": "1988-07-24",
+      "record": "15-3-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/ciaran-clarke": {
+      "name": "Ciaran Clarke",
+      "countryCode": "IE",
+      "birthDate": "1995-05-24",
+      "record": "10-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/sergio-cossio": {
+      "name": "Sergio Cossio",
+      "countryCode": "MX",
+      "birthDate": "1990-11-07",
+      "record": "27-12-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/pedro-carvalho": {
+      "name": "Pedro Carvalho",
+      "countryCode": "PT",
+      "birthDate": "1995-08-05",
+      "record": "14-10-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/david-martinez": {
+      "name": "David Martinez",
+      "countryCode": null,
+      "birthDate": "1993-08-20",
+      "record": "17-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/giannis-bachar": {
+      "name": "Giannis Bachar",
+      "countryCode": null,
+      "birthDate": "1990-06-04",
+      "record": "9-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/sean-gauci": {
+      "name": "Sean Gauci",
+      "countryCode": "AU",
+      "birthDate": "1996-10-06",
+      "record": "12-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/liam-gittins": {
+      "name": "Liam Gittins",
+      "countryCode": "GB",
+      "birthDate": "1999-05-31",
+      "record": "13-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/eoghan-masoliver": {
+      "name": "Eoghan Masoliver",
+      "countryCode": "IE",
+      "birthDate": "2003-04-05",
+      "record": "2-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/shane-mullen": {
+      "name": "Shane Mullen",
+      "countryCode": "IE",
+      "birthDate": "1999-04-25",
+      "record": "1-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/chelsea-hackett": {
+      "name": "Chelsea Hackett",
+      "countryCode": "AU",
+      "birthDate": "1999-10-28",
+      "record": "5-3-1",
+      "style": "Striker",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/andrea-vazquez": {
+      "name": "Andrea Vazquez",
+      "countryCode": null,
+      "birthDate": "1993-12-21",
+      "record": "8-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/florim-zendeli": {
+      "name": "Florim Zendeli",
+      "countryCode": "AL",
+      "birthDate": "1998-09-16",
+      "record": "11-2-1",
+      "style": "Grappler",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/logan-storley": {
+      "name": "Logan Storley",
+      "countryCode": null,
+      "birthDate": "1992-09-07",
+      "record": "19-4-0",
+      "style": "Grappler",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/alex-chizov": {
+      "name": "Alex Chizov",
+      "countryCode": "LV",
+      "birthDate": "1997-12-03",
+      "record": "13-4-0",
+      "style": "Striker",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/gadzhi-rabadanov": {
+      "name": "Gadzhi Rabadanov",
+      "countryCode": null,
+      "birthDate": "1993-06-30",
+      "record": "28-5-2",
+      "style": "Grappler",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/simeon-powell": {
+      "name": "Simeon Powell",
+      "countryCode": null,
+      "birthDate": "1999-02-05",
+      "record": "13-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/emiliano-sordi": {
+      "name": "Emiliano Sordi",
+      "countryCode": null,
+      "birthDate": "1991-02-14",
+      "record": "23-12-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/sergey-bilostenniy": {
+      "name": "Sergey Bilostenniy",
+      "countryCode": "RU",
+      "birthDate": "1995-10-22",
+      "record": "15-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/leandro-higo": {
+      "name": "Leandro Higo",
+      "countryCode": null,
+      "birthDate": "1989-01-18",
+      "record": "23-8-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/magomed-magomedov": {
+      "name": "Magomed Magomedov",
+      "countryCode": "RU",
+      "birthDate": "1991-12-24",
+      "record": "22-5-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/rasul-magomedov": {
+      "name": "Rasul Magomedov",
+      "countryCode": "BH",
+      "birthDate": "1994-12-31",
+      "record": "10-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/rafael-xavier": {
+      "name": "Rafael Xavier",
+      "countryCode": null,
+      "birthDate": "1991-01-11",
+      "record": "15-9-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/sabrinna-desousa": {
+      "name": "Sabrinna de Sousa",
+      "countryCode": "BR",
+      "birthDate": "2000-11-01",
+      "record": "7-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/renan-ferreira": {
+      "name": "Renan Ferreira",
+      "countryCode": null,
+      "birthDate": "1989-11-22",
+      "record": "13-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/cheyanne-bowers": {
+      "name": "Cheyanne Bowers",
+      "countryCode": "US",
+      "birthDate": "1994-08-15",
+      "record": "8-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/humberto-bandenay": {
+      "name": "Humberto Bandenay",
+      "countryCode": null,
+      "birthDate": "1994-09-03",
+      "record": "27-9-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/sang-wonkim": {
+      "name": "Sang Won Kim",
+      "countryCode": null,
+      "birthDate": "1993-08-31",
+      "record": "15-6-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/qihui-yan": {
+      "name": "Qihui Yan",
+      "countryCode": "CN",
+      "birthDate": "1996-09-30",
+      "record": "25-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/angel-alvarez": {
+      "name": "Angel Alvarez",
+      "countryCode": "CU",
+      "birthDate": "1995-01-19",
+      "record": "11-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/taila-santos": {
+      "name": "Taila Santos",
+      "countryCode": "BR",
+      "birthDate": "1993-06-21",
+      "record": "23-5-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/bryce-logan": {
+      "name": "Bryce Logan",
+      "countryCode": null,
+      "birthDate": "1989-12-03",
+      "record": "13-10-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/brett-bye": {
+      "name": "Brett Bye",
+      "countryCode": "US",
+      "birthDate": "1996-12-25",
+      "record": "4-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/taylor-michels": {
+      "name": "Taylor Michels",
+      "countryCode": null,
+      "birthDate": "1993-03-17",
+      "record": "1-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/benson-henderson": {
+      "name": "Benson Henderson",
+      "countryCode": null,
+      "birthDate": "1983-11-15",
+      "record": "30-13-2",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/maxwell-djantounana": {
+      "name": "Maxwell Djantou Nana",
+      "countryCode": "CM",
+      "birthDate": "1991-01-18",
+      "record": "9-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/karl-williams": {
+      "name": "Karl Williams",
+      "countryCode": "US",
+      "birthDate": "1990-01-05",
+      "record": "10-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/patrick-habirora": {
+      "name": "Patrick Habirora",
+      "countryCode": "BE",
+      "birthDate": "2001-03-25",
+      "record": "9-0-0",
+      "style": "Striker",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/taylor-lapilus": {
+      "name": "Taylor Lapilus",
+      "countryCode": null,
+      "birthDate": "1992-04-07",
+      "record": "25-4-0",
+      "style": "All-rounder",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/jake-hadley": {
+      "name": "Jake Hadley",
+      "countryCode": null,
+      "birthDate": "1996-08-02",
+      "record": "12-6-0",
+      "style": "Grappler",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/jared-gooden": {
+      "name": "Jared Gooden",
+      "countryCode": "US",
+      "birthDate": "1993-12-04",
+      "record": "23-12-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/naoki-inoue": {
+      "name": "Naoki Inoue",
+      "countryCode": null,
+      "birthDate": "1997-06-13",
+      "record": "21-5-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/boris-atangana": {
+      "name": "Boris Atangana",
+      "countryCode": "BE",
+      "birthDate": "1999-04-30",
+      "record": "9-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/marcirley-alves": {
+      "name": "Marcirley Alves",
+      "countryCode": "BR",
+      "birthDate": "1999-07-21",
+      "record": "15-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/asael-adjoudj": {
+      "name": "Asaël Adjoudj",
+      "countryCode": "DZ",
+      "birthDate": "1999-01-15",
+      "record": "11-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/baris-adiguzel": {
+      "name": "Baris Adiguzel",
+      "countryCode": "FR",
+      "birthDate": "1999-04-30",
+      "record": "10-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/donegi-abena": {
+      "name": "Donegi Abena",
+      "countryCode": null,
+      "birthDate": "1998-02-22",
+      "record": "1-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/gustavo-oliveira": {
+      "name": "Gustavo Oliveira",
+      "countryCode": "PT",
+      "birthDate": "1996-08-24",
+      "record": "13-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/joe-schilling": {
+      "name": "Joe Schilling",
+      "countryCode": null,
+      "birthDate": "1984-01-12",
+      "record": "4-7-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/keisuke-sasu": {
+      "name": "Keisuke Sasu",
+      "countryCode": null,
+      "birthDate": "1994-09-29",
+      "record": "14-5-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/shane-campbell": {
+      "name": "Shane Campbell",
+      "countryCode": "GB",
+      "birthDate": "1988-01-20",
+      "record": "22-9-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/movsar-ibragimov": {
+      "name": "Movsar Ibragimov",
+      "countryCode": "BE",
+      "birthDate": "1999-05-04",
+      "record": "8-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/khamzat-abaev": {
+      "name": "Khamzat Abaev",
+      "countryCode": null,
+      "birthDate": "1996-09-23",
+      "record": "6-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/luca-poclit": {
+      "name": "Luca Poclit",
+      "countryCode": "MD",
+      "birthDate": "1989-09-20",
+      "record": "10-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/adam-meskini": {
+      "name": "Adam Meskini",
+      "countryCode": "MA",
+      "birthDate": "1996-07-28",
+      "record": "11-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/keweny-lopes": {
+      "name": "Keweny Lopes",
+      "countryCode": "BR",
+      "birthDate": "1995-07-25",
+      "record": "12-5-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/rustam-serbiev": {
+      "name": "Rustam Serbiev",
+      "countryCode": "RU",
+      "birthDate": "1998-03-28",
+      "record": "9-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/ashley-reece": {
+      "name": "Ashley Reece",
+      "countryCode": "GB",
+      "birthDate": "1988-09-07",
+      "record": "10-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/mohammed-yahya": {
+      "name": "Mohammed Yahya",
+      "countryCode": "AE",
+      "birthDate": "1994-05-22",
+      "record": "12-7-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/salaheddine-hamli": {
+      "name": "Salah Eddine Hamli",
+      "countryCode": "MA",
+      "birthDate": "1998-05-17",
+      "record": "11-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/hamza-kooheji": {
+      "name": "Hamza Kooheji",
+      "countryCode": "BH",
+      "birthDate": "1993-01-29",
+      "record": "15-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/zamzam-al-hammadi": {
+      "name": "Zamzam Al-Hammadi",
+      "countryCode": null,
+      "birthDate": null,
+      "record": "1-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/taha-bendaoud": {
+      "name": "Taha Bendaoud",
+      "countryCode": "MA",
+      "birthDate": "1995-01-17",
+      "record": "5-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/abeer-mansour": {
+      "name": "Abeer Mansour",
+      "countryCode": "EG",
+      "birthDate": "2002-04-04",
+      "record": "2-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/assem-ghanem": {
+      "name": "Assem Ghanem",
+      "countryCode": "EG",
+      "birthDate": "2001-04-16",
+      "record": "7-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/mohammad-fahmi": {
+      "name": "Mohammad Fahmi",
+      "countryCode": "IQ",
+      "birthDate": "1995-07-30",
+      "record": "5-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/ahmed-elsisy": {
+      "name": "Ahmed El Sisy",
+      "countryCode": "EG",
+      "birthDate": null,
+      "record": "8-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/harda-karim": {
+      "name": "Harda Karim",
+      "countryCode": "IQ",
+      "birthDate": "1996-03-25",
+      "record": "5-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/georges-eid": {
+      "name": "Georges Eid",
+      "countryCode": "LB",
+      "birthDate": "1990-08-23",
+      "record": "11-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/hussein-fakher": {
+      "name": "Hussein Fakher",
+      "countryCode": "IQ",
+      "birthDate": "1991-02-24",
+      "record": "7-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/abdullah-saleem": {
+      "name": "Abdullah Saleem",
+      "countryCode": "KW",
+      "birthDate": null,
+      "record": "5-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/basel-shalaan": {
+      "name": "Basel Shalaan",
+      "countryCode": "EG",
+      "birthDate": "2002-08-03",
+      "record": "7-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/hamad-marhoon": {
+      "name": "Hamad Marhoon",
+      "countryCode": "BH",
+      "birthDate": "2003-12-26",
+      "record": "1-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/ahmed-albrahim": {
+      "name": "Ahmed Albrahim",
+      "countryCode": "SA",
+      "birthDate": "1996-09-17",
+      "record": "1-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/butti-alameri": {
+      "name": "Butti Alameri",
+      "countryCode": null,
+      "birthDate": "2000-09-06",
+      "record": "9-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/hamada-osman": {
+      "name": "Hamada Osman",
+      "countryCode": null,
+      "birthDate": "1997-03-28",
+      "record": "3-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/ibrahim-mahmoud": {
+      "name": "Ibrahim Mahmoud",
+      "countryCode": "EG",
+      "birthDate": "2007-05-14",
+      "record": "0-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/wasi-adeshina": {
+      "name": "Wasi Adeshina",
+      "countryCode": "NG",
+      "birthDate": "1996-11-22",
+      "record": "10-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/ignacio-campos": {
+      "name": "Ignacio Campos",
+      "countryCode": "ES",
+      "birthDate": "1996-06-28",
+      "record": "8-2-0",
+      "style": "Grappler",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/patrick-ocheme": {
+      "name": "Patrick Ocheme",
+      "countryCode": "NG",
+      "birthDate": "1994-11-27",
+      "record": "9-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/octave-ayinda": {
+      "name": "Octave Ayinda",
+      "countryCode": "CM",
+      "birthDate": "1997-05-14",
+      "record": "6-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/karim-henniene": {
+      "name": "Karim Henniene",
+      "countryCode": "DZ",
+      "birthDate": "1995-07-05",
+      "record": "7-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/thimna-mhlauli": {
+      "name": "Thimna Mhlauli",
+      "countryCode": "ZA",
+      "birthDate": null,
+      "record": "5-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/cornel-thompson": {
+      "name": "Cornel Thompson",
+      "countryCode": null,
+      "birthDate": "1995-03-01",
+      "record": "11-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/yahaya-yahuza": {
+      "name": "Yahaya Yahuza",
+      "countryCode": null,
+      "birthDate": "2001-06-07",
+      "record": "8-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/jordan-fongno": {
+      "name": "Jordan Fongno",
+      "countryCode": null,
+      "birthDate": "2001-06-07",
+      "record": "5-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/edson-machavane": {
+      "name": "Edson Machavane",
+      "countryCode": null,
+      "birthDate": "2001-06-07",
+      "record": "7-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/elisandra-ferreira": {
+      "name": "Elisandra Ferreira",
+      "countryCode": null,
+      "birthDate": "2001-03-18",
+      "record": "10-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/raphael-uchegbu": {
+      "name": "Raphael Uchegbu",
+      "countryCode": "GB",
+      "birthDate": null,
+      "record": "7-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/abderrahman-errachidy": {
+      "name": "Abderrahman Errachidy",
+      "countryCode": "MA",
+      "birthDate": "2001-02-03",
+      "record": "5-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/hussain-alkurdi": {
+      "name": "Hussain Al Kurdi",
+      "countryCode": null,
+      "birthDate": "2001-06-07",
+      "record": "3-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/alain-majorique": {
+      "name": "Alain Majorique",
+      "countryCode": "CM",
+      "birthDate": "1989-11-05",
+      "record": "6-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/demba-seck": {
+      "name": "Demba Seck",
+      "countryCode": null,
+      "birthDate": "1994-07-19",
+      "record": "11-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/jean-dosantos": {
+      "name": "Jean Do Santos",
+      "countryCode": "BJ",
+      "birthDate": "2001-12-30",
+      "record": "9-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/dwight-joseph": {
+      "name": "Dwight Joseph",
+      "countryCode": "LR",
+      "birthDate": "1989-08-15",
+      "record": "16-3-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/dauda-rajabu": {
+      "name": "Dauda Rajabu",
+      "countryCode": null,
+      "birthDate": "2001-06-07",
+      "record": "4-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/boule-godogo": {
+      "name": "Boule Godogo",
+      "countryCode": "AO",
+      "birthDate": null,
+      "record": "5-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/styve-ngono": {
+      "name": "Styve Ngono",
+      "countryCode": "CM",
+      "birthDate": "1999-09-18",
+      "record": "8-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/haidy-ahmed": {
+      "name": "Haidy Ahmed",
+      "countryCode": "EG",
+      "birthDate": null,
+      "record": "2-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/richard-muzaan": {
+      "name": "Richard Muzaan",
+      "countryCode": null,
+      "birthDate": "2001-04-12",
+      "record": "6-4-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/salamat-isbulaev": {
+      "name": "Salamat Isbulaev",
+      "countryCode": null,
+      "birthDate": "1996-12-07",
+      "record": "10-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/alexander-shabliy": {
+      "name": "Alexander Shabliy",
+      "countryCode": null,
+      "birthDate": "1993-04-17",
+      "record": "25-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/liz-carmouche": {
+      "name": "Liz Carmouche",
+      "countryCode": "US",
+      "birthDate": "1984-02-17",
+      "record": "26-8-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/alfie-davis": {
+      "name": "Alfie Davis",
+      "countryCode": "GB",
+      "birthDate": "1992-02-24",
+      "record": "20-7-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/abraham-bably": {
+      "name": "Abraham Bably",
+      "countryCode": "CI",
+      "birthDate": "1995-12-29",
+      "record": "8-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/josh-weems": {
+      "name": "Josh Weems",
+      "countryCode": "US",
+      "birthDate": "1994-05-04",
+      "record": "13-7-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/khasan-magomedsharipov": {
+      "name": "Khasan Magomedsharipov",
+      "countryCode": null,
+      "birthDate": "2000-06-09",
+      "record": "11-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/rob-wilkinson": {
+      "name": "Rob Wilkinson",
+      "countryCode": "AU",
+      "birthDate": "1992-02-20",
+      "record": "20-5-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/justin-wetzell": {
+      "name": "Justin Wetzell",
+      "countryCode": "US",
+      "birthDate": "1992-01-22",
+      "record": "12-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/shannon-clark": {
+      "name": "Shannon Clark",
+      "countryCode": "CA",
+      "birthDate": "1992-07-06",
+      "record": "8-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/sarvarjon-khamidov": {
+      "name": "Sarvarjon Khamidov",
+      "countryCode": "TJ",
+      "birthDate": "1997-04-12",
+      "record": "17-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/ilara-joanne": {
+      "name": "Ilara Joanne",
+      "countryCode": null,
+      "birthDate": "1994-06-05",
+      "record": "13-11-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/cobey-fehr": {
+      "name": "Cobey Fehr",
+      "countryCode": null,
+      "birthDate": "1994-08-24",
+      "record": "4-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/daniel-bzdigian": {
+      "name": "Daniel Bzdigian",
+      "countryCode": "US",
+      "birthDate": "2003-05-25",
+      "record": "3-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/dania-ouhachi": {
+      "name": "Dania Ouhachi",
+      "countryCode": "DZ",
+      "birthDate": "2003-12-23",
+      "record": "1-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/hassan-shaaban": {
+      "name": "Hassan Shaaban",
+      "countryCode": "LB",
+      "birthDate": "2001-09-18",
+      "record": "6-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/hazem-kayyali": {
+      "name": "Hazem Kayyali",
+      "countryCode": "JO",
+      "birthDate": "2000-05-14",
+      "record": "3-0-2",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/hattan-alsaif": {
+      "name": "Hattan Alsaif",
+      "countryCode": "SA",
+      "birthDate": "2001-11-23",
+      "record": "1-0-0",
+      "style": "Striker",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/imad-elazami": {
+      "name": "Imad El Azami",
+      "countryCode": "MA",
+      "birthDate": "2004-05-03",
+      "record": "1-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/malik-basahel": {
+      "name": "Malik Basahel",
+      "countryCode": "SA",
+      "birthDate": "2001-11-14",
+      "record": "4-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/yousef-adel": {
+      "name": "Yousef Adel",
+      "countryCode": "EG",
+      "birthDate": "2001-12-03",
+      "record": "7-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/wissame-akhmouch": {
+      "name": "Wissame Akhmouch",
+      "countryCode": "MA",
+      "birthDate": null,
+      "record": "7-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/abdelkrim-zouad": {
+      "name": "Abdelkrim Zouad",
+      "countryCode": "DZ",
+      "birthDate": null,
+      "record": "8-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/shadi-kabbani": {
+      "name": "Shadi Kabbani",
+      "countryCode": "SY",
+      "birthDate": null,
+      "record": "5-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/badreddine-diani": {
+      "name": "Badreddine Diani",
+      "countryCode": "MA",
+      "birthDate": "1996-10-29",
+      "record": "11-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/ahmed-tarek": {
+      "name": "Ahmed Tarek",
+      "countryCode": "EG",
+      "birthDate": "1999-09-01",
+      "record": "7-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/ahmed-darwish": {
+      "name": "Ahmed Darwish",
+      "countryCode": "EG",
+      "birthDate": null,
+      "record": "6-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/elias-boudegzdame": {
+      "name": "Elias Boudegzdame",
+      "countryCode": "DZ",
+      "birthDate": "1993-10-16",
+      "record": "21-9-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/eslam-mostafa": {
+      "name": "Eslam Mostafa",
+      "countryCode": "EG",
+      "birthDate": "1995-01-17",
+      "record": "5-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/saud-almolhem": {
+      "name": "Saud Almolhem",
+      "countryCode": "SA",
+      "birthDate": "2001-06-07",
+      "record": "2-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/abdelhalim-elhoufy": {
+      "name": "Abdelhalim Elhoufy",
+      "countryCode": "EG",
+      "birthDate": null,
+      "record": "2-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/rafael-donascimento": {
+      "name": "Rafael do Nascimento",
+      "countryCode": "BR",
+      "birthDate": "1991-11-14",
+      "record": "13-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/lewis-mcgrillen": {
+      "name": "Lewis McGrillen",
+      "countryCode": "GB",
+      "birthDate": "2000-10-23",
+      "record": "13-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/joseph-ruquet": {
+      "name": "Joseph Ruquet",
+      "countryCode": "US",
+      "birthDate": "1992-07-14",
+      "record": "10-5-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/gamid-khizriev": {
+      "name": "Gamid Khizriev",
+      "countryCode": "RU",
+      "birthDate": "2000-07-26",
+      "record": "5-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/jesus-pinedo": {
+      "name": "Jesus Pinedo",
+      "countryCode": "PE",
+      "birthDate": "1996-06-21",
+      "record": "26-7-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/aleksandra-savicheva": {
+      "name": "Aleksandra Savicheva",
+      "countryCode": "RU",
+      "birthDate": "1998-05-28",
+      "record": "8-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/mia-grawe": {
+      "name": "Mia Grawe",
+      "countryCode": "US",
+      "birthDate": "2000-11-16",
+      "record": "3-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/ashley-thiner": {
+      "name": "Ashley Thiner",
+      "countryCode": null,
+      "birthDate": "1993-11-11",
+      "record": "3-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/jackson-glass": {
+      "name": "Jackson Glass",
+      "countryCode": null,
+      "birthDate": "2007-08-20",
+      "record": "4-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/zak-flessas": {
+      "name": "Zak Flessas",
+      "countryCode": "US",
+      "birthDate": "1991-10-17",
+      "record": "2-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/victoria-alba": {
+      "name": "Victoria Alba",
+      "countryCode": null,
+      "birthDate": "1992-10-10",
+      "record": "7-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/eliezer-kubanza": {
+      "name": "Eliezer Kubanza",
+      "countryCode": null,
+      "birthDate": "1997-12-22",
+      "record": "9-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/sullivan-cauley": {
+      "name": "Sullivan Cauley",
+      "countryCode": null,
+      "birthDate": "1996-05-14",
+      "record": "8-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/michael-cyr": {
+      "name": "Michael Cyr",
+      "countryCode": "US",
+      "birthDate": "1995-04-21",
+      "record": "8-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/bryce-meredith": {
+      "name": "Bryce Meredith",
+      "countryCode": "US",
+      "birthDate": "1995-04-28",
+      "record": "8-1-0",
+      "style": "Grappler",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/thad-jean": {
+      "name": "Thad Jean",
+      "countryCode": "HT",
+      "birthDate": "1998-07-15",
+      "record": "12-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/nkosi-ndebele": {
+      "name": "Nkosi Ndebele",
+      "countryCode": "ZA",
+      "birthDate": "1995-03-21",
+      "record": "14-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/brandon-davis": {
+      "name": "Brandon Davis",
+      "countryCode": "US",
+      "birthDate": "1990-05-07",
+      "record": "14-12-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/chad-yard": {
+      "name": "Chad Yard",
+      "countryCode": null,
+      "birthDate": "1995-08-01",
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/coby-bradford": {
+      "name": "Coby Bradford",
+      "countryCode": "US",
+      "birthDate": "1994-10-25",
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/noah-hermosillo": {
+      "name": "Noah Hermosillo",
+      "countryCode": "US",
+      "birthDate": "1999-03-25",
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/jacob-pais": {
+      "name": "Jacob Pais",
+      "countryCode": "US",
+      "birthDate": "2003-02-08",
+      "record": "1-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/archie-colgan": {
+      "name": "Archie Colgan",
+      "countryCode": null,
+      "birthDate": "1995-07-21",
+      "record": "13-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/denise-kielholtz": {
+      "name": "Denise Kielholtz",
+      "countryCode": null,
+      "birthDate": "1989-03-29",
+      "record": "9-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/usman-nurmagomedov": {
+      "name": "Usman Nurmagomedov",
+      "countryCode": "RU",
+      "birthDate": "1998-04-16",
+      "record": "22-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/amru-magomedov": {
+      "name": "Amru Magomedov",
+      "countryCode": null,
+      "birthDate": "1999-06-01",
+      "record": "11-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/darryl-walker": {
+      "name": "Darryl Walker",
+      "countryCode": "US",
+      "birthDate": "1991-12-20",
+      "record": "2-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/jonathan-piersma": {
+      "name": "Jonathan Piersma",
+      "countryCode": null,
+      "birthDate": "1996-03-02",
+      "record": "12-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/montana-delarosa": {
+      "name": "Montana De La Rosa",
+      "countryCode": null,
+      "birthDate": "1995-02-13",
+      "record": "13-10-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/dakota-ditcheva": {
+      "name": "Dakota Ditcheva",
+      "countryCode": null,
+      "birthDate": "1998-07-24",
+      "record": "16-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/chamy-delva": {
+      "name": "Chamy Delva",
+      "countryCode": "US",
+      "birthDate": "1981-01-30",
+      "record": "7-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/levan-khabalaev": {
+      "name": "Levan Khabalaev",
+      "countryCode": "GE",
+      "birthDate": "1999-03-09",
+      "record": "5-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/brandon-lewis": {
+      "name": "Brandon Lewis",
+      "countryCode": null,
+      "birthDate": "1997-08-01",
+      "record": "7-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/jhony-gregory": {
+      "name": "Jhony Gregory",
+      "countryCode": "BR",
+      "birthDate": "1994-01-20",
+      "record": "11-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/aaron-jeffery": {
+      "name": "Aaron Jeffery",
+      "countryCode": null,
+      "birthDate": "1992-11-13",
+      "record": "17-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/hasan-mezhiev": {
+      "name": "Hasan Mezhiev",
+      "countryCode": "LV",
+      "birthDate": "1992-07-24",
+      "record": "14-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/robert-ring": {
+      "name": "Robert Ring",
+      "countryCode": null,
+      "birthDate": "2000-07-13",
+      "record": "9-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/josh-silveira": {
+      "name": "Josh Silveira",
+      "countryCode": null,
+      "birthDate": "1992-12-24",
+      "record": "15-6-0",
+      "style": "Grappler",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/michael-boylan": {
+      "name": "Michael Boylan",
+      "countryCode": "US",
+      "birthDate": "2001-03-20",
+      "record": "6-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/landry-ward": {
+      "name": "Landry Ward",
+      "countryCode": "US",
+      "birthDate": "1996-12-08",
+      "record": "11-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/denis-goltsov": {
+      "name": "Denis Goltsov",
+      "countryCode": "RU",
+      "birthDate": "1990-06-09",
+      "record": "37-9-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/valentin-moldavsky": {
+      "name": "Valentin Moldavsky",
+      "countryCode": null,
+      "birthDate": "1992-02-05",
+      "record": "14-5-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/jonathan-martin": {
+      "name": "Jonathan Martin",
+      "countryCode": null,
+      "birthDate": "1996-06-28",
+      "record": "9-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/wilson-lopshire": {
+      "name": "Wilson Lopshire",
+      "countryCode": null,
+      "birthDate": "1998-12-24",
+      "record": "7-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/eduardo-neves": {
+      "name": "Eduardo Neves",
+      "countryCode": "BR",
+      "birthDate": "2000-03-15",
+      "record": "9-4-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/trukon-carson": {
+      "name": "Trukon Carson",
+      "countryCode": "US",
+      "birthDate": "1995-04-12",
+      "record": "6-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/bruno-cappelozza": {
+      "name": "Bruno Cappelozza",
+      "countryCode": null,
+      "birthDate": "1989-05-18",
+      "record": "16-7-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/trey-waters": {
+      "name": "Trey Waters",
+      "countryCode": null,
+      "birthDate": "1995-02-20",
+      "record": "10-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/ketlen-vieira": {
+      "name": "Ketlen Vieira",
+      "countryCode": null,
+      "birthDate": "1991-08-25",
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/tracy-reeder": {
+      "name": "Tracy Reeder",
+      "countryCode": "US",
+      "birthDate": "1999-04-12",
+      "record": "12-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/cris-cyborg": {
+      "name": "Cris Cyborg",
+      "countryCode": "BR",
+      "birthDate": "1985-07-08",
+      "record": "30-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/luke-trainer": {
+      "name": "Luke Trainer",
+      "countryCode": "GB",
+      "birthDate": "1996-02-26",
+      "record": "11-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/roland-dunlap": {
+      "name": "Roland Dunlap",
+      "countryCode": "US",
+      "birthDate": "1992-12-07",
+      "record": "7-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/daniel-marcos": {
+      "name": "Daniel Marcos",
+      "countryCode": null,
+      "birthDate": "1993-03-06",
+      "record": "18-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/javid-basharat": {
+      "name": "Javid Basharat",
+      "countryCode": null,
+      "birthDate": "1995-09-06",
+      "record": "16-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/morquez-forest": {
+      "name": "Morquez Forest",
+      "countryCode": "US",
+      "birthDate": "1993-07-07",
+      "record": "8-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/africa-fighter/badr-medkouri": {
+      "name": "Badr Medkouri",
+      "countryCode": "FR",
+      "birthDate": "1993-12-04",
+      "record": "7-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/cassio-barao": {
+      "name": "Cássio Barão",
+      "countryCode": "BR",
+      "birthDate": "1995-09-02",
+      "record": "10-1-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/kevin-pease": {
+      "name": "Kevin Pease",
+      "countryCode": "US",
+      "birthDate": "1997-10-02",
+      "record": "6-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/lucero-acosta": {
+      "name": "Lucero Acosta",
+      "countryCode": null,
+      "birthDate": "1994-08-22",
+      "record": "6-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/joji-goto": {
+      "name": "Joji Goto",
+      "countryCode": null,
+      "birthDate": "1996-03-08",
+      "record": "21-9-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/timur-khizriev": {
+      "name": "Timur Khizriev",
+      "countryCode": "RU",
+      "birthDate": "1995-11-17",
+      "record": "18-0-0",
+      "style": "Grappler",
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/pouya-rahmani": {
+      "name": "Pouya Rahmani",
+      "countryCode": null,
+      "birthDate": "1992-07-26",
+      "record": "6-0-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/vadim-nemkov": {
+      "name": "Vadim Nemkov",
+      "countryCode": "RU",
+      "birthDate": "1992-06-19",
+      "record": "20-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/wt-fighter/oleg-popov": {
+      "name": "Oleg Popov",
+      "countryCode": "RU",
+      "birthDate": "1992-01-01",
+      "record": "22-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:10:12.597Z"
+    },
+    "https://pflmma.com/mena-fighter/saher-qasmieh-2": {
+      "name": "Saher Qasmieh",
+      "countryCode": null,
+      "birthDate": null,
+      "record": "0-1-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:13:24.156Z"
+    },
+    "https://pflmma.com/mena-fighter/mehdi-saadi-2": {
+      "name": "Mehdi Saadi",
+      "countryCode": "FR",
+      "birthDate": "1993-03-07",
+      "record": "6-2-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:13:24.156Z"
+    },
+    "https://pflmma.com/mena-fighter/omar-hussein-2": {
+      "name": "Omar Hussein",
+      "countryCode": null,
+      "birthDate": null,
+      "record": "12-7-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:13:24.156Z"
+    },
+    "https://pflmma.com/mena-fighter/hussein-salem-2": {
+      "name": "Hussein Salem",
+      "countryCode": "IQ",
+      "birthDate": null,
+      "record": "12-7-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:13:24.156Z"
+    },
+    "https://pflmma.com/mena-fighter/ylies-djiroun-2": {
+      "name": "Ylies Djiroun",
+      "countryCode": null,
+      "birthDate": null,
+      "record": "16-6-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:13:24.156Z"
+    },
+    "https://pflmma.com/mena-fighter/rayan-atmani-2": {
+      "name": "Rayan Atmani",
+      "countryCode": "DZ",
+      "birthDate": "1993-02-19",
+      "record": "6-3-0",
+      "style": null,
+      "checkedAt": "2026-09-13T10:13:24.156Z"
+    },
+    "https://pflmma.com/wt-fighter/moustapha-diakhat": {
+      "name": "Moustapha Diakhaté",
+      "countryCode": "SN",
+      "birthDate": "2001-06-25",
+      "record": "6-0-1",
+      "style": null,
+      "checkedAt": "2026-09-13T10:13:24.156Z"
+    }
+  }
+}

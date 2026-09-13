@@ -1,0 +1,4467 @@
+[
+  {
+    "uid": "2026-pfl-madrid",
+    "date": "2026-03-20",
+    "summary": "PFL MADRID",
+    "location": "Palacio Vistalegre, Madrid, Spain",
+    "url": "https://pflmma.com/event/2026-pfl-madrid",
+    "start": null,
+    "end": null,
+    "status": "TENTATIVE",
+    "bouts": [
+      {
+        "id": "1352",
+        "order": 11,
+        "red": {
+          "name": "Costello van Steenis",
+          "profileUrl": "https://pflmma.com/wt-fighter/costello-vansteenis",
+          "countryCode": "ES",
+          "birthDate": "1992-07-25",
+          "record": "18-3-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Fabian Edwards",
+          "profileUrl": "https://pflmma.com/wt-fighter/fabian-edwards",
+          "countryCode": null,
+          "birthDate": "1993-03-23",
+          "record": "16-5-0",
+          "style": "Striker"
+        },
+        "details": "Winner: Costello van Steenis by KO"
+      },
+      {
+        "id": "1353",
+        "order": 10,
+        "red": {
+          "name": "AJ McKee",
+          "profileUrl": "https://pflmma.com/wt-fighter/aj-mckee",
+          "countryCode": null,
+          "birthDate": "1995-04-06",
+          "record": "25-2-0",
+          "style": "Striker"
+        },
+        "blue": {
+          "name": "Adam Borics",
+          "profileUrl": "https://pflmma.com/wt-fighter/adam-borics",
+          "countryCode": "HU",
+          "birthDate": "1993-07-06",
+          "record": "20-4-0",
+          "style": "Striker"
+        },
+        "details": "Winner: AJ McKee by Decision"
+      },
+      {
+        "id": "1379",
+        "order": 9,
+        "red": {
+          "name": "Franco Tenaglia",
+          "profileUrl": "https://pflmma.com/wt-fighter/franco-tenaglia",
+          "countryCode": "AR",
+          "birthDate": "1996-09-29",
+          "record": "6-2-0",
+          "style": "Striker"
+        },
+        "blue": {
+          "name": "Yassin Najid",
+          "profileUrl": "https://pflmma.com/wt-fighter/yassin-najid",
+          "countryCode": null,
+          "birthDate": "1985-07-25",
+          "record": "9-5-0",
+          "style": null
+        },
+        "details": "Winner: Franco Tenaglia by TKO"
+      },
+      {
+        "id": "1381",
+        "order": 8,
+        "red": {
+          "name": "Jacinta Austin",
+          "profileUrl": "https://pflmma.com/wt-fighter/jacinta-austin",
+          "countryCode": "AU",
+          "birthDate": "1994-10-19",
+          "record": "9-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Benita Van Rooji",
+          "profileUrl": "https://pflmma.com/wt-fighter/benita-vanrooji",
+          "countryCode": "NL",
+          "birthDate": "1999-06-02",
+          "record": "7-2-0",
+          "style": null
+        },
+        "details": "Winner: Jacinta Austin by KO"
+      },
+      {
+        "id": "1358",
+        "order": 7,
+        "red": {
+          "name": "Linton Vassell",
+          "profileUrl": "https://pflmma.com/wt-fighter/linton-vassell",
+          "countryCode": "GB",
+          "birthDate": "1983-06-02",
+          "record": "26-10-0",
+          "style": "Grappler"
+        },
+        "blue": {
+          "name": "Jose Augusto",
+          "profileUrl": "https://pflmma.com/wt-fighter/jose-augusto",
+          "countryCode": null,
+          "birthDate": "1992-03-27",
+          "record": "11-6-0",
+          "style": null
+        },
+        "details": "Winner: Linton Vassell by TKO"
+      },
+      {
+        "id": "1382",
+        "order": 6,
+        "red": {
+          "name": "Kevin Cordero",
+          "profileUrl": "https://pflmma.com/wt-fighter/kevin-cordero",
+          "countryCode": "ES",
+          "birthDate": "1999-11-23",
+          "record": "15-6-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Luciano Pereira",
+          "profileUrl": "https://pflmma.com/wt-fighter/luciano-pereira",
+          "countryCode": null,
+          "birthDate": "2001-01-08",
+          "record": "16-1-0",
+          "style": null
+        },
+        "details": "Winner: Luciano Pereira by KO"
+      },
+      {
+        "id": "1371",
+        "order": 5,
+        "red": {
+          "name": "Borja Garcia",
+          "profileUrl": "https://pflmma.com/wt-fighter/borja-garcia",
+          "countryCode": null,
+          "birthDate": "2000-03-08",
+          "record": "7-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Rafael Calderon",
+          "profileUrl": "https://pflmma.com/wt-fighter/rafael-calderon",
+          "countryCode": null,
+          "birthDate": "1996-02-09",
+          "record": "6-3-0",
+          "style": null
+        },
+        "details": "Winner: Borja Garcia by Decision"
+      },
+      {
+        "id": "1360",
+        "order": 4,
+        "red": {
+          "name": "Gino Van Steenis",
+          "profileUrl": "https://pflmma.com/wt-fighter/gino-vansteenis",
+          "countryCode": null,
+          "birthDate": "1998-02-14",
+          "record": "9-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Mark Ewen",
+          "profileUrl": "https://pflmma.com/wt-fighter/mark-ewen",
+          "countryCode": "GB",
+          "birthDate": "1998-12-09",
+          "record": "7-3-0",
+          "style": null
+        },
+        "details": "Winner: Gino Van Steenis by KO"
+      },
+      {
+        "id": "1380",
+        "order": 3,
+        "red": {
+          "name": "Mattia Giordano",
+          "profileUrl": "https://pflmma.com/wt-fighter/mattia-giordano",
+          "countryCode": "ES",
+          "birthDate": "1994-01-18",
+          "record": "5-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Ernesto Schisano",
+          "profileUrl": "https://pflmma.com/wt-fighter/ernesto-schisano",
+          "countryCode": null,
+          "birthDate": "1993-03-07",
+          "record": "5-2-0",
+          "style": null
+        },
+        "details": "Winner: Mattia Giordano by Decision"
+      },
+      {
+        "id": "1372",
+        "order": 2,
+        "red": {
+          "name": "David Mora",
+          "profileUrl": "https://pflmma.com/wt-fighter/david-mora",
+          "countryCode": null,
+          "birthDate": "1995-03-18",
+          "record": "10-7-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Claudio Pacella",
+          "profileUrl": "https://pflmma.com/wt-fighter/claudio-pacella",
+          "countryCode": "IT",
+          "birthDate": "1999-10-16",
+          "record": "7-3-0",
+          "style": null
+        },
+        "details": "Winner: Claudio Pacella by Decision"
+      },
+      {
+        "id": "1370",
+        "order": 1,
+        "red": {
+          "name": "Ignacio Campos",
+          "profileUrl": "https://pflmma.com/wt-fighter/ignacio-campos",
+          "countryCode": "ES",
+          "birthDate": "1996-06-28",
+          "record": "8-2-0",
+          "style": "Grappler"
+        },
+        "blue": {
+          "name": "Mathys Duragrin",
+          "profileUrl": "https://pflmma.com/wt-fighter/mathys-duragrin",
+          "countryCode": "FR",
+          "birthDate": "2001-12-04",
+          "record": "4-2-0",
+          "style": null
+        },
+        "details": "Winner: Ignacio Campos by Decision"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pfl-pittsburgh",
+    "date": "2026-03-28",
+    "summary": "PFL Pittsburgh",
+    "location": "UPMC Events Center, Pittsburgh PA",
+    "url": "https://pflmma.com/event/pfl-pittsburgh",
+    "start": "20260328T190000Z",
+    "end": "20260329T010000Z",
+    "status": "CONFIRMED",
+    "bouts": [
+      {
+        "id": "1368",
+        "order": 12,
+        "red": {
+          "name": "Johnny Eblen",
+          "profileUrl": "https://pflmma.com/wt-fighter/johnny-eblen",
+          "countryCode": null,
+          "birthDate": "1991-12-12",
+          "record": "18-1-0",
+          "style": "Grappler"
+        },
+        "blue": {
+          "name": "Bryan Battle",
+          "profileUrl": "https://pflmma.com/wt-fighter/bryan-battle",
+          "countryCode": null,
+          "birthDate": "1994-09-20",
+          "record": "13-3-0",
+          "style": null
+        },
+        "details": "Winner: Johnny Eblen by Submission"
+      },
+      {
+        "id": "1369",
+        "order": 11,
+        "red": {
+          "name": "Dalton Rosta",
+          "profileUrl": "https://pflmma.com/wt-fighter/dalton-rosta",
+          "countryCode": null,
+          "birthDate": "1995-11-08",
+          "record": "11-4-0",
+          "style": "Grappler"
+        },
+        "blue": {
+          "name": "Impa Kasanganay",
+          "profileUrl": "https://pflmma.com/wt-fighter/impa-kasanganay",
+          "countryCode": "US",
+          "birthDate": "1994-01-16",
+          "record": "20-7-0",
+          "style": null
+        },
+        "details": "Winner: Impa Kasanganay by KO"
+      },
+      {
+        "id": "1374",
+        "order": 10,
+        "red": {
+          "name": "Ariane Lipski da Silva",
+          "profileUrl": "https://pflmma.com/wt-fighter/ariane-lipskidasilva",
+          "countryCode": null,
+          "birthDate": "1994-01-25",
+          "record": "18-12-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Sumiko Inaba",
+          "profileUrl": "https://pflmma.com/wt-fighter/sumiko-inaba",
+          "countryCode": null,
+          "birthDate": "1992-02-05",
+          "record": "8-3-0",
+          "style": null
+        },
+        "details": "Winner: Ariane Lipski da Silva by Decision"
+      },
+      {
+        "id": "1373",
+        "order": 9,
+        "red": {
+          "name": "Alexei Pergande",
+          "profileUrl": "https://pflmma.com/wt-fighter/alexei-pergande",
+          "countryCode": "US",
+          "birthDate": "2001-05-10",
+          "record": "8-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Julio Arce",
+          "profileUrl": "https://pflmma.com/wt-fighter/julio-arce",
+          "countryCode": null,
+          "birthDate": "1989-10-26",
+          "record": "22-7-0",
+          "style": null
+        },
+        "details": "Winner: Alexei Pergande by Decision"
+      },
+      {
+        "id": "1375",
+        "order": 8,
+        "red": {
+          "name": "Lazaro Dayron",
+          "profileUrl": "https://pflmma.com/wt-fighter/lazaro-dayron",
+          "countryCode": "US",
+          "birthDate": "1992-07-24",
+          "record": "11-0-1",
+          "style": null
+        },
+        "blue": {
+          "name": "Jacob Thrall",
+          "profileUrl": "https://pflmma.com/wt-fighter/jacob-thrall",
+          "countryCode": "US",
+          "birthDate": "1995-04-08",
+          "record": "15-8-1",
+          "style": null
+        },
+        "details": "Winner: Lazaro Dayron by Decision"
+      },
+      {
+        "id": "1385",
+        "order": 7,
+        "red": {
+          "name": "Allan Begosso",
+          "profileUrl": "https://pflmma.com/wt-fighter/allan-begosso",
+          "countryCode": null,
+          "birthDate": "1995-11-22",
+          "record": "10-5-1",
+          "style": null
+        },
+        "blue": {
+          "name": "Jack Cartwright",
+          "profileUrl": "https://pflmma.com/wt-fighter/jack-cartwright",
+          "countryCode": "GB",
+          "birthDate": "1994-05-25",
+          "record": "14-2-0",
+          "style": null
+        },
+        "details": "Winner: Jack Cartwright by Decision"
+      },
+      {
+        "id": "1386",
+        "order": 6,
+        "red": {
+          "name": "Natan Schulte",
+          "profileUrl": "https://pflmma.com/wt-fighter/natan-schulte",
+          "countryCode": null,
+          "birthDate": "1992-02-19",
+          "record": "26-6-1",
+          "style": null
+        },
+        "blue": {
+          "name": "Jakub Kaszuba",
+          "profileUrl": "https://pflmma.com/wt-fighter/jakub-kaszuba",
+          "countryCode": "PL",
+          "birthDate": "1995-06-01",
+          "record": "16-0-0",
+          "style": null
+        },
+        "details": "Winner: Jakub Kaszuba by Decision"
+      },
+      {
+        "id": "1387",
+        "order": 5,
+        "red": {
+          "name": "Robert Watley",
+          "profileUrl": "https://pflmma.com/wt-fighter/robert-watley",
+          "countryCode": "US",
+          "birthDate": "1989-08-21",
+          "record": "16-5-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Dakota Bush",
+          "profileUrl": "https://pflmma.com/wt-fighter/dakota-bush",
+          "countryCode": "US",
+          "birthDate": "1994-06-08",
+          "record": "17-4-0",
+          "style": null
+        },
+        "details": "Winner: Dakota Bush by KO"
+      },
+      {
+        "id": "1388",
+        "order": 4,
+        "red": {
+          "name": "Ernesto Rodriguez",
+          "profileUrl": "https://pflmma.com/wt-fighter/ernesto-rodriguez",
+          "countryCode": "CU",
+          "birthDate": "1997-08-08",
+          "record": "11-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Masayuki Kikuiri",
+          "profileUrl": "https://pflmma.com/wt-fighter/masayuki-kikuiri",
+          "countryCode": null,
+          "birthDate": "1995-06-29",
+          "record": "11-4-1",
+          "style": null
+        },
+        "details": "Winner: Ernesto Rodriguez by Decision"
+      },
+      {
+        "id": "1389",
+        "order": 3,
+        "red": {
+          "name": "Tatiana Postarnakova",
+          "profileUrl": "https://pflmma.com/wt-fighter/tatiana-postarnakova",
+          "countryCode": null,
+          "birthDate": "2000-04-02",
+          "record": "8-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Elora Dana",
+          "profileUrl": "https://pflmma.com/wt-fighter/elora-dana",
+          "countryCode": "BR",
+          "birthDate": "1993-06-22",
+          "record": "8-3-0",
+          "style": null
+        },
+        "details": "Winner: Tatiana Postarnakova by Decision"
+      },
+      {
+        "id": "1390",
+        "order": 2,
+        "red": {
+          "name": "Josh Fremd",
+          "profileUrl": "https://pflmma.com/wt-fighter/josh-fremd",
+          "countryCode": null,
+          "birthDate": "1994-01-14",
+          "record": "13-6-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Jarrah Al Salawi",
+          "profileUrl": "https://pflmma.com/wt-fighter/jarrah-alsalawi",
+          "countryCode": "JO",
+          "birthDate": "1992-06-25",
+          "record": "21-8-0",
+          "style": null
+        },
+        "details": "Winner: Josh Fremd by KO"
+      },
+      {
+        "id": "1391",
+        "order": 1,
+        "red": {
+          "name": "Ethan Goss",
+          "profileUrl": "https://pflmma.com/wt-fighter/ethan-goss",
+          "countryCode": null,
+          "birthDate": "1992-01-07",
+          "record": "12-9-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Fred Dupras",
+          "profileUrl": "https://pflmma.com/wt-fighter/fred-dupras",
+          "countryCode": "CA",
+          "birthDate": "1993-09-14",
+          "record": "10-2-0",
+          "style": null
+        },
+        "details": "Winner: Fred Dupras by Submission"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pfl-africa-pretoria",
+    "date": "2026-04-10",
+    "summary": "PFL Africa",
+    "location": "SunBet Arena - Pretoria, South Africa",
+    "url": "https://pflmma.com/event/pfl-africa-pretoria",
+    "start": "20260410T180000Z",
+    "end": "20260410T230000Z",
+    "status": "CONFIRMED",
+    "bouts": [
+      {
+        "id": "1383",
+        "order": 11,
+        "red": {
+          "name": "Nkosi Ndebele",
+          "profileUrl": "https://pflmma.com/africa-fighter/nkosi-ndebele",
+          "countryCode": "ZA",
+          "birthDate": "1995-03-21",
+          "record": "14-3-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Michele Clemente",
+          "profileUrl": "https://pflmma.com/africa-fighter/michele-clemente",
+          "countryCode": "IT",
+          "birthDate": "2000-06-08",
+          "record": "7-2-0",
+          "style": null
+        },
+        "details": "Winner: Nkosi Ndebele by Decision"
+      },
+      {
+        "id": "1384",
+        "order": 10,
+        "red": {
+          "name": "Justin Clarke",
+          "profileUrl": "https://pflmma.com/africa-fighter/justin-clarke",
+          "countryCode": "ZA",
+          "birthDate": null,
+          "record": "5-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Abdoulaye Kane",
+          "profileUrl": "https://pflmma.com/africa-fighter/abdoulaye-kane",
+          "countryCode": "SN",
+          "birthDate": "1998-08-14",
+          "record": "5-2-0",
+          "style": null
+        },
+        "details": "Winner: Justin Clarke by TKO"
+      },
+      {
+        "id": "1430",
+        "order": 9,
+        "red": {
+          "name": "Yabna N’tchala",
+          "profileUrl": "https://pflmma.com/africa-fighter/yabna-n%E2%80%99tchala",
+          "countryCode": "GW",
+          "birthDate": "1997-08-04",
+          "record": "13-3-1",
+          "style": null
+        },
+        "blue": {
+          "name": "Peace Nguphane",
+          "profileUrl": "https://pflmma.com/africa-fighter/peace-nguphane",
+          "countryCode": "ZA",
+          "birthDate": null,
+          "record": "10-3-0",
+          "style": null
+        },
+        "details": "Winner: Peace Nguphane by Decision"
+      },
+      {
+        "id": "1431",
+        "order": 8,
+        "red": {
+          "name": "Shido Boris Esperanca",
+          "profileUrl": "https://pflmma.com/africa-fighter/shido-borisesperanca",
+          "countryCode": "AO",
+          "birthDate": "1994-12-22",
+          "record": "12-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Emilios Dassi",
+          "profileUrl": "https://pflmma.com/africa-fighter/emilios-dassi",
+          "countryCode": "CM",
+          "birthDate": "1997-01-31",
+          "record": "5-3-0",
+          "style": null
+        },
+        "details": "Winner: Shido Boris Esperanca by TKO"
+      },
+      {
+        "id": "1432",
+        "order": 7,
+        "red": {
+          "name": "Rivaldo Pereira",
+          "profileUrl": "https://pflmma.com/africa-fighter/rivaldo-pereira",
+          "countryCode": "LU",
+          "birthDate": "1997-05-20",
+          "record": "3-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Kunle Lawal",
+          "profileUrl": "https://pflmma.com/africa-fighter/kunle-lawal",
+          "countryCode": "NG",
+          "birthDate": "1998-09-23",
+          "record": "3-1-0",
+          "style": null
+        },
+        "details": "Winner: Rivaldo Pereira by TKO"
+      },
+      {
+        "id": "1433",
+        "order": 6,
+        "red": {
+          "name": "Juliet Ukah",
+          "profileUrl": "https://pflmma.com/africa-fighter/juliet-ukah",
+          "countryCode": "NG",
+          "birthDate": "1999-05-25",
+          "record": "9-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Jane Osigwe",
+          "profileUrl": "https://pflmma.com/africa-fighter/jane-osigwe",
+          "countryCode": null,
+          "birthDate": "2005-06-13",
+          "record": "5-4-0",
+          "style": null
+        },
+        "details": "Winner: Juliet Ukah by Decision"
+      },
+      {
+        "id": "1434",
+        "order": 5,
+        "red": {
+          "name": "Abdelrahman Mohamed",
+          "profileUrl": "https://pflmma.com/africa-fighter/abdelrahman-mohamed",
+          "countryCode": "EG",
+          "birthDate": "2000-08-16",
+          "record": "5-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "David Samuel",
+          "profileUrl": "https://pflmma.com/africa-fighter/david-samuel",
+          "countryCode": "RU",
+          "birthDate": null,
+          "record": "6-0-0",
+          "style": null
+        },
+        "details": "Winner: David Samuel by Submission"
+      },
+      {
+        "id": "1435",
+        "order": 4,
+        "red": {
+          "name": "Abdul Razac Sankara",
+          "profileUrl": "https://pflmma.com/africa-fighter/abdulrazac-sankara",
+          "countryCode": "BF",
+          "birthDate": "2001-01-09",
+          "record": "7-4-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Áureo Cruz",
+          "profileUrl": "https://pflmma.com/africa-fighter/aureo-cruz",
+          "countryCode": "AO",
+          "birthDate": null,
+          "record": "3-1-0",
+          "style": null
+        },
+        "details": "155lbs/70kg Lightweight"
+      },
+      {
+        "id": "1436",
+        "order": 3,
+        "red": {
+          "name": "Jean-Jacques Lubaya",
+          "profileUrl": "https://pflmma.com/africa-fighter/jean-jacques-lubaya",
+          "countryCode": null,
+          "birthDate": "1997-03-17",
+          "record": "10-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Shadrack Yemba",
+          "profileUrl": "https://pflmma.com/africa-fighter/shadrack-yemba",
+          "countryCode": null,
+          "birthDate": "1998-08-30",
+          "record": "5-1-0",
+          "style": null
+        },
+        "details": "Winner: Shadrack Yemba by Decision"
+      },
+      {
+        "id": "1437",
+        "order": 2,
+        "red": {
+          "name": "Shannon van Tonder",
+          "profileUrl": "https://pflmma.com/africa-fighter/shannon-vantonder",
+          "countryCode": null,
+          "birthDate": "1995-03-20",
+          "record": "7-4-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Asiashu Tshitamba",
+          "profileUrl": "https://pflmma.com/africa-fighter/asiashu-tshitamba",
+          "countryCode": "ZA",
+          "birthDate": "1992-05-20",
+          "record": "7-5-0",
+          "style": null
+        },
+        "details": "Winner: Asiashu Tshitamba by Decision"
+      },
+      {
+        "id": "1438",
+        "order": 1,
+        "red": {
+          "name": "Felista Mugo",
+          "profileUrl": "https://pflmma.com/africa-fighter/felista-mugo",
+          "countryCode": "KE",
+          "birthDate": "2000-02-14",
+          "record": "6-2-1",
+          "style": null
+        },
+        "blue": {
+          "name": "Annet Kiiza",
+          "profileUrl": "https://pflmma.com/africa-fighter/annet-kiiza",
+          "countryCode": "UG",
+          "birthDate": "2001-01-13",
+          "record": "3-2-0",
+          "style": null
+        },
+        "details": "Winner: Felista Mugo by Decision"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pfl-chicago-2026",
+    "date": "2026-04-11",
+    "summary": "PFL Chicago",
+    "location": "Wintrust Arena, Chicago",
+    "url": "https://pflmma.com/event/pfl-chicago-2026",
+    "start": "20260411T180000Z",
+    "end": "20260412T000000Z",
+    "status": "CONFIRMED",
+    "bouts": [
+      {
+        "id": "1392",
+        "order": 10,
+        "red": {
+          "name": "Sergio Pettis",
+          "profileUrl": "https://pflmma.com/wt-fighter/sergio-pettis",
+          "countryCode": "US",
+          "birthDate": "1993-08-17",
+          "record": "25-8-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Mitch McKee",
+          "profileUrl": "https://pflmma.com/wt-fighter/mitch-mckee",
+          "countryCode": "US",
+          "birthDate": "1997-12-23",
+          "record": "11-0-0",
+          "style": "Grappler"
+        },
+        "details": "Winner: Mitch McKee by Decision"
+      },
+      {
+        "id": "1404",
+        "order": 9,
+        "red": {
+          "name": "Raufeon Stots",
+          "profileUrl": "https://pflmma.com/wt-fighter/raufeon-stots",
+          "countryCode": null,
+          "birthDate": "1988-12-15",
+          "record": "21-5-0",
+          "style": "Grappler"
+        },
+        "blue": {
+          "name": "Renat Khavalov",
+          "profileUrl": "https://pflmma.com/wt-fighter/renat-khavalov",
+          "countryCode": "RU",
+          "birthDate": "1998-08-05",
+          "record": "12-0-0",
+          "style": "Grappler"
+        },
+        "details": "Winner: Renat Khavalov by Decision"
+      },
+      {
+        "id": "1416",
+        "order": 8,
+        "red": {
+          "name": "Viviane Araujo",
+          "profileUrl": "https://pflmma.com/wt-fighter/viviane-araujo",
+          "countryCode": null,
+          "birthDate": "1986-11-20",
+          "record": "14-8-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Shanna Young",
+          "profileUrl": "https://pflmma.com/wt-fighter/shanna-young",
+          "countryCode": "US",
+          "birthDate": "1991-02-19",
+          "record": "9-8-0",
+          "style": null
+        },
+        "details": "Winner: Viviane Araujo by Decision"
+      },
+      {
+        "id": "1417",
+        "order": 7,
+        "red": {
+          "name": "Gabriel Braga",
+          "profileUrl": "https://pflmma.com/wt-fighter/gabriel-braga",
+          "countryCode": "BR",
+          "birthDate": "1998-04-22",
+          "record": "17-3-0",
+          "style": "Striker"
+        },
+        "blue": {
+          "name": "Cheyden Leialoha",
+          "profileUrl": "https://pflmma.com/wt-fighter/cheyden-leialoha",
+          "countryCode": null,
+          "birthDate": "1994-03-14",
+          "record": "12-3-0",
+          "style": null
+        },
+        "details": "Winner: Gabriel Braga by Decision"
+      },
+      {
+        "id": "1399",
+        "order": 6,
+        "red": {
+          "name": "Jena Bishop",
+          "profileUrl": "https://pflmma.com/wt-fighter/jena-bishop",
+          "countryCode": null,
+          "birthDate": "1986-02-19",
+          "record": "11-3-0",
+          "style": "Grappler"
+        },
+        "blue": {
+          "name": "Borena Tsertsvadze",
+          "profileUrl": "https://pflmma.com/wt-fighter/borena-tsertsvadze",
+          "countryCode": null,
+          "birthDate": "1999-03-12",
+          "record": "6-2-0",
+          "style": null
+        },
+        "details": "Winner: Jena Bishop by Submission"
+      },
+      {
+        "id": "1400",
+        "order": 5,
+        "red": {
+          "name": "Omar El Dafrawy",
+          "profileUrl": "https://pflmma.com/wt-fighter/omar-eldafrawy",
+          "countryCode": null,
+          "birthDate": "1995-04-04",
+          "record": "16-6-0",
+          "style": null
+        },
+        "blue": {
+          "name": "James Vake",
+          "profileUrl": "https://pflmma.com/wt-fighter/james-vake",
+          "countryCode": "NZ",
+          "birthDate": "1994-05-30",
+          "record": "7-3-0",
+          "style": null
+        },
+        "details": "Winner: Omar El Dafrawy by KO"
+      },
+      {
+        "id": "1414",
+        "order": 4,
+        "red": {
+          "name": "Kana Watanabe",
+          "profileUrl": "https://pflmma.com/wt-fighter/kana-watanabe",
+          "countryCode": null,
+          "birthDate": "1988-08-20",
+          "record": "13-5-1",
+          "style": "Grappler"
+        },
+        "blue": {
+          "name": "Paulina Wisniewska",
+          "profileUrl": "https://pflmma.com/wt-fighter/paulina-wisniewska",
+          "countryCode": "PL",
+          "birthDate": "1998-11-26",
+          "record": "7-1-0",
+          "style": null
+        },
+        "details": "Winner: Paulina Wisniewska by TKO"
+      },
+      {
+        "id": "1413",
+        "order": 3,
+        "red": {
+          "name": "Alexandr Romanov",
+          "profileUrl": "https://pflmma.com/wt-fighter/alexandr-romanov",
+          "countryCode": null,
+          "birthDate": "1990-12-10",
+          "record": "20-4-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Rodrigo Nascimento",
+          "profileUrl": "https://pflmma.com/wt-fighter/rodrigo-nascimento",
+          "countryCode": "BR",
+          "birthDate": "1992-11-25",
+          "record": "12-5-0",
+          "style": null
+        },
+        "details": "Winner: Alexandr Romanov by Submission"
+      },
+      {
+        "id": "1409",
+        "order": 2,
+        "red": {
+          "name": "Biaggio Ali Walsh",
+          "profileUrl": "https://pflmma.com/wt-fighter/biaggio-aliwalsh",
+          "countryCode": "US",
+          "birthDate": "1998-09-03",
+          "record": "4-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Dash Harris",
+          "profileUrl": "https://pflmma.com/wt-fighter/dash-harris",
+          "countryCode": "US",
+          "birthDate": "2003-07-09",
+          "record": "2-1-0",
+          "style": null
+        },
+        "details": "Winner: Biaggio Ali Walsh by TKO"
+      },
+      {
+        "id": "1410",
+        "order": 1,
+        "red": {
+          "name": "Valanti Atsas",
+          "profileUrl": "https://pflmma.com/wt-fighter/valanti-atsas",
+          "countryCode": null,
+          "birthDate": "1991-10-01",
+          "record": "10-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Nate Jennerman",
+          "profileUrl": "https://pflmma.com/wt-fighter/nate-jennerman",
+          "countryCode": null,
+          "birthDate": "1993-01-11",
+          "record": "16-6-0",
+          "style": null
+        },
+        "details": "Winner: Valanti Atsas by Decision"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pfl-belfast-2026",
+    "date": "2026-04-16",
+    "summary": "PFL Belfast",
+    "location": "SSE Arena, Belfast, Northern Ireland",
+    "url": "https://pflmma.com/event/pfl-belfast-2026",
+    "start": "20260416T150000Z",
+    "end": "20260416T220000Z",
+    "status": "CONFIRMED",
+    "bouts": [
+      {
+        "id": "1394",
+        "order": 12,
+        "red": {
+          "name": "Darragh Kelly",
+          "profileUrl": "https://pflmma.com/wt-fighter/darragh-kelly",
+          "countryCode": "IE",
+          "birthDate": "1998-06-03",
+          "record": "9-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Jay-Jay Wilson",
+          "profileUrl": "https://pflmma.com/wt-fighter/jay-jay-wilson",
+          "countryCode": "NZ",
+          "birthDate": "1997-08-01",
+          "record": "12-2-0",
+          "style": null
+        },
+        "details": "Winner: Jay-Jay Wilson by KO"
+      },
+      {
+        "id": "1426",
+        "order": 11,
+        "red": {
+          "name": "Rhys McKee",
+          "profileUrl": "https://pflmma.com/wt-fighter/rhys-mckee",
+          "countryCode": null,
+          "birthDate": "1995-09-09",
+          "record": "15-7-1",
+          "style": null
+        },
+        "blue": {
+          "name": "Alex Lohoré",
+          "profileUrl": "https://pflmma.com/wt-fighter/alex-lohor%C3%A9",
+          "countryCode": "GB",
+          "birthDate": "1989-12-18",
+          "record": "26-12-0",
+          "style": null
+        },
+        "details": "Winner: Rhys McKee by Decision"
+      },
+      {
+        "id": "1408",
+        "order": 10,
+        "red": {
+          "name": "Dovlet Yagshimuradov",
+          "profileUrl": "https://pflmma.com/wt-fighter/dovlet-yagshimuradov",
+          "countryCode": "TM",
+          "birthDate": "1989-05-10",
+          "record": "26-9-1",
+          "style": null
+        },
+        "blue": {
+          "name": "Tyson Pedro",
+          "profileUrl": "https://pflmma.com/wt-fighter/tyson-pedro",
+          "countryCode": null,
+          "birthDate": "1991-09-16",
+          "record": "10-7-0",
+          "style": null
+        },
+        "details": "Winner: Dovlet Yagshimuradov by Decision"
+      },
+      {
+        "id": "1407",
+        "order": 9,
+        "red": {
+          "name": "Chris Mixan",
+          "profileUrl": "https://pflmma.com/wt-fighter/chris-mixan",
+          "countryCode": "UA",
+          "birthDate": "1998-11-25",
+          "record": "7-3-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Eoin Sheridan",
+          "profileUrl": "https://pflmma.com/wt-fighter/eoin-sheridan",
+          "countryCode": "IE",
+          "birthDate": "1994-09-05",
+          "record": "6-0-0",
+          "style": "Striker"
+        },
+        "details": "Winner: Eoin Sheridan by Decision"
+      },
+      {
+        "id": "1405",
+        "order": 8,
+        "red": {
+          "name": "Caolan Loughran",
+          "profileUrl": "https://pflmma.com/wt-fighter/caolan-loughran",
+          "countryCode": "IE",
+          "birthDate": "1996-05-17",
+          "record": "11-4-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Alan Philpott",
+          "profileUrl": "https://pflmma.com/wt-fighter/alan-philpott",
+          "countryCode": null,
+          "birthDate": "1992-09-21",
+          "record": "21-18-0",
+          "style": null
+        },
+        "details": "Winner: Caolan Loughran by Submission"
+      },
+      {
+        "id": "1427",
+        "order": 7,
+        "red": {
+          "name": "Omran Chaaban",
+          "profileUrl": "https://pflmma.com/wt-fighter/omran-chaaban",
+          "countryCode": "FI",
+          "birthDate": "2000-08-10",
+          "record": "10-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Chequina Noso Pedro",
+          "profileUrl": "https://pflmma.com/wt-fighter/chequina-nosopedro",
+          "countryCode": "AO",
+          "birthDate": "1993-12-31",
+          "record": "10-5-0",
+          "style": null
+        },
+        "details": "Winner: Omran Chaaban by TKO"
+      },
+      {
+        "id": "1403",
+        "order": 6,
+        "red": {
+          "name": "Ciaran Clarke",
+          "profileUrl": "https://pflmma.com/wt-fighter/ciaran-clarke",
+          "countryCode": "IE",
+          "birthDate": "1995-05-24",
+          "record": "10-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Dean Garnett",
+          "profileUrl": "https://pflmma.com/wt-fighter/dean-garnett",
+          "countryCode": "GB",
+          "birthDate": "1988-07-24",
+          "record": "15-3-1",
+          "style": null
+        },
+        "details": "Winner: Dean Garnett by KO"
+      },
+      {
+        "id": "1397",
+        "order": 5,
+        "red": {
+          "name": "Pedro Carvalho",
+          "profileUrl": "https://pflmma.com/wt-fighter/pedro-carvalho",
+          "countryCode": "PT",
+          "birthDate": "1995-08-05",
+          "record": "14-10-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Sergio Cossio",
+          "profileUrl": "https://pflmma.com/wt-fighter/sergio-cossio",
+          "countryCode": "MX",
+          "birthDate": "1990-11-07",
+          "record": "27-12-1",
+          "style": null
+        },
+        "details": "Winner: Pedro Carvalho by Decision"
+      },
+      {
+        "id": "1428",
+        "order": 4,
+        "red": {
+          "name": "David Martinez",
+          "profileUrl": "https://pflmma.com/wt-fighter/david-martinez",
+          "countryCode": null,
+          "birthDate": "1993-08-20",
+          "record": "17-6-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Giannis Bachar",
+          "profileUrl": "https://pflmma.com/wt-fighter/giannis-bachar",
+          "countryCode": null,
+          "birthDate": "1990-06-04",
+          "record": "9-4-0",
+          "style": null
+        },
+        "details": "Winner: David Martinez by Submission"
+      },
+      {
+        "id": "1412",
+        "order": 3,
+        "red": {
+          "name": "Sean Gauci",
+          "profileUrl": "https://pflmma.com/wt-fighter/sean-gauci",
+          "countryCode": "AU",
+          "birthDate": "1996-10-06",
+          "record": "12-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Liam Gittins",
+          "profileUrl": "https://pflmma.com/wt-fighter/liam-gittins",
+          "countryCode": "GB",
+          "birthDate": "1999-05-31",
+          "record": "13-6-0",
+          "style": null
+        },
+        "details": "Winner: Sean Gauci by Decision"
+      },
+      {
+        "id": "1418",
+        "order": 2,
+        "red": {
+          "name": "Eoghan Masoliver",
+          "profileUrl": "https://pflmma.com/wt-fighter/eoghan-masoliver",
+          "countryCode": "IE",
+          "birthDate": "2003-04-05",
+          "record": "2-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Shane Mullen",
+          "profileUrl": "https://pflmma.com/wt-fighter/shane-mullen",
+          "countryCode": "IE",
+          "birthDate": "1999-04-25",
+          "record": "1-1-0",
+          "style": null
+        },
+        "details": "Winner: Eoghan Masoliver by Submission"
+      },
+      {
+        "id": "1429",
+        "order": 1,
+        "red": {
+          "name": "Chelsea Hackett",
+          "profileUrl": "https://pflmma.com/wt-fighter/chelsea-hackett",
+          "countryCode": "AU",
+          "birthDate": "1999-10-28",
+          "record": "5-3-1",
+          "style": "Striker"
+        },
+        "blue": {
+          "name": "Andrea Vazquez",
+          "profileUrl": "https://pflmma.com/wt-fighter/andrea-vazquez",
+          "countryCode": null,
+          "birthDate": "1993-12-21",
+          "record": "8-4-0",
+          "style": null
+        },
+        "details": "Winner: Chelsea Hackett by Decision"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pfl-sioux-falls-2026",
+    "date": "2026-05-02",
+    "summary": "PFL Sioux Falls",
+    "location": "Sanford Pentagon, Sioux Falls, South Dakota",
+    "url": "https://pflmma.com/event/pfl-sioux-falls-2026",
+    "start": "20260502T190000Z",
+    "end": "20260503T010000Z",
+    "status": "CONFIRMED",
+    "bouts": [
+      {
+        "id": "1395",
+        "order": 12,
+        "red": {
+          "name": "Logan Storley",
+          "profileUrl": "https://pflmma.com/wt-fighter/logan-storley",
+          "countryCode": null,
+          "birthDate": "1992-09-07",
+          "record": "19-4-0",
+          "style": "Grappler"
+        },
+        "blue": {
+          "name": "Florim Zendeli",
+          "profileUrl": "https://pflmma.com/wt-fighter/florim-zendeli",
+          "countryCode": "AL",
+          "birthDate": "1998-09-16",
+          "record": "11-2-1",
+          "style": "Grappler"
+        },
+        "details": "Winner: Logan Storley by Decision"
+      },
+      {
+        "id": "1425",
+        "order": 11,
+        "red": {
+          "name": "Gadzhi Rabadanov",
+          "profileUrl": "https://pflmma.com/wt-fighter/gadzhi-rabadanov",
+          "countryCode": null,
+          "birthDate": "1993-06-30",
+          "record": "28-5-2",
+          "style": "Grappler"
+        },
+        "blue": {
+          "name": "Alex Chizov",
+          "profileUrl": "https://pflmma.com/wt-fighter/alex-chizov",
+          "countryCode": "LV",
+          "birthDate": "1997-12-03",
+          "record": "13-4-0",
+          "style": "Striker"
+        },
+        "details": "Winner: Gadzhi Rabadanov by Decision"
+      },
+      {
+        "id": "1419",
+        "order": 10,
+        "red": {
+          "name": "Simeon Powell",
+          "profileUrl": "https://pflmma.com/wt-fighter/simeon-powell",
+          "countryCode": null,
+          "birthDate": "1999-02-05",
+          "record": "13-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Emiliano Sordi",
+          "profileUrl": "https://pflmma.com/wt-fighter/emiliano-sordi",
+          "countryCode": null,
+          "birthDate": "1991-02-14",
+          "record": "23-12-1",
+          "style": null
+        },
+        "details": "Winner: Simeon Powell by TKO"
+      },
+      {
+        "id": "1439",
+        "order": 9,
+        "red": {
+          "name": "Renan Ferreira",
+          "profileUrl": "https://pflmma.com/wt-fighter/renan-ferreira",
+          "countryCode": null,
+          "birthDate": "1989-11-22",
+          "record": "13-6-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Sergey Bilostenniy",
+          "profileUrl": "https://pflmma.com/wt-fighter/sergey-bilostenniy",
+          "countryCode": "RU",
+          "birthDate": "1995-10-22",
+          "record": "15-4-0",
+          "style": null
+        },
+        "details": "Winner: Sergey Bilostenniy by TKO"
+      },
+      {
+        "id": "1440",
+        "order": 8,
+        "red": {
+          "name": "Magomed Magomedov",
+          "profileUrl": "https://pflmma.com/wt-fighter/magomed-magomedov",
+          "countryCode": "RU",
+          "birthDate": "1991-12-24",
+          "record": "22-5-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Leandro Higo",
+          "profileUrl": "https://pflmma.com/wt-fighter/leandro-higo",
+          "countryCode": null,
+          "birthDate": "1989-01-18",
+          "record": "23-8-0",
+          "style": null
+        },
+        "details": "Winner: Magomed Magomedov by Decision"
+      },
+      {
+        "id": "1447",
+        "order": 7,
+        "red": {
+          "name": "Rasul Magomedov",
+          "profileUrl": "https://pflmma.com/wt-fighter/rasul-magomedov",
+          "countryCode": "BH",
+          "birthDate": "1994-12-31",
+          "record": "10-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Rafael Xavier",
+          "profileUrl": "https://pflmma.com/wt-fighter/rafael-xavier",
+          "countryCode": null,
+          "birthDate": "1991-01-11",
+          "record": "15-9-0",
+          "style": null
+        },
+        "details": "Winner: Rasul Magomedov by Decision"
+      },
+      {
+        "id": "1396",
+        "order": 6,
+        "red": {
+          "name": "Sabrinna de Sousa",
+          "profileUrl": "https://pflmma.com/wt-fighter/sabrinna-desousa",
+          "countryCode": "BR",
+          "birthDate": "2000-11-01",
+          "record": "7-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Cheyanne Bowers",
+          "profileUrl": "https://pflmma.com/wt-fighter/cheyanne-bowers",
+          "countryCode": "US",
+          "birthDate": "1994-08-15",
+          "record": "8-3-0",
+          "style": null
+        },
+        "details": "Winner: Sabrinna de Sousa by Decision"
+      },
+      {
+        "id": "1448",
+        "order": 5,
+        "red": {
+          "name": "Humberto Bandenay",
+          "profileUrl": "https://pflmma.com/wt-fighter/humberto-bandenay",
+          "countryCode": null,
+          "birthDate": "1994-09-03",
+          "record": "27-9-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Sang Won Kim",
+          "profileUrl": "https://pflmma.com/wt-fighter/sang-wonkim",
+          "countryCode": null,
+          "birthDate": "1993-08-31",
+          "record": "15-6-1",
+          "style": null
+        },
+        "details": "Winner: Sang Won Kim by TKO"
+      },
+      {
+        "id": "1442",
+        "order": 4,
+        "red": {
+          "name": "Taila Santos",
+          "profileUrl": "https://pflmma.com/wt-fighter/taila-santos",
+          "countryCode": "BR",
+          "birthDate": "1993-06-21",
+          "record": "23-5-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Qihui Yan",
+          "profileUrl": "https://pflmma.com/wt-fighter/qihui-yan",
+          "countryCode": "CN",
+          "birthDate": "1996-09-30",
+          "record": "25-6-0",
+          "style": null
+        },
+        "details": "Winner: Taila Santos by TKO"
+      },
+      {
+        "id": "1423",
+        "order": 3,
+        "red": {
+          "name": "Angel Alvarez",
+          "profileUrl": "https://pflmma.com/wt-fighter/angel-alvarez",
+          "countryCode": "CU",
+          "birthDate": "1995-01-19",
+          "record": "11-3-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Bryce Logan",
+          "profileUrl": "https://pflmma.com/wt-fighter/bryce-logan",
+          "countryCode": null,
+          "birthDate": "1989-12-03",
+          "record": "13-10-0",
+          "style": null
+        },
+        "details": "Winner: Angel Alvarez by Decision"
+      },
+      {
+        "id": "1424",
+        "order": 2,
+        "red": {
+          "name": "Brett Bye",
+          "profileUrl": "https://pflmma.com/wt-fighter/brett-bye",
+          "countryCode": "US",
+          "birthDate": "1996-12-25",
+          "record": "4-3-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Taylor Michels",
+          "profileUrl": "https://pflmma.com/wt-fighter/taylor-michels",
+          "countryCode": null,
+          "birthDate": "1993-03-17",
+          "record": "1-1-0",
+          "style": null
+        },
+        "details": "Winner: Brett Bye by TKO"
+      },
+      {
+        "id": "1449",
+        "order": 1,
+        "red": {
+          "name": "Maxwell Djantou Nana",
+          "profileUrl": "https://pflmma.com/wt-fighter/maxwell-djantounana",
+          "countryCode": "CM",
+          "birthDate": "1991-01-18",
+          "record": "9-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Karl Williams",
+          "profileUrl": "https://pflmma.com/wt-fighter/karl-williams",
+          "countryCode": "US",
+          "birthDate": "1990-01-05",
+          "record": "10-6-0",
+          "style": null
+        },
+        "details": "Winner: Maxwell Djantou Nana by Decision"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pfl-brussels-2026",
+    "date": "2026-05-23",
+    "summary": "PFL Brussels 2026",
+    "location": "ING Arena, Brussels, Belgium",
+    "url": "https://pflmma.com/event/pfl-brussels-2026",
+    "start": "20260523T123000Z",
+    "end": "20260523T180000Z",
+    "status": "CONFIRMED",
+    "bouts": [
+      {
+        "id": "1401",
+        "order": 11,
+        "red": {
+          "name": "Patrick Habirora",
+          "profileUrl": "https://pflmma.com/wt-fighter/patrick-habirora",
+          "countryCode": "BE",
+          "birthDate": "2001-03-25",
+          "record": "9-0-0",
+          "style": "Striker"
+        },
+        "blue": {
+          "name": "Benson Henderson",
+          "profileUrl": "https://pflmma.com/wt-fighter/benson-henderson",
+          "countryCode": null,
+          "birthDate": "1983-11-15",
+          "record": "30-13-2",
+          "style": null
+        },
+        "details": "Winner: Patrick Habirora by KO"
+      },
+      {
+        "id": "1402",
+        "order": 10,
+        "red": {
+          "name": "Taylor Lapilus",
+          "profileUrl": "https://pflmma.com/wt-fighter/taylor-lapilus",
+          "countryCode": null,
+          "birthDate": "1992-04-07",
+          "record": "25-4-0",
+          "style": "All-rounder"
+        },
+        "blue": {
+          "name": "Jake Hadley",
+          "profileUrl": "https://pflmma.com/wt-fighter/jake-hadley",
+          "countryCode": null,
+          "birthDate": "1996-08-02",
+          "record": "12-6-0",
+          "style": "Grappler"
+        },
+        "details": "Winner: Taylor Lapilus by Decision"
+      },
+      {
+        "id": "1406",
+        "order": 9,
+        "red": {
+          "name": "Boris Atangana",
+          "profileUrl": "https://pflmma.com/wt-fighter/boris-atangana",
+          "countryCode": "BE",
+          "birthDate": "1999-04-30",
+          "record": "9-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Jared Gooden",
+          "profileUrl": "https://pflmma.com/wt-fighter/jared-gooden",
+          "countryCode": "US",
+          "birthDate": "1993-12-04",
+          "record": "23-12-0",
+          "style": null
+        },
+        "details": "Winner: Boris Atangana by KO"
+      },
+      {
+        "id": "1420",
+        "order": 8,
+        "red": {
+          "name": "Marcirley Alves",
+          "profileUrl": "https://pflmma.com/wt-fighter/marcirley-alves",
+          "countryCode": "BR",
+          "birthDate": "1999-07-21",
+          "record": "15-6-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Naoki Inoue",
+          "profileUrl": "https://pflmma.com/wt-fighter/naoki-inoue",
+          "countryCode": null,
+          "birthDate": "1997-06-13",
+          "record": "21-5-0",
+          "style": null
+        },
+        "details": "Winner: Naoki Inoue by Decision"
+      },
+      {
+        "id": "1421",
+        "order": 7,
+        "red": {
+          "name": "Asaël Adjoudj",
+          "profileUrl": "https://pflmma.com/wt-fighter/asael-adjoudj",
+          "countryCode": "DZ",
+          "birthDate": "1999-01-15",
+          "record": "11-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Keisuke Sasu",
+          "profileUrl": "https://pflmma.com/wt-fighter/keisuke-sasu",
+          "countryCode": null,
+          "birthDate": "1994-09-29",
+          "record": "14-5-1",
+          "style": null
+        },
+        "details": "Winner: Asaël Adjoudj by KO"
+      },
+      {
+        "id": "1415",
+        "order": 6,
+        "red": {
+          "name": "Baris Adiguzel",
+          "profileUrl": "https://pflmma.com/wt-fighter/baris-adiguzel",
+          "countryCode": "FR",
+          "birthDate": "1999-04-30",
+          "record": "10-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Gustavo Oliveira",
+          "profileUrl": "https://pflmma.com/wt-fighter/gustavo-oliveira",
+          "countryCode": "PT",
+          "birthDate": "1996-08-24",
+          "record": "13-2-0",
+          "style": null
+        },
+        "details": "Winner: Gustavo Oliveira by Submission"
+      },
+      {
+        "id": "1422",
+        "order": 5,
+        "red": {
+          "name": "Donegi Abena",
+          "profileUrl": "https://pflmma.com/wt-fighter/donegi-abena",
+          "countryCode": null,
+          "birthDate": "1998-02-22",
+          "record": "1-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Joe Schilling",
+          "profileUrl": "https://pflmma.com/wt-fighter/joe-schilling",
+          "countryCode": null,
+          "birthDate": "1984-01-12",
+          "record": "4-7-0",
+          "style": null
+        },
+        "details": "Winner: Donegi Abena by TKO"
+      },
+      {
+        "id": "1443",
+        "order": 4,
+        "red": {
+          "name": "Movsar Ibragimov",
+          "profileUrl": "https://pflmma.com/wt-fighter/movsar-ibragimov",
+          "countryCode": "BE",
+          "birthDate": "1999-05-04",
+          "record": "8-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Shane Campbell",
+          "profileUrl": "https://pflmma.com/wt-fighter/shane-campbell",
+          "countryCode": "GB",
+          "birthDate": "1988-01-20",
+          "record": "22-9-0",
+          "style": null
+        },
+        "details": "135lbs/61kg Bantamweight"
+      },
+      {
+        "id": "1446",
+        "order": 3,
+        "red": {
+          "name": "Khamzat Abaev",
+          "profileUrl": "https://pflmma.com/wt-fighter/khamzat-abaev",
+          "countryCode": null,
+          "birthDate": "1996-09-23",
+          "record": "6-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Luca Poclit",
+          "profileUrl": "https://pflmma.com/wt-fighter/luca-poclit",
+          "countryCode": "MD",
+          "birthDate": "1989-09-20",
+          "record": "10-3-0",
+          "style": null
+        },
+        "details": "Winner: Khamzat Abaev by KO"
+      },
+      {
+        "id": "1460",
+        "order": 2,
+        "red": {
+          "name": "Adam Meskini",
+          "profileUrl": "https://pflmma.com/wt-fighter/adam-meskini",
+          "countryCode": "MA",
+          "birthDate": "1996-07-28",
+          "record": "11-3-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Keweny Lopes",
+          "profileUrl": "https://pflmma.com/wt-fighter/keweny-lopes",
+          "countryCode": "BR",
+          "birthDate": "1995-07-25",
+          "record": "12-5-1",
+          "style": null
+        },
+        "details": "Winner: Adam Meskini by Decision"
+      },
+      {
+        "id": "1461",
+        "order": 1,
+        "red": {
+          "name": "Rustam Serbiev",
+          "profileUrl": "https://pflmma.com/wt-fighter/rustam-serbiev",
+          "countryCode": "RU",
+          "birthDate": "1998-03-28",
+          "record": "9-6-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Ashley Reece",
+          "profileUrl": "https://pflmma.com/wt-fighter/ashley-reece",
+          "countryCode": "GB",
+          "birthDate": "1988-09-07",
+          "record": "10-3-0",
+          "style": null
+        },
+        "details": "Winner: Ashley Reece by Decision"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pflmena-9",
+    "date": "2026-05-24",
+    "summary": "PFL MENA 9",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://pflmma.com/event/pflmena-9",
+    "start": null,
+    "end": null,
+    "status": "TENTATIVE",
+    "bouts": [
+      {
+        "id": "1451",
+        "order": 11,
+        "red": {
+          "name": "Mohammed Yahya",
+          "profileUrl": "https://pflmma.com/mena-fighter/mohammed-yahya",
+          "countryCode": "AE",
+          "birthDate": "1994-05-22",
+          "record": "12-7-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Mehdi Saadi",
+          "profileUrl": "https://pflmma.com/mena-fighter/mehdi-saadi-2",
+          "countryCode": "FR",
+          "birthDate": "1993-03-07",
+          "record": "6-2-0",
+          "style": null
+        },
+        "details": "Winner: Mehdi Saadi by Decision"
+      },
+      {
+        "id": "1452",
+        "order": 10,
+        "red": {
+          "name": "Salah Eddine Hamli",
+          "profileUrl": "https://pflmma.com/mena-fighter/salaheddine-hamli",
+          "countryCode": "MA",
+          "birthDate": "1998-05-17",
+          "record": "11-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Ylies Djiroun",
+          "profileUrl": "https://pflmma.com/mena-fighter/ylies-djiroun-2",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "16-6-0",
+          "style": null
+        },
+        "details": "Winner: Ylies Djiroun by TKO"
+      },
+      {
+        "id": "1453",
+        "order": 9,
+        "red": {
+          "name": "Hamza Kooheji",
+          "profileUrl": "https://pflmma.com/mena-fighter/hamza-kooheji",
+          "countryCode": "BH",
+          "birthDate": "1993-01-29",
+          "record": "15-4-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Taha Bendaoud",
+          "profileUrl": "https://pflmma.com/mena-fighter/taha-bendaoud",
+          "countryCode": "MA",
+          "birthDate": "1995-01-17",
+          "record": "5-2-0",
+          "style": null
+        },
+        "details": "Winner: Hamza Kooheji by Decision"
+      },
+      {
+        "id": "1467",
+        "order": 8,
+        "red": {
+          "name": "Zamzam Al-Hammadi",
+          "profileUrl": "https://pflmma.com/mena-fighter/zamzam-al-hammadi",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "1-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Abeer Mansour",
+          "profileUrl": "https://pflmma.com/mena-fighter/abeer-mansour",
+          "countryCode": "EG",
+          "birthDate": "2002-04-04",
+          "record": "2-2-0",
+          "style": null
+        },
+        "details": "Winner: Zamzam Al-Hammadi by Decision"
+      },
+      {
+        "id": "1454",
+        "order": 7,
+        "red": {
+          "name": "Mohammad Fahmi",
+          "profileUrl": "https://pflmma.com/mena-fighter/mohammad-fahmi",
+          "countryCode": "IQ",
+          "birthDate": "1995-07-30",
+          "record": "5-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Assem Ghanem",
+          "profileUrl": "https://pflmma.com/mena-fighter/assem-ghanem",
+          "countryCode": "EG",
+          "birthDate": "2001-04-16",
+          "record": "7-0-0",
+          "style": null
+        },
+        "details": "Winner: Mohammad Fahmi"
+      },
+      {
+        "id": "1455",
+        "order": 6,
+        "red": {
+          "name": "Ahmed El Sisy",
+          "profileUrl": "https://pflmma.com/mena-fighter/ahmed-elsisy",
+          "countryCode": "EG",
+          "birthDate": null,
+          "record": "8-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Harda Karim",
+          "profileUrl": "https://pflmma.com/mena-fighter/harda-karim",
+          "countryCode": "IQ",
+          "birthDate": "1996-03-25",
+          "record": "5-3-0",
+          "style": null
+        },
+        "details": "Winner: Ahmed El Sisy by Decision"
+      },
+      {
+        "id": "1456",
+        "order": 5,
+        "red": {
+          "name": "Georges Eid",
+          "profileUrl": "https://pflmma.com/mena-fighter/georges-eid",
+          "countryCode": "LB",
+          "birthDate": "1990-08-23",
+          "record": "11-6-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Hussein Fakher",
+          "profileUrl": "https://pflmma.com/mena-fighter/hussein-fakher",
+          "countryCode": "IQ",
+          "birthDate": "1991-02-24",
+          "record": "7-4-0",
+          "style": null
+        },
+        "details": "155lbs/70kg Lightweight · Quarterfinal"
+      },
+      {
+        "id": "1457",
+        "order": 4,
+        "red": {
+          "name": "Abdullah Saleem",
+          "profileUrl": "https://pflmma.com/mena-fighter/abdullah-saleem",
+          "countryCode": "KW",
+          "birthDate": null,
+          "record": "5-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Basel Shalaan",
+          "profileUrl": "https://pflmma.com/mena-fighter/basel-shalaan",
+          "countryCode": "EG",
+          "birthDate": "2002-08-03",
+          "record": "7-1-0",
+          "style": null
+        },
+        "details": "Winner: Basel Shalaan by Decision"
+      },
+      {
+        "id": "1458",
+        "order": 3,
+        "red": {
+          "name": "Hamad Marhoon",
+          "profileUrl": "https://pflmma.com/mena-fighter/hamad-marhoon",
+          "countryCode": "BH",
+          "birthDate": "2003-12-26",
+          "record": "1-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Saher Qasmieh",
+          "profileUrl": "https://pflmma.com/mena-fighter/saher-qasmieh-2",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "0-1-0",
+          "style": null
+        },
+        "details": "Winner: Saher Qasmieh by Decision"
+      },
+      {
+        "id": "1459",
+        "order": 2,
+        "red": {
+          "name": "Ahmed Albrahim",
+          "profileUrl": "https://pflmma.com/mena-fighter/ahmed-albrahim",
+          "countryCode": "SA",
+          "birthDate": "1996-09-17",
+          "record": "1-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Ibrahim Mahmoud",
+          "profileUrl": "https://pflmma.com/mena-fighter/ibrahim-mahmoud",
+          "countryCode": "EG",
+          "birthDate": "2007-05-14",
+          "record": "0-1-0",
+          "style": null
+        },
+        "details": "Winner: Ahmed Albrahim by TKO"
+      },
+      {
+        "id": "1471",
+        "order": 1,
+        "red": {
+          "name": "Butti Alameri",
+          "profileUrl": "https://pflmma.com/mena-fighter/butti-alameri",
+          "countryCode": null,
+          "birthDate": "2000-09-06",
+          "record": "9-4-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Hamada Osman",
+          "profileUrl": "https://pflmma.com/mena-fighter/hamada-osman",
+          "countryCode": null,
+          "birthDate": "1997-03-28",
+          "record": "3-1-0",
+          "style": null
+        },
+        "details": "145lbs/66kg Featherweight"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pfl-africa-nigeria",
+    "date": "2026-06-13",
+    "summary": "PFL Africa Nigeria",
+    "location": "Eko Convention Center, Lagos, Nigeria",
+    "url": "https://pflmma.com/event/pfl-africa-nigeria",
+    "start": "20260613T130000Z",
+    "end": "20260613T160000Z",
+    "status": "CONFIRMED",
+    "bouts": [
+      {
+        "id": "1444",
+        "order": 13,
+        "red": {
+          "name": "Wasi Adeshina",
+          "profileUrl": "https://pflmma.com/africa-fighter/wasi-adeshina",
+          "countryCode": "NG",
+          "birthDate": "1996-11-22",
+          "record": "10-3-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Ignacio Campos",
+          "profileUrl": "https://pflmma.com/africa-fighter/ignacio-campos",
+          "countryCode": "ES",
+          "birthDate": "1996-06-28",
+          "record": "8-2-0",
+          "style": "Grappler"
+        },
+        "details": "Winner: Ignacio Campos by Submission"
+      },
+      {
+        "id": "1445",
+        "order": 12,
+        "red": {
+          "name": "Patrick Ocheme",
+          "profileUrl": "https://pflmma.com/africa-fighter/patrick-ocheme",
+          "countryCode": "NG",
+          "birthDate": "1994-11-27",
+          "record": "9-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Octave Ayinda",
+          "profileUrl": "https://pflmma.com/africa-fighter/octave-ayinda",
+          "countryCode": "CM",
+          "birthDate": "1997-05-14",
+          "record": "6-2-0",
+          "style": null
+        },
+        "details": "Winner: Patrick Ocheme by KO"
+      },
+      {
+        "id": "1494",
+        "order": 11,
+        "red": {
+          "name": "Karim Henniene",
+          "profileUrl": "https://pflmma.com/africa-fighter/karim-henniene",
+          "countryCode": "DZ",
+          "birthDate": "1995-07-05",
+          "record": "7-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Thimna Mhlauli",
+          "profileUrl": "https://pflmma.com/africa-fighter/thimna-mhlauli",
+          "countryCode": "ZA",
+          "birthDate": null,
+          "record": "5-1-0",
+          "style": null
+        },
+        "details": "Winner: Karim Henniene by Submission"
+      },
+      {
+        "id": "1495",
+        "order": 10,
+        "red": {
+          "name": "Áureo Cruz",
+          "profileUrl": "https://pflmma.com/africa-fighter/aureo-cruz",
+          "countryCode": "AO",
+          "birthDate": null,
+          "record": "3-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Cornel Thompson",
+          "profileUrl": "https://pflmma.com/africa-fighter/cornel-thompson",
+          "countryCode": null,
+          "birthDate": "1995-03-01",
+          "record": "11-3-0",
+          "style": null
+        },
+        "details": "Winner: Cornel Thompson by Decision"
+      },
+      {
+        "id": "1496",
+        "order": 9,
+        "red": {
+          "name": "Yahaya Yahuza",
+          "profileUrl": "https://pflmma.com/africa-fighter/yahaya-yahuza",
+          "countryCode": null,
+          "birthDate": "2001-06-07",
+          "record": "8-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Jordan Fongno",
+          "profileUrl": "https://pflmma.com/africa-fighter/jordan-fongno",
+          "countryCode": null,
+          "birthDate": "2001-06-07",
+          "record": "5-1-0",
+          "style": null
+        },
+        "details": "Winner: Jordan Fongno by TKO"
+      },
+      {
+        "id": "1497",
+        "order": 8,
+        "red": {
+          "name": "Edson Machavane",
+          "profileUrl": "https://pflmma.com/africa-fighter/edson-machavane",
+          "countryCode": null,
+          "birthDate": "2001-06-07",
+          "record": "7-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Raphael Uchegbu",
+          "profileUrl": "https://pflmma.com/africa-fighter/raphael-uchegbu",
+          "countryCode": "GB",
+          "birthDate": null,
+          "record": "7-1-0",
+          "style": null
+        },
+        "details": "Winner: Raphael Uchegbu by Decision"
+      },
+      {
+        "id": "1498",
+        "order": 7,
+        "red": {
+          "name": "Juliet Ukah",
+          "profileUrl": "https://pflmma.com/africa-fighter/juliet-ukah",
+          "countryCode": "NG",
+          "birthDate": "1999-05-25",
+          "record": "9-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Elisandra Ferreira",
+          "profileUrl": "https://pflmma.com/africa-fighter/elisandra-ferreira",
+          "countryCode": null,
+          "birthDate": "2001-03-18",
+          "record": "10-2-0",
+          "style": null
+        },
+        "details": "Winner: Juliet Ukah by Submission"
+      },
+      {
+        "id": "1499",
+        "order": 6,
+        "red": {
+          "name": "Abderrahman Errachidy",
+          "profileUrl": "https://pflmma.com/africa-fighter/abderrahman-errachidy",
+          "countryCode": "MA",
+          "birthDate": "2001-02-03",
+          "record": "5-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Hussain Al Kurdi",
+          "profileUrl": "https://pflmma.com/africa-fighter/hussain-alkurdi",
+          "countryCode": null,
+          "birthDate": "2001-06-07",
+          "record": "3-0-0",
+          "style": null
+        },
+        "details": "Winner: Hussain Al Kurdi by Submission"
+      },
+      {
+        "id": "1500",
+        "order": 5,
+        "red": {
+          "name": "Alain Majorique",
+          "profileUrl": "https://pflmma.com/africa-fighter/alain-majorique",
+          "countryCode": "CM",
+          "birthDate": "1989-11-05",
+          "record": "6-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Dwight Joseph",
+          "profileUrl": "https://pflmma.com/africa-fighter/dwight-joseph",
+          "countryCode": "LR",
+          "birthDate": "1989-08-15",
+          "record": "16-3-1",
+          "style": null
+        },
+        "details": "Winner: Dwight Joseph by Decision"
+      },
+      {
+        "id": "1501",
+        "order": 4,
+        "red": {
+          "name": "Jean Do Santos",
+          "profileUrl": "https://pflmma.com/africa-fighter/jean-dosantos",
+          "countryCode": "BJ",
+          "birthDate": "2001-12-30",
+          "record": "9-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Demba Seck",
+          "profileUrl": "https://pflmma.com/africa-fighter/demba-seck",
+          "countryCode": null,
+          "birthDate": "1994-07-19",
+          "record": "11-3-0",
+          "style": null
+        },
+        "details": "Winner: Demba Seck by Decision"
+      },
+      {
+        "id": "1502",
+        "order": 3,
+        "red": {
+          "name": "Boule Godogo",
+          "profileUrl": "https://pflmma.com/africa-fighter/boule-godogo",
+          "countryCode": "AO",
+          "birthDate": null,
+          "record": "5-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Dauda Rajabu",
+          "profileUrl": "https://pflmma.com/africa-fighter/dauda-rajabu",
+          "countryCode": null,
+          "birthDate": "2001-06-07",
+          "record": "4-2-0",
+          "style": null
+        },
+        "details": "Winner: Boule Godogo by KO"
+      },
+      {
+        "id": "1503",
+        "order": 2,
+        "red": {
+          "name": "Styve Ngono",
+          "profileUrl": "https://pflmma.com/africa-fighter/styve-ngono",
+          "countryCode": "CM",
+          "birthDate": "1999-09-18",
+          "record": "8-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Richard Muzaan",
+          "profileUrl": "https://pflmma.com/africa-fighter/richard-muzaan",
+          "countryCode": null,
+          "birthDate": "2001-04-12",
+          "record": "6-4-1",
+          "style": null
+        },
+        "details": "Winner: Styve Ngono by Decision"
+      },
+      {
+        "id": "1464",
+        "order": 1,
+        "red": {
+          "name": "Miracle Chipito",
+          "profileUrl": "https://pflmma.com/africa-fighter/shelda-chipito"
+        },
+        "blue": {
+          "name": "Haidy Ahmed",
+          "profileUrl": "https://pflmma.com/africa-fighter/haidy-ahmed",
+          "countryCode": "EG",
+          "birthDate": null,
+          "record": "2-2-0",
+          "style": null
+        },
+        "details": "Winner: Miracle Chipito by Submission"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pfl-san-diego-2026",
+    "date": "2026-06-27",
+    "summary": "PFL San Diego",
+    "location": "Pechanga Arena San Diego – San Diego, Calif.",
+    "url": "https://pflmma.com/event/pfl-san-diego-2026",
+    "start": "20260627T200000Z",
+    "end": "20260628T010000Z",
+    "status": "CONFIRMED",
+    "bouts": [
+      {
+        "id": "1450",
+        "order": 9,
+        "red": {
+          "name": "AJ McKee",
+          "profileUrl": "https://pflmma.com/wt-fighter/aj-mckee",
+          "countryCode": null,
+          "birthDate": "1995-04-06",
+          "record": "25-2-0",
+          "style": "Striker"
+        },
+        "blue": {
+          "name": "Salamat Isbulaev",
+          "profileUrl": "https://pflmma.com/wt-fighter/salamat-isbulaev",
+          "countryCode": null,
+          "birthDate": "1996-12-07",
+          "record": "10-1-0",
+          "style": null
+        },
+        "details": "Winner: AJ McKee by Decision"
+      },
+      {
+        "id": "1462",
+        "order": 8,
+        "red": {
+          "name": "Liz Carmouche",
+          "profileUrl": "https://pflmma.com/wt-fighter/liz-carmouche",
+          "countryCode": "US",
+          "birthDate": "1984-02-17",
+          "record": "26-8-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Viviane Araujo",
+          "profileUrl": "https://pflmma.com/wt-fighter/viviane-araujo",
+          "countryCode": null,
+          "birthDate": "1986-11-20",
+          "record": "14-8-0",
+          "style": null
+        },
+        "details": "Winner: Liz Carmouche by Submission"
+      },
+      {
+        "id": "1465",
+        "order": 7,
+        "red": {
+          "name": "Alexander Shabliy",
+          "profileUrl": "https://pflmma.com/wt-fighter/alexander-shabliy",
+          "countryCode": null,
+          "birthDate": "1993-04-17",
+          "record": "25-4-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Alfie Davis",
+          "profileUrl": "https://pflmma.com/wt-fighter/alfie-davis",
+          "countryCode": "GB",
+          "birthDate": "1992-02-24",
+          "record": "20-7-1",
+          "style": null
+        },
+        "details": "Winner: Alexander Shabliy by Decision"
+      },
+      {
+        "id": "1468",
+        "order": 6,
+        "red": {
+          "name": "Abraham Bably",
+          "profileUrl": "https://pflmma.com/wt-fighter/abraham-bably",
+          "countryCode": "CI",
+          "birthDate": "1995-12-29",
+          "record": "8-3-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Rob Wilkinson",
+          "profileUrl": "https://pflmma.com/wt-fighter/rob-wilkinson",
+          "countryCode": "AU",
+          "birthDate": "1992-02-20",
+          "record": "20-5-0",
+          "style": null
+        },
+        "details": "Winner: Rob Wilkinson by TKO"
+      },
+      {
+        "id": "1466",
+        "order": 5,
+        "red": {
+          "name": "Khasan Magomedsharipov",
+          "profileUrl": "https://pflmma.com/wt-fighter/khasan-magomedsharipov",
+          "countryCode": null,
+          "birthDate": "2000-06-09",
+          "record": "11-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Josh Weems",
+          "profileUrl": "https://pflmma.com/wt-fighter/josh-weems",
+          "countryCode": "US",
+          "birthDate": "1994-05-04",
+          "record": "13-7-0",
+          "style": null
+        },
+        "details": "Winner: Khasan Magomedsharipov by Submission"
+      },
+      {
+        "id": "1469",
+        "order": 4,
+        "red": {
+          "name": "Ariane Lipski da Silva",
+          "profileUrl": "https://pflmma.com/wt-fighter/ariane-lipskidasilva",
+          "countryCode": null,
+          "birthDate": "1994-01-25",
+          "record": "18-12-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Jena Bishop",
+          "profileUrl": "https://pflmma.com/wt-fighter/jena-bishop",
+          "countryCode": null,
+          "birthDate": "1986-02-19",
+          "record": "11-3-0",
+          "style": "Grappler"
+        },
+        "details": "Winner: Jena Bishop by Submission"
+      },
+      {
+        "id": "1477",
+        "order": 3,
+        "red": {
+          "name": "Justin Wetzell",
+          "profileUrl": "https://pflmma.com/wt-fighter/justin-wetzell",
+          "countryCode": "US",
+          "birthDate": "1992-01-22",
+          "record": "12-4-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Sarvarjon Khamidov",
+          "profileUrl": "https://pflmma.com/wt-fighter/sarvarjon-khamidov",
+          "countryCode": "TJ",
+          "birthDate": "1997-04-12",
+          "record": "17-1-0",
+          "style": null
+        },
+        "details": "Winner: Sarvarjon Khamidov by Submission"
+      },
+      {
+        "id": "1479",
+        "order": 2,
+        "red": {
+          "name": "Shannon Clark",
+          "profileUrl": "https://pflmma.com/wt-fighter/shannon-clark",
+          "countryCode": "CA",
+          "birthDate": "1992-07-06",
+          "record": "8-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Ilara Joanne",
+          "profileUrl": "https://pflmma.com/wt-fighter/ilara-joanne",
+          "countryCode": null,
+          "birthDate": "1994-06-05",
+          "record": "13-11-0",
+          "style": null
+        },
+        "details": "Winner: Shannon Clark by TKO"
+      },
+      {
+        "id": "1480",
+        "order": 1,
+        "red": {
+          "name": "Cobey Fehr",
+          "profileUrl": "https://pflmma.com/wt-fighter/cobey-fehr",
+          "countryCode": null,
+          "birthDate": "1994-08-24",
+          "record": "4-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Daniel Bzdigian",
+          "profileUrl": "https://pflmma.com/wt-fighter/daniel-bzdigian",
+          "countryCode": "US",
+          "birthDate": "2003-05-25",
+          "record": "3-1-0",
+          "style": null
+        },
+        "details": "Winner: Cobey Fehr by Submission"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pflmena10",
+    "date": "2026-07-10",
+    "summary": "PFL MENA 10",
+    "location": "Riyadh, KSA",
+    "url": "https://pflmma.com/event/pflmena10",
+    "start": null,
+    "end": null,
+    "status": "TENTATIVE",
+    "bouts": [
+      {
+        "id": "1481",
+        "order": 10,
+        "red": {
+          "name": "Hattan Alsaif",
+          "profileUrl": "https://pflmma.com/mena-fighter/hattan-alsaif",
+          "countryCode": "SA",
+          "birthDate": "2001-11-23",
+          "record": "1-0-0",
+          "style": "Striker"
+        },
+        "blue": {
+          "name": "Dania Ouhachi",
+          "profileUrl": "https://pflmma.com/mena-fighter/dania-ouhachi",
+          "countryCode": "DZ",
+          "birthDate": "2003-12-23",
+          "record": "1-2-0",
+          "style": null
+        },
+        "details": "Winner: Hattan Alsaif by TKO"
+      },
+      {
+        "id": "1488",
+        "order": 9,
+        "red": {
+          "name": "Hassan Shaaban",
+          "profileUrl": "https://pflmma.com/mena-fighter/hassan-shaaban",
+          "countryCode": "LB",
+          "birthDate": "2001-09-18",
+          "record": "6-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Hazem Kayyali",
+          "profileUrl": "https://pflmma.com/mena-fighter/hazem-kayyali",
+          "countryCode": "JO",
+          "birthDate": "2000-05-14",
+          "record": "3-0-2",
+          "style": null
+        },
+        "details": "Winner: Hazem Kayyali by Decision"
+      },
+      {
+        "id": "1482",
+        "order": 8,
+        "red": {
+          "name": "Malik Basahel",
+          "profileUrl": "https://pflmma.com/mena-fighter/malik-basahel",
+          "countryCode": "SA",
+          "birthDate": "2001-11-14",
+          "record": "4-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Imad El Azami",
+          "profileUrl": "https://pflmma.com/mena-fighter/imad-elazami",
+          "countryCode": "MA",
+          "birthDate": "2004-05-03",
+          "record": "1-1-0",
+          "style": null
+        },
+        "details": "Winner: Malik Basahel by Decision"
+      },
+      {
+        "id": "1485",
+        "order": 7,
+        "red": {
+          "name": "Badreddine Diani",
+          "profileUrl": "https://pflmma.com/mena-fighter/badreddine-diani",
+          "countryCode": "MA",
+          "birthDate": "1996-10-29",
+          "record": "11-4-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Yousef Adel",
+          "profileUrl": "https://pflmma.com/mena-fighter/yousef-adel",
+          "countryCode": "EG",
+          "birthDate": "2001-12-03",
+          "record": "7-1-0",
+          "style": null
+        },
+        "details": "Winner: Badreddine Diani by Decision"
+      },
+      {
+        "id": "1487",
+        "order": 6,
+        "red": {
+          "name": "Wissame Akhmouch",
+          "profileUrl": "https://pflmma.com/mena-fighter/wissame-akhmouch",
+          "countryCode": "MA",
+          "birthDate": null,
+          "record": "7-3-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Abdelkrim Zouad",
+          "profileUrl": "https://pflmma.com/mena-fighter/abdelkrim-zouad",
+          "countryCode": "DZ",
+          "birthDate": null,
+          "record": "8-2-0",
+          "style": null
+        },
+        "details": "Winner: Abdelkrim Zouad by Submission"
+      },
+      {
+        "id": "1530",
+        "order": 5,
+        "red": {
+          "name": "Shadi Kabbani",
+          "profileUrl": "https://pflmma.com/mena-fighter/shadi-kabbani",
+          "countryCode": "SY",
+          "birthDate": null,
+          "record": "5-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Ahmed Tarek",
+          "profileUrl": "https://pflmma.com/mena-fighter/ahmed-tarek",
+          "countryCode": "EG",
+          "birthDate": "1999-09-01",
+          "record": "7-2-0",
+          "style": null
+        },
+        "details": "Winner: Shadi Kabbani by Decision"
+      },
+      {
+        "id": "1486",
+        "order": 4,
+        "red": {
+          "name": "Omar Hussein",
+          "profileUrl": "https://pflmma.com/mena-fighter/omar-hussein-2",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "12-7-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Ahmed Darwish",
+          "profileUrl": "https://pflmma.com/mena-fighter/ahmed-darwish",
+          "countryCode": "EG",
+          "birthDate": null,
+          "record": "6-2-0",
+          "style": null
+        },
+        "details": "Winner: Omar Hussein by TKO"
+      },
+      {
+        "id": "1484",
+        "order": 3,
+        "red": {
+          "name": "Elias Boudegzdame",
+          "profileUrl": "https://pflmma.com/mena-fighter/elias-boudegzdame",
+          "countryCode": "DZ",
+          "birthDate": "1993-10-16",
+          "record": "21-9-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Hussein Salem",
+          "profileUrl": "https://pflmma.com/mena-fighter/hussein-salem-2",
+          "countryCode": "IQ",
+          "birthDate": null,
+          "record": "12-7-0",
+          "style": null
+        },
+        "details": "Winner: Elias Boudegzdame by Submission"
+      },
+      {
+        "id": "1538",
+        "order": 2,
+        "red": {
+          "name": "Rayan Atmani",
+          "profileUrl": "https://pflmma.com/mena-fighter/rayan-atmani-2",
+          "countryCode": "DZ",
+          "birthDate": "1993-02-19",
+          "record": "6-3-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Eslam Mostafa",
+          "profileUrl": "https://pflmma.com/mena-fighter/eslam-mostafa",
+          "countryCode": "EG",
+          "birthDate": "1995-01-17",
+          "record": "5-3-0",
+          "style": null
+        },
+        "details": "Winner: Rayan Atmani by KO"
+      },
+      {
+        "id": "1539",
+        "order": 1,
+        "red": {
+          "name": "Saud Almolhem",
+          "profileUrl": "https://pflmma.com/mena-fighter/saud-almolhem",
+          "countryCode": "SA",
+          "birthDate": "2001-06-07",
+          "record": "2-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Abdelhalim Elhoufy",
+          "profileUrl": "https://pflmma.com/mena-fighter/abdelhalim-elhoufy",
+          "countryCode": "EG",
+          "birthDate": null,
+          "record": "2-2-0",
+          "style": null
+        },
+        "details": "Winner: Saud Almolhem by Decision"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pfl-austin-2026",
+    "date": "2026-07-18",
+    "summary": "PFL AUSTIN 2026",
+    "location": "Moody Center - Austin, Texas",
+    "url": "https://pflmma.com/event/pfl-austin-2026",
+    "start": "20260718T173000Z",
+    "end": "20260718T230000Z",
+    "status": "CONFIRMED",
+    "bouts": [
+      {
+        "id": "1463",
+        "order": 9,
+        "red": {
+          "name": "Johnny Eblen",
+          "profileUrl": "https://pflmma.com/wt-fighter/johnny-eblen",
+          "countryCode": null,
+          "birthDate": "1991-12-12",
+          "record": "18-1-0",
+          "style": "Grappler"
+        },
+        "blue": {
+          "name": "Impa Kasanganay",
+          "profileUrl": "https://pflmma.com/wt-fighter/impa-kasanganay",
+          "countryCode": "US",
+          "birthDate": "1994-01-16",
+          "record": "20-7-0",
+          "style": null
+        },
+        "details": "Winner: Johnny Eblen by KO"
+      },
+      {
+        "id": "1474",
+        "order": 8,
+        "red": {
+          "name": "Lewis McGrillen",
+          "profileUrl": "https://pflmma.com/wt-fighter/lewis-mcgrillen",
+          "countryCode": "GB",
+          "birthDate": "2000-10-23",
+          "record": "13-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Rafael do Nascimento",
+          "profileUrl": "https://pflmma.com/wt-fighter/rafael-donascimento",
+          "countryCode": "BR",
+          "birthDate": "1991-11-14",
+          "record": "13-3-0",
+          "style": null
+        },
+        "details": "Winner: Rafael do Nascimento by Submission"
+      },
+      {
+        "id": "1506",
+        "order": 7,
+        "red": {
+          "name": "Caolan Loughran",
+          "profileUrl": "https://pflmma.com/wt-fighter/caolan-loughran",
+          "countryCode": "IE",
+          "birthDate": "1996-05-17",
+          "record": "11-4-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Julio Arce",
+          "profileUrl": "https://pflmma.com/wt-fighter/julio-arce",
+          "countryCode": null,
+          "birthDate": "1989-10-26",
+          "record": "22-7-0",
+          "style": null
+        },
+        "details": "Winner: Julio Arce by Decision"
+      },
+      {
+        "id": "1505",
+        "order": 6,
+        "red": {
+          "name": "Jesus Pinedo",
+          "profileUrl": "https://pflmma.com/wt-fighter/jesus-pinedo",
+          "countryCode": "PE",
+          "birthDate": "1996-06-21",
+          "record": "26-7-1",
+          "style": null
+        },
+        "blue": {
+          "name": "Joseph Ruquet",
+          "profileUrl": "https://pflmma.com/wt-fighter/joseph-ruquet",
+          "countryCode": "US",
+          "birthDate": "1992-07-14",
+          "record": "10-5-0",
+          "style": null
+        },
+        "details": "Winner: Jesus Pinedo by TKO"
+      },
+      {
+        "id": "1510",
+        "order": 5,
+        "red": {
+          "name": "Biaggio Ali Walsh",
+          "profileUrl": "https://pflmma.com/wt-fighter/biaggio-aliwalsh",
+          "countryCode": "US",
+          "birthDate": "1998-09-03",
+          "record": "4-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Gamid Khizriev",
+          "profileUrl": "https://pflmma.com/wt-fighter/gamid-khizriev",
+          "countryCode": "RU",
+          "birthDate": "2000-07-26",
+          "record": "5-0-0",
+          "style": null
+        },
+        "details": "Winner: Gamid Khizriev by Submission"
+      },
+      {
+        "id": "1490",
+        "order": 4,
+        "red": {
+          "name": "Andrea Vazquez",
+          "profileUrl": "https://pflmma.com/wt-fighter/andrea-vazquez",
+          "countryCode": null,
+          "birthDate": "1993-12-21",
+          "record": "8-4-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Aleksandra Savicheva",
+          "profileUrl": "https://pflmma.com/wt-fighter/aleksandra-savicheva",
+          "countryCode": "RU",
+          "birthDate": "1998-05-28",
+          "record": "8-2-0",
+          "style": null
+        },
+        "details": "Winner: Aleksandra Savicheva by Decision"
+      },
+      {
+        "id": "1523",
+        "order": 3,
+        "red": {
+          "name": "Mia Grawe",
+          "profileUrl": "https://pflmma.com/wt-fighter/mia-grawe",
+          "countryCode": "US",
+          "birthDate": "2000-11-16",
+          "record": "3-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Ashley Thiner",
+          "profileUrl": "https://pflmma.com/wt-fighter/ashley-thiner",
+          "countryCode": null,
+          "birthDate": "1993-11-11",
+          "record": "3-0-0",
+          "style": null
+        },
+        "details": "Winner: Ashley Thiner by Decision"
+      },
+      {
+        "id": "1524",
+        "order": 2,
+        "red": {
+          "name": "Jackson Glass",
+          "profileUrl": "https://pflmma.com/wt-fighter/jackson-glass",
+          "countryCode": null,
+          "birthDate": "2007-08-20",
+          "record": "4-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Zak Flessas",
+          "profileUrl": "https://pflmma.com/wt-fighter/zak-flessas",
+          "countryCode": "US",
+          "birthDate": "1991-10-17",
+          "record": "2-2-0",
+          "style": null
+        },
+        "details": "Winner: Jackson Glass by TKO"
+      },
+      {
+        "id": "1525",
+        "order": 1,
+        "red": {
+          "name": "Victoria Alba",
+          "profileUrl": "https://pflmma.com/wt-fighter/victoria-alba",
+          "countryCode": null,
+          "birthDate": "1992-10-10",
+          "record": "7-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Borena Tsertsvadze",
+          "profileUrl": "https://pflmma.com/wt-fighter/borena-tsertsvadze",
+          "countryCode": null,
+          "birthDate": "1999-03-12",
+          "record": "6-2-0",
+          "style": null
+        },
+        "details": "Winner: Victoria Alba by TKO"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pfl-washington-dc-2026",
+    "date": "2026-07-25",
+    "summary": "PFL Washington DC",
+    "location": "CareFirst Arena, Washington D.C.",
+    "url": "https://pflmma.com/event/pfl-washington-dc-2026",
+    "start": "20260725T200000Z",
+    "end": "20260726T010000Z",
+    "status": "CONFIRMED",
+    "bouts": [
+      {
+        "id": "1470",
+        "order": 8,
+        "red": {
+          "name": "Thad Jean",
+          "profileUrl": "https://pflmma.com/wt-fighter/thad-jean",
+          "countryCode": "HT",
+          "birthDate": "1998-07-15",
+          "record": "12-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Ernesto Rodriguez",
+          "profileUrl": "https://pflmma.com/wt-fighter/ernesto-rodriguez",
+          "countryCode": "CU",
+          "birthDate": "1997-08-08",
+          "record": "11-2-0",
+          "style": null
+        },
+        "details": "Winner: Thad Jean by TKO"
+      },
+      {
+        "id": "1507",
+        "order": 7,
+        "red": {
+          "name": "Tyson Pedro",
+          "profileUrl": "https://pflmma.com/wt-fighter/tyson-pedro",
+          "countryCode": null,
+          "birthDate": "1991-09-16",
+          "record": "10-7-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Rafael Xavier",
+          "profileUrl": "https://pflmma.com/wt-fighter/rafael-xavier",
+          "countryCode": null,
+          "birthDate": "1991-01-11",
+          "record": "15-9-0",
+          "style": null
+        },
+        "details": "Winner: Rafael Xavier by TKO"
+      },
+      {
+        "id": "1520",
+        "order": 6,
+        "red": {
+          "name": "Sullivan Cauley",
+          "profileUrl": "https://pflmma.com/wt-fighter/sullivan-cauley",
+          "countryCode": null,
+          "birthDate": "1996-05-14",
+          "record": "8-3-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Rasul Magomedov",
+          "profileUrl": "https://pflmma.com/wt-fighter/rasul-magomedov",
+          "countryCode": "BH",
+          "birthDate": "1994-12-31",
+          "record": "10-0-0",
+          "style": null
+        },
+        "details": "Winner: Rasul Magomedov by Decision"
+      },
+      {
+        "id": "1527",
+        "order": 5,
+        "red": {
+          "name": "Eliezer Kubanza",
+          "profileUrl": "https://pflmma.com/wt-fighter/eliezer-kubanza",
+          "countryCode": null,
+          "birthDate": "1997-12-22",
+          "record": "9-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Chris Mixan",
+          "profileUrl": "https://pflmma.com/wt-fighter/chris-mixan",
+          "countryCode": "UA",
+          "birthDate": "1998-11-25",
+          "record": "7-3-0",
+          "style": null
+        },
+        "details": "Winner: Eliezer Kubanza by Submission"
+      },
+      {
+        "id": "1545",
+        "order": 4,
+        "red": {
+          "name": "Bryce Meredith",
+          "profileUrl": "https://pflmma.com/wt-fighter/bryce-meredith",
+          "countryCode": "US",
+          "birthDate": "1995-04-28",
+          "record": "8-1-0",
+          "style": "Grappler"
+        },
+        "blue": {
+          "name": "Michael Cyr",
+          "profileUrl": "https://pflmma.com/wt-fighter/michael-cyr",
+          "countryCode": "US",
+          "birthDate": "1995-04-21",
+          "record": "8-3-0",
+          "style": null
+        },
+        "details": "Winner: Bryce Meredith by Decision"
+      },
+      {
+        "id": "1522",
+        "order": 3,
+        "red": {
+          "name": "Nkosi Ndebele",
+          "profileUrl": "https://pflmma.com/wt-fighter/nkosi-ndebele",
+          "countryCode": "ZA",
+          "birthDate": "1995-03-21",
+          "record": "14-3-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Brandon Davis",
+          "profileUrl": "https://pflmma.com/wt-fighter/brandon-davis",
+          "countryCode": "US",
+          "birthDate": "1990-05-07",
+          "record": "14-12-0",
+          "style": null
+        },
+        "details": "Winner: Nkosi Ndebele by Decision"
+      },
+      {
+        "id": "1528",
+        "order": 2,
+        "red": {
+          "name": "Chad Yard",
+          "profileUrl": "https://pflmma.com/wt-fighter/chad-yard",
+          "countryCode": null,
+          "birthDate": "1995-08-01",
+          "record": null,
+          "style": null
+        },
+        "blue": {
+          "name": "Coby Bradford",
+          "profileUrl": "https://pflmma.com/wt-fighter/coby-bradford",
+          "countryCode": "US",
+          "birthDate": "1994-10-25",
+          "record": null,
+          "style": null
+        },
+        "details": "Winner: Coby Bradford by Submission"
+      },
+      {
+        "id": "1529",
+        "order": 1,
+        "red": {
+          "name": "Noah Hermosillo",
+          "profileUrl": "https://pflmma.com/wt-fighter/noah-hermosillo",
+          "countryCode": "US",
+          "birthDate": "1999-03-25",
+          "record": null,
+          "style": null
+        },
+        "blue": {
+          "name": "Jacob Pais",
+          "profileUrl": "https://pflmma.com/wt-fighter/jacob-pais",
+          "countryCode": "US",
+          "birthDate": "2003-02-08",
+          "record": "1-1-0",
+          "style": null
+        },
+        "details": "Winner: Noah Hermosillo by Decision"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pfl-ny-2026",
+    "date": "2026-07-31",
+    "summary": "PFL NEW YORK",
+    "location": "UBS Arena, Belmont Park, New York",
+    "url": "https://pflmma.com/event/pfl-ny-2026",
+    "start": "20260731T163000Z",
+    "end": "20260731T220000Z",
+    "status": "CONFIRMED",
+    "bouts": [
+      {
+        "id": "1475",
+        "order": 9,
+        "red": {
+          "name": "Usman Nurmagomedov",
+          "profileUrl": "https://pflmma.com/wt-fighter/usman-nurmagomedov",
+          "countryCode": "RU",
+          "birthDate": "1998-04-16",
+          "record": "22-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Archie Colgan",
+          "profileUrl": "https://pflmma.com/wt-fighter/archie-colgan",
+          "countryCode": null,
+          "birthDate": "1995-07-21",
+          "record": "13-1-0",
+          "style": null
+        },
+        "details": "Winner: Usman Nurmagomedov by KO"
+      },
+      {
+        "id": "1476",
+        "order": 8,
+        "red": {
+          "name": "Dakota Ditcheva",
+          "profileUrl": "https://pflmma.com/wt-fighter/dakota-ditcheva",
+          "countryCode": null,
+          "birthDate": "1998-07-24",
+          "record": "16-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Denise Kielholtz",
+          "profileUrl": "https://pflmma.com/wt-fighter/denise-kielholtz",
+          "countryCode": null,
+          "birthDate": "1989-03-29",
+          "record": "9-6-0",
+          "style": null
+        },
+        "details": "Winner: Dakota Ditcheva by Decision"
+      },
+      {
+        "id": "1504",
+        "order": 7,
+        "red": {
+          "name": "Amru Magomedov",
+          "profileUrl": "https://pflmma.com/wt-fighter/amru-magomedov",
+          "countryCode": null,
+          "birthDate": "1999-06-01",
+          "record": "11-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Angel Alvarez",
+          "profileUrl": "https://pflmma.com/wt-fighter/angel-alvarez",
+          "countryCode": "CU",
+          "birthDate": "1995-01-19",
+          "record": "11-3-0",
+          "style": null
+        },
+        "details": "Winner: Amru Magomedov by TKO"
+      },
+      {
+        "id": "1532",
+        "order": 6,
+        "red": {
+          "name": "Moustapha Diakhaté",
+          "profileUrl": "https://pflmma.com/wt-fighter/moustapha-diakhat",
+          "countryCode": "SN",
+          "birthDate": "2001-06-25",
+          "record": "6-0-1",
+          "style": null
+        },
+        "blue": {
+          "name": "Darryl Walker",
+          "profileUrl": "https://pflmma.com/wt-fighter/darryl-walker",
+          "countryCode": "US",
+          "birthDate": "1991-12-20",
+          "record": "2-1-0",
+          "style": null
+        },
+        "details": "Winner: Moustapha Diakhaté by TKO"
+      },
+      {
+        "id": "1517",
+        "order": 5,
+        "red": {
+          "name": "Raufeon Stots",
+          "profileUrl": "https://pflmma.com/wt-fighter/raufeon-stots",
+          "countryCode": null,
+          "birthDate": "1988-12-15",
+          "record": "21-5-0",
+          "style": "Grappler"
+        },
+        "blue": {
+          "name": "Lazaro Dayron",
+          "profileUrl": "https://pflmma.com/wt-fighter/lazaro-dayron",
+          "countryCode": "US",
+          "birthDate": "1992-07-24",
+          "record": "11-0-1",
+          "style": null
+        },
+        "details": "Winner: Lazaro Dayron by Decision"
+      },
+      {
+        "id": "1531",
+        "order": 4,
+        "red": {
+          "name": "Sean Gauci",
+          "profileUrl": "https://pflmma.com/wt-fighter/sean-gauci",
+          "countryCode": "AU",
+          "birthDate": "1996-10-06",
+          "record": "12-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Allan Begosso",
+          "profileUrl": "https://pflmma.com/wt-fighter/allan-begosso",
+          "countryCode": null,
+          "birthDate": "1995-11-22",
+          "record": "10-5-1",
+          "style": null
+        },
+        "details": "Winner: Sean Gauci by Decision"
+      },
+      {
+        "id": "1518",
+        "order": 3,
+        "red": {
+          "name": "Jonathan Piersma",
+          "profileUrl": "https://pflmma.com/wt-fighter/jonathan-piersma",
+          "countryCode": null,
+          "birthDate": "1996-03-02",
+          "record": "12-4-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Omar El Dafrawy",
+          "profileUrl": "https://pflmma.com/wt-fighter/omar-eldafrawy",
+          "countryCode": null,
+          "birthDate": "1995-04-04",
+          "record": "16-6-0",
+          "style": null
+        },
+        "details": "Winner: Omar El Dafrawy by Decision"
+      },
+      {
+        "id": "1508",
+        "order": 2,
+        "red": {
+          "name": "Montana De La Rosa",
+          "profileUrl": "https://pflmma.com/wt-fighter/montana-delarosa",
+          "countryCode": null,
+          "birthDate": "1995-02-13",
+          "record": "13-10-1",
+          "style": null
+        },
+        "blue": {
+          "name": "Tatiana Postarnakova",
+          "profileUrl": "https://pflmma.com/wt-fighter/tatiana-postarnakova",
+          "countryCode": null,
+          "birthDate": "2000-04-02",
+          "record": "8-0-0",
+          "style": null
+        },
+        "details": "Winner: Tatiana Postarnakova by Decision"
+      },
+      {
+        "id": "1559",
+        "order": 1,
+        "red": {
+          "name": "Chamy Delva",
+          "profileUrl": "https://pflmma.com/wt-fighter/chamy-delva",
+          "countryCode": "US",
+          "birthDate": "1981-01-30",
+          "record": "7-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Levan Khabalaev",
+          "profileUrl": "https://pflmma.com/wt-fighter/levan-khabalaev",
+          "countryCode": "GE",
+          "birthDate": "1999-03-09",
+          "record": "5-0-0",
+          "style": null
+        },
+        "details": "Winner: Levan Khabalaev by TKO"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pfl-charlotte",
+    "date": "2026-08-07",
+    "summary": "PFL Charlotte",
+    "location": "Bojangles Coliseum, Charlotte, North Carolina",
+    "url": "https://pflmma.com/event/pfl-charlotte",
+    "start": "20260807T183000Z",
+    "end": "20260808T010000Z",
+    "status": "CONFIRMED",
+    "bouts": [
+      {
+        "id": "1511",
+        "order": 13,
+        "red": {
+          "name": "Bryan Battle",
+          "profileUrl": "https://pflmma.com/wt-fighter/bryan-battle",
+          "countryCode": null,
+          "birthDate": "1994-09-20",
+          "record": "13-3-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Dalton Rosta",
+          "profileUrl": "https://pflmma.com/wt-fighter/dalton-rosta",
+          "countryCode": null,
+          "birthDate": "1995-11-08",
+          "record": "11-4-0",
+          "style": "Grappler"
+        },
+        "details": "Winner: Bryan Battle by Decision"
+      },
+      {
+        "id": "1560",
+        "order": 12,
+        "red": {
+          "name": "Dovlet Yagshimuradov",
+          "profileUrl": "https://pflmma.com/wt-fighter/dovlet-yagshimuradov",
+          "countryCode": "TM",
+          "birthDate": "1989-05-10",
+          "record": "26-9-1",
+          "style": null
+        },
+        "blue": {
+          "name": "Simeon Powell",
+          "profileUrl": "https://pflmma.com/wt-fighter/simeon-powell",
+          "countryCode": null,
+          "birthDate": "1999-02-05",
+          "record": "13-2-0",
+          "style": null
+        },
+        "details": "Winner: Simeon Powell by Decision"
+      },
+      {
+        "id": "1534",
+        "order": 11,
+        "red": {
+          "name": "Josh Silveira",
+          "profileUrl": "https://pflmma.com/wt-fighter/josh-silveira",
+          "countryCode": null,
+          "birthDate": "1992-12-24",
+          "record": "15-6-0",
+          "style": "Grappler"
+        },
+        "blue": {
+          "name": "Aaron Jeffery",
+          "profileUrl": "https://pflmma.com/wt-fighter/aaron-jeffery",
+          "countryCode": null,
+          "birthDate": "1992-11-13",
+          "record": "17-6-0",
+          "style": null
+        },
+        "details": "Winner: Aaron Jeffery by Decision"
+      },
+      {
+        "id": "1555",
+        "order": 10,
+        "red": {
+          "name": "Lewis McGrillen",
+          "profileUrl": "https://pflmma.com/wt-fighter/lewis-mcgrillen",
+          "countryCode": "GB",
+          "birthDate": "2000-10-23",
+          "record": "13-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Brandon Lewis",
+          "profileUrl": "https://pflmma.com/wt-fighter/brandon-lewis",
+          "countryCode": null,
+          "birthDate": "1997-08-01",
+          "record": "7-4-0",
+          "style": null
+        },
+        "details": "Winner: Lewis McGrillen by Decision"
+      },
+      {
+        "id": "1535",
+        "order": 9,
+        "red": {
+          "name": "Josh Fremd",
+          "profileUrl": "https://pflmma.com/wt-fighter/josh-fremd",
+          "countryCode": null,
+          "birthDate": "1994-01-14",
+          "record": "13-6-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Jhony Gregory",
+          "profileUrl": "https://pflmma.com/wt-fighter/jhony-gregory",
+          "countryCode": "BR",
+          "birthDate": "1994-01-20",
+          "record": "11-6-0",
+          "style": null
+        },
+        "details": "Winner: Josh Fremd by TKO"
+      },
+      {
+        "id": "1552",
+        "order": 8,
+        "red": {
+          "name": "Denis Goltsov",
+          "profileUrl": "https://pflmma.com/wt-fighter/denis-goltsov",
+          "countryCode": "RU",
+          "birthDate": "1990-06-09",
+          "record": "37-9-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Hasan Mezhiev",
+          "profileUrl": "https://pflmma.com/wt-fighter/hasan-mezhiev",
+          "countryCode": "LV",
+          "birthDate": "1992-07-24",
+          "record": "14-1-0",
+          "style": null
+        },
+        "details": "Winner: Denis Goltsov by TKO"
+      },
+      {
+        "id": "1540",
+        "order": 7,
+        "red": {
+          "name": "Cheyden Leialoha",
+          "profileUrl": "https://pflmma.com/wt-fighter/cheyden-leialoha",
+          "countryCode": null,
+          "birthDate": "1994-03-14",
+          "record": "12-3-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Robert Ring",
+          "profileUrl": "https://pflmma.com/wt-fighter/robert-ring",
+          "countryCode": null,
+          "birthDate": "2000-07-13",
+          "record": "9-2-0",
+          "style": null
+        },
+        "details": "Winner: Cheyden Leialoha by Decision"
+      },
+      {
+        "id": "1547",
+        "order": 6,
+        "red": {
+          "name": "Cheyanne Bowers",
+          "profileUrl": "https://pflmma.com/wt-fighter/cheyanne-bowers",
+          "countryCode": "US",
+          "birthDate": "1994-08-15",
+          "record": "8-3-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Elora Dana",
+          "profileUrl": "https://pflmma.com/wt-fighter/elora-dana",
+          "countryCode": "BR",
+          "birthDate": "1993-06-22",
+          "record": "8-3-0",
+          "style": null
+        },
+        "details": "Winner: Cheyanne Bowers by Submission"
+      },
+      {
+        "id": "1553",
+        "order": 5,
+        "red": {
+          "name": "Michael Boylan",
+          "profileUrl": "https://pflmma.com/wt-fighter/michael-boylan",
+          "countryCode": "US",
+          "birthDate": "2001-03-20",
+          "record": "6-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Landry Ward",
+          "profileUrl": "https://pflmma.com/wt-fighter/landry-ward",
+          "countryCode": "US",
+          "birthDate": "1996-12-08",
+          "record": "11-3-0",
+          "style": null
+        },
+        "details": "Winner: Landry Ward by Decision"
+      },
+      {
+        "id": "1556",
+        "order": 4,
+        "red": {
+          "name": "Valentin Moldavsky",
+          "profileUrl": "https://pflmma.com/wt-fighter/valentin-moldavsky",
+          "countryCode": null,
+          "birthDate": "1992-02-05",
+          "record": "14-5-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Bruno Cappelozza",
+          "profileUrl": "https://pflmma.com/wt-fighter/bruno-cappelozza",
+          "countryCode": null,
+          "birthDate": "1989-05-18",
+          "record": "16-7-0",
+          "style": null
+        },
+        "details": "Winner: Bruno Cappelozza by Decision"
+      },
+      {
+        "id": "1550",
+        "order": 3,
+        "red": {
+          "name": "Jonathan Martin",
+          "profileUrl": "https://pflmma.com/wt-fighter/jonathan-martin",
+          "countryCode": null,
+          "birthDate": "1996-06-28",
+          "record": "9-3-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Wilson Lopshire",
+          "profileUrl": "https://pflmma.com/wt-fighter/wilson-lopshire",
+          "countryCode": null,
+          "birthDate": "1998-12-24",
+          "record": "7-1-0",
+          "style": null
+        },
+        "details": "Winner: Jonathan Martin by Decision"
+      },
+      {
+        "id": "1548",
+        "order": 2,
+        "red": {
+          "name": "Eduardo Neves",
+          "profileUrl": "https://pflmma.com/wt-fighter/eduardo-neves",
+          "countryCode": "BR",
+          "birthDate": "2000-03-15",
+          "record": "9-4-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Maxwell Djantou Nana",
+          "profileUrl": "https://pflmma.com/wt-fighter/maxwell-djantounana",
+          "countryCode": "CM",
+          "birthDate": "1991-01-18",
+          "record": "9-2-0",
+          "style": null
+        },
+        "details": "Winner: Maxwell Djantou Nana by TKO"
+      },
+      {
+        "id": "1536",
+        "order": 1,
+        "red": {
+          "name": "Trukon Carson",
+          "profileUrl": "https://pflmma.com/wt-fighter/trukon-carson",
+          "countryCode": "US",
+          "birthDate": "1995-04-12",
+          "record": "6-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Trey Waters",
+          "profileUrl": "https://pflmma.com/wt-fighter/trey-waters",
+          "countryCode": null,
+          "birthDate": "1995-02-20",
+          "record": "10-2-0",
+          "style": null
+        },
+        "details": "Winner: Trey Waters by TKO"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pfl-tampa",
+    "date": "2026-08-22",
+    "summary": "PFL Tampa",
+    "location": "Benchmark International Arena, Tampa, FL",
+    "url": "https://pflmma.com/event/pfl-tampa",
+    "start": "20260822T173000Z",
+    "end": "20260823T000000Z",
+    "status": "CONFIRMED",
+    "bouts": [
+      {
+        "id": "1514",
+        "order": 11,
+        "red": {
+          "name": "Cris Cyborg",
+          "profileUrl": "https://pflmma.com/wt-fighter/cris-cyborg",
+          "countryCode": "BR",
+          "birthDate": "1985-07-08",
+          "record": "30-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Ketlen Vieira",
+          "profileUrl": "https://pflmma.com/wt-fighter/ketlen-vieira",
+          "countryCode": null,
+          "birthDate": "1991-08-25",
+          "record": null,
+          "style": null
+        },
+        "details": "Winner: Cris Cyborg by Decision"
+      },
+      {
+        "id": "1537",
+        "order": 10,
+        "red": {
+          "name": "Gadzhi Rabadanov",
+          "profileUrl": "https://pflmma.com/wt-fighter/gadzhi-rabadanov",
+          "countryCode": null,
+          "birthDate": "1993-06-30",
+          "record": "28-5-2",
+          "style": "Grappler"
+        },
+        "blue": {
+          "name": "Tracy Reeder",
+          "profileUrl": "https://pflmma.com/wt-fighter/tracy-reeder",
+          "countryCode": "US",
+          "birthDate": "1999-04-12",
+          "record": "12-6-0",
+          "style": null
+        },
+        "details": "Winner: Gadzhi Rabadanov by TKO"
+      },
+      {
+        "id": "1544",
+        "order": 9,
+        "red": {
+          "name": "Taila Santos",
+          "profileUrl": "https://pflmma.com/wt-fighter/taila-santos",
+          "countryCode": "BR",
+          "birthDate": "1993-06-21",
+          "record": "23-5-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Sabrinna de Sousa",
+          "profileUrl": "https://pflmma.com/wt-fighter/sabrinna-desousa",
+          "countryCode": "BR",
+          "birthDate": "2000-11-01",
+          "record": "7-0-0",
+          "style": null
+        },
+        "details": "Winner: Sabrinna de Sousa by Decision"
+      },
+      {
+        "id": "1542",
+        "order": 8,
+        "red": {
+          "name": "Luke Trainer",
+          "profileUrl": "https://pflmma.com/wt-fighter/luke-trainer",
+          "countryCode": "GB",
+          "birthDate": "1996-02-26",
+          "record": "11-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Roland Dunlap",
+          "profileUrl": "https://pflmma.com/wt-fighter/roland-dunlap",
+          "countryCode": "US",
+          "birthDate": "1992-12-07",
+          "record": "7-1-0",
+          "style": null
+        },
+        "details": "Winner: Luke Trainer by TKO"
+      },
+      {
+        "id": "1541",
+        "order": 7,
+        "red": {
+          "name": "Marcirley Alves",
+          "profileUrl": "https://pflmma.com/wt-fighter/marcirley-alves",
+          "countryCode": "BR",
+          "birthDate": "1999-07-21",
+          "record": "15-6-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Nkosi Ndebele",
+          "profileUrl": "https://pflmma.com/wt-fighter/nkosi-ndebele",
+          "countryCode": "ZA",
+          "birthDate": "1995-03-21",
+          "record": "14-3-0",
+          "style": null
+        },
+        "details": "Winner: Nkosi Ndebele by Decision"
+      },
+      {
+        "id": "1543",
+        "order": 6,
+        "red": {
+          "name": "Magomed Magomedov",
+          "profileUrl": "https://pflmma.com/wt-fighter/magomed-magomedov",
+          "countryCode": "RU",
+          "birthDate": "1991-12-24",
+          "record": "22-5-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Daniel Marcos",
+          "profileUrl": "https://pflmma.com/wt-fighter/daniel-marcos",
+          "countryCode": null,
+          "birthDate": "1993-03-06",
+          "record": "18-1-0",
+          "style": null
+        },
+        "details": "Winner: Daniel Marcos by TKO"
+      },
+      {
+        "id": "1549",
+        "order": 5,
+        "red": {
+          "name": "Movsar Ibragimov",
+          "profileUrl": "https://pflmma.com/wt-fighter/movsar-ibragimov",
+          "countryCode": "BE",
+          "birthDate": "1999-05-04",
+          "record": "8-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Javid Basharat",
+          "profileUrl": "https://pflmma.com/wt-fighter/javid-basharat",
+          "countryCode": null,
+          "birthDate": "1995-09-06",
+          "record": "16-2-0",
+          "style": null
+        },
+        "details": "Winner: Javid Basharat by Decision"
+      },
+      {
+        "id": "1557",
+        "order": 4,
+        "red": {
+          "name": "Dakota Bush",
+          "profileUrl": "https://pflmma.com/wt-fighter/dakota-bush",
+          "countryCode": "US",
+          "birthDate": "1994-06-08",
+          "record": "17-4-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Morquez Forest",
+          "profileUrl": "https://pflmma.com/wt-fighter/morquez-forest",
+          "countryCode": "US",
+          "birthDate": "1993-07-07",
+          "record": "8-2-0",
+          "style": null
+        },
+        "details": "Winner: Dakota Bush by Decision"
+      },
+      {
+        "id": "1551",
+        "order": 3,
+        "red": {
+          "name": "Natan Schulte",
+          "profileUrl": "https://pflmma.com/wt-fighter/natan-schulte",
+          "countryCode": null,
+          "birthDate": "1992-02-19",
+          "record": "26-6-1",
+          "style": null
+        },
+        "blue": {
+          "name": "Artur Zaynukov",
+          "profileUrl": "https://pflmma.com/wt-fighter/makkasharip-zaynukov"
+        },
+        "details": "Winner: Natan Schulte by Decision"
+      },
+      {
+        "id": "1554",
+        "order": 2,
+        "red": {
+          "name": "Gino Van Steenis",
+          "profileUrl": "https://pflmma.com/wt-fighter/gino-vansteenis",
+          "countryCode": null,
+          "birthDate": "1998-02-14",
+          "record": "9-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Robert Watley",
+          "profileUrl": "https://pflmma.com/wt-fighter/robert-watley",
+          "countryCode": "US",
+          "birthDate": "1989-08-21",
+          "record": "16-5-0",
+          "style": null
+        },
+        "details": "Winner: Gino Van Steenis by Decision"
+      },
+      {
+        "id": "1558",
+        "order": 1,
+        "red": {
+          "name": "Eoin Sheridan",
+          "profileUrl": "https://pflmma.com/wt-fighter/eoin-sheridan",
+          "countryCode": "IE",
+          "birthDate": "1994-09-05",
+          "record": "6-0-0",
+          "style": "Striker"
+        },
+        "blue": {
+          "name": "James Vake",
+          "profileUrl": "https://pflmma.com/wt-fighter/james-vake",
+          "countryCode": "NZ",
+          "birthDate": "1994-05-30",
+          "record": "7-3-0",
+          "style": null
+        },
+        "details": "Winner: Eoin Sheridan by Decision"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pflmena11",
+    "date": "2026-10-02",
+    "summary": "PFL MENA 11",
+    "location": "Riyadh, KSA",
+    "url": "https://pflmma.com/event/pflmena11",
+    "start": null,
+    "end": null,
+    "status": "TENTATIVE",
+    "bouts": [
+      {
+        "id": "1574",
+        "order": 6,
+        "red": {
+          "name": "Badreddine Diani",
+          "profileUrl": "https://pflmma.com/mena-fighter/badreddine-diani",
+          "countryCode": "MA",
+          "birthDate": "1996-10-29",
+          "record": "11-4-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Hazem Kayyali",
+          "profileUrl": "https://pflmma.com/mena-fighter/hazem-kayyali",
+          "countryCode": "JO",
+          "birthDate": "2000-05-14",
+          "record": "3-0-2",
+          "style": null
+        },
+        "details": "170lbs/77kg Welterweight · Semifinal"
+      },
+      {
+        "id": "1575",
+        "order": 5,
+        "red": {
+          "name": "Hamza Kooheji",
+          "profileUrl": "https://pflmma.com/mena-fighter/hamza-kooheji",
+          "countryCode": "BH",
+          "birthDate": "1993-01-29",
+          "record": "15-4-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Elias Boudegzdame",
+          "profileUrl": "https://pflmma.com/mena-fighter/elias-boudegzdame",
+          "countryCode": "DZ",
+          "birthDate": "1993-10-16",
+          "record": "21-9-0",
+          "style": null
+        },
+        "details": "145lbs/66kg Featherweight · Semifinal"
+      },
+      {
+        "id": "1576",
+        "order": 4,
+        "red": {
+          "name": "Ylies Djiroun",
+          "profileUrl": "https://pflmma.com/mena-fighter/ylies-djiroun-2",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "16-6-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Basel Shalaan",
+          "profileUrl": "https://pflmma.com/mena-fighter/basel-shalaan",
+          "countryCode": "EG",
+          "birthDate": "2002-08-03",
+          "record": "7-1-0",
+          "style": null
+        },
+        "details": "155lbs/70kg Lightweight · Semifinal"
+      },
+      {
+        "id": "1577",
+        "order": 3,
+        "red": {
+          "name": "Omar Hussein",
+          "profileUrl": "https://pflmma.com/mena-fighter/omar-hussein-2",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "12-7-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Abdelkrim Zouad",
+          "profileUrl": "https://pflmma.com/mena-fighter/abdelkrim-zouad",
+          "countryCode": "DZ",
+          "birthDate": null,
+          "record": "8-2-0",
+          "style": null
+        },
+        "details": "170lbs/77kg Welterweight · Semifinal"
+      },
+      {
+        "id": "1578",
+        "order": 2,
+        "red": {
+          "name": "Mehdi Saadi",
+          "profileUrl": "https://pflmma.com/mena-fighter/mehdi-saadi-2",
+          "countryCode": "FR",
+          "birthDate": "1993-03-07",
+          "record": "6-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Shadi Kabbani",
+          "profileUrl": "https://pflmma.com/mena-fighter/shadi-kabbani",
+          "countryCode": "SY",
+          "birthDate": null,
+          "record": "5-0-0",
+          "style": null
+        },
+        "details": "145lbs/66kg Featherweight · Semifinal"
+      },
+      {
+        "id": "1579",
+        "order": 1,
+        "red": {
+          "name": "Mohammad Fahmi",
+          "profileUrl": "https://pflmma.com/mena-fighter/mohammad-fahmi",
+          "countryCode": "IQ",
+          "birthDate": "1995-07-30",
+          "record": "5-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Ahmed El Sisy",
+          "profileUrl": "https://pflmma.com/mena-fighter/ahmed-elsisy",
+          "countryCode": "EG",
+          "birthDate": null,
+          "record": "8-2-0",
+          "style": null
+        },
+        "details": "155lbs/70kg Lightweight · Semifinal"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pfl-morocco",
+    "date": "2026-10-10",
+    "summary": "PFL Africa Morocco",
+    "location": "CASABLANCA",
+    "url": "https://pflmma.com/event/pfl-morocco",
+    "start": null,
+    "end": null,
+    "status": "TENTATIVE",
+    "bouts": [
+      {
+        "id": "1562",
+        "order": 7,
+        "red": {
+          "name": "Abdoulaye Kane",
+          "profileUrl": "https://pflmma.com/africa-fighter/abdoulaye-kane",
+          "countryCode": "SN",
+          "birthDate": "1998-08-14",
+          "record": "5-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Badr Medkouri",
+          "profileUrl": "https://pflmma.com/africa-fighter/badr-medkouri",
+          "countryCode": "FR",
+          "birthDate": "1993-12-04",
+          "record": "7-2-0",
+          "style": null
+        },
+        "details": "265lbs/120kg Heavyweight"
+      },
+      {
+        "id": "1563",
+        "order": 6,
+        "red": {
+          "name": "Karim Henniene",
+          "profileUrl": "https://pflmma.com/africa-fighter/karim-henniene",
+          "countryCode": "DZ",
+          "birthDate": "1995-07-05",
+          "record": "7-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Raphael Uchegbu",
+          "profileUrl": "https://pflmma.com/africa-fighter/raphael-uchegbu",
+          "countryCode": "GB",
+          "birthDate": null,
+          "record": "7-1-0",
+          "style": null
+        },
+        "details": "135lbs/61kg Bantamweight · Semifinal"
+      },
+      {
+        "id": "1564",
+        "order": 5,
+        "red": {
+          "name": "Shido Boris Esperanca",
+          "profileUrl": "https://pflmma.com/africa-fighter/shido-borisesperanca",
+          "countryCode": "AO",
+          "birthDate": "1994-12-22",
+          "record": "12-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Peace Nguphane",
+          "profileUrl": "https://pflmma.com/africa-fighter/peace-nguphane",
+          "countryCode": "ZA",
+          "birthDate": null,
+          "record": "10-3-0",
+          "style": null
+        },
+        "details": "170lbs/77kg Welterweight · Semifinal"
+      },
+      {
+        "id": "1565",
+        "order": 4,
+        "red": {
+          "name": "Patrick Ocheme",
+          "profileUrl": "https://pflmma.com/africa-fighter/patrick-ocheme",
+          "countryCode": "NG",
+          "birthDate": "1994-11-27",
+          "record": "9-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Cornel Thompson",
+          "profileUrl": "https://pflmma.com/africa-fighter/cornel-thompson",
+          "countryCode": null,
+          "birthDate": "1995-03-01",
+          "record": "11-3-0",
+          "style": null
+        },
+        "details": "155lbs/70kg Lightweight · Semifinal"
+      },
+      {
+        "id": "1566",
+        "order": 3,
+        "red": {
+          "name": "Rivaldo Pereira",
+          "profileUrl": "https://pflmma.com/africa-fighter/rivaldo-pereira",
+          "countryCode": "LU",
+          "birthDate": "1997-05-20",
+          "record": "3-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "David Samuel",
+          "profileUrl": "https://pflmma.com/africa-fighter/david-samuel",
+          "countryCode": "RU",
+          "birthDate": null,
+          "record": "6-0-0",
+          "style": null
+        },
+        "details": "170lbs/77kg Welterweight · Semifinal"
+      },
+      {
+        "id": "1567",
+        "order": 2,
+        "red": {
+          "name": "Demba Seck",
+          "profileUrl": "https://pflmma.com/africa-fighter/demba-seck",
+          "countryCode": null,
+          "birthDate": "1994-07-19",
+          "record": "11-3-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Hussain Al Kurdi",
+          "profileUrl": "https://pflmma.com/africa-fighter/hussain-alkurdi",
+          "countryCode": null,
+          "birthDate": "2001-06-07",
+          "record": "3-0-0",
+          "style": null
+        },
+        "details": "155lbs/70kg Lightweight · Semifinal"
+      },
+      {
+        "id": "1568",
+        "order": 1,
+        "red": {
+          "name": "Dwight Joseph",
+          "profileUrl": "https://pflmma.com/africa-fighter/dwight-joseph",
+          "countryCode": "LR",
+          "birthDate": "1989-08-15",
+          "record": "16-3-1",
+          "style": null
+        },
+        "blue": {
+          "name": "Boule Godogo",
+          "profileUrl": "https://pflmma.com/africa-fighter/boule-godogo",
+          "countryCode": "AO",
+          "birthDate": null,
+          "record": "5-1-0",
+          "style": null
+        },
+        "details": "135lbs/61kg Bantamweight · Semifinal"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "2026-chicago2",
+    "date": "2026-10-16",
+    "summary": "PFL Chicago 2",
+    "location": "Wintrust Arena",
+    "url": "https://pflmma.com/event/2026-chicago2",
+    "start": "20261016T230000Z",
+    "end": "20261017T060000Z",
+    "status": "CONFIRMED",
+    "bouts": [
+      {
+        "id": "1569",
+        "order": 9,
+        "red": {
+          "name": "Liz Carmouche",
+          "profileUrl": "https://pflmma.com/wt-fighter/liz-carmouche",
+          "countryCode": "US",
+          "birthDate": "1984-02-17",
+          "record": "26-8-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Jena Bishop",
+          "profileUrl": "https://pflmma.com/wt-fighter/jena-bishop",
+          "countryCode": null,
+          "birthDate": "1986-02-19",
+          "record": "11-3-0",
+          "style": "Grappler"
+        },
+        "details": "125lbs/57kg Women's Flyweight · Championship"
+      },
+      {
+        "id": "1588",
+        "order": 8,
+        "red": {
+          "name": "Paulina Wisniewska",
+          "profileUrl": "https://pflmma.com/wt-fighter/paulina-wisniewska",
+          "countryCode": "PL",
+          "birthDate": "1998-11-26",
+          "record": "7-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Chelsea Hackett",
+          "profileUrl": "https://pflmma.com/wt-fighter/chelsea-hackett",
+          "countryCode": "AU",
+          "birthDate": "1999-10-28",
+          "record": "5-3-1",
+          "style": "Striker"
+        },
+        "details": "125lbs/57kg Women's Flyweight"
+      },
+      {
+        "id": "1584",
+        "order": 7,
+        "red": {
+          "name": "Cássio Barão",
+          "profileUrl": "https://pflmma.com/wt-fighter/cassio-barao",
+          "countryCode": "BR",
+          "birthDate": "1995-09-02",
+          "record": "10-1-1",
+          "style": null
+        },
+        "blue": {
+          "name": "Kevin Pease",
+          "profileUrl": "https://pflmma.com/wt-fighter/kevin-pease",
+          "countryCode": "US",
+          "birthDate": "1997-10-02",
+          "record": "6-0-0",
+          "style": null
+        },
+        "details": "155lbs/70kg Lightweight"
+      },
+      {
+        "id": "1581",
+        "order": 6,
+        "red": {
+          "name": "Shannon Clark",
+          "profileUrl": "https://pflmma.com/wt-fighter/shannon-clark",
+          "countryCode": "CA",
+          "birthDate": "1992-07-06",
+          "record": "8-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Lucero Acosta",
+          "profileUrl": "https://pflmma.com/wt-fighter/lucero-acosta",
+          "countryCode": null,
+          "birthDate": "1994-08-22",
+          "record": "6-2-0",
+          "style": null
+        },
+        "details": "125lbs/57kg Women's Flyweight"
+      },
+      {
+        "id": "1580",
+        "order": 5,
+        "red": {
+          "name": "Emiliano Sordi",
+          "profileUrl": "https://pflmma.com/wt-fighter/emiliano-sordi",
+          "countryCode": null,
+          "birthDate": "1991-02-14",
+          "record": "23-12-1",
+          "style": null
+        },
+        "blue": {
+          "name": "Abraham Bably",
+          "profileUrl": "https://pflmma.com/wt-fighter/abraham-bably",
+          "countryCode": "CI",
+          "birthDate": "1995-12-29",
+          "record": "8-3-0",
+          "style": null
+        },
+        "details": "205lbs/93kg Light Heavyweight"
+      },
+      {
+        "id": "1571",
+        "order": 4,
+        "red": {
+          "name": "Sarvarjon Khamidov",
+          "profileUrl": "https://pflmma.com/wt-fighter/sarvarjon-khamidov",
+          "countryCode": "TJ",
+          "birthDate": "1997-04-12",
+          "record": "17-1-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Rafael do Nascimento",
+          "profileUrl": "https://pflmma.com/wt-fighter/rafael-donascimento",
+          "countryCode": "BR",
+          "birthDate": "1991-11-14",
+          "record": "13-3-0",
+          "style": null
+        },
+        "details": "135lbs/61kg Bantamweight"
+      },
+      {
+        "id": "1570",
+        "order": 3,
+        "red": {
+          "name": "Denis Goltsov",
+          "profileUrl": "https://pflmma.com/wt-fighter/denis-goltsov",
+          "countryCode": "RU",
+          "birthDate": "1990-06-09",
+          "record": "37-9-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Maxwell Djantou Nana",
+          "profileUrl": "https://pflmma.com/wt-fighter/maxwell-djantounana",
+          "countryCode": "CM",
+          "birthDate": "1991-01-18",
+          "record": "9-2-0",
+          "style": null
+        },
+        "details": "265lbs/120kg Heavyweight"
+      },
+      {
+        "id": "1572",
+        "order": 2,
+        "red": {
+          "name": "Alexander Shabliy",
+          "profileUrl": "https://pflmma.com/wt-fighter/alexander-shabliy",
+          "countryCode": null,
+          "birthDate": "1993-04-17",
+          "record": "25-4-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Landry Ward",
+          "profileUrl": "https://pflmma.com/wt-fighter/landry-ward",
+          "countryCode": "US",
+          "birthDate": "1996-12-08",
+          "record": "11-3-0",
+          "style": null
+        },
+        "details": "135lbs/61kg Bantamweight"
+      },
+      {
+        "id": "1573",
+        "order": 1,
+        "red": {
+          "name": "Timur Khizriev",
+          "profileUrl": "https://pflmma.com/wt-fighter/timur-khizriev",
+          "countryCode": "RU",
+          "birthDate": "1995-11-17",
+          "record": "18-0-0",
+          "style": "Grappler"
+        },
+        "blue": {
+          "name": "Gabriel Braga",
+          "profileUrl": "https://pflmma.com/wt-fighter/gabriel-braga",
+          "countryCode": "BR",
+          "birthDate": "1998-04-22",
+          "record": "17-3-0",
+          "style": "Striker"
+        },
+        "details": "145lbs/66kg Featherweight"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pfl-returns-to-dubai",
+    "date": "2026-11-14",
+    "summary": "PFL Returns to Dubai",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://pflmma.com/event/pfl-returns-to-dubai",
+    "start": null,
+    "end": null,
+    "status": "TENTATIVE",
+    "bouts": [
+      {
+        "id": "1587",
+        "order": 4,
+        "red": {
+          "name": "Khasan Magomedsharipov",
+          "profileUrl": "https://pflmma.com/wt-fighter/khasan-magomedsharipov",
+          "countryCode": null,
+          "birthDate": "2000-06-09",
+          "record": "11-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Adam Borics",
+          "profileUrl": "https://pflmma.com/wt-fighter/adam-borics",
+          "countryCode": "HU",
+          "birthDate": "1993-07-06",
+          "record": "20-4-0",
+          "style": "Striker"
+        },
+        "details": "145lbs/66kg Featherweight"
+      },
+      {
+        "id": "1586",
+        "order": 3,
+        "red": {
+          "name": "Sergio Pettis",
+          "profileUrl": "https://pflmma.com/wt-fighter/sergio-pettis",
+          "countryCode": "US",
+          "birthDate": "1993-08-17",
+          "record": "25-8-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Joji Goto",
+          "profileUrl": "https://pflmma.com/wt-fighter/joji-goto",
+          "countryCode": null,
+          "birthDate": "1996-03-08",
+          "record": "21-9-1",
+          "style": null
+        },
+        "details": "135lbs/61kg Bantamweight"
+      },
+      {
+        "id": "1583",
+        "order": 2,
+        "red": {
+          "name": "Pouya Rahmani",
+          "profileUrl": "https://pflmma.com/wt-fighter/pouya-rahmani",
+          "countryCode": null,
+          "birthDate": "1992-07-26",
+          "record": "6-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Oleg Popov",
+          "profileUrl": "https://pflmma.com/wt-fighter/oleg-popov",
+          "countryCode": "RU",
+          "birthDate": "1992-01-01",
+          "record": "22-2-0",
+          "style": null
+        },
+        "details": "265lbs/120kg Heavyweight"
+      },
+      {
+        "id": "1582",
+        "order": 1,
+        "red": {
+          "name": "Vadim Nemkov",
+          "profileUrl": "https://pflmma.com/wt-fighter/vadim-nemkov",
+          "countryCode": "RU",
+          "birthDate": "1992-06-19",
+          "record": "20-2-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Sergey Bilostenniy",
+          "profileUrl": "https://pflmma.com/wt-fighter/sergey-bilostenniy",
+          "countryCode": "RU",
+          "birthDate": "1995-10-22",
+          "record": "15-4-0",
+          "style": null
+        },
+        "details": "265lbs/120kg Heavyweight · PFL World Title"
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pfl-lyon-2026",
+    "date": "2026-12-19",
+    "summary": "PFL Lyon 2026",
+    "location": "Lyon, France",
+    "url": "https://pflmma.com/event/pfl-lyon-2026",
+    "start": "20261219T160000Z",
+    "end": "20261219T220000Z",
+    "status": "CONFIRMED",
+    "bouts": [
+      {
+        "id": "1589",
+        "order": 2,
+        "red": {
+          "name": "Boris Atangana",
+          "profileUrl": "https://pflmma.com/wt-fighter/boris-atangana",
+          "countryCode": "BE",
+          "birthDate": "1999-04-30",
+          "record": "9-0-0",
+          "style": null
+        },
+        "blue": {
+          "name": "Bryan Battle",
+          "profileUrl": "https://pflmma.com/wt-fighter/bryan-battle",
+          "countryCode": null,
+          "birthDate": "1994-09-20",
+          "record": "13-3-0",
+          "style": null
+        },
+        "details": "185lbs/84kg Middleweight"
+      },
+      {
+        "id": "1585",
+        "order": 1,
+        "red": {
+          "name": "Taylor Lapilus",
+          "profileUrl": "https://pflmma.com/wt-fighter/taylor-lapilus",
+          "countryCode": null,
+          "birthDate": "1992-04-07",
+          "record": "25-4-0",
+          "style": "All-rounder"
+        },
+        "blue": {
+          "name": "Mitch McKee",
+          "profileUrl": "https://pflmma.com/wt-fighter/mitch-mckee",
+          "countryCode": "US",
+          "birthDate": "1997-12-23",
+          "record": "11-0-0",
+          "style": "Grappler"
+        },
+        "details": "135lbs/61kg Bantamweight · World Title"
+      }
+    ],
+    "cancelledBouts": []
+  }
+]
