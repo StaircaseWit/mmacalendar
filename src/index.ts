@@ -2,7 +2,7 @@ import { mkdir, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";
 import { discoverUpcomingEventUrls, scrapeEvent } from "./ufc.js";
 import { mapWithConcurrency } from "./utils.js";
-import { attachStoredOdds, oddsRefreshIsDue, updateOddsStore } from "./odds.js";
+import { attachStoredOdds, discardPostStartBestFightOddsSnapshots, oddsRefreshIsDue, updateOddsStoreFromBestFightOdds } from "./odds.js";
 import { enrichFighterProfiles } from "./profiles.js";
 import { applyCancellationOverrides, reconcileEvents } from "./events.js";
 import { readJson, writeJson } from "./state.js";
@@ -15,6 +15,8 @@ import {
   promotionOddsForBout,
   promotionOddsKey,
   promotionOddsRefreshIsDue,
+  compactPromotionOddsStore,
+  matchBestFightOddsMarkets,
   scrapeBestFightOddsMarkets,
   updatePromotionOddsStore,
   type PromotionOddsStore,
@@ -64,14 +66,7 @@ await enrichFighterProfiles(events, fighterStore, now);
 await writeJson(fighterStorePath, fighterStore);
 
 const oddsStore = await readJson<OddsStore>(oddsStorePath, { lastCheckedAt: null, fights: {} });
-if (oddsRefreshIsDue(oddsStore, now)) {
-  updateOddsStore(oddsStore, events, now);
-  console.log("Recorded the weekly odds snapshot.");
-} else {
-  console.log(`Kept the existing odds snapshot from ${oddsStore.lastCheckedAt}.`);
-}
-attachStoredOdds(events, oddsStore);
-await writeJson(oddsStorePath, oddsStore);
+discardPostStartBestFightOddsSnapshots(events, oddsStore);
 
 const storedOneEvents = await readJson<OneEvent[]>(oneEventStorePath, []);
 const oneFighterStore = await readJson<OneFighterStore>(oneFighterStorePath, { profiles: {} });
@@ -138,7 +133,8 @@ try {
 }
 
 const promotionOddsStore = await readJson<PromotionOddsStore>(promotionOddsStorePath, { lastCheckedAt: null, fights: {} });
-if (promotionOddsRefreshIsDue(promotionOddsStore, now)) {
+compactPromotionOddsStore(promotionOddsStore);
+if (oddsRefreshIsDue(oddsStore, now) || promotionOddsRefreshIsDue(promotionOddsStore, now)) {
   try {
     const windowStart = new Date(now.valueOf() - 14 * 24 * 60 * 60 * 1000);
     // The live page supplies most upcoming markets. A modest future window also
@@ -149,28 +145,54 @@ if (promotionOddsRefreshIsDue(promotionOddsStore, now)) {
       return Number.isFinite(date.valueOf()) && date >= windowStart && date <= windowEnd;
     };
     const eventNames = [
+      ...events.filter((event) => event.heroStart && event.heroStart >= windowStart && event.heroStart <= windowEnd).map(({ title }) => title),
       ...oneEvents.filter((event) => inOddsWindow(`${event.start.slice(0, 4)}-${event.start.slice(4, 6)}-${event.start.slice(6, 8)}`)).map(({ summary }) => summary),
       ...rizinEvents.filter((event) => inOddsWindow(event.date)).map(({ summary }) => summary),
       ...pflEvents.filter((event) => inOddsWindow(event.date)).map(({ summary }) => summary),
     ];
-    const markets = await scrapeBestFightOddsMarkets(eventNames);
-    if (!markets.length) throw new Error("no current moneyline markets were found");
-    const knownBoutKeys = new Set([
-      ...oneEvents.flatMap((event) => event.bouts.map((bout) => promotionOddsKey(bout.redName, bout.blueName))),
-      ...rizinEvents.flatMap((event) => [...event.bouts, ...event.cancelledBouts].map((bout) => promotionOddsKey(bout.red.name, bout.blue.name))),
-      ...pflEvents.flatMap((event) => [...event.bouts, ...event.cancelledBouts].map((bout) => promotionOddsKey(bout.red.name, bout.blue.name))),
+    const ufcBouts = events.flatMap((event) => event.sections.flatMap((section) => section.fights.map((fight) => ({
+      eventName: event.title,
+      redName: fight.red.name,
+      blueName: fight.blue.name,
+    }))));
+    const otherBouts = [
+      ...oneEvents.flatMap((event) => event.bouts.map((bout) => ({ eventName: event.summary, redName: bout.redName, blueName: bout.blueName }))),
+      ...rizinEvents.flatMap((event) => [...event.bouts, ...event.cancelledBouts].map((bout) => ({ eventName: event.summary, redName: bout.red.name, blueName: bout.blue.name }))),
+      ...pflEvents.flatMap((event) => [...event.bouts, ...event.cancelledBouts].map((bout) => ({ eventName: event.summary, redName: bout.red.name, blueName: bout.blue.name }))),
+    ];
+    const markets = matchBestFightOddsMarkets(await scrapeBestFightOddsMarkets(eventNames), [...ufcBouts, ...otherBouts]);
+    if (!markets.length) throw new Error("no matching BestFightOdds moneyline markets were found");
+    const ufcBoutKeys = new Set(ufcBouts.map((bout) => promotionOddsKey(bout.redName, bout.blueName)));
+    const otherBoutKeys = new Set(otherBouts.map((bout) => promotionOddsKey(bout.redName, bout.blueName)));
+    const ufcMarkets = markets.filter((market) => ufcBoutKeys.has(promotionOddsKey(market.redName, market.blueName)));
+    const currentOtherBoutKeys = new Set([
+      ...oneEvents.filter((event) => new Date(`${event.start.slice(0, 4)}-${event.start.slice(4, 6)}-${event.start.slice(6, 8)}T23:59:59Z`) >= now)
+        .flatMap((event) => event.bouts.map((bout) => promotionOddsKey(bout.redName, bout.blueName))),
+      ...rizinEvents.filter((event) => new Date(`${event.date}T23:59:59Z`) >= now)
+        .flatMap((event) => [...event.bouts, ...event.cancelledBouts].map((bout) => promotionOddsKey(bout.red.name, bout.blue.name))),
+      ...pflEvents.filter((event) => new Date(`${event.date}T23:59:59Z`) >= now)
+        .flatMap((event) => [...event.bouts, ...event.cancelledBouts].map((bout) => promotionOddsKey(bout.red.name, bout.blue.name))),
     ]);
-    const matchedMarkets = markets.filter((market) => knownBoutKeys.has(promotionOddsKey(market.redName, market.blueName)));
-    updatePromotionOddsStore(promotionOddsStore, matchedMarkets, now);
-    await writeJson(promotionOddsStorePath, promotionOddsStore);
-    console.log(`Recorded ${matchedMarkets.length} matching weekly non-UFC odds market(s).`);
+    const otherMarkets = markets.filter((market) => {
+      const key = promotionOddsKey(market.redName, market.blueName);
+      return otherBoutKeys.has(key) && (currentOtherBoutKeys.has(key) || !promotionOddsStore.fights[key]?.length);
+    });
+    updateOddsStoreFromBestFightOdds(oddsStore, events, ufcMarkets, now);
+    updatePromotionOddsStore(promotionOddsStore, otherMarkets, now);
+    await Promise.all([
+      writeJson(oddsStorePath, oddsStore),
+      writeJson(promotionOddsStorePath, promotionOddsStore),
+    ]);
+    console.log(`Recorded ${ufcMarkets.length} UFC and ${otherMarkets.length} other matching BestFightOdds market(s).`);
   } catch (error: unknown) {
     const message = error instanceof Error ? error.message : String(error);
-    console.warn(`Keeping the stored non-UFC odds after a source error: ${message}`);
+    console.warn(`Keeping the stored odds after a BestFightOdds source error: ${message}`);
   }
 } else {
-  console.log(`Kept the existing non-UFC odds snapshot from ${promotionOddsStore.lastCheckedAt}.`);
+  console.log(`Kept the existing BestFightOdds snapshot from ${promotionOddsStore.lastCheckedAt}.`);
 }
+
+attachStoredOdds(events, oddsStore);
 
 for (const event of oneEvents) {
   for (const bout of event.bouts) Object.assign(bout, promotionOddsForBout(bout.redName, bout.blueName, promotionOddsStore));
@@ -191,6 +213,11 @@ for (const event of pflEvents) {
     bout.oddsHistory = odds.oddsHistory;
   }
 }
+
+await Promise.all([
+  writeJson(oddsStorePath, oddsStore),
+  writeJson(promotionOddsStorePath, promotionOddsStore),
+]);
 
 await mkdir(outputDirectory, { recursive: true });
 const calendarOptions = {

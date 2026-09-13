@@ -4,15 +4,17 @@ import { parseAthletePage, parseEventPage, parseEventsListing } from "../src/ufc
 import { renderCalendar, renderCombinedCalendar, renderEstimatedFightCalendar } from "../src/ics.js";
 import { applyCancellationOverrides, reconcileEvents } from "../src/events.js";
 import { ageOnDate, countryFlags, decimalOdds, describeWeightClass, flagEmoji, shortFighterName, unicodeBold } from "../src/utils.js";
-import { oddsRefreshIsDue, updateOddsStore } from "../src/odds.js";
+import { attachStoredOdds, discardPostStartBestFightOddsSnapshots, oddsRefreshIsDue, updateOddsStore, updateOddsStoreFromBestFightOdds } from "../src/odds.js";
 import { describeOneBout, mergeOneEvents, parseOneCalendar, parseOneEventPage, parseOneEventsListing, parseOneFighterPage, renderOneCalendar } from "../src/one.js";
 import { describeRizinBout, mergeRizinEvents, parseRizinCardPage, parseRizinEventListing, parseRizinEventPage, parseRizinFighterPage, renderRizinCalendar } from "../src/rizin.js";
 import { mergePflEvents, parsePflEventListing, parsePflEventPage, parsePflFighterPage, renderPflCalendar } from "../src/pfl.js";
 import {
   canonicalOddsName,
+  BEST_FIGHT_ODDS_URL,
   bestFightOddsSearchTerm,
   findBestFightOddsEventUrl,
   formatPromotionOdds,
+  matchBestFightOddsMarkets,
   parseBestFightOdds,
   promotionOddsForBout,
   promotionOddsRefreshIsDue,
@@ -192,8 +194,8 @@ test("renders UTC calendar data so calendar clients localise it", () => {
   assert.match(unfolded, /145lbs\/66kg Featherweight/);
   assert.doesNotMatch(unfolded, /Est\. 19:00 Ireland/);
   assert.match(unfolded, /• 145lbs\/66kg Featherweight/);
-  assert.match(unfolded, /• Silva: 17-3-0 \| 29yo \| Odds 🟢 -425 \(1.24\) \| Striker/);
-  assert.match(unfolded, /• Delgado: 10-1-0 \| 27yo \| Odds 🔴 \+325 \(4.25\) \| Grappler/);
+  assert.match(unfolded, /• Silva: 17-3-0 \| 29yo \| Striker \| -425 \(1.24\)/);
+  assert.match(unfolded, /• Delgado: 10-1-0 \| 27yo \| Grappler \| \+325 \(4.25\)/);
   assert.match(unfolded, /◦ 12 Sep: Silva 🟢 -425 \(1.24\) \| Delgado 🔴 \+325 \(4.25\)/);
   assert.match(unfolded, new RegExp(`--------------------------------\\\\n${unicodeBold("BOUTS")}`));
   assert.match(unfolded, /X-ALT-DESC;FMTTYPE=text\/html:<html><body><p>UFC/);
@@ -211,11 +213,11 @@ test("renders UTC calendar data so calendar clients localise it", () => {
   assert.match(fightsOutput, /SUMMARY:🥊 1\. Jean Silva vs\. Jose Miguel Delgado \(estimated\)/);
 });
 
-test("odds are checked weekly and unchanged values do not inflate history", () => {
+test("odds are checked on the Monday and Friday cadence and unchanged values do not inflate history", () => {
   const now = new Date("2026-09-12T12:00:00Z");
-  const store: OddsStore = { lastCheckedAt: "2026-09-06T12:00:01Z", fights: {} };
+  const store: OddsStore = { lastCheckedAt: "2026-09-10T12:00:01Z", fights: {}, source: BEST_FIGHT_ODDS_URL };
   assert.equal(oddsRefreshIsDue(store, now), false);
-  store.lastCheckedAt = "2026-09-05T12:00:00Z";
+  store.lastCheckedAt = "2026-09-09T12:00:00Z";
   assert.equal(oddsRefreshIsDue(store, now), true);
 
   const event = parseEventPage(eventHtml, "https://www.ufc.com/event/noche-test");
@@ -228,7 +230,7 @@ test("odds are checked weekly and unchanged values do not inflate history", () =
   assert.equal(history.length, 2);
 });
 
-test("collects best available non-UFC odds and keeps a weekly change history", () => {
+test("collects the best available BestFightOdds lines and keeps change-only history", () => {
   const source = `<div class="table-outer-wrapper">
     <div class="table-header"><a href="/events/pfl-test-4000"><h1>PFL Test</h1></a></div>
     <div class="table-inner-wrapper"><table><tbody>
@@ -252,14 +254,20 @@ test("collects best available non-UFC odds and keeps a weekly change history", (
     `<a href="/events/one-friday-fights-169-4300">One Friday Fights 169</a><a href="/events/one-friday-fights-170-4350">One Friday Fights 170</a>`,
     "ONE Friday Fights 170 & The Inner Circle 30",
   ), "https://www.bestfightodds.com/events/one-friday-fights-170-4350");
-  assert.equal(formatPromotionOdds("-130", "+109"), "🟢 -130 (1.77)");
-  assert.equal(formatPromotionOdds("+109", "-130"), "🔴 +109 (2.09)");
+  assert.equal(formatPromotionOdds("-130", "+109"), "-130 (1.77)");
+  assert.equal(formatPromotionOdds("+109", "-130"), "+109 (2.09)");
+
+  assert.deepEqual(matchBestFightOddsMarkets([{
+    ...markets[0]!, redName: "Jose Delgado", blueName: "Jean Silva", redOdds: "+325", blueOdds: "-425",
+  }], [{ eventName: "Noche UFC", redName: "Jean Silva", blueName: "Jose Miguel Delgado" }]), [{
+    ...markets[0]!, redName: "Jean Silva", blueName: "Jose Miguel Delgado", redOdds: "-425", blueOdds: "+325",
+  }]);
 
   const store: PromotionOddsStore = { lastCheckedAt: null, fights: {} };
   const firstCheck = new Date("2026-09-13T12:00:00Z");
   updatePromotionOddsStore(store, markets, firstCheck);
-  assert.equal(promotionOddsRefreshIsDue(store, new Date("2026-09-19T11:59:59Z")), false);
-  assert.equal(promotionOddsRefreshIsDue(store, new Date("2026-09-20T12:00:00Z")), true);
+  assert.equal(promotionOddsRefreshIsDue(store, new Date("2026-09-16T11:59:59Z")), false);
+  assert.equal(promotionOddsRefreshIsDue(store, new Date("2026-09-16T12:00:00Z")), true);
   assert.deepEqual(promotionOddsForBout("AJ McKee", "Adam Borics", store), {
     redOdds: "-130",
     blueOdds: "+109",
@@ -270,6 +278,29 @@ test("collects best available non-UFC odds and keeps a weekly change history", (
   markets[0]!.redOdds = "-125";
   updatePromotionOddsStore(store, markets, new Date("2026-09-27T12:00:00Z"));
   assert.equal(Object.values(store.fights)[0]!.length, 2);
+});
+
+test("stores UFC odds from BestFightOdds using official fighter names", () => {
+  const event = parseEventPage(eventHtml, "https://www.ufc.com/event/noche-test");
+  const store: OddsStore = { lastCheckedAt: null, fights: {} };
+  const markets = matchBestFightOddsMarkets([{
+    eventName: "UFC Glendale Odds",
+    sourceUrl: "https://www.bestfightodds.com/events/ufc-glendale-4328",
+    redName: "Jean Silva",
+    blueName: "Jose Delgado",
+    redOdds: "-425",
+    blueOdds: "+325",
+  }], [{ eventName: event.title, redName: "Jean Silva", blueName: "Jose Miguel Delgado" }]);
+  updateOddsStoreFromBestFightOdds(store, [event], markets, new Date("2026-09-12T12:00:00Z"));
+  attachStoredOdds([event], store);
+  assert.equal(event.sections[0]!.fights[0]!.red.odds, "-425");
+  assert.equal(event.sections[0]!.fights[0]!.blue.odds, "+325");
+  assert.equal(store.source, BEST_FIGHT_ODDS_URL);
+
+  const history = Object.values(store.fights)[0]!;
+  history.push({ ...history[0]!, checkedAt: "2026-09-13T12:00:00Z", odds: { "jean silva": "-200", "jose miguel delgado": "+170" } });
+  discardPostStartBestFightOddsSnapshots([event], store);
+  assert.equal(Object.values(store.fights)[0]!.length, 1);
 });
 
 test("formats ONE Championship's official calendar as a permanent detailed feed", () => {
@@ -319,6 +350,14 @@ test("adds official ONE Championship country flags to matching bouts", () => {
   Object.assign(bouts[0], {
     redAge: athlete.age, redRecord: athlete.record, redStyle: athlete.style,
     blueAge: 28, blueRecord: "9-3-0", blueStyle: "Striker",
+    redOdds: "+120", blueOdds: "-163",
+    oddsHistory: [{
+      checkedAt: "2026-09-13T12:00:00Z",
+      eventName: "One Friday Fights 170 Odds",
+      sourceUrl: "https://www.bestfightodds.com/events/one-friday-fights-170-4350",
+      odds: { "yodlekpet or atchariya": "+120", "pompet pongsuphan pk": "-163" },
+      names: { "yodlekpet or atchariya": "Yodlekpet Or Atchariya", "pompet pongsuphan pk": "Pompet Pongsuphan PK" },
+    }],
   });
   const event = {
     uid: "one-170", start: "20260911T113000Z", end: "20260911T173000Z", summary: "ONE Friday Fights 170", location: "Bangkok",
@@ -326,7 +365,8 @@ test("adds official ONE Championship country flags to matching bouts", () => {
   };
   const output = renderOneCalendar([event], new Date("2026-09-12T12:00:00Z")).replace(/\r\n[ \t]/g, "");
   assert.match(output, /𝗬𝗼𝗱𝗹𝗲𝗸𝗽𝗲𝘁 𝗢𝗿 𝗔𝘁𝗰𝗵𝗮𝗿𝗶𝘆𝗮 🇹🇭 vs\. 𝗣𝗼𝗺𝗽𝗲𝘁 𝗣𝗼𝗻𝗴𝘀𝘂𝗽𝗵𝗮𝗻 𝗣𝗞 🇹🇭/);
-  assert.match(output, /• 135lbs\/61\.2kg Flyweight Muay Thai\\n• Atchariya: ONE 11-7-0 \| 31yo \| Striker/);
+  assert.match(output, /• 135lbs\/61\.2kg Flyweight Muay Thai\\n• Atchariya: ONE 11-7-0 \| 31yo \| Striker \| \+120 \(2.20\)/);
+  assert.match(output, /◦ 13 Sep: Atchariya 🔴 \+120 \(2.20\) \| PK 🟢 -163 \(1.61\)/);
 });
 
 test("discovers RIZIN events and reads official schedule details", () => {
@@ -359,21 +399,26 @@ test("formats RIZIN cards, profiles and cancellation notices", () => {
     <div class="raw-html"><p><br>RIZIN MMAルール：5分3R（66.0kg）<br><a href="/_tags/koike">クレベル・コイケ</a> vs. <a href="/_tags/akimoto">秋元強真</a></p></div>
     <div class="block-lbox box-color-bgyellow"><div class="lbox-child"><p><strong>クレベル・コイケ</strong></p><p>グラウンド力｜サブミッション</p></div><div class="lbox-child"><p><strong>秋元強真</strong></p><p>打撃｜打撃スピード</p></div></div>
     <p>RIZINフェザー級の一戦。</p>
+    <h2 class="article-heading">第1試合／Fighter One vs. Fighter Two</h2>
+    <div class="raw-html"><p><br>RIZIN MMAルール：5分3R（71.0kg）<br><a href="/_tags/one">Fighter One</a> vs. <a href="/_tags/two">Fighter Two</a></p></div>
     <h2 class="article-heading">【試合中止】冨澤大智 vs. ドンマイ川端</h2>
     <div class="raw-html"><p><a href="/_tags/tomizawa">冨澤大智</a> vs. <a href="/_tags/kawabata">ドンマイ川端</a></p></div>
   </div>`;
   const parsed = parseRizinCardPage(cardHtml);
-  assert.equal(parsed.bouts.length, 1);
+  assert.equal(parsed.bouts.length, 2);
   assert.equal(parsed.bouts[0]!.order, 2);
   assert.equal(parsed.bouts[0]!.section, "Main Card");
   assert.equal(parsed.bouts[0]!.details, "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds");
   assert.equal(parsed.bouts[0]!.red.style, "Grappler");
   assert.equal(parsed.bouts[0]!.blue.style, "Striker");
+  assert.equal(parsed.bouts[1]!.details, "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds");
   assert.equal(parsed.cancelledBouts[0]!.note, "Cancelled by RIZIN");
 
   const profile = parseRizinFighterPage(`<div class="fighter_profile"><table><tr><th>名前：</th><td>クレベル・コイケ<br>Kleber Koike</td></tr><tr><th>出身地：</th><td>ブラジル</td></tr><tr><th>生年月日：</th><td>1989年10月16日</td></tr></table><div class="profile_desc">柔術とサブミッションを得意とする。</div><div class="match_record"><table><tr><td class="under">WIN</td></tr><tr><td class="under">WIN</td></tr><tr><td class="under">LOSE</td></tr></table></div></div>`, new Date("2026-09-13T12:00:00Z"));
   assert.deepEqual(profile, { name: "Kleber Koike", origin: "ブラジル", countryCode: "BR", birthDate: "1989-10-16", record: "2-1-0", style: "Grappler", checkedAt: "2026-09-13T12:00:00.000Z" });
   assert.equal(describeRizinBout(parsed.bouts[0]!.details), "145.5lbs/66kg Featherweight · RIZIN MMA · 3 × 5 min rounds");
+  assert.equal(describeRizinBout("71kg · RIZIN MMA · 3 × 5 min rounds"), "156.5lbs/71kg Lightweight · RIZIN MMA · 3 × 5 min rounds");
+  assert.equal(describeRizinBout("65kg · RIZIN Kickboxing · 3 × 3 min rounds"), "143.3lbs/65kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds");
 
   Object.assign(parsed.bouts[0]!.red, profile);
   Object.assign(parsed.bouts[0]!.blue, { name: "Kyoma Akimoto", countryCode: "JP", birthDate: "2006-05-10" });

@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-09-13T12:23:20.090Z",
+  "lastCheckedAt": "2026-09-13T13:20:20.773Z",
   "fights": {
     "selina flores--stamp fairtex": [
       {
@@ -958,6 +958,21 @@
         "names": {
           "nate jennerman": "Nate Jennerman",
           "valanti atsas": "Valanti Atsas"
+        }
+      }
+    ],
+    "roberto satoshi souza--shunta nomura": [
+      {
+        "checkedAt": "2026-09-13T13:20:20.773Z",
+        "eventName": "Super RIZIN 5 Odds",
+        "sourceUrl": "https://www.bestfightodds.com/events/super-rizin-5-4349",
+        "odds": {
+          "roberto satoshi souza": "-150",
+          "shunta nomura": "+110"
+        },
+        "names": {
+          "roberto satoshi souza": "Roberto Satoshi Souza",
+          "shunta nomura": "Shunta Nomura"
         }
       }
     ]

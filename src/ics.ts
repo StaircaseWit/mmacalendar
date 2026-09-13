@@ -8,6 +8,7 @@ import {
   shortFighterName,
   unicodeBold,
 } from "./utils.js";
+import { BEST_FIGHT_ODDS_URL } from "./promotion-odds.js";
 import type { CancelledBout, CardSection, Fight, Fighter, UfcEvent } from "./types.js";
 
 interface RenderCalendarOptions {
@@ -21,6 +22,10 @@ interface RenderCalendarOptions {
 const SECTION_BORDER = "--------------------------------";
 const BOUTS_HEADING = unicodeBold("BOUTS");
 const CANCELLED_HEADING = unicodeBold("CANCELLED OR WITHDRAWN BOUTS");
+
+function hasBestFightOddsHistory(fight: Fight): boolean {
+  return (fight.oddsHistory ?? []).some((snapshot) => snapshot.sourceUrl?.startsWith(BEST_FIGHT_ODDS_URL));
+}
 
 function escapeIcs(value: unknown = ""): string {
   return String(value)
@@ -79,11 +84,16 @@ function markedOdds(value: string | null | undefined, opponentValue: string | nu
   return `${oddsMarker(value, opponentValue)}${displayOdds(value)}`;
 }
 
-function fighterDetail(fighter: Fighter, opponent: Fighter, eventDate: Date): string {
+function fighterDetail(fighter: Fighter, _opponent: Fighter, eventDate: Date): string {
   const record = fighter.record ?? "record unavailable";
   const age = ageOnDate(fighter.birthDate, eventDate);
-  const style = fighter.fightingStyle ? ` | ${fighter.fightingStyle}` : "";
-  return `• ${shortFighterName(fighter)}: ${record} | ${age === null ? "age unavailable" : `${age}yo`} | Odds ${markedOdds(fighter.odds, opponent.odds)}${style}`;
+  const details = [
+    record,
+    age === null ? "age unavailable" : `${age}yo`,
+    fighter.fightingStyle,
+    fighter.odds ? displayOdds(fighter.odds) : null,
+  ].filter(Boolean);
+  return `• ${shortFighterName(fighter)}: ${details.join(" | ")}`;
 }
 
 function localDateKey(date: Date, timeZone: string): string {
@@ -232,7 +242,8 @@ function htmlDescription(event: UfcEvent, section: CardSection, generatedAt: Dat
   const cancellations = event.cancelledBouts?.length
     ? `<p>${SECTION_BORDER}<br><strong>${CANCELLED_HEADING}</strong><br>${SECTION_BORDER}<br>${event.cancelledBouts.map((bout) => htmlEscape(cancelledBoutDescription(bout))).join("<br>")}</p>`
     : "";
-  const source = `<p>${SECTION_BORDER}<br>Source: <a href="${htmlEscape(event.url)}">UFC.com</a>`;
+  const hasOdds = section.fights.some(hasBestFightOddsHistory);
+  const source = `<p>${SECTION_BORDER}<br>Source: <a href="${htmlEscape(event.url)}">UFC.com</a>${hasOdds ? `<br>Odds source: <a href="${BEST_FIGHT_ODDS_URL}">BestFightOdds</a> · best available line · checked Monday and Friday` : ""}`;
   const oddsLog = publicBaseUrl
     ? `<br>Full odds log: <a href="${htmlEscape(`${publicBaseUrl.replace(/\/$/, "")}/odds-history.html`)}">view history</a>`
     : "";
@@ -254,7 +265,7 @@ export function renderCalendar(events: UfcEvent[], {
     "CALSCALE:GREGORIAN",
     "METHOD:PUBLISH",
     `X-WR-CALNAME:${escapeIcs(calendarName)}`,
-    "X-WR-CALDESC:Automatically updated UFC cards with fighter details and weekly odds history.",
+    "X-WR-CALDESC:Automatically updated UFC cards with fighter details and twice-weekly odds history.",
     "COLOR:#D8070C",
     "X-APPLE-CALENDAR-COLOR:#D8070C",
     "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
@@ -273,6 +284,7 @@ export function renderCalendar(events: UfcEvent[], {
         [
           SECTION_BORDER,
           `Source: ${event.url}`,
+          section.fights.some(hasBestFightOddsHistory) ? `Odds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked Monday and Friday` : "",
           publicBaseUrl ? `Full odds log: ${publicBaseUrl.replace(/\/$/, "")}/odds-history.html` : "",
           `Calendar updated: ${generatedAt.toISOString()}`,
           scheduleStatusLine(event, generatedAt, displayTimeZone),
@@ -365,6 +377,7 @@ export function renderCombinedCalendar(events: UfcEvent[], {
       [
         SECTION_BORDER,
         `Source: ${event.url}`,
+        sections.some((section) => section.fights.some(hasBestFightOddsHistory)) ? `Odds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked Monday and Friday` : "",
         publicBaseUrl ? `Full odds log: ${publicBaseUrl.replace(/\/$/, "")}/odds-history.html` : "",
         `Calendar updated: ${generatedAt.toISOString()}`,
         scheduleStatusLine(event, generatedAt, displayTimeZone),

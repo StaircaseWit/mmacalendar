@@ -2,6 +2,8 @@ export interface OddsSnapshot {
   checkedAt: string;
   odds: Record<string, string | null>;
   names?: Record<string, string>;
+  eventName?: string;
+  sourceUrl?: string;
 }
 
 export interface Fighter {
@@ -107,4 +109,5 @@ export interface FighterStore {
 export interface OddsStore {
   lastCheckedAt: string | null;
   fights: Record<string, OddsSnapshot[]>;
+  source?: string;
 }

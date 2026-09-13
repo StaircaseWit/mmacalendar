@@ -28,6 +28,12 @@ export interface PromotionOddsStore {
   fights: Record<string, PromotionOddsSnapshot[]>;
 }
 
+export interface KnownOddsBout {
+  eventName: string;
+  redName: string;
+  blueName: string;
+}
+
 export interface AttachedPromotionOdds {
   redOdds: string | null;
   blueOdds: string | null;
@@ -148,7 +154,7 @@ export async function scrapeBestFightOddsMarkets(eventNames: string[]): Promise<
     archive = await fetchText(`${BEST_FIGHT_ODDS_URL}archive`, { attempts: 2 });
   } catch (error: unknown) {
     const message = error instanceof Error ? error.message : String(error);
-    console.warn(`Could not read the recent non-UFC odds archive: ${message}`);
+    console.warn(`Could not read the recent BestFightOdds archive: ${message}`);
   }
   const archiveUrls = new Map(searchTerms.flatMap((eventName) => {
     const url = archive ? findBestFightOddsEventUrl(archive, eventName) : null;
@@ -163,7 +169,7 @@ export async function scrapeBestFightOddsMarkets(eventNames: string[]): Promise<
       return result;
     } catch (error: unknown) {
       const message = error instanceof Error ? error.message : String(error);
-      console.warn(`Could not search non-UFC odds for ${eventName}: ${message}`);
+      console.warn(`Could not search BestFightOdds for ${eventName}: ${message}`);
       await new Promise((resolve) => setTimeout(resolve, 300));
       return null;
     }
@@ -175,7 +181,7 @@ export async function scrapeBestFightOddsMarkets(eventNames: string[]): Promise<
       return parseBestFightOdds(await fetchText(url)).map((market) => ({ ...market, sourceUrl: url }));
     } catch (error: unknown) {
       const message = error instanceof Error ? error.message : String(error);
-      console.warn(`Could not read non-UFC odds from ${url}: ${message}`);
+      console.warn(`Could not read BestFightOdds from ${url}: ${message}`);
       return [];
     }
   })).flat();
@@ -185,11 +191,73 @@ export async function scrapeBestFightOddsMarkets(eventNames: string[]): Promise<
 export function promotionOddsRefreshIsDue(store: PromotionOddsStore, now = new Date()): boolean {
   if (!store.lastCheckedAt) return true;
   const lastCheck = new Date(store.lastCheckedAt);
-  return Number.isNaN(lastCheck.valueOf()) || now.valueOf() - lastCheck.valueOf() >= 7 * DAY_MS;
+  return Number.isNaN(lastCheck.valueOf()) || now.valueOf() - lastCheck.valueOf() >= 3 * DAY_MS;
+}
+
+function fighterNameScore(left: string, right: string): number {
+  const leftName = canonicalOddsName(left);
+  const rightName = canonicalOddsName(right);
+  if (leftName === rightName) return 100;
+  const leftParts = leftName.split(" ").filter(Boolean);
+  const rightParts = rightName.split(" ").filter(Boolean);
+  if (!leftParts.length || !rightParts.length) return 0;
+  const sameFirst = leftParts[0] === rightParts[0];
+  const sameLast = leftParts.at(-1) === rightParts.at(-1);
+  if (sameFirst && sameLast && leftParts.length > 1 && rightParts.length > 1) return 95;
+  const leftTokens = new Set(leftParts);
+  const rightTokens = new Set(rightParts);
+  const shared = [...leftTokens].filter((token) => rightTokens.has(token)).length;
+  if (shared >= 2 && (shared === leftTokens.size || shared === rightTokens.size)) return 92;
+  if (sameLast && shared >= 2) return 88;
+  return 0;
+}
+
+/**
+ * Align bookmaker spellings with the official card names. This keeps stored keys
+ * stable when a market omits a middle name or uses initials/a nickname.
+ */
+export function matchBestFightOddsMarkets(
+  markets: PromotionOddsMarket[],
+  knownBouts: KnownOddsBout[],
+): PromotionOddsMarket[] {
+  const matched: PromotionOddsMarket[] = [];
+  for (const market of markets) {
+    let best: { bout: KnownOddsBout; reversed: boolean; score: number } | null = null;
+    for (const bout of knownBouts) {
+      const directRed = fighterNameScore(market.redName, bout.redName);
+      const directBlue = fighterNameScore(market.blueName, bout.blueName);
+      const reverseRed = fighterNameScore(market.redName, bout.blueName);
+      const reverseBlue = fighterNameScore(market.blueName, bout.redName);
+      const direct = Math.min(directRed, directBlue);
+      const reverse = Math.min(reverseRed, reverseBlue);
+      const score = Math.max(direct, reverse);
+      if (score < 88 || (best && score <= best.score)) continue;
+      best = { bout, reversed: reverse > direct, score };
+    }
+    if (!best) continue;
+    matched.push({
+      ...market,
+      redName: best.bout.redName,
+      blueName: best.bout.blueName,
+      redOdds: best.reversed ? market.blueOdds : market.redOdds,
+      blueOdds: best.reversed ? market.redOdds : market.blueOdds,
+    });
+  }
+  return matched;
 }
 
 function snapshotsDiffer(left: PromotionOddsSnapshot | undefined, right: PromotionOddsSnapshot): boolean {
-  return JSON.stringify(left?.odds ?? {}) !== JSON.stringify(right.odds);
+  const values = (snapshot: PromotionOddsSnapshot | undefined): string => JSON.stringify(
+    Object.entries(snapshot?.odds ?? {}).sort(([leftName], [rightName]) => leftName.localeCompare(rightName)),
+  );
+  return values(left) !== values(right);
+}
+
+export function compactPromotionOddsStore(store: PromotionOddsStore): PromotionOddsStore {
+  for (const [key, history] of Object.entries(store.fights ?? {})) {
+    store.fights[key] = history.filter((snapshot, index) => index === 0 || snapshotsDiffer(history[index - 1], snapshot));
+  }
+  return store;
 }
 
 export function updatePromotionOddsStore(
@@ -254,10 +322,18 @@ function oddsMarker(own: string | null | undefined, opponent: string | null | un
   return numericOdds(own!) < 0 ? "🟢 " : "🔴 ";
 }
 
-export function formatPromotionOdds(own: string | null | undefined, opponent: string | null | undefined): string | null {
+export function formatPromotionOdds(own: string | null | undefined, _opponent: string | null | undefined): string | null {
   if (!own || !VALID_ODDS.test(own)) return null;
   const decimal = decimalOdds(own);
-  return `${oddsMarker(own, opponent)}${own}${decimal ? ` (${decimal})` : ""}`;
+  return `${own}${decimal ? ` (${decimal})` : ""}`;
+}
+
+function formatPromotionOddsWithMarker(
+  own: string | null | undefined,
+  opponent: string | null | undefined,
+): string | null {
+  const odds = formatPromotionOdds(own, opponent);
+  return odds ? `${oddsMarker(own, opponent)}${odds}` : null;
 }
 
 export function shortPromotionFighterName(name: string): string {
@@ -280,8 +356,8 @@ export function formatPromotionOddsHistory(
     const redOdds = snapshot.odds?.[redKey] ?? null;
     const blueOdds = snapshot.odds?.[blueKey] ?? null;
     if (!redOdds && !blueOdds) return [];
-    const red = formatPromotionOdds(redOdds, blueOdds) ?? "unavailable";
-    const blue = formatPromotionOdds(blueOdds, redOdds) ?? "unavailable";
+    const red = formatPromotionOddsWithMarker(redOdds, blueOdds) ?? "unavailable";
+    const blue = formatPromotionOddsWithMarker(blueOdds, redOdds) ?? "unavailable";
     return [`  ◦ ${formatShortCheckDate(snapshot.checkedAt)}: ${redShort} ${red} | ${blueShort} ${blue}`];
   });
   return rows.length ? `• Odds history:\n${rows.join("\n")}` : null;

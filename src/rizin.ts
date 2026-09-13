@@ -217,6 +217,18 @@ const DIVISIONS: Array<[RegExp, string]> = [
   [/ヘビー級/, "Heavyweight"],
 ];
 
+const DIVISION_BY_WEIGHT = new Map([
+  ["49", "Women's Super Atomweight"],
+  ["57", "Flyweight"],
+  ["61", "Bantamweight"],
+  ["66", "Featherweight"],
+  ["71", "Lightweight"],
+  ["77", "Welterweight"],
+  ["84", "Middleweight"],
+  ["93", "Light Heavyweight"],
+  ["120", "Heavyweight"],
+]);
+
 function boutDetails(lines: string[], sectionText: string): string {
   const rule = lines.find((line) => line.includes("ルール")) ?? "";
   const weight = rule.match(/[（(]([\d.]+)kg[）)]/)?.[1]?.replace(/\.0$/, "");
@@ -228,9 +240,13 @@ function boutDetails(lines: string[], sectionText: string): string {
       : rule.includes("スタンディング")
         ? "RIZIN Standing Bout"
         : "RIZIN rules";
-  const division = DIVISIONS.find(([pattern]) => pattern.test(sectionText))?.[1];
+  const division = DIVISIONS.find(([pattern]) => pattern.test(sectionText))?.[1]
+    ?? (weight ? DIVISION_BY_WEIGHT.get(weight) : undefined);
+  const weightLabel = weight
+    ? `${weight}kg${division ? ` ${division}` : " Catchweight"}`
+    : division;
   const title = /タイトルマッチ/.test(sectionText) ? "Title bout" : null;
-  return [weight ? `${weight}kg${division ? ` ${division}` : ""}` : division, discipline, rounds ? `${rounds[2]} × ${rounds[1]} min rounds` : null, title]
+  return [weightLabel, discipline, rounds ? `${rounds[2]} × ${rounds[1]} min rounds` : null, title]
     .filter(Boolean).join(" · ");
 }
 
@@ -422,13 +438,18 @@ function shortName(name: string): string {
 function fighterDetail(fighter: RizinFighter, eventDate: string, opponentOdds: string | null | undefined): string | null {
   const age = ageOnDate(fighter.birthDate, new Date(`${eventDate}T12:00:00Z`));
   const odds = formatPromotionOdds(fighter.odds, opponentOdds);
-  const details = [fighter.record ? `RIZIN ${fighter.record}` : null, age === null ? null : `${age}yo`, odds ? `Odds ${odds}` : null, fighter.style].filter(Boolean);
+  const details = [fighter.record ? `RIZIN ${fighter.record}` : null, age === null ? null : `${age}yo`, fighter.style, odds].filter(Boolean);
   return details.length ? `• ${shortName(fighter.name)}: ${details.join(" | ")}` : null;
 }
 
 export function describeRizinBout(details: string): string {
-  return cleanText(details).replace(/^([\d.]+)kg\b/i, (match, kilograms: string) => {
-    const pounds = (Number(kilograms) * 2.2046226218).toFixed(1).replace(/\.0$/, "");
+  let value = cleanText(details);
+  const kilograms = value.match(/^([\d.]+)kg\b/i)?.[1]?.replace(/\.0$/, "");
+  if (kilograms && !/\b(?:Atomweight|Flyweight|Bantamweight|Featherweight|Lightweight|Welterweight|Middleweight|Heavyweight|Catchweight)\b/i.test(value)) {
+    value = value.replace(/^([\d.]+kg)\b/i, `$1 ${DIVISION_BY_WEIGHT.get(kilograms) ?? "Catchweight"}`);
+  }
+  return value.replace(/^([\d.]+)kg\b/i, (match, kilogramsValue: string) => {
+    const pounds = (Number(kilogramsValue) * 2.2046226218).toFixed(1).replace(/\.0$/, "");
     return `${pounds}lbs/${match}`;
   });
 }
@@ -464,7 +485,7 @@ function descriptionFor(event: RizinEvent, generatedAt: Date): string {
   });
   const bouts = sections.length ? sections.join("\n\n") : "No bouts announced yet.";
   const oddsSource = event.bouts.some((bout) => bout.oddsHistory?.length)
-    ? `\nOdds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked weekly`
+    ? `\nOdds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked Monday and Friday`
     : "";
   const cancelled = event.cancelledBouts.length ? [
     `--------------------------------\n${unicodeBold("CANCELLED OR POSTPONED BOUTS")}\n--------------------------------`,

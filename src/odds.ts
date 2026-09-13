@@ -1,11 +1,13 @@
 import { DAY_MS } from "./config.js";
 import { fightKey, normalizedName } from "./utils.js";
+import { BEST_FIGHT_ODDS_URL, canonicalOddsName, promotionOddsKey, type PromotionOddsMarket } from "./promotion-odds.js";
 import type { Fight, OddsSnapshot, OddsStore, UfcEvent } from "./types.js";
 
 export function oddsRefreshIsDue(store: OddsStore, now = new Date()): boolean {
+  if (store.source !== BEST_FIGHT_ODDS_URL) return true;
   if (!store.lastCheckedAt) return true;
   const lastCheck = new Date(store.lastCheckedAt);
-  return Number.isNaN(lastCheck.valueOf()) || now.valueOf() - lastCheck.valueOf() >= 7 * DAY_MS;
+  return Number.isNaN(lastCheck.valueOf()) || now.valueOf() - lastCheck.valueOf() >= 3 * DAY_MS;
 }
 
 function sourceSnapshot(fight: Fight, checkedAt: string): OddsSnapshot {
@@ -44,6 +46,76 @@ export function updateOddsStore(store: OddsStore, events: UfcEvent[], now = new 
     }
   }
   store.lastCheckedAt = checkedAt;
+  return store;
+}
+
+export function updateOddsStoreFromBestFightOdds(
+  store: OddsStore,
+  events: UfcEvent[],
+  markets: PromotionOddsMarket[],
+  now = new Date(),
+): OddsStore {
+  const checkedAt = now.toISOString();
+  const marketsByBout = new Map(markets.map((market) => [promotionOddsKey(market.redName, market.blueName), market]));
+  store.fights ??= {};
+  for (const event of events) {
+    const eventStart = event.sections
+      .map((section) => section.start)
+      .filter((start): start is Date => Boolean(start))
+      .sort((left, right) => left.valueOf() - right.valueOf())[0];
+    if (eventStart && eventStart <= now) continue;
+    for (const section of event.sections) {
+      for (const fight of section.fights) {
+        const market = marketsByBout.get(promotionOddsKey(fight.red.name, fight.blue.name));
+        if (!market) continue;
+        const redKey = normalizedName(fight.red.name);
+        const blueKey = normalizedName(fight.blue.name);
+        const marketOdds = new Map([
+          [canonicalOddsName(market.redName), market.redOdds],
+          [canonicalOddsName(market.blueName), market.blueOdds],
+        ]);
+        const snapshot: OddsSnapshot = {
+          checkedAt,
+          eventName: market.eventName,
+          sourceUrl: market.sourceUrl,
+          odds: {
+            [redKey]: marketOdds.get(canonicalOddsName(fight.red.name)) ?? null,
+            [blueKey]: marketOdds.get(canonicalOddsName(fight.blue.name)) ?? null,
+          },
+          names: { [redKey]: fight.red.name, [blueKey]: fight.blue.name },
+        };
+        const key = fightKey(event.slug, fight.red.name, fight.blue.name);
+        const history = store.fights[key] ?? [];
+        if (!history.length || snapshotsDiffer(history.at(-1), snapshot)) history.push(snapshot);
+        store.fights[key] = history;
+      }
+    }
+  }
+  store.lastCheckedAt = checkedAt;
+  store.source = BEST_FIGHT_ODDS_URL;
+  return store;
+}
+
+export function discardPostStartBestFightOddsSnapshots(events: UfcEvent[], store: OddsStore): OddsStore {
+  for (const event of events) {
+    const eventStart = event.sections
+      .map((section) => section.start)
+      .filter((start): start is Date => Boolean(start))
+      .sort((left, right) => left.valueOf() - right.valueOf())[0];
+    if (!eventStart) continue;
+    for (const section of event.sections) {
+      for (const fight of section.fights) {
+        const key = fightKey(event.slug, fight.red.name, fight.blue.name);
+        const history = store.fights[key];
+        if (!history) continue;
+        store.fights[key] = history.filter((snapshot) => {
+          if (!snapshot.sourceUrl?.startsWith(BEST_FIGHT_ODDS_URL)) return true;
+          const checkedAt = new Date(snapshot.checkedAt);
+          return !Number.isFinite(checkedAt.valueOf()) || checkedAt < eventStart;
+        });
+      }
+    }
+  }
   return store;
 }
 

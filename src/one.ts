@@ -373,7 +373,7 @@ function oneFighterDetail(
   odds: string | null,
   style: string | null | undefined,
 ): string | null {
-  const details = [record ? `ONE ${record}` : null, age ? `${age}yo` : null, odds ? `Odds ${odds}` : null, style].filter(Boolean);
+  const details = [record ? `ONE ${record}` : null, age ? `${age}yo` : null, style, odds].filter(Boolean);
   return details.length ? `• ${shortPromotionFighterName(name)}: ${details.join(" | ")}` : null;
 }
 
@@ -402,7 +402,7 @@ function descriptionFor(event: OneEvent, generatedAt: Date): string {
       }).join("\n\n")
     : "No bouts announced yet.";
   const oddsSource = event.bouts.some((bout) => bout.oddsHistory?.length)
-    ? `\nOdds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked weekly`
+    ? `\nOdds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked Monday and Friday`
     : "";
   return [
     header,

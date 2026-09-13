@@ -497,7 +497,7 @@ function fighterDetail(fighter: PflFighter, eventDate: string, opponentOdds: str
   const age = ageOnDate(fighter.birthDate, new Date(`${eventDate}T12:00:00Z`));
   const plausibleAge = age !== null && age >= 16 && age <= 65 ? `${age}yo` : null;
   const odds = formatPromotionOdds(fighter.odds, opponentOdds);
-  const details = [fighter.record, plausibleAge, odds ? `Odds ${odds}` : null, fighter.style].filter(Boolean);
+  const details = [fighter.record, plausibleAge, fighter.style, odds].filter(Boolean);
   return details.length ? `• ${shortName(fighter.name)}: ${details.join(" | ")}` : null;
 }
 
@@ -524,7 +524,7 @@ function descriptionFor(event: PflEvent, generatedAt: Date): string {
     event.cancelledBouts.map((bout) => `✕ ${bout.red.name} vs. ${bout.blue.name}\n• ${bout.note ?? "Removed from the official PFL card"}`).join("\n\n"),
   ] : [];
   const oddsSource = event.bouts.some((bout) => bout.oddsHistory?.length)
-    ? `\nOdds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked weekly`
+    ? `\nOdds source: ${BEST_FIGHT_ODDS_URL} · best available line · checked Monday and Friday`
     : "";
   return [
     [

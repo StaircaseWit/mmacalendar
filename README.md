@@ -1,6 +1,6 @@
 # MMA Calendar
 
-A free, automatically updated set of MMA calendar subscriptions. The feeds provide detailed cards, fighter information and weekly odds history where a market is available. ONE Championship, RIZIN and PFL events include official venues, times and announced bouts.
+A free, automatically updated set of MMA calendar subscriptions. The feeds provide detailed cards, fighter information and twice-weekly odds history where a market is available. ONE Championship, RIZIN and PFL events include official venues, times and announced bouts.
 
 No database, paid host, Chrome extension, or Google API is required. GitHub Actions runs the generator, and GitHub Pages serves the resulting calendar feeds.
 
@@ -23,15 +23,15 @@ The generator is written in strict TypeScript. Its event, card, fighter, profile
 
   🥊 6. 𝗝𝗲𝗮𝗻 𝗦𝗶𝗹𝘃𝗮 (#6) 🇧🇷 vs. 𝗝𝗼𝘀𝗲 𝗠𝗶𝗴𝘂𝗲𝗹 𝗗𝗲𝗹𝗴𝗮𝗱𝗼 🇲🇽
   • 145lbs/66kg Featherweight
-  • Silva: 17-3-0 | 29yo | Odds 🟢 -425 (1.24) | Striker
-  • Delgado: 12-2-0 | 28yo | Odds 🔴 +325 (4.25)
+  • Silva: 17-3-0 | 29yo | Striker | -425 (1.24)
+  • Delgado: 12-2-0 | 28yo | +325 (4.25)
   • Odds history:
     ◦ 12 Sep: Silva 🟢 -425 (1.24) | Delgado 🔴 +325 (4.25)
   ```
 
 - A link to the source UFC event and to the complete odds-change log.
 
-Event/card times, venue, fights, rankings, countries, records, birth dates, fighting styles, and displayed odds are collected from UFC.com. If UFC has not published a field, the calendar says `unavailable`; it does not guess.
+Event/card times, venue, fights, rankings, countries, records, birth dates and fighting styles are collected from UFC.com. Displayed moneylines are collected from BestFightOdds. If a source has not published a field, the calendar does not guess.
 
 The standard calendar description uses the `🥊` marker, bout order, and bold Unicode fighter names to make matchup rows easy to scan. A bold HTML alternative is also included for calendar clients that support rich descriptions.
 
@@ -40,7 +40,7 @@ The standard calendar description uses the `🥊` marker, bout order, and bold U
 - The workflow checks event and card details every Monday and Friday at 06:17 UTC.
 - Once an event has been discovered, it remains in the feed permanently. This preserves an expanding archive rather than a rolling window.
 - Fighter records, birth dates, and family names are cached for seven days. Birth dates are used only to calculate age on the event date.
-- UFC odds come from UFC.com. Available ONE Championship, RIZIN and PFL moneylines come from BestFightOdds. All odds are accepted into the calendar **no more than once every seven days** and are shown in American and decimal formats.
+- Available UFC, ONE Championship, RIZIN and PFL moneylines come from BestFightOdds. They are checked every Monday and Friday and shown in American and decimal formats. A history row is added only when a line changes.
 - `data/odds-history.json` stores only the first snapshot and subsequent changes. The same history appears in each relevant calendar entry and in `docs/odds-history.html`.
 - `data/promotion-odds.json` applies the same change-only history policy to ONE Championship, RIZIN and PFL.
 - Stable event IDs mean a changed time or fight card updates the existing calendar entry instead of creating a duplicate.
@@ -101,4 +101,4 @@ The subscription is written to `docs/ufc.ics`.
 
 ## Current scope
 
-UFC, ONE Championship, RIZIN and PFL are supported. UFC data is collected from UFC.com. ONE event schedules and announced bouts come from ONE Championship's official calendar. RIZIN schedules, cards, fighter countries and cancellation notices come from RIZIN's official event and fighter pages. PFL schedules, cards, records, ages and countries come from PFL's official event and fighter pages. Available non-UFC moneylines are aggregated by BestFightOdds; a bout stays uncluttered when no market has been posted. "Follow a fighter" notifications are deliberately deferred.
+UFC, ONE Championship, RIZIN and PFL are supported. UFC data is collected from UFC.com. ONE event schedules and announced bouts come from ONE Championship's official calendar. RIZIN schedules, cards, fighter countries and cancellation notices come from RIZIN's official event and fighter pages. PFL schedules, cards, records, ages and countries come from PFL's official event and fighter pages. Available moneylines for every promotion are aggregated by BestFightOdds; a bout stays uncluttered when no market has been posted. "Follow a fighter" notifications are deliberately deferred.
