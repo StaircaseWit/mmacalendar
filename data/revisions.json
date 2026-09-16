@@ -206,22 +206,22 @@
       "lastModified": "2026-09-13T16:22:42.553Z"
     },
     "ufc:split:cryptocom-ufc-331:early-prelims": {
-      "hash": "d5e2b75e9aa5fffaea367670c596df64c73d8680c757622ac9f647a20e40c1b3",
-      "sequence": 3,
+      "hash": "c7a8f19a0b4930f43fb1705c675083da5a533bb4daa6f8de6d91d49a956541da",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:split:cryptocom-ufc-331:prelims": {
-      "hash": "f84258b446dbad74e0fbc8991db9c2e94b3babbb239d0dc860280076a4a06e8b",
-      "sequence": 3,
+      "hash": "7db4e167bc973a30f1ef8c120b818288ea63baa786a50bb015061c8a900c7713",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:split:cryptocom-ufc-331:main-card": {
-      "hash": "8291939f5b0b49449a5e06f2b56e5c3cf6fdd651fbec80ed3843054df322f5a9",
-      "sequence": 3,
+      "hash": "3ba50eb9012d6700ab2dbd0da99b315e43c1d074ac59bb2a6b69df0acdaaf3b8",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:split:ufc-fight-night-september-26-2026:prelims": {
       "hash": "af0e70272ed4d8cbd874674302b22ff665d0929b5fea75eb11aa32517be5426e",
@@ -248,10 +248,10 @@
       "lastModified": "2026-09-16T11:41:28.093Z"
     },
     "ufc:split:ufc-332:main-card": {
-      "hash": "8cba034c7dacf9a57d7bb6e51a4896beefb48305cddb7fe2e6ece952d1b914c9",
-      "sequence": 2,
+      "hash": "04bf97af694af2be3cf79de233dc1c23b9916c0e69d637429faee863d7bddd80",
+      "sequence": 3,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-13T16:22:42.553Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:split:ufc-fight-night-october-10-2026:prelims": {
       "hash": "c5797d8be1fcf688308254623a9bdf829a0d5caa3a5e79bc81322d6c4cbdb5df",
@@ -458,10 +458,10 @@
       "lastModified": "2026-09-13T16:22:42.553Z"
     },
     "ufc:combined:cryptocom-ufc-331": {
-      "hash": "63d6af8e6a21c768285dec8f2228e1e01591a6246e828f76737e53adff9cc519",
-      "sequence": 3,
+      "hash": "040b9a2c3de35217d5b4fc6ff2e7ded4677da8c89cc5be9db3d0a053db6dce51",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:combined:ufc-fight-night-september-26-2026": {
       "hash": "6064a5ae4187d28dfb658c86c0c8b938101a5fde1e6c2d62417f49e217e00700",
@@ -470,10 +470,10 @@
       "lastModified": "2026-09-13T16:22:42.553Z"
     },
     "ufc:combined:ufc-332": {
-      "hash": "c06218736a190f28d12fd30ac9d1950740111fa70ba19c459702d0a1ee1c4941",
-      "sequence": 3,
+      "hash": "b16a4ec95584a037717432cffa045a9bbed29369bab0a7714ea0cb37983d9eb2",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:combined:ufc-fight-night-october-10-2026": {
       "hash": "f65207613e2f60d86867a64882e99d8e9505421bafe51b2af9477e08f449b462",
@@ -518,46 +518,46 @@
       "lastModified": "2026-09-13T16:22:42.553Z"
     },
     "ufc:fight:cryptocom-ufc-331-fight-13021@ufc-detailed-calendar": {
-      "hash": "a63c62ab60f3f69599be1dcff66b28dfaf77c7325bcac65e69b2aeb6ff0b7d3c",
-      "sequence": 3,
+      "hash": "14b763cab07c1751c2af73f6134899ef2d538a4d86bad8eeba89aa025e59f1f8",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:fight:cryptocom-ufc-331-fight-13026@ufc-detailed-calendar": {
-      "hash": "f04863260d8345a47fd74a7760b945d5cd9a118d374d586d847a600107f1368a",
-      "sequence": 3,
+      "hash": "7d8c0f61e3726944097b44478baeff2beec34b40341bb45106f028c60c172e0b",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:fight:cryptocom-ufc-331-fight-13028@ufc-detailed-calendar": {
-      "hash": "f211e05a5814fe8a1e01d3613bcc4191cf0157e1ca1f9d2566c7df0942116386",
-      "sequence": 3,
+      "hash": "aeaf80992e878fde09739cbb42ed4b6d965fbfbdcc78cde401b70bf4d835ba0b",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:fight:cryptocom-ufc-331-fight-13027@ufc-detailed-calendar": {
-      "hash": "4082021d046c65140eeec2322aaf8a229dc8f22b750fa4e3c2387da5bf386cc4",
-      "sequence": 3,
+      "hash": "b68b93ba6928ca7225888b27fbce88eb2b55e7f4dee9632cea16371e803f5416",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:fight:cryptocom-ufc-331-fight-13019@ufc-detailed-calendar": {
-      "hash": "ecb19649b4d60f12cbcc799921f605d63dc2a202dea2d2933fa505c4733ed386",
-      "sequence": 3,
+      "hash": "a1377ac08754284dd5176745e0ac2be839eff3c0a4d575f8e3c3790a5d135594",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:fight:cryptocom-ufc-331-fight-13023@ufc-detailed-calendar": {
-      "hash": "eee7df2956f56312de816e961d80dab05bd8dbbcd5be225488a9975ba525b54c",
-      "sequence": 3,
+      "hash": "005de4a6e7cbb96f89d17a4f305ba9452401393a1cdb68bd06583e329f97b279",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:fight:cryptocom-ufc-331-fight-13020@ufc-detailed-calendar": {
-      "hash": "3ed83907ba651760f46029a2a014ce44c6aa0f0d375be7093eabc1653db74cfe",
-      "sequence": 3,
+      "hash": "a91ae629b2e04ce29a8c04aaa71a77b8ec128a24b8244d3a4ee5e9d63322a398",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:fight:cryptocom-ufc-331-fight-13029@ufc-detailed-calendar": {
       "hash": "371209dcfca039ee889344f468202273304978eb97c7fb1a007eccb986d65fda",
@@ -566,16 +566,16 @@
       "lastModified": "2026-09-16T11:41:28.093Z"
     },
     "ufc:fight:cryptocom-ufc-331-fight-13017@ufc-detailed-calendar": {
-      "hash": "d39005b3c42d6d8694a5e315f21c10e717a6590d538b3081f26ef5a5ecfca3c5",
-      "sequence": 3,
+      "hash": "00b7f401ae1ac06ccbdef8e871ce314b6d794c32d889dff17f1eb8ad13ffb9a4",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:fight:cryptocom-ufc-331-fight-13018@ufc-detailed-calendar": {
-      "hash": "dc1cf9a96596a2698c3601c6d800d32405af48243ce737628df134bd63785020",
-      "sequence": 3,
+      "hash": "a9330f617a89f4f9ab045f24a84dd7100774d1801f9528cdb7a842327e18b18b",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:fight:cryptocom-ufc-331-fight-13025@ufc-detailed-calendar": {
       "hash": "42e681dddff956d535a19b8b3e344a47448c09eed971078a15fbd275df10d1e9",
@@ -584,10 +584,10 @@
       "lastModified": "2026-09-16T11:41:28.093Z"
     },
     "ufc:fight:cryptocom-ufc-331-fight-13024@ufc-detailed-calendar": {
-      "hash": "aa38e5353e9aceadd5c0ed5c2e31c4ad0bf3ba1f6b10cf1dc38cb0d98e7f9a3a",
-      "sequence": 3,
+      "hash": "af76390df1cf97e172ba2f60b37a15cdc5e7833445d4664cc1a197a77ae614c8",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:fight:ufc-fight-night-september-26-2026-fight-13104@ufc-detailed-calendar": {
       "hash": "ef1a7e45a88ac030d55a743fa737f306afcd381ee13ff1cd3156f66b847bb967",
@@ -698,16 +698,16 @@
       "lastModified": "2026-09-16T11:41:28.093Z"
     },
     "ufc:fight:ufc-332-fight-13120@ufc-detailed-calendar": {
-      "hash": "f681ce4554d6ddfce354ed4fccdb0ee57bf4385ad8a248d46803443689c3269d",
-      "sequence": 2,
+      "hash": "e25ed0bd01dd397672c0e1eaf09b497ffa03b38abfe87e4196bbbc6d01226ff7",
+      "sequence": 3,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-13T16:22:42.553Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:fight:ufc-332-fight-13070@ufc-detailed-calendar": {
-      "hash": "7bb6f08a801a680a909330785e8d9b18a84a02fc236bc02f48a4db0d18448580",
-      "sequence": 2,
+      "hash": "94efc4a76a97fc1220bac5053ca75444a145be1229c6a7ab9b9e49f36b338c35",
+      "sequence": 3,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-13T16:22:42.553Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "ufc:fight:ufc-332-fight-13123@ufc-detailed-calendar": {
       "hash": "79612724a687b8454574101471044715b80806c98f0d3bda3aa97ca0fd6e30de",
@@ -1082,10 +1082,10 @@
       "lastModified": "2026-09-16T11:41:28.093Z"
     },
     "one:6a0d908edac0916d5a3c8d70": {
-      "hash": "56c05b1ac0c7ee22351f1ba8c01550fc5f9ce06e8f46f340470a9b8dbf97065e",
-      "sequence": 1,
+      "hash": "063107a3b2976b9b34c5664f6574f37ea4f4406ceffefa4785ae6d90d86efa9b",
+      "sequence": 2,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-16T16:01:53.129Z"
     },
     "one:6a0d90e58a2af95867c74e83": {
       "hash": "fcc9017776a937f87d8e59a80cc6dd88bed5c609d4a07e778b27ffcc35e69852",

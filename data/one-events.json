@@ -6941,7 +6941,7 @@
       {
         "redName": "Muhammadaziz Avazov",
         "blueName": "Hero Marco Manguray",
-        "details": "Lightweight MMA",
+        "details": "Lightweight Mixed Martial Arts",
         "redProfileUrl": "https://www.onefc.com/athletes/muhammadaziz-avazov/",
         "blueProfileUrl": "https://www.onefc.com/athletes/hero-marco-manguray/",
         "redCountry": "Uzbekistan",
@@ -6985,7 +6985,7 @@
       {
         "redName": "Connor Tymon",
         "blueName": "Alex Bigander",
-        "details": "Lightweight MMA",
+        "details": "Lightweight Mixed Martial Arts",
         "redProfileUrl": "https://www.onefc.com/athletes/connor-tymon/",
         "blueProfileUrl": "https://www.onefc.com/athletes/alex-bigander/",
         "redCountry": "United Kingdom",
@@ -7093,7 +7093,11 @@
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 25,
+        "redRecord": "3-1-0",
+        "blueAge": 31,
+        "blueRecord": "0-3-0"
       },
       {
         "redName": "Velihan Palit",
@@ -7107,7 +7111,11 @@
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 23,
+        "redRecord": "0-1-0",
+        "blueAge": 23,
+        "blueRecord": "1-0-0"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-171/"

@@ -1126,6 +1126,34 @@
       "record": null,
       "style": null,
       "checkedAt": "2026-09-16T11:41:28.093Z"
+    },
+    "https://www.onefc.com/athletes/gabriele-moram/": {
+      "country": "Brazil",
+      "age": 25,
+      "record": "3-1-0",
+      "style": null,
+      "checkedAt": "2026-09-16T16:01:53.129Z"
+    },
+    "https://www.onefc.com/athletes/cynthia-flores/": {
+      "country": "Mexico",
+      "age": 31,
+      "record": "0-3-0",
+      "style": "Striker",
+      "checkedAt": "2026-09-16T16:01:53.129Z"
+    },
+    "https://www.onefc.com/athletes/velihan-palit/": {
+      "country": "France / Turkey",
+      "age": 23,
+      "record": "0-1-0",
+      "style": null,
+      "checkedAt": "2026-09-16T16:01:53.129Z"
+    },
+    "https://www.onefc.com/athletes/gump/": {
+      "country": "Japan",
+      "age": 23,
+      "record": "1-0-0",
+      "style": null,
+      "checkedAt": "2026-09-16T16:01:53.129Z"
     }
   }
 }
