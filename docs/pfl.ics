@@ -971,45 +971,46 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-chicago2@mma-calendar-pfl
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T144507Z
-SEQUENCE:0
-DTSTART:20261016T230000Z
+LAST-MODIFIED:20260916T114128Z
+SEQUENCE:1
+DTSTART:20261016T220000Z
 DTEND:20261017T060000Z
 SUMMARY:PFL Chicago 2
-DESCRIPTION:Professional Fighters League · Complete Event · 9 announced b
+DESCRIPTION:Professional Fighters League · Complete Event · 8 announced b
  outs\n📍 Wintrust Arena\nTimes display automatically in your calendar ti
  me zone. End time is approximate.\n\n--------------------------------\n
- 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 9. 𝗟𝗶
- 𝘇 𝗖𝗮𝗿𝗺𝗼𝘂𝗰𝗵𝗲 🇺🇸 vs. 𝗝𝗲𝗻𝗮 
- 𝗕𝗶𝘀𝗵𝗼𝗽\n• 125lbs/57kg Women's Flyweight · Championshi
- p\n• Carmouche: 26-8-0 | 42yo\n• Bishop: 11-3-0 | 40yo | Grappler\n\n
- 🥊 8. 𝗣𝗮𝘂𝗹𝗶𝗻𝗮 𝗪𝗶𝘀𝗻𝗶𝗲𝘄𝘀𝗸
- 𝗮 🇵🇱 vs. 𝗖𝗵𝗲𝗹𝘀𝗲𝗮 𝗛𝗮𝗰𝗸𝗲𝘁
- 𝘁 🇦🇺\n• 125lbs/57kg Women's Flyweight\n• Wisniewska: 7-1-0 | 
- 27yo\n• Hackett: 5-3-1 | 26yo | Striker\n\n🥊 7. 𝗖á𝘀𝘀𝗶
- 𝗼 𝗕𝗮𝗿ã𝗼 🇧🇷 vs. 𝗞𝗲𝘃𝗶𝗻 𝗣𝗲𝗮𝘀
- 𝗲 🇺🇸\n• 155lbs/70kg Lightweight\n• Barão: 10-1-1 | 31yo\n•
-  Pease: 6-0-0 | 29yo\n\n🥊 6. 𝗦𝗵𝗮𝗻𝗻𝗼𝗻 𝗖𝗹𝗮
- 𝗿𝗸 🇨🇦 vs. 𝗟𝘂𝗰𝗲𝗿𝗼 𝗔𝗰𝗼𝘀𝘁𝗮\n
- • 125lbs/57kg Women's Flyweight\n• Clark: 8-1-0 | 34yo\n• Acosta: 6-
- 2-0 | 32yo\n\n🥊 5. 𝗘𝗺𝗶𝗹𝗶𝗮𝗻𝗼 𝗦𝗼𝗿𝗱
- 𝗶 vs. 𝗔𝗯𝗿𝗮𝗵𝗮𝗺 𝗕𝗮𝗯𝗹𝘆 🇨🇮\n• 2
- 05lbs/93kg Light Heavyweight\n• Sordi: 23-12-1 | 35yo\n• Bably: 8-3-0 
- | 30yo\n\n🥊 4. 𝗦𝗮𝗿𝘃𝗮𝗿𝗷𝗼𝗻 𝗞𝗵𝗮𝗺
- 𝗶𝗱𝗼𝘃 🇹🇯 vs. 𝗥𝗮𝗳𝗮𝗲𝗹 𝗱𝗼 𝗡𝗮
- 𝘀𝗰𝗶𝗺𝗲𝗻𝘁𝗼 🇧🇷\n• 135lbs/61kg Bantamweight\n
- • Khamidov: 17-1-0 | 29yo\n• Nascimento: 13-3-0 | 34yo\n\n🥊 3. 𝗗
- 𝗲𝗻𝗶𝘀 𝗚𝗼𝗹𝘁𝘀𝗼𝘃 🇷🇺 vs. 𝗠𝗮𝘅
- 𝘄𝗲𝗹𝗹 𝗗𝗷𝗮𝗻𝘁𝗼𝘂 𝗡𝗮𝗻𝗮 🇨🇲\n
- • 265lbs/120kg Heavyweight\n• Goltsov: 37-9-0 | 36yo\n• Nana: 9-2-0 
- | 35yo\n\n🥊 2. 𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗲𝗿 𝗦𝗵𝗮𝗯
- 𝗹𝗶𝘆 vs. 𝗟𝗮𝗻𝗱𝗿𝘆 𝗪𝗮𝗿𝗱 🇺🇸\n• 1
- 35lbs/61kg Bantamweight\n• Shabliy: 25-4-0 | 33yo\n• Ward: 11-3-0 | 29
- yo\n\n🥊 1. 𝗧𝗶𝗺𝘂𝗿 𝗞𝗵𝗶𝘇𝗿𝗶𝗲𝘃 🇷
- 🇺 vs. 𝗚𝗮𝗯𝗿𝗶𝗲𝗹 𝗕𝗿𝗮𝗴𝗮 🇧🇷\n• 1
- 45lbs/66kg Featherweight\n• Khizriev: 18-0-0 | 30yo | Grappler\n• Brag
- a: 17-3-0 | 28yo | Striker\n\n--------------------------------\nSource: ht
- tps://pflmma.com/event/2026-chicago2
+ 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 8. 𝗣𝗮
+ 𝘂𝗹𝗶𝗻𝗮 𝗪𝗶𝘀𝗻𝗶𝗲𝘄𝘀𝗸𝗮 🇵🇱 vs.
+  𝗖𝗵𝗲𝗹𝘀𝗲𝗮 𝗛𝗮𝗰𝗸𝗲𝘁𝘁 🇦🇺\n• 1
+ 25lbs/57kg Women's Flyweight\n• Wisniewska: 7-1-0 | 27yo\n• Hackett: 5
+ -3-1 | 26yo | Striker\n\n🥊 7. 𝗘𝗹𝗶𝗲𝘇𝗲𝗿 𝗞𝘂𝗯
+ 𝗮𝗻𝘇𝗮 vs. 𝗧𝗿𝗲𝘆 𝗪𝗮𝘁𝗲𝗿𝘀\n• 170lbs
+ /77kg Welterweight\n• Kubanza: 9-1-0 | 28yo\n• Waters: 10-2-0 | 31yo\n
+ \n🥊 6. 𝗖á𝘀𝘀𝗶𝗼 𝗕𝗮𝗿ã𝗼 🇧🇷 vs. 𝗞𝗲
+ 𝘃𝗶𝗻 𝗣𝗲𝗮𝘀𝗲 🇺🇸\n• 155lbs/70kg Lightweight\n
+ • Barão: 10-1-1 | 31yo\n• Pease: 6-0-0 | 29yo\n\n🥊 5. 𝗦𝗵𝗮
+ 𝗻𝗻𝗼𝗻 𝗖𝗹𝗮𝗿𝗸 🇨🇦 vs. 𝗟𝘂𝗰𝗲𝗿
+ 𝗼 𝗔𝗰𝗼𝘀𝘁𝗮\n• 125lbs/57kg Women's Flyweight\n• Clar
+ k: 8-1-0 | 34yo\n• Acosta: 6-2-0 | 32yo\n\n🥊 4. 𝗘𝗺𝗶𝗹𝗶
+ 𝗮𝗻𝗼 𝗦𝗼𝗿𝗱𝗶 vs. 𝗔𝗯𝗿𝗮𝗵𝗮𝗺 𝗕
+ 𝗮𝗯𝗹𝘆 🇨🇮\n• 205lbs/93kg Light Heavyweight\n• Sordi: 2
+ 3-12-1 | 35yo\n• Bably: 8-3-0 | 30yo\n\n🥊 3. 𝗦𝗮𝗿𝘃𝗮𝗿
+ 𝗷𝗼𝗻 𝗞𝗵𝗮𝗺𝗶𝗱𝗼𝘃 🇹🇯 vs. 𝗥𝗮𝗳
+ 𝗮𝗲𝗹 𝗱𝗼 𝗡𝗮𝘀𝗰𝗶𝗺𝗲𝗻𝘁𝗼 🇧🇷\n
+ • 135lbs/61kg Bantamweight\n• Khamidov: 17-1-0 | 29yo\n• Nascimento:
+  13-3-0 | 34yo\n\n🥊 2. 𝗧𝗶𝗺𝘂𝗿 𝗞𝗵𝗶𝘇𝗿𝗶
+ 𝗲𝘃 🇷🇺 vs. 𝗚𝗮𝗯𝗿𝗶𝗲𝗹 𝗕𝗿𝗮𝗴𝗮 
+ 🇧🇷\n• 145lbs/66kg Featherweight\n• Khizriev: 18-0-0 | 30yo | Gra
+ ppler\n• Braga: 17-3-0 | 28yo | Striker\n\n🥊 1. 𝗟𝗶𝘇 𝗖𝗮
+ 𝗿𝗺𝗼𝘂𝗰𝗵𝗲 🇺🇸 vs. 𝗝𝗲𝗻𝗮 𝗕𝗶𝘀
+ 𝗵𝗼𝗽\n• 125lbs/57kg Women's Flyweight · Championship\n• Carmo
+ uche: 26-8-0 | 42yo\n• Bishop: 11-3-0 | 40yo | Grappler\n\n-------------
+ -------------------\n𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗣
+ 𝗢𝗦𝗧𝗣𝗢𝗡𝗘𝗗 𝗕𝗢𝗨𝗧𝗦\n-------------------
+ -------------\n\n✕ Denis Goltsov vs. Maxwell Djantou Nana\n• Removed f
+ rom the official PFL card\n\n✕ Alexander Shabliy vs. Landry Ward\n• Re
+ moved from the official PFL card\n\n--------------------------------\nSour
+ ce: https://pflmma.com/event/2026-chicago2
 LOCATION:Wintrust Arena
 URL:https://pflmma.com/event/2026-chicago2
 CATEGORIES:Professional Fighters League
@@ -1018,30 +1019,33 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pfl-returns-to-dubai@mma-calendar-pfl
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T144507Z
-SEQUENCE:0
+LAST-MODIFIED:20260916T114128Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 TRANSP:TRANSPARENT
-SUMMARY:PFL Returns to Dubai
-DESCRIPTION:Professional Fighters League · Complete Event · 4 announced b
+SUMMARY:PFL Dubai
+DESCRIPTION:Professional Fighters League · Complete Event · 5 announced b
  outs\n📍 Dubai\, United Arab Emirates\nCard times have not been announce
  d. This date-only entry will update automatically.\n\n--------------------
  ------------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n
- 🥊 4. 𝗞𝗵𝗮𝘀𝗮𝗻 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝘀𝗵𝗮
+ 🥊 5. 𝗞𝗵𝗮𝘀𝗮𝗻 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝘀𝗵𝗮
  𝗿𝗶𝗽𝗼𝘃 vs. 𝗔𝗱𝗮𝗺 𝗕𝗼𝗿𝗶𝗰𝘀 🇭
  🇺\n• 145lbs/66kg Featherweight\n• Magomedsharipov: 11-0-0 | 26yo\n
- • Borics: 20-4-0 | 33yo | Striker\n\n🥊 3. 𝗦𝗲𝗿𝗴𝗶𝗼 
+ • Borics: 20-4-0 | 33yo | Striker\n\n🥊 4. 𝗦𝗲𝗿𝗴𝗶𝗼 
  𝗣𝗲𝘁𝘁𝗶𝘀 🇺🇸 vs. 𝗝𝗼𝗷𝗶 𝗚𝗼𝘁𝗼\n
  • 135lbs/61kg Bantamweight\n• Pettis: 25-8-0 | 33yo\n• Goto: 21-9-1 
- | 30yo\n\n🥊 2. 𝗣𝗼𝘂𝘆𝗮 𝗥𝗮𝗵𝗺𝗮𝗻𝗶 vs. 
- 𝗢𝗹𝗲𝗴 𝗣𝗼𝗽𝗼𝘃 🇷🇺\n• 265lbs/120kg Heavyweig
- ht\n• Rahmani: 6-0-0 | 34yo\n• Popov: 22-2-0 | 34yo\n\n🥊 1. 𝗩
- 𝗮𝗱𝗶𝗺 𝗡𝗲𝗺𝗸𝗼𝘃 🇷🇺 vs. 𝗦𝗲𝗿𝗴
- 𝗲𝘆 𝗕𝗶𝗹𝗼𝘀𝘁𝗲𝗻𝗻𝗶𝘆 🇷🇺\n• 265lbs
- /120kg Heavyweight · PFL World Title\n• Nemkov: 20-2-0 | 34yo\n• Bilo
- stenniy: 15-4-0 | 31yo\n\n--------------------------------\nSource: https:
- //pflmma.com/event/pfl-returns-to-dubai
+ | 30yo\n\n🥊 3. 𝗔𝗯𝘂𝗯𝗮𝗸𝗮𝗿 𝗡𝘂𝗿𝗺𝗮
+ 𝗴𝗼𝗺𝗲𝗱𝗼𝘃 vs. 𝗗𝗮𝘃𝗶𝗱 𝗠𝗮𝗿𝘁𝗶
+ 𝗻𝗲𝘇\n• 170lbs/77kg Welterweight\n• Nurmagomedov: 16-2-0 | 37y
+ o\n• Martinez: 17-6-0 | 33yo\n\n🥊 2. 𝗣𝗼𝘂𝘆𝗮 𝗥𝗮
+ 𝗵𝗺𝗮𝗻𝗶 vs. 𝗢𝗹𝗲𝗴 𝗣𝗼𝗽𝗼𝘃 🇷🇺\n
+ • 265lbs/120kg Heavyweight\n• Rahmani: 6-0-0 | 34yo\n• Popov: 22-2-0
+  | 34yo\n\n🥊 1. 𝗩𝗮𝗱𝗶𝗺 𝗡𝗲𝗺𝗸𝗼𝘃 🇷🇺 
+ vs. 𝗦𝗲𝗿𝗴𝗲𝘆 𝗕𝗶𝗹𝗼𝘀𝘁𝗲𝗻𝗻𝗶𝘆 
+ 🇷🇺\n• 265lbs/120kg Heavyweight · PFL World Title\n• Nemkov: 20-
+ 2-0 | 34yo\n• Bilostenniy: 15-4-0 | 31yo\n\n----------------------------
+ ----\nSource: https://pflmma.com/event/pfl-returns-to-dubai
 LOCATION:Dubai\, United Arab Emirates
 URL:https://pflmma.com/event/pfl-returns-to-dubai
 CATEGORIES:Professional Fighters League
@@ -1050,11 +1054,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pfl-lyon-2026@mma-calendar-pfl
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T144507Z
-SEQUENCE:0
+LAST-MODIFIED:20260916T114128Z
+SEQUENCE:1
 DTSTART:20261219T160000Z
 DTEND:20261219T220000Z
-SUMMARY:PFL Lyon 2026
+SUMMARY:PFL Lyon
 DESCRIPTION:Professional Fighters League · Complete Event · 2 announced b
  outs\n📍 Lyon\, France\nTimes display automatically in your calendar tim
  e zone. End time is approximate.\n\n--------------------------------\n𝗕

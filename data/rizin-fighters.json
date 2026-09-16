@@ -1349,6 +1349,33 @@
       "record": null,
       "style": "Striker",
       "checkedAt": "2026-09-13T12:47:10.519Z"
+    },
+    "https://jp.rizinff.com/_tags/%E5%8D%83%E6%98%A5": {
+      "name": "Chiharu",
+      "origin": "日本 東京都",
+      "countryCode": "JP",
+      "birthDate": "2001-06-03",
+      "record": null,
+      "style": "All-rounder",
+      "checkedAt": "2026-09-16T11:41:28.093Z"
+    },
+    "https://jp.rizinff.com/_tags/%E7%9B%B8%E6%9C%AC%E5%AE%97%E8%BC%9D": {
+      "name": "Kazuki Aimoto",
+      "origin": "日本 茨城県",
+      "countryCode": "JP",
+      "birthDate": "2001-01-23",
+      "record": null,
+      "style": "Striker",
+      "checkedAt": "2026-09-16T11:41:28.093Z"
+    },
+    "https://jp.rizinff.com/_tags/%E3%82%AD%E3%83%A0%E3%83%BB%E3%82%B9%E3%83%BC%E3%83%81%E3%83%A7%E3%83%AB": {
+      "name": "Soo Chul Kim",
+      "origin": "韓国",
+      "countryCode": "KR",
+      "birthDate": "1991-12-10",
+      "record": "3-3-0",
+      "style": "All-rounder",
+      "checkedAt": "2026-09-16T11:41:28.093Z"
     }
   }
 }

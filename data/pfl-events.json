@@ -5151,34 +5151,10 @@
     "summary": "PFL Chicago 2",
     "location": "Wintrust Arena",
     "url": "https://pflmma.com/event/2026-chicago2",
-    "start": "20261016T230000Z",
+    "start": "20261016T220000Z",
     "end": "20261017T060000Z",
     "status": "CONFIRMED",
     "bouts": [
-      {
-        "id": "1569",
-        "order": 9,
-        "red": {
-          "name": "Liz Carmouche",
-          "profileUrl": "https://pflmma.com/wt-fighter/liz-carmouche",
-          "countryCode": "US",
-          "birthDate": "1984-02-17",
-          "record": "26-8-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Jena Bishop",
-          "profileUrl": "https://pflmma.com/wt-fighter/jena-bishop",
-          "countryCode": null,
-          "birthDate": "1986-02-19",
-          "record": "11-3-0",
-          "style": "Grappler",
-          "odds": null
-        },
-        "details": "125lbs/57kg Women's Flyweight · Championship",
-        "oddsHistory": []
-      },
       {
         "id": "1588",
         "order": 8,
@@ -5204,8 +5180,32 @@
         "oddsHistory": []
       },
       {
-        "id": "1584",
+        "id": "1590",
         "order": 7,
+        "red": {
+          "name": "Eliezer Kubanza",
+          "profileUrl": "https://pflmma.com/wt-fighter/eliezer-kubanza",
+          "countryCode": null,
+          "birthDate": "1997-12-22",
+          "record": "9-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Trey Waters",
+          "profileUrl": "https://pflmma.com/wt-fighter/trey-waters",
+          "countryCode": null,
+          "birthDate": "1995-02-20",
+          "record": "10-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1584",
+        "order": 6,
         "red": {
           "name": "Cássio Barão",
           "profileUrl": "https://pflmma.com/wt-fighter/cassio-barao",
@@ -5229,7 +5229,7 @@
       },
       {
         "id": "1581",
-        "order": 6,
+        "order": 5,
         "red": {
           "name": "Shannon Clark",
           "profileUrl": "https://pflmma.com/wt-fighter/shannon-clark",
@@ -5253,7 +5253,7 @@
       },
       {
         "id": "1580",
-        "order": 5,
+        "order": 4,
         "red": {
           "name": "Emiliano Sordi",
           "profileUrl": "https://pflmma.com/wt-fighter/emiliano-sordi",
@@ -5277,7 +5277,7 @@
       },
       {
         "id": "1571",
-        "order": 4,
+        "order": 3,
         "red": {
           "name": "Sarvarjon Khamidov",
           "profileUrl": "https://pflmma.com/wt-fighter/sarvarjon-khamidov",
@@ -5300,6 +5300,56 @@
         "oddsHistory": []
       },
       {
+        "id": "1573",
+        "order": 2,
+        "red": {
+          "name": "Timur Khizriev",
+          "profileUrl": "https://pflmma.com/wt-fighter/timur-khizriev",
+          "countryCode": "RU",
+          "birthDate": "1995-11-17",
+          "record": "18-0-0",
+          "style": "Grappler",
+          "odds": null
+        },
+        "blue": {
+          "name": "Gabriel Braga",
+          "profileUrl": "https://pflmma.com/wt-fighter/gabriel-braga",
+          "countryCode": "BR",
+          "birthDate": "1998-04-22",
+          "record": "17-3-0",
+          "style": "Striker",
+          "odds": null
+        },
+        "details": "145lbs/66kg Featherweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1569",
+        "order": 1,
+        "red": {
+          "name": "Liz Carmouche",
+          "profileUrl": "https://pflmma.com/wt-fighter/liz-carmouche",
+          "countryCode": "US",
+          "birthDate": "1984-02-17",
+          "record": "26-8-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Jena Bishop",
+          "profileUrl": "https://pflmma.com/wt-fighter/jena-bishop",
+          "countryCode": null,
+          "birthDate": "1986-02-19",
+          "record": "11-3-0",
+          "style": "Grappler",
+          "odds": null
+        },
+        "details": "125lbs/57kg Women's Flyweight · Championship",
+        "oddsHistory": []
+      }
+    ],
+    "cancelledBouts": [
+      {
         "id": "1570",
         "order": 3,
         "red": {
@@ -5321,7 +5371,8 @@
           "odds": null
         },
         "details": "265lbs/120kg Heavyweight",
-        "oddsHistory": []
+        "oddsHistory": [],
+        "note": "Removed from the official PFL card"
       },
       {
         "id": "1572",
@@ -5345,39 +5396,15 @@
           "odds": null
         },
         "details": "135lbs/61kg Bantamweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1573",
-        "order": 1,
-        "red": {
-          "name": "Timur Khizriev",
-          "profileUrl": "https://pflmma.com/wt-fighter/timur-khizriev",
-          "countryCode": "RU",
-          "birthDate": "1995-11-17",
-          "record": "18-0-0",
-          "style": "Grappler",
-          "odds": null
-        },
-        "blue": {
-          "name": "Gabriel Braga",
-          "profileUrl": "https://pflmma.com/wt-fighter/gabriel-braga",
-          "countryCode": "BR",
-          "birthDate": "1998-04-22",
-          "record": "17-3-0",
-          "style": "Striker",
-          "odds": null
-        },
-        "details": "145lbs/66kg Featherweight",
-        "oddsHistory": []
+        "oddsHistory": [],
+        "note": "Removed from the official PFL card"
       }
-    ],
-    "cancelledBouts": []
+    ]
   },
   {
     "uid": "pfl-returns-to-dubai",
     "date": "2026-11-14",
-    "summary": "PFL Returns to Dubai",
+    "summary": "PFL Dubai",
     "location": "Dubai, United Arab Emirates",
     "url": "https://pflmma.com/event/pfl-returns-to-dubai",
     "start": null,
@@ -5386,7 +5413,7 @@
     "bouts": [
       {
         "id": "1587",
-        "order": 4,
+        "order": 5,
         "red": {
           "name": "Khasan Magomedsharipov",
           "profileUrl": "https://pflmma.com/wt-fighter/khasan-magomedsharipov",
@@ -5410,7 +5437,7 @@
       },
       {
         "id": "1586",
-        "order": 3,
+        "order": 4,
         "red": {
           "name": "Sergio Pettis",
           "profileUrl": "https://pflmma.com/wt-fighter/sergio-pettis",
@@ -5430,6 +5457,30 @@
           "odds": null
         },
         "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1591",
+        "order": 3,
+        "red": {
+          "name": "Abubakar Nurmagomedov",
+          "profileUrl": "https://pflmma.com/wt-fighter/abubakar-nurmagomedov",
+          "countryCode": null,
+          "birthDate": "1989-11-12",
+          "record": "16-2-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "David Martinez",
+          "profileUrl": "https://pflmma.com/wt-fighter/david-martinez",
+          "countryCode": null,
+          "birthDate": "1993-08-20",
+          "record": "17-6-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight",
         "oddsHistory": []
       },
       {
@@ -5486,7 +5537,7 @@
   {
     "uid": "pfl-lyon-2026",
     "date": "2026-12-19",
-    "summary": "PFL Lyon 2026",
+    "summary": "PFL Lyon",
     "location": "Lyon, France",
     "url": "https://pflmma.com/event/pfl-lyon-2026",
     "start": "20261219T160000Z",

@@ -2394,8 +2394,130 @@
     "url": "https://jp.rizinff.com/_ct/17852466",
     "status": "TENTATIVE",
     "timeIsTentative": true,
-    "bouts": [],
-    "cancelledBouts": []
+    "bouts": [
+      {
+        "order": 5,
+        "section": "Main Card",
+        "red": {
+          "name": "Makoto Shinryu",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%A5%9E%E9%BE%8D%E8%AA%A0",
+          "style": "All-rounder",
+          "countryCode": "JP",
+          "birthDate": "2000-07-05",
+          "record": "10-4-0",
+          "odds": null
+        },
+        "blue": {
+          "name": "Tony Laramie",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%88%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%A9%E3%83%A9%E3%83%9F%E3%83%BC",
+          "style": "All-rounder",
+          "countryCode": "CA",
+          "birthDate": "1999-01-06",
+          "record": "4-1-0",
+          "odds": null
+        },
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds · Title bout",
+        "oddsHistory": []
+      },
+      {
+        "order": 4,
+        "section": "Main Card",
+        "red": {
+          "name": "Ryuya Fukuda",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%A6%8F%E7%94%B0%E9%BE%8D%E5%BD%8C",
+          "style": "All-rounder",
+          "countryCode": "JP",
+          "birthDate": "1992-06-12",
+          "record": "4-2-0",
+          "odds": null
+        },
+        "blue": {
+          "name": "Soo Chul Kim",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%AD%E3%83%A0%E3%83%BB%E3%82%B9%E3%83%BC%E3%83%81%E3%83%A7%E3%83%AB",
+          "style": "All-rounder",
+          "countryCode": "KR",
+          "birthDate": "1991-12-10",
+          "record": "3-3-0",
+          "odds": null
+        },
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
+      },
+      {
+        "order": 3,
+        "section": "Main Card",
+        "red": {
+          "name": "Jinnosuke Kashimura",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%B9%BF%E5%BF%97%E6%9D%91%E4%BB%81%E4%B9%8B%E4%BB%8B",
+          "style": "Grappler",
+          "countryCode": "JP",
+          "birthDate": "2001-08-12",
+          "record": "2-2-0",
+          "odds": null
+        },
+        "blue": {
+          "name": "Shinobu Ota",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%A4%AA%E7%94%B0%E5%BF%8D",
+          "style": "Grappler",
+          "countryCode": "JP",
+          "birthDate": "1993-12-28",
+          "record": "8-5-1",
+          "odds": null
+        },
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
+      },
+      {
+        "order": 2,
+        "section": "Main Card",
+        "red": {
+          "name": "Abijah Kaleo Meheula",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%A2%E3%83%90%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%BB%E3%82%AB%E3%83%AC%E3%82%AA%E3%83%BB%E3%83%A1%E3%83%98%E3%82%A6%E3%83%A9",
+          "style": "Striker",
+          "countryCode": "US",
+          "birthDate": "1995-11-25",
+          "record": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Kazuki Aimoto",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%9B%B8%E6%9C%AC%E5%AE%97%E8%BC%9D",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "2001-01-23",
+          "record": null,
+          "odds": null
+        },
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
+      },
+      {
+        "order": 1,
+        "section": "Main Card",
+        "red": {
+          "name": "Hiroaki Suzuki",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%88%B4%E6%9C%A8%E5%8D%9A%E6%98%AD",
+          "style": "All-rounder",
+          "countryCode": "JP",
+          "birthDate": "1984-12-06",
+          "record": "7-6-0",
+          "odds": null
+        },
+        "blue": {
+          "name": "Chiharu",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%8D%83%E6%98%A5",
+          "style": "All-rounder",
+          "countryCode": "JP",
+          "birthDate": "2001-06-03",
+          "record": null,
+          "odds": null
+        },
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
+      }
+    ],
+    "cancelledBouts": [],
+    "cardUrl": "https://jp.rizinff.com/_ct/17864056"
   },
   {
     "uid": "17813466",

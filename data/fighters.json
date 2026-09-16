@@ -336,13 +336,6 @@
       "fightingStyle": "Jiu-Jitsu",
       "checkedAt": "2026-09-13T08:04:44.499Z"
     },
-    "https://www.ufc.com/athlete/brian-ortega": {
-      "birthDate": "1991-02-21",
-      "familyName": "Ortega",
-      "record": "16-5-0",
-      "fightingStyle": "Jiu-Jitsu",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
     "https://www.ufc.com/athlete/alonzo-menifield": {
       "birthDate": "1987-10-18",
       "familyName": "Menifield",
@@ -3219,6 +3212,13 @@
       "record": "18-6-0",
       "fightingStyle": "MMA",
       "checkedAt": "2026-09-13T08:10:04.621Z"
+    },
+    "https://www.ufc.com/athlete/lucas-armand": {
+      "birthDate": null,
+      "familyName": "Armand",
+      "record": "0-0-0",
+      "fightingStyle": null,
+      "checkedAt": "2026-09-16T11:41:28.093Z"
     }
   }
 }
