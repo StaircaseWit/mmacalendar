@@ -3568,11 +3568,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-31-2026-prelims@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260916T114128Z
-SEQUENCE:3
+LAST-MODIFIED:20260918T112058Z
+SEQUENCE:4
 DTSTART:20261031T210000Z
 DTEND:20261101T000000Z
-SUMMARY:Prelims – UFC Fight Night: Moicano vs Nolan
+SUMMARY:Prelims – UFCファイトナイト・ラスベガス123: モイ
+ カノ vs ノーラン
 DESCRIPTION:UFC · Prelims · fight card TBD\n📍 Meta APEX\, Las Vegas\, 
  United States\n🕒 21:00–Sun 00:00 Ireland\nThis provisional entry upda
  tes automatically as UFC finalises the card.\n\n--------------------------
@@ -3597,11 +3598,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260916T114128Z
-SEQUENCE:3
+LAST-MODIFIED:20260918T112058Z
+SEQUENCE:4
 DTSTART:20261101T000000Z
 DTEND:20261101T030000Z
-SUMMARY:Main Card – UFC Fight Night: Moicano vs Nolan
+SUMMARY:Main Card – UFCファイトナイト・ラスベガス123: モイ
+ カノ vs ノーラン
 DESCRIPTION:UFC · Main Card · 3 bouts announced · placement TBD\n📍 Me
  ta APEX\, Las Vegas\, United States\n🕒 00:00–03:00 Ireland\nThis prov
  isional entry updates automatically as UFC finalises the card.\n\n--------
@@ -3794,6 +3796,35 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · fight card
  ory</a><br>Event status: Scheduled</p></body></html>
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
+CATEGORIES:UFC,Main Card
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-21-2026-main-card@ufc-detailed-calendar
+DTSTAMP:20260918T112058Z
+LAST-MODIFIED:20260918T112058Z
+SEQUENCE:0
+DTSTART:20261121T220000Z
+DTEND:20261122T010000Z
+SUMMARY:Main Card – UFC Fight Night: TBD vs TBD
+DESCRIPTION:UFC · Main Card · fight card TBD\n📍 ABHA Arena\, Doha\, Qa
+ tar\n🕒 22:00–Sun 01:00 Ireland\nThis provisional entry updates automa
+ tically as UFC finalises the card.\n\n--------------------------------\n
+ 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\nNo bouts announc
+ ed yet.\n\n--------------------------------\nSource: https://www.ufc.com/e
+ vent/ufc-fight-night-november-21-2026\nFull odds log: https://staircasewit
+ .github.io/mmacalendar/odds-history.html\nEvent status: Scheduled
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · fight card 
+ TBD<br>📍 ABHA Arena\, Doha\, Qatar<br>🕒 22:00–Sun 01:00 Ireland<br
+ >This provisional entry updates automatically as UFC finalises the card.</
+ p><p>--------------------------------<br><strong>𝗕𝗢𝗨𝗧𝗦</str
+ ong><br>--------------------------------</p><p>No bouts announced yet.</p>
+ <p>--------------------------------<br>Source: <a href="https://www.ufc.co
+ m/event/ufc-fight-night-november-21-2026">UFC.com</a><br>Full odds log: <a
+  href="https://staircasewit.github.io/mmacalendar/odds-history.html">view 
+ history</a><br>Event status: Scheduled</p></body></html>
+LOCATION:ABHA Arena\, Doha\, Qatar
+URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
 CATEGORIES:UFC,Main Card
 STATUS:TENTATIVE
 END:VEVENT

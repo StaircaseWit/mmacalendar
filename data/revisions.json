@@ -296,16 +296,16 @@
       "lastModified": "2026-09-13T16:22:42.553Z"
     },
     "ufc:split:ufc-fight-night-october-31-2026:prelims": {
-      "hash": "d45f557fa883ba2ee16ab50d3765e674d273ee6db2540db9e8c5380a888a5bd4",
-      "sequence": 3,
+      "hash": "de63cb678efcfbdd2be728607fc3c269786afae70fee0a7c3635ffe4ac7be282",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-18T11:20:58.725Z"
     },
     "ufc:split:ufc-fight-night-october-31-2026:main-card": {
-      "hash": "1aece71d380440cd99b47f3bd9f897d256ca436ce946a5d63d41e511cda00d33",
-      "sequence": 3,
+      "hash": "e65a576e6409e1dbdcc24284a64e87e25eb2b84810d1a1c3df10f8b577c58723",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-18T11:20:58.725Z"
     },
     "ufc:split:ufc-fight-night-november-07-2026:prelims": {
       "hash": "e3744974be9f3212be310dc96e14d02abdaf2c924f36ae27d35fdd1ad624f402",
@@ -494,10 +494,10 @@
       "lastModified": "2026-09-13T16:22:42.553Z"
     },
     "ufc:combined:ufc-fight-night-october-31-2026": {
-      "hash": "07b0a1e0ea1df69e8b6db8f44e40947ff894bb75a8c797111180f5853916d4cb",
-      "sequence": 3,
+      "hash": "634fe9636e5816848eb6c63095aa9ead62bca9ed71696773f997414e7b5016ef",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-18T11:20:58.725Z"
     },
     "ufc:combined:ufc-fight-night-november-07-2026": {
       "hash": "2f736df4ac0f124888aeff20de67beb39e309c2dbfbe6100fd0ef62d9450ca26",
@@ -854,16 +854,16 @@
       "lastModified": "2026-09-13T16:22:42.553Z"
     },
     "ufc:fight:ufc-fight-night-october-31-2026-fight-13117@ufc-detailed-calendar": {
-      "hash": "24ff36091fab89bbd1afdf177ee5a14944b8816490bee0e9b9bce1b82e156dda",
-      "sequence": 3,
+      "hash": "95a46aaf4fd20678dc80bf5b4e581059d924d9ce1681081245084b793c6218f0",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-18T11:20:58.725Z"
     },
     "ufc:fight:ufc-fight-night-october-31-2026-fight-13096@ufc-detailed-calendar": {
-      "hash": "7500e746eebbf74ef22e14558b4ea3810f54e3ffe17d6b403d6f18a8374fc417",
-      "sequence": 3,
+      "hash": "46eb1e5debe36b51775fe7b0759cd08d714d2207f0b9cf15959a5c8365727800",
+      "sequence": 4,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-18T11:20:58.725Z"
     },
     "ufc:fight:ufc-fight-night-november-07-2026-fight-gabriel-bonfim-sean-brady@ufc-detailed-calendar": {
       "hash": "303a2979ea13a1d79a81f1fac046e8fad2576acf80673c05c342b434b333d41f",
@@ -1082,10 +1082,10 @@
       "lastModified": "2026-09-16T11:41:28.093Z"
     },
     "one:6a0d908edac0916d5a3c8d70": {
-      "hash": "063107a3b2976b9b34c5664f6574f37ea4f4406ceffefa4785ae6d90d86efa9b",
-      "sequence": 2,
+      "hash": "65791189da5499657bb30987ac4b92a7fc8f8c41695aff2a01dbc96f76800620",
+      "sequence": 3,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T16:01:53.129Z"
+      "lastModified": "2026-09-18T11:20:58.725Z"
     },
     "one:6a0d90e58a2af95867c74e83": {
       "hash": "fcc9017776a937f87d8e59a80cc6dd88bed5c609d4a07e778b27ffcc35e69852",
@@ -1094,10 +1094,10 @@
       "lastModified": "2026-09-13T14:45:07.860Z"
     },
     "one:6a9682efd3539b67790eccd4": {
-      "hash": "553d66da39ed079263ec31d99925714b476b02cb0ab19e0988f57b9edd4c22a3",
-      "sequence": 0,
+      "hash": "ecf14cce3629c674ad3afc9292a073c6ad3d8ceba0a6c0e819877644c7face09",
+      "sequence": 1,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-13T14:45:07.860Z"
+      "lastModified": "2026-09-18T11:20:58.725Z"
     },
     "one:69365982370b4d81ea624186": {
       "hash": "bf8873547a56a5a8980ec43817495a191369812b898a6e7e3b1ef4f053114e33",
@@ -1112,10 +1112,10 @@
       "lastModified": "2026-09-13T14:45:07.860Z"
     },
     "one:6a9685c74f4a09743472c759": {
-      "hash": "7ffc0f7d19177f1bc84980dfb4ff8e044003f40019136ededee29f4436713638",
-      "sequence": 0,
+      "hash": "ce243e7dbdc7f03771d1054c4c58fc9a04f758199d694fd1732ce7c965bae7de",
+      "sequence": 1,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-13T14:45:07.860Z"
+      "lastModified": "2026-09-18T11:20:58.725Z"
     },
     "one:6a3b7d34c90b50e63a5105a9": {
       "hash": "3e164bcdc140b4abaa68c70385b91805227c691f7d07af4106eefad6b13bb013",
@@ -1358,10 +1358,10 @@
       "lastModified": "2026-09-13T14:45:07.860Z"
     },
     "pfl:2026-chicago2": {
-      "hash": "127567cea2cce491b4edc12578b1a3dd9447cfee28cd6b7ddf5b2b3467f7d181",
-      "sequence": 1,
+      "hash": "5f87b26df1262cce46351349c8b97565f43f5be5d1da4117047d648da0d7cf5e",
+      "sequence": 2,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-18T11:20:58.725Z"
     },
     "pfl:pfl-returns-to-dubai": {
       "hash": "d172caec621442d6826573b27827d0d59a63cd77733a8be5f7545e092988f28a",
@@ -1388,10 +1388,22 @@
       "lastModified": "2026-09-16T11:41:28.093Z"
     },
     "ufc:fight:ufc-fight-night-october-31-2026-fight-13133@ufc-detailed-calendar": {
-      "hash": "b162ef833d61dc1f4ccb40da47ad38a08ada1d5b2b1d560b88acb8352a596507",
-      "sequence": 0,
+      "hash": "a3938426ee78450538744d7e213bea86eb55dc004da4bab82b577bd241ee577b",
+      "sequence": 1,
       "createdAt": "2026-09-16T11:41:28.093Z",
-      "lastModified": "2026-09-16T11:41:28.093Z"
+      "lastModified": "2026-09-18T11:20:58.725Z"
+    },
+    "ufc:split:ufc-fight-night-november-21-2026:main-card": {
+      "hash": "745be2279cb5b210e52830a5009382cd07362bad27516744185812b51b6a4422",
+      "sequence": 0,
+      "createdAt": "2026-09-18T11:20:58.725Z",
+      "lastModified": "2026-09-18T11:20:58.725Z"
+    },
+    "ufc:combined:ufc-fight-night-november-21-2026": {
+      "hash": "afa9af9bd458bebdb9ff650c291937f0a3bf957078ba56a240b24dc6295c6f8c",
+      "sequence": 0,
+      "createdAt": "2026-09-18T11:20:58.725Z",
+      "lastModified": "2026-09-18T11:20:58.725Z"
     }
   }
 }

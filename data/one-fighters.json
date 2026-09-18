@@ -1001,20 +1001,6 @@
       "style": null,
       "checkedAt": "2026-09-16T11:41:28.093Z"
     },
-    "https://www.onefc.com/athletes/muhammadaziz-avazov/": {
-      "country": "Uzbekistan",
-      "age": null,
-      "record": null,
-      "style": null,
-      "checkedAt": "2026-09-16T11:41:28.093Z"
-    },
-    "https://www.onefc.com/athletes/hero-marco-manguray/": {
-      "country": "Philippines",
-      "age": 24,
-      "record": "1-1-0",
-      "style": null,
-      "checkedAt": "2026-09-16T11:41:28.093Z"
-    },
     "https://www.onefc.com/athletes/antonia-prifti/": {
       "country": "Greece",
       "age": null,
@@ -1154,6 +1140,34 @@
       "record": "1-0-0",
       "style": null,
       "checkedAt": "2026-09-16T16:01:53.129Z"
+    },
+    "https://www.onefc.com/athletes/regian-eersel/": {
+      "country": "Suriname",
+      "age": 33,
+      "record": "14-1-0",
+      "style": "Striker",
+      "checkedAt": "2026-09-18T11:20:58.725Z"
+    },
+    "https://www.onefc.com/athletes/george-jarvis/": {
+      "country": "England",
+      "age": 26,
+      "record": "6-2-0",
+      "style": "Striker",
+      "checkedAt": "2026-09-18T11:20:58.725Z"
+    },
+    "https://www.onefc.com/athletes/prajanchai/": {
+      "country": "Thailand",
+      "age": 31,
+      "record": "7-2-0",
+      "style": "Striker",
+      "checkedAt": "2026-09-18T11:20:58.725Z"
+    },
+    "https://www.onefc.com/athletes/wang-junguang/": {
+      "country": "China",
+      "age": 31,
+      "record": "1-2-0",
+      "style": "Striker",
+      "checkedAt": "2026-09-18T11:20:58.725Z"
     }
   }
 }

@@ -2882,11 +2882,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-31-2026-combined@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260916T114128Z
-SEQUENCE:3
+LAST-MODIFIED:20260918T112058Z
+SEQUENCE:4
 DTSTART:20261031T210000Z
 DTEND:20261101T030000Z
-SUMMARY:UFC Fight Night: Moicano vs Nolan
+SUMMARY:UFCファイトナイト・ラスベガス123: モイカノ vs ノ
+ ーラン
 DESCRIPTION:UFC · Complete Event · 3 announced bouts\n📍 Meta APEX\, La
  s Vegas\, United States\n🕒 21:00–Sun 03:00 Ireland\n\n---------------
  -----------------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\
@@ -3011,6 +3012,36 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · fight
  tus: Scheduled</p></body></html>
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
+CATEGORIES:UFC,Complete Event
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-21-2026-combined@ufc-detailed-calendar
+DTSTAMP:20260918T112058Z
+LAST-MODIFIED:20260918T112058Z
+SEQUENCE:0
+DTSTART:20261121T220000Z
+DTEND:20261122T010000Z
+SUMMARY:UFC Fight Night: TBD vs TBD
+DESCRIPTION:UFC · Complete Event · fight card TBD\n📍 ABHA Arena\, Doha
+ \, Qatar\n🕒 22:00–Sun 01:00 Ireland\n\n------------------------------
+ --\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n── 𝗠
+ 𝗔𝗜𝗡 𝗖𝗔𝗥𝗗 · 𝗳𝗶𝗴𝗵𝘁 𝗰𝗮𝗿𝗱 
+ 𝗧𝗕𝗗 ──\n\nNo bouts assigned yet.\n\n-------------------------
+ -------\nSource: https://www.ufc.com/event/ufc-fight-night-november-21-202
+ 6\nFull odds log: https://staircasewit.github.io/mmacalendar/odds-history.
+ html\nEvent status: Scheduled
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · fight 
+ card TBD<br>📍 ABHA Arena\, Doha\, Qatar<br>🕒 22:00–Sun 01:00 Irela
+ nd<br><br>--------------------------------<br>𝗕𝗢𝗨𝗧𝗦<br>----
+ ----------------------------<br><br>── 𝗠𝗔𝗜𝗡 𝗖𝗔𝗥
+ 𝗗 · 𝗳𝗶𝗴𝗵𝘁 𝗰𝗮𝗿𝗱 𝗧𝗕𝗗 ──<br><br>N
+ o bouts assigned yet.<br><br>--------------------------------<br>Source: h
+ ttps://www.ufc.com/event/ufc-fight-night-november-21-2026<br>Full odds log
+ : https://staircasewit.github.io/mmacalendar/odds-history.html<br>Event st
+ atus: Scheduled</p></body></html>
+LOCATION:ABHA Arena\, Doha\, Qatar
+URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
 CATEGORIES:UFC,Complete Event
 STATUS:TENTATIVE
 END:VEVENT

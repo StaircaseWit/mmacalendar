@@ -6884,7 +6884,7 @@
     "end": "20260918T173007Z",
     "summary": "ONE Friday Fights 171 & The Inner Circle 31",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-171\n\nKlarob NuiCafeboran vs. Sornsueknoi FA Group | Muay Thai | Flyweight\n\nPetsuphan Lookmuangpet vs. Mahar Thway | Muay Thai | Strawweight\n\nAnusorn Jitmuangnon vs. Petmontri Petsupanun | Muay Thai | Strawweight\n\nMuhammadaziz Avazov vs. Hero Marco Manguray | Mixed Martial Arts | Lightweight\n\nAntonia Prifti vs. Ameline Gerson | Kickboxing | Strawweight\n\nAlex Usieto vs. Hlaing Htet Aung | Muay Thai | Strawweight\n\nConnor Tymon vs. Alex Bigander | Mixed Martial Arts | Lightweight\n\nKhaidarbeg Gazuev vs. Ryusuke Onodera | Kickboxing | Flyweight\n\nEdilson Rodrigues vs. Retsu Sashida | Kickboxing | Flyweight\n\nKiamran Nabati vs. Nontachai Jitmuangnon | Muay Thai | Bantamweight\n\nYamin PK Saenchai vs. Alexey Balyko | Kickboxing | Bantamweight\n\nPetsiam  T2A Waterubon vs. Wang Zhongxian | Kickboxing | Strawweight\n\nGabriele Moram vs. Cynthia  Flores | Muay Thai | Atomweight\n\nVelihan Palit vs. Gump | Kickboxing | Bantamweight\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-171\n\nKlarob NuiCafeboran vs. Sornsueknoi FA Group | Muay Thai | Flyweight\n\nPetsuphan Lookmuangpet vs. Mahar Thway | Muay Thai | Strawweight\n\nAnusorn Jitmuangnon vs. Petmontri Petsupanun | Muay Thai | Strawweight\n\nAntonia Prifti vs. Ameline Gerson | Kickboxing | Strawweight\n\nAlex Usieto vs. Hlaing Htet Aung | Muay Thai | Strawweight\n\nConnor Tymon vs. Alex Bigander | Mixed Martial Arts | Lightweight\n\nKhaidarbeg Gazuev vs. Ryusuke Onodera | Kickboxing | Flyweight\n\nEdilson Rodrigues vs. Retsu Sashida | Kickboxing | Flyweight\n\nKiamran Nabati vs. Nontachai Jitmuangnon | Muay Thai | Bantamweight\n\nYamin PK Saenchai vs. Alexey Balyko | Kickboxing | Bantamweight\n\nPetsiam  T2A Waterubon vs. Wang Zhongxian | Kickboxing | Strawweight\n\nGabriele Moram vs. Cynthia  Flores | Muay Thai | Atomweight\n\nVelihan Palit vs. Gump | Kickboxing | Bantamweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/one-friday-fights-171",
     "status": "CONFIRMED",
     "bouts": [
@@ -6934,20 +6934,6 @@
         "redStyle": "Striker",
         "blueAge": 22,
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
-      },
-      {
-        "redName": "Muhammadaziz Avazov",
-        "blueName": "Hero Marco Manguray",
-        "details": "Lightweight Mixed Martial Arts",
-        "redProfileUrl": "https://www.onefc.com/athletes/muhammadaziz-avazov/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/hero-marco-manguray/",
-        "redCountry": "Uzbekistan",
-        "blueCountry": "Philippines",
-        "blueAge": 24,
-        "blueRecord": "1-1-0",
         "redOdds": null,
         "blueOdds": null,
         "oddsHistory": []
@@ -7157,10 +7143,30 @@
     "end": "20261002T153003Z",
     "summary": "ONE Friday Fights 173 & The Inner Circle 33",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-173\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-173\n\nRegian Eersel vs. George Jarvis | Lightweight World Championship\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/one-friday-fights-173",
     "status": "CONFIRMED",
-    "bouts": []
+    "bouts": [
+      {
+        "redName": "Regian Eersel",
+        "blueName": "George Jarvis",
+        "details": "Lightweight Muay Thai World Championship",
+        "redProfileUrl": "https://www.onefc.com/athletes/regian-eersel/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/george-jarvis/",
+        "redCountry": "Suriname",
+        "blueCountry": "England",
+        "redAge": 33,
+        "redRecord": "14-1-0",
+        "redStyle": "Striker",
+        "blueAge": 26,
+        "blueRecord": "6-2-0",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      }
+    ],
+    "detailsUrl": "https://www.onefc.com/events/one-friday-fights-173/"
   },
   {
     "uid": "69365982370b4d81ea624186",
@@ -7228,10 +7234,30 @@
     "end": "20261016T153016Z",
     "summary": "ONE Friday Fights 175 & The Inner Circle 35",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-175\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-175\n\nPrajanchai PongSuphan PK vs. Wang Junguang | Kickboxing | Strawweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/one-friday-fights-175",
     "status": "CONFIRMED",
-    "bouts": []
+    "bouts": [
+      {
+        "redName": "Prajanchai Pongsuphan PK",
+        "blueName": "Wang Junguang",
+        "details": "Strawweight Kickboxing",
+        "redProfileUrl": "https://www.onefc.com/athletes/prajanchai/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/wang-junguang/",
+        "redCountry": "Thailand",
+        "blueCountry": "China",
+        "redAge": 31,
+        "redRecord": "7-2-0",
+        "redStyle": "Striker",
+        "blueAge": 31,
+        "blueRecord": "1-2-0",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      }
+    ],
+    "detailsUrl": "https://www.onefc.com/events/one-friday-fights-175/"
   },
   {
     "uid": "6a3b7d34c90b50e63a5105a9",

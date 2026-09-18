@@ -5157,7 +5157,7 @@
     "bouts": [
       {
         "id": "1588",
-        "order": 8,
+        "order": 10,
         "red": {
           "name": "Paulina Wisniewska",
           "profileUrl": "https://pflmma.com/wt-fighter/paulina-wisniewska",
@@ -5181,7 +5181,7 @@
       },
       {
         "id": "1590",
-        "order": 7,
+        "order": 9,
         "red": {
           "name": "Eliezer Kubanza",
           "profileUrl": "https://pflmma.com/wt-fighter/eliezer-kubanza",
@@ -5205,7 +5205,7 @@
       },
       {
         "id": "1584",
-        "order": 6,
+        "order": 8,
         "red": {
           "name": "Cássio Barão",
           "profileUrl": "https://pflmma.com/wt-fighter/cassio-barao",
@@ -5229,7 +5229,7 @@
       },
       {
         "id": "1581",
-        "order": 5,
+        "order": 7,
         "red": {
           "name": "Shannon Clark",
           "profileUrl": "https://pflmma.com/wt-fighter/shannon-clark",
@@ -5252,8 +5252,32 @@
         "oddsHistory": []
       },
       {
+        "id": "1592",
+        "order": 6,
+        "red": {
+          "name": "Gamid Khizriev",
+          "profileUrl": "https://pflmma.com/wt-fighter/gamid-khizriev",
+          "countryCode": "RU",
+          "birthDate": "2000-07-26",
+          "record": "5-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Michael Boylan",
+          "profileUrl": "https://pflmma.com/wt-fighter/michael-boylan",
+          "countryCode": "US",
+          "birthDate": "2001-03-20",
+          "record": "6-1-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight",
+        "oddsHistory": []
+      },
+      {
         "id": "1580",
-        "order": 4,
+        "order": 5,
         "red": {
           "name": "Emiliano Sordi",
           "profileUrl": "https://pflmma.com/wt-fighter/emiliano-sordi",
@@ -5273,6 +5297,30 @@
           "odds": null
         },
         "details": "205lbs/93kg Light Heavyweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1593",
+        "order": 4,
+        "red": {
+          "name": "Oualy Tandia",
+          "profileUrl": "https://pflmma.com/wt-fighter/oualy-tandia",
+          "countryCode": null,
+          "birthDate": "2002-05-12",
+          "record": "5-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "JP Saint Louis",
+          "profileUrl": "https://pflmma.com/wt-fighter/jp-saintlouis",
+          "countryCode": null,
+          "birthDate": "1992-09-17",
+          "record": "12-5-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight",
         "oddsHistory": []
       },
       {
