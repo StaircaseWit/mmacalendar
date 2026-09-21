@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-09-16T16:01:53.129Z",
+  "lastCheckedAt": "2026-09-21T12:54:10.490Z",
   "fights": {
     "one::693657db2fbf6a23229602bf::selina flores--stamp fairtex": [
       {
@@ -1104,6 +1104,210 @@
         },
         "promotion": "rizin",
         "eventId": "17834937"
+      }
+    ],
+    "one::6a0d908edac0916d5a3c8d70::klarob nuicafeboran--sornsueknoi fa group": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+        "promotion": "one",
+        "eventId": "6a0d908edac0916d5a3c8d70",
+        "odds": {
+          "klarob nuicafeboran": "-110",
+          "sornsueknoi fa group": "-120"
+        },
+        "names": {
+          "klarob nuicafeboran": "Klarob NuiCafeboran",
+          "sornsueknoi fa group": "Sornsueknoi FA Group"
+        }
+      }
+    ],
+    "one::6a0d908edac0916d5a3c8d70::mahar thway--petsuphan lookmuangpet": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+        "promotion": "one",
+        "eventId": "6a0d908edac0916d5a3c8d70",
+        "odds": {
+          "petsuphan lookmuangpet": "-225",
+          "mahar thway": "+163"
+        },
+        "names": {
+          "petsuphan lookmuangpet": "Petsuphan Lookmuangpet",
+          "mahar thway": "Mahar Thway"
+        }
+      }
+    ],
+    "one::6a0d908edac0916d5a3c8d70::anusorn jitmuangnon--petmontri petsupanun": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+        "promotion": "one",
+        "eventId": "6a0d908edac0916d5a3c8d70",
+        "odds": {
+          "anusorn jitmuangnon": "-163",
+          "petmontri petsupanun": "+120"
+        },
+        "names": {
+          "anusorn jitmuangnon": "Anusorn Jitmuangnon",
+          "petmontri petsupanun": "Petmontri Petsupanun"
+        }
+      }
+    ],
+    "one::6a0d908edac0916d5a3c8d70::ameline gerson--antonia prifti": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+        "promotion": "one",
+        "eventId": "6a0d908edac0916d5a3c8d70",
+        "odds": {
+          "antonia prifti": "-500",
+          "ameline gerson": "+333"
+        },
+        "names": {
+          "antonia prifti": "Antonia Prifti",
+          "ameline gerson": "Ameline Gerson"
+        }
+      }
+    ],
+    "one::6a0d908edac0916d5a3c8d70::alex usieto--hlaing htet aung": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+        "promotion": "one",
+        "eventId": "6a0d908edac0916d5a3c8d70",
+        "odds": {
+          "alex usieto": "-225",
+          "hlaing htet aung": "+163"
+        },
+        "names": {
+          "alex usieto": "Alex Usieto",
+          "hlaing htet aung": "Hlaing Htet Aung"
+        }
+      }
+    ],
+    "one::6a0d908edac0916d5a3c8d70::alex bigander--connor tymon": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+        "promotion": "one",
+        "eventId": "6a0d908edac0916d5a3c8d70",
+        "odds": {
+          "connor tymon": "-225",
+          "alex bigander": "+163"
+        },
+        "names": {
+          "connor tymon": "Connor Tymon",
+          "alex bigander": "Alex Bigander"
+        }
+      }
+    ],
+    "one::6a0d908edac0916d5a3c8d70::khaidarbeg gazuev--ryusuke onodera": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+        "promotion": "one",
+        "eventId": "6a0d908edac0916d5a3c8d70",
+        "odds": {
+          "khaidarbeg gazuev": "+140",
+          "ryusuke onodera": "-188"
+        },
+        "names": {
+          "khaidarbeg gazuev": "Khaidarbeg Gazuev",
+          "ryusuke onodera": "Ryusuke Onodera"
+        }
+      }
+    ],
+    "one::6a0d908edac0916d5a3c8d70::edilson rodrigues--retsu sashida": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+        "promotion": "one",
+        "eventId": "6a0d908edac0916d5a3c8d70",
+        "odds": {
+          "edilson rodrigues": "+163",
+          "retsu sashida": "-225"
+        },
+        "names": {
+          "edilson rodrigues": "Edilson Rodrigues",
+          "retsu sashida": "Retsu Sashida"
+        }
+      }
+    ],
+    "one::6a0d908edac0916d5a3c8d70::gump--velihan palit": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+        "promotion": "one",
+        "eventId": "6a0d908edac0916d5a3c8d70",
+        "odds": {
+          "velihan palit": "+200",
+          "gump": "-275"
+        },
+        "names": {
+          "velihan palit": "Velihan Palit",
+          "gump": "Gump"
+        }
+      }
+    ],
+    "one::6a0d908edac0916d5a3c8d70::kiamran nabati--nontachai jitmuangnon": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+        "promotion": "one",
+        "eventId": "6a0d908edac0916d5a3c8d70",
+        "odds": {
+          "kiamran nabati": "-350",
+          "nontachai jitmuangnon": "+240"
+        },
+        "names": {
+          "kiamran nabati": "Kiamran Nabati",
+          "nontachai jitmuangnon": "Nontachai Jitmuangnon"
+        }
+      }
+    ],
+    "one::6a0d908edac0916d5a3c8d70::alexey balyko--yamin pk saenchai": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+        "promotion": "one",
+        "eventId": "6a0d908edac0916d5a3c8d70",
+        "odds": {
+          "yamin pk saenchai": "+110",
+          "alexey balyko": "-150"
+        },
+        "names": {
+          "yamin pk saenchai": "Yamin PK Saenchai",
+          "alexey balyko": "Alexey Balyko"
+        }
+      }
+    ],
+    "one::6a0d908edac0916d5a3c8d70::cynthia flores--gabriele moram": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+        "promotion": "one",
+        "eventId": "6a0d908edac0916d5a3c8d70",
+        "odds": {
+          "gabriele moram": "-275",
+          "cynthia flores": "+200"
+        },
+        "names": {
+          "gabriele moram": "Gabriele Moram",
+          "cynthia flores": "Cynthia Flores"
+        }
       }
     ]
   }

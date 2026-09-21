@@ -4818,8 +4818,28 @@
     "status": "TENTATIVE",
     "bouts": [
       {
+        "id": "1594",
+        "order": 10,
+        "red": {
+          "name": "Mostafa Rashed Neda",
+          "profileUrl": "https://pflmma.com/mena-fighter/mostafa-rashedneda",
+          "countryCode": "SA",
+          "birthDate": "1988-07-11",
+          "record": "9-4-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Osama El Saidy",
+          "profileUrl": "https://pflmma.com/mena-fighter/osama-elsaidy1",
+          "odds": null
+        },
+        "details": "205lbs/93kg Light Heavyweight",
+        "oddsHistory": []
+      },
+      {
         "id": "1574",
-        "order": 6,
+        "order": 9,
         "red": {
           "name": "Badreddine Diani",
           "profileUrl": "https://pflmma.com/mena-fighter/badreddine-diani",
@@ -4843,7 +4863,7 @@
       },
       {
         "id": "1575",
-        "order": 5,
+        "order": 8,
         "red": {
           "name": "Hamza Kooheji",
           "profileUrl": "https://pflmma.com/mena-fighter/hamza-kooheji",
@@ -4867,7 +4887,7 @@
       },
       {
         "id": "1576",
-        "order": 4,
+        "order": 7,
         "red": {
           "name": "Ylies Djiroun",
           "profileUrl": "https://pflmma.com/mena-fighter/ylies-djiroun-2",
@@ -4891,7 +4911,7 @@
       },
       {
         "id": "1577",
-        "order": 3,
+        "order": 6,
         "red": {
           "name": "Omar Hussein",
           "profileUrl": "https://pflmma.com/mena-fighter/omar-hussein-2",
@@ -4914,8 +4934,32 @@
         "oddsHistory": []
       },
       {
+        "id": "1596",
+        "order": 5,
+        "red": {
+          "name": "Hassan Shaaban",
+          "profileUrl": "https://pflmma.com/mena-fighter/hassan-shaaban",
+          "countryCode": "LB",
+          "birthDate": "2001-09-18",
+          "record": "6-2-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Assem Ghanem",
+          "profileUrl": "https://pflmma.com/mena-fighter/assem-ghanem",
+          "countryCode": "EG",
+          "birthDate": "2001-04-16",
+          "record": "7-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight",
+        "oddsHistory": []
+      },
+      {
         "id": "1578",
-        "order": 2,
+        "order": 4,
         "red": {
           "name": "Mehdi Saadi",
           "profileUrl": "https://pflmma.com/mena-fighter/mehdi-saadi-2",
@@ -4939,7 +4983,7 @@
       },
       {
         "id": "1579",
-        "order": 1,
+        "order": 3,
         "red": {
           "name": "Mohammad Fahmi",
           "profileUrl": "https://pflmma.com/mena-fighter/mohammad-fahmi",
@@ -4959,6 +5003,54 @@
           "odds": null
         },
         "details": "155lbs/70kg Lightweight · Semifinal",
+        "oddsHistory": []
+      },
+      {
+        "id": "1595",
+        "order": 2,
+        "red": {
+          "name": "Fatima Al Ammari",
+          "profileUrl": "https://pflmma.com/mena-fighter/fatima-alammari",
+          "countryCode": "SA",
+          "birthDate": "2008-09-16",
+          "record": "0-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Aya Lounes",
+          "profileUrl": "https://pflmma.com/mena-fighter/aya-lounes",
+          "countryCode": "DZ",
+          "birthDate": "2005-10-21",
+          "record": "0-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1597",
+        "order": 1,
+        "red": {
+          "name": "Haif Al Qahtani",
+          "profileUrl": "https://pflmma.com/mena-fighter/haif-alqahtani",
+          "countryCode": "SA",
+          "birthDate": "2008-04-10",
+          "record": "8-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Ali Alshowakh",
+          "profileUrl": "https://pflmma.com/mena-fighter/ali-alshowakh",
+          "countryCode": "BH",
+          "birthDate": "2005-08-30",
+          "record": "3-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "145lbs/66kg Featherweight · Amateur",
         "oddsHistory": []
       }
     ],

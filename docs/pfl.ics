@@ -892,36 +892,48 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pflmena11@mma-calendar-pfl
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T144507Z
-SEQUENCE:0
+LAST-MODIFIED:20260921T125410Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 TRANSP:TRANSPARENT
 SUMMARY:PFL MENA 11
-DESCRIPTION:Professional Fighters League · Complete Event · 6 announced b
- outs\n📍 Riyadh\, KSA\nCard times have not been announced. This date-onl
- y entry will update automatically.\n\n--------------------------------\n
- 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 6. 𝗕𝗮
- 𝗱𝗿𝗲𝗱𝗱𝗶𝗻𝗲 𝗗𝗶𝗮𝗻𝗶 🇲🇦 vs. 𝗛
- 𝗮𝘇𝗲𝗺 𝗞𝗮𝘆𝘆𝗮𝗹𝗶 🇯🇴\n• 170lbs/77kg We
- lterweight · Semifinal\n• Diani: 11-4-0 | 29yo\n• Kayyali: 3-0-2 | 26
- yo\n\n🥊 5. 𝗛𝗮𝗺𝘇𝗮 𝗞𝗼𝗼𝗵𝗲𝗷𝗶 🇧🇭 v
- s. 𝗘𝗹𝗶𝗮𝘀 𝗕𝗼𝘂𝗱𝗲𝗴𝘇𝗱𝗮𝗺𝗲 🇩
- 🇿\n• 145lbs/66kg Featherweight · Semifinal\n• Kooheji: 15-4-0 | 33
- yo\n• Boudegzdame: 21-9-0 | 32yo\n\n🥊 4. 𝗬𝗹𝗶𝗲𝘀 𝗗
- 𝗷𝗶𝗿𝗼𝘂𝗻 vs. 𝗕𝗮𝘀𝗲𝗹 𝗦𝗵𝗮𝗹𝗮𝗮
- 𝗻 🇪🇬\n• 155lbs/70kg Lightweight · Semifinal\n• Djiroun: 16-6
- -0\n• Shalaan: 7-1-0 | 24yo\n\n🥊 3. 𝗢𝗺𝗮𝗿 𝗛𝘂𝘀𝘀
- 𝗲𝗶𝗻 vs. 𝗔𝗯𝗱𝗲𝗹𝗸𝗿𝗶𝗺 𝗭𝗼𝘂𝗮𝗱
-  🇩🇿\n• 170lbs/77kg Welterweight · Semifinal\n• Hussein: 12-7-0\
- n• Zouad: 8-2-0\n\n🥊 2. 𝗠𝗲𝗵𝗱𝗶 𝗦𝗮𝗮𝗱𝗶 
- 🇫🇷 vs. 𝗦𝗵𝗮𝗱𝗶 𝗞𝗮𝗯𝗯𝗮𝗻𝗶 🇸🇾\n
- • 145lbs/66kg Featherweight · Semifinal\n• Saadi: 6-2-0 | 33yo\n• K
- abbani: 5-0-0\n\n🥊 1. 𝗠𝗼𝗵𝗮𝗺𝗺𝗮𝗱 𝗙𝗮𝗵𝗺
- 𝗶 🇮🇶 vs. 𝗔𝗵𝗺𝗲𝗱 𝗘𝗹 𝗦𝗶𝘀𝘆 🇪🇬\
- n• 155lbs/70kg Lightweight · Semifinal\n• Fahmi: 5-1-0 | 31yo\n• Si
- sy: 8-2-0\n\n--------------------------------\nSource: https://pflmma.com/
- event/pflmena11
+DESCRIPTION:Professional Fighters League · Complete Event · 10 announced 
+ bouts\n📍 Riyadh\, KSA\nCard times have not been announced. This date-on
+ ly entry will update automatically.\n\n--------------------------------\n
+ 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 10. 𝗠
+ 𝗼𝘀𝘁𝗮𝗳𝗮 𝗥𝗮𝘀𝗵𝗲𝗱 𝗡𝗲𝗱𝗮 🇸
+ 🇦 vs. 𝗢𝘀𝗮𝗺𝗮 𝗘𝗹 𝗦𝗮𝗶𝗱𝘆\n• 205lbs/93
+ kg Light Heavyweight\n• Neda: 9-4-0 | 38yo\n\n🥊 9. 𝗕𝗮𝗱𝗿
+ 𝗲𝗱𝗱𝗶𝗻𝗲 𝗗𝗶𝗮𝗻𝗶 🇲🇦 vs. 𝗛𝗮𝘇
+ 𝗲𝗺 𝗞𝗮𝘆𝘆𝗮𝗹𝗶 🇯🇴\n• 170lbs/77kg Welterweig
+ ht · Semifinal\n• Diani: 11-4-0 | 29yo\n• Kayyali: 3-0-2 | 26yo\n\n
+ 🥊 8. 𝗛𝗮𝗺𝘇𝗮 𝗞𝗼𝗼𝗵𝗲𝗷𝗶 🇧🇭 vs. 
+ 𝗘𝗹𝗶𝗮𝘀 𝗕𝗼𝘂𝗱𝗲𝗴𝘇𝗱𝗮𝗺𝗲 🇩🇿
+ \n• 145lbs/66kg Featherweight · Semifinal\n• Kooheji: 15-4-0 | 33yo\n
+ • Boudegzdame: 21-9-0 | 32yo\n\n🥊 7. 𝗬𝗹𝗶𝗲𝘀 𝗗𝗷
+ 𝗶𝗿𝗼𝘂𝗻 vs. 𝗕𝗮𝘀𝗲𝗹 𝗦𝗵𝗮𝗹𝗮𝗮𝗻
+  🇪🇬\n• 155lbs/70kg Lightweight · Semifinal\n• Djiroun: 16-6-0\n
+ • Shalaan: 7-1-0 | 24yo\n\n🥊 6. 𝗢𝗺𝗮𝗿 𝗛𝘂𝘀𝘀𝗲
+ 𝗶𝗻 vs. 𝗔𝗯𝗱𝗲𝗹𝗸𝗿𝗶𝗺 𝗭𝗼𝘂𝗮𝗱 
+ 🇩🇿\n• 170lbs/77kg Welterweight · Semifinal\n• Hussein: 12-7-0\n
+ • Zouad: 8-2-0\n\n🥊 5. 𝗛𝗮𝘀𝘀𝗮𝗻 𝗦𝗵𝗮𝗮𝗯
+ 𝗮𝗻 🇱🇧 vs. 𝗔𝘀𝘀𝗲𝗺 𝗚𝗵𝗮𝗻𝗲𝗺 🇪
+ 🇬\n• 155lbs/70kg Lightweight\n• Shaaban: 6-2-0 | 25yo\n• Ghanem: 
+ 7-0-0 | 25yo\n\n🥊 4. 𝗠𝗲𝗵𝗱𝗶 𝗦𝗮𝗮𝗱𝗶 🇫🇷
+  vs. 𝗦𝗵𝗮𝗱𝗶 𝗞𝗮𝗯𝗯𝗮𝗻𝗶 🇸🇾\n• 145lb
+ s/66kg Featherweight · Semifinal\n• Saadi: 6-2-0 | 33yo\n• Kabbani: 5
+ -0-0\n\n🥊 3. 𝗠𝗼𝗵𝗮𝗺𝗺𝗮𝗱 𝗙𝗮𝗵𝗺𝗶 🇮
+ 🇶 vs. 𝗔𝗵𝗺𝗲𝗱 𝗘𝗹 𝗦𝗶𝘀𝘆 🇪🇬\n• 155l
+ bs/70kg Lightweight · Semifinal\n• Fahmi: 5-1-0 | 31yo\n• Sisy: 8-2-0
+ \n\n🥊 2. 𝗙𝗮𝘁𝗶𝗺𝗮 𝗔𝗹 𝗔𝗺𝗺𝗮𝗿𝗶 
+ 🇸🇦 vs. 𝗔𝘆𝗮 𝗟𝗼𝘂𝗻𝗲𝘀 🇩🇿\n• 135lbs/61
+ kg Bantamweight\n• Ammari: 0-0-0 | 18yo\n• Lounes: 0-0-0 | 20yo\n\n
+ 🥊 1. 𝗛𝗮𝗶𝗳 𝗔𝗹 𝗤𝗮𝗵𝘁𝗮𝗻𝗶 🇸🇦 vs
+ . 𝗔𝗹𝗶 𝗔𝗹𝘀𝗵𝗼𝘄𝗮𝗸𝗵 🇧🇭\n• 145lbs/6
+ 6kg Featherweight · Amateur\n• Qahtani: 8-1-0 | 18yo\n• Alshowakh: 3-
+ 0-0 | 21yo\n\n--------------------------------\nSource: https://pflmma.com
+ /event/pflmena11
 LOCATION:Riyadh\, KSA
 URL:https://pflmma.com/event/pflmena11
 CATEGORIES:Professional Fighters League

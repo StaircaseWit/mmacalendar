@@ -6881,7 +6881,7 @@
   {
     "uid": "6a0d908edac0916d5a3c8d70",
     "start": "20260918T113007Z",
-    "end": "20260918T173007Z",
+    "end": "20260918T162852Z",
     "summary": "ONE Friday Fights 171 & The Inner Circle 31",
     "location": "Lumpinee Stadium, Bangkok",
     "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-171\n\nKlarob NuiCafeboran vs. Sornsueknoi FA Group | Muay Thai | Flyweight\n\nPetsuphan Lookmuangpet vs. Mahar Thway | Muay Thai | Strawweight\n\nAnusorn Jitmuangnon vs. Petmontri Petsupanun | Muay Thai | Strawweight\n\nAntonia Prifti vs. Ameline Gerson | Kickboxing | Strawweight\n\nAlex Usieto vs. Hlaing Htet Aung | Muay Thai | Strawweight\n\nConnor Tymon vs. Alex Bigander | Mixed Martial Arts | Lightweight\n\nKhaidarbeg Gazuev vs. Ryusuke Onodera | Kickboxing | Flyweight\n\nEdilson Rodrigues vs. Retsu Sashida | Kickboxing | Flyweight\n\nKiamran Nabati vs. Nontachai Jitmuangnon | Muay Thai | Bantamweight\n\nYamin PK Saenchai vs. Alexey Balyko | Kickboxing | Bantamweight\n\nPetsiam  T2A Waterubon vs. Wang Zhongxian | Kickboxing | Strawweight\n\nGabriele Moram vs. Cynthia  Flores | Muay Thai | Atomweight\n\nVelihan Palit vs. Gump | Kickboxing | Bantamweight\n\nDownload the ONE Super App Now!",
@@ -6902,9 +6902,25 @@
         "blueAge": 31,
         "blueRecord": "6-4-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-110",
+        "blueOdds": "-120",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-21T12:54:10.490Z",
+            "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+            "promotion": "one",
+            "eventId": "6a0d908edac0916d5a3c8d70",
+            "odds": {
+              "klarob nuicafeboran": "-110",
+              "sornsueknoi fa group": "-120"
+            },
+            "names": {
+              "klarob nuicafeboran": "Klarob NuiCafeboran",
+              "sornsueknoi fa group": "Sornsueknoi FA Group"
+            }
+          }
+        ]
       },
       {
         "redName": "Petsuphan Lookmuangpet",
@@ -6919,9 +6935,25 @@
         "redStyle": "Striker",
         "blueAge": 21,
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-225",
+        "blueOdds": "+163",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-21T12:54:10.490Z",
+            "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+            "promotion": "one",
+            "eventId": "6a0d908edac0916d5a3c8d70",
+            "odds": {
+              "petsuphan lookmuangpet": "-225",
+              "mahar thway": "+163"
+            },
+            "names": {
+              "petsuphan lookmuangpet": "Petsuphan Lookmuangpet",
+              "mahar thway": "Mahar Thway"
+            }
+          }
+        ]
       },
       {
         "redName": "Anusorn Jitmuangnon",
@@ -6934,9 +6966,25 @@
         "redStyle": "Striker",
         "blueAge": 22,
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-163",
+        "blueOdds": "+120",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-21T12:54:10.490Z",
+            "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+            "promotion": "one",
+            "eventId": "6a0d908edac0916d5a3c8d70",
+            "odds": {
+              "anusorn jitmuangnon": "-163",
+              "petmontri petsupanun": "+120"
+            },
+            "names": {
+              "anusorn jitmuangnon": "Anusorn Jitmuangnon",
+              "petmontri petsupanun": "Petmontri Petsupanun"
+            }
+          }
+        ]
       },
       {
         "redName": "Antonia Prifti",
@@ -6948,9 +6996,25 @@
         "blueCountry": "Belgium",
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-500",
+        "blueOdds": "+333",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-21T12:54:10.490Z",
+            "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+            "promotion": "one",
+            "eventId": "6a0d908edac0916d5a3c8d70",
+            "odds": {
+              "antonia prifti": "-500",
+              "ameline gerson": "+333"
+            },
+            "names": {
+              "antonia prifti": "Antonia Prifti",
+              "ameline gerson": "Ameline Gerson"
+            }
+          }
+        ]
       },
       {
         "redName": "Alex Usieto",
@@ -6964,9 +7028,25 @@
         "blueAge": 26,
         "blueRecord": "0-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-225",
+        "blueOdds": "+163",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-21T12:54:10.490Z",
+            "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+            "promotion": "one",
+            "eventId": "6a0d908edac0916d5a3c8d70",
+            "odds": {
+              "alex usieto": "-225",
+              "hlaing htet aung": "+163"
+            },
+            "names": {
+              "alex usieto": "Alex Usieto",
+              "hlaing htet aung": "Hlaing Htet Aung"
+            }
+          }
+        ]
       },
       {
         "redName": "Connor Tymon",
@@ -6979,9 +7059,25 @@
         "redAge": 29,
         "redRecord": "1-0-0",
         "blueAge": 22,
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-225",
+        "blueOdds": "+163",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-21T12:54:10.490Z",
+            "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+            "promotion": "one",
+            "eventId": "6a0d908edac0916d5a3c8d70",
+            "odds": {
+              "connor tymon": "-225",
+              "alex bigander": "+163"
+            },
+            "names": {
+              "connor tymon": "Connor Tymon",
+              "alex bigander": "Alex Bigander"
+            }
+          }
+        ]
       },
       {
         "redName": "Khaidarbeg Gazuev",
@@ -6993,9 +7089,25 @@
         "blueCountry": "Japan",
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+140",
+        "blueOdds": "-188",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-21T12:54:10.490Z",
+            "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+            "promotion": "one",
+            "eventId": "6a0d908edac0916d5a3c8d70",
+            "odds": {
+              "khaidarbeg gazuev": "+140",
+              "ryusuke onodera": "-188"
+            },
+            "names": {
+              "khaidarbeg gazuev": "Khaidarbeg Gazuev",
+              "ryusuke onodera": "Ryusuke Onodera"
+            }
+          }
+        ]
       },
       {
         "redName": "Edilson Rodrigues",
@@ -7011,9 +7123,25 @@
         "blueAge": 24,
         "blueRecord": "1-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+163",
+        "blueOdds": "-225",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-21T12:54:10.490Z",
+            "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+            "promotion": "one",
+            "eventId": "6a0d908edac0916d5a3c8d70",
+            "odds": {
+              "edilson rodrigues": "+163",
+              "retsu sashida": "-225"
+            },
+            "names": {
+              "edilson rodrigues": "Edilson Rodrigues",
+              "retsu sashida": "Retsu Sashida"
+            }
+          }
+        ]
       },
       {
         "redName": "Kiamran Nabati",
@@ -7029,9 +7157,25 @@
         "blueAge": 27,
         "blueRecord": "6-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-350",
+        "blueOdds": "+240",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-21T12:54:10.490Z",
+            "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+            "promotion": "one",
+            "eventId": "6a0d908edac0916d5a3c8d70",
+            "odds": {
+              "kiamran nabati": "-350",
+              "nontachai jitmuangnon": "+240"
+            },
+            "names": {
+              "kiamran nabati": "Kiamran Nabati",
+              "nontachai jitmuangnon": "Nontachai Jitmuangnon"
+            }
+          }
+        ]
       },
       {
         "redName": "Yamin PK Saenchai",
@@ -7047,9 +7191,25 @@
         "blueAge": 33,
         "blueRecord": "3-5-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+110",
+        "blueOdds": "-150",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-21T12:54:10.490Z",
+            "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+            "promotion": "one",
+            "eventId": "6a0d908edac0916d5a3c8d70",
+            "odds": {
+              "yamin pk saenchai": "+110",
+              "alexey balyko": "-150"
+            },
+            "names": {
+              "yamin pk saenchai": "Yamin PK Saenchai",
+              "alexey balyko": "Alexey Balyko"
+            }
+          }
+        ]
       },
       {
         "redName": "Petsiam T2A Waterubon",
@@ -7077,9 +7237,25 @@
         "blueCountry": "Mexico",
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": [],
+        "redOdds": "-275",
+        "blueOdds": "+200",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-21T12:54:10.490Z",
+            "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+            "promotion": "one",
+            "eventId": "6a0d908edac0916d5a3c8d70",
+            "odds": {
+              "gabriele moram": "-275",
+              "cynthia flores": "+200"
+            },
+            "names": {
+              "gabriele moram": "Gabriele Moram",
+              "cynthia flores": "Cynthia Flores"
+            }
+          }
+        ],
         "redAge": 25,
         "redRecord": "3-1-0",
         "blueAge": 31,
@@ -7095,9 +7271,25 @@
         "blueCountry": "Japan",
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": [],
+        "redOdds": "+200",
+        "blueOdds": "-275",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-21T12:54:10.490Z",
+            "eventName": "ONE Friday Fights 171 & The Inner Circle 31",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-171-4363",
+            "promotion": "one",
+            "eventId": "6a0d908edac0916d5a3c8d70",
+            "odds": {
+              "velihan palit": "+200",
+              "gump": "-275"
+            },
+            "names": {
+              "velihan palit": "Velihan Palit",
+              "gump": "Gump"
+            }
+          }
+        ],
         "redAge": 23,
         "redRecord": "0-1-0",
         "blueAge": 23,
@@ -7109,13 +7301,175 @@
   {
     "uid": "6a0d90e58a2af95867c74e83",
     "start": "20260925T113030Z",
-    "end": "20260925T173030Z",
+    "end": "20260925T163030Z",
     "summary": "ONE Friday Fights 172 & The Inner Circle 32",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-172\n\nPanpayak Jitmuangnon vs. Lamnamoonlek Torfunfarm | Kickboxing | Flyweight\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-172\n\nSuperlek Jitmuangnon  vs. Othman Rhouni | Muay Thai | Bantamweight\n\nYodkatanyu Jitmuangnon vs. Liu Junchao | Kickboxing | Flyweight\n\nTeeyai Torfunfarm vs. Mungkorn Sor Sombatfarm | Muay Thai | Strawweight\n\nNuapayak Jitmuangnon vs. Suajan Sor Isarachot | Muay Thai | Flyweight\n\nSarmad Jahanara vs. Basir Saraliev | Mixed Martial Arts | Lightweight\n\nMa Zhenzhao vs. Samransing Sitchalongsak | Muay Thai | Strawweight\n\nLeevi Heino vs. Khurshed Gafurov | Mixed Martial Arts | Featherweight\n\nBevan Ali Oguz vs. Yuya Shibata | Kickboxing | Featherweight\n\nDuangbuppha O Sansuk vs. Yutaro Hori | Kickboxing | Bantamweight\n\nTangtang Sor Dechapan vs. Trieu Thi Phuong Thuy | Muay Thai | Atomweight\n\nPanpayak Jitmuangnon vs. Lamnamoonlek Torfunfarm | Kickboxing | Flyweight\n\nKongthoranee Sor Sommai vs. Yuan Pengjie | Kickboxing | Flyweight\n\nZoe Neuschwander vs. Susanti Ndapataka | Muay Thai | Flyweight\n\nEnzo Kartoum vs. Konstantin Shakhtarin | Muay Thai | Featherweight\n\nArsen Soiyrkas vs. Jin Mandokoro | Kickboxing | Strawweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/one-friday-fights-172",
     "status": "CONFIRMED",
     "bouts": [
+      {
+        "redName": "Superlek Jitmuangnon",
+        "blueName": "Othman Rhouni",
+        "details": "Bantamweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/superlek-jitmuangnon/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/othman-rhouni/",
+        "redCountry": "Thailand",
+        "blueCountry": "Morocco",
+        "redAge": 22,
+        "redRecord": "1-0-0",
+        "redStyle": "Striker",
+        "blueAge": 25,
+        "blueRecord": "0-2-0",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Yodkatanyu Jitmuangnon",
+        "blueName": "Liu Junchao",
+        "details": "Flyweight Kickboxing",
+        "redProfileUrl": "https://www.onefc.com/athletes/yodkatanyu-jitmuangnon/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/liu-junchao/",
+        "redCountry": "Thailand",
+        "blueCountry": "China",
+        "redStyle": "Striker",
+        "blueAge": 21,
+        "blueRecord": "1-2-0",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Teeyai Torfunfarm",
+        "blueName": "Mungkorn Sor Sombatfarm",
+        "details": "Strawweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/teeyai-torfunfarm/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/mungkorn-sor-sombatfarm/",
+        "redCountry": "Thailand",
+        "blueCountry": "Thailand",
+        "redAge": 28,
+        "redRecord": "4-3-0",
+        "redStyle": "Striker",
+        "blueAge": 25,
+        "blueRecord": "2-5-0",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Nuapayak Jitmuangnon",
+        "blueName": "Suajan Sor Isarachot",
+        "details": "Flyweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/nuapayak-jitmuangnon/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/suajan-sor-isarachot/",
+        "redCountry": "Thailand",
+        "blueCountry": "Thailand",
+        "redAge": 16,
+        "redRecord": "0-1-0",
+        "redStyle": "Striker",
+        "blueAge": 19,
+        "blueRecord": "1-2-0",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Sarmad Jahanara",
+        "blueName": "Basir Saraliev",
+        "details": "Lightweight MMA",
+        "redProfileUrl": "https://www.onefc.com/athletes/sarmad-jahanara/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/basir-saraliev/",
+        "redCountry": "Australia",
+        "blueCountry": "Russia",
+        "redAge": 31,
+        "redRecord": "2-0-0",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Ma Zhenzhao",
+        "blueName": "Samransing Sitchalongsak",
+        "details": "Strawweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/ma-zhenzhao/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/samransing-sitchalongsak/",
+        "redCountry": "China",
+        "blueCountry": "Thailand",
+        "redStyle": "Striker",
+        "blueAge": 22,
+        "blueRecord": "1-0-0",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Leevi Heino",
+        "blueName": "Khurshed Gafurov",
+        "details": "Featherweight MMA",
+        "redProfileUrl": "https://www.onefc.com/athletes/leevi-heino/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/khurshed-gafurov/",
+        "redCountry": "Finland",
+        "blueCountry": "Russia / Tajikistan",
+        "redAge": 26,
+        "blueAge": 22,
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Bevan Ali Oguz",
+        "blueName": "Yuya Shibata",
+        "details": "Featherweight Kickboxing",
+        "redProfileUrl": "https://www.onefc.com/athletes/bevan-ali-oguz/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/yuya-shibata/",
+        "redCountry": "France",
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueAge": 32,
+        "blueRecord": "1-0-0",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Duangbuppha O Sansuk",
+        "blueName": "Yutaro Hori",
+        "details": "Bantamweight Kickboxing",
+        "redProfileUrl": "https://www.onefc.com/athletes/duangbuppha-o-sansuk/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/yutaro-hori/",
+        "redCountry": "Norway / Thailand",
+        "blueCountry": "Japan",
+        "redAge": 28,
+        "redStyle": "Striker",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Tangtang Sor Dechapan",
+        "blueName": "Trieu Thi Phuong Thuy",
+        "details": "Atomweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/tangtang-suansunandhagym/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/trieu-thi-phuong-thuy/",
+        "redCountry": "Thailand",
+        "blueCountry": "Vietnam",
+        "redAge": 22,
+        "redRecord": "4-2-0",
+        "redStyle": "Striker",
+        "blueAge": 26,
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
       {
         "redName": "Panpayak Jitmuangnon",
         "blueName": "Lamnamoonlek Torfunfarm",
@@ -7130,6 +7484,69 @@
         "blueAge": 28,
         "redRecord": "8-4-0",
         "blueRecord": "3-2-0",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Kongthoranee Sor Sommai",
+        "blueName": "Yuan Pengjie",
+        "details": "Flyweight Kickboxing",
+        "redProfileUrl": "https://www.onefc.com/athletes/kongthoranee-sor-sommai/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/yuan-pengjie/",
+        "redCountry": "Thailand",
+        "blueCountry": "China",
+        "redAge": 29,
+        "redRecord": "11-6-0",
+        "redStyle": "Striker",
+        "blueAge": 23,
+        "blueRecord": "2-0-0",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Zoe Neuschwander",
+        "blueName": "Susanti Ndapataka",
+        "details": "Flyweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/zoe-neuschwander/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/susanti-ndapataka/",
+        "redCountry": "Switzerland",
+        "blueCountry": "Indonesia",
+        "redAge": 26,
+        "redRecord": "2-0-0",
+        "redStyle": "Striker",
+        "blueAge": 28,
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Enzo Kartoum",
+        "blueName": "Konstantin Shakhtarin",
+        "details": "Featherweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/enzo-kartoum/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/konstantin-shakhtarin/",
+        "redCountry": "France",
+        "blueCountry": "Russia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Arsen Soiyrkas",
+        "blueName": "Jin Mandokoro",
+        "details": "Strawweight Kickboxing",
+        "redProfileUrl": "https://www.onefc.com/athletes/arsen-soiyrkas/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/jin-mandokoro/",
+        "redCountry": "Kazakhstan",
+        "blueCountry": "Japan",
+        "redStyle": "Striker",
+        "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
         "oddsHistory": []
@@ -7150,7 +7567,7 @@
       {
         "redName": "Regian Eersel",
         "blueName": "George Jarvis",
-        "details": "Lightweight Muay Thai World Championship",
+        "details": "Lightweight World Championship",
         "redProfileUrl": "https://www.onefc.com/athletes/regian-eersel/",
         "blueProfileUrl": "https://www.onefc.com/athletes/george-jarvis/",
         "redCountry": "Suriname",
@@ -7174,14 +7591,14 @@
     "end": "20261003T080000Z",
     "summary": "ONE Fight Night 48",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/onefightnight48\n\nShamil   Erdogan vs. Paul Elliott | Mixed Martial Arts | Heavyweight\n\nLuke Lessei vs. Charlie Guest | Muay Thai | Featherweight\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/onefightnight48\n\nShamil   Erdogan vs. Paul Elliott | Mixed Martial Arts | Heavyweight\n\nLuke Lessei vs. Charlie Guest | Muay Thai | Featherweight\n\nLee Seung Cheol vs. Karen Ghazaryan | Mixed Martial Arts | Strawweight\n\nNakrob Fairtex vs. Parham Gheirati | Muay Thai | Bantamweight\n\nJoshua Perreira vs. Antonio  Cesar | Mixed Martial Arts | Flyweight\n\nShoya Ishiguro vs. Ruan Alvarenga | Submission Grappling | Featherweight\n\nArian  Esparza vs. Sam Fitzgerald | Muay Thai | Featherweight\n\nYu  Yau Pui vs. Marie McManamon | Muay Thai | Atomweight\n\nYi Yuxuan vs. Elbrus Osmanov | Kickboxing | Bantamweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/onefightnight48",
     "status": "CONFIRMED",
     "bouts": [
       {
         "redName": "Shamil Erdogan",
         "blueName": "Paul Elliott",
-        "details": "Heavyweight Mixed Martial Arts",
+        "details": "Heavyweight MMA",
         "redCountry": "Turkey",
         "blueCountry": "United Kingdom",
         "redProfileUrl": "https://www.onefc.com/athletes/shamil-erdogan/",
@@ -7213,6 +7630,100 @@
         "redOdds": null,
         "blueOdds": null,
         "oddsHistory": []
+      },
+      {
+        "redName": "Lee Seung Cheol",
+        "blueName": "Karen Ghazaryan",
+        "details": "Strawweight MMA",
+        "redProfileUrl": "https://www.onefc.com/athletes/lee-seung-cheol/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/karen-ghazaryan/",
+        "redCountry": "South Korea",
+        "blueCountry": "Armenia",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Nakrob Fairtex",
+        "blueName": "Parham Gheirati",
+        "details": "Bantamweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/nakrob-fairtex/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/parham-gheirati/",
+        "redCountry": "Thailand",
+        "blueCountry": "Iran",
+        "redStyle": "Striker",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Joshua Perreira",
+        "blueName": "Antonio Cesar",
+        "details": "Flyweight MMA",
+        "redProfileUrl": "https://www.onefc.com/athletes/joshua-perreira/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/antonio-cesar/",
+        "redCountry": "United States",
+        "blueCountry": "Brazil",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Shoya Ishiguro",
+        "blueName": "Ruan Alvarenga",
+        "details": "Featherweight Submission Grappling",
+        "redProfileUrl": "https://www.onefc.com/athletes/shoya-ishiguro/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/ruan-alvarenga/",
+        "redCountry": "Japan",
+        "blueCountry": "Brazil",
+        "redStyle": "Grappler",
+        "blueStyle": "Grappler",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Arian Esparza",
+        "blueName": "Sam Fitzgerald",
+        "details": "Featherweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/arian-esparza/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/sam-fitzgerald/",
+        "redCountry": "United States",
+        "blueCountry": "New Zealand",
+        "redStyle": "Striker",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Yu Yau Pui",
+        "blueName": "Marie McManamon",
+        "details": "Atomweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/yu-yau-pui/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/marie-mcmanamon/",
+        "redCountry": "Hong Kong SAR China",
+        "blueCountry": "England / Ireland",
+        "redStyle": "Striker",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Yi Yuxuan",
+        "blueName": "Elbrus Osmanov",
+        "details": "Bantamweight Kickboxing",
+        "redProfileUrl": "https://www.onefc.com/athletes/yi-yuxuan/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/elbrus-osmanov/",
+        "redCountry": "China",
+        "blueCountry": "Russia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/onefightnight48/"
@@ -7239,7 +7750,7 @@
     "status": "CONFIRMED",
     "bouts": [
       {
-        "redName": "Prajanchai Pongsuphan PK",
+        "redName": "Prajanchai PongSuphan PK",
         "blueName": "Wang Junguang",
         "details": "Strawweight Kickboxing",
         "redProfileUrl": "https://www.onefc.com/athletes/prajanchai/",

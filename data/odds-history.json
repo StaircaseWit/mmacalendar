@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-09-16T16:01:53.129Z",
+  "lastCheckedAt": "2026-09-21T12:54:10.490Z",
   "fights": {
     "ufc-fight-night-september-12-2026::edgar chairez--tim elliott": [
       {
@@ -558,6 +558,19 @@
           "natalia silva": "Natalia Silva",
           "wang cong": "Wang Cong"
         }
+      },
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "UFC 332: Silva vs Wang",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4330",
+        "odds": {
+          "natalia silva": "-191",
+          "wang cong": "+175"
+        },
+        "names": {
+          "natalia silva": "Natalia Silva",
+          "wang cong": "Wang Cong"
+        }
       }
     ],
     "ufc-332::deiveson figueiredo--payton talbott": [
@@ -592,6 +605,19 @@
         "odds": {
           "deiveson figueiredo": "+440",
           "payton talbott": "-625"
+        },
+        "names": {
+          "deiveson figueiredo": "Deiveson Figueiredo",
+          "payton talbott": "Payton Talbott"
+        }
+      },
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "UFC 332: Silva vs Wang",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4330",
+        "odds": {
+          "deiveson figueiredo": "+489",
+          "payton talbott": "-611"
         },
         "names": {
           "deiveson figueiredo": "Deiveson Figueiredo",
@@ -682,6 +708,171 @@
         "names": {
           "ryan gandra": "Ryan Gandra",
           "ozzy diaz": "Ozzy Diaz"
+        }
+      }
+    ],
+    "ufc-fight-night-september-26-2026::christian edwards--rodolfo bellato": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "rodolfo bellato": "-175",
+          "christian edwards": "+145"
+        },
+        "names": {
+          "rodolfo bellato": "Rodolfo Bellato",
+          "christian edwards": "Christian Edwards"
+        }
+      }
+    ],
+    "ufc-fight-night-september-26-2026::montel jackson--ricky simon": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "montel jackson": "-200",
+          "ricky simon": "+173"
+        },
+        "names": {
+          "montel jackson": "Montel Jackson",
+          "ricky simon": "Ricky Simon"
+        }
+      }
+    ],
+    "ufc-fight-night-september-26-2026::alatengheili--john castaneda": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "john castaneda": "-291",
+          "alatengheili": "+250"
+        },
+        "names": {
+          "john castaneda": "John Castaneda",
+          "alatengheili": "Alatengheili"
+        }
+      }
+    ],
+    "ufc-fight-night-september-26-2026::ailin perez--norma dumont": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "norma dumont": "+118",
+          "ailin perez": "-127"
+        },
+        "names": {
+          "norma dumont": "Norma Dumont",
+          "ailin perez": "Ailin Perez"
+        }
+      }
+    ],
+    "ufc-fight-night-september-26-2026::vanessa demopoulos--yazmin jauregui": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "vanessa demopoulos": "+600",
+          "yazmin jauregui": "-662"
+        },
+        "names": {
+          "vanessa demopoulos": "Vanessa Demopoulos",
+          "yazmin jauregui": "Yazmin Jauregui"
+        }
+      }
+    ],
+    "ufc-fight-night-september-26-2026::raoni barcelos--raul rosas jr.": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "raul rosas jr.": "-175",
+          "raoni barcelos": "+158"
+        },
+        "names": {
+          "raul rosas jr.": "Raul Rosas Jr.",
+          "raoni barcelos": "Raoni Barcelos"
+        }
+      }
+    ],
+    "ufc-fight-night-september-26-2026::robert bryczek--rodolfo vieira": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "rodolfo vieira": "-130",
+          "robert bryczek": "+120"
+        },
+        "names": {
+          "rodolfo vieira": "Rodolfo Vieira",
+          "robert bryczek": "Robert Bryczek"
+        }
+      }
+    ],
+    "ufc-fight-night-september-26-2026::brady hiestand--rinya nakamura": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "brady hiestand": "+265",
+          "rinya nakamura": "-330"
+        },
+        "names": {
+          "brady hiestand": "Brady Hiestand",
+          "rinya nakamura": "Rinya Nakamura"
+        }
+      }
+    ],
+    "ufc-fight-night-september-26-2026::ilimbek akylbek--mehemmedeli osmanli": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "mehemmedeli osmanli": "-277",
+          "ilimbek akylbek": "+235"
+        },
+        "names": {
+          "mehemmedeli osmanli": "Mehemmedeli Osmanli",
+          "ilimbek akylbek": "Ilimbek Akylbek"
+        }
+      }
+    ],
+    "ufc-fight-night-september-26-2026::melissa amaya--valesca machado": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "melissa amaya": "+175",
+          "valesca machado": "-200"
+        },
+        "names": {
+          "melissa amaya": "Melissa Amaya",
+          "valesca machado": "Valesca Machado"
+        }
+      }
+    ],
+    "ufc-fight-night-september-26-2026::elves brener--josiah harrell": [
+      {
+        "checkedAt": "2026-09-21T12:54:10.490Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "josiah harrell": "-125",
+          "elves brener": "+112"
+        },
+        "names": {
+          "josiah harrell": "Josiah Harrell",
+          "elves brener": "Elves Brener"
         }
       }
     ]
