@@ -7381,7 +7381,7 @@
       {
         "redName": "Sarmad Jahanara",
         "blueName": "Basir Saraliev",
-        "details": "Lightweight MMA",
+        "details": "Lightweight Mixed Martial Arts",
         "redProfileUrl": "https://www.onefc.com/athletes/sarmad-jahanara/",
         "blueProfileUrl": "https://www.onefc.com/athletes/basir-saraliev/",
         "redCountry": "Australia",
@@ -7411,7 +7411,7 @@
       {
         "redName": "Leevi Heino",
         "blueName": "Khurshed Gafurov",
-        "details": "Featherweight MMA",
+        "details": "Featherweight Mixed Martial Arts",
         "redProfileUrl": "https://www.onefc.com/athletes/leevi-heino/",
         "blueProfileUrl": "https://www.onefc.com/athletes/khurshed-gafurov/",
         "redCountry": "Finland",
@@ -7535,7 +7535,9 @@
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 26,
+        "redRecord": "0-1-0"
       },
       {
         "redName": "Arsen Soiyrkas",
@@ -7549,7 +7551,9 @@
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "blueAge": 28,
+        "blueRecord": "1-0-0"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-172/"
@@ -7598,7 +7602,7 @@
       {
         "redName": "Shamil Erdogan",
         "blueName": "Paul Elliott",
-        "details": "Heavyweight MMA",
+        "details": "Heavyweight Mixed Martial Arts",
         "redCountry": "Turkey",
         "blueCountry": "United Kingdom",
         "redProfileUrl": "https://www.onefc.com/athletes/shamil-erdogan/",
@@ -7634,14 +7638,18 @@
       {
         "redName": "Lee Seung Cheol",
         "blueName": "Karen Ghazaryan",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redProfileUrl": "https://www.onefc.com/athletes/lee-seung-cheol/",
         "blueProfileUrl": "https://www.onefc.com/athletes/karen-ghazaryan/",
         "redCountry": "South Korea",
         "blueCountry": "Armenia",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 27,
+        "redRecord": "6-0-0",
+        "blueAge": 25,
+        "blueRecord": "1-1-0"
       },
       {
         "redName": "Nakrob Fairtex",
@@ -7655,19 +7663,28 @@
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 27,
+        "redRecord": "11-5-0",
+        "blueAge": 22,
+        "blueRecord": "7-1-0"
       },
       {
         "redName": "Joshua Perreira",
         "blueName": "Antonio Cesar",
-        "details": "Flyweight MMA",
+        "details": "Flyweight Mixed Martial Arts",
         "redProfileUrl": "https://www.onefc.com/athletes/joshua-perreira/",
         "blueProfileUrl": "https://www.onefc.com/athletes/antonio-cesar/",
         "redCountry": "United States",
         "blueCountry": "Brazil",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 29,
+        "redRecord": "1-0-0",
+        "redStyle": "Grappler",
+        "blueAge": 22,
+        "blueRecord": "1-0-0"
       },
       {
         "redName": "Shoya Ishiguro",
@@ -7681,7 +7698,11 @@
         "blueStyle": "Grappler",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 30,
+        "redRecord": "4-2-0",
+        "blueAge": 28,
+        "blueRecord": "1-0-0"
       },
       {
         "redName": "Arian Esparza",
@@ -7695,7 +7716,11 @@
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 23,
+        "redRecord": "1-2-0",
+        "blueAge": 21,
+        "blueRecord": "0-1-0"
       },
       {
         "redName": "Yu Yau Pui",
@@ -7709,7 +7734,11 @@
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 33,
+        "redRecord": "7-3-0",
+        "blueAge": 36,
+        "blueRecord": "0-2-0"
       },
       {
         "redName": "Yi Yuxuan",
@@ -7723,7 +7752,10 @@
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 25,
+        "blueAge": 25,
+        "blueRecord": "9-1-0"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/onefightnight48/"

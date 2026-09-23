@@ -5006,32 +5006,8 @@
         "oddsHistory": []
       },
       {
-        "id": "1595",
-        "order": 2,
-        "red": {
-          "name": "Fatima Al Ammari",
-          "profileUrl": "https://pflmma.com/mena-fighter/fatima-alammari",
-          "countryCode": "SA",
-          "birthDate": "2008-09-16",
-          "record": "0-0-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Aya Lounes",
-          "profileUrl": "https://pflmma.com/mena-fighter/aya-lounes",
-          "countryCode": "DZ",
-          "birthDate": "2005-10-21",
-          "record": "0-0-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "135lbs/61kg Bantamweight",
-        "oddsHistory": []
-      },
-      {
         "id": "1597",
-        "order": 1,
+        "order": 2,
         "red": {
           "name": "Haif Al Qahtani",
           "profileUrl": "https://pflmma.com/mena-fighter/haif-alqahtani",
@@ -5051,6 +5027,30 @@
           "odds": null
         },
         "details": "145lbs/66kg Featherweight · Amateur",
+        "oddsHistory": []
+      },
+      {
+        "id": "1595",
+        "order": 1,
+        "red": {
+          "name": "Fatima Al Ammari",
+          "profileUrl": "https://pflmma.com/mena-fighter/fatima-alammari",
+          "countryCode": "SA",
+          "birthDate": "2008-09-16",
+          "record": "0-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Aya Lounes",
+          "profileUrl": "https://pflmma.com/mena-fighter/aya-lounes",
+          "countryCode": "DZ",
+          "birthDate": "2005-10-21",
+          "record": "0-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "135lbs/61kg Bantamweight",
         "oddsHistory": []
       }
     ],
@@ -5249,7 +5249,7 @@
     "bouts": [
       {
         "id": "1588",
-        "order": 10,
+        "order": 11,
         "red": {
           "name": "Paulina Wisniewska",
           "profileUrl": "https://pflmma.com/wt-fighter/paulina-wisniewska",
@@ -5269,6 +5269,30 @@
           "odds": null
         },
         "details": "125lbs/57kg Women's Flyweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1599",
+        "order": 10,
+        "red": {
+          "name": "Cobey Fehr",
+          "profileUrl": "https://pflmma.com/wt-fighter/cobey-fehr",
+          "countryCode": null,
+          "birthDate": "1994-08-24",
+          "record": "4-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Rosario Romero",
+          "profileUrl": "https://pflmma.com/wt-fighter/rosario-romero",
+          "countryCode": "US",
+          "birthDate": "1997-02-04",
+          "record": "4-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "135lbs/61kg Bantamweight",
         "oddsHistory": []
       },
       {
@@ -5553,7 +5577,7 @@
     "bouts": [
       {
         "id": "1587",
-        "order": 5,
+        "order": 6,
         "red": {
           "name": "Khasan Magomedsharipov",
           "profileUrl": "https://pflmma.com/wt-fighter/khasan-magomedsharipov",
@@ -5577,7 +5601,7 @@
       },
       {
         "id": "1586",
-        "order": 4,
+        "order": 5,
         "red": {
           "name": "Sergio Pettis",
           "profileUrl": "https://pflmma.com/wt-fighter/sergio-pettis",
@@ -5601,7 +5625,7 @@
       },
       {
         "id": "1591",
-        "order": 3,
+        "order": 4,
         "red": {
           "name": "Abubakar Nurmagomedov",
           "profileUrl": "https://pflmma.com/wt-fighter/abubakar-nurmagomedov",
@@ -5625,7 +5649,7 @@
       },
       {
         "id": "1583",
-        "order": 2,
+        "order": 3,
         "red": {
           "name": "Pouya Rahmani",
           "profileUrl": "https://pflmma.com/wt-fighter/pouya-rahmani",
@@ -5645,6 +5669,30 @@
           "odds": null
         },
         "details": "265lbs/120kg Heavyweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1598",
+        "order": 2,
+        "red": {
+          "name": "Patrick Habirora",
+          "profileUrl": "https://pflmma.com/wt-fighter/patrick-habirora",
+          "countryCode": "BE",
+          "birthDate": "2001-03-25",
+          "record": "9-0-0",
+          "style": "Striker",
+          "odds": null
+        },
+        "blue": {
+          "name": "Omar El Dafrawy",
+          "profileUrl": "https://pflmma.com/wt-fighter/omar-eldafrawy",
+          "countryCode": null,
+          "birthDate": "1995-04-04",
+          "record": "16-6-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight",
         "oddsHistory": []
       },
       {
@@ -5684,6 +5732,30 @@
     "end": "20261219T220000Z",
     "status": "CONFIRMED",
     "bouts": [
+      {
+        "id": "1600",
+        "order": 3,
+        "red": {
+          "name": "Abdoul Abdouraguimov",
+          "profileUrl": "https://pflmma.com/wt-fighter/abdoul-abdouraguimov",
+          "countryCode": "RU",
+          "birthDate": "1995-07-31",
+          "record": "20-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Andreeas Binder",
+          "profileUrl": "https://pflmma.com/wt-fighter/andreeas-binder",
+          "countryCode": "RO",
+          "birthDate": "1996-09-12",
+          "record": "8-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight",
+        "oddsHistory": []
+      },
       {
         "id": "1589",
         "order": 2,
