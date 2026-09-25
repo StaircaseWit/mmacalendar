@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-09-21T12:54:10.490Z",
+  "lastCheckedAt": "2026-09-25T11:55:05.698Z",
   "fights": {
     "ufc-fight-night-september-12-2026::edgar chairez--tim elliott": [
       {
@@ -571,6 +571,19 @@
           "natalia silva": "Natalia Silva",
           "wang cong": "Wang Cong"
         }
+      },
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC 332: Silva vs Wang",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4330",
+        "odds": {
+          "natalia silva": "-200",
+          "wang cong": "+175"
+        },
+        "names": {
+          "natalia silva": "Natalia Silva",
+          "wang cong": "Wang Cong"
+        }
       }
     ],
     "ufc-332::deiveson figueiredo--payton talbott": [
@@ -618,6 +631,19 @@
         "odds": {
           "deiveson figueiredo": "+489",
           "payton talbott": "-611"
+        },
+        "names": {
+          "deiveson figueiredo": "Deiveson Figueiredo",
+          "payton talbott": "Payton Talbott"
+        }
+      },
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC 332: Silva vs Wang",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4330",
+        "odds": {
+          "deiveson figueiredo": "+460",
+          "payton talbott": "-526"
         },
         "names": {
           "deiveson figueiredo": "Deiveson Figueiredo",
@@ -724,6 +750,19 @@
           "rodolfo bellato": "Rodolfo Bellato",
           "christian edwards": "Christian Edwards"
         }
+      },
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "rodolfo bellato": "-177",
+          "christian edwards": "+150"
+        },
+        "names": {
+          "rodolfo bellato": "Rodolfo Bellato",
+          "christian edwards": "Christian Edwards"
+        }
       }
     ],
     "ufc-fight-night-september-26-2026::montel jackson--ricky simon": [
@@ -734,6 +773,19 @@
         "odds": {
           "montel jackson": "-200",
           "ricky simon": "+173"
+        },
+        "names": {
+          "montel jackson": "Montel Jackson",
+          "ricky simon": "Ricky Simon"
+        }
+      },
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "montel jackson": "-200",
+          "ricky simon": "+180"
         },
         "names": {
           "montel jackson": "Montel Jackson",
@@ -754,6 +806,19 @@
           "john castaneda": "John Castaneda",
           "alatengheili": "Alatengheili"
         }
+      },
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "john castaneda": "-307",
+          "alatengheili": "+279"
+        },
+        "names": {
+          "john castaneda": "John Castaneda",
+          "alatengheili": "Alatengheili"
+        }
       }
     ],
     "ufc-fight-night-september-26-2026::ailin perez--norma dumont": [
@@ -764,6 +829,19 @@
         "odds": {
           "norma dumont": "+118",
           "ailin perez": "-127"
+        },
+        "names": {
+          "norma dumont": "Norma Dumont",
+          "ailin perez": "Ailin Perez"
+        }
+      },
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "norma dumont": "+130",
+          "ailin perez": "-137"
         },
         "names": {
           "norma dumont": "Norma Dumont",
@@ -784,6 +862,19 @@
           "vanessa demopoulos": "Vanessa Demopoulos",
           "yazmin jauregui": "Yazmin Jauregui"
         }
+      },
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "vanessa demopoulos": "+630",
+          "yazmin jauregui": "-721"
+        },
+        "names": {
+          "vanessa demopoulos": "Vanessa Demopoulos",
+          "yazmin jauregui": "Yazmin Jauregui"
+        }
       }
     ],
     "ufc-fight-night-september-26-2026::raoni barcelos--raul rosas jr.": [
@@ -794,6 +885,19 @@
         "odds": {
           "raul rosas jr.": "-175",
           "raoni barcelos": "+158"
+        },
+        "names": {
+          "raul rosas jr.": "Raul Rosas Jr.",
+          "raoni barcelos": "Raoni Barcelos"
+        }
+      },
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "raul rosas jr.": "-155",
+          "raoni barcelos": "+132"
         },
         "names": {
           "raul rosas jr.": "Raul Rosas Jr.",
@@ -814,6 +918,19 @@
           "rodolfo vieira": "Rodolfo Vieira",
           "robert bryczek": "Robert Bryczek"
         }
+      },
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "rodolfo vieira": "-155",
+          "robert bryczek": "+140"
+        },
+        "names": {
+          "rodolfo vieira": "Rodolfo Vieira",
+          "robert bryczek": "Robert Bryczek"
+        }
       }
     ],
     "ufc-fight-night-september-26-2026::brady hiestand--rinya nakamura": [
@@ -824,6 +941,19 @@
         "odds": {
           "brady hiestand": "+265",
           "rinya nakamura": "-330"
+        },
+        "names": {
+          "brady hiestand": "Brady Hiestand",
+          "rinya nakamura": "Rinya Nakamura"
+        }
+      },
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "brady hiestand": "+310",
+          "rinya nakamura": "-341"
         },
         "names": {
           "brady hiestand": "Brady Hiestand",
@@ -873,6 +1003,214 @@
         "names": {
           "josiah harrell": "Josiah Harrell",
           "elves brener": "Elves Brener"
+        }
+      },
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "elves brener": "+110",
+          "josiah harrell": "-125"
+        },
+        "names": {
+          "elves brener": "Elves Brener",
+          "josiah harrell": "Josiah Harrell"
+        }
+      }
+    ],
+    "ufc-fight-night-september-26-2026::luis hernandez--sedriques dumas": [
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC Fight Night: Rosas Jr. vs Barcelos",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-121-4368",
+        "odds": {
+          "luis hernandez": "-215",
+          "sedriques dumas": "+200"
+        },
+        "names": {
+          "luis hernandez": "Luis Hernandez",
+          "sedriques dumas": "Sedriques Dumas"
+        }
+      }
+    ],
+    "ufc-332::johnny walker--mick parkin": [
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC 332: Silva vs Wang",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "johnny walker": "-150",
+          "mick parkin": "+120"
+        },
+        "names": {
+          "johnny walker": "Johnny Walker",
+          "mick parkin": "Mick Parkin"
+        }
+      }
+    ],
+    "ufc-332::alexander hernandez--rafael dos anjos": [
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC 332: Silva vs Wang",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "rafael dos anjos": "+200",
+          "alexander hernandez": "-250"
+        },
+        "names": {
+          "rafael dos anjos": "Rafael Dos Anjos",
+          "alexander hernandez": "Alexander Hernandez"
+        }
+      }
+    ],
+    "ufc-332::ismail naurdiev--marvin vettori": [
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC 332: Silva vs Wang",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "marvin vettori": "+118",
+          "ismail naurdiev": "-138"
+        },
+        "names": {
+          "marvin vettori": "Marvin Vettori",
+          "ismail naurdiev": "Ismail Naurdiev"
+        }
+      }
+    ],
+    "ufc-332::court mcgee--eric nolan": [
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC 332: Silva vs Wang",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "court mcgee": "+200",
+          "eric nolan": "-275"
+        },
+        "names": {
+          "court mcgee": "Court McGee",
+          "eric nolan": "Eric Nolan"
+        }
+      }
+    ],
+    "ufc-332::alden coria--imanol rodriguez": [
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC 332: Silva vs Wang",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "imanol rodriguez": "-163",
+          "alden coria": "+130"
+        },
+        "names": {
+          "imanol rodriguez": "Imanol Rodriguez",
+          "alden coria": "Alden Coria"
+        }
+      }
+    ],
+    "ufc-332::andrey pulyaev--damian pinas": [
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC 332: Silva vs Wang",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "damian pinas": "-500",
+          "andrey pulyaev": "+350"
+        },
+        "names": {
+          "damian pinas": "Damian Pinas",
+          "andrey pulyaev": "Andrey Pulyaev"
+        }
+      }
+    ],
+    "ufc-332::benardo sopaj--marcus mcghee": [
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC 332: Silva vs Wang",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "marcus mcghee": "-150",
+          "benardo sopaj": "+110"
+        },
+        "names": {
+          "marcus mcghee": "Marcus McGhee",
+          "benardo sopaj": "Benardo Sopaj"
+        }
+      }
+    ],
+    "ufc-332::esteban ribovics--king green": [
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC 332: Silva vs Wang",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "king green": "+250",
+          "esteban ribovics": "-264"
+        },
+        "names": {
+          "king green": "King Green",
+          "esteban ribovics": "Esteban Ribovics"
+        }
+      }
+    ],
+    "ufc-332::khaos williams--roberto soldic": [
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC 332: Silva vs Wang",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "roberto soldic": "-300",
+          "khaos williams": "+252"
+        },
+        "names": {
+          "roberto soldic": "Roberto Soldic",
+          "khaos williams": "Khaos Williams"
+        }
+      }
+    ],
+    "ufc-332::ateba gautier--roman kopylov": [
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "UFC 332: Silva vs Wang",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "ateba gautier": "-200",
+          "roman kopylov": "+163"
+        },
+        "names": {
+          "ateba gautier": "Ateba Gautier",
+          "roman kopylov": "Roman Kopylov"
+        }
+      }
+    ],
+    "ufc-334::ciryl gane--josh hokit": [
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "Polymarket UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4370",
+        "odds": {
+          "ciryl gane": "-265",
+          "josh hokit": "+225"
+        },
+        "names": {
+          "ciryl gane": "Ciryl Gane",
+          "josh hokit": "Josh Hokit"
+        }
+      }
+    ],
+    "ufc-334::amanda nunes--kayla harrison": [
+      {
+        "checkedAt": "2026-09-25T11:55:05.698Z",
+        "eventName": "Polymarket UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4370",
+        "odds": {
+          "kayla harrison": "-200",
+          "amanda nunes": "+163"
+        },
+        "names": {
+          "kayla harrison": "Kayla Harrison",
+          "amanda nunes": "Amanda Nunes"
         }
       }
     ]

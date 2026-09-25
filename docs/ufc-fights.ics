@@ -11,21 +11,22 @@ X-APPLE-CALENDAR-COLOR:#D8070C
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:ufc-fight-night-september-26-2026-fight-13104@ufc-detailed-calendar
+UID:ufc-fight-night-september-26-2026-fight-13106@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:4
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:5
 DTSTART:20260926T233500Z
 DTEND:20260927T000500Z
-SUMMARY:🥊 7. Rodolfo Bellato vs. Christian Edwards (estimated)
+SUMMARY:🥊 7. Brady Hiestand vs. Rinya Nakamura (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• Bell
- ato: 13-3-1 | 30yo | MMA | -175 (1.57)\n• Edwards: 8-5-0 | age unavailab
- le | MMA | +145 (2.45)\n• Odds history:\n  ◦ 21 Sep: Bellato 🟢 -175
-  (1.57) | Edwards 🔴 +145 (2.45)\nEvent: UFC Fight Night: Rosas Jr. vs B
- arcelos\nSource: https://www.ufc.com/event/ufc-fight-night-september-26-20
- 26\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEve
- nt status: Scheduled
+ ove as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Hiestand:
+  9-2-0 | 27yo | MMA | +310 (4.10)\n• Nakamura: 10-1-0 | 31yo | Wrestler 
+ | -341 (1.29)\n• Odds history:\n  ◦ 21 Sep: Hiestand 🔴 +265 (3.65) 
+ | Nakamura 🟢 -330 (1.30)\n  ◦ 25 Sep: Hiestand 🔴 +310 (4.10) | Nak
+ amura 🟢 -341 (1.29)\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos\nSou
+ rce: https://www.ufc.com/event/ufc-fight-night-september-26-2026\nMain cal
+ endar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: S
+ cheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -33,18 +34,42 @@ RELATED-TO:ufc-fight-night-september-26-2026-prelims@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-fight-night-september-26-2026-fight-13108@ufc-detailed-calendar
+UID:ufc-fight-night-september-26-2026-fight-13105@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:4
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:5
 DTSTART:20260926T231000Z
 DTEND:20260926T234000Z
-SUMMARY:🥊 6. Elves Brener vs. Josiah Harrell (estimated)
+SUMMARY:🥊 6. Rodolfo Vieira vs. Robert Bryczek (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Brener: 16
- -6-0 | 28yo | Jiu-Jitsu | +112 (2.12)\n• Harrell: 11-1-0 | 27yo | Grappl
- er | -125 (1.80)\n• Odds history:\n  ◦ 21 Sep: Brener 🔴 +112 (2.12)
-  | Harrell 🟢 -125 (1.80)\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos
+ ove as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Vieira: 1
+ 1-5-0 | 37yo | Brazilian Jiu-Jitsu | -155 (1.65)\n• Bryczek: 18-7-0 | 36
+ yo | Boxing | +140 (2.40)\n• Odds history:\n  ◦ 21 Sep: Vieira 🟢 -1
+ 30 (1.77) | Bryczek 🔴 +120 (2.20)\n  ◦ 25 Sep: Vieira 🟢 -155 (1.65
+ ) | Bryczek 🔴 +140 (2.40)\nEvent: UFC Fight Night: Rosas Jr. vs Barcelo
+ s\nSource: https://www.ufc.com/event/ufc-fight-night-september-26-2026\nMa
+ in calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent sta
+ tus: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-fight-night-september-26-2026-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-september-26-2026-fight-13104@ufc-detailed-calendar
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:5
+DTSTART:20260926T224500Z
+DTEND:20260926T231500Z
+SUMMARY:🥊 5. Rodolfo Bellato vs. Christian Edwards (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• Bell
+ ato: 13-3-1 | 30yo | MMA | -177 (1.56)\n• Edwards: 8-5-0 | age unavailab
+ le | MMA | +150 (2.50)\n• Odds history:\n  ◦ 21 Sep: Bellato 🟢 -175
+  (1.57) | Edwards 🔴 +145 (2.45)\n  ◦ 25 Sep: Bellato 🟢 -177 (1.56)
+  | Edwards 🔴 +150 (2.50)\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos
  \nSource: https://www.ufc.com/event/ufc-fight-night-september-26-2026\nMai
  n calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent stat
  us: Scheduled
@@ -55,40 +80,19 @@ RELATED-TO:ufc-fight-night-september-26-2026-prelims@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-fight-night-september-26-2026-fight-13103@ufc-detailed-calendar
+UID:ufc-fight-night-september-26-2026-fight-13108@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:4
-DTSTART:20260926T224500Z
-DTEND:20260926T231500Z
-SUMMARY:🥊 5. Montel Jackson vs. Ricky Simon (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Jackson: 
- 15-4-0 | 34yo | MMA | -200 (1.50)\n• Simon: 22-7-1 | 34yo | Wrestling | 
- +173 (2.73)\n• Odds history:\n  ◦ 21 Sep: Jackson 🟢 -200 (1.50) | S
- imon 🔴 +173 (2.73)\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos\nSour
- ce: https://www.ufc.com/event/ufc-fight-night-september-26-2026\nMain cale
- ndar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sc
- heduled
-LOCATION:Meta APEX\, Las Vegas\, United States
-URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-september-26-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-september-26-2026-fight-13109@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:4
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:5
 DTSTART:20260926T221500Z
 DTEND:20260926T224500Z
-SUMMARY:🥊 4. Norma Dumont vs. Ailin Perez (estimated)
+SUMMARY:🥊 4. Elves Brener vs. Josiah Harrell (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 135lbs/61kg Women's Bantamweight\n• D
- umont: 13-3-0 | 35yo | +118 (2.18)\n• Perez: 13-2-0 | 31yo | Kung Fu | -
- 127 (1.79)\n• Odds history:\n  ◦ 21 Sep: Dumont 🔴 +118 (2.18) | Per
- ez 🟢 -127 (1.79)\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos\nSource
+ ove as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Brener: 16
+ -6-0 | 28yo | Jiu-Jitsu | +110 (2.10)\n• Harrell: 11-1-0 | 27yo | Grappl
+ er | -125 (1.80)\n• Odds history:\n  ◦ 21 Sep: Brener 🔴 +112 (2.12)
+  | Harrell 🟢 -125 (1.80)\n  ◦ 25 Sep: Brener 🔴 +110 (2.10) | Harre
+ ll 🟢 -125 (1.80)\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos\nSource
  : https://www.ufc.com/event/ufc-fight-night-september-26-2026\nMain calend
  ar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sche
  duled
@@ -99,21 +103,21 @@ RELATED-TO:ufc-fight-night-september-26-2026-prelims@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-fight-night-september-26-2026-fight-13107@ufc-detailed-calendar
+UID:ufc-fight-night-september-26-2026-fight-13103@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:4
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:5
 DTSTART:20260926T215000Z
 DTEND:20260926T222000Z
-SUMMARY:🥊 3. John Castaneda vs. Alatengheili (estimated)
+SUMMARY:🥊 3. Montel Jackson vs. Ricky Simon (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Castaneda
- : 21-8-1 | 34yo | MMA | -291 (1.34)\n• Alateng: 17-10-2 | 34yo | Wrestli
- ng | +250 (3.50)\n• Odds history:\n  ◦ 21 Sep: Castaneda 🟢 -291 (1.
- 34) | Alateng 🔴 +250 (3.50)\nEvent: UFC Fight Night: Rosas Jr. vs Barce
- los\nSource: https://www.ufc.com/event/ufc-fight-night-september-26-2026\n
- Main calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent s
- tatus: Scheduled
+ ove as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Jackson: 
+ 15-4-0 | 34yo | MMA | -200 (1.50)\n• Simon: 22-7-1 | 34yo | Wrestling | 
+ +180 (2.80)\n• Odds history:\n  ◦ 21 Sep: Jackson 🟢 -200 (1.50) | S
+ imon 🔴 +173 (2.73)\n  ◦ 25 Sep: Jackson 🟢 -200 (1.50) | Simon 🔴
+  +180 (2.80)\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos\nSource: https
+ ://www.ufc.com/event/ufc-fight-night-september-26-2026\nMain calendar: htt
+ ps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -121,20 +125,22 @@ RELATED-TO:ufc-fight-night-september-26-2026-prelims@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-fight-night-september-26-2026-fight-13152@ufc-detailed-calendar
-DTSTAMP:20260923T114256Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:0
+UID:ufc-fight-night-september-26-2026-fight-13107@ufc-detailed-calendar
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:5
 DTSTART:20260926T212500Z
 DTEND:20260926T215500Z
-SUMMARY:🥊 2. Mickey Gall vs. Sedriques Dumas (estimated)
+SUMMARY:🥊 2. John Castaneda vs. Alatengheili (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Gall: 7-7
- -0 | 34yo | Brazilian Jiu-Jitsu\n• Dumas: 10-5-0 | 31yo | Kickboxer\n•
-  Odds history: not checked yet\nEvent: UFC Fight Night: Rosas Jr. vs Barce
- los\nSource: https://www.ufc.com/event/ufc-fight-night-september-26-2026\n
- Main calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent s
- tatus: Scheduled
+ ove as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Castaneda
+ : 21-8-1 | 34yo | MMA | -307 (1.33)\n• Alateng: 17-10-2 | 34yo | Wrestli
+ ng | +279 (3.79)\n• Odds history:\n  ◦ 21 Sep: Castaneda 🟢 -291 (1.
+ 34) | Alateng 🔴 +250 (3.50)\n  ◦ 25 Sep: Castaneda 🟢 -307 (1.33) |
+  Alateng 🔴 +279 (3.79)\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos\n
+ Source: https://www.ufc.com/event/ufc-fight-night-september-26-2026\nMain 
+ calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status
+ : Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -144,19 +150,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-26-2026-fight-13110@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260921T125410Z
-SEQUENCE:3
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:4
 DTSTART:20260926T210000Z
 DTEND:20260926T213000Z
 SUMMARY:🥊 1. Vanessa Demopoulos vs. Yazmin Jauregui (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 115lbs/52kg Women's Strawweight\n• De
- mopoulos: 11-8-0 | 38yo | Jiu-Jitsu | +600 (7.00)\n• Jauregui: 11-2-0 | 
- 27yo | Freestyle | -662 (1.15)\n• Odds history:\n  ◦ 21 Sep: Demopoulo
- s 🔴 +600 (7.00) | Jauregui 🟢 -662 (1.15)\nEvent: UFC Fight Night: Ro
- sas Jr. vs Barcelos\nSource: https://www.ufc.com/event/ufc-fight-night-sep
- tember-26-2026\nMain calendar: https://staircasewit.github.io/mmacalendar/
- ufc.ics\nEvent status: Scheduled
+ mopoulos: 11-8-0 | 38yo | Jiu-Jitsu | +630 (7.30)\n• Jauregui: 11-2-0 | 
+ 27yo | Freestyle | -721 (1.14)\n• Odds history:\n  ◦ 21 Sep: Demopoulo
+ s 🔴 +600 (7.00) | Jauregui 🟢 -662 (1.15)\n  ◦ 25 Sep: Demopoulos 
+ 🔴 +630 (7.30) | Jauregui 🟢 -721 (1.14)\nEvent: UFC Fight Night: Rosa
+ s Jr. vs Barcelos\nSource: https://www.ufc.com/event/ufc-fight-night-septe
+ mber-26-2026\nMain calendar: https://staircasewit.github.io/mmacalendar/uf
+ c.ics\nEvent status: Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -166,19 +173,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-26-2026-fight-13069@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:4
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:5
 DTSTART:20260927T022500Z
 DTEND:20260927T025500Z
 SUMMARY:🥊 5. Raul Rosas Jr. vs. Raoni Barcelos (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Rosas J
- r.: 13-1-0 | 21yo | Freestyle | -175 (1.57)\n• Barcelos: 22-5-0 | 39yo |
-  Jiu-Jitsu | +158 (2.58)\n• Odds history:\n  ◦ 21 Sep: Rosas Jr. 🟢 
- -175 (1.57) | Barcelos 🔴 +158 (2.58)\nEvent: UFC Fight Night: Rosas Jr.
-  vs Barcelos\nSource: https://www.ufc.com/event/ufc-fight-night-september-
- 26-2026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics
- \nEvent status: Scheduled
+ r.: 13-1-0 | 21yo | Freestyle | -155 (1.65)\n• Barcelos: 22-5-0 | 39yo |
+  Jiu-Jitsu | +132 (2.32)\n• Odds history:\n  ◦ 21 Sep: Rosas Jr. 🟢 
+ -175 (1.57) | Barcelos 🔴 +158 (2.58)\n  ◦ 25 Sep: Rosas Jr. 🟢 -155
+  (1.65) | Barcelos 🔴 +132 (2.32)\nEvent: UFC Fight Night: Rosas Jr. vs 
+ Barcelos\nSource: https://www.ufc.com/event/ufc-fight-night-september-26-2
+ 026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEv
+ ent status: Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -187,21 +195,44 @@ RELATED-TO:ufc-fight-night-september-26-2026-main-card@ufc-detailed-calenda
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-fight-night-september-26-2026-fight-13105@ufc-detailed-calendar
+UID:ufc-fight-night-september-26-2026-fight-13109@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:4
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:5
 DTSTART:20260927T015000Z
 DTEND:20260927T022000Z
-SUMMARY:🥊 4. Rodolfo Vieira vs. Robert Bryczek (estimated)
+SUMMARY:🥊 4. Norma Dumont vs. Ailin Perez (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Vieira:
-  11-5-0 | 37yo | Brazilian Jiu-Jitsu | -130 (1.77)\n• Bryczek: 18-7-0 | 
- 36yo | Boxing | +120 (2.20)\n• Odds history:\n  ◦ 21 Sep: Vieira 🟢 
- -130 (1.77) | Bryczek 🔴 +120 (2.20)\nEvent: UFC Fight Night: Rosas Jr. 
- vs Barcelos\nSource: https://www.ufc.com/event/ufc-fight-night-september-2
- 6-2026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\
- nEvent status: Scheduled
+  move as earlier fights finish.\n• 135lbs/61kg Women's Bantamweight\n•
+  Dumont: 13-3-0 | 35yo | +130 (2.30)\n• Perez: 13-2-0 | 31yo | Kung Fu |
+  -137 (1.73)\n• Odds history:\n  ◦ 21 Sep: Dumont 🔴 +118 (2.18) | P
+ erez 🟢 -127 (1.79)\n  ◦ 25 Sep: Dumont 🔴 +130 (2.30) | Perez 🟢 
+ -137 (1.73)\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos\nSource: https:
+ //www.ufc.com/event/ufc-fight-night-september-26-2026\nMain calendar: http
+ s://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-september-26-2026-main-card@ufc-detailed-calenda
+ r
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-september-26-2026-fight-13159@ufc-detailed-calendar
+DTSTAMP:20260925T115505Z
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:0
+DTSTART:20260927T011000Z
+DTEND:20260927T014000Z
+SUMMARY:🥊 3. Luis Hernandez vs. Sedriques Dumas (estimated)
+DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
+  move as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• He
+ rnandez: 8-0-0 | 30yo | MMA | -215 (1.47)\n• Dumas: 10-5-0 | 31yo | Kick
+ boxer | +200 (3.00)\n• Odds history:\n  ◦ 25 Sep: Hernandez 🟢 -215 
+ (1.47) | Dumas 🔴 +200 (3.00)\nEvent: UFC Fight Night: Rosas Jr. vs Barc
+ elos\nSource: https://www.ufc.com/event/ufc-fight-night-september-26-2026\
+ nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent 
+ status: Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -212,18 +243,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-26-2026-fight-13102@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:4
-DTSTART:20260927T011000Z
-DTEND:20260927T014000Z
-SUMMARY:🥊 3. Mehemmedeli Osmanli vs. Ilimbek Akylbek (estimated)
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:5
+DTSTART:20260927T003500Z
+DTEND:20260927T010500Z
+SUMMARY:🥊 2. Mahammadali Osmanli vs. Ilimbek Akylbek (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Osmanli
- : 0-0-0 | 22yo | -277 (1.36)\n• Akylbek: 0-0-0 | 23yo | +235 (3.35)\n•
-  Odds history:\n  ◦ 21 Sep: Osmanli 🟢 -277 (1.36) | Akylbek 🔴 +235
-  (3.35)\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos\nSource: https://ww
- w.ufc.com/event/ufc-fight-night-september-26-2026\nMain calendar: https://
- staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ : record unavailable | age unavailable\n• Akylbek: 0-0-0 | 23yo\n• Odd
+ s history: not checked yet\nEvent: UFC Fight Night: Rosas Jr. vs Barcelos\
+ nSource: https://www.ufc.com/event/ufc-fight-night-september-26-2026\nMain
+  calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent statu
+ s: Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -234,11 +265,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-september-26-2026-fight-13101@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:4
-DTSTART:20260927T003500Z
-DTEND:20260927T010500Z
-SUMMARY:🥊 2. Melissa Amaya vs. Tina Black (estimated)
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:5
+DTSTART:20260927T000000Z
+DTEND:20260927T003000Z
+SUMMARY:🥊 1. Melissa Amaya vs. Tina Black (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 115lbs/52kg Women's Strawweight\n• 
  Amaya: 0-0-0 | 31yo\n• Black: 0-1-0 | 30yo\n• Odds history: not checke
@@ -253,42 +284,20 @@ RELATED-TO:ufc-fight-night-september-26-2026-main-card@ufc-detailed-calenda
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-fight-night-september-26-2026-fight-13106@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:4
-DTSTART:20260927T000000Z
-DTEND:20260927T003000Z
-SUMMARY:🥊 1. Brady Hiestand vs. Rinya Nakamura (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Hiestan
- d: 9-2-0 | 27yo | MMA | +265 (3.65)\n• Nakamura: 10-1-0 | 31yo | Wrestle
- r | -330 (1.30)\n• Odds history:\n  ◦ 21 Sep: Hiestand 🔴 +265 (3.65
- ) | Nakamura 🟢 -330 (1.30)\nEvent: UFC Fight Night: Rosas Jr. vs Barcel
- os\nSource: https://www.ufc.com/event/ufc-fight-night-september-26-2026\nM
- ain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent st
- atus: Scheduled
-LOCATION:Meta APEX\, Las Vegas\, United States
-URL:https://www.ufc.com/event/ufc-fight-night-september-26-2026
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-fight-night-september-26-2026-main-card@ufc-detailed-calenda
- r
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:ufc-332-fight-13071@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T162242Z
-SEQUENCE:2
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:3
 DTSTART:20261003T213000Z
 DTEND:20261003T220000Z
 SUMMARY:🥊 4. Johnny Walker vs. Mick Parkin (estimated)
 DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n• Wal
- ker: 22-10-0 | 34yo | MMA\n• Parkin: 10-1-0 | 31yo | MMA\n• Odds histo
- ry: not checked yet\nEvent: UFC 332: Silva vs Wang\nSource: https://www.uf
- c.com/event/ufc-332\nMain calendar: https://staircasewit.github.io/mmacale
- ndar/ufc.ics\nEvent status: Scheduled
+ ker: 22-10-0 | 34yo | MMA | -150 (1.67)\n• Parkin: 10-1-0 | 31yo | MMA |
+  +120 (2.20)\n• Odds history:\n  ◦ 25 Sep: Walker 🟢 -150 (1.67) | P
+ arkin 🔴 +120 (2.20)\nEvent: UFC 332: Silva vs Wang\nSource: https://www
+ .ufc.com/event/ufc-332\nMain calendar: https://staircasewit.github.io/mmac
+ alendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -298,17 +307,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13124@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T162242Z
-SEQUENCE:2
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:3
 DTSTART:20261003T210000Z
 DTEND:20261003T213000Z
 SUMMARY:🥊 3. Rafael Dos Anjos vs. Alexander Hernandez (estimated)
 DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Dos 
- Anjos: 32-17-0 | 41yo | Grappler\n• Hernandez: 18-9-0 | 34yo | MMA\n• 
- Odds history: not checked yet\nEvent: UFC 332: Silva vs Wang\nSource: http
- s://www.ufc.com/event/ufc-332\nMain calendar: https://staircasewit.github.
- io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ Anjos: 32-17-0 | 41yo | Grappler | +200 (3.00)\n• Hernandez: 18-9-0 | 34
+ yo | MMA | -250 (1.40)\n• Odds history:\n  ◦ 25 Sep: Dos Anjos 🔴 +2
+ 00 (3.00) | Hernandez 🟢 -250 (1.40)\nEvent: UFC 332: Silva vs Wang\nSou
+ rce: https://www.ufc.com/event/ufc-332\nMain calendar: https://staircasewi
+ t.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -318,17 +328,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13072@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T162242Z
-SEQUENCE:2
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:3
 DTSTART:20261003T203000Z
 DTEND:20261003T210000Z
 SUMMARY:🥊 2. Marvin Vettori vs. Ismail Naurdiev (estimated)
 DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Vet
- tori: 19-10-1 | 33yo | MMA\n• Naurdiev: 25-8-0 | 30yo | Wrestling\n• O
- dds history: not checked yet\nEvent: UFC 332: Silva vs Wang\nSource: https
- ://www.ufc.com/event/ufc-332\nMain calendar: https://staircasewit.github.i
- o/mmacalendar/ufc.ics\nEvent status: Scheduled
+ tori: 19-10-1 | 33yo | MMA | +118 (2.18)\n• Naurdiev: 25-8-0 | 30yo | Wr
+ estling | -138 (1.72)\n• Odds history:\n  ◦ 25 Sep: Vettori 🔴 +118 
+ (2.18) | Naurdiev 🟢 -138 (1.72)\nEvent: UFC 332: Silva vs Wang\nSource:
+  https://www.ufc.com/event/ufc-332\nMain calendar: https://staircasewit.gi
+ thub.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -338,17 +349,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13076@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T162242Z
-SEQUENCE:2
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:3
 DTSTART:20261003T200000Z
 DTEND:20261003T203000Z
 SUMMARY:🥊 1. Court McGee vs. Eric Nolan (estimated)
 DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n• McG
- ee: 23-14-0 | 41yo | Freestyle\n• Nolan: 8-5-0 | 29yo\n• Odds history:
-  not checked yet\nEvent: UFC 332: Silva vs Wang\nSource: https://www.ufc.c
- om/event/ufc-332\nMain calendar: https://staircasewit.github.io/mmacalenda
- r/ufc.ics\nEvent status: Scheduled
+ ee: 23-14-0 | 41yo | Freestyle | +200 (3.00)\n• Nolan: 8-5-0 | 29yo | -2
+ 75 (1.36)\n• Odds history:\n  ◦ 25 Sep: McGee 🔴 +200 (3.00) | Nolan
+  🟢 -275 (1.36)\nEvent: UFC 332: Silva vs Wang\nSource: https://www.ufc.
+ com/event/ufc-332\nMain calendar: https://staircasewit.github.io/mmacalend
+ ar/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -358,17 +370,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13074@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260916T114128Z
-SEQUENCE:3
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:4
 DTSTART:20261003T233000Z
 DTEND:20261004T000000Z
 SUMMARY:🥊 4. Imanol Rodriguez vs. Alden Coria (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 125lbs/57kg Flyweight\n• Rodriguez: 7
- -0-0 | 26yo | Freestyle\n• Coria: 13-3-0 | 28yo | Freestyle\n• Odds hi
- story: not checked yet\nEvent: UFC 332: Silva vs Wang\nSource: https://www
- .ufc.com/event/ufc-332\nMain calendar: https://staircasewit.github.io/mmac
- alendar/ufc.ics\nEvent status: Scheduled
+ -0-0 | 26yo | Freestyle | -163 (1.61)\n• Coria: 13-3-0 | 28yo | Freestyl
+ e | +130 (2.30)\n• Odds history:\n  ◦ 25 Sep: Rodriguez 🟢 -163 (1.6
+ 1) | Coria 🔴 +130 (2.30)\nEvent: UFC 332: Silva vs Wang\nSource: https:
+ //www.ufc.com/event/ufc-332\nMain calendar: https://staircasewit.github.io
+ /mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -378,17 +391,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13075@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260916T114128Z
-SEQUENCE:3
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:4
 DTSTART:20261003T230000Z
 DTEND:20261003T233000Z
 SUMMARY:🥊 3. Damian Pinas vs. Andrey Pulyaev (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Pinas: 10
- -1-0 | 24yo | MMA\n• Pulyaev: 10-3-0 | 29yo | MMA\n• Odds history: not
-  checked yet\nEvent: UFC 332: Silva vs Wang\nSource: https://www.ufc.com/e
- vent/ufc-332\nMain calendar: https://staircasewit.github.io/mmacalendar/uf
- c.ics\nEvent status: Scheduled
+ -1-0 | 24yo | MMA | -500 (1.20)\n• Pulyaev: 10-3-0 | 29yo | MMA | +350 (
+ 4.50)\n• Odds history:\n  ◦ 25 Sep: Pinas 🟢 -500 (1.20) | Pulyaev 
+ 🔴 +350 (4.50)\nEvent: UFC 332: Silva vs Wang\nSource: https://www.ufc.c
+ om/event/ufc-332\nMain calendar: https://staircasewit.github.io/mmacalenda
+ r/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -398,17 +412,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13122@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260916T114128Z
-SEQUENCE:3
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:4
 DTSTART:20261003T223000Z
 DTEND:20261003T230000Z
 SUMMARY:🥊 2. Marcus McGhee vs. Benardo Sopaj (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• McGhee: 1
- 1-2-0 | 36yo | Brazilian Jiu-Jitsu\n• Sopaj: 13-3-0 | 26yo | MMA\n• Od
- ds history: not checked yet\nEvent: UFC 332: Silva vs Wang\nSource: https:
- //www.ufc.com/event/ufc-332\nMain calendar: https://staircasewit.github.io
- /mmacalendar/ufc.ics\nEvent status: Scheduled
+ 1-2-0 | 36yo | Brazilian Jiu-Jitsu | -150 (1.67)\n• Sopaj: 13-3-0 | 26yo
+  | MMA | +110 (2.10)\n• Odds history:\n  ◦ 25 Sep: McGhee 🟢 -150 (1
+ .67) | Sopaj 🔴 +110 (2.10)\nEvent: UFC 332: Silva vs Wang\nSource: http
+ s://www.ufc.com/event/ufc-332\nMain calendar: https://staircasewit.github.
+ io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -436,20 +451,44 @@ RELATED-TO:ufc-332-prelims@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:ufc-332-fight-13120@ufc-detailed-calendar
+DTSTAMP:20260925T115505Z
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:0
+DTSTART:20261004T022500Z
+DTEND:20261004T025500Z
+SUMMARY:🥊 5. Natalia Silva vs. Wang Cong (estimated)
+DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
+  move as earlier fights finish.\n• 125lbs/57kg Women's Flyweight · Titl
+ e Bout\n• Silva: 20-5-1 | 29yo | Taekwondo | -200 (1.50)\n• Cong: 10-1
+ -0 | 34yo | Striker | +175 (2.75)\n• Odds history:\n  ◦ 16 Sep: Silva 
+ 🟢 -205 (1.49) | Cong 🔴 +184 (2.84)\n  ◦ 21 Sep: Silva 🟢 -191 (1
+ .52) | Cong 🔴 +175 (2.75)\n  ◦ 25 Sep: Silva 🟢 -200 (1.50) | Cong 
+ 🔴 +175 (2.75)\n  ◦ Earlier changes: see full odds log\nEvent: UFC 332
+ : Silva vs Wang\nSource: https://www.ufc.com/event/ufc-332\nMain calendar:
+  https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedul
+ ed
+LOCATION:Delta Center\, Salt Lake City\, United States
+URL:https://www.ufc.com/event/ufc-332
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-332-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-332-fight-13070@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:5
-DTSTART:20261004T021500Z
-DTEND:20261004T024500Z
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:6
+DTSTART:20261004T015000Z
+DTEND:20261004T022000Z
 SUMMARY:🥊 4. Deiveson Figueiredo vs. Payton Talbott (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Figueir
- edo: 25-7-1 | 38yo | Boxing | +489 (5.89)\n• Talbott: 11-1-0 | 28yo | -6
- 11 (1.16)\n• Odds history:\n  ◦ 13 Sep: Figueiredo 🔴 +425 (5.25) | 
- Talbott 🟢 -530 (1.19)\n  ◦ 16 Sep: Figueiredo 🔴 +440 (5.40) | Talb
- ott 🟢 -625 (1.16)\n  ◦ 21 Sep: Figueiredo 🔴 +489 (5.89) | Talbott 
- 🟢 -611 (1.16)\n  ◦ Earlier changes: see full odds log\nEvent: UFC 332
+ edo: 25-7-1 | 38yo | Boxing | +460 (5.60)\n• Talbott: 11-1-0 | 28yo | -5
+ 26 (1.19)\n• Odds history:\n  ◦ 16 Sep: Figueiredo 🔴 +440 (5.40) | 
+ Talbott 🟢 -625 (1.16)\n  ◦ 21 Sep: Figueiredo 🔴 +489 (5.89) | Talb
+ ott 🟢 -611 (1.16)\n  ◦ 25 Sep: Figueiredo 🔴 +460 (5.60) | Talbott 
+ 🟢 -526 (1.19)\n  ◦ Earlier changes: see full odds log\nEvent: UFC 332
  : Silva vs Wang\nSource: https://www.ufc.com/event/ufc-332\nMain calendar:
   https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedul
  ed
@@ -462,17 +501,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13123@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:3
-DTSTART:20261004T013000Z
-DTEND:20261004T020000Z
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:4
+DTSTART:20261004T011000Z
+DTEND:20261004T014000Z
 SUMMARY:🥊 3. King Green vs. Esteban Ribovics (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Green: 3
- 6-17-1 | 40yo | MMA\n• Ribovics: 16-3-0 | 30yo | Striker\n• Odds histo
- ry: not checked yet\nEvent: UFC 332: Silva vs Wang\nSource: https://www.uf
- c.com/event/ufc-332\nMain calendar: https://staircasewit.github.io/mmacale
- ndar/ufc.ics\nEvent status: Scheduled
+ 6-17-1 | 40yo | MMA | +250 (3.50)\n• Ribovics: 16-3-0 | 30yo | Striker |
+  -264 (1.38)\n• Odds history:\n  ◦ 25 Sep: Green 🔴 +250 (3.50) | Ri
+ bovics 🟢 -264 (1.38)\nEvent: UFC 332: Silva vs Wang\nSource: https://ww
+ w.ufc.com/event/ufc-332\nMain calendar: https://staircasewit.github.io/mma
+ calendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -482,17 +522,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13121@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:3
-DTSTART:20261004T004500Z
-DTEND:20261004T011500Z
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:4
+DTSTART:20261004T003500Z
+DTEND:20261004T010500Z
 SUMMARY:🥊 2. Roberto Soldic vs. Khaos Williams (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Soldic:
-  0-0-0 | 31yo\n• Williams: 16-5-0 | 32yo | MMA\n• Odds history: not ch
- ecked yet\nEvent: UFC 332: Silva vs Wang\nSource: https://www.ufc.com/even
- t/ufc-332\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.i
- cs\nEvent status: Scheduled
+  0-0-0 | 31yo | -300 (1.33)\n• Williams: 16-5-0 | 32yo | MMA | +252 (3.5
+ 2)\n• Odds history:\n  ◦ 25 Sep: Soldic 🟢 -300 (1.33) | Williams 
+ 🔴 +252 (3.52)\nEvent: UFC 332: Silva vs Wang\nSource: https://www.ufc.c
+ om/event/ufc-332\nMain calendar: https://staircasewit.github.io/mmacalenda
+ r/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -502,17 +543,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13073@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T162242Z
-SEQUENCE:2
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:3
 DTSTART:20261004T000000Z
 DTEND:20261004T003000Z
 SUMMARY:🥊 1. Ateba Gautier vs. Roman Kopylov (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Gautier
- : 11-1-0 | 24yo | Striker\n• Kopylov: 15-5-0 | 34yo\n• Odds history: n
- ot checked yet\nEvent: UFC 332: Silva vs Wang\nSource: https://www.ufc.com
- /event/ufc-332\nMain calendar: https://staircasewit.github.io/mmacalendar/
- ufc.ics\nEvent status: Scheduled
+ : 11-1-0 | 24yo | Striker | -200 (1.50)\n• Kopylov: 15-5-0 | 34yo | +163
+  (2.63)\n• Odds history:\n  ◦ 25 Sep: Gautier 🟢 -200 (1.50) | Kopyl
+ ov 🔴 +163 (2.63)\nEvent: UFC 332: Silva vs Wang\nSource: https://www.uf
+ c.com/event/ufc-332\nMain calendar: https://staircasewit.github.io/mmacale
+ ndar/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -683,11 +725,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-fight-13002@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:3
-DTSTART:20261018T022500Z
-DTEND:20261018T025500Z
-SUMMARY:🥊 5. Joaquin Buckley vs. Mike Malott (estimated)
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:4
+DTSTART:20261018T023000Z
+DTEND:20261018T030000Z
+SUMMARY:🥊 6. Joaquin Buckley vs. Mike Malott (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Buckley
  : 21-8-0 | 32yo | Freestyle\n• Malott: 14-2-1 | 34yo | MMA\n• Odds his
@@ -704,11 +746,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-fight-13046@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:3
-DTSTART:20261018T015000Z
-DTEND:20261018T022000Z
-SUMMARY:🥊 4. Erin Blanchfield vs. Jasmine Jasudavicius (estimated)
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:4
+DTSTART:20261018T020000Z
+DTEND:20261018T023000Z
+SUMMARY:🥊 5. Erin Blanchfield vs. Jasmine Jasudavicius (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 125lbs/57kg Women's Flyweight\n• Bl
  anchfield: 14-2-0 | 27yo | Jiu-Jitsu\n• Jasudavicius: 15-4-0 | 37yo | Br
@@ -723,12 +765,32 @@ RELATED-TO:ufc-fight-night-october-17-2026-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:ufc-fight-night-october-17-2026-fight-13158@ufc-detailed-calendar
+DTSTAMP:20260925T115505Z
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:0
+DTSTART:20261018T013000Z
+DTEND:20261018T020000Z
+SUMMARY:🥊 4. Kyle Nelson vs. Cristian Perez Gonzalez (estimated)
+DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
+  move as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Nelson: 
+ 17-7-1 | 35yo | Jiu-Jitsu\n• Perez Gonzalez: 1-1-0 | 27yo\n• Odds hist
+ ory: not checked yet\nEvent: UFC Fight Night: Buckley vs Malott\nSource: h
+ ttps://www.ufc.com/event/ufc-fight-night-october-17-2026\nMain calendar: h
+ ttps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:Rogers Place\, Edmonton\, Canada
+URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-17-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-fight-13047@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:3
-DTSTART:20261018T011000Z
-DTEND:20261018T014000Z
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:4
+DTSTART:20261018T010000Z
+DTEND:20261018T013000Z
 SUMMARY:🥊 3. Marc-Andre Barriault vs. Kyle Daukaus (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Barriau
@@ -745,10 +807,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-fight-13051@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:3
-DTSTART:20261018T003500Z
-DTEND:20261018T010500Z
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:4
+DTSTART:20261018T003000Z
+DTEND:20261018T010000Z
 SUMMARY:🥊 2. Louis Jourdain vs. Timmy Cuamba (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Jourdai
@@ -783,21 +845,100 @@ RELATED-TO:ufc-fight-night-october-17-2026-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:ufc-333-fight-13065@ufc-detailed-calendar
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:3
+DTSTART:20261024T173000Z
+DTEND:20261024T180000Z
+SUMMARY:🥊 4. Azamat Murzakanov vs. Dominick Reyes (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• Murz
+ akanov: 16-1-0 | 37yo | MMA\n• Reyes: 16-5-0 | 36yo | Kickboxer\n• Odd
+ s history: not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\nSource:
+  https://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.gi
+ thub.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
+URL:https://www.ufc.com/event/ufc-333
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-333-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-333-fight-13081@ufc-detailed-calendar
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:3
+DTSTART:20261024T170000Z
+DTEND:20261024T173000Z
+SUMMARY:🥊 3. Nikita Krylov vs. Abdul Rakhman Yakhyaev (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• Kryl
+ ov: 31-12-0 | 34yo | Karate\n• Yakhyaev: 10-0-0 | 25yo | MMA\n• Odds h
+ istory: not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\nSource: ht
+ tps://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.githu
+ b.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
+URL:https://www.ufc.com/event/ufc-333
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-333-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-333-fight-13082@ufc-detailed-calendar
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:3
+DTSTART:20261024T163000Z
+DTEND:20261024T170000Z
+SUMMARY:🥊 2. Abus Magomedov vs. Cam Rowston (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Magomedov
+ : 29-7-1 | 36yo | MMA\n• Rowston: 15-3-0 | 31yo | Brazilian Jiu-Jitsu\n
+ • Odds history: not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\n
+ Source: https://www.ufc.com/event/ufc-333\nMain calendar: https://staircas
+ ewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
+URL:https://www.ufc.com/event/ufc-333
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-333-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-333-fight-13067@ufc-detailed-calendar
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:3
+DTSTART:20261024T160000Z
+DTEND:20261024T163000Z
+SUMMARY:🥊 1. Grant Dawson vs. Nurullo Aliev (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Dawson: 24
+ -3-1 | 32yo\n• Aliev: 12-0-0 | 25yo | Wrestling\n• Odds history: not c
+ hecked yet\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc
+ .com/event/ufc-333\nMain calendar: https://staircasewit.github.io/mmacalen
+ dar/ufc.ics\nEvent status: Scheduled
+LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
+URL:https://www.ufc.com/event/ufc-333
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-333-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-333-fight-13063@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T162242Z
-SEQUENCE:2
-DTSTART:20261024T201500Z
-DTEND:20261024T204500Z
-SUMMARY:🥊 9. Alexander Volkanovski vs. Movsar Evloev (estimated)
-DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
-  time may move as earlier fights finish.\n• 145lbs/66kg Featherweight ·
-  Title Bout\n• Volkanovski: 28-4-0 | 38yo | -110 (1.91)\n• Evloev: 20-
- 0-0 | 32yo | Freestyle | -107 (1.93)\n• Odds history:\n  ◦ 13 Sep: Vol
- kanovski 🟢 -110 (1.91) | Evloev 🔴 -107 (1.93)\nEvent: UFC 333: Volka
- novski vs Evloev\nSource: https://www.ufc.com/event/ufc-333\nMain calendar
- : https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedu
- led
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:3
+DTSTART:20261024T202500Z
+DTEND:20261024T205500Z
+SUMMARY:🥊 5. Alexander Volkanovski vs. Movsar Evloev (estimated)
+DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
+  move as earlier fights finish.\n• 145lbs/66kg Featherweight · Title Bo
+ ut\n• Volkanovski: 28-4-0 | 38yo | -110 (1.91)\n• Evloev: 20-0-0 | 32y
+ o | Freestyle | -107 (1.93)\n• Odds history:\n  ◦ 13 Sep: Volkanovski 
+ 🟢 -110 (1.91) | Evloev 🔴 -107 (1.93)\nEvent: UFC 333: Volkanovski vs
+  Evloev\nSource: https://www.ufc.com/event/ufc-333\nMain calendar: https:/
+ /staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -807,19 +948,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13064@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T162242Z
-SEQUENCE:2
-DTSTART:20261024T192500Z
-DTEND:20261024T195500Z
-SUMMARY:🥊 8. Petr Yan vs. Merab Dvalishvili (estimated)
-DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
-  time may move as earlier fights finish.\n• 135lbs/61kg Bantamweight · 
- Title Bout\n• Yan: 20-5-0 | 33yo | Boxer | -172 (1.58)\n• Dvalishvili:
-  21-5-0 | 35yo | Freestyle | +150 (2.50)\n• Odds history:\n  ◦ 13 Sep:
-  Yan 🟢 -172 (1.58) | Dvalishvili 🔴 +150 (2.50)\nEvent: UFC 333: Volk
- anovski vs Evloev\nSource: https://www.ufc.com/event/ufc-333\nMain calenda
- r: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sched
- uled
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:3
+DTSTART:20261024T195000Z
+DTEND:20261024T202000Z
+SUMMARY:🥊 4. Petr Yan vs. Merab Dvalishvili (estimated)
+DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
+  move as earlier fights finish.\n• 135lbs/61kg Bantamweight · Title Bou
+ t\n• Yan: 20-5-0 | 33yo | Boxer | -172 (1.58)\n• Dvalishvili: 21-5-0 |
+  35yo | Freestyle | +150 (2.50)\n• Odds history:\n  ◦ 13 Sep: Yan 🟢
+  -172 (1.58) | Dvalishvili 🔴 +150 (2.50)\nEvent: UFC 333: Volkanovski v
+ s Evloev\nSource: https://www.ufc.com/event/ufc-333\nMain calendar: https:
+ //staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -827,16 +967,36 @@ RELATED-TO:ufc-333-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-333-fight-13080@ufc-detailed-calendar
+UID:ufc-333-fight-13066@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T162242Z
-SEQUENCE:2
-DTSTART:20261024T184000Z
-DTEND:20261024T191000Z
-SUMMARY:🥊 7. Arnold Allen vs. Aaron Pico (estimated)
-DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
-  time may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n
- • Allen: 21-4-0 | 32yo | MMA\n• Pico: 14-5-0 | 30yo | Boxing\n• Odds
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:3
+DTSTART:20261024T191000Z
+DTEND:20261024T194000Z
+SUMMARY:🥊 3. Lone’er Kavanagh vs. Ramazan Temirov (estimated)
+DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
+  move as earlier fights finish.\n• 125lbs/57kg Flyweight\n• Kavanagh: 
+ 10-2-0 | 27yo | Kickboxer\n• Temirov: 20-3-0 | 29yo | Striker\n• Odds 
+ history: not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\nSource: h
+ ttps://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.gith
+ ub.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
+URL:https://www.ufc.com/event/ufc-333
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-333-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-333-fight-13125@ufc-detailed-calendar
+DTSTAMP:20260916T114128Z
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:1
+DTSTART:20261024T183500Z
+DTEND:20261024T190500Z
+SUMMARY:🥊 2. Alexander Volkov vs. Rizvan Kuniev (estimated)
+DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
+  move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n• Volkov:
+  40-11-0 | 38yo | Brazilian Jiu-Jitsu\n• Kuniev: 14-3-1 | 34yo\n• Odds
   history: not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\nSource: 
  https://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.git
  hub.io/mmacalendar/ufc.ics\nEvent status: Scheduled
@@ -847,119 +1007,19 @@ RELATED-TO:ufc-333-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-333-fight-13065@ufc-detailed-calendar
+UID:ufc-333-fight-13080@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T162242Z
-SEQUENCE:2
-DTSTART:20261024T175500Z
-DTEND:20261024T182500Z
-SUMMARY:🥊 6. Azamat Murzakanov vs. Dominick Reyes (estimated)
-DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
-  time may move as earlier fights finish.\n• 205lbs/93kg Light Heavyweigh
- t\n• Murzakanov: 16-1-0 | 37yo | MMA\n• Reyes: 16-5-0 | 36yo | Kickbox
- er\n• Odds history: not checked yet\nEvent: UFC 333: Volkanovski vs Evlo
- ev\nSource: https://www.ufc.com/event/ufc-333\nMain calendar: https://stai
- rcasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-333-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13066@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T162242Z
-SEQUENCE:2
-DTSTART:20261024T170500Z
-DTEND:20261024T173500Z
-SUMMARY:🥊 5. Lone’er Kavanagh vs. Ramazan Temirov (estimated)
-DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
-  time may move as earlier fights finish.\n• 125lbs/57kg Flyweight\n• K
- avanagh: 10-2-0 | 27yo | Kickboxer\n• Temirov: 20-3-0 | 29yo | Striker\n
- • Odds history: not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\n
- Source: https://www.ufc.com/event/ufc-333\nMain calendar: https://staircas
- ewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-333-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13081@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T162242Z
-SEQUENCE:2
-DTSTART:20261024T162000Z
-DTEND:20261024T165000Z
-SUMMARY:🥊 4. Nikita Krylov vs. Abdul Rakhman Yakhyaev (estimated)
-DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
-  time may move as earlier fights finish.\n• 205lbs/93kg Light Heavyweigh
- t\n• Krylov: 31-12-0 | 34yo | Karate\n• Yakhyaev: 10-0-0 | 25yo | MMA\
- n• Odds history: not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\
- nSource: https://www.ufc.com/event/ufc-333\nMain calendar: https://stairca
- sewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-333-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13125@ufc-detailed-calendar
-DTSTAMP:20260916T114128Z
-LAST-MODIFIED:20260916T114128Z
-SEQUENCE:0
-DTSTART:20261024T153500Z
-DTEND:20261024T160500Z
-SUMMARY:🥊 3. Alexander Volkov vs. Rizvan Kuniev (estimated)
-DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
-  time may move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n
- • Volkov: 40-11-0 | 38yo | Brazilian Jiu-Jitsu\n• Kuniev: 14-3-1 | 34y
- o\n• Odds history: not checked yet\nEvent: UFC 333: Volkanovski vs Evloe
- v\nSource: https://www.ufc.com/event/ufc-333\nMain calendar: https://stair
- casewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-333-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13082@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T162242Z
-SEQUENCE:2
-DTSTART:20261024T144500Z
-DTEND:20261024T151500Z
-SUMMARY:🥊 2. Abus Magomedov vs. Cam Rowston (estimated)
-DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
-  time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
- • Magomedov: 29-7-1 | 36yo | MMA\n• Rowston: 15-3-0 | 31yo | Brazilian
-  Jiu-Jitsu\n• Odds history: not checked yet\nEvent: UFC 333: Volkanovski
-  vs Evloev\nSource: https://www.ufc.com/event/ufc-333\nMain calendar: http
- s://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-333-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13067@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T162242Z
-SEQUENCE:2
-DTSTART:20261024T140000Z
-DTEND:20261024T143000Z
-SUMMARY:🥊 1. Grant Dawson vs. Nurullo Aliev (estimated)
-DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
-  time may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n•
-  Dawson: 24-3-1 | 32yo\n• Aliev: 12-0-0 | 25yo | Wrestling\n• Odds his
- tory: not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\nSource: http
- s://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.
- io/mmacalendar/ufc.ics\nEvent status: Scheduled
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:3
+DTSTART:20261024T180000Z
+DTEND:20261024T183000Z
+SUMMARY:🥊 1. Arnold Allen vs. Aaron Pico (estimated)
+DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
+  move as earlier fights finish.\n• 145lbs/66kg Featherweight\n• Allen:
+  21-4-0 | 32yo | MMA\n• Pico: 14-5-0 | 30yo | Boxing\n• Odds history: 
+ not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://ww
+ w.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.io/mma
+ calendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1054,17 +1114,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-ciryl-gane-josh-hokit@ufc-detailed-calendar
 DTSTAMP:20260923T114256Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:0
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:1
 DTSTART:20261115T042500Z
 DTEND:20261115T045500Z
 SUMMARY:🥊 12. Ciryl Gane vs. Josh Hokit (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 265lbs/120kg Heavyweight · 
- Title Bout\n• Gane: 14-2-0 | 36yo | Muay Thai\n• Hokit: 10-0-0 | 29yo 
- | Wrestling\n• Odds history: not checked yet\nEvent: UFC 334: Gane vs Ho
- kit\nSource: https://www.ufc.com/event/ufc-334\nMain calendar: https://sta
- ircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ Title Bout\n• Gane: 14-2-0 | 36yo | Muay Thai | -265 (1.38)\n• Hokit: 
+ 10-0-0 | 29yo | Wrestling | +225 (3.25)\n• Odds history:\n  ◦ 25 Sep: 
+ Gane 🟢 -265 (1.38) | Hokit 🔴 +225 (3.25)\nEvent: Polymarket UFC 334:
+  Gane vs Hokit\nSource: https://www.ufc.com/event/ufc-334\nMain calendar: 
+ https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedule
+ d
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1074,17 +1136,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-amanda-nunes-kayla-harrison@ufc-detailed-calendar
 DTSTAMP:20260923T114256Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:0
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:1
 DTSTART:20261115T035000Z
 DTEND:20261115T042000Z
 SUMMARY:🥊 11. Kayla Harrison vs. Amanda Nunes (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 135lbs/61kg Women's Bantamwe
- ight · Title Bout\n• Harrison: 19-1-0 | 36yo | Judo\n• Nunes: 23-5-0 
- | 38yo | Striker\n• Odds history: not checked yet\nEvent: UFC 334: Gane 
- vs Hokit\nSource: https://www.ufc.com/event/ufc-334\nMain calendar: https:
- //staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ ight · Title Bout\n• Harrison: 19-1-0 | 36yo | Judo | -200 (1.50)\n• 
+ Nunes: 23-5-0 | 38yo | Striker | +163 (2.63)\n• Odds history:\n  ◦ 25 
+ Sep: Harrison 🟢 -200 (1.50) | Nunes 🔴 +163 (2.63)\nEvent: Polymarket
+  UFC 334: Gane vs Hokit\nSource: https://www.ufc.com/event/ufc-334\nMain c
+ alendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status:
+  Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1094,17 +1158,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-caio-borralho-yousri-belgaroui@ufc-detailed-calendar
 DTSTAMP:20260923T114256Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:0
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:1
 DTSTART:20261115T031500Z
 DTEND:20261115T034500Z
 SUMMARY:🥊 10. Caio Borralho vs. Yousri Belgaroui (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
  • Borralho: 18-2-0 | 33yo | MMA\n• Belgaroui: 11-3-0 | 34yo | Striker\
- n• Odds history: not checked yet\nEvent: UFC 334: Gane vs Hokit\nSource:
-  https://www.ufc.com/event/ufc-334\nMain calendar: https://staircasewit.gi
- thub.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ n• Odds history: not checked yet\nEvent: Polymarket UFC 334: Gane vs Hok
+ it\nSource: https://www.ufc.com/event/ufc-334\nMain calendar: https://stai
+ rcasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1114,17 +1178,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-kevin-holland-uros-medic@ufc-detailed-calendar
 DTSTAMP:20260923T114256Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:0
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:1
 DTSTART:20261115T024000Z
 DTEND:20261115T031000Z
 SUMMARY:🥊 9. Uroš Medić vs. Kevin Holland (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
  • Medic: 14-3-0 | 33yo | MMA\n• Holland: 29-15-0 | 34yo | Kung Fu\n•
-  Odds history: not checked yet\nEvent: UFC 334: Gane vs Hokit\nSource: htt
- ps://www.ufc.com/event/ufc-334\nMain calendar: https://staircasewit.github
- .io/mmacalendar/ufc.ics\nEvent status: Scheduled
+  Odds history: not checked yet\nEvent: Polymarket UFC 334: Gane vs Hokit\n
+ Source: https://www.ufc.com/event/ufc-334\nMain calendar: https://staircas
+ ewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1134,17 +1198,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-bilal-hasan-luis-gurule@ufc-detailed-calendar
 DTSTAMP:20260923T114256Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:0
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:1
 DTSTART:20261115T020500Z
 DTEND:20261115T023500Z
 SUMMARY:🥊 8. Bilal Hasan vs. Luis Gurule (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 125lbs/57kg Flyweight\n• H
  asan: 10-0-0 | 25yo | MMA\n• Gurule: 11-3-0 | 32yo\n• Odds history: no
- t checked yet\nEvent: UFC 334: Gane vs Hokit\nSource: https://www.ufc.com/
- event/ufc-334\nMain calendar: https://staircasewit.github.io/mmacalendar/u
- fc.ics\nEvent status: Scheduled
+ t checked yet\nEvent: Polymarket UFC 334: Gane vs Hokit\nSource: https://w
+ ww.ufc.com/event/ufc-334\nMain calendar: https://staircasewit.github.io/mm
+ acalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1154,17 +1218,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-chris-duncan-drew-dober@ufc-detailed-calendar
 DTSTAMP:20260923T114256Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:0
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:1
 DTSTART:20261115T013000Z
 DTEND:20261115T020000Z
 SUMMARY:🥊 7. Drew Dober vs. Chris Duncan (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n•
   Dober: 29-15-0 | 38yo | Freestyle\n• Duncan: 15-3-0 | 33yo | Striker\n
- • Odds history: not checked yet\nEvent: UFC 334: Gane vs Hokit\nSource: 
- https://www.ufc.com/event/ufc-334\nMain calendar: https://staircasewit.git
- hub.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ • Odds history: not checked yet\nEvent: Polymarket UFC 334: Gane vs Hoki
+ t\nSource: https://www.ufc.com/event/ufc-334\nMain calendar: https://stair
+ casewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1174,17 +1238,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-charles-radtke-stephen-thompson@ufc-detailed-calendar
 DTSTAMP:20260923T114256Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:0
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:1
 DTSTART:20261115T005500Z
 DTEND:20261115T012500Z
 SUMMARY:🥊 6. Stephen Thompson vs. Charles Radtke (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
  • Thompson: 17-9-1 | 43yo | Karate\n• Radtke: 12-5-0 | 36yo\n• Odds 
- history: not checked yet\nEvent: UFC 334: Gane vs Hokit\nSource: https://w
- ww.ufc.com/event/ufc-334\nMain calendar: https://staircasewit.github.io/mm
- acalendar/ufc.ics\nEvent status: Scheduled
+ history: not checked yet\nEvent: Polymarket UFC 334: Gane vs Hokit\nSource
+ : https://www.ufc.com/event/ufc-334\nMain calendar: https://staircasewit.g
+ ithub.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1194,17 +1258,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-baisangur-susurkaev-donte-johnson@ufc-detailed-calendar
 DTSTAMP:20260923T114256Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:0
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:1
 DTSTART:20261115T002000Z
 DTEND:20261115T005000Z
 SUMMARY:🥊 5. Donte Johnson vs. Baisangur Susurkaev (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
  • Johnson: 9-0-0 | 27yo | MMA\n• Susurkaev: 12-0-0 | 25yo | Striker\n
- • Odds history: not checked yet\nEvent: UFC 334: Gane vs Hokit\nSource: 
- https://www.ufc.com/event/ufc-334\nMain calendar: https://staircasewit.git
- hub.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ • Odds history: not checked yet\nEvent: Polymarket UFC 334: Gane vs Hoki
+ t\nSource: https://www.ufc.com/event/ufc-334\nMain calendar: https://stair
+ casewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1214,17 +1278,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-jim-miller-terrance-mckinney@ufc-detailed-calendar
 DTSTAMP:20260923T114256Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:0
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:1
 DTSTART:20261114T234500Z
 DTEND:20261115T001500Z
 SUMMARY:🥊 4. Jim Miller vs. Terrance McKinney (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n•
   Miller: 39-19-0 | 43yo | Jiu-Jitsu\n• McKinney: 18-9-0 | 32yo | MMA\n
- • Odds history: not checked yet\nEvent: UFC 334: Gane vs Hokit\nSource: 
- https://www.ufc.com/event/ufc-334\nMain calendar: https://staircasewit.git
- hub.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ • Odds history: not checked yet\nEvent: Polymarket UFC 334: Gane vs Hoki
+ t\nSource: https://www.ufc.com/event/ufc-334\nMain calendar: https://stair
+ casewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1234,17 +1298,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-bia-mesquita-macy-chiasson@ufc-detailed-calendar
 DTSTAMP:20260923T114256Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:0
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:1
 DTSTART:20261114T231000Z
 DTEND:20261114T234000Z
 SUMMARY:🥊 3. Macy Chiasson vs. Bia Mesquita (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 135lbs/61kg Women's Bantamwe
  ight\n• Chiasson: 11-6-0 | 35yo | MMA\n• Mesquita: 8-0-0 | 35yo | Braz
- ilian Jiu-Jitsu\n• Odds history: not checked yet\nEvent: UFC 334: Gane v
- s Hokit\nSource: https://www.ufc.com/event/ufc-334\nMain calendar: https:/
- /staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ ilian Jiu-Jitsu\n• Odds history: not checked yet\nEvent: Polymarket UFC 
+ 334: Gane vs Hokit\nSource: https://www.ufc.com/event/ufc-334\nMain calend
+ ar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sche
+ duled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1254,17 +1319,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-adrian-yanez-juan-diaz@ufc-detailed-calendar
 DTSTAMP:20260923T114256Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:0
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:1
 DTSTART:20261114T223500Z
 DTEND:20261114T230500Z
 SUMMARY:🥊 2. Adrian Yanez vs. Juan Diaz (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n
  • Yanez: 18-6-1 | 32yo | Boxer\n• Diaz: 16-1-1 | 28yo | MMA\n• Odds 
- history: not checked yet\nEvent: UFC 334: Gane vs Hokit\nSource: https://w
- ww.ufc.com/event/ufc-334\nMain calendar: https://staircasewit.github.io/mm
- acalendar/ufc.ics\nEvent status: Scheduled
+ history: not checked yet\nEvent: Polymarket UFC 334: Gane vs Hokit\nSource
+ : https://www.ufc.com/event/ufc-334\nMain calendar: https://staircasewit.g
+ ithub.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1274,17 +1339,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-jefferson-nascimento-nazim-sadykhov@ufc-detailed-calendar
 DTSTAMP:20260923T114256Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:0
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:1
 DTSTART:20261114T220000Z
 DTEND:20261114T223000Z
 SUMMARY:🥊 1. Nazim Sadykhov vs. Jefferson Nascimento (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n•
   Sadykhov: 11-3-1 | 32yo | Freestyle\n• Nascimento: 13-1-0 | 27yo | Free
- style\n• Odds history: not checked yet\nEvent: UFC 334: Gane vs Hokit\nS
- ource: https://www.ufc.com/event/ufc-334\nMain calendar: https://staircase
- wit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ style\n• Odds history: not checked yet\nEvent: Polymarket UFC 334: Gane 
+ vs Hokit\nSource: https://www.ufc.com/event/ufc-334\nMain calendar: https:
+ //staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card

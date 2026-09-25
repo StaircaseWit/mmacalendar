@@ -4865,20 +4865,20 @@
         "id": "1575",
         "order": 8,
         "red": {
-          "name": "Hamza Kooheji",
-          "profileUrl": "https://pflmma.com/mena-fighter/hamza-kooheji",
-          "countryCode": "BH",
-          "birthDate": "1993-01-29",
-          "record": "15-4-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
           "name": "Elias Boudegzdame",
           "profileUrl": "https://pflmma.com/mena-fighter/elias-boudegzdame",
           "countryCode": "DZ",
           "birthDate": "1993-10-16",
           "record": "21-9-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Islam Youssef",
+          "profileUrl": "https://pflmma.com/mena-fighter/islam-youssef",
+          "countryCode": "EG",
+          "birthDate": "1999-07-02",
+          "record": "7-3-0",
           "style": null,
           "odds": null
         },
@@ -5054,7 +5054,33 @@
         "oddsHistory": []
       }
     ],
-    "cancelledBouts": []
+    "cancelledBouts": [
+      {
+        "id": "1575",
+        "order": 8,
+        "red": {
+          "name": "Hamza Kooheji",
+          "profileUrl": "https://pflmma.com/mena-fighter/hamza-kooheji",
+          "countryCode": "BH",
+          "birthDate": "1993-01-29",
+          "record": "15-4-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Elias Boudegzdame",
+          "profileUrl": "https://pflmma.com/mena-fighter/elias-boudegzdame",
+          "countryCode": "DZ",
+          "birthDate": "1993-10-16",
+          "record": "21-9-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "145lbs/66kg Featherweight · Semifinal",
+        "oddsHistory": [],
+        "note": "Removed from the official PFL card"
+      }
+    ]
   },
   {
     "uid": "pfl-morocco",
@@ -5247,6 +5273,74 @@
     "end": "20261017T060000Z",
     "status": "CONFIRMED",
     "bouts": [
+      {
+        "id": "1604",
+        "order": 14,
+        "red": {
+          "name": "Levan Khabalaev",
+          "profileUrl": "https://pflmma.com/wt-fighter/levan-khabalaev",
+          "countryCode": "GE",
+          "birthDate": "1999-03-09",
+          "record": "5-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Morquez Forest",
+          "profileUrl": "https://pflmma.com/wt-fighter/morquez-forest",
+          "countryCode": "US",
+          "birthDate": "1993-07-07",
+          "record": "8-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1603",
+        "order": 13,
+        "red": {
+          "name": "Benita Van Rooji",
+          "profileUrl": "https://pflmma.com/wt-fighter/benita-vanrooji",
+          "countryCode": "NL",
+          "birthDate": "1999-06-02",
+          "record": "7-2-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Giulliany Perêa",
+          "profileUrl": "https://pflmma.com/wt-fighter/giulliany-pera",
+          "odds": null
+        },
+        "details": "Women's Strawweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1602",
+        "order": 12,
+        "red": {
+          "name": "Noah Hermosillo",
+          "profileUrl": "https://pflmma.com/wt-fighter/noah-hermosillo",
+          "countryCode": "US",
+          "birthDate": "1999-03-25",
+          "record": null,
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Caden Cox",
+          "profileUrl": "https://pflmma.com/wt-fighter/caden-cox",
+          "countryCode": "US",
+          "birthDate": "1999-04-12",
+          "record": "2-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "145lbs/66kg Featherweight",
+        "oddsHistory": []
+      },
       {
         "id": "1588",
         "order": 11,
@@ -5571,9 +5665,9 @@
     "summary": "PFL Dubai",
     "location": "Dubai, United Arab Emirates",
     "url": "https://pflmma.com/event/pfl-returns-to-dubai",
-    "start": null,
-    "end": null,
-    "status": "TENTATIVE",
+    "start": "20261114T140000Z",
+    "end": "20261114T210000Z",
+    "status": "CONFIRMED",
     "bouts": [
       {
         "id": "1587",
@@ -5729,9 +5823,33 @@
     "location": "Lyon, France",
     "url": "https://pflmma.com/event/pfl-lyon-2026",
     "start": "20261219T160000Z",
-    "end": "20261219T220000Z",
+    "end": "20261219T230000Z",
     "status": "CONFIRMED",
     "bouts": [
+      {
+        "id": "1601",
+        "order": 4,
+        "red": {
+          "name": "Fabian Edwards",
+          "profileUrl": "https://pflmma.com/wt-fighter/fabian-edwards",
+          "countryCode": null,
+          "birthDate": "1993-03-23",
+          "record": "16-5-0",
+          "style": "Striker",
+          "odds": null
+        },
+        "blue": {
+          "name": "Ilian Bouafia",
+          "profileUrl": "https://pflmma.com/wt-fighter/ilian-bouafia",
+          "countryCode": null,
+          "birthDate": "1996-11-12",
+          "record": "8-1-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "185lbs/84kg Middleweight",
+        "oddsHistory": []
+      },
       {
         "id": "1600",
         "order": 3,

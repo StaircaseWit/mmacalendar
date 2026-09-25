@@ -2042,8 +2042,8 @@
     "location": "長崎スタジアムシティ HAPPINESS ARENA",
     "url": "https://jp.rizinff.com/_ct/17852438",
     "cardUrl": "https://jp.rizinff.com/_ct/17857720",
-    "status": "TENTATIVE",
-    "timeIsTentative": true,
+    "status": "CONFIRMED",
+    "timeIsTentative": false,
     "bouts": [
       {
         "order": 10,
@@ -2396,7 +2396,7 @@
     "timeIsTentative": true,
     "bouts": [
       {
-        "order": 5,
+        "order": 10,
         "section": "Main Card",
         "red": {
           "name": "Makoto Shinryu",
@@ -2420,7 +2420,7 @@
         "oddsHistory": []
       },
       {
-        "order": 4,
+        "order": 9,
         "section": "Main Card",
         "red": {
           "name": "Ryuya Fukuda",
@@ -2444,7 +2444,7 @@
         "oddsHistory": []
       },
       {
-        "order": 3,
+        "order": 8,
         "section": "Main Card",
         "red": {
           "name": "Jinnosuke Kashimura",
@@ -2468,7 +2468,7 @@
         "oddsHistory": []
       },
       {
-        "order": 2,
+        "order": 7,
         "section": "Main Card",
         "red": {
           "name": "Abijah Kaleo Meheula",
@@ -2492,7 +2492,7 @@
         "oddsHistory": []
       },
       {
-        "order": 1,
+        "order": 6,
         "section": "Main Card",
         "red": {
           "name": "Hiroaki Suzuki",
@@ -2513,6 +2513,126 @@
           "odds": null
         },
         "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
+      },
+      {
+        "order": 5,
+        "section": "Main Card",
+        "red": {
+          "name": "Juntaro Ushiku",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E7%89%9B%E4%B9%85%E7%B5%A2%E5%A4%AA%E9%83%8E",
+          "style": "All-rounder",
+          "countryCode": "JP",
+          "birthDate": "1995-02-28",
+          "record": "3-4-0",
+          "odds": null
+        },
+        "blue": {
+          "name": "Kaiwen Li",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%AB%E3%82%A4%E3%82%A6%E3%82%A7%E3%83%B3",
+          "style": "All-rounder",
+          "countryCode": "CN",
+          "birthDate": "1995-10-16",
+          "record": "1-1-0",
+          "odds": null
+        },
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
+      },
+      {
+        "order": 4,
+        "section": "Main Card",
+        "red": {
+          "name": "Kyung Pyo Kim",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%AD%E3%83%A0%E3%83%BB%E3%82%AE%E3%83%A7%E3%83%B3%E3%83%94%E3%83%A7",
+          "style": "All-rounder",
+          "countryCode": "KR",
+          "birthDate": "1992-01-29",
+          "record": "4-1-0",
+          "odds": null
+        },
+        "blue": {
+          "name": "Nurkhan Zhumagazy",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%8C%E3%83%AB%E3%83%8F%E3%83%B3%E3%83%BB%E3%82%BA%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%BC",
+          "style": "All-rounder",
+          "countryCode": "KZ",
+          "birthDate": "2001-01-06",
+          "record": "2-0-0",
+          "odds": null
+        },
+        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
+      },
+      {
+        "order": 3,
+        "section": "Main Card",
+        "red": {
+          "name": "Tatsuya “Yanbo” Saika",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%9B%91%E8%B3%80%E2%80%9C%E3%83%A4%E3%83%B3%E5%9D%8A%E2%80%9D%E9%81%94%E4%B9%9F",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "1990-09-18",
+          "record": "1-4-0",
+          "odds": null
+        },
+        "blue": {
+          "name": "Daigo Kuramoto",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%80%89%E6%9C%AC%E5%A4%A7%E6%82%9F",
+          "style": "All-rounder",
+          "countryCode": "JP",
+          "birthDate": "1994-07-10",
+          "record": "0-1-0",
+          "odds": null
+        },
+        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
+      },
+      {
+        "order": 2,
+        "section": "Main Card",
+        "red": {
+          "name": "Taichi Nakajima",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E4%B8%AD%E5%B3%B6%E5%A4%AA%E4%B8%80",
+          "style": "Grappler",
+          "countryCode": "JP",
+          "birthDate": "1989-03-19",
+          "record": "2-3-0",
+          "odds": null
+        },
+        "blue": {
+          "name": "Tsukasa Mizoguchi",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%BA%9D%E5%8F%A3%E5%8F%B8",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "2003-06-07",
+          "record": null,
+          "odds": null
+        },
+        "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
+      },
+      {
+        "order": 1,
+        "section": "Main Card",
+        "red": {
+          "name": "Rikiya",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%8A%9B%E4%B9%9F2",
+          "style": "Grappler",
+          "countryCode": "JP",
+          "birthDate": "1992-12-21",
+          "record": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Rio Kimura",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%9C%A8%E6%9D%91%E7%90%89%E9%9F%B3",
+          "style": "Striker",
+          "countryCode": "JP",
+          "birthDate": "2004-09-15",
+          "record": null,
+          "odds": null
+        },
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds",
         "oddsHistory": []
       }
     ],

@@ -2511,6 +2511,30 @@
       "record": "20-1-0",
       "style": null,
       "checkedAt": "2026-09-23T11:42:56.935Z"
+    },
+    "https://pflmma.com/wt-fighter/caden-cox": {
+      "name": "Caden Cox",
+      "countryCode": "US",
+      "birthDate": "1999-04-12",
+      "record": "2-0-0",
+      "style": null,
+      "checkedAt": "2026-09-25T11:55:05.698Z"
+    },
+    "https://pflmma.com/wt-fighter/ilian-bouafia": {
+      "name": "Ilian Bouafia",
+      "countryCode": null,
+      "birthDate": "1996-11-12",
+      "record": "8-1-0",
+      "style": null,
+      "checkedAt": "2026-09-25T11:55:05.698Z"
+    },
+    "https://pflmma.com/mena-fighter/islam-youssef": {
+      "name": "Islam Youssef",
+      "countryCode": "EG",
+      "birthDate": "1999-07-02",
+      "record": "7-3-0",
+      "style": null,
+      "checkedAt": "2026-09-25T11:55:05.698Z"
     }
   }
 }

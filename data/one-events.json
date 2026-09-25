@@ -3954,7 +3954,7 @@
     "end": "20260718T050833Z",
     "summary": "ONE Fight Night 45",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/onefightnight45\n\nLuke Lessei vs. Mohamed Younes Rabah | Muay Thai | Featherweight\n\nSuablack Tor Pran49 vs. Stephen Irvine | Muay Thai | Flyweight\n\nLito Adiwang vs. Antonio  Cesar | Mixed Martial Arts | Flyweight\n\nJihin Radzuan vs. Anastasia  Nikolakakos | Mixed Martial Arts | Atomweight\n\nFelipe Lobo vs. Dmitrii Kovtun | Muay Thai | Bantamweight\n\nBokang Masunyane vs. Lee Seung Cheol | Mixed Martial Arts | Strawweight\n\nBlack Panther vs. Sean Climaco | Muay Thai | Flyweight\n\nAyaka Miura vs. Victoria Souza | Mixed Martial Arts | Strawweight\n\nSanzhar Zakirov vs. Ruslan Satiev | Mixed Martial Arts | Flyweight\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/onefightnight45\n\nLuke Lessei vs. Mohamed Younes Rabah | Muay Thai | Featherweight\n\nSuablack Tor Pran49 vs. Stephen Irvine | Muay Thai | Flyweight\n\nLito Adiwang vs. Antonio  Cesar | Mixed Martial Arts | Flyweight\n\nJihin Radzuan vs. Anastasia  Nikolakakos | Mixed Martial Arts | Atomweight\n\nFelipe Lobo vs. Dmitrii Kovtun | Muay Thai | Bantamweight\n\nBokang Masunyane vs. Lee Seung Cheol | Mixed Martial Arts | Strawweight\n\nBlack Panther vs. Sean Climaco | Muay Thai | Flyweight\n\nAyaka Miura vs. Vick Souza | Mixed Martial Arts | Strawweight\n\nSanzhar Zakirov vs. Ruslan Satiev | Mixed Martial Arts | Flyweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/onefightnight45",
     "status": "CONFIRMED",
     "bouts": [
@@ -4058,12 +4058,8 @@
       },
       {
         "redName": "Ayaka Miura",
-        "blueName": "Victoria Souza",
+        "blueName": "Vick Souza",
         "details": "Strawweight Mixed Martial Arts",
-        "redCountry": "Japan",
-        "blueCountry": "Brazil",
-        "redProfileUrl": "https://www.onefc.com/athletes/ayaka-miura/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/victoria-souza/",
         "redOdds": null,
         "blueOdds": null,
         "oddsHistory": []
@@ -7322,9 +7318,25 @@
         "blueAge": 25,
         "blueRecord": "0-2-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-275",
+        "blueOdds": "+200",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-25T11:55:05.698Z",
+            "eventName": "ONE Friday Fights 172 & The Inner Circle 32",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-172-4374",
+            "promotion": "one",
+            "eventId": "6a0d90e58a2af95867c74e83",
+            "odds": {
+              "superlek jitmuangnon": "-275",
+              "othman rhouni": "+200"
+            },
+            "names": {
+              "superlek jitmuangnon": "Superlek Jitmuangnon",
+              "othman rhouni": "Othman Rhouni"
+            }
+          }
+        ]
       },
       {
         "redName": "Yodkatanyu Jitmuangnon",
@@ -7338,9 +7350,25 @@
         "blueAge": 21,
         "blueRecord": "1-2-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-110",
+        "blueOdds": "-120",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-25T11:55:05.698Z",
+            "eventName": "ONE Friday Fights 172 & The Inner Circle 32",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-172-4374",
+            "promotion": "one",
+            "eventId": "6a0d90e58a2af95867c74e83",
+            "odds": {
+              "yodkatanyu jitmuangnon": "-110",
+              "liu junchao": "-120"
+            },
+            "names": {
+              "yodkatanyu jitmuangnon": "Yodkatanyu Jitmuangnon",
+              "liu junchao": "Liu Junchao"
+            }
+          }
+        ]
       },
       {
         "redName": "Teeyai Torfunfarm",
@@ -7356,9 +7384,25 @@
         "blueAge": 25,
         "blueRecord": "2-5-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-225",
+        "blueOdds": "+163",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-25T11:55:05.698Z",
+            "eventName": "ONE Friday Fights 172 & The Inner Circle 32",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-172-4374",
+            "promotion": "one",
+            "eventId": "6a0d90e58a2af95867c74e83",
+            "odds": {
+              "teeyai torfunfarm": "-225",
+              "mungkorn sor sombatfarm": "+163"
+            },
+            "names": {
+              "teeyai torfunfarm": "Teeyai Torfunfarm",
+              "mungkorn sor sombatfarm": "Mungkorn Sor Sombatfarm"
+            }
+          }
+        ]
       },
       {
         "redName": "Nuapayak Jitmuangnon",
@@ -7374,9 +7418,25 @@
         "blueAge": 19,
         "blueRecord": "1-2-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-110",
+        "blueOdds": "-120",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-25T11:55:05.698Z",
+            "eventName": "ONE Friday Fights 172 & The Inner Circle 32",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-172-4374",
+            "promotion": "one",
+            "eventId": "6a0d90e58a2af95867c74e83",
+            "odds": {
+              "nuapayak jitmuangnon": "-110",
+              "suajan sor isarachot": "-120"
+            },
+            "names": {
+              "nuapayak jitmuangnon": "Nuapayak Jitmuangnon",
+              "suajan sor isarachot": "Suajan Sor Isarachot"
+            }
+          }
+        ]
       },
       {
         "redName": "Sarmad Jahanara",
@@ -7388,9 +7448,25 @@
         "blueCountry": "Russia",
         "redAge": 31,
         "redRecord": "2-0-0",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+500",
+        "blueOdds": "-1000",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-25T11:55:05.698Z",
+            "eventName": "ONE Friday Fights 172 & The Inner Circle 32",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-172-4374",
+            "promotion": "one",
+            "eventId": "6a0d90e58a2af95867c74e83",
+            "odds": {
+              "sarmad jahanara": "+500",
+              "basir saraliev": "-1000"
+            },
+            "names": {
+              "sarmad jahanara": "Sarmad Jahanara",
+              "basir saraliev": "Basir Saraliev"
+            }
+          }
+        ]
       },
       {
         "redName": "Ma Zhenzhao",
@@ -7404,9 +7480,25 @@
         "blueAge": 22,
         "blueRecord": "1-0-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-110",
+        "blueOdds": "-120",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-25T11:55:05.698Z",
+            "eventName": "ONE Friday Fights 172 & The Inner Circle 32",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-172-4374",
+            "promotion": "one",
+            "eventId": "6a0d90e58a2af95867c74e83",
+            "odds": {
+              "ma zhenzhao": "-110",
+              "samransing sitchalongsak": "-120"
+            },
+            "names": {
+              "ma zhenzhao": "Ma Zhenzhao",
+              "samransing sitchalongsak": "Samransing Sitchalongsak"
+            }
+          }
+        ]
       },
       {
         "redName": "Leevi Heino",
@@ -7418,9 +7510,25 @@
         "blueCountry": "Russia / Tajikistan",
         "redAge": 26,
         "blueAge": 22,
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+225",
+        "blueOdds": "-333",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-25T11:55:05.698Z",
+            "eventName": "ONE Friday Fights 172 & The Inner Circle 32",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-172-4374",
+            "promotion": "one",
+            "eventId": "6a0d90e58a2af95867c74e83",
+            "odds": {
+              "leevi heino": "+225",
+              "khurshed gafurov": "-333"
+            },
+            "names": {
+              "leevi heino": "Leevi Heino",
+              "khurshed gafurov": "Khurshed Gafurov"
+            }
+          }
+        ]
       },
       {
         "redName": "Bevan Ali Oguz",
@@ -7434,9 +7542,25 @@
         "blueAge": 32,
         "blueRecord": "1-0-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+163",
+        "blueOdds": "-225",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-25T11:55:05.698Z",
+            "eventName": "ONE Friday Fights 172 & The Inner Circle 32",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-172-4374",
+            "promotion": "one",
+            "eventId": "6a0d90e58a2af95867c74e83",
+            "odds": {
+              "bevan ali oguz": "+163",
+              "yuya shibata": "-225"
+            },
+            "names": {
+              "bevan ali oguz": "Bevan Ali Oguz",
+              "yuya shibata": "Yuya Shibata"
+            }
+          }
+        ]
       },
       {
         "redName": "Duangbuppha O Sansuk",
@@ -7449,9 +7573,25 @@
         "redAge": 28,
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+200",
+        "blueOdds": "-275",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-25T11:55:05.698Z",
+            "eventName": "ONE Friday Fights 172 & The Inner Circle 32",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-172-4374",
+            "promotion": "one",
+            "eventId": "6a0d90e58a2af95867c74e83",
+            "odds": {
+              "duangbuppha o sansuk": "+200",
+              "yutaro hori": "-275"
+            },
+            "names": {
+              "duangbuppha o sansuk": "Duangbuppha O Sansuk",
+              "yutaro hori": "Yutaro Hori"
+            }
+          }
+        ]
       },
       {
         "redName": "Tangtang Sor Dechapan",
@@ -7466,9 +7606,25 @@
         "redStyle": "Striker",
         "blueAge": 26,
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-275",
+        "blueOdds": "+200",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-25T11:55:05.698Z",
+            "eventName": "ONE Friday Fights 172 & The Inner Circle 32",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-172-4374",
+            "promotion": "one",
+            "eventId": "6a0d90e58a2af95867c74e83",
+            "odds": {
+              "tangtang sor dechapan": "-275",
+              "trieu thi phuong thuy": "+200"
+            },
+            "names": {
+              "tangtang sor dechapan": "Tangtang Sor Dechapan",
+              "trieu thi phuong thuy": "Trieu Thi Phuong Thuy"
+            }
+          }
+        ]
       },
       {
         "redName": "Panpayak Jitmuangnon",

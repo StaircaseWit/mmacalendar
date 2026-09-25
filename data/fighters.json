@@ -455,13 +455,6 @@
       "fightingStyle": "Wrestler",
       "checkedAt": "2026-09-21T12:54:10.490Z"
     },
-    "https://www.ufc.com/athlete/mehemmedeli-osmanli": {
-      "birthDate": "2004-08-05",
-      "familyName": "Osmanli",
-      "record": "0-0-0",
-      "fightingStyle": null,
-      "checkedAt": "2026-09-21T12:54:10.490Z"
-    },
     "https://www.ufc.com/athlete/melissa-amaya": {
       "birthDate": "1994-11-27",
       "familyName": "Amaya",
@@ -3220,13 +3213,6 @@
       "fightingStyle": "Kickboxer",
       "checkedAt": "2026-09-23T11:42:56.935Z"
     },
-    "https://www.ufc.com/athlete/mickey-gall": {
-      "birthDate": "1992-01-22",
-      "familyName": "Gall",
-      "record": "7-7-0",
-      "fightingStyle": "Brazilian Jiu-Jitsu",
-      "checkedAt": "2026-09-23T11:42:56.935Z"
-    },
     "https://www.ufc.com/athlete/caio-borralho": {
       "birthDate": "1993-01-16",
       "familyName": "Borralho",
@@ -3303,6 +3289,41 @@
       "record": "11-6-0",
       "fightingStyle": "MMA",
       "checkedAt": "2026-09-23T11:42:56.935Z"
+    },
+    "https://www.ufc.com/athlete/luis-hernandez": {
+      "birthDate": "1996-08-22",
+      "familyName": "Hernandez",
+      "record": "8-0-0",
+      "fightingStyle": "MMA",
+      "checkedAt": "2026-09-25T11:55:05.698Z"
+    },
+    "https://www.ufc.com/athlete/mahammadali-osmanli": {
+      "birthDate": null,
+      "familyName": null,
+      "record": null,
+      "fightingStyle": null,
+      "checkedAt": "2026-09-25T11:55:05.698Z"
+    },
+    "https://www.ufc.com/athlete/natalia-silva": {
+      "birthDate": "1997-02-03",
+      "familyName": "Silva",
+      "record": "20-5-1",
+      "fightingStyle": "Taekwondo",
+      "checkedAt": "2026-09-25T11:55:05.698Z"
+    },
+    "https://www.ufc.com/athlete/kyle-nelson": {
+      "birthDate": "1991-04-20",
+      "familyName": "Nelson",
+      "record": "17-7-1",
+      "fightingStyle": "Jiu-Jitsu",
+      "checkedAt": "2026-09-25T11:55:05.698Z"
+    },
+    "https://www.ufc.com/athlete/cristian-perez-gonzalez": {
+      "birthDate": "1999-08-17",
+      "familyName": "Perez Gonzalez",
+      "record": "1-1-0",
+      "fightingStyle": null,
+      "checkedAt": "2026-09-25T11:55:05.698Z"
     }
   }
 }

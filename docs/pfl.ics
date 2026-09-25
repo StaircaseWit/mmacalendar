@@ -892,8 +892,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pflmena11@mma-calendar-pfl
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:2
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 TRANSP:TRANSPARENT
@@ -908,12 +908,12 @@ DESCRIPTION:Professional Fighters League · Complete Event · 10 announced
  𝗲𝗱𝗱𝗶𝗻𝗲 𝗗𝗶𝗮𝗻𝗶 🇲🇦 vs. 𝗛𝗮𝘇
  𝗲𝗺 𝗞𝗮𝘆𝘆𝗮𝗹𝗶 🇯🇴\n• 170lbs/77kg Welterweig
  ht · Semifinal\n• Diani: 11-4-0 | 29yo\n• Kayyali: 3-0-2 | 26yo\n\n
- 🥊 8. 𝗛𝗮𝗺𝘇𝗮 𝗞𝗼𝗼𝗵𝗲𝗷𝗶 🇧🇭 vs. 
- 𝗘𝗹𝗶𝗮𝘀 𝗕𝗼𝘂𝗱𝗲𝗴𝘇𝗱𝗮𝗺𝗲 🇩🇿
- \n• 145lbs/66kg Featherweight · Semifinal\n• Kooheji: 15-4-0 | 33yo\n
- • Boudegzdame: 21-9-0 | 32yo\n\n🥊 7. 𝗬𝗹𝗶𝗲𝘀 𝗗𝗷
- 𝗶𝗿𝗼𝘂𝗻 vs. 𝗕𝗮𝘀𝗲𝗹 𝗦𝗵𝗮𝗹𝗮𝗮𝗻
-  🇪🇬\n• 155lbs/70kg Lightweight · Semifinal\n• Djiroun: 16-6-0\n
+ 🥊 8. 𝗘𝗹𝗶𝗮𝘀 𝗕𝗼𝘂𝗱𝗲𝗴𝘇𝗱𝗮𝗺𝗲 
+ 🇩🇿 vs. 𝗜𝘀𝗹𝗮𝗺 𝗬𝗼𝘂𝘀𝘀𝗲𝗳 🇪🇬\n
+ • 145lbs/66kg Featherweight · Semifinal\n• Boudegzdame: 21-9-0 | 32yo
+ \n• Youssef: 7-3-0 | 27yo\n\n🥊 7. 𝗬𝗹𝗶𝗲𝘀 𝗗𝗷𝗶
+ 𝗿𝗼𝘂𝗻 vs. 𝗕𝗮𝘀𝗲𝗹 𝗦𝗵𝗮𝗹𝗮𝗮𝗻 
+ 🇪🇬\n• 155lbs/70kg Lightweight · Semifinal\n• Djiroun: 16-6-0\n
  • Shalaan: 7-1-0 | 24yo\n\n🥊 6. 𝗢𝗺𝗮𝗿 𝗛𝘂𝘀𝘀𝗲
  𝗶𝗻 vs. 𝗔𝗯𝗱𝗲𝗹𝗸𝗿𝗶𝗺 𝗭𝗼𝘂𝗮𝗱 
  🇩🇿\n• 170lbs/77kg Welterweight · Semifinal\n• Hussein: 12-7-0\n
@@ -932,8 +932,11 @@ DESCRIPTION:Professional Fighters League · Complete Event · 10 announced
  akh: 3-0-0 | 21yo\n\n🥊 1. 𝗙𝗮𝘁𝗶𝗺𝗮 𝗔𝗹 𝗔𝗺
  𝗺𝗮𝗿𝗶 🇸🇦 vs. 𝗔𝘆𝗮 𝗟𝗼𝘂𝗻𝗲𝘀 🇩
  🇿\n• 135lbs/61kg Bantamweight\n• Ammari: 0-0-0 | 18yo\n• Lounes: 
- 0-0-0 | 20yo\n\n--------------------------------\nSource: https://pflmma.c
- om/event/pflmena11
+ 0-0-0 | 20yo\n\n--------------------------------\n𝗖𝗔𝗡𝗖𝗘𝗟
+ 𝗟𝗘𝗗 𝗢𝗥 𝗣𝗢𝗦𝗧𝗣𝗢𝗡𝗘𝗗 𝗕𝗢𝗨
+ 𝗧𝗦\n--------------------------------\n\n✕ Hamza Kooheji vs. Elias 
+ Boudegzdame\n• Removed from the official PFL card\n\n-------------------
+ -------------\nSource: https://pflmma.com/event/pflmena11
 LOCATION:Riyadh\, KSA
 URL:https://pflmma.com/event/pflmena11
 CATEGORIES:Professional Fighters League
@@ -983,55 +986,63 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-chicago2@mma-calendar-pfl
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:3
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:4
 DTSTART:20261016T220000Z
 DTEND:20261017T060000Z
 SUMMARY:PFL Chicago 2
-DESCRIPTION:Professional Fighters League · Complete Event · 11 announced 
+DESCRIPTION:Professional Fighters League · Complete Event · 14 announced 
  bouts\n📍 Wintrust Arena\nTimes display automatically in your calendar t
  ime zone. End time is approximate.\n\n--------------------------------\n
- 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 11. 𝗣
- 𝗮𝘂𝗹𝗶𝗻𝗮 𝗪𝗶𝘀𝗻𝗶𝗲𝘄𝘀𝗸𝗮 🇵🇱
-  vs. 𝗖𝗵𝗲𝗹𝘀𝗲𝗮 𝗛𝗮𝗰𝗸𝗲𝘁𝘁 🇦🇺\n
- • 125lbs/57kg Women's Flyweight\n• Wisniewska: 7-1-0 | 27yo\n• Hacke
- tt: 5-3-1 | 26yo | Striker\n\n🥊 10. 𝗖𝗼𝗯𝗲𝘆 𝗙𝗲𝗵
- 𝗿 vs. 𝗥𝗼𝘀𝗮𝗿𝗶𝗼 𝗥𝗼𝗺𝗲𝗿𝗼 🇺🇸\n
- • 135lbs/61kg Bantamweight\n• Fehr: 4-0-0 | 32yo\n• Romero: 4-0-0 | 
- 29yo\n\n🥊 9. 𝗘𝗹𝗶𝗲𝘇𝗲𝗿 𝗞𝘂𝗯𝗮𝗻𝘇𝗮 
- vs. 𝗧𝗿𝗲𝘆 𝗪𝗮𝘁𝗲𝗿𝘀\n• 170lbs/77kg Welterweigh
- t\n• Kubanza: 9-1-0 | 28yo\n• Waters: 10-2-0 | 31yo\n\n🥊 8. 𝗖á
- 𝘀𝘀𝗶𝗼 𝗕𝗮𝗿ã𝗼 🇧🇷 vs. 𝗞𝗲𝘃𝗶𝗻 𝗣
- 𝗲𝗮𝘀𝗲 🇺🇸\n• 155lbs/70kg Lightweight\n• Barão: 10-1-1
-  | 31yo\n• Pease: 6-0-0 | 29yo\n\n🥊 7. 𝗦𝗵𝗮𝗻𝗻𝗼𝗻 
- 𝗖𝗹𝗮𝗿𝗸 🇨🇦 vs. 𝗟𝘂𝗰𝗲𝗿𝗼 𝗔𝗰𝗼
- 𝘀𝘁𝗮\n• 125lbs/57kg Women's Flyweight\n• Clark: 8-1-0 | 34yo\n
- • Acosta: 6-2-0 | 32yo\n\n🥊 6. 𝗚𝗮𝗺𝗶𝗱 𝗞𝗵𝗶𝘇
- 𝗿𝗶𝗲𝘃 🇷🇺 vs. 𝗠𝗶𝗰𝗵𝗮𝗲𝗹 𝗕𝗼𝘆
- 𝗹𝗮𝗻 🇺🇸\n• 155lbs/70kg Lightweight\n• Khizriev: 5-0-0 | 
- 26yo\n• Boylan: 6-1-0 | 25yo\n\n🥊 5. 𝗘𝗺𝗶𝗹𝗶𝗮𝗻𝗼
-  𝗦𝗼𝗿𝗱𝗶 vs. 𝗔𝗯𝗿𝗮𝗵𝗮𝗺 𝗕𝗮𝗯𝗹
- 𝘆 🇨🇮\n• 205lbs/93kg Light Heavyweight\n• Sordi: 23-12-1 | 35y
- o\n• Bably: 8-3-0 | 30yo\n\n🥊 4. 𝗢𝘂𝗮𝗹𝘆 𝗧𝗮𝗻
- 𝗱𝗶𝗮 vs. 𝗝𝗣 𝗦𝗮𝗶𝗻𝘁 𝗟𝗼𝘂𝗶𝘀\n• 1
- 70lbs/77kg Welterweight\n• Tandia: 5-0-0 | 24yo\n• Louis: 12-5-0 | 34y
- o\n\n🥊 3. 𝗦𝗮𝗿𝘃𝗮𝗿𝗷𝗼𝗻 𝗞𝗵𝗮𝗺𝗶𝗱
- 𝗼𝘃 🇹🇯 vs. 𝗥𝗮𝗳𝗮𝗲𝗹 𝗱𝗼 𝗡𝗮𝘀𝗰
- 𝗶𝗺𝗲𝗻𝘁𝗼 🇧🇷\n• 135lbs/61kg Bantamweight\n• Khami
- dov: 17-1-0 | 29yo\n• Nascimento: 13-3-0 | 34yo\n\n🥊 2. 𝗧𝗶𝗺
- 𝘂𝗿 𝗞𝗵𝗶𝘇𝗿𝗶𝗲𝘃 🇷🇺 vs. 𝗚𝗮𝗯𝗿
- 𝗶𝗲𝗹 𝗕𝗿𝗮𝗴𝗮 🇧🇷\n• 145lbs/66kg Featherweight\
- n• Khizriev: 18-0-0 | 30yo | Grappler\n• Braga: 17-3-0 | 28yo | Strike
- r\n\n🥊 1. 𝗟𝗶𝘇 𝗖𝗮𝗿𝗺𝗼𝘂𝗰𝗵𝗲 🇺🇸 vs
- . 𝗝𝗲𝗻𝗮 𝗕𝗶𝘀𝗵𝗼𝗽\n• 125lbs/57kg Women's Flywe
- ight · Championship\n• Carmouche: 26-8-0 | 42yo\n• Bishop: 11-3-0 | 4
- 0yo | Grappler\n\n--------------------------------\n𝗖𝗔𝗡𝗖𝗘
- 𝗟𝗟𝗘𝗗 𝗢𝗥 𝗣𝗢𝗦𝗧𝗣𝗢𝗡𝗘𝗗 𝗕𝗢
- 𝗨𝗧𝗦\n--------------------------------\n\n✕ Denis Goltsov vs. Ma
- xwell Djantou Nana\n• Removed from the official PFL card\n\n✕ Alexande
- r Shabliy vs. Landry Ward\n• Removed from the official PFL card\n\n-----
- ---------------------------\nSource: https://pflmma.com/event/2026-chicago
- 2
+ 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 14. 𝗟
+ 𝗲𝘃𝗮𝗻 𝗞𝗵𝗮𝗯𝗮𝗹𝗮𝗲𝘃 🇬🇪 vs. 𝗠
+ 𝗼𝗿𝗾𝘂𝗲𝘇 𝗙𝗼𝗿𝗲𝘀𝘁 🇺🇸\n• 155lbs/70k
+ g Lightweight\n• Khabalaev: 5-0-0 | 27yo\n• Forest: 8-2-0 | 33yo\n\n
+ 🥊 13. 𝗕𝗲𝗻𝗶𝘁𝗮 𝗩𝗮𝗻 𝗥𝗼𝗼𝗷𝗶 🇳
+ 🇱 vs. 𝗚𝗶𝘂𝗹𝗹𝗶𝗮𝗻𝘆 𝗣𝗲𝗿ê𝗮\n• Wome
+ n's Strawweight\n• Rooji: 7-2-0 | 27yo\n\n🥊 12. 𝗡𝗼𝗮𝗵 𝗛
+ 𝗲𝗿𝗺𝗼𝘀𝗶𝗹𝗹𝗼 🇺🇸 vs. 𝗖𝗮𝗱𝗲𝗻 
+ 𝗖𝗼𝘅 🇺🇸\n• 145lbs/66kg Featherweight\n• Hermosillo: 27yo
+ \n• Cox: 2-0-0 | 27yo\n\n🥊 11. 𝗣𝗮𝘂𝗹𝗶𝗻𝗮 𝗪𝗶
+ 𝘀𝗻𝗶𝗲𝘄𝘀𝗸𝗮 🇵🇱 vs. 𝗖𝗵𝗲𝗹𝘀𝗲𝗮
+  𝗛𝗮𝗰𝗸𝗲𝘁𝘁 🇦🇺\n• 125lbs/57kg Women's Flyweight\
+ n• Wisniewska: 7-1-0 | 27yo\n• Hackett: 5-3-1 | 26yo | Striker\n\n🥊
+  10. 𝗖𝗼𝗯𝗲𝘆 𝗙𝗲𝗵𝗿 vs. 𝗥𝗼𝘀𝗮𝗿𝗶
+ 𝗼 𝗥𝗼𝗺𝗲𝗿𝗼 🇺🇸\n• 135lbs/61kg Bantamweight\n• 
+ Fehr: 4-0-0 | 32yo\n• Romero: 4-0-0 | 29yo\n\n🥊 9. 𝗘𝗹𝗶𝗲
+ 𝘇𝗲𝗿 𝗞𝘂𝗯𝗮𝗻𝘇𝗮 vs. 𝗧𝗿𝗲𝘆 𝗪𝗮
+ 𝘁𝗲𝗿𝘀\n• 170lbs/77kg Welterweight\n• Kubanza: 9-1-0 | 28yo\
+ n• Waters: 10-2-0 | 31yo\n\n🥊 8. 𝗖á𝘀𝘀𝗶𝗼 𝗕𝗮𝗿
+ ã𝗼 🇧🇷 vs. 𝗞𝗲𝘃𝗶𝗻 𝗣𝗲𝗮𝘀𝗲 🇺🇸\n
+ • 155lbs/70kg Lightweight\n• Barão: 10-1-1 | 31yo\n• Pease: 6-0-0 |
+  29yo\n\n🥊 7. 𝗦𝗵𝗮𝗻𝗻𝗼𝗻 𝗖𝗹𝗮𝗿𝗸 🇨
+ 🇦 vs. 𝗟𝘂𝗰𝗲𝗿𝗼 𝗔𝗰𝗼𝘀𝘁𝗮\n• 125lbs/57k
+ g Women's Flyweight\n• Clark: 8-1-0 | 34yo\n• Acosta: 6-2-0 | 32yo\n\n
+ 🥊 6. 𝗚𝗮𝗺𝗶𝗱 𝗞𝗵𝗶𝘇𝗿𝗶𝗲𝘃 🇷🇺 vs.
+  𝗠𝗶𝗰𝗵𝗮𝗲𝗹 𝗕𝗼𝘆𝗹𝗮𝗻 🇺🇸\n• 155lb
+ s/70kg Lightweight\n• Khizriev: 5-0-0 | 26yo\n• Boylan: 6-1-0 | 25yo\n
+ \n🥊 5. 𝗘𝗺𝗶𝗹𝗶𝗮𝗻𝗼 𝗦𝗼𝗿𝗱𝗶 vs. 𝗔
+ 𝗯𝗿𝗮𝗵𝗮𝗺 𝗕𝗮𝗯𝗹𝘆 🇨🇮\n• 205lbs/93kg Li
+ ght Heavyweight\n• Sordi: 23-12-1 | 35yo\n• Bably: 8-3-0 | 30yo\n\n
+ 🥊 4. 𝗢𝘂𝗮𝗹𝘆 𝗧𝗮𝗻𝗱𝗶𝗮 vs. 𝗝𝗣 𝗦
+ 𝗮𝗶𝗻𝘁 𝗟𝗼𝘂𝗶𝘀\n• 170lbs/77kg Welterweight\n• T
+ andia: 5-0-0 | 24yo\n• Louis: 12-5-0 | 34yo\n\n🥊 3. 𝗦𝗮𝗿𝘃
+ 𝗮𝗿𝗷𝗼𝗻 𝗞𝗵𝗮𝗺𝗶𝗱𝗼𝘃 🇹🇯 vs. 𝗥
+ 𝗮𝗳𝗮𝗲𝗹 𝗱𝗼 𝗡𝗮𝘀𝗰𝗶𝗺𝗲𝗻𝘁𝗼 
+ 🇧🇷\n• 135lbs/61kg Bantamweight\n• Khamidov: 17-1-0 | 29yo\n• N
+ ascimento: 13-3-0 | 34yo\n\n🥊 2. 𝗧𝗶𝗺𝘂𝗿 𝗞𝗵𝗶𝘇
+ 𝗿𝗶𝗲𝘃 🇷🇺 vs. 𝗚𝗮𝗯𝗿𝗶𝗲𝗹 𝗕𝗿𝗮
+ 𝗴𝗮 🇧🇷\n• 145lbs/66kg Featherweight\n• Khizriev: 18-0-0 | 3
+ 0yo | Grappler\n• Braga: 17-3-0 | 28yo | Striker\n\n🥊 1. 𝗟𝗶𝘇
+  𝗖𝗮𝗿𝗺𝗼𝘂𝗰𝗵𝗲 🇺🇸 vs. 𝗝𝗲𝗻𝗮 𝗕
+ 𝗶𝘀𝗵𝗼𝗽\n• 125lbs/57kg Women's Flyweight · Championship\n
+ • Carmouche: 26-8-0 | 42yo\n• Bishop: 11-3-0 | 40yo | Grappler\n\n----
+ ----------------------------\n𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢
+ 𝗥 𝗣𝗢𝗦𝗧𝗣𝗢𝗡𝗘𝗗 𝗕𝗢𝗨𝗧𝗦\n----------
+ ----------------------\n\n✕ Denis Goltsov vs. Maxwell Djantou Nana\n• 
+ Removed from the official PFL card\n\n✕ Alexander Shabliy vs. Landry War
+ d\n• Removed from the official PFL card\n\n-----------------------------
+ ---\nSource: https://pflmma.com/event/2026-chicago2
 LOCATION:Wintrust Arena
 URL:https://pflmma.com/event/2026-chicago2
 CATEGORIES:Professional Fighters League
@@ -1040,65 +1051,66 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pfl-returns-to-dubai@mma-calendar-pfl
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-TRANSP:TRANSPARENT
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:3
+DTSTART:20261114T140000Z
+DTEND:20261114T210000Z
 SUMMARY:PFL Dubai
 DESCRIPTION:Professional Fighters League · Complete Event · 6 announced b
- outs\n📍 Dubai\, United Arab Emirates\nCard times have not been announce
- d. This date-only entry will update automatically.\n\n--------------------
- ------------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n
- 🥊 6. 𝗞𝗵𝗮𝘀𝗮𝗻 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝘀𝗵𝗮
- 𝗿𝗶𝗽𝗼𝘃 vs. 𝗔𝗱𝗮𝗺 𝗕𝗼𝗿𝗶𝗰𝘀 🇭
- 🇺\n• 145lbs/66kg Featherweight\n• Magomedsharipov: 11-0-0 | 26yo\n
- • Borics: 20-4-0 | 33yo | Striker\n\n🥊 5. 𝗦𝗲𝗿𝗴𝗶𝗼 
- 𝗣𝗲𝘁𝘁𝗶𝘀 🇺🇸 vs. 𝗝𝗼𝗷𝗶 𝗚𝗼𝘁𝗼\n
- • 135lbs/61kg Bantamweight\n• Pettis: 25-8-0 | 33yo\n• Goto: 21-9-1 
- | 30yo\n\n🥊 4. 𝗔𝗯𝘂𝗯𝗮𝗸𝗮𝗿 𝗡𝘂𝗿𝗺𝗮
- 𝗴𝗼𝗺𝗲𝗱𝗼𝘃 vs. 𝗗𝗮𝘃𝗶𝗱 𝗠𝗮𝗿𝘁𝗶
- 𝗻𝗲𝘇\n• 170lbs/77kg Welterweight\n• Nurmagomedov: 16-2-0 | 37y
- o\n• Martinez: 17-6-0 | 33yo\n\n🥊 3. 𝗣𝗼𝘂𝘆𝗮 𝗥𝗮
- 𝗵𝗺𝗮𝗻𝗶 vs. 𝗢𝗹𝗲𝗴 𝗣𝗼𝗽𝗼𝘃 🇷🇺\n
- • 265lbs/120kg Heavyweight\n• Rahmani: 6-0-0 | 34yo\n• Popov: 22-2-0
-  | 34yo\n\n🥊 2. 𝗣𝗮𝘁𝗿𝗶𝗰𝗸 𝗛𝗮𝗯𝗶𝗿𝗼
- 𝗿𝗮 🇧🇪 vs. 𝗢𝗺𝗮𝗿 𝗘𝗹 𝗗𝗮𝗳𝗿𝗮𝘄
- 𝘆\n• 170lbs/77kg Welterweight\n• Habirora: 9-0-0 | 25yo | Striker\n
- • Dafrawy: 16-6-0 | 31yo\n\n🥊 1. 𝗩𝗮𝗱𝗶𝗺 𝗡𝗲𝗺
- 𝗸𝗼𝘃 🇷🇺 vs. 𝗦𝗲𝗿𝗴𝗲𝘆 𝗕𝗶𝗹𝗼𝘀
- 𝘁𝗲𝗻𝗻𝗶𝘆 🇷🇺\n• 265lbs/120kg Heavyweight · PFL Wor
- ld Title\n• Nemkov: 20-2-0 | 34yo\n• Bilostenniy: 15-4-0 | 31yo\n\n---
- -----------------------------\nSource: https://pflmma.com/event/pfl-return
- s-to-dubai
+ outs\n📍 Dubai\, United Arab Emirates\nTimes display automatically in yo
+ ur calendar time zone. End time is approximate.\n\n-----------------------
+ ---------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 
+ 6. 𝗞𝗵𝗮𝘀𝗮𝗻 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝘀𝗵𝗮𝗿
+ 𝗶𝗽𝗼𝘃 vs. 𝗔𝗱𝗮𝗺 𝗕𝗼𝗿𝗶𝗰𝘀 🇭🇺\n
+ • 145lbs/66kg Featherweight\n• Magomedsharipov: 11-0-0 | 26yo\n• Bor
+ ics: 20-4-0 | 33yo | Striker\n\n🥊 5. 𝗦𝗲𝗿𝗴𝗶𝗼 𝗣𝗲
+ 𝘁𝘁𝗶𝘀 🇺🇸 vs. 𝗝𝗼𝗷𝗶 𝗚𝗼𝘁𝗼\n• 135lb
+ s/61kg Bantamweight\n• Pettis: 25-8-0 | 33yo\n• Goto: 21-9-1 | 30yo\n\
+ n🥊 4. 𝗔𝗯𝘂𝗯𝗮𝗸𝗮𝗿 𝗡𝘂𝗿𝗺𝗮𝗴𝗼𝗺
+ 𝗲𝗱𝗼𝘃 vs. 𝗗𝗮𝘃𝗶𝗱 𝗠𝗮𝗿𝘁𝗶𝗻𝗲𝘇
+ \n• 170lbs/77kg Welterweight\n• Nurmagomedov: 16-2-0 | 37yo\n• Marti
+ nez: 17-6-0 | 33yo\n\n🥊 3. 𝗣𝗼𝘂𝘆𝗮 𝗥𝗮𝗵𝗺𝗮
+ 𝗻𝗶 vs. 𝗢𝗹𝗲𝗴 𝗣𝗼𝗽𝗼𝘃 🇷🇺\n• 265lbs/12
+ 0kg Heavyweight\n• Rahmani: 6-0-0 | 34yo\n• Popov: 22-2-0 | 34yo\n\n
+ 🥊 2. 𝗣𝗮𝘁𝗿𝗶𝗰𝗸 𝗛𝗮𝗯𝗶𝗿𝗼𝗿𝗮 🇧
+ 🇪 vs. 𝗢𝗺𝗮𝗿 𝗘𝗹 𝗗𝗮𝗳𝗿𝗮𝘄𝘆\n• 170lb
+ s/77kg Welterweight\n• Habirora: 9-0-0 | 25yo | Striker\n• Dafrawy: 16
+ -6-0 | 31yo\n\n🥊 1. 𝗩𝗮𝗱𝗶𝗺 𝗡𝗲𝗺𝗸𝗼𝘃 🇷
+ 🇺 vs. 𝗦𝗲𝗿𝗴𝗲𝘆 𝗕𝗶𝗹𝗼𝘀𝘁𝗲𝗻𝗻𝗶
+ 𝘆 🇷🇺\n• 265lbs/120kg Heavyweight · PFL World Title\n• Nemkov
+ : 20-2-0 | 34yo\n• Bilostenniy: 15-4-0 | 31yo\n\n-----------------------
+ ---------\nSource: https://pflmma.com/event/pfl-returns-to-dubai
 LOCATION:Dubai\, United Arab Emirates
 URL:https://pflmma.com/event/pfl-returns-to-dubai
 CATEGORIES:Professional Fighters League
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-lyon-2026@mma-calendar-pfl
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:2
+LAST-MODIFIED:20260925T115505Z
+SEQUENCE:3
 DTSTART:20261219T160000Z
-DTEND:20261219T220000Z
+DTEND:20261219T230000Z
 SUMMARY:PFL Lyon
-DESCRIPTION:Professional Fighters League · Complete Event · 3 announced b
+DESCRIPTION:Professional Fighters League · Complete Event · 4 announced b
  outs\n📍 Lyon\, France\nTimes display automatically in your calendar tim
  e zone. End time is approximate.\n\n--------------------------------\n𝗕
- 𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 3. 𝗔𝗯𝗱
- 𝗼𝘂𝗹 𝗔𝗯𝗱𝗼𝘂𝗿𝗮𝗴𝘂𝗶𝗺𝗼𝘃 🇷🇺
-  vs. 𝗔𝗻𝗱𝗿𝗲𝗲𝗮𝘀 𝗕𝗶𝗻𝗱𝗲𝗿 🇷🇴\n
- • 170lbs/77kg Welterweight\n• Abdouraguimov: 20-1-0 | 31yo\n• Binder
- : 8-2-0 | 30yo\n\n🥊 2. 𝗕𝗼𝗿𝗶𝘀 𝗔𝘁𝗮𝗻𝗴𝗮
- 𝗻𝗮 🇧🇪 vs. 𝗕𝗿𝘆𝗮𝗻 𝗕𝗮𝘁𝘁𝗹𝗲\n• 1
- 85lbs/84kg Middleweight\n• Atangana: 9-0-0 | 27yo\n• Battle: 13-3-0 | 
- 32yo\n\n🥊 1. 𝗧𝗮𝘆𝗹𝗼𝗿 𝗟𝗮𝗽𝗶𝗹𝘂𝘀 vs. 
- 𝗠𝗶𝘁𝗰𝗵 𝗠𝗰𝗞𝗲𝗲 🇺🇸\n• 135lbs/61kg Bantam
- weight · World Title\n• Lapilus: 25-4-0 | 34yo | All-rounder\n• McKee
- : 11-0-0 | 28yo | Grappler\n\n--------------------------------\nSource: ht
- tps://pflmma.com/event/pfl-lyon-2026
+ 𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 4. 𝗙𝗮𝗯
+ 𝗶𝗮𝗻 𝗘𝗱𝘄𝗮𝗿𝗱𝘀 vs. 𝗜𝗹𝗶𝗮𝗻 𝗕
+ 𝗼𝘂𝗮𝗳𝗶𝗮\n• 185lbs/84kg Middleweight\n• Edwards: 16-5-
+ 0 | 33yo | Striker\n• Bouafia: 8-1-0 | 30yo\n\n🥊 3. 𝗔𝗯𝗱𝗼
+ 𝘂𝗹 𝗔𝗯𝗱𝗼𝘂𝗿𝗮𝗴𝘂𝗶𝗺𝗼𝘃 🇷🇺 vs.
+  𝗔𝗻𝗱𝗿𝗲𝗲𝗮𝘀 𝗕𝗶𝗻𝗱𝗲𝗿 🇷🇴\n• 1
+ 70lbs/77kg Welterweight\n• Abdouraguimov: 20-1-0 | 31yo\n• Binder: 8-2
+ -0 | 30yo\n\n🥊 2. 𝗕𝗼𝗿𝗶𝘀 𝗔𝘁𝗮𝗻𝗴𝗮𝗻𝗮
+  🇧🇪 vs. 𝗕𝗿𝘆𝗮𝗻 𝗕𝗮𝘁𝘁𝗹𝗲\n• 185lbs/84
+ kg Middleweight\n• Atangana: 9-0-0 | 27yo\n• Battle: 13-3-0 | 32yo\n\n
+ 🥊 1. 𝗧𝗮𝘆𝗹𝗼𝗿 𝗟𝗮𝗽𝗶𝗹𝘂𝘀 vs. 𝗠𝗶
+ 𝘁𝗰𝗵 𝗠𝗰𝗞𝗲𝗲 🇺🇸\n• 135lbs/61kg Bantamweight 
+ · World Title\n• Lapilus: 25-4-0 | 34yo | All-rounder\n• McKee: 11-0-
+ 0 | 28yo | Grappler\n\n--------------------------------\nSource: https://p
+ flmma.com/event/pfl-lyon-2026
 LOCATION:Lyon\, France
 URL:https://pflmma.com/event/pfl-lyon-2026
 CATEGORIES:Professional Fighters League
