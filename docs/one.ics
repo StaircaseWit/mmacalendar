@@ -541,8 +541,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:69c23e415663797ee49d074b@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T144507Z
-SEQUENCE:0
+LAST-MODIFIED:20260928T140147Z
+SEQUENCE:1
 DTSTART:20260501T113000Z
 DTEND:20260501T162922Z
 SUMMARY:ONE Friday Fights 152 & The Inner Circle 12
@@ -592,12 +592,12 @@ DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
   Thai\n• Saenchai: Striker\n• Bylander: Striker\n\n🥊 2. 𝗖𝗵
  𝗼 𝗞𝘆𝗲𝗼𝗻𝗴 𝗝𝗮𝗲 🇰🇷 vs. 𝗗𝘇𝗵𝗮
  𝗺𝗶𝗹 𝗢𝘀𝗺𝗮𝗻𝗼𝘃\n• 145lbs/65.8kg Bantamweight 
- Kickboxing\n• Jae: Striker\n• Osmanov: Striker\n\n🥊 1. 𝗖𝗵𝗮
- 𝘁𝗽𝗲𝘁 𝗦𝘂𝗮𝗯𝗹𝗮𝗰𝗸𝗺𝘂𝗮𝘆𝘁𝗵
- 𝗮𝗶 🇹🇭 vs. 𝗥𝗶𝗸𝘂 𝗜𝘁𝗼 🇯🇵\n• 115lbs/5
- 2.2kg Atomweight Muay Thai\n• Suablackmuaythai: Striker\n• Ito: Strike
- r\n\n--------------------------------\nSource: https://www.onefc.com/event
- s/one-friday-fights-152/
+ Kickboxing\n• Jae: Striker\n• Osmanov: ONE 2-0-0 | 21yo | Striker\n\n
+ 🥊 1. 𝗖𝗵𝗮𝘁𝗽𝗲𝘁 𝗦𝘂𝗮𝗯𝗹𝗮𝗰𝗸𝗺
+ 𝘂𝗮𝘆𝘁𝗵𝗮𝗶 🇹🇭 vs. 𝗥𝗶𝗸𝘂 𝗜𝘁𝗼 
+ 🇯🇵\n• 115lbs/52.2kg Atomweight Muay Thai\n• Suablackmuaythai: St
+ riker\n• Ito: Striker\n\n--------------------------------\nSource: https
+ ://www.onefc.com/events/one-friday-fights-152/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-152
 CATEGORIES:ONE Championship
@@ -2232,10 +2232,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a0d90e58a2af95867c74e83@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260925T115505Z
-SEQUENCE:3
+LAST-MODIFIED:20260928T140147Z
+SEQUENCE:4
 DTSTART:20260925T113030Z
-DTEND:20260925T163030Z
+DTEND:20260925T163419Z
 SUMMARY:ONE Friday Fights 172 & The Inner Circle 32
 DESCRIPTION:ONE Championship · Complete Event · 15 bouts\n📍 Lumpinee S
  tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
@@ -2324,20 +2324,67 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a9682efd3539b67790eccd4@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260921T125410Z
-SEQUENCE:2
+LAST-MODIFIED:20260928T140147Z
+SEQUENCE:3
 DTSTART:20261002T113003Z
 DTEND:20261002T153003Z
 SUMMARY:ONE Friday Fights 173 & The Inner Circle 33
-DESCRIPTION:ONE Championship · Complete Event · 1 bout\n📍 Lumpinee Sta
- dium\, Bangkok\nTimes display automatically in your calendar time zone.\n\
- n--------------------------------\n𝗕𝗢𝗨𝗧𝗦\n-----------------
- ---------------\n\n🥊 1. 𝗥𝗲𝗴𝗶𝗮𝗻 𝗘𝗲𝗿𝘀𝗲
- 𝗹 🇸🇷 vs. 𝗚𝗲𝗼𝗿𝗴𝗲 𝗝𝗮𝗿𝘃𝗶𝘀 🇬
- 🇧\n• 170lbs/77.1kg Lightweight World Championship\n• Eersel: ONE 14
- -1-0 | 33yo | Striker\n• Jarvis: ONE 6-2-0 | 26yo | Striker\n\n---------
- -----------------------\nSource: https://www.onefc.com/events/one-friday-f
- ights-173/
+DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\n𝗕𝗢𝗨𝗧𝗦\n---------------
+ -----------------\n\n🥊 14. 𝗕𝘂𝗮𝗸𝗮𝗲𝘄 𝗦𝗼𝗿 
+ 𝗦𝗼𝗿 𝗣𝗮𝗸𝗼𝗿𝗻 🇹🇭 vs. 𝗡𝗮𝘁 𝗞𝗵
+ 𝗮𝘁 𝗠𝗶𝗻 🇲🇲\n• 135lbs/61.2kg Flyweight Muay Thai\n•
+  Pakorn: ONE 2-0-0 | 28yo | Striker\n• Min: ONE 0-1-0 | 26yo | Striker\n
+ \n🥊 13. 𝗧𝗼𝗻𝗴𝗹𝗮𝗺𝗽𝗼𝗼𝗻 𝗙𝗔 𝗚𝗿
+ 𝗼𝘂𝗽 🇹🇭 vs. 𝗗𝗶𝗼𝗻𝗮𝘁𝗵𝗮 𝗦𝗮𝗻
+ 𝘁𝗼𝘀 𝗧𝗼𝗯𝗶𝗮𝘀 🇧🇷\n• 125lbs/56.7kg Strawwei
+ ght Muay Thai\n• Group: ONE 7-3-0 | 22yo | Striker\n• Tobias: ONE 2-2-
+ 0 | 26yo | Striker\n\n🥊 12. 𝗣𝗮𝘆𝗮𝗸𝗿𝘂𝘁 𝗦𝘂
+ 𝗮𝗷𝗮𝗻𝘁𝗼𝗸𝗺𝘂𝗮𝘆𝘁𝗵𝗮𝗶 🇹🇭 vs. 
+ 𝗔𝗻𝗱𝗿𝗶𝗶 𝗠𝗲𝘇𝗲𝗻𝘁𝘀𝗲𝘃 🇺🇦\n
+ • 125lbs/56.7kg Strawweight Muay Thai\n• Suajantokmuaythai: ONE 2-3-0 
+ | 20yo | Striker\n• Mezentsev: ONE 2-3-0 | 27yo | Striker\n\n🥊 11. 
+ 𝗡𝗼𝗻𝗴𝗸𝗵𝗮𝗶𝗹𝗲𝗸 𝗗𝗿.𝗞𝗻𝗼𝘁𝗺
+ 𝘂𝗮𝘆𝘁𝗵𝗮𝗶 🇹🇭 vs. 𝗖𝗮𝗹 𝗖𝗼𝗼𝗸 
+ 🇬🇧\n• 115lbs/52.2kg Atomweight Muay Thai\n• Dr.Knotmuaythai: ONE
+  0-1-0 | 28yo | Striker\n• Cook: Striker\n\n🥊 10. 𝗚𝗮𝗶𝗰
+ 𝗵𝗼𝗻 𝗦𝗼𝗿 𝗣𝗿𝗮𝘄𝗮𝘁𝗺𝘂𝗮𝗻𝗴 
+ 🇹🇭 vs. 𝗧𝗮𝗻𝗱𝗶𝗮𝗼 𝗣𝗼𝗿 𝗣𝗿𝗮𝘄
+ 𝗶𝘁 🇹🇭\n• 115lbs/52.2kg Atomweight Muay Thai\n• Prawatmuang
+ : ONE 1-0-0 | 20yo | Striker\n• Prawit: ONE 0-1-0 | 29yo | Striker\n\n
+ 🥊 9. 𝗜𝗺𝗿𝗮𝗻 𝗦𝗮𝘁𝗶𝗲𝘃 🇶🇦 vs. 𝗕
+ 𝗮𝗯𝗮𝗿 𝗔𝗹𝗶 🇦🇫\n• 135lbs/61.2kg Flyweight MMA\n
+ • Satiev: ONE 1-1-0 | 27yo\n• Ali: ONE 1-1-0 | 24yo\n\n🥊 8. 𝗝
+ 𝗼𝗮𝗻𝗻𝗲 𝗟𝗮 🇦🇺 vs. 𝗬𝗮𝗿𝗮 𝗦𝗮𝗹
+ 𝗲𝗵 🇱🇧\n• 125lbs/56.7kg Strawweight Muay Thai\n• La: ONE 0-
+ 1-0 | 34yo | Striker\n• Saleh: ONE 0-2-0 | 24yo | Striker\n\n🥊 7. 
+ 𝗬𝗼𝘂𝘀𝘀𝗲𝗳 𝗥𝗮𝗺𝗮𝗱𝗮𝗻 🇪🇬 vs. 
+ 𝗝𝗼𝗻𝗴𝗷𝘂𝗻 𝗣𝗮𝗿𝗸 🇰🇷\n• 145lbs/65.8kg 
+ Bantamweight MMA\n• Ramadan: 23yo\n• Park: ONE 1-0-0 | 23yo\n\n🥊 6.
+  𝗞𝗲𝘃𝗶𝗻 𝗢𝘆𝗲𝗿𝘃𝗶𝗱𝗲𝘀 🇲🇽 vs. 
+ 𝗛𝗶𝗿𝗼𝘆𝘂𝗸𝗶 🇯🇵\n• 125lbs/56.7kg Strawweight M
+ uay Thai\n• Oyervides: 27yo | Striker\n• Hiroyuki: ONE 2-2-0 | 30yo | 
+ Striker\n\n🥊 5. 𝗥𝗲𝗴𝗶𝗮𝗻 𝗘𝗲𝗿𝘀𝗲𝗹 🇸
+ 🇷 vs. 𝗚𝗲𝗼𝗿𝗴𝗲 𝗝𝗮𝗿𝘃𝗶𝘀 🇬🇧\n• 1
+ 70lbs/77.1kg Lightweight Muay Thai World Championship\n• Eersel: ONE 14-
+ 1-0 | 33yo | Striker\n• Jarvis: ONE 6-2-0 | 26yo | Striker\n\n🥊 4. 
+ 𝗗𝘂𝗮𝗻𝗴𝗱𝗮𝘄𝗻𝗼𝗶 𝗟𝗼𝗼𝗸𝘀𝗮𝗶
+ 𝗸𝗼𝗻𝗴𝗱𝗶𝗻 🇹🇭 vs. 𝗔𝗹𝗶𝗻𝗲 𝗦𝗲
+ 𝗶𝗯𝗲𝗿𝘁𝗵 🇨🇭\n• 115lbs/52.2kg Atomweight Muay Thai\
+ n• Looksaikongdin: ONE 3-0-0 | 27yo | Striker\n• Seiberth: 35yo | Stri
+ ker\n\n🥊 3. 𝗗𝘇𝗵𝗮𝗺𝗶𝗹 𝗢𝘀𝗺𝗮𝗻𝗼𝘃 v
+ s. 𝗕𝗲𝗻 𝗪𝗼𝗼𝗹𝗹𝗶𝘀𝘀 🇬🇧\n• 145lbs/65.8
+ kg Bantamweight Kickboxing\n• Osmanov: ONE 2-0-0 | 21yo | Striker\n• W
+ oolliss: ONE 1-2-0 | 32yo | Striker\n\n🥊 2. 𝗠𝗶𝗮 𝗧𝗿𝗲
+ 𝘃𝗼𝗿𝗿𝗼𝘄 🇬🇧 vs. 𝗦𝗵𝗲𝗶𝗹𝗮 𝗕𝗮
+ 𝗿𝗿𝗶𝗼𝘀 🇦🇷\n• 115lbs/52.2kg Atomweight Muay Thai\n•
+  Trevorrow: ONE 2-0-0 | 27yo | Striker\n• Barrios: ONE 0-1-0 | 23yo | St
+ riker\n\n🥊 1. 𝗙𝗮𝗵𝗹𝗮𝗽 𝗧𝗼𝘆𝗼𝘁𝗮𝗿𝗮
+ 𝘆𝗼𝗻𝗴 🇹🇭 vs. 𝗬𝘂𝗴𝗼 𝗞𝗮𝘁𝗼 🇯🇵\n
+ • 125lbs/56.7kg Strawweight Muay Thai\n• Toyotarayong: Striker\n• Ka
+ to: Striker\n\n--------------------------------\nSource: https://www.onefc
+ .com/events/one-friday-fights-173/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-173
 CATEGORIES:ONE Championship
@@ -2707,6 +2754,24 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  iday-fights-183
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-183
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a6227c8b99d7ab180bc5f25@mma-calendar-one
+DTSTAMP:20260928T140147Z
+LAST-MODIFIED:20260928T140147Z
+SEQUENCE:0
+DTSTART:20270326T143015Z
+DTEND:20270326T203015Z
+SUMMARY:ONE: Qatar
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Venue to be announced\nTimes display automatically in your calen
+ dar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧𝗦\n
+ --------------------------------\n\nNo bouts announced yet.\n\n-----------
+ ---------------------\nSource: https://watch.onefc.com/events/one-qatar
+LOCATION:
+URL:https://watch.onefc.com/events/one-qatar
 CATEGORIES:ONE Championship
 STATUS:CONFIRMED
 END:VEVENT

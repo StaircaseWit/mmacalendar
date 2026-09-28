@@ -3057,8 +3057,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-early-prelims@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260925T115505Z
-SEQUENCE:4
+LAST-MODIFIED:20260928T140147Z
+SEQUENCE:5
 DTSTART:20261003T200000Z
 DTEND:20261003T220000Z
 SUMMARY:Early Prelims – UFC 332: Silva vs Wang
@@ -3067,57 +3067,65 @@ DESCRIPTION:UFC · Early Prelims · 4 bouts\n📍 Delta Center\, Salt Lake
  ----------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊
   4. 𝗝𝗼𝗵𝗻𝗻𝘆 𝗪𝗮𝗹𝗸𝗲𝗿 🇧🇷 vs. 𝗠
  𝗶𝗰𝗸 𝗣𝗮𝗿𝗸𝗶𝗻 🇪🇳\n• 265lbs/120kg Heavyweig
- ht\n• Walker: 22-10-0 | 34yo | MMA | -150 (1.67)\n• Parkin: 10-1-0 | 3
- 1yo | MMA | +120 (2.20)\n• Odds history:\n  ◦ 25 Sep: Walker 🟢 -150
-  (1.67) | Parkin 🔴 +120 (2.20)\n\n🥊 3. 𝗥𝗮𝗳𝗮𝗲𝗹 𝗗
- 𝗼𝘀 𝗔𝗻𝗷𝗼𝘀 🇧🇷 vs. 𝗔𝗹𝗲𝘅𝗮𝗻𝗱
- 𝗲𝗿 𝗛𝗲𝗿𝗻𝗮𝗻𝗱𝗲𝘇 🇺🇸\n• 155lbs/70kg Li
- ghtweight\n• Dos Anjos: 32-17-0 | 41yo | Grappler | +200 (3.00)\n• Her
- nandez: 18-9-0 | 34yo | MMA | -250 (1.40)\n• Odds history:\n  ◦ 25 Sep
- : Dos Anjos 🔴 +200 (3.00) | Hernandez 🟢 -250 (1.40)\n\n🥊 2. 𝗠
- 𝗮𝗿𝘃𝗶𝗻 𝗩𝗲𝘁𝘁𝗼𝗿𝗶 🇮🇹 vs. 𝗜𝘀
- 𝗺𝗮𝗶𝗹 𝗡𝗮𝘂𝗿𝗱𝗶𝗲𝘃 🇲🇦\n• 185lbs/84k
- g Middleweight\n• Vettori: 19-10-1 | 33yo | MMA | +118 (2.18)\n• Naurd
- iev: 25-8-0 | 30yo | Wrestling | -138 (1.72)\n• Odds history:\n  ◦ 25 
- Sep: Vettori 🔴 +118 (2.18) | Naurdiev 🟢 -138 (1.72)\n\n🥊 1. 𝗖
- 𝗼𝘂𝗿𝘁 𝗠𝗰𝗚𝗲𝗲 🇺🇸 vs. 𝗘𝗿𝗶𝗰 𝗡
- 𝗼𝗹𝗮𝗻 🇺🇸\n• 170lbs/77kg Welterweight\n• McGee: 23-14-
- 0 | 41yo | Freestyle | +200 (3.00)\n• Nolan: 8-5-0 | 29yo | -275 (1.36)\
- n• Odds history:\n  ◦ 25 Sep: McGee 🔴 +200 (3.00) | Nolan 🟢 -275
-  (1.36)\n\n--------------------------------\nSource: https://www.ufc.com/e
- vent/ufc-332\nOdds source: https://www.bestfightodds.com/ · best availabl
- e line · checked Monday and Friday\nFull odds log: https://staircasewit.g
- ithub.io/mmacalendar/odds-history.html\nEvent status: Scheduled
+ ht\n• Walker: 22-10-0 | 34yo | MMA | -132 (1.76)\n• Parkin: 10-1-0 | 3
+ 1yo | MMA | +125 (2.25)\n• Odds history:\n  ◦ 25 Sep: Walker 🟢 -150
+  (1.67) | Parkin 🔴 +120 (2.20)\n  ◦ 28 Sep: Walker 🟢 -132 (1.76) |
+  Parkin 🔴 +125 (2.25)\n\n🥊 3. 𝗥𝗮𝗳𝗮𝗲𝗹 𝗗𝗼𝘀 
+ 𝗔𝗻𝗷𝗼𝘀 🇧🇷 vs. 𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗲𝗿 
+ 𝗛𝗲𝗿𝗻𝗮𝗻𝗱𝗲𝘇 🇺🇸\n• 155lbs/70kg Lightweight
+ \n• Dos Anjos: 32-17-0 | 41yo | Grappler | +228 (3.28)\n• Hernandez: 1
+ 8-9-0 | 34yo | MMA | -250 (1.40)\n• Odds history:\n  ◦ 25 Sep: Dos Anj
+ os 🔴 +200 (3.00) | Hernandez 🟢 -250 (1.40)\n  ◦ 28 Sep: Dos Anjos 
+ 🔴 +228 (3.28) | Hernandez 🟢 -250 (1.40)\n\n🥊 2. 𝗠𝗮𝗿𝘃
+ 𝗶𝗻 𝗩𝗲𝘁𝘁𝗼𝗿𝗶 🇮🇹 vs. 𝗜𝘀𝗺𝗮𝗶
+ 𝗹 𝗡𝗮𝘂𝗿𝗱𝗶𝗲𝘃 🇲🇦\n• 185lbs/84kg Middleweig
+ ht\n• Vettori: 19-10-1 | 33yo | MMA | +120 (2.20)\n• Naurdiev: 25-8-0 
+ | 30yo | Wrestling | -130 (1.77)\n• Odds history:\n  ◦ 25 Sep: Vettori
+  🔴 +118 (2.18) | Naurdiev 🟢 -138 (1.72)\n  ◦ 28 Sep: Vettori 🔴 
+ +120 (2.20) | Naurdiev 🟢 -130 (1.77)\n\n🥊 1. 𝗖𝗼𝘂𝗿𝘁 
+ 𝗠𝗰𝗚𝗲𝗲 🇺🇸 vs. 𝗘𝗿𝗶𝗰 𝗡𝗼𝗹𝗮𝗻 
+ 🇺🇸\n• 170lbs/77kg Welterweight\n• McGee: 23-14-0 | 41yo | Freest
+ yle | +200 (3.00)\n• Nolan: 8-5-0 | 29yo | -229 (1.44)\n• Odds history
+ :\n  ◦ 25 Sep: McGee 🔴 +200 (3.00) | Nolan 🟢 -275 (1.36)\n  ◦ 28
+  Sep: McGee 🔴 +200 (3.00) | Nolan 🟢 -229 (1.44)\n\n-----------------
+ ---------------\nSource: https://www.ufc.com/event/ufc-332\nOdds source: h
+ ttps://www.bestfightodds.com/ · best available line · checked Monday and
+  Friday\nFull odds log: https://staircasewit.github.io/mmacalendar/odds-hi
+ story.html\nEvent status: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · 4 bouts
  <br>📍 Delta Center\, Salt Lake City\, United States<br>🕒 21:00–23:
  00 Ireland</p><p>--------------------------------<br><strong>𝗕𝗢𝗨
  𝗧𝗦</strong><br>--------------------------------</p><p><strong>🥊 4
  . 𝗝𝗼𝗵𝗻𝗻𝘆 𝗪𝗮𝗹𝗸𝗲𝗿 🇧🇷 vs. 𝗠𝗶
  𝗰𝗸 𝗣𝗮𝗿𝗸𝗶𝗻 🇪🇳</strong><br>• 265lbs/120kg He
- avyweight<br>• Walker: 22-10-0 | 34yo | MMA | -150 (1.67)<br>• Parkin:
-  10-1-0 | 31yo | MMA | +120 (2.20)<br>• Odds history:<br>◦ 25 Sep: Wal
- ker 🟢 -150 (1.67) | Parkin 🔴 +120 (2.20)</p><p><strong>🥊 3. 𝗥
- 𝗮𝗳𝗮𝗲𝗹 𝗗𝗼𝘀 𝗔𝗻𝗷𝗼𝘀 🇧🇷 vs. 𝗔
- 𝗹𝗲𝘅𝗮𝗻𝗱𝗲𝗿 𝗛𝗲𝗿𝗻𝗮𝗻𝗱𝗲𝘇 🇺
- 🇸</strong><br>• 155lbs/70kg Lightweight<br>• Dos Anjos: 32-17-0 | 4
- 1yo | Grappler | +200 (3.00)<br>• Hernandez: 18-9-0 | 34yo | MMA | -250 
- (1.40)<br>• Odds history:<br>◦ 25 Sep: Dos Anjos 🔴 +200 (3.00) | He
- rnandez 🟢 -250 (1.40)</p><p><strong>🥊 2. 𝗠𝗮𝗿𝘃𝗶𝗻 
- 𝗩𝗲𝘁𝘁𝗼𝗿𝗶 🇮🇹 vs. 𝗜𝘀𝗺𝗮𝗶𝗹 𝗡
- 𝗮𝘂𝗿𝗱𝗶𝗲𝘃 🇲🇦</strong><br>• 185lbs/84kg Middlewe
- ight<br>• Vettori: 19-10-1 | 33yo | MMA | +118 (2.18)<br>• Naurdiev: 2
- 5-8-0 | 30yo | Wrestling | -138 (1.72)<br>• Odds history:<br>◦ 25 Sep:
-  Vettori 🔴 +118 (2.18) | Naurdiev 🟢 -138 (1.72)</p><p><strong>🥊 1
- . 𝗖𝗼𝘂𝗿𝘁 𝗠𝗰𝗚𝗲𝗲 🇺🇸 vs. 𝗘𝗿𝗶𝗰 
- 𝗡𝗼𝗹𝗮𝗻 🇺🇸</strong><br>• 170lbs/77kg Welterweight<br>
- • McGee: 23-14-0 | 41yo | Freestyle | +200 (3.00)<br>• Nolan: 8-5-0 | 
- 29yo | -275 (1.36)<br>• Odds history:<br>◦ 25 Sep: McGee 🔴 +200 (3.
- 00) | Nolan 🟢 -275 (1.36)</p><p>--------------------------------<br>Sou
- rce: <a href="https://www.ufc.com/event/ufc-332">UFC.com</a><br>Odds sourc
- e: <a href="https://www.bestfightodds.com/">BestFightOdds</a> · best avai
- lable line · checked Monday and Friday<br>Full odds log: <a href="https:/
- /staircasewit.github.io/mmacalendar/odds-history.html">view history</a><br
- >Event status: Scheduled</p></body></html>
+ avyweight<br>• Walker: 22-10-0 | 34yo | MMA | -132 (1.76)<br>• Parkin:
+  10-1-0 | 31yo | MMA | +125 (2.25)<br>• Odds history:<br>◦ 25 Sep: Wal
+ ker 🟢 -150 (1.67) | Parkin 🔴 +120 (2.20)<br>◦ 28 Sep: Walker 🟢 
+ -132 (1.76) | Parkin 🔴 +125 (2.25)</p><p><strong>🥊 3. 𝗥𝗮𝗳
+ 𝗮𝗲𝗹 𝗗𝗼𝘀 𝗔𝗻𝗷𝗼𝘀 🇧🇷 vs. 𝗔𝗹𝗲
+ 𝘅𝗮𝗻𝗱𝗲𝗿 𝗛𝗲𝗿𝗻𝗮𝗻𝗱𝗲𝘇 🇺🇸</st
+ rong><br>• 155lbs/70kg Lightweight<br>• Dos Anjos: 32-17-0 | 41yo | Gr
+ appler | +228 (3.28)<br>• Hernandez: 18-9-0 | 34yo | MMA | -250 (1.40)<b
+ r>• Odds history:<br>◦ 25 Sep: Dos Anjos 🔴 +200 (3.00) | Hernandez 
+ 🟢 -250 (1.40)<br>◦ 28 Sep: Dos Anjos 🔴 +228 (3.28) | Hernandez 
+ 🟢 -250 (1.40)</p><p><strong>🥊 2. 𝗠𝗮𝗿𝘃𝗶𝗻 𝗩𝗲
+ 𝘁𝘁𝗼𝗿𝗶 🇮🇹 vs. 𝗜𝘀𝗺𝗮𝗶𝗹 𝗡𝗮𝘂
+ 𝗿𝗱𝗶𝗲𝘃 🇲🇦</strong><br>• 185lbs/84kg Middleweight<br>
+ • Vettori: 19-10-1 | 33yo | MMA | +120 (2.20)<br>• Naurdiev: 25-8-0 | 
+ 30yo | Wrestling | -130 (1.77)<br>• Odds history:<br>◦ 25 Sep: Vettori
+  🔴 +118 (2.18) | Naurdiev 🟢 -138 (1.72)<br>◦ 28 Sep: Vettori 🔴 
+ +120 (2.20) | Naurdiev 🟢 -130 (1.77)</p><p><strong>🥊 1. 𝗖𝗼𝘂
+ 𝗿𝘁 𝗠𝗰𝗚𝗲𝗲 🇺🇸 vs. 𝗘𝗿𝗶𝗰 𝗡𝗼𝗹
+ 𝗮𝗻 🇺🇸</strong><br>• 170lbs/77kg Welterweight<br>• McGee: 2
+ 3-14-0 | 41yo | Freestyle | +200 (3.00)<br>• Nolan: 8-5-0 | 29yo | -229 
+ (1.44)<br>• Odds history:<br>◦ 25 Sep: McGee 🔴 +200 (3.00) | Nolan 
+ 🟢 -275 (1.36)<br>◦ 28 Sep: McGee 🔴 +200 (3.00) | Nolan 🟢 -229 (
+ 1.44)</p><p>--------------------------------<br>Source: <a href="https://w
+ ww.ufc.com/event/ufc-332">UFC.com</a><br>Odds source: <a href="https://www
+ .bestfightodds.com/">BestFightOdds</a> · best available line · checked M
+ onday and Friday<br>Full odds log: <a href="https://staircasewit.github.io
+ /mmacalendar/odds-history.html">view history</a><br>Event status: Schedule
+ d</p></body></html>
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Early Prelims
@@ -3126,8 +3134,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-prelims@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260925T115505Z
-SEQUENCE:5
+LAST-MODIFIED:20260928T140147Z
+SEQUENCE:6
 DTSTART:20261003T220000Z
 DTEND:20261004T000000Z
 SUMMARY:Prelims – UFC 332: Silva vs Wang
@@ -3136,54 +3144,61 @@ DESCRIPTION:UFC · Prelims · 4 bouts\n📍 Delta Center\, Salt Lake City\,
  --------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 4
  . 𝗜𝗺𝗮𝗻𝗼𝗹 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 🇲🇽 v
  s. 𝗔𝗹𝗱𝗲𝗻 𝗖𝗼𝗿𝗶𝗮 🇺🇸\n• 125lbs/57kg Fly
- weight\n• Rodriguez: 7-0-0 | 26yo | Freestyle | -163 (1.61)\n• Coria: 
- 13-3-0 | 28yo | Freestyle | +130 (2.30)\n• Odds history:\n  ◦ 25 Sep: 
- Rodriguez 🟢 -163 (1.61) | Coria 🔴 +130 (2.30)\n\n🥊 3. 𝗗𝗮
- 𝗺𝗶𝗮𝗻 𝗣𝗶𝗻𝗮𝘀 🇦🇼 vs. 𝗔𝗻𝗱𝗿𝗲
- 𝘆 𝗣𝘂𝗹𝘆𝗮𝗲𝘃 🇷🇺\n• 185lbs/84kg Middleweight\n
- • Pinas: 10-1-0 | 24yo | MMA | -500 (1.20)\n• Pulyaev: 10-3-0 | 29yo |
-  MMA | +350 (4.50)\n• Odds history:\n  ◦ 25 Sep: Pinas 🟢 -500 (1.20
- ) | Pulyaev 🔴 +350 (4.50)\n\n🥊 2. 𝗠𝗮𝗿𝗰𝘂𝘀 𝗠𝗰
- 𝗚𝗵𝗲𝗲 (#15) 🇺🇸 vs. 𝗕𝗲𝗻𝗮𝗿𝗱𝗼 𝗦𝗼
- 𝗽𝗮𝗷 🇦🇱\n• 135lbs/61kg Bantamweight\n• McGhee: 11-2-0 | 
- 36yo | Brazilian Jiu-Jitsu | -150 (1.67)\n• Sopaj: 13-3-0 | 26yo | MMA |
-  +110 (2.10)\n• Odds history:\n  ◦ 25 Sep: McGhee 🟢 -150 (1.67) | S
- opaj 🔴 +110 (2.10)\n\n🥊 1. 𝗔𝗻𝘁𝗵𝗼𝗻𝘆 𝗪𝗶𝗻
- 𝘁 🇺🇸 vs. 𝗟𝘂𝗰𝗮𝘀 𝗔𝗿𝗺𝗮𝗻𝗱\n• 265lb
- s/120kg Heavyweight\n• Wint: 8-0-0 | 31yo\n• Armand: 0-0-0 | 30yo\n•
-  Odds history: not checked yet\n\n--------------------------------\nSource
- : https://www.ufc.com/event/ufc-332\nOdds source: https://www.bestfightodd
- s.com/ · best available line · checked Monday and Friday\nFull odds log:
-  https://staircasewit.github.io/mmacalendar/odds-history.html\nEvent statu
- s: Scheduled
+ weight\n• Rodriguez: 7-0-0 | 26yo | Freestyle | -161 (1.62)\n• Coria: 
+ 13-3-0 | 28yo | Freestyle | +140 (2.40)\n• Odds history:\n  ◦ 25 Sep: 
+ Rodriguez 🟢 -163 (1.61) | Coria 🔴 +130 (2.30)\n  ◦ 28 Sep: Rodrigu
+ ez 🟢 -161 (1.62) | Coria 🔴 +140 (2.40)\n\n🥊 3. 𝗗𝗮𝗺𝗶
+ 𝗮𝗻 𝗣𝗶𝗻𝗮𝘀 🇦🇼 vs. 𝗔𝗻𝗱𝗿𝗲𝘆 𝗣
+ 𝘂𝗹𝘆𝗮𝗲𝘃 🇷🇺\n• 185lbs/84kg Middleweight\n• Pinas
+ : 10-1-0 | 24yo | MMA | -431 (1.23)\n• Pulyaev: 10-3-0 | 29yo | MMA | +3
+ 80 (4.80)\n• Odds history:\n  ◦ 25 Sep: Pinas 🟢 -500 (1.20) | Pulya
+ ev 🔴 +350 (4.50)\n  ◦ 28 Sep: Pinas 🟢 -431 (1.23) | Pulyaev 🔴 +
+ 380 (4.80)\n\n🥊 2. 𝗠𝗮𝗿𝗰𝘂𝘀 𝗠𝗰𝗚𝗵𝗲𝗲 (#
+ 15) 🇺🇸 vs. 𝗕𝗲𝗻𝗮𝗿𝗱𝗼 𝗦𝗼𝗽𝗮𝗷 🇦
+ 🇱\n• 135lbs/61kg Bantamweight\n• McGhee: 11-2-0 | 36yo | Brazilian 
+ Jiu-Jitsu | -149 (1.67)\n• Sopaj: 13-3-0 | 26yo | MMA | +130 (2.30)\n•
+  Odds history:\n  ◦ 25 Sep: McGhee 🟢 -150 (1.67) | Sopaj 🔴 +110 (2
+ .10)\n  ◦ 28 Sep: McGhee 🟢 -149 (1.67) | Sopaj 🔴 +130 (2.30)\n\n
+ 🥊 1. 𝗔𝗻𝘁𝗵𝗼𝗻𝘆 𝗪𝗶𝗻𝘁 🇺🇸 vs. 𝗟
+ 𝘂𝗰𝗮𝘀 𝗔𝗿𝗺𝗮𝗻𝗱\n• 265lbs/120kg Heavyweight\n
+ • Wint: 8-0-0 | 31yo | -350 (1.29)\n• Armand: 0-0-0 | 30yo | +280 (3.8
+ 0)\n• Odds history:\n  ◦ 28 Sep: Wint 🟢 -350 (1.29) | Armand 🔴 +
+ 280 (3.80)\n\n--------------------------------\nSource: https://www.ufc.co
+ m/event/ufc-332\nOdds source: https://www.bestfightodds.com/ · best avail
+ able line · checked Monday and Friday\nFull odds log: https://staircasewi
+ t.github.io/mmacalendar/odds-history.html\nEvent status: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 4 bouts<br>
  📍 Delta Center\, Salt Lake City\, United States<br>🕒 23:00–Sun 01:
  00 Ireland</p><p>--------------------------------<br><strong>𝗕𝗢𝗨
  𝗧𝗦</strong><br>--------------------------------</p><p><strong>🥊 4
  . 𝗜𝗺𝗮𝗻𝗼𝗹 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 🇲🇽 v
  s. 𝗔𝗹𝗱𝗲𝗻 𝗖𝗼𝗿𝗶𝗮 🇺🇸</strong><br>• 125l
- bs/57kg Flyweight<br>• Rodriguez: 7-0-0 | 26yo | Freestyle | -163 (1.61)
- <br>• Coria: 13-3-0 | 28yo | Freestyle | +130 (2.30)<br>• Odds history
- :<br>◦ 25 Sep: Rodriguez 🟢 -163 (1.61) | Coria 🔴 +130 (2.30)</p><p
- ><strong>🥊 3. 𝗗𝗮𝗺𝗶𝗮𝗻 𝗣𝗶𝗻𝗮𝘀 🇦🇼 vs
- . 𝗔𝗻𝗱𝗿𝗲𝘆 𝗣𝘂𝗹𝘆𝗮𝗲𝘃 🇷🇺</strong><
- br>• 185lbs/84kg Middleweight<br>• Pinas: 10-1-0 | 24yo | MMA | -500 (
- 1.20)<br>• Pulyaev: 10-3-0 | 29yo | MMA | +350 (4.50)<br>• Odds histor
- y:<br>◦ 25 Sep: Pinas 🟢 -500 (1.20) | Pulyaev 🔴 +350 (4.50)</p><p>
- <strong>🥊 2. 𝗠𝗮𝗿𝗰𝘂𝘀 𝗠𝗰𝗚𝗵𝗲𝗲 (#15) 
- 🇺🇸 vs. 𝗕𝗲𝗻𝗮𝗿𝗱𝗼 𝗦𝗼𝗽𝗮𝗷 🇦🇱</s
- trong><br>• 135lbs/61kg Bantamweight<br>• McGhee: 11-2-0 | 36yo | Braz
- ilian Jiu-Jitsu | -150 (1.67)<br>• Sopaj: 13-3-0 | 26yo | MMA | +110 (2.
- 10)<br>• Odds history:<br>◦ 25 Sep: McGhee 🟢 -150 (1.67) | Sopaj 
- 🔴 +110 (2.10)</p><p><strong>🥊 1. 𝗔𝗻𝘁𝗵𝗼𝗻𝘆 𝗪
- 𝗶𝗻𝘁 🇺🇸 vs. 𝗟𝘂𝗰𝗮𝘀 𝗔𝗿𝗺𝗮𝗻𝗱</s
- trong><br>• 265lbs/120kg Heavyweight<br>• Wint: 8-0-0 | 31yo<br>• Ar
- mand: 0-0-0 | 30yo<br>• Odds history: not checked yet</p><p>------------
- --------------------<br>Source: <a href="https://www.ufc.com/event/ufc-332
- ">UFC.com</a><br>Odds source: <a href="https://www.bestfightodds.com/">Bes
- tFightOdds</a> · best available line · checked Monday and Friday<br>Full
-  odds log: <a href="https://staircasewit.github.io/mmacalendar/odds-histor
- y.html">view history</a><br>Event status: Scheduled</p></body></html>
+ bs/57kg Flyweight<br>• Rodriguez: 7-0-0 | 26yo | Freestyle | -161 (1.62)
+ <br>• Coria: 13-3-0 | 28yo | Freestyle | +140 (2.40)<br>• Odds history
+ :<br>◦ 25 Sep: Rodriguez 🟢 -163 (1.61) | Coria 🔴 +130 (2.30)<br>
+ ◦ 28 Sep: Rodriguez 🟢 -161 (1.62) | Coria 🔴 +140 (2.40)</p><p><str
+ ong>🥊 3. 𝗗𝗮𝗺𝗶𝗮𝗻 𝗣𝗶𝗻𝗮𝘀 🇦🇼 vs. 
+ 𝗔𝗻𝗱𝗿𝗲𝘆 𝗣𝘂𝗹𝘆𝗮𝗲𝘃 🇷🇺</strong><br
+ >• 185lbs/84kg Middleweight<br>• Pinas: 10-1-0 | 24yo | MMA | -431 (1.
+ 23)<br>• Pulyaev: 10-3-0 | 29yo | MMA | +380 (4.80)<br>• Odds history:
+ <br>◦ 25 Sep: Pinas 🟢 -500 (1.20) | Pulyaev 🔴 +350 (4.50)<br>◦ 2
+ 8 Sep: Pinas 🟢 -431 (1.23) | Pulyaev 🔴 +380 (4.80)</p><p><strong>
+ 🥊 2. 𝗠𝗮𝗿𝗰𝘂𝘀 𝗠𝗰𝗚𝗵𝗲𝗲 (#15) 🇺🇸 v
+ s. 𝗕𝗲𝗻𝗮𝗿𝗱𝗼 𝗦𝗼𝗽𝗮𝗷 🇦🇱</strong><br>
+ • 135lbs/61kg Bantamweight<br>• McGhee: 11-2-0 | 36yo | Brazilian Jiu-
+ Jitsu | -149 (1.67)<br>• Sopaj: 13-3-0 | 26yo | MMA | +130 (2.30)<br>•
+  Odds history:<br>◦ 25 Sep: McGhee 🟢 -150 (1.67) | Sopaj 🔴 +110 (2
+ .10)<br>◦ 28 Sep: McGhee 🟢 -149 (1.67) | Sopaj 🔴 +130 (2.30)</p><p
+ ><strong>🥊 1. 𝗔𝗻𝘁𝗵𝗼𝗻𝘆 𝗪𝗶𝗻𝘁 🇺🇸 vs
+ . 𝗟𝘂𝗰𝗮𝘀 𝗔𝗿𝗺𝗮𝗻𝗱</strong><br>• 265lbs/120
+ kg Heavyweight<br>• Wint: 8-0-0 | 31yo | -350 (1.29)<br>• Armand: 0-0-
+ 0 | 30yo | +280 (3.80)<br>• Odds history:<br>◦ 28 Sep: Wint 🟢 -350 
+ (1.29) | Armand 🔴 +280 (3.80)</p><p>--------------------------------<br
+ >Source: <a href="https://www.ufc.com/event/ufc-332">UFC.com</a><br>Odds s
+ ource: <a href="https://www.bestfightodds.com/">BestFightOdds</a> · best 
+ available line · checked Monday and Friday<br>Full odds log: <a href="htt
+ ps://staircasewit.github.io/mmacalendar/odds-history.html">view history</a
+ ><br>Event status: Scheduled</p></body></html>
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Prelims
@@ -3192,8 +3207,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-main-card@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260925T115505Z
-SEQUENCE:6
+LAST-MODIFIED:20260928T140147Z
+SEQUENCE:7
 DTSTART:20261004T000000Z
 DTEND:20261004T030000Z
 SUMMARY:Main Card – UFC 332: Silva vs Wang
@@ -3202,37 +3217,40 @@ DESCRIPTION:UFC · Main Card · 5 bouts\n📍 Delta Center\, Salt Lake City
  ------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 5. 
  𝗡𝗮𝘁𝗮𝗹𝗶𝗮 𝗦𝗶𝗹𝘃𝗮 (#1) 🇧🇷 vs. 𝗪
  𝗮𝗻𝗴 𝗖𝗼𝗻𝗴 (#8) 🇨🇳\n• 125lbs/57kg Women's Flywe
- ight · Title Bout\n• Silva: 20-5-1 | 29yo | Taekwondo | -200 (1.50)\n
- • Cong: 10-1-0 | 34yo | Striker | +175 (2.75)\n• Odds history:\n  ◦ 
- 16 Sep: Silva 🟢 -205 (1.49) | Cong 🔴 +184 (2.84)\n  ◦ 21 Sep: Silv
- a 🟢 -191 (1.52) | Cong 🔴 +175 (2.75)\n  ◦ 25 Sep: Silva 🟢 -200 
- (1.50) | Cong 🔴 +175 (2.75)\n  ◦ Earlier changes: see full odds log\n
+ ight · Title Bout\n• Silva: 20-5-1 | 29yo | Taekwondo | -205 (1.49)\n
+ • Cong: 10-1-0 | 34yo | Striker | +181 (2.81)\n• Odds history:\n  ◦ 
+ 21 Sep: Silva 🟢 -191 (1.52) | Cong 🔴 +175 (2.75)\n  ◦ 25 Sep: Silv
+ a 🟢 -200 (1.50) | Cong 🔴 +175 (2.75)\n  ◦ 28 Sep: Silva 🟢 -205 
+ (1.49) | Cong 🔴 +181 (2.81)\n  ◦ Earlier changes: see full odds log\n
  \n🥊 4. 𝗗𝗲𝗶𝘃𝗲𝘀𝗼𝗻 𝗙𝗶𝗴𝘂𝗲𝗶𝗿
  𝗲𝗱𝗼 (#9) 🇧🇷 vs. 𝗣𝗮𝘆𝘁𝗼𝗻 𝗧𝗮𝗹𝗯
  𝗼𝘁𝘁 (#11) 🇺🇸\n• 135lbs/61kg Bantamweight\n• Figueiredo:
-  25-7-1 | 38yo | Boxing | +460 (5.60)\n• Talbott: 11-1-0 | 28yo | -526 (
- 1.19)\n• Odds history:\n  ◦ 16 Sep: Figueiredo 🔴 +440 (5.40) | Talb
- ott 🟢 -625 (1.16)\n  ◦ 21 Sep: Figueiredo 🔴 +489 (5.89) | Talbott 
- 🟢 -611 (1.16)\n  ◦ 25 Sep: Figueiredo 🔴 +460 (5.60) | Talbott 🟢
-  -526 (1.19)\n  ◦ Earlier changes: see full odds log\n\n🥊 3. 𝗞𝗶
+  25-7-1 | 38yo | Boxing | +460 (5.60)\n• Talbott: 11-1-0 | 28yo | -491 (
+ 1.20)\n• Odds history:\n  ◦ 21 Sep: Figueiredo 🔴 +489 (5.89) | Talb
+ ott 🟢 -611 (1.16)\n  ◦ 25 Sep: Figueiredo 🔴 +460 (5.60) | Talbott 
+ 🟢 -526 (1.19)\n  ◦ 28 Sep: Figueiredo 🔴 +460 (5.60) | Talbott 🟢
+  -491 (1.20)\n  ◦ Earlier changes: see full odds log\n\n🥊 3. 𝗞𝗶
  𝗻𝗴 𝗚𝗿𝗲𝗲𝗻 🇺🇸 vs. 𝗘𝘀𝘁𝗲𝗯𝗮𝗻 
  𝗥𝗶𝗯𝗼𝘃𝗶𝗰𝘀 🇦🇷\n• 155lbs/70kg Lightweight\n
- • Green: 36-17-1 | 40yo | MMA | +250 (3.50)\n• Ribovics: 16-3-0 | 30yo
-  | Striker | -264 (1.38)\n• Odds history:\n  ◦ 25 Sep: Green 🔴 +250
-  (3.50) | Ribovics 🟢 -264 (1.38)\n\n🥊 2. 𝗥𝗼𝗯𝗲𝗿𝘁
- 𝗼 𝗦𝗼𝗹𝗱𝗶𝗰 🇭🇷 vs. 𝗞𝗵𝗮𝗼𝘀 𝗪𝗶
- 𝗹𝗹𝗶𝗮𝗺𝘀 🇺🇸\n• 170lbs/77kg Welterweight\n• Soldi
- c: 0-0-0 | 31yo | -300 (1.33)\n• Williams: 16-5-0 | 32yo | MMA | +252 (3
- .52)\n• Odds history:\n  ◦ 25 Sep: Soldic 🟢 -300 (1.33) | Williams 
- 🔴 +252 (3.52)\n\n🥊 1. 𝗔𝘁𝗲𝗯𝗮 𝗚𝗮𝘂𝘁𝗶𝗲
- 𝗿 🇨🇲 vs. 𝗥𝗼𝗺𝗮𝗻 𝗞𝗼𝗽𝘆𝗹𝗼𝘃 🇷
- 🇺\n• 185lbs/84kg Middleweight\n• Gautier: 11-1-0 | 24yo | Striker |
-  -200 (1.50)\n• Kopylov: 15-5-0 | 34yo | +163 (2.63)\n• Odds history:\
- n  ◦ 25 Sep: Gautier 🟢 -200 (1.50) | Kopylov 🔴 +163 (2.63)\n\n----
- ----------------------------\nSource: https://www.ufc.com/event/ufc-332\nO
- dds source: https://www.bestfightodds.com/ · best available line · check
- ed Monday and Friday\nFull odds log: https://staircasewit.github.io/mmacal
- endar/odds-history.html\nEvent status: Scheduled
+ • Green: 36-17-1 | 40yo | MMA | +210 (3.10)\n• Ribovics: 16-3-0 | 30yo
+  | Striker | -240 (1.42)\n• Odds history:\n  ◦ 25 Sep: Green 🔴 +250
+  (3.50) | Ribovics 🟢 -264 (1.38)\n  ◦ 28 Sep: Green 🔴 +210 (3.10) 
+ | Ribovics 🟢 -240 (1.42)\n\n🥊 2. 𝗥𝗼𝗯𝗲𝗿𝘁𝗼 𝗦
+ 𝗼𝗹𝗱𝗶𝗰 🇭🇷 vs. 𝗞𝗵𝗮𝗼𝘀 𝗪𝗶𝗹𝗹
+ 𝗶𝗮𝗺𝘀 🇺🇸\n• 170lbs/77kg Welterweight\n• Soldic: 0-0-0
+  | 31yo | -291 (1.34)\n• Williams: 16-5-0 | 32yo | MMA | +250 (3.50)\n
+ • Odds history:\n  ◦ 25 Sep: Soldic 🟢 -300 (1.33) | Williams 🔴 +
+ 252 (3.52)\n  ◦ 28 Sep: Soldic 🟢 -291 (1.34) | Williams 🔴 +250 (3.
+ 50)\n\n🥊 1. 𝗔𝘁𝗲𝗯𝗮 𝗚𝗮𝘂𝘁𝗶𝗲𝗿 🇨🇲 
+ vs. 𝗥𝗼𝗺𝗮𝗻 𝗞𝗼𝗽𝘆𝗹𝗼𝘃 🇷🇺\n• 185lbs
+ /84kg Middleweight\n• Gautier: 11-1-0 | 24yo | Striker | -200 (1.50)\n
+ • Kopylov: 15-5-0 | 34yo | +181 (2.81)\n• Odds history:\n  ◦ 25 Sep:
+  Gautier 🟢 -200 (1.50) | Kopylov 🔴 +163 (2.63)\n  ◦ 28 Sep: Gautie
+ r 🟢 -200 (1.50) | Kopylov 🔴 +181 (2.81)\n\n-------------------------
+ -------\nSource: https://www.ufc.com/event/ufc-332\nOdds source: https://w
+ ww.bestfightodds.com/ · best available line · checked Monday and Friday\
+ nFull odds log: https://staircasewit.github.io/mmacalendar/odds-history.ht
+ ml\nEvent status: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  📍 Delta Center\, Salt Lake City\, United States<br>🕒 01:00–04:00 I
  reland</p><p>--------------------------------<br><strong>𝗕𝗢𝗨𝗧
@@ -3240,39 +3258,42 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  𝗡𝗮𝘁𝗮𝗹𝗶𝗮 𝗦𝗶𝗹𝘃𝗮 (#1) 🇧🇷 vs. 𝗪
  𝗮𝗻𝗴 𝗖𝗼𝗻𝗴 (#8) 🇨🇳</strong><br>• 125lbs/57kg Wo
  men&#39\;s Flyweight · Title Bout<br>• Silva: 20-5-1 | 29yo | Taekwondo
-  | -200 (1.50)<br>• Cong: 10-1-0 | 34yo | Striker | +175 (2.75)<br>• O
- dds history:<br>◦ 16 Sep: Silva 🟢 -205 (1.49) | Cong 🔴 +184 (2.84)
- <br>◦ 21 Sep: Silva 🟢 -191 (1.52) | Cong 🔴 +175 (2.75)<br>◦ 25 S
- ep: Silva 🟢 -200 (1.50) | Cong 🔴 +175 (2.75)<br>◦ Earlier changes:
+  | -205 (1.49)<br>• Cong: 10-1-0 | 34yo | Striker | +181 (2.81)<br>• O
+ dds history:<br>◦ 21 Sep: Silva 🟢 -191 (1.52) | Cong 🔴 +175 (2.75)
+ <br>◦ 25 Sep: Silva 🟢 -200 (1.50) | Cong 🔴 +175 (2.75)<br>◦ 28 S
+ ep: Silva 🟢 -205 (1.49) | Cong 🔴 +181 (2.81)<br>◦ Earlier changes:
   see full odds log</p><p><strong>🥊 4. 𝗗𝗲𝗶𝘃𝗲𝘀𝗼𝗻 
  𝗙𝗶𝗴𝘂𝗲𝗶𝗿𝗲𝗱𝗼 (#9) 🇧🇷 vs. 𝗣𝗮𝘆
  𝘁𝗼𝗻 𝗧𝗮𝗹𝗯𝗼𝘁𝘁 (#11) 🇺🇸</strong><br>• 1
  35lbs/61kg Bantamweight<br>• Figueiredo: 25-7-1 | 38yo | Boxing | +460 (
- 5.60)<br>• Talbott: 11-1-0 | 28yo | -526 (1.19)<br>• Odds history:<br>
- ◦ 16 Sep: Figueiredo 🔴 +440 (5.40) | Talbott 🟢 -625 (1.16)<br>◦ 
- 21 Sep: Figueiredo 🔴 +489 (5.89) | Talbott 🟢 -611 (1.16)<br>◦ 25 S
- ep: Figueiredo 🔴 +460 (5.60) | Talbott 🟢 -526 (1.19)<br>◦ Earlier 
+ 5.60)<br>• Talbott: 11-1-0 | 28yo | -491 (1.20)<br>• Odds history:<br>
+ ◦ 21 Sep: Figueiredo 🔴 +489 (5.89) | Talbott 🟢 -611 (1.16)<br>◦ 
+ 25 Sep: Figueiredo 🔴 +460 (5.60) | Talbott 🟢 -526 (1.19)<br>◦ 28 S
+ ep: Figueiredo 🔴 +460 (5.60) | Talbott 🟢 -491 (1.20)<br>◦ Earlier 
  changes: see full odds log</p><p><strong>🥊 3. 𝗞𝗶𝗻𝗴 𝗚𝗿
  𝗲𝗲𝗻 🇺🇸 vs. 𝗘𝘀𝘁𝗲𝗯𝗮𝗻 𝗥𝗶𝗯𝗼
  𝘃𝗶𝗰𝘀 🇦🇷</strong><br>• 155lbs/70kg Lightweight<br>• G
- reen: 36-17-1 | 40yo | MMA | +250 (3.50)<br>• Ribovics: 16-3-0 | 30yo | 
- Striker | -264 (1.38)<br>• Odds history:<br>◦ 25 Sep: Green 🔴 +250 
- (3.50) | Ribovics 🟢 -264 (1.38)</p><p><strong>🥊 2. 𝗥𝗼𝗯𝗲
- 𝗿𝘁𝗼 𝗦𝗼𝗹𝗱𝗶𝗰 🇭🇷 vs. 𝗞𝗵𝗮𝗼𝘀 
- 𝗪𝗶𝗹𝗹𝗶𝗮𝗺𝘀 🇺🇸</strong><br>• 170lbs/77kg Welt
- erweight<br>• Soldic: 0-0-0 | 31yo | -300 (1.33)<br>• Williams: 16-5-0
-  | 32yo | MMA | +252 (3.52)<br>• Odds history:<br>◦ 25 Sep: Soldic 
- 🟢 -300 (1.33) | Williams 🔴 +252 (3.52)</p><p><strong>🥊 1. 𝗔
- 𝘁𝗲𝗯𝗮 𝗚𝗮𝘂𝘁𝗶𝗲𝗿 🇨🇲 vs. 𝗥𝗼𝗺
- 𝗮𝗻 𝗞𝗼𝗽𝘆𝗹𝗼𝘃 🇷🇺</strong><br>• 185lbs/84kg
-  Middleweight<br>• Gautier: 11-1-0 | 24yo | Striker | -200 (1.50)<br>•
-  Kopylov: 15-5-0 | 34yo | +163 (2.63)<br>• Odds history:<br>◦ 25 Sep: 
- Gautier 🟢 -200 (1.50) | Kopylov 🔴 +163 (2.63)</p><p>----------------
- ----------------<br>Source: <a href="https://www.ufc.com/event/ufc-332">UF
- C.com</a><br>Odds source: <a href="https://www.bestfightodds.com/">BestFig
- htOdds</a> · best available line · checked Monday and Friday<br>Full odd
- s log: <a href="https://staircasewit.github.io/mmacalendar/odds-history.ht
- ml">view history</a><br>Event status: Scheduled</p></body></html>
+ reen: 36-17-1 | 40yo | MMA | +210 (3.10)<br>• Ribovics: 16-3-0 | 30yo | 
+ Striker | -240 (1.42)<br>• Odds history:<br>◦ 25 Sep: Green 🔴 +250 
+ (3.50) | Ribovics 🟢 -264 (1.38)<br>◦ 28 Sep: Green 🔴 +210 (3.10) |
+  Ribovics 🟢 -240 (1.42)</p><p><strong>🥊 2. 𝗥𝗼𝗯𝗲𝗿𝘁
+ 𝗼 𝗦𝗼𝗹𝗱𝗶𝗰 🇭🇷 vs. 𝗞𝗵𝗮𝗼𝘀 𝗪𝗶
+ 𝗹𝗹𝗶𝗮𝗺𝘀 🇺🇸</strong><br>• 170lbs/77kg Welterweight
+ <br>• Soldic: 0-0-0 | 31yo | -291 (1.34)<br>• Williams: 16-5-0 | 32yo 
+ | MMA | +250 (3.50)<br>• Odds history:<br>◦ 25 Sep: Soldic 🟢 -300 (
+ 1.33) | Williams 🔴 +252 (3.52)<br>◦ 28 Sep: Soldic 🟢 -291 (1.34) |
+  Williams 🔴 +250 (3.50)</p><p><strong>🥊 1. 𝗔𝘁𝗲𝗯𝗮 𝗚
+ 𝗮𝘂𝘁𝗶𝗲𝗿 🇨🇲 vs. 𝗥𝗼𝗺𝗮𝗻 𝗞𝗼𝗽
+ 𝘆𝗹𝗼𝘃 🇷🇺</strong><br>• 185lbs/84kg Middleweight<br>• 
+ Gautier: 11-1-0 | 24yo | Striker | -200 (1.50)<br>• Kopylov: 15-5-0 | 34
+ yo | +181 (2.81)<br>• Odds history:<br>◦ 25 Sep: Gautier 🟢 -200 (1.
+ 50) | Kopylov 🔴 +163 (2.63)<br>◦ 28 Sep: Gautier 🟢 -200 (1.50) | K
+ opylov 🔴 +181 (2.81)</p><p>--------------------------------<br>Source: 
+ <a href="https://www.ufc.com/event/ufc-332">UFC.com</a><br>Odds source: <a
+  href="https://www.bestfightodds.com/">BestFightOdds</a> · best available
+  line · checked Monday and Friday<br>Full odds log: <a href="https://stai
+ rcasewit.github.io/mmacalendar/odds-history.html">view history</a><br>Even
+ t status: Scheduled</p></body></html>
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Main Card
@@ -3873,8 +3894,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-main-card@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260925T115505Z
-SEQUENCE:4
+LAST-MODIFIED:20260928T140147Z
+SEQUENCE:5
 DTSTART:20261115T020000Z
 DTEND:20261115T050000Z
 SUMMARY:Main Card – Polymarket UFC 334: Gane vs Hokit
@@ -3885,55 +3906,56 @@ DESCRIPTION:UFC · Main Card · 12 bouts announced · placement TBD\n📍 M
  ------------------\n\n🥊 12. 𝗖𝗶𝗿𝘆𝗹 𝗚𝗮𝗻𝗲 (C) 
  🇫🇷 vs. 𝗝𝗼𝘀𝗵 𝗛𝗼𝗸𝗶𝘁 (#4) 🇺🇸\n• 265l
  bs/120kg Heavyweight · Title Bout\n• Gane: 14-2-0 | 36yo | Muay Thai | 
- -265 (1.38)\n• Hokit: 10-0-0 | 29yo | Wrestling | +225 (3.25)\n• Odds 
- history:\n  ◦ 25 Sep: Gane 🟢 -265 (1.38) | Hokit 🔴 +225 (3.25)\n\n
- 🥊 11. 𝗞𝗮𝘆𝗹𝗮 𝗛𝗮𝗿𝗿𝗶𝘀𝗼𝗻 (C) 🇺
- 🇸 vs. 𝗔𝗺𝗮𝗻𝗱𝗮 𝗡𝘂𝗻𝗲𝘀 🇧🇷\n• 135lb
- s/61kg Women's Bantamweight · Title Bout\n• Harrison: 19-1-0 | 36yo | J
- udo | -200 (1.50)\n• Nunes: 23-5-0 | 38yo | Striker | +163 (2.63)\n• O
- dds history:\n  ◦ 25 Sep: Harrison 🟢 -200 (1.50) | Nunes 🔴 +163 (2
- .63)\n\n🥊 10. 𝗖𝗮𝗶𝗼 𝗕𝗼𝗿𝗿𝗮𝗹𝗵𝗼 (#5) 
- 🇧🇷 vs. 𝗬𝗼𝘂𝘀𝗿𝗶 𝗕𝗲𝗹𝗴𝗮𝗿𝗼𝘂𝗶
-  🇳🇱\n• 185lbs/84kg Middleweight\n• Borralho: 18-2-0 | 33yo | MMA
- \n• Belgaroui: 11-3-0 | 34yo | Striker\n• Odds history: not checked ye
- t\n\n🥊 9. 𝗨𝗿𝗼š 𝗠𝗲𝗱𝗶ć (#12) 🇷🇸 vs. 𝗞𝗲
- 𝘃𝗶𝗻 𝗛𝗼𝗹𝗹𝗮𝗻𝗱 🇺🇸\n• 170lbs/77kg Welter
- weight\n• Medic: 14-3-0 | 33yo | MMA\n• Holland: 29-15-0 | 34yo | Kung
-  Fu\n• Odds history: not checked yet\n\n🥊 8. 𝗕𝗶𝗹𝗮𝗹 
- 𝗛𝗮𝘀𝗮𝗻 🇮🇩 vs. 𝗟𝘂𝗶𝘀 𝗚𝘂𝗿𝘂𝗹
- 𝗲 🇺🇸\n• 125lbs/57kg Flyweight\n• Hasan: 10-0-0 | 25yo | MMA\n
- • Gurule: 11-3-0 | 32yo\n• Odds history: not checked yet\n\n🥊 7. 
- 𝗗𝗿𝗲𝘄 𝗗𝗼𝗯𝗲𝗿 🇺🇸 vs. 𝗖𝗵𝗿𝗶𝘀 
- 𝗗𝘂𝗻𝗰𝗮𝗻 🇸🇫\n• 155lbs/70kg Lightweight\n• Dober:
-  29-15-0 | 38yo | Freestyle\n• Duncan: 15-3-0 | 33yo | Striker\n• Odds
-  history: not checked yet\n\n🥊 6. 𝗦𝘁𝗲𝗽𝗵𝗲𝗻 𝗧𝗵
- 𝗼𝗺𝗽𝘀𝗼𝗻 🇺🇸 vs. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗥
- 𝗮𝗱𝘁𝗸𝗲 🇺🇸\n• 170lbs/77kg Welterweight\n• Thompson:
-  17-9-1 | 43yo | Karate\n• Radtke: 12-5-0 | 36yo\n• Odds history: not 
- checked yet\n\n🥊 5. 𝗗𝗼𝗻𝘁𝗲 𝗝𝗼𝗵𝗻𝘀𝗼𝗻 
- 🇺🇸 vs. 𝗕𝗮𝗶𝘀𝗮𝗻𝗴𝘂𝗿 𝗦𝘂𝘀𝘂𝗿𝗸
- 𝗮𝗲𝘃 🇷🇺\n• 185lbs/84kg Middleweight\n• Johnson: 9-0-0 | 
- 27yo | MMA\n• Susurkaev: 12-0-0 | 25yo | Striker\n• Odds history: not 
- checked yet\n\n🥊 4. 𝗝𝗶𝗺 𝗠𝗶𝗹𝗹𝗲𝗿 🇺🇸 vs. 
- 𝗧𝗲𝗿𝗿𝗮𝗻𝗰𝗲 𝗠𝗰𝗞𝗶𝗻𝗻𝗲𝘆 🇺🇸
- \n• 155lbs/70kg Lightweight\n• Miller: 39-19-0 | 43yo | Jiu-Jitsu\n•
-  McKinney: 18-9-0 | 32yo | MMA\n• Odds history: not checked yet\n\n🥊 
- 3. 𝗠𝗮𝗰𝘆 𝗖𝗵𝗶𝗮𝘀𝘀𝗼𝗻 (#8) 🇺🇸 vs. 
- 𝗕𝗶𝗮 𝗠𝗲𝘀𝗾𝘂𝗶𝘁𝗮 (#11) 🇧🇷\n• 135lbs/6
- 1kg Women's Bantamweight\n• Chiasson: 11-6-0 | 35yo | MMA\n• Mesquita:
-  8-0-0 | 35yo | Brazilian Jiu-Jitsu\n• Odds history: not checked yet\n\n
- 🥊 2. 𝗔𝗱𝗿𝗶𝗮𝗻 𝗬𝗮𝗻𝗲𝘇 🇺🇸 vs. 𝗝
- 𝘂𝗮𝗻 𝗗𝗶𝗮𝘇 🇵🇪\n• 135lbs/61kg Bantamweight\n• 
- Yanez: 18-6-1 | 32yo | Boxer\n• Diaz: 16-1-1 | 28yo | MMA\n• Odds hist
- ory: not checked yet\n\n🥊 1. 𝗡𝗮𝘇𝗶𝗺 𝗦𝗮𝗱𝘆𝗸
- 𝗵𝗼𝘃 🇦🇿 vs. 𝗝𝗲𝗳𝗳𝗲𝗿𝘀𝗼𝗻 𝗡𝗮
- 𝘀𝗰𝗶𝗺𝗲𝗻𝘁𝗼 🇧🇷\n• 155lbs/70kg Lightweight\n
- • Sadykhov: 11-3-1 | 32yo | Freestyle\n• Nascimento: 13-1-0 | 27yo | F
- reestyle\n• Odds history: not checked yet\n\n---------------------------
- -----\nSource: https://www.ufc.com/event/ufc-334\nOdds source: https://www
- .bestfightodds.com/ · best available line · checked Monday and Friday\nF
- ull odds log: https://staircasewit.github.io/mmacalendar/odds-history.html
- \nEvent status: Scheduled
+ -265 (1.38)\n• Hokit: 10-0-0 | 29yo | Wrestling | +215 (3.15)\n• Odds 
+ history:\n  ◦ 25 Sep: Gane 🟢 -265 (1.38) | Hokit 🔴 +225 (3.25)\n  
+ ◦ 28 Sep: Gane 🟢 -265 (1.38) | Hokit 🔴 +215 (3.15)\n\n🥊 11. 
+ 𝗞𝗮𝘆𝗹𝗮 𝗛𝗮𝗿𝗿𝗶𝘀𝗼𝗻 (C) 🇺🇸 vs. 
+ 𝗔𝗺𝗮𝗻𝗱𝗮 𝗡𝘂𝗻𝗲𝘀 🇧🇷\n• 135lbs/61kg Wo
+ men's Bantamweight · Title Bout\n• Harrison: 19-1-0 | 36yo | Judo | -20
+ 0 (1.50)\n• Nunes: 23-5-0 | 38yo | Striker | +163 (2.63)\n• Odds histo
+ ry:\n  ◦ 25 Sep: Harrison 🟢 -200 (1.50) | Nunes 🔴 +163 (2.63)\n\n
+ 🥊 10. 𝗖𝗮𝗶𝗼 𝗕𝗼𝗿𝗿𝗮𝗹𝗵𝗼 (#5) 🇧🇷 v
+ s. 𝗬𝗼𝘂𝘀𝗿𝗶 𝗕𝗲𝗹𝗴𝗮𝗿𝗼𝘂𝗶 🇳🇱\
+ n• 185lbs/84kg Middleweight\n• Borralho: 18-2-0 | 33yo | MMA\n• Belg
+ aroui: 11-3-0 | 34yo | Striker\n• Odds history: not checked yet\n\n🥊 
+ 9. 𝗨𝗿𝗼š 𝗠𝗲𝗱𝗶ć (#12) 🇷🇸 vs. 𝗞𝗲𝘃𝗶
+ 𝗻 𝗛𝗼𝗹𝗹𝗮𝗻𝗱 🇺🇸\n• 170lbs/77kg Welterweight\n
+ • Medic: 14-3-0 | 33yo | MMA\n• Holland: 29-15-0 | 34yo | Kung Fu\n•
+  Odds history: not checked yet\n\n🥊 8. 𝗕𝗶𝗹𝗮𝗹 𝗛𝗮
+ 𝘀𝗮𝗻 🇮🇩 vs. 𝗟𝘂𝗶𝘀 𝗚𝘂𝗿𝘂𝗹𝗲 🇺
+ 🇸\n• 125lbs/57kg Flyweight\n• Hasan: 10-0-0 | 25yo | MMA\n• Gurul
+ e: 11-3-0 | 32yo\n• Odds history: not checked yet\n\n🥊 7. 𝗗𝗿
+ 𝗲𝘄 𝗗𝗼𝗯𝗲𝗿 🇺🇸 vs. 𝗖𝗵𝗿𝗶𝘀 𝗗𝘂
+ 𝗻𝗰𝗮𝗻 🇸🇫\n• 155lbs/70kg Lightweight\n• Dober: 29-15-0
+  | 38yo | Freestyle\n• Duncan: 15-3-0 | 33yo | Striker\n• Odds history
+ : not checked yet\n\n🥊 6. 𝗦𝘁𝗲𝗽𝗵𝗲𝗻 𝗧𝗵𝗼𝗺
+ 𝗽𝘀𝗼𝗻 🇺🇸 vs. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗥𝗮𝗱
+ 𝘁𝗸𝗲 🇺🇸\n• 170lbs/77kg Welterweight\n• Thompson: 17-9-1 
+ | 43yo | Karate\n• Radtke: 12-5-0 | 36yo\n• Odds history: not checked 
+ yet\n\n🥊 5. 𝗗𝗼𝗻𝘁𝗲 𝗝𝗼𝗵𝗻𝘀𝗼𝗻 🇺🇸 
+ vs. 𝗕𝗮𝗶𝘀𝗮𝗻𝗴𝘂𝗿 𝗦𝘂𝘀𝘂𝗿𝗸𝗮𝗲
+ 𝘃 🇷🇺\n• 185lbs/84kg Middleweight\n• Johnson: 9-0-0 | 27yo | M
+ MA\n• Susurkaev: 12-0-0 | 25yo | Striker\n• Odds history: not checked 
+ yet\n\n🥊 4. 𝗝𝗶𝗺 𝗠𝗶𝗹𝗹𝗲𝗿 🇺🇸 vs. 𝗧𝗲
+ 𝗿𝗿𝗮𝗻𝗰𝗲 𝗠𝗰𝗞𝗶𝗻𝗻𝗲𝘆 🇺🇸\n• 15
+ 5lbs/70kg Lightweight\n• Miller: 39-19-0 | 43yo | Jiu-Jitsu\n• McKinne
+ y: 18-9-0 | 32yo | MMA\n• Odds history: not checked yet\n\n🥊 3. 𝗠
+ 𝗮𝗰𝘆 𝗖𝗵𝗶𝗮𝘀𝘀𝗼𝗻 (#8) 🇺🇸 vs. 𝗕𝗶
+ 𝗮 𝗠𝗲𝘀𝗾𝘂𝗶𝘁𝗮 (#11) 🇧🇷\n• 135lbs/61kg Wome
+ n's Bantamweight\n• Chiasson: 11-6-0 | 35yo | MMA\n• Mesquita: 8-0-0 |
+  35yo | Brazilian Jiu-Jitsu\n• Odds history: not checked yet\n\n🥊 2. 
+ 𝗔𝗱𝗿𝗶𝗮𝗻 𝗬𝗮𝗻𝗲𝘇 🇺🇸 vs. 𝗝𝘂𝗮
+ 𝗻 𝗗𝗶𝗮𝘇 🇵🇪\n• 135lbs/61kg Bantamweight\n• Yanez: 1
+ 8-6-1 | 32yo | Boxer\n• Diaz: 16-1-1 | 28yo | MMA\n• Odds history: not
+  checked yet\n\n🥊 1. 𝗡𝗮𝘇𝗶𝗺 𝗦𝗮𝗱𝘆𝗸𝗵𝗼
+ 𝘃 🇦🇿 vs. 𝗝𝗲𝗳𝗳𝗲𝗿𝘀𝗼𝗻 𝗡𝗮𝘀𝗰
+ 𝗶𝗺𝗲𝗻𝘁𝗼 🇧🇷\n• 155lbs/70kg Lightweight\n• Sadykh
+ ov: 11-3-1 | 32yo | Freestyle\n• Nascimento: 13-1-0 | 27yo | Freestyle\n
+ • Odds history: not checked yet\n\n--------------------------------\nSou
+ rce: https://www.ufc.com/event/ufc-334\nOdds source: https://www.bestfight
+ odds.com/ · best available line · checked Monday and Friday\nFull odds l
+ og: https://staircasewit.github.io/mmacalendar/odds-history.html\nEvent st
+ atus: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 12 bouts an
  nounced · placement TBD<br>📍 Madison Square Garden\, New York\, United
   States<br>🕒 02:00–05:00 Ireland<br>This provisional entry updates au
@@ -3942,61 +3964,62 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 12 bouts an
  ------</p><p><strong>🥊 12. 𝗖𝗶𝗿𝘆𝗹 𝗚𝗮𝗻𝗲 (C) 
  🇫🇷 vs. 𝗝𝗼𝘀𝗵 𝗛𝗼𝗸𝗶𝘁 (#4) 🇺🇸</strong><
  br>• 265lbs/120kg Heavyweight · Title Bout<br>• Gane: 14-2-0 | 36yo |
-  Muay Thai | -265 (1.38)<br>• Hokit: 10-0-0 | 29yo | Wrestling | +225 (3
- .25)<br>• Odds history:<br>◦ 25 Sep: Gane 🟢 -265 (1.38) | Hokit 
- 🔴 +225 (3.25)</p><p><strong>🥊 11. 𝗞𝗮𝘆𝗹𝗮 𝗛𝗮𝗿
- 𝗿𝗶𝘀𝗼𝗻 (C) 🇺🇸 vs. 𝗔𝗺𝗮𝗻𝗱𝗮 𝗡𝘂
- 𝗻𝗲𝘀 🇧🇷</strong><br>• 135lbs/61kg Women&#39\;s Bantamweigh
- t · Title Bout<br>• Harrison: 19-1-0 | 36yo | Judo | -200 (1.50)<br>•
-  Nunes: 23-5-0 | 38yo | Striker | +163 (2.63)<br>• Odds history:<br>◦ 
- 25 Sep: Harrison 🟢 -200 (1.50) | Nunes 🔴 +163 (2.63)</p><p><strong>
- 🥊 10. 𝗖𝗮𝗶𝗼 𝗕𝗼𝗿𝗿𝗮𝗹𝗵𝗼 (#5) 🇧🇷 v
- s. 𝗬𝗼𝘂𝘀𝗿𝗶 𝗕𝗲𝗹𝗴𝗮𝗿𝗼𝘂𝗶 🇳🇱<
- /strong><br>• 185lbs/84kg Middleweight<br>• Borralho: 18-2-0 | 33yo | 
- MMA<br>• Belgaroui: 11-3-0 | 34yo | Striker<br>• Odds history: not che
- cked yet</p><p><strong>🥊 9. 𝗨𝗿𝗼š 𝗠𝗲𝗱𝗶ć (#12) 
- 🇷🇸 vs. 𝗞𝗲𝘃𝗶𝗻 𝗛𝗼𝗹𝗹𝗮𝗻𝗱 🇺🇸</s
- trong><br>• 170lbs/77kg Welterweight<br>• Medic: 14-3-0 | 33yo | MMA<b
- r>• Holland: 29-15-0 | 34yo | Kung Fu<br>• Odds history: not checked y
- et</p><p><strong>🥊 8. 𝗕𝗶𝗹𝗮𝗹 𝗛𝗮𝘀𝗮𝗻 🇮
- 🇩 vs. 𝗟𝘂𝗶𝘀 𝗚𝘂𝗿𝘂𝗹𝗲 🇺🇸</strong><br>
- • 125lbs/57kg Flyweight<br>• Hasan: 10-0-0 | 25yo | MMA<br>• Gurule:
-  11-3-0 | 32yo<br>• Odds history: not checked yet</p><p><strong>🥊 7. 
- 𝗗𝗿𝗲𝘄 𝗗𝗼𝗯𝗲𝗿 🇺🇸 vs. 𝗖𝗵𝗿𝗶𝘀 
- 𝗗𝘂𝗻𝗰𝗮𝗻 🇸🇫</strong><br>• 155lbs/70kg Lightweight<
- br>• Dober: 29-15-0 | 38yo | Freestyle<br>• Duncan: 15-3-0 | 33yo | St
- riker<br>• Odds history: not checked yet</p><p><strong>🥊 6. 𝗦𝘁
- 𝗲𝗽𝗵𝗲𝗻 𝗧𝗵𝗼𝗺𝗽𝘀𝗼𝗻 🇺🇸 vs. 𝗖
- 𝗵𝗮𝗿𝗹𝗲𝘀 𝗥𝗮𝗱𝘁𝗸𝗲 🇺🇸</strong><br>•
-  170lbs/77kg Welterweight<br>• Thompson: 17-9-1 | 43yo | Karate<br>• R
- adtke: 12-5-0 | 36yo<br>• Odds history: not checked yet</p><p><strong>
- 🥊 5. 𝗗𝗼𝗻𝘁𝗲 𝗝𝗼𝗵𝗻𝘀𝗼𝗻 🇺🇸 vs. 
- 𝗕𝗮𝗶𝘀𝗮𝗻𝗴𝘂𝗿 𝗦𝘂𝘀𝘂𝗿𝗸𝗮𝗲𝘃 
- 🇷🇺</strong><br>• 185lbs/84kg Middleweight<br>• Johnson: 9-0-0 | 
- 27yo | MMA<br>• Susurkaev: 12-0-0 | 25yo | Striker<br>• Odds history: 
- not checked yet</p><p><strong>🥊 4. 𝗝𝗶𝗺 𝗠𝗶𝗹𝗹𝗲
- 𝗿 🇺🇸 vs. 𝗧𝗲𝗿𝗿𝗮𝗻𝗰𝗲 𝗠𝗰𝗞𝗶𝗻
- 𝗻𝗲𝘆 🇺🇸</strong><br>• 155lbs/70kg Lightweight<br>• Mille
- r: 39-19-0 | 43yo | Jiu-Jitsu<br>• McKinney: 18-9-0 | 32yo | MMA<br>• 
- Odds history: not checked yet</p><p><strong>🥊 3. 𝗠𝗮𝗰𝘆 𝗖
- 𝗵𝗶𝗮𝘀𝘀𝗼𝗻 (#8) 🇺🇸 vs. 𝗕𝗶𝗮 𝗠𝗲𝘀
- 𝗾𝘂𝗶𝘁𝗮 (#11) 🇧🇷</strong><br>• 135lbs/61kg Women&#39\
- ;s Bantamweight<br>• Chiasson: 11-6-0 | 35yo | MMA<br>• Mesquita: 8-0-
- 0 | 35yo | Brazilian Jiu-Jitsu<br>• Odds history: not checked yet</p><p>
- <strong>🥊 2. 𝗔𝗱𝗿𝗶𝗮𝗻 𝗬𝗮𝗻𝗲𝘇 🇺🇸 vs.
-  𝗝𝘂𝗮𝗻 𝗗𝗶𝗮𝘇 🇵🇪</strong><br>• 135lbs/61kg Ba
- ntamweight<br>• Yanez: 18-6-1 | 32yo | Boxer<br>• Diaz: 16-1-1 | 28yo 
- | MMA<br>• Odds history: not checked yet</p><p><strong>🥊 1. 𝗡𝗮
- 𝘇𝗶𝗺 𝗦𝗮𝗱𝘆𝗸𝗵𝗼𝘃 🇦🇿 vs. 𝗝𝗲𝗳
- 𝗳𝗲𝗿𝘀𝗼𝗻 𝗡𝗮𝘀𝗰𝗶𝗺𝗲𝗻𝘁𝗼 🇧🇷
- </strong><br>• 155lbs/70kg Lightweight<br>• Sadykhov: 11-3-1 | 32yo | 
- Freestyle<br>• Nascimento: 13-1-0 | 27yo | Freestyle<br>• Odds history
- : not checked yet</p><p>--------------------------------<br>Source: <a hre
- f="https://www.ufc.com/event/ufc-334">UFC.com</a><br>Odds source: <a href=
- "https://www.bestfightodds.com/">BestFightOdds</a> · best available line 
- · checked Monday and Friday<br>Full odds log: <a href="https://staircasew
- it.github.io/mmacalendar/odds-history.html">view history</a><br>Event stat
- us: Scheduled</p></body></html>
+  Muay Thai | -265 (1.38)<br>• Hokit: 10-0-0 | 29yo | Wrestling | +215 (3
+ .15)<br>• Odds history:<br>◦ 25 Sep: Gane 🟢 -265 (1.38) | Hokit 
+ 🔴 +225 (3.25)<br>◦ 28 Sep: Gane 🟢 -265 (1.38) | Hokit 🔴 +215 (3
+ .15)</p><p><strong>🥊 11. 𝗞𝗮𝘆𝗹𝗮 𝗛𝗮𝗿𝗿𝗶𝘀
+ 𝗼𝗻 (C) 🇺🇸 vs. 𝗔𝗺𝗮𝗻𝗱𝗮 𝗡𝘂𝗻𝗲𝘀 
+ 🇧🇷</strong><br>• 135lbs/61kg Women&#39\;s Bantamweight · Title Bo
+ ut<br>• Harrison: 19-1-0 | 36yo | Judo | -200 (1.50)<br>• Nunes: 23-5-
+ 0 | 38yo | Striker | +163 (2.63)<br>• Odds history:<br>◦ 25 Sep: Harri
+ son 🟢 -200 (1.50) | Nunes 🔴 +163 (2.63)</p><p><strong>🥊 10. 𝗖
+ 𝗮𝗶𝗼 𝗕𝗼𝗿𝗿𝗮𝗹𝗵𝗼 (#5) 🇧🇷 vs. 𝗬𝗼
+ 𝘂𝘀𝗿𝗶 𝗕𝗲𝗹𝗴𝗮𝗿𝗼𝘂𝗶 🇳🇱</strong><br
+ >• 185lbs/84kg Middleweight<br>• Borralho: 18-2-0 | 33yo | MMA<br>• 
+ Belgaroui: 11-3-0 | 34yo | Striker<br>• Odds history: not checked yet</p
+ ><p><strong>🥊 9. 𝗨𝗿𝗼š 𝗠𝗲𝗱𝗶ć (#12) 🇷🇸 vs. 
+ 𝗞𝗲𝘃𝗶𝗻 𝗛𝗼𝗹𝗹𝗮𝗻𝗱 🇺🇸</strong><br>•
+  170lbs/77kg Welterweight<br>• Medic: 14-3-0 | 33yo | MMA<br>• Holland
+ : 29-15-0 | 34yo | Kung Fu<br>• Odds history: not checked yet</p><p><str
+ ong>🥊 8. 𝗕𝗶𝗹𝗮𝗹 𝗛𝗮𝘀𝗮𝗻 🇮🇩 vs. 𝗟
+ 𝘂𝗶𝘀 𝗚𝘂𝗿𝘂𝗹𝗲 🇺🇸</strong><br>• 125lbs/57kg
+  Flyweight<br>• Hasan: 10-0-0 | 25yo | MMA<br>• Gurule: 11-3-0 | 32yo<
+ br>• Odds history: not checked yet</p><p><strong>🥊 7. 𝗗𝗿𝗲
+ 𝘄 𝗗𝗼𝗯𝗲𝗿 🇺🇸 vs. 𝗖𝗵𝗿𝗶𝘀 𝗗𝘂𝗻
+ 𝗰𝗮𝗻 🇸🇫</strong><br>• 155lbs/70kg Lightweight<br>• Dober
+ : 29-15-0 | 38yo | Freestyle<br>• Duncan: 15-3-0 | 33yo | Striker<br>•
+  Odds history: not checked yet</p><p><strong>🥊 6. 𝗦𝘁𝗲𝗽𝗵
+ 𝗲𝗻 𝗧𝗵𝗼𝗺𝗽𝘀𝗼𝗻 🇺🇸 vs. 𝗖𝗵𝗮𝗿
+ 𝗹𝗲𝘀 𝗥𝗮𝗱𝘁𝗸𝗲 🇺🇸</strong><br>• 170lbs/77kg
+  Welterweight<br>• Thompson: 17-9-1 | 43yo | Karate<br>• Radtke: 12-5-
+ 0 | 36yo<br>• Odds history: not checked yet</p><p><strong>🥊 5. 𝗗
+ 𝗼𝗻𝘁𝗲 𝗝𝗼𝗵𝗻𝘀𝗼𝗻 🇺🇸 vs. 𝗕𝗮𝗶
+ 𝘀𝗮𝗻𝗴𝘂𝗿 𝗦𝘂𝘀𝘂𝗿𝗸𝗮𝗲𝘃 🇷🇺</st
+ rong><br>• 185lbs/84kg Middleweight<br>• Johnson: 9-0-0 | 27yo | MMA<b
+ r>• Susurkaev: 12-0-0 | 25yo | Striker<br>• Odds history: not checked 
+ yet</p><p><strong>🥊 4. 𝗝𝗶𝗺 𝗠𝗶𝗹𝗹𝗲𝗿 🇺🇸 v
+ s. 𝗧𝗲𝗿𝗿𝗮𝗻𝗰𝗲 𝗠𝗰𝗞𝗶𝗻𝗻𝗲𝘆 🇺
+ 🇸</strong><br>• 155lbs/70kg Lightweight<br>• Miller: 39-19-0 | 43yo
+  | Jiu-Jitsu<br>• McKinney: 18-9-0 | 32yo | MMA<br>• Odds history: not
+  checked yet</p><p><strong>🥊 3. 𝗠𝗮𝗰𝘆 𝗖𝗵𝗶𝗮𝘀
+ 𝘀𝗼𝗻 (#8) 🇺🇸 vs. 𝗕𝗶𝗮 𝗠𝗲𝘀𝗾𝘂𝗶𝘁
+ 𝗮 (#11) 🇧🇷</strong><br>• 135lbs/61kg Women&#39\;s Bantamweight<
+ br>• Chiasson: 11-6-0 | 35yo | MMA<br>• Mesquita: 8-0-0 | 35yo | Brazi
+ lian Jiu-Jitsu<br>• Odds history: not checked yet</p><p><strong>🥊 2. 
+ 𝗔𝗱𝗿𝗶𝗮𝗻 𝗬𝗮𝗻𝗲𝘇 🇺🇸 vs. 𝗝𝘂𝗮
+ 𝗻 𝗗𝗶𝗮𝘇 🇵🇪</strong><br>• 135lbs/61kg Bantamweight<br
+ >• Yanez: 18-6-1 | 32yo | Boxer<br>• Diaz: 16-1-1 | 28yo | MMA<br>• 
+ Odds history: not checked yet</p><p><strong>🥊 1. 𝗡𝗮𝘇𝗶𝗺 
+ 𝗦𝗮𝗱𝘆𝗸𝗵𝗼𝘃 🇦🇿 vs. 𝗝𝗲𝗳𝗳𝗲𝗿𝘀
+ 𝗼𝗻 𝗡𝗮𝘀𝗰𝗶𝗺𝗲𝗻𝘁𝗼 🇧🇷</strong><br>•
+  155lbs/70kg Lightweight<br>• Sadykhov: 11-3-1 | 32yo | Freestyle<br>•
+  Nascimento: 13-1-0 | 27yo | Freestyle<br>• Odds history: not checked ye
+ t</p><p>--------------------------------<br>Source: <a href="https://www.u
+ fc.com/event/ufc-334">UFC.com</a><br>Odds source: <a href="https://www.bes
+ tfightodds.com/">BestFightOdds</a> · best available line · checked Monda
+ y and Friday<br>Full odds log: <a href="https://staircasewit.github.io/mma
+ calendar/odds-history.html">view history</a><br>Event status: Scheduled</p
+ ></body></html>
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Main Card

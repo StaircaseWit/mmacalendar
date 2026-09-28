@@ -5671,7 +5671,7 @@
     "bouts": [
       {
         "id": "1587",
-        "order": 6,
+        "order": 7,
         "red": {
           "name": "Khasan Magomedsharipov",
           "profileUrl": "https://pflmma.com/wt-fighter/khasan-magomedsharipov",
@@ -5688,6 +5688,30 @@
           "birthDate": "1993-07-06",
           "record": "20-4-0",
           "style": "Striker",
+          "odds": null
+        },
+        "details": "145lbs/66kg Featherweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1605",
+        "order": 6,
+        "red": {
+          "name": "Asaël Adjoudj",
+          "profileUrl": "https://pflmma.com/wt-fighter/asael-adjoudj",
+          "countryCode": "DZ",
+          "birthDate": "1999-01-15",
+          "record": "11-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Movlid Khaybulaev",
+          "profileUrl": "https://pflmma.com/wt-fighter/movlid-khaybulaev",
+          "countryCode": null,
+          "birthDate": "1990-10-15",
+          "record": "23-0-1",
+          "style": null,
           "odds": null
         },
         "details": "145lbs/66kg Featherweight",
