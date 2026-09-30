@@ -5274,32 +5274,8 @@
     "status": "CONFIRMED",
     "bouts": [
       {
-        "id": "1604",
-        "order": 14,
-        "red": {
-          "name": "Levan Khabalaev",
-          "profileUrl": "https://pflmma.com/wt-fighter/levan-khabalaev",
-          "countryCode": "GE",
-          "birthDate": "1999-03-09",
-          "record": "5-0-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Morquez Forest",
-          "profileUrl": "https://pflmma.com/wt-fighter/morquez-forest",
-          "countryCode": "US",
-          "birthDate": "1993-07-07",
-          "record": "8-2-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "155lbs/70kg Lightweight",
-        "oddsHistory": []
-      },
-      {
         "id": "1603",
-        "order": 13,
+        "order": 14,
         "red": {
           "name": "Benita Van Rooji",
           "profileUrl": "https://pflmma.com/wt-fighter/benita-vanrooji",
@@ -5319,7 +5295,7 @@
       },
       {
         "id": "1602",
-        "order": 12,
+        "order": 13,
         "red": {
           "name": "Noah Hermosillo",
           "profileUrl": "https://pflmma.com/wt-fighter/noah-hermosillo",
@@ -5343,7 +5319,7 @@
       },
       {
         "id": "1588",
-        "order": 11,
+        "order": 12,
         "red": {
           "name": "Paulina Wisniewska",
           "profileUrl": "https://pflmma.com/wt-fighter/paulina-wisniewska",
@@ -5363,6 +5339,30 @@
           "odds": null
         },
         "details": "125lbs/57kg Women's Flyweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1604",
+        "order": 11,
+        "red": {
+          "name": "Levan Khabalaev",
+          "profileUrl": "https://pflmma.com/wt-fighter/levan-khabalaev",
+          "countryCode": "GE",
+          "birthDate": "1999-03-09",
+          "record": "5-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Morquez Forest",
+          "profileUrl": "https://pflmma.com/wt-fighter/morquez-forest",
+          "countryCode": "US",
+          "birthDate": "1993-07-07",
+          "record": "8-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight",
         "oddsHistory": []
       },
       {
@@ -5390,80 +5390,8 @@
         "oddsHistory": []
       },
       {
-        "id": "1590",
-        "order": 9,
-        "red": {
-          "name": "Eliezer Kubanza",
-          "profileUrl": "https://pflmma.com/wt-fighter/eliezer-kubanza",
-          "countryCode": null,
-          "birthDate": "1997-12-22",
-          "record": "9-1-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Trey Waters",
-          "profileUrl": "https://pflmma.com/wt-fighter/trey-waters",
-          "countryCode": null,
-          "birthDate": "1995-02-20",
-          "record": "10-2-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "170lbs/77kg Welterweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1584",
-        "order": 8,
-        "red": {
-          "name": "Cássio Barão",
-          "profileUrl": "https://pflmma.com/wt-fighter/cassio-barao",
-          "countryCode": "BR",
-          "birthDate": "1995-09-02",
-          "record": "10-1-1",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Kevin Pease",
-          "profileUrl": "https://pflmma.com/wt-fighter/kevin-pease",
-          "countryCode": "US",
-          "birthDate": "1997-10-02",
-          "record": "6-0-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "155lbs/70kg Lightweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1581",
-        "order": 7,
-        "red": {
-          "name": "Shannon Clark",
-          "profileUrl": "https://pflmma.com/wt-fighter/shannon-clark",
-          "countryCode": "CA",
-          "birthDate": "1992-07-06",
-          "record": "8-1-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Lucero Acosta",
-          "profileUrl": "https://pflmma.com/wt-fighter/lucero-acosta",
-          "countryCode": null,
-          "birthDate": "1994-08-22",
-          "record": "6-2-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "125lbs/57kg Women's Flyweight",
-        "oddsHistory": []
-      },
-      {
         "id": "1592",
-        "order": 6,
+        "order": 9,
         "red": {
           "name": "Gamid Khizriev",
           "profileUrl": "https://pflmma.com/wt-fighter/gamid-khizriev",
@@ -5486,8 +5414,56 @@
         "oddsHistory": []
       },
       {
+        "id": "1581",
+        "order": 8,
+        "red": {
+          "name": "Shannon Clark",
+          "profileUrl": "https://pflmma.com/wt-fighter/shannon-clark",
+          "countryCode": "CA",
+          "birthDate": "1992-07-06",
+          "record": "8-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Lucero Acosta",
+          "profileUrl": "https://pflmma.com/wt-fighter/lucero-acosta",
+          "countryCode": null,
+          "birthDate": "1994-08-22",
+          "record": "6-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "125lbs/57kg Women's Flyweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1584",
+        "order": 7,
+        "red": {
+          "name": "Cássio Barão",
+          "profileUrl": "https://pflmma.com/wt-fighter/cassio-barao",
+          "countryCode": "BR",
+          "birthDate": "1995-09-02",
+          "record": "10-1-1",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Kevin Pease",
+          "profileUrl": "https://pflmma.com/wt-fighter/kevin-pease",
+          "countryCode": "US",
+          "birthDate": "1997-10-02",
+          "record": "6-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight",
+        "oddsHistory": []
+      },
+      {
         "id": "1580",
-        "order": 5,
+        "order": 6,
         "red": {
           "name": "Emiliano Sordi",
           "profileUrl": "https://pflmma.com/wt-fighter/emiliano-sordi",
@@ -5507,6 +5483,30 @@
           "odds": null
         },
         "details": "205lbs/93kg Light Heavyweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1590",
+        "order": 5,
+        "red": {
+          "name": "Eliezer Kubanza",
+          "profileUrl": "https://pflmma.com/wt-fighter/eliezer-kubanza",
+          "countryCode": null,
+          "birthDate": "1997-12-22",
+          "record": "9-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Trey Waters",
+          "profileUrl": "https://pflmma.com/wt-fighter/trey-waters",
+          "countryCode": null,
+          "birthDate": "1995-02-20",
+          "record": "10-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight",
         "oddsHistory": []
       },
       {
@@ -5671,7 +5671,7 @@
     "bouts": [
       {
         "id": "1587",
-        "order": 7,
+        "order": 8,
         "red": {
           "name": "Khasan Magomedsharipov",
           "profileUrl": "https://pflmma.com/wt-fighter/khasan-magomedsharipov",
@@ -5695,7 +5695,7 @@
       },
       {
         "id": "1605",
-        "order": 6,
+        "order": 7,
         "red": {
           "name": "Asaël Adjoudj",
           "profileUrl": "https://pflmma.com/wt-fighter/asael-adjoudj",
@@ -5715,6 +5715,30 @@
           "odds": null
         },
         "details": "145lbs/66kg Featherweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1606",
+        "order": 6,
+        "red": {
+          "name": "Lewis McGrillen",
+          "profileUrl": "https://pflmma.com/wt-fighter/lewis-mcgrillen",
+          "countryCode": "GB",
+          "birthDate": "2000-10-23",
+          "record": "13-2-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Nawras Abzakh",
+          "profileUrl": "https://pflmma.com/wt-fighter/nawras-abzakh",
+          "countryCode": "JO",
+          "birthDate": "1991-12-29",
+          "record": "15-6-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "135lbs/61kg Bantamweight",
         "oddsHistory": []
       },
       {

@@ -13,11 +13,11 @@ X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:ufc-332-fight-13071@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260928T140147Z
-SEQUENCE:4
-DTSTART:20261003T213000Z
-DTEND:20261003T220000Z
-SUMMARY:🥊 4. Johnny Walker vs. Mick Parkin (estimated)
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:5
+DTSTART:20261003T213500Z
+DTEND:20261003T220500Z
+SUMMARY:🥊 5. Johnny Walker vs. Mick Parkin (estimated)
 DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n• Wal
  ker: 22-10-0 | 34yo | MMA | -132 (1.76)\n• Parkin: 10-1-0 | 31yo | MMA |
@@ -35,11 +35,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13124@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260928T140147Z
-SEQUENCE:4
-DTSTART:20261003T210000Z
-DTEND:20261003T213000Z
-SUMMARY:🥊 3. Rafael Dos Anjos vs. Alexander Hernandez (estimated)
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:5
+DTSTART:20261003T211000Z
+DTEND:20261003T214000Z
+SUMMARY:🥊 4. Rafael Dos Anjos vs. Alexander Hernandez (estimated)
 DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Dos 
  Anjos: 32-17-0 | 41yo | Grappler | +228 (3.28)\n• Hernandez: 18-9-0 | 34
@@ -57,11 +57,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13072@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260928T140147Z
-SEQUENCE:4
-DTSTART:20261003T203000Z
-DTEND:20261003T210000Z
-SUMMARY:🥊 2. Marvin Vettori vs. Ismail Naurdiev (estimated)
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:5
+DTSTART:20261003T205000Z
+DTEND:20261003T212000Z
+SUMMARY:🥊 3. Marvin Vettori vs. Ismail Naurdiev (estimated)
 DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Vet
  tori: 19-10-1 | 33yo | MMA | +120 (2.20)\n• Naurdiev: 25-8-0 | 30yo | Wr
@@ -70,6 +70,26 @@ DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   | Naurdiev 🟢 -130 (1.77)\nEvent: UFC 332: Silva vs Wang\nSource: https
  ://www.ufc.com/event/ufc-332\nMain calendar: https://staircasewit.github.i
  o/mmacalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:Delta Center\, Salt Lake City\, United States
+URL:https://www.ufc.com/event/ufc-332
+CATEGORIES:UFC,Estimated Fight,Early Prelims
+RELATED-TO:ufc-332-early-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-332-fight-13165@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261003T202500Z
+DTEND:20261003T205500Z
+SUMMARY:🥊 2. Jacobe Smith vs. Bruce Whitehead (estimated)
+DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
+  may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Smi
+ th: 12-0-0 | 30yo | Freestyle\n• Whitehead: record unavailable | age una
+ vailable\n• Odds history: not checked yet\nEvent: UFC 332: Silva vs Wang
+ \nSource: https://www.ufc.com/event/ufc-332\nMain calendar: https://stairc
+ asewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -167,18 +187,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13134@ufc-detailed-calendar
 DTSTAMP:20260916T114128Z
-LAST-MODIFIED:20260928T140147Z
-SEQUENCE:2
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:3
 DTSTART:20261003T220000Z
 DTEND:20261003T223000Z
 SUMMARY:🥊 1. Anthony Wint vs. Lucas Armand (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 265lbs/120kg Heavyweight\n• Wint: 8-0
- -0 | 31yo | -350 (1.29)\n• Armand: 0-0-0 | 30yo | +280 (3.80)\n• Odds 
- history:\n  ◦ 28 Sep: Wint 🟢 -350 (1.29) | Armand 🔴 +280 (3.80)\nE
- vent: UFC 332: Silva vs Wang\nSource: https://www.ufc.com/event/ufc-332\nM
- ain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent st
- atus: Scheduled
+ -0 | 31yo | -350 (1.29)\n• Armand: 6-0-0 | 30yo | Freestyle | +280 (3.80
+ )\n• Odds history:\n  ◦ 28 Sep: Wint 🟢 -350 (1.29) | Armand 🔴 +2
+ 80 (3.80)\nEvent: UFC 332: Silva vs Wang\nSource: https://www.ufc.com/even
+ t/ufc-332\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.i
+ cs\nEvent status: Scheduled
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -258,11 +278,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-fight-13121@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260928T140147Z
-SEQUENCE:5
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:6
 DTSTART:20261004T003500Z
 DTEND:20261004T010500Z
-SUMMARY:🥊 2. Roberto Soldic vs. Khaos Williams (estimated)
+SUMMARY:🥊 2. Roberto Soldić vs. Khaos Williams (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Soldic:
   0-0-0 | 31yo | -291 (1.34)\n• Williams: 16-5-0 | 32yo | MMA | +250 (3.5
@@ -300,19 +320,245 @@ RELATED-TO:ufc-332-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:ufc-fight-night-october-10-2026-fight-13166@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261010T233000Z
+DTEND:20261011T000000Z
+SUMMARY:🥊 6. Francisco Prado vs. Ismael Bonfim (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Prado: 12-
+ 5-0 | 24yo\n• Bonfim: 20-7-0 | 30yo | Boxer\n• Odds history: not check
+ ed yet\nEvent: UFC Fight Night: Allen vs Duncan\nSource: https://www.ufc.c
+ om/event/ufc-fight-night-october-10-2026\nMain calendar: https://staircase
+ wit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-fight-night-october-10-2026-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-10-2026-fight-13167@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261010T230000Z
+DTEND:20261010T233000Z
+SUMMARY:🥊 5. Niko Price vs. Leon Shahbazyan (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Price: 16
+ -11-0 | 37yo | Freestyle\n• Shahbazyan: 12-5-0 | 30yo | Striker\n• Odd
+ s history: not checked yet\nEvent: UFC Fight Night: Allen vs Duncan\nSourc
+ e: https://www.ufc.com/event/ufc-fight-night-october-10-2026\nMain calenda
+ r: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sched
+ uled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-fight-night-october-10-2026-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-10-2026-fight-13168@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261010T223000Z
+DTEND:20261010T230000Z
+SUMMARY:🥊 4. Felipe Franco vs. Brendson Ribeiro (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• Fran
+ co: 11-2-0 | 25yo | MMA\n• Ribeiro: 17-11-0 | 30yo | Striker\n• Odds h
+ istory: not checked yet\nEvent: UFC Fight Night: Allen vs Duncan\nSource: 
+ https://www.ufc.com/event/ufc-fight-night-october-10-2026\nMain calendar: 
+ https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedule
+ d
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-fight-night-october-10-2026-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-10-2026-fight-13169@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261010T220000Z
+DTEND:20261010T223000Z
+SUMMARY:🥊 3. Allen Frye Jr. vs. RJ Harris (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 265lbs/120kg Heavyweight\n• Frye Jr.:
+  6-1-0 | 28yo\n• Harris: 6-0-0 | 28yo | Wrestling\n• Odds history: not
+  checked yet\nEvent: UFC Fight Night: Allen vs Duncan\nSource: https://www
+ .ufc.com/event/ufc-fight-night-october-10-2026\nMain calendar: https://sta
+ ircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-fight-night-october-10-2026-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-10-2026-fight-13170@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261010T213000Z
+DTEND:20261010T220000Z
+SUMMARY:🥊 2. Alice Pereira vs. Daria Zhelezniakova (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 135lbs/61kg Women's Bantamweight\n• P
+ ereira: 7-1-0 | 20yo | Striker\n• Zhelezniakova: 10-3-0 | 30yo | Striker
+ \n• Odds history: not checked yet\nEvent: UFC Fight Night: Allen vs Dunc
+ an\nSource: https://www.ufc.com/event/ufc-fight-night-october-10-2026\nMai
+ n calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent stat
+ us: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-fight-night-october-10-2026-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-10-2026-fight-13171@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261010T210000Z
+DTEND:20261010T213000Z
+SUMMARY:🥊 1. Ernesta Kareckaitė vs. Melissa Gatto (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 125lbs/57kg Women's Flyweight\n• Kare
+ ckaite: 6-2-1 | 28yo | MMA\n• Gatto: 9-3-2 | 30yo | Jiu-Jitsu\n• Odds 
+ history: not checked yet\nEvent: UFC Fight Night: Allen vs Duncan\nSource:
+  https://www.ufc.com/event/ufc-fight-night-october-10-2026\nMain calendar:
+  https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedul
+ ed
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-fight-night-october-10-2026-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-fight-night-october-10-2026-fight-13116@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:3
-DTSTART:20261011T000000Z
-DTEND:20261011T003000Z
-SUMMARY:🥊 1. Brendan Allen vs. Christian Leroy Duncan (estimated)
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:4
+DTSTART:20261011T023000Z
+DTEND:20261011T030000Z
+SUMMARY:🥊 6. Brendan Allen vs. Christian Leroy Duncan (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Allen: 
  27-7-0 | 30yo | MMA\n• Duncan: 15-2-0 | 31yo | MMA\n• Odds history: no
  t checked yet\nEvent: UFC Fight Night: Allen vs Duncan\nSource: https://ww
  w.ufc.com/event/ufc-fight-night-october-10-2026\nMain calendar: https://st
  aircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-10-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-10-2026-fight-13160@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261011T020000Z
+DTEND:20261011T023000Z
+SUMMARY:🥊 5. Matheus Camilo vs. Jai Herbert (estimated)
+DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
+  move as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Camilo: 
+ 11-3-0 | 25yo | MMA\n• Herbert: 14-6-1 | 38yo | MMA\n• Odds history: n
+ ot checked yet\nEvent: UFC Fight Night: Allen vs Duncan\nSource: https://w
+ ww.ufc.com/event/ufc-fight-night-october-10-2026\nMain calendar: https://s
+ taircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-10-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-10-2026-fight-13161@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261011T013000Z
+DTEND:20261011T020000Z
+SUMMARY:🥊 4. Loopy Godinez vs. Ketlen Souza (estimated)
+DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
+  move as earlier fights finish.\n• 115lbs/52kg Women's Strawweight\n• 
+ Godinez: 14-6-0 | 33yo\n• Souza: 17-6-0 | 32yo | Boxing\n• Odds histor
+ y: not checked yet\nEvent: UFC Fight Night: Allen vs Duncan\nSource: https
+ ://www.ufc.com/event/ufc-fight-night-october-10-2026\nMain calendar: https
+ ://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-10-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-10-2026-fight-13162@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261011T010000Z
+DTEND:20261011T013000Z
+SUMMARY:🥊 3. Andre Fili vs. Kai Kamaka III (estimated)
+DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
+  move as earlier fights finish.\n• 145lbs/66kg Featherweight\n• Fili: 
+ 25-14-0 | 36yo | MMA\n• Kamaka III: 18-8-1 | 31yo | Boxing\n• Odds his
+ tory: not checked yet\nEvent: UFC Fight Night: Allen vs Duncan\nSource: ht
+ tps://www.ufc.com/event/ufc-fight-night-october-10-2026\nMain calendar: ht
+ tps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-10-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-10-2026-fight-13163@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261011T003000Z
+DTEND:20261011T010000Z
+SUMMARY:🥊 2. Julius Walker vs. Gerald Meerschaert (estimated)
+DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
+  move as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• Wa
+ lker: 7-3-0 | 27yo | MMA\n• Meerschaert: 37-22-0 | 38yo | Freestyle\n•
+  Odds history: not checked yet\nEvent: UFC Fight Night: Allen vs Duncan\nS
+ ource: https://www.ufc.com/event/ufc-fight-night-october-10-2026\nMain cal
+ endar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: S
+ cheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-10-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-10-2026-fight-13164@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261011T000000Z
+DTEND:20261011T003000Z
+SUMMARY:🥊 1. Malcolm Wellmaker vs. Otari Tanzilovi (estimated)
+DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
+  move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Wellmak
+ er: 10-2-0 | 32yo | Striker\n• Tanzilovi: 10-2-0 | 28yo | Kickboxer\n•
+  Odds history: not checked yet\nEvent: UFC Fight Night: Allen vs Duncan\nS
+ ource: https://www.ufc.com/event/ufc-fight-night-october-10-2026\nMain cal
+ endar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: S
+ cheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -767,11 +1013,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-31-2026-fight-13133@ufc-detailed-calendar
 DTSTAMP:20260916T114128Z
-LAST-MODIFIED:20260921T125410Z
-SEQUENCE:2
-DTSTART:20261101T010000Z
-DTEND:20261101T013000Z
-SUMMARY:🥊 3. Renato Moicano vs. Tom Nolan (estimated)
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:3
+DTSTART:20261101T022500Z
+DTEND:20261101T025500Z
+SUMMARY:🥊 11. Renato Moicano vs. Tom Nolan (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n•
   Moicano: 21-7-1 | 37yo | Jiu-Jitsu\n• Nolan: 11-1-0 | 26yo\n• Odds hi
@@ -786,13 +1032,34 @@ RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:ufc-fight-night-october-31-2026-fight-carlos-leal-randy-brown@ufc-detai
+ led-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261101T015500Z
+DTEND:20261101T022500Z
+SUMMARY:🥊 10. Randy Brown vs. Carlos Leal (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Brown: 20-8-0 | 36yo\n• Leal: 23-7-0 | 32yo | Striker\n• Odds hist
+ ory: not checked yet\nEvent: UFC Fight Night: Moicano vs Nolan\nSource: ht
+ tps://www.ufc.com/event/ufc-fight-night-october-31-2026\nMain calendar: ht
+ tps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-fight-night-october-31-2026-fight-13117@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260921T125410Z
-SEQUENCE:5
-DTSTART:20261031T230000Z
-DTEND:20261031T233000Z
-SUMMARY:🥊 2. Lucia Szabova vs. Tainara Lisboa (estimated)
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:6
+DTSTART:20261101T012000Z
+DTEND:20261101T015000Z
+SUMMARY:🥊 9. Lucia Szabova vs. Tainara Lisboa (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 125lbs/57kg Women's Flyweigh
  t\n• Szabova: 0-0-0 | 28yo\n• Lisboa: 7-4-0 | 35yo | Muay Thai\n• Od
@@ -807,13 +1074,57 @@ RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:ufc-fight-night-october-31-2026-fight-luana-santos-yana-santos@ufc-deta
+ iled-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261101T005000Z
+DTEND:20261101T012000Z
+SUMMARY:🥊 8. Yana Santos vs. Luana Santos (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 135lbs/61kg Women's Bantamwe
+ ight\n• Santos: 17-8-0 | 36yo | MMA\n• Santos: 11-2-0 | 26yo | Judo\n
+ • Odds history: not checked yet\nEvent: UFC Fight Night: Moicano vs Nola
+ n\nSource: https://www.ufc.com/event/ufc-fight-night-october-31-2026\nMain
+  calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent statu
+ s: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-31-2026-fight-piera-rodriguez-talita-alencar@uf
+ c-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261101T001500Z
+DTEND:20261101T004500Z
+SUMMARY:🥊 7. Talita Alencar vs. Piera Rodriguez (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 115lbs/52kg Women's Strawwei
+ ght\n• Alencar: 8-1-1 | 36yo | Grappler\n• Rodriguez: 12-2-0 | 33yo | 
+ Striker\n• Odds history: not checked yet\nEvent: UFC Fight Night: Moican
+ o vs Nolan\nSource: https://www.ufc.com/event/ufc-fight-night-october-31-2
+ 026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEv
+ ent status: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-fight-night-october-31-2026-fight-13096@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260921T125410Z
-SEQUENCE:5
-DTSTART:20261031T210000Z
-DTEND:20261031T213000Z
-SUMMARY:🥊 1. Nick Klein vs. Joseph Kropschot (estimated)
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:6
+DTSTART:20261031T234500Z
+DTEND:20261101T001500Z
+SUMMARY:🥊 6. Nick Klein vs. Joseph Kropschot (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
  • Klein: 6-3-0 | 31yo | Freestyle\n• Kropschot: 1-0-0 | 31yo\n• Odds
@@ -828,21 +1139,394 @@ RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:ufc-fight-night-october-31-2026-fight-rodrigo-sezinando-theodor-berggre
+ n@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261031T231000Z
+DTEND:20261031T234000Z
+SUMMARY:🥊 5. Rodrigo Sezinando vs. Theodor Berggren (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Sezinando: 9-2-0 | 28yo | MMA\n• Berggren: 8-4-0 | 26yo | MMA\n• O
+ dds history: not checked yet\nEvent: UFC Fight Night: Moicano vs Nolan\nSo
+ urce: https://www.ufc.com/event/ufc-fight-night-october-31-2026\nMain cale
+ ndar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sc
+ heduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-31-2026-fight-farman-hasanov-jean-paul-lebosnoy
+ ani@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261031T224000Z
+DTEND:20261031T231000Z
+SUMMARY:🥊 4. Jean-Paul Lebosnoyani vs. Farman Hasanov (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Lebosnoyani: 11-2-0 | 27yo | Freestyle\n• Hasanov: 6-0-0 | 31yo | Wr
+ estler\n• Odds history: not checked yet\nEvent: UFC Fight Night: Moicano
+  vs Nolan\nSource: https://www.ufc.com/event/ufc-fight-night-october-31-20
+ 26\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEve
+ nt status: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-31-2026-fight-andre-petroski-azamat-bekoev@ufc-
+ detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261031T220500Z
+DTEND:20261031T223500Z
+SUMMARY:🥊 3. Azamat Bekoev vs. Andre Petroski (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
+ • Bekoev: 20-5-0 | 30yo | MMA\n• Petroski: 13-7-0 | 35yo | Freestyle\n
+ • Odds history: not checked yet\nEvent: UFC Fight Night: Moicano vs Nola
+ n\nSource: https://www.ufc.com/event/ufc-fight-night-october-31-2026\nMain
+  calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent statu
+ s: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-31-2026-fight-jeongyeong-lee-julian-erosa@ufc-d
+ etailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261031T213500Z
+DTEND:20261031T220500Z
+SUMMARY:🥊 2. Julian Erosa vs. JeongYeong Lee (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n
+ • Erosa: 31-14-0 | 37yo | Striker\n• Lee: 11-3-0 | 30yo | Brazilian Ji
+ u-Jitsu\n• Odds history: not checked yet\nEvent: UFC Fight Night: Moican
+ o vs Nolan\nSource: https://www.ufc.com/event/ufc-fight-night-october-31-2
+ 026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEv
+ ent status: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-31-2026-fight-francis-marshall-gaston-bolanos@u
+ fc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261031T210000Z
+DTEND:20261031T213000Z
+SUMMARY:🥊 1. Francis Marshall vs. Gaston Bolanos (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n
+ • Marshall: 10-3-0 | 27yo | Freestyle\n• Bolanos: 9-5-0 | 34yo | Strik
+ er\n• Odds history: not checked yet\nEvent: UFC Fight Night: Moicano vs 
+ Nolan\nSource: https://www.ufc.com/event/ufc-fight-night-october-31-2026\n
+ Main calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent s
+ tatus: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-fight-night-november-07-2026-fight-gabriel-bonfim-sean-brady@ufc-de
  tailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T162242Z
-SEQUENCE:2
-DTSTART:20261107T220000Z
-DTEND:20261107T223000Z
-SUMMARY:🥊 1. Gabriel Bonfim vs. Sean Brady (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Bonfim:
-  20-1-0 | 29yo | Striker\n• Brady: 19-2-0 | 33yo | Jiu-Jitsu\n• Odds h
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:3
+DTSTART:20261108T003500Z
+DTEND:20261108T010500Z
+SUMMARY:🥊 13. Gabriel Bonfim vs. Sean Brady (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Bonfim: 20-1-0 | 29yo | Striker\n• Brady: 19-2-0 | 33yo | Jiu-Jitsu\
+ n• Odds history: not checked yet\nEvent: UFC Fight Night: Bonfim vs Brad
+ y\nSource: https://www.ufc.com/event/ufc-fight-night-november-07-2026\nMai
+ n calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent stat
+ us: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-07-2026-fight-tatiana-suarez-virna-jandiroba@u
+ fc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261108T001500Z
+DTEND:20261108T004500Z
+SUMMARY:🥊 12. Tatiana Suarez vs. Virna Jandiroba (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 115lbs/52kg Women's Strawwei
+ ght\n• Suarez: 13-1-0 | 35yo | MMA\n• Jandiroba: 23-4-0 | 38yo | Jiu-J
+ itsu\n• Odds history: not checked yet\nEvent: UFC Fight Night: Bonfim vs
+  Brady\nSource: https://www.ufc.com/event/ufc-fight-night-november-07-2026
+ \nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent
+  status: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-07-2026-fight-mantas-kondratavicius-wes-schult
+ z@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261107T235000Z
+DTEND:20261108T002000Z
+SUMMARY:🥊 11. Mantas Kondratavičius vs. Wes Schultz (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
+ • Kondratavicius: 9-1-0 | 27yo | MMA\n• Schultz: 9-4-0 | 30yo | MMA\n
+ • Odds history: not checked yet\nEvent: UFC Fight Night: Bonfim vs Brady
+ \nSource: https://www.ufc.com/event/ufc-fight-night-november-07-2026\nMain
+  calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent statu
+ s: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-07-2026-fight-billy-elekana-lucas-fernando@ufc
+ -detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261107T233000Z
+DTEND:20261108T000000Z
+SUMMARY:🥊 10. Billy Elekana vs. Lucas Fernando (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 205lbs/93kg Light Heavyweigh
+ t\n• Elekana: 10-2-0 | 31yo | MMA\n• Fernando: 14-3-0 | 29yo | Striker
+ \n• Odds history: not checked yet\nEvent: UFC Fight Night: Bonfim vs Bra
+ dy\nSource: https://www.ufc.com/event/ufc-fight-night-november-07-2026\nMa
+ in calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent sta
+ tus: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-07-2026-fight-austin-bashi-lucas-brennan@ufc-d
+ etailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261107T230500Z
+DTEND:20261107T233500Z
+SUMMARY:🥊 9. Austin Bashi vs. Lucas Brennan (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n
+ • Bashi: 14-2-0 | 25yo | Jiu-Jitsu\n• Brennan: 11-3-0 | 26yo | Grapple
+ r\n• Odds history: not checked yet\nEvent: UFC Fight Night: Bonfim vs Br
+ ady\nSource: https://www.ufc.com/event/ufc-fight-night-november-07-2026\nM
+ ain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent st
+ atus: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-07-2026-fight-gabriella-fernandes-karine-silva
+ @ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261107T224000Z
+DTEND:20261107T231000Z
+SUMMARY:🥊 8. Karine Silva vs. Gabriella Fernandes (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 125lbs/57kg Women's Flyweigh
+ t\n• Silva: 19-7-0 | 32yo | Brazilian Jiu-Jitsu\n• Fernandes: 11-4-0 |
+  33yo | Striker\n• Odds history: not checked yet\nEvent: UFC Fight Night
+ : Bonfim vs Brady\nSource: https://www.ufc.com/event/ufc-fight-night-novem
+ ber-07-2026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc
+ .ics\nEvent status: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-07-2026-fight-nina-milosevic-priscila-cachoeir
+ a@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261107T222000Z
+DTEND:20261107T225000Z
+SUMMARY:🥊 7. Priscila Cachoeira vs. Nina Milošević (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 135lbs/61kg Women's Bantamwe
+ ight\n• Cachoeira: 13-9-0 | 38yo | Brawler\n• Milosevic: 9-1-0 | 30yo 
+ | Freestyle\n• Odds history: not checked yet\nEvent: UFC Fight Night: Bo
+ nfim vs Brady\nSource: https://www.ufc.com/event/ufc-fight-night-november-
+ 07-2026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics
+ \nEvent status: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-07-2026-fight-keiichiro-nakamura-ollie-schmid@
+ ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261107T215500Z
+DTEND:20261107T222500Z
+SUMMARY:🥊 6. Keiichiro Nakamura vs. Ollie Schmid (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n
+ • Nakamura: 8-1-0 | 27yo\n• Schmid: 4-3-0 | 25yo | Striker\n• Odds h
  istory: not checked yet\nEvent: UFC Fight Night: Bonfim vs Brady\nSource: 
  https://www.ufc.com/event/ufc-fight-night-november-07-2026\nMain calendar:
   https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedul
  ed
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-07-2026-fight-seokhyeon-ko-wellington-turman@u
+ fc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261107T213000Z
+DTEND:20261107T220000Z
+SUMMARY:🥊 5. Seokhyeon Ko vs. Wellington Turman (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Ko: 13-3-0 | 33yo | Judo\n• Turman: 18-8-0 | 30yo | Jiu-Jitsu\n• O
+ dds history: not checked yet\nEvent: UFC Fight Night: Bonfim vs Brady\nSou
+ rce: https://www.ufc.com/event/ufc-fight-night-november-07-2026\nMain cale
+ ndar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sc
+ heduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-07-2026-fight-jonny-parsons-jose-souza@ufc-det
+ ailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261107T211000Z
+DTEND:20261107T214000Z
+SUMMARY:🥊 4. Jonny Parsons vs. José Souza (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Parsons: 9-3-0 | 35yo | Muay Thai\n• Souza: 9-1-0 | 24yo | Jiu-Jitsu
+ \n• Odds history: not checked yet\nEvent: UFC Fight Night: Bonfim vs Bra
+ dy\nSource: https://www.ufc.com/event/ufc-fight-night-november-07-2026\nMa
+ in calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent sta
+ tus: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-07-2026-fight-davey-grant-elijah-smith@ufc-det
+ ailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261107T204500Z
+DTEND:20261107T211500Z
+SUMMARY:🥊 3. Davey Grant vs. Elijah Smith (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n
+ • Grant: 18-8-0 | 40yo | MMA\n• Smith: 10-1-0 | 24yo | Freestyle\n• 
+ Odds history: not checked yet\nEvent: UFC Fight Night: Bonfim vs Brady\nSo
+ urce: https://www.ufc.com/event/ufc-fight-night-november-07-2026\nMain cal
+ endar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: S
+ cheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-07-2026-fight-jose-delano-murtazali-magomedov@
+ ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261107T202500Z
+DTEND:20261107T205500Z
+SUMMARY:🥊 2. Jose Delano vs. Murtazali Magomedov (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n
+ • Delano: 17-3-0 | 30yo | Striker\n• Magomedov: 11-0-0 | 27yo | MMA\n
+ • Odds history: not checked yet\nEvent: UFC Fight Night: Bonfim vs Brady
+ \nSource: https://www.ufc.com/event/ufc-fight-night-november-07-2026\nMain
+  calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent statu
+ s: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-07-2026-fight-alvin-hines-gabriel-lorenco@ufc-
+ detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261107T200000Z
+DTEND:20261107T203000Z
+SUMMARY:🥊 1. Gabriel Lorenco vs. Alvin Hines (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n
+ • Lorenco: 1-0-0 | 27yo\n• Hines: 7-2-0 | 35yo | MMA\n• Odds history
+ : not checked yet\nEvent: UFC Fight Night: Bonfim vs Brady\nSource: https:
+ //www.ufc.com/event/ufc-fight-night-november-07-2026\nMain calendar: https
+ ://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1092,6 +1776,199 @@ LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card
 RELATED-TO:ufc-334-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-21-2026-fight-jiri-prochazka-navajo-stirling@u
+ fc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261121T204000Z
+DTEND:20261121T211000Z
+SUMMARY:🥊 9. Jiří Procházka vs. Navajo Stirling (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 205lbs/93kg Light Heavyweigh
+ t\n• Prochazka: 32-6-1 | 34yo | Karate\n• Stirling: 11-0-0 | 29yo | Ki
+ ckboxer\n• Odds history: not checked yet\nEvent: UFC Fight Night: Procha
+ zka vs Stirling\nSource: https://www.ufc.com/event/ufc-fight-night-novembe
+ r-21-2026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.i
+ cs\nEvent status: Rescheduled\; previously 21 Nov 2026
+LOCATION:ABHA Arena\, Doha\, Qatar
+URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-21-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-21-2026-fight-aljamain-sterling-kevin-vallejos
+ @ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261121T202000Z
+DTEND:20261121T205000Z
+SUMMARY:🥊 8. Aljamain Sterling vs. Kevin Vallejos (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n
+ • Sterling: 26-5-0 | 37yo | Kickboxer\n• Vallejos: 17-1-0 | 24yo | Str
+ iker\n• Odds history: not checked yet\nEvent: UFC Fight Night: Prochazka
+  vs Stirling\nSource: https://www.ufc.com/event/ufc-fight-night-november-2
+ 1-2026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\
+ nEvent status: Rescheduled\; previously 21 Nov 2026
+LOCATION:ABHA Arena\, Doha\, Qatar
+URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-21-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-21-2026-fight-brian-ortega-dan-hooker@ufc-deta
+ iled-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261121T200000Z
+DTEND:20261121T203000Z
+SUMMARY:🥊 7. Dan Hooker vs. Brian Ortega (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n•
+  Hooker: 24-15-0 | 36yo | MMA\n• Ortega: 16-5-0 | 35yo | Jiu-Jitsu\n• 
+ Odds history: not checked yet\nEvent: UFC Fight Night: Prochazka vs Stirli
+ ng\nSource: https://www.ufc.com/event/ufc-fight-night-november-21-2026\nMa
+ in calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent sta
+ tus: Rescheduled\; previously 21 Nov 2026
+LOCATION:ABHA Arena\, Doha\, Qatar
+URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-21-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-21-2026-fight-13192@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261121T194000Z
+DTEND:20261121T201000Z
+SUMMARY:🥊 6. Jared Cannonier vs. Ikram Aliskerov (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
+ • Cannonier: 18-10-0 | 42yo | Striker\n• Aliskerov: 18-2-0 | 33yo | Sa
+ mbo\n• Odds history: not checked yet\nEvent: UFC Fight Night: Prochazka 
+ vs Stirling\nSource: https://www.ufc.com/event/ufc-fight-night-november-21
+ -2026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\n
+ Event status: Rescheduled\; previously 21 Nov 2026
+LOCATION:ABHA Arena\, Doha\, Qatar
+URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-21-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-21-2026-fight-shamil-gaziev-tallison-teixeira@
+ ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261121T192000Z
+DTEND:20261121T195000Z
+SUMMARY:🥊 5. Shamil Gaziev vs. Tallison Teixeira (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n
+ • Gaziev: 15-3-0 | 36yo | MMA\n• Teixeira: 9-2-0 | 26yo | Striker\n•
+  Odds history: not checked yet\nEvent: UFC Fight Night: Prochazka vs Stirl
+ ing\nSource: https://www.ufc.com/event/ufc-fight-night-november-21-2026\nM
+ ain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent st
+ atus: Rescheduled\; previously 21 Nov 2026
+LOCATION:ABHA Arena\, Doha\, Qatar
+URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-21-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-21-2026-fight-13193@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261121T190000Z
+DTEND:20261121T193000Z
+SUMMARY:🥊 4. Jake Matthews vs. Tahir Abdullayev (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Matthews: 23-8-0 | 32yo | Freestyle\n• Abdullayev: 20-3-0 | 29yo\n
+ • Odds history: not checked yet\nEvent: UFC Fight Night: Prochazka vs St
+ irling\nSource: https://www.ufc.com/event/ufc-fight-night-november-21-2026
+ \nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent
+  status: Rescheduled\; previously 21 Nov 2026
+LOCATION:ABHA Arena\, Doha\, Qatar
+URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-21-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-21-2026-fight-13194@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261121T184000Z
+DTEND:20261121T191000Z
+SUMMARY:🥊 3. Aleksandre Topuria vs. Santiago Luna (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n
+ • Topuria: 7-1-0 | 30yo | Boxing\n• Luna: 8-1-0 | 22yo | MMA\n• Odds
+  history: not checked yet\nEvent: UFC Fight Night: Prochazka vs Stirling\n
+ Source: https://www.ufc.com/event/ufc-fight-night-november-21-2026\nMain c
+ alendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status:
+  Rescheduled\; previously 21 Nov 2026
+LOCATION:ABHA Arena\, Doha\, Qatar
+URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-21-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-21-2026-fight-13195@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261121T182000Z
+DTEND:20261121T185000Z
+SUMMARY:🥊 2. Asu Almabayev vs. Kyoji Horiguchi (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 125lbs/57kg Flyweight\n• A
+ lmabayev: 24-3-0 | 32yo | Jiu-Jitsu\n• Horiguchi: 36-6-0 | 36yo | MMA\n
+ • Odds history: not checked yet\nEvent: UFC Fight Night: Prochazka vs St
+ irling\nSource: https://www.ufc.com/event/ufc-fight-night-november-21-2026
+ \nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent
+  status: Rescheduled\; previously 21 Nov 2026
+LOCATION:ABHA Arena\, Doha\, Qatar
+URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-21-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-21-2026-fight-13196@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20261121T180000Z
+DTEND:20261121T183000Z
+SUMMARY:🥊 1. Amir Albazi vs. Alessandro Costa (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 125lbs/57kg Flyweight\n• A
+ lbazi: 17-3-0 | 33yo | Jiu-Jitsu\n• Costa: 17-5-0 | 30yo | Jiu-Jitsu\n
+ • Odds history: not checked yet\nEvent: UFC Fight Night: Prochazka vs St
+ irling\nSource: https://www.ufc.com/event/ufc-fight-night-november-21-2026
+ \nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent
+  status: Rescheduled\; previously 21 Nov 2026
+LOCATION:ABHA Arena\, Doha\, Qatar
+URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-21-2026-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR

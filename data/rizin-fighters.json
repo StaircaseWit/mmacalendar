@@ -1439,6 +1439,69 @@
       "record": "2-3-0",
       "style": "Grappler",
       "checkedAt": "2026-09-25T11:55:05.698Z"
+    },
+    "https://jp.rizinff.com/_tags/%E6%BF%B1%E7%94%B0%E5%B7%A7": {
+      "name": "Takumi Hamada",
+      "origin": "日本 千葉県",
+      "countryCode": "JP",
+      "birthDate": "1994-12-08",
+      "record": null,
+      "style": "Striker",
+      "checkedAt": "2026-09-30T12:40:52.896Z"
+    },
+    "https://jp.rizinff.com/_tags/%E8%B5%A4%E6%B2%A2%E5%B9%B8%E5%85%B8": {
+      "name": "Yukinori Akazawa",
+      "origin": "日本 北海道",
+      "countryCode": "JP",
+      "birthDate": "1992-01-30",
+      "record": null,
+      "style": "Grappler",
+      "checkedAt": "2026-09-30T12:40:52.896Z"
+    },
+    "https://jp.rizinff.com/_tags/%E9%96%A2%E5%8E%9F%E7%BF%94": {
+      "name": "Sho Sekihara",
+      "origin": "日本 埼玉県",
+      "countryCode": "JP",
+      "birthDate": "1993-09-03",
+      "record": "1-0-0",
+      "style": "All-rounder",
+      "checkedAt": "2026-09-30T12:40:52.896Z"
+    },
+    "https://jp.rizinff.com/_tags/%E9%AB%99%E6%A9%8B%E6%AD%A3%E8%A6%AA": {
+      "name": "Masachika Takahashi",
+      "origin": "日本 千葉県",
+      "countryCode": "JP",
+      "birthDate": "2005-04-23",
+      "record": null,
+      "style": "Grappler",
+      "checkedAt": "2026-09-30T12:40:52.896Z"
+    },
+    "https://jp.rizinff.com/_tags/%E4%BA%95%E4%B8%8A%E8%88%9C%E7%9F%A2": {
+      "name": "Shunya Inoue",
+      "origin": "日本 熊本県",
+      "countryCode": "JP",
+      "birthDate": "2006-06-21",
+      "record": null,
+      "style": "Striker",
+      "checkedAt": "2026-09-30T12:40:52.896Z"
+    },
+    "https://jp.rizinff.com/_tags/%E3%83%9E%E3%82%A4%E3%83%86%E3%82%A3%E3%83%BBsaw": {
+      "name": "Mighty saw",
+      "origin": "ミャンマー",
+      "countryCode": null,
+      "birthDate": "1999-02-17",
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-09-30T12:40:52.896Z"
+    },
+    "https://jp.rizinff.com/_tags/%E6%9D%BE%E6%9C%AC%E5%B0%9A%E5%A4%A7": {
+      "name": "Naohiro Matsumoto",
+      "origin": "日本 長野県",
+      "countryCode": "JP",
+      "birthDate": "1996-08-22",
+      "record": null,
+      "style": "Grappler",
+      "checkedAt": "2026-09-30T12:40:52.896Z"
     }
   }
 }

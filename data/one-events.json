@@ -5037,7 +5037,7 @@
     "end": "20260815T043128Z",
     "summary": "ONE Fight Night 46",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/onefightnight46\n\nStella Hemetsberger vs. Natalia Diachkova | Strawweight World Championship\n\nNico Carrillo vs. Zhou  Jiaqiang | Kickboxing | Featherweight\n\nJhanlo Mark Sangiao vs. Marcos  Aurelio  | Mixed Martial Arts | Bantamweight\n\nKana vs. Yu  Yau Pui | Kickboxing | Atomweight\n\nViet Anh Do vs. Davi Brandāo | Mixed Martial Arts | Flyweight\n\nRuan Alvarenga vs. Meyram Maquine | Submission Grappling | Featherweight\n\nNatalie Salcedo vs. Magdalena Czaban | Mixed Martial Arts | Atomweight\n\nDmitrii Kovtun vs. Denis Souza Jr | Kickboxing | Bantamweight\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/onefightnight46\n\nStella Hemetsberger vs. Natalia Diachkova | Strawweight World Championship\n\nNico Carrillo vs. Zhou  Jiaqiang | Kickboxing | Featherweight\n\nJhanlo Mark Sangiao vs. Marcos  Aurelio  | Mixed Martial Arts | Bantamweight\n\nKana vs. Yu Yau Pui | Kickboxing | Atomweight\n\nViet Anh Do vs. Davi Brandāo | Mixed Martial Arts | Flyweight\n\nRuan Alvarenga vs. Meyram Maquine | Submission Grappling | Featherweight\n\nNatalie Salcedo vs. Magdalena Czaban | Mixed Martial Arts | Atomweight\n\nDmitrii Kovtun vs. Denis Souza Jr | Kickboxing | Bantamweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/onefightnight46",
     "status": "CONFIRMED",
     "bouts": [
@@ -7783,7 +7783,7 @@
       {
         "redName": "Nongkhailek Dr.Knotmuaythai",
         "blueName": "Cal Cook",
-        "details": "Atomweight Muay Thai",
+        "details": "Flyweight Muay Thai",
         "redProfileUrl": "https://www.onefc.com/athletes/nongkhailek-dr-knotmuaythai/",
         "blueProfileUrl": "https://www.onefc.com/athletes/cal-cook/",
         "redCountry": "Thailand",
@@ -7817,7 +7817,7 @@
       {
         "redName": "Imran Satiev",
         "blueName": "Babar Ali",
-        "details": "Flyweight MMA",
+        "details": "Flyweight Mixed Martial Arts",
         "redProfileUrl": "https://www.onefc.com/athletes/imran-satiev/",
         "blueProfileUrl": "https://www.onefc.com/athletes/babar-ali/",
         "redCountry": "Qatar",
@@ -7851,7 +7851,7 @@
       {
         "redName": "Youssef Ramadan",
         "blueName": "Jongjun Park",
-        "details": "Bantamweight MMA",
+        "details": "Bantamweight Mixed Martial Arts",
         "redProfileUrl": "https://www.onefc.com/athletes/youssef-ramadan/",
         "blueProfileUrl": "https://www.onefc.com/athletes/jongjun-park/",
         "redCountry": "Egypt",
@@ -7883,7 +7883,7 @@
       {
         "redName": "Regian Eersel",
         "blueName": "George Jarvis",
-        "details": "Lightweight Muay Thai World Championship",
+        "details": "Lightweight World Championship",
         "redProfileUrl": "https://www.onefc.com/athletes/regian-eersel/",
         "blueProfileUrl": "https://www.onefc.com/athletes/george-jarvis/",
         "redCountry": "Suriname",
@@ -7963,7 +7963,9 @@
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "blueAge": 27,
+        "blueRecord": "1-0-0"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-173/"
@@ -7974,7 +7976,7 @@
     "end": "20261003T080000Z",
     "summary": "ONE Fight Night 48",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/onefightnight48\n\nShamil   Erdogan vs. Paul Elliott | Mixed Martial Arts | Heavyweight\n\nLuke Lessei vs. Charlie Guest | Muay Thai | Featherweight\n\nLee Seung Cheol vs. Karen Ghazaryan | Mixed Martial Arts | Strawweight\n\nNakrob Fairtex vs. Parham Gheirati | Muay Thai | Bantamweight\n\nJoshua Perreira vs. Antonio  Cesar | Mixed Martial Arts | Flyweight\n\nShoya Ishiguro vs. Ruan Alvarenga | Submission Grappling | Featherweight\n\nArian  Esparza vs. Sam Fitzgerald | Muay Thai | Featherweight\n\nYu  Yau Pui vs. Marie McManamon | Muay Thai | Atomweight\n\nYi Yuxuan vs. Elbrus Osmanov | Kickboxing | Bantamweight\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/onefightnight48\n\nShamil   Erdogan vs. Paul Elliott | Mixed Martial Arts | Heavyweight\n\nNakrob Fairtex vs. Parham Gheirati | Muay Thai | Bantamweight\n\nJoshua Perreira vs. Antonio  Cesar | Mixed Martial Arts | Flyweight\n\nLuke Lessei vs. Charlie Guest | Muay Thai | Featherweight\n\nYi Yuxuan vs. Elbrus Osmanov | Kickboxing | Bantamweight\n\nLee Seung Cheol vs. Karen Ghazaryan | Mixed Martial Arts | Strawweight\n\nShoya Ishiguro vs. Ruan Alvarenga | Submission Grappling | Featherweight\n\nYu Yau Pui vs. Marie McManamon | Muay Thai | Atomweight\n\nArian  Esparza vs. Sam Fitzgerald | Muay Thai | Featherweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/onefightnight48",
     "status": "CONFIRMED",
     "bouts": [
@@ -7995,40 +7997,6 @@
         "redOdds": null,
         "blueOdds": null,
         "oddsHistory": []
-      },
-      {
-        "redName": "Luke Lessei",
-        "blueName": "Charlie Guest",
-        "details": "Featherweight Muay Thai",
-        "redCountry": "United States",
-        "blueCountry": "England",
-        "redStyle": "Striker",
-        "blueStyle": "Striker",
-        "redProfileUrl": "https://www.onefc.com/athletes/luke-lessei/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/charlie-guest/",
-        "redAge": 30,
-        "blueAge": 30,
-        "redRecord": "3-3-0",
-        "blueRecord": "1-0-0",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
-      },
-      {
-        "redName": "Lee Seung Cheol",
-        "blueName": "Karen Ghazaryan",
-        "details": "Strawweight Mixed Martial Arts",
-        "redProfileUrl": "https://www.onefc.com/athletes/lee-seung-cheol/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/karen-ghazaryan/",
-        "redCountry": "South Korea",
-        "blueCountry": "Armenia",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": [],
-        "redAge": 27,
-        "redRecord": "6-0-0",
-        "blueAge": 25,
-        "blueRecord": "1-1-0"
       },
       {
         "redName": "Nakrob Fairtex",
@@ -8066,6 +8034,57 @@
         "blueRecord": "1-0-0"
       },
       {
+        "redName": "Luke Lessei",
+        "blueName": "Charlie Guest",
+        "details": "Featherweight Muay Thai",
+        "redCountry": "United States",
+        "blueCountry": "England",
+        "redStyle": "Striker",
+        "blueStyle": "Striker",
+        "redProfileUrl": "https://www.onefc.com/athletes/luke-lessei/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/charlie-guest/",
+        "redAge": 30,
+        "blueAge": 30,
+        "redRecord": "3-3-0",
+        "blueRecord": "1-0-0",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Yi Yuxuan",
+        "blueName": "Elbrus Osmanov",
+        "details": "Bantamweight Kickboxing",
+        "redProfileUrl": "https://www.onefc.com/athletes/yi-yuxuan/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/elbrus-osmanov/",
+        "redCountry": "China",
+        "blueCountry": "Russia",
+        "redStyle": "Striker",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": [],
+        "redAge": 25,
+        "blueAge": 25,
+        "blueRecord": "9-1-0"
+      },
+      {
+        "redName": "Lee Seung Cheol",
+        "blueName": "Karen Ghazaryan",
+        "details": "Strawweight Mixed Martial Arts",
+        "redProfileUrl": "https://www.onefc.com/athletes/lee-seung-cheol/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/karen-ghazaryan/",
+        "redCountry": "South Korea",
+        "blueCountry": "Armenia",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": [],
+        "redAge": 27,
+        "redRecord": "6-0-0",
+        "blueAge": 25,
+        "blueRecord": "1-1-0"
+      },
+      {
         "redName": "Shoya Ishiguro",
         "blueName": "Ruan Alvarenga",
         "details": "Featherweight Submission Grappling",
@@ -8082,24 +8101,6 @@
         "redRecord": "4-2-0",
         "blueAge": 28,
         "blueRecord": "1-0-0"
-      },
-      {
-        "redName": "Arian Esparza",
-        "blueName": "Sam Fitzgerald",
-        "details": "Featherweight Muay Thai",
-        "redProfileUrl": "https://www.onefc.com/athletes/arian-esparza/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/sam-fitzgerald/",
-        "redCountry": "United States",
-        "blueCountry": "New Zealand",
-        "redStyle": "Striker",
-        "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": [],
-        "redAge": 23,
-        "redRecord": "1-2-0",
-        "blueAge": 21,
-        "blueRecord": "0-1-0"
       },
       {
         "redName": "Yu Yau Pui",
@@ -8120,21 +8121,22 @@
         "blueRecord": "0-2-0"
       },
       {
-        "redName": "Yi Yuxuan",
-        "blueName": "Elbrus Osmanov",
-        "details": "Bantamweight Kickboxing",
-        "redProfileUrl": "https://www.onefc.com/athletes/yi-yuxuan/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/elbrus-osmanov/",
-        "redCountry": "China",
-        "blueCountry": "Russia",
+        "redName": "Arian Esparza",
+        "blueName": "Sam Fitzgerald",
+        "details": "Featherweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/arian-esparza/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/sam-fitzgerald/",
+        "redCountry": "United States",
+        "blueCountry": "New Zealand",
         "redStyle": "Striker",
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
         "oddsHistory": [],
-        "redAge": 25,
-        "blueAge": 25,
-        "blueRecord": "9-1-0"
+        "redAge": 23,
+        "redRecord": "1-2-0",
+        "blueAge": 21,
+        "blueRecord": "0-1-0"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/onefightnight48/"

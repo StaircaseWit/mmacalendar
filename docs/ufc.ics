@@ -3057,32 +3057,36 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-early-prelims@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260928T140147Z
-SEQUENCE:5
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:6
 DTSTART:20261003T200000Z
 DTEND:20261003T220000Z
 SUMMARY:Early Prelims – UFC 332: Silva vs Wang
-DESCRIPTION:UFC · Early Prelims · 4 bouts\n📍 Delta Center\, Salt Lake 
+DESCRIPTION:UFC · Early Prelims · 5 bouts\n📍 Delta Center\, Salt Lake 
  City\, United States\n🕒 21:00–23:00 Ireland\n\n----------------------
  ----------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊
-  4. 𝗝𝗼𝗵𝗻𝗻𝘆 𝗪𝗮𝗹𝗸𝗲𝗿 🇧🇷 vs. 𝗠
+  5. 𝗝𝗼𝗵𝗻𝗻𝘆 𝗪𝗮𝗹𝗸𝗲𝗿 🇧🇷 vs. 𝗠
  𝗶𝗰𝗸 𝗣𝗮𝗿𝗸𝗶𝗻 🇪🇳\n• 265lbs/120kg Heavyweig
  ht\n• Walker: 22-10-0 | 34yo | MMA | -132 (1.76)\n• Parkin: 10-1-0 | 3
  1yo | MMA | +125 (2.25)\n• Odds history:\n  ◦ 25 Sep: Walker 🟢 -150
   (1.67) | Parkin 🔴 +120 (2.20)\n  ◦ 28 Sep: Walker 🟢 -132 (1.76) |
-  Parkin 🔴 +125 (2.25)\n\n🥊 3. 𝗥𝗮𝗳𝗮𝗲𝗹 𝗗𝗼𝘀 
+  Parkin 🔴 +125 (2.25)\n\n🥊 4. 𝗥𝗮𝗳𝗮𝗲𝗹 𝗗𝗼𝘀 
  𝗔𝗻𝗷𝗼𝘀 🇧🇷 vs. 𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗲𝗿 
  𝗛𝗲𝗿𝗻𝗮𝗻𝗱𝗲𝘇 🇺🇸\n• 155lbs/70kg Lightweight
  \n• Dos Anjos: 32-17-0 | 41yo | Grappler | +228 (3.28)\n• Hernandez: 1
  8-9-0 | 34yo | MMA | -250 (1.40)\n• Odds history:\n  ◦ 25 Sep: Dos Anj
  os 🔴 +200 (3.00) | Hernandez 🟢 -250 (1.40)\n  ◦ 28 Sep: Dos Anjos 
- 🔴 +228 (3.28) | Hernandez 🟢 -250 (1.40)\n\n🥊 2. 𝗠𝗮𝗿𝘃
+ 🔴 +228 (3.28) | Hernandez 🟢 -250 (1.40)\n\n🥊 3. 𝗠𝗮𝗿𝘃
  𝗶𝗻 𝗩𝗲𝘁𝘁𝗼𝗿𝗶 🇮🇹 vs. 𝗜𝘀𝗺𝗮𝗶
  𝗹 𝗡𝗮𝘂𝗿𝗱𝗶𝗲𝘃 🇲🇦\n• 185lbs/84kg Middleweig
  ht\n• Vettori: 19-10-1 | 33yo | MMA | +120 (2.20)\n• Naurdiev: 25-8-0 
  | 30yo | Wrestling | -130 (1.77)\n• Odds history:\n  ◦ 25 Sep: Vettori
   🔴 +118 (2.18) | Naurdiev 🟢 -138 (1.72)\n  ◦ 28 Sep: Vettori 🔴 
- +120 (2.20) | Naurdiev 🟢 -130 (1.77)\n\n🥊 1. 𝗖𝗼𝘂𝗿𝘁 
+ +120 (2.20) | Naurdiev 🟢 -130 (1.77)\n\n🥊 2. 𝗝𝗮𝗰𝗼𝗯
+ 𝗲 𝗦𝗺𝗶𝘁𝗵 🇺🇸 vs. 𝗕𝗿𝘂𝗰𝗲 𝗪𝗵𝗶
+ 𝘁𝗲𝗵𝗲𝗮𝗱 🇺🇸\n• 170lbs/77kg Welterweight\n• Smith
+ : 12-0-0 | 30yo | Freestyle\n• Whitehead: record unavailable | age unava
+ ilable\n• Odds history: not checked yet\n\n🥊 1. 𝗖𝗼𝘂𝗿𝘁 
  𝗠𝗰𝗚𝗲𝗲 🇺🇸 vs. 𝗘𝗿𝗶𝗰 𝗡𝗼𝗹𝗮𝗻 
  🇺🇸\n• 170lbs/77kg Welterweight\n• McGee: 23-14-0 | 41yo | Freest
  yle | +200 (3.00)\n• Nolan: 8-5-0 | 29yo | -229 (1.44)\n• Odds history
@@ -3092,40 +3096,44 @@ DESCRIPTION:UFC · Early Prelims · 4 bouts\n📍 Delta Center\, Salt Lake
  ttps://www.bestfightodds.com/ · best available line · checked Monday and
   Friday\nFull odds log: https://staircasewit.github.io/mmacalendar/odds-hi
  story.html\nEvent status: Scheduled
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · 4 bouts
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · 5 bouts
  <br>📍 Delta Center\, Salt Lake City\, United States<br>🕒 21:00–23:
  00 Ireland</p><p>--------------------------------<br><strong>𝗕𝗢𝗨
- 𝗧𝗦</strong><br>--------------------------------</p><p><strong>🥊 4
+ 𝗧𝗦</strong><br>--------------------------------</p><p><strong>🥊 5
  . 𝗝𝗼𝗵𝗻𝗻𝘆 𝗪𝗮𝗹𝗸𝗲𝗿 🇧🇷 vs. 𝗠𝗶
  𝗰𝗸 𝗣𝗮𝗿𝗸𝗶𝗻 🇪🇳</strong><br>• 265lbs/120kg He
  avyweight<br>• Walker: 22-10-0 | 34yo | MMA | -132 (1.76)<br>• Parkin:
   10-1-0 | 31yo | MMA | +125 (2.25)<br>• Odds history:<br>◦ 25 Sep: Wal
  ker 🟢 -150 (1.67) | Parkin 🔴 +120 (2.20)<br>◦ 28 Sep: Walker 🟢 
- -132 (1.76) | Parkin 🔴 +125 (2.25)</p><p><strong>🥊 3. 𝗥𝗮𝗳
+ -132 (1.76) | Parkin 🔴 +125 (2.25)</p><p><strong>🥊 4. 𝗥𝗮𝗳
  𝗮𝗲𝗹 𝗗𝗼𝘀 𝗔𝗻𝗷𝗼𝘀 🇧🇷 vs. 𝗔𝗹𝗲
  𝘅𝗮𝗻𝗱𝗲𝗿 𝗛𝗲𝗿𝗻𝗮𝗻𝗱𝗲𝘇 🇺🇸</st
  rong><br>• 155lbs/70kg Lightweight<br>• Dos Anjos: 32-17-0 | 41yo | Gr
  appler | +228 (3.28)<br>• Hernandez: 18-9-0 | 34yo | MMA | -250 (1.40)<b
  r>• Odds history:<br>◦ 25 Sep: Dos Anjos 🔴 +200 (3.00) | Hernandez 
  🟢 -250 (1.40)<br>◦ 28 Sep: Dos Anjos 🔴 +228 (3.28) | Hernandez 
- 🟢 -250 (1.40)</p><p><strong>🥊 2. 𝗠𝗮𝗿𝘃𝗶𝗻 𝗩𝗲
+ 🟢 -250 (1.40)</p><p><strong>🥊 3. 𝗠𝗮𝗿𝘃𝗶𝗻 𝗩𝗲
  𝘁𝘁𝗼𝗿𝗶 🇮🇹 vs. 𝗜𝘀𝗺𝗮𝗶𝗹 𝗡𝗮𝘂
  𝗿𝗱𝗶𝗲𝘃 🇲🇦</strong><br>• 185lbs/84kg Middleweight<br>
  • Vettori: 19-10-1 | 33yo | MMA | +120 (2.20)<br>• Naurdiev: 25-8-0 | 
  30yo | Wrestling | -130 (1.77)<br>• Odds history:<br>◦ 25 Sep: Vettori
   🔴 +118 (2.18) | Naurdiev 🟢 -138 (1.72)<br>◦ 28 Sep: Vettori 🔴 
- +120 (2.20) | Naurdiev 🟢 -130 (1.77)</p><p><strong>🥊 1. 𝗖𝗼𝘂
- 𝗿𝘁 𝗠𝗰𝗚𝗲𝗲 🇺🇸 vs. 𝗘𝗿𝗶𝗰 𝗡𝗼𝗹
- 𝗮𝗻 🇺🇸</strong><br>• 170lbs/77kg Welterweight<br>• McGee: 2
- 3-14-0 | 41yo | Freestyle | +200 (3.00)<br>• Nolan: 8-5-0 | 29yo | -229 
- (1.44)<br>• Odds history:<br>◦ 25 Sep: McGee 🔴 +200 (3.00) | Nolan 
- 🟢 -275 (1.36)<br>◦ 28 Sep: McGee 🔴 +200 (3.00) | Nolan 🟢 -229 (
- 1.44)</p><p>--------------------------------<br>Source: <a href="https://w
- ww.ufc.com/event/ufc-332">UFC.com</a><br>Odds source: <a href="https://www
- .bestfightodds.com/">BestFightOdds</a> · best available line · checked M
- onday and Friday<br>Full odds log: <a href="https://staircasewit.github.io
- /mmacalendar/odds-history.html">view history</a><br>Event status: Schedule
- d</p></body></html>
+ +120 (2.20) | Naurdiev 🟢 -130 (1.77)</p><p><strong>🥊 2. 𝗝𝗮𝗰
+ 𝗼𝗯𝗲 𝗦𝗺𝗶𝘁𝗵 🇺🇸 vs. 𝗕𝗿𝘂𝗰𝗲 𝗪
+ 𝗵𝗶𝘁𝗲𝗵𝗲𝗮𝗱 🇺🇸</strong><br>• 170lbs/77kg Welt
+ erweight<br>• Smith: 12-0-0 | 30yo | Freestyle<br>• Whitehead: record 
+ unavailable | age unavailable<br>• Odds history: not checked yet</p><p><
+ strong>🥊 1. 𝗖𝗼𝘂𝗿𝘁 𝗠𝗰𝗚𝗲𝗲 🇺🇸 vs. 𝗘
+ 𝗿𝗶𝗰 𝗡𝗼𝗹𝗮𝗻 🇺🇸</strong><br>• 170lbs/77kg Wel
+ terweight<br>• McGee: 23-14-0 | 41yo | Freestyle | +200 (3.00)<br>• No
+ lan: 8-5-0 | 29yo | -229 (1.44)<br>• Odds history:<br>◦ 25 Sep: McGee 
+ 🔴 +200 (3.00) | Nolan 🟢 -275 (1.36)<br>◦ 28 Sep: McGee 🔴 +200 (
+ 3.00) | Nolan 🟢 -229 (1.44)</p><p>--------------------------------<br>S
+ ource: <a href="https://www.ufc.com/event/ufc-332">UFC.com</a><br>Odds sou
+ rce: <a href="https://www.bestfightodds.com/">BestFightOdds</a> · best av
+ ailable line · checked Monday and Friday<br>Full odds log: <a href="https
+ ://staircasewit.github.io/mmacalendar/odds-history.html">view history</a><
+ br>Event status: Scheduled</p></body></html>
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Early Prelims
@@ -3134,8 +3142,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-prelims@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260928T140147Z
-SEQUENCE:6
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:7
 DTSTART:20261003T220000Z
 DTEND:20261004T000000Z
 SUMMARY:Prelims – UFC 332: Silva vs Wang
@@ -3160,13 +3168,14 @@ DESCRIPTION:UFC · Prelims · 4 bouts\n📍 Delta Center\, Salt Lake City\,
   Odds history:\n  ◦ 25 Sep: McGhee 🟢 -150 (1.67) | Sopaj 🔴 +110 (2
  .10)\n  ◦ 28 Sep: McGhee 🟢 -149 (1.67) | Sopaj 🔴 +130 (2.30)\n\n
  🥊 1. 𝗔𝗻𝘁𝗵𝗼𝗻𝘆 𝗪𝗶𝗻𝘁 🇺🇸 vs. 𝗟
- 𝘂𝗰𝗮𝘀 𝗔𝗿𝗺𝗮𝗻𝗱\n• 265lbs/120kg Heavyweight\n
- • Wint: 8-0-0 | 31yo | -350 (1.29)\n• Armand: 0-0-0 | 30yo | +280 (3.8
- 0)\n• Odds history:\n  ◦ 28 Sep: Wint 🟢 -350 (1.29) | Armand 🔴 +
- 280 (3.80)\n\n--------------------------------\nSource: https://www.ufc.co
- m/event/ufc-332\nOdds source: https://www.bestfightodds.com/ · best avail
- able line · checked Monday and Friday\nFull odds log: https://staircasewi
- t.github.io/mmacalendar/odds-history.html\nEvent status: Scheduled
+ 𝘂𝗰𝗮𝘀 𝗔𝗿𝗺𝗮𝗻𝗱 🇺🇸\n• 265lbs/120kg Heavy
+ weight\n• Wint: 8-0-0 | 31yo | -350 (1.29)\n• Armand: 6-0-0 | 30yo | F
+ reestyle | +280 (3.80)\n• Odds history:\n  ◦ 28 Sep: Wint 🟢 -350 (1
+ .29) | Armand 🔴 +280 (3.80)\n\n--------------------------------\nSource
+ : https://www.ufc.com/event/ufc-332\nOdds source: https://www.bestfightodd
+ s.com/ · best available line · checked Monday and Friday\nFull odds log:
+  https://staircasewit.github.io/mmacalendar/odds-history.html\nEvent statu
+ s: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 4 bouts<br>
  📍 Delta Center\, Salt Lake City\, United States<br>🕒 23:00–Sun 01:
  00 Ireland</p><p>--------------------------------<br><strong>𝗕𝗢𝗨
@@ -3190,15 +3199,15 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 4 bouts<br>
   Odds history:<br>◦ 25 Sep: McGhee 🟢 -150 (1.67) | Sopaj 🔴 +110 (2
  .10)<br>◦ 28 Sep: McGhee 🟢 -149 (1.67) | Sopaj 🔴 +130 (2.30)</p><p
  ><strong>🥊 1. 𝗔𝗻𝘁𝗵𝗼𝗻𝘆 𝗪𝗶𝗻𝘁 🇺🇸 vs
- . 𝗟𝘂𝗰𝗮𝘀 𝗔𝗿𝗺𝗮𝗻𝗱</strong><br>• 265lbs/120
- kg Heavyweight<br>• Wint: 8-0-0 | 31yo | -350 (1.29)<br>• Armand: 0-0-
- 0 | 30yo | +280 (3.80)<br>• Odds history:<br>◦ 28 Sep: Wint 🟢 -350 
- (1.29) | Armand 🔴 +280 (3.80)</p><p>--------------------------------<br
- >Source: <a href="https://www.ufc.com/event/ufc-332">UFC.com</a><br>Odds s
- ource: <a href="https://www.bestfightodds.com/">BestFightOdds</a> · best 
- available line · checked Monday and Friday<br>Full odds log: <a href="htt
- ps://staircasewit.github.io/mmacalendar/odds-history.html">view history</a
- ><br>Event status: Scheduled</p></body></html>
+ . 𝗟𝘂𝗰𝗮𝘀 𝗔𝗿𝗺𝗮𝗻𝗱 🇺🇸</strong><br>• 2
+ 65lbs/120kg Heavyweight<br>• Wint: 8-0-0 | 31yo | -350 (1.29)<br>• Arm
+ and: 6-0-0 | 30yo | Freestyle | +280 (3.80)<br>• Odds history:<br>◦ 28
+  Sep: Wint 🟢 -350 (1.29) | Armand 🔴 +280 (3.80)</p><p>--------------
+ ------------------<br>Source: <a href="https://www.ufc.com/event/ufc-332">
+ UFC.com</a><br>Odds source: <a href="https://www.bestfightodds.com/">BestF
+ ightOdds</a> · best available line · checked Monday and Friday<br>Full o
+ dds log: <a href="https://staircasewit.github.io/mmacalendar/odds-history.
+ html">view history</a><br>Event status: Scheduled</p></body></html>
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Prelims
@@ -3207,8 +3216,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-332-main-card@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260928T140147Z
-SEQUENCE:7
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:8
 DTSTART:20261004T000000Z
 DTEND:20261004T030000Z
 SUMMARY:Main Card – UFC 332: Silva vs Wang
@@ -3236,21 +3245,21 @@ DESCRIPTION:UFC · Main Card · 5 bouts\n📍 Delta Center\, Salt Lake City
   | Striker | -240 (1.42)\n• Odds history:\n  ◦ 25 Sep: Green 🔴 +250
   (3.50) | Ribovics 🟢 -264 (1.38)\n  ◦ 28 Sep: Green 🔴 +210 (3.10) 
  | Ribovics 🟢 -240 (1.42)\n\n🥊 2. 𝗥𝗼𝗯𝗲𝗿𝘁𝗼 𝗦
- 𝗼𝗹𝗱𝗶𝗰 🇭🇷 vs. 𝗞𝗵𝗮𝗼𝘀 𝗪𝗶𝗹𝗹
- 𝗶𝗮𝗺𝘀 🇺🇸\n• 170lbs/77kg Welterweight\n• Soldic: 0-0-0
-  | 31yo | -291 (1.34)\n• Williams: 16-5-0 | 32yo | MMA | +250 (3.50)\n
- • Odds history:\n  ◦ 25 Sep: Soldic 🟢 -300 (1.33) | Williams 🔴 +
- 252 (3.52)\n  ◦ 28 Sep: Soldic 🟢 -291 (1.34) | Williams 🔴 +250 (3.
- 50)\n\n🥊 1. 𝗔𝘁𝗲𝗯𝗮 𝗚𝗮𝘂𝘁𝗶𝗲𝗿 🇨🇲 
- vs. 𝗥𝗼𝗺𝗮𝗻 𝗞𝗼𝗽𝘆𝗹𝗼𝘃 🇷🇺\n• 185lbs
- /84kg Middleweight\n• Gautier: 11-1-0 | 24yo | Striker | -200 (1.50)\n
- • Kopylov: 15-5-0 | 34yo | +181 (2.81)\n• Odds history:\n  ◦ 25 Sep:
-  Gautier 🟢 -200 (1.50) | Kopylov 🔴 +163 (2.63)\n  ◦ 28 Sep: Gautie
- r 🟢 -200 (1.50) | Kopylov 🔴 +181 (2.81)\n\n-------------------------
- -------\nSource: https://www.ufc.com/event/ufc-332\nOdds source: https://w
- ww.bestfightodds.com/ · best available line · checked Monday and Friday\
- nFull odds log: https://staircasewit.github.io/mmacalendar/odds-history.ht
- ml\nEvent status: Scheduled
+ 𝗼𝗹𝗱𝗶ć 🇭🇷 vs. 𝗞𝗵𝗮𝗼𝘀 𝗪𝗶𝗹𝗹𝗶
+ 𝗮𝗺𝘀 🇺🇸\n• 170lbs/77kg Welterweight\n• Soldic: 0-0-0 | 3
+ 1yo | -291 (1.34)\n• Williams: 16-5-0 | 32yo | MMA | +250 (3.50)\n• Od
+ ds history:\n  ◦ 25 Sep: Soldic 🟢 -300 (1.33) | Williams 🔴 +252 (3
+ .52)\n  ◦ 28 Sep: Soldic 🟢 -291 (1.34) | Williams 🔴 +250 (3.50)\n\
+ n🥊 1. 𝗔𝘁𝗲𝗯𝗮 𝗚𝗮𝘂𝘁𝗶𝗲𝗿 🇨🇲 vs. 
+ 𝗥𝗼𝗺𝗮𝗻 𝗞𝗼𝗽𝘆𝗹𝗼𝘃 🇷🇺\n• 185lbs/84k
+ g Middleweight\n• Gautier: 11-1-0 | 24yo | Striker | -200 (1.50)\n• Ko
+ pylov: 15-5-0 | 34yo | +181 (2.81)\n• Odds history:\n  ◦ 25 Sep: Gauti
+ er 🟢 -200 (1.50) | Kopylov 🔴 +163 (2.63)\n  ◦ 28 Sep: Gautier 🟢
+  -200 (1.50) | Kopylov 🔴 +181 (2.81)\n\n-------------------------------
+ -\nSource: https://www.ufc.com/event/ufc-332\nOdds source: https://www.bes
+ tfightodds.com/ · best available line · checked Monday and Friday\nFull 
+ odds log: https://staircasewit.github.io/mmacalendar/odds-history.html\nEv
+ ent status: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  📍 Delta Center\, Salt Lake City\, United States<br>🕒 01:00–04:00 I
  reland</p><p>--------------------------------<br><strong>𝗕𝗢𝗨𝗧
@@ -3277,23 +3286,23 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  Striker | -240 (1.42)<br>• Odds history:<br>◦ 25 Sep: Green 🔴 +250 
  (3.50) | Ribovics 🟢 -264 (1.38)<br>◦ 28 Sep: Green 🔴 +210 (3.10) |
   Ribovics 🟢 -240 (1.42)</p><p><strong>🥊 2. 𝗥𝗼𝗯𝗲𝗿𝘁
- 𝗼 𝗦𝗼𝗹𝗱𝗶𝗰 🇭🇷 vs. 𝗞𝗵𝗮𝗼𝘀 𝗪𝗶
- 𝗹𝗹𝗶𝗮𝗺𝘀 🇺🇸</strong><br>• 170lbs/77kg Welterweight
- <br>• Soldic: 0-0-0 | 31yo | -291 (1.34)<br>• Williams: 16-5-0 | 32yo 
- | MMA | +250 (3.50)<br>• Odds history:<br>◦ 25 Sep: Soldic 🟢 -300 (
- 1.33) | Williams 🔴 +252 (3.52)<br>◦ 28 Sep: Soldic 🟢 -291 (1.34) |
-  Williams 🔴 +250 (3.50)</p><p><strong>🥊 1. 𝗔𝘁𝗲𝗯𝗮 𝗚
- 𝗮𝘂𝘁𝗶𝗲𝗿 🇨🇲 vs. 𝗥𝗼𝗺𝗮𝗻 𝗞𝗼𝗽
- 𝘆𝗹𝗼𝘃 🇷🇺</strong><br>• 185lbs/84kg Middleweight<br>• 
- Gautier: 11-1-0 | 24yo | Striker | -200 (1.50)<br>• Kopylov: 15-5-0 | 34
- yo | +181 (2.81)<br>• Odds history:<br>◦ 25 Sep: Gautier 🟢 -200 (1.
- 50) | Kopylov 🔴 +163 (2.63)<br>◦ 28 Sep: Gautier 🟢 -200 (1.50) | K
- opylov 🔴 +181 (2.81)</p><p>--------------------------------<br>Source: 
- <a href="https://www.ufc.com/event/ufc-332">UFC.com</a><br>Odds source: <a
-  href="https://www.bestfightodds.com/">BestFightOdds</a> · best available
-  line · checked Monday and Friday<br>Full odds log: <a href="https://stai
- rcasewit.github.io/mmacalendar/odds-history.html">view history</a><br>Even
- t status: Scheduled</p></body></html>
+ 𝗼 𝗦𝗼𝗹𝗱𝗶ć 🇭🇷 vs. 𝗞𝗵𝗮𝗼𝘀 𝗪𝗶𝗹
+ 𝗹𝗶𝗮𝗺𝘀 🇺🇸</strong><br>• 170lbs/77kg Welterweight<br>
+ • Soldic: 0-0-0 | 31yo | -291 (1.34)<br>• Williams: 16-5-0 | 32yo | MM
+ A | +250 (3.50)<br>• Odds history:<br>◦ 25 Sep: Soldic 🟢 -300 (1.33
+ ) | Williams 🔴 +252 (3.52)<br>◦ 28 Sep: Soldic 🟢 -291 (1.34) | Wil
+ liams 🔴 +250 (3.50)</p><p><strong>🥊 1. 𝗔𝘁𝗲𝗯𝗮 𝗚𝗮
+ 𝘂𝘁𝗶𝗲𝗿 🇨🇲 vs. 𝗥𝗼𝗺𝗮𝗻 𝗞𝗼𝗽𝘆
+ 𝗹𝗼𝘃 🇷🇺</strong><br>• 185lbs/84kg Middleweight<br>• Gaut
+ ier: 11-1-0 | 24yo | Striker | -200 (1.50)<br>• Kopylov: 15-5-0 | 34yo |
+  +181 (2.81)<br>• Odds history:<br>◦ 25 Sep: Gautier 🟢 -200 (1.50) 
+ | Kopylov 🔴 +163 (2.63)<br>◦ 28 Sep: Gautier 🟢 -200 (1.50) | Kopyl
+ ov 🔴 +181 (2.81)</p><p>--------------------------------<br>Source: <a h
+ ref="https://www.ufc.com/event/ufc-332">UFC.com</a><br>Odds source: <a hre
+ f="https://www.bestfightodds.com/">BestFightOdds</a> · best available lin
+ e · checked Monday and Friday<br>Full odds log: <a href="https://staircas
+ ewit.github.io/mmacalendar/odds-history.html">view history</a><br>Event st
+ atus: Scheduled</p></body></html>
 LOCATION:Delta Center\, Salt Lake City\, United States
 URL:https://www.ufc.com/event/ufc-332
 CATEGORIES:UFC,Main Card
@@ -3302,62 +3311,148 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-10-2026-prelims@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T162242Z
-SEQUENCE:2
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:3
 DTSTART:20261010T210000Z
 DTEND:20261011T000000Z
 SUMMARY:Prelims – UFC Fight Night: Allen vs Duncan
-DESCRIPTION:UFC · Prelims · fight card TBD\n📍 Meta APEX\, Las Vegas\, 
- United States\n🕒 22:00–Sun 01:00 Ireland\nThis provisional entry upda
- tes automatically as UFC finalises the card.\n\n--------------------------
- ------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\nNo bouts
-  announced yet.\n\n--------------------------------\nSource: https://www.u
- fc.com/event/ufc-fight-night-october-10-2026\nFull odds log: https://stair
- casewit.github.io/mmacalendar/odds-history.html\nEvent status: Scheduled
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · fight card TB
- D<br>📍 Meta APEX\, Las Vegas\, United States<br>🕒 22:00–Sun 01:00 
- Ireland<br>This provisional entry updates automatically as UFC finalises t
- he card.</p><p>--------------------------------<br><strong>𝗕𝗢𝗨
- 𝗧𝗦</strong><br>--------------------------------</p><p>No bouts annou
- nced yet.</p><p>--------------------------------<br>Source: <a href="https
- ://www.ufc.com/event/ufc-fight-night-october-10-2026">UFC.com</a><br>Full 
- odds log: <a href="https://staircasewit.github.io/mmacalendar/odds-history
- .html">view history</a><br>Event status: Scheduled</p></body></html>
+DESCRIPTION:UFC · Prelims · 6 bouts\n📍 Meta APEX\, Las Vegas\, United 
+ States\n🕒 22:00–Sun 01:00 Ireland\n\n--------------------------------
+ \n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 6. 𝗙
+ 𝗿𝗮𝗻𝗰𝗶𝘀𝗰𝗼 𝗣𝗿𝗮𝗱𝗼 🇦🇷 vs. 𝗜
+ 𝘀𝗺𝗮𝗲𝗹 𝗕𝗼𝗻𝗳𝗶𝗺 🇧🇷\n• 155lbs/70kg Li
+ ghtweight\n• Prado: 12-5-0 | 24yo\n• Bonfim: 20-7-0 | 30yo | Boxer\n
+ • Odds history: not checked yet\n\n🥊 5. 𝗡𝗶𝗸𝗼 𝗣𝗿𝗶
+ 𝗰𝗲 🇺🇸 vs. 𝗟𝗲𝗼𝗻 𝗦𝗵𝗮𝗵𝗯𝗮𝘇𝘆
+ 𝗮𝗻 🇦🇲\n• 170lbs/77kg Welterweight\n• Price: 16-11-0 | 37yo
+  | Freestyle\n• Shahbazyan: 12-5-0 | 30yo | Striker\n• Odds history: n
+ ot checked yet\n\n🥊 4. 𝗙𝗲𝗹𝗶𝗽𝗲 𝗙𝗿𝗮𝗻𝗰
+ 𝗼 🇧🇷 vs. 𝗕𝗿𝗲𝗻𝗱𝘀𝗼𝗻 𝗥𝗶𝗯𝗲𝗶
+ 𝗿𝗼 🇧🇷\n• 205lbs/93kg Light Heavyweight\n• Franco: 11-2-0 |
+  25yo | MMA\n• Ribeiro: 17-11-0 | 30yo | Striker\n• Odds history: not 
+ checked yet\n\n🥊 3. 𝗔𝗹𝗹𝗲𝗻 𝗙𝗿𝘆𝗲 𝗝𝗿. 
+ 🇺🇸 vs. 𝗥𝗝 𝗛𝗮𝗿𝗿𝗶𝘀 🇺🇸\n• 265lbs/120kg 
+ Heavyweight\n• Frye Jr.: 6-1-0 | 28yo\n• Harris: 6-0-0 | 28yo | Wrestl
+ ing\n• Odds history: not checked yet\n\n🥊 2. 𝗔𝗹𝗶𝗰𝗲 
+ 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 🇧🇷 vs. 𝗗𝗮𝗿𝗶𝗮 𝗭𝗵
+ 𝗲𝗹𝗲𝘇𝗻𝗶𝗮𝗸𝗼𝘃𝗮 🇷🇺\n• 135lbs/61kg Wom
+ en's Bantamweight\n• Pereira: 7-1-0 | 20yo | Striker\n• Zhelezniakova:
+  10-3-0 | 30yo | Striker\n• Odds history: not checked yet\n\n🥊 1. 
+ 𝗘𝗿𝗻𝗲𝘀𝘁𝗮 𝗞𝗮𝗿𝗲𝗰𝗸𝗮𝗶𝘁ė 🇱
+ 🇹 vs. 𝗠𝗲𝗹𝗶𝘀𝘀𝗮 𝗚𝗮𝘁𝘁𝗼 🇧🇷\n• 1
+ 25lbs/57kg Women's Flyweight\n• Kareckaite: 6-2-1 | 28yo | MMA\n• Gatt
+ o: 9-3-2 | 30yo | Jiu-Jitsu\n• Odds history: not checked yet\n\n--------
+ ------------------------\nSource: https://www.ufc.com/event/ufc-fight-nigh
+ t-october-10-2026\nFull odds log: https://staircasewit.github.io/mmacalend
+ ar/odds-history.html\nEvent status: Scheduled
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 6 bouts<br>
+ 📍 Meta APEX\, Las Vegas\, United States<br>🕒 22:00–Sun 01:00 Irela
+ nd</p><p>--------------------------------<br><strong>𝗕𝗢𝗨𝗧𝗦<
+ /strong><br>--------------------------------</p><p><strong>🥊 6. 𝗙
+ 𝗿𝗮𝗻𝗰𝗶𝘀𝗰𝗼 𝗣𝗿𝗮𝗱𝗼 🇦🇷 vs. 𝗜
+ 𝘀𝗺𝗮𝗲𝗹 𝗕𝗼𝗻𝗳𝗶𝗺 🇧🇷</strong><br>• 155
+ lbs/70kg Lightweight<br>• Prado: 12-5-0 | 24yo<br>• Bonfim: 20-7-0 | 3
+ 0yo | Boxer<br>• Odds history: not checked yet</p><p><strong>🥊 5. 
+ 𝗡𝗶𝗸𝗼 𝗣𝗿𝗶𝗰𝗲 🇺🇸 vs. 𝗟𝗲𝗼𝗻 𝗦
+ 𝗵𝗮𝗵𝗯𝗮𝘇𝘆𝗮𝗻 🇦🇲</strong><br>• 170lbs/77kg 
+ Welterweight<br>• Price: 16-11-0 | 37yo | Freestyle<br>• Shahbazyan: 1
+ 2-5-0 | 30yo | Striker<br>• Odds history: not checked yet</p><p><strong>
+ 🥊 4. 𝗙𝗲𝗹𝗶𝗽𝗲 𝗙𝗿𝗮𝗻𝗰𝗼 🇧🇷 vs. 
+ 𝗕𝗿𝗲𝗻𝗱𝘀𝗼𝗻 𝗥𝗶𝗯𝗲𝗶𝗿𝗼 🇧🇷</st
+ rong><br>• 205lbs/93kg Light Heavyweight<br>• Franco: 11-2-0 | 25yo | 
+ MMA<br>• Ribeiro: 17-11-0 | 30yo | Striker<br>• Odds history: not chec
+ ked yet</p><p><strong>🥊 3. 𝗔𝗹𝗹𝗲𝗻 𝗙𝗿𝘆𝗲 𝗝
+ 𝗿. 🇺🇸 vs. 𝗥𝗝 𝗛𝗮𝗿𝗿𝗶𝘀 🇺🇸</strong><br>
+ • 265lbs/120kg Heavyweight<br>• Frye Jr.: 6-1-0 | 28yo<br>• Harris: 
+ 6-0-0 | 28yo | Wrestling<br>• Odds history: not checked yet</p><p><stron
+ g>🥊 2. 𝗔𝗹𝗶𝗰𝗲 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 🇧🇷 vs. 
+ 𝗗𝗮𝗿𝗶𝗮 𝗭𝗵𝗲𝗹𝗲𝘇𝗻𝗶𝗮𝗸𝗼𝘃𝗮 
+ 🇷🇺</strong><br>• 135lbs/61kg Women&#39\;s Bantamweight<br>• Pere
+ ira: 7-1-0 | 20yo | Striker<br>• Zhelezniakova: 10-3-0 | 30yo | Striker<
+ br>• Odds history: not checked yet</p><p><strong>🥊 1. 𝗘𝗿𝗻
+ 𝗲𝘀𝘁𝗮 𝗞𝗮𝗿𝗲𝗰𝗸𝗮𝗶𝘁ė 🇱🇹 vs. 𝗠
+ 𝗲𝗹𝗶𝘀𝘀𝗮 𝗚𝗮𝘁𝘁𝗼 🇧🇷</strong><br>• 125
+ lbs/57kg Women&#39\;s Flyweight<br>• Kareckaite: 6-2-1 | 28yo | MMA<br>
+ • Gatto: 9-3-2 | 30yo | Jiu-Jitsu<br>• Odds history: not checked yet</
+ p><p>--------------------------------<br>Source: <a href="https://www.ufc.
+ com/event/ufc-fight-night-october-10-2026">UFC.com</a><br>Full odds log: <
+ a href="https://staircasewit.github.io/mmacalendar/odds-history.html">view
+  history</a><br>Event status: Scheduled</p></body></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
 CATEGORIES:UFC,Prelims
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-10-2026-main-card@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260923T114256Z
-SEQUENCE:3
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:4
 DTSTART:20261011T000000Z
 DTEND:20261011T030000Z
 SUMMARY:Main Card – UFC Fight Night: Allen vs Duncan
-DESCRIPTION:UFC · Main Card · 1 bout\n📍 Meta APEX\, Las Vegas\, United
-  States\n🕒 01:00–04:00 Ireland\n\n--------------------------------\n
- 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 1. 𝗕𝗿
+DESCRIPTION:UFC · Main Card · 6 bouts\n📍 Meta APEX\, Las Vegas\, Unite
+ d States\n🕒 01:00–04:00 Ireland\n\n--------------------------------\n
+ 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 6. 𝗕𝗿
  𝗲𝗻𝗱𝗮𝗻 𝗔𝗹𝗹𝗲𝗻 (#4) 🇧🇷 vs. 𝗖𝗵𝗿
  𝗶𝘀𝘁𝗶𝗮𝗻 𝗟𝗲𝗿𝗼𝘆 𝗗𝘂𝗻𝗰𝗮𝗻 (#1
  0) 🇪🇳\n• 185lbs/84kg Middleweight\n• Allen: 27-7-0 | 30yo | MMA\
- n• Duncan: 15-2-0 | 31yo | MMA\n• Odds history: not checked yet\n\n---
- -----------------------------\nSource: https://www.ufc.com/event/ufc-fight
- -night-october-10-2026\nFull odds log: https://staircasewit.github.io/mmac
- alendar/odds-history.html\nEvent status: Scheduled
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 1 bout<br>
+ n• Duncan: 15-2-0 | 31yo | MMA\n• Odds history: not checked yet\n\n
+ 🥊 5. 𝗠𝗮𝘁𝗵𝗲𝘂𝘀 𝗖𝗮𝗺𝗶𝗹𝗼 🇧🇷 vs.
+  𝗝𝗮𝗶 𝗛𝗲𝗿𝗯𝗲𝗿𝘁 🇪🇳\n• 155lbs/70kg Light
+ weight\n• Camilo: 11-3-0 | 25yo | MMA\n• Herbert: 14-6-1 | 38yo | MMA\
+ n• Odds history: not checked yet\n\n🥊 4. 𝗟𝗼𝗼𝗽𝘆 𝗚
+ 𝗼𝗱𝗶𝗻𝗲𝘇 (#8) 🇲🇽 vs. 𝗞𝗲𝘁𝗹𝗲𝗻 𝗦
+ 𝗼𝘂𝘇𝗮 🇧🇷\n• 115lbs/52kg Women's Strawweight\n• Godine
+ z: 14-6-0 | 33yo\n• Souza: 17-6-0 | 32yo | Boxing\n• Odds history: not
+  checked yet\n\n🥊 3. 𝗔𝗻𝗱𝗿𝗲 𝗙𝗶𝗹𝗶 🇺🇸 vs.
+  𝗞𝗮𝗶 𝗞𝗮𝗺𝗮𝗸𝗮 𝗜𝗜𝗜 🇺🇸\n• 145lbs/6
+ 6kg Featherweight\n• Fili: 25-14-0 | 36yo | MMA\n• Kamaka III: 18-8-1 
+ | 31yo | Boxing\n• Odds history: not checked yet\n\n🥊 2. 𝗝𝘂𝗹
+ 𝗶𝘂𝘀 𝗪𝗮𝗹𝗸𝗲𝗿 🇺🇸 vs. 𝗚𝗲𝗿𝗮𝗹
+ 𝗱 𝗠𝗲𝗲𝗿𝘀𝗰𝗵𝗮𝗲𝗿𝘁 🇺🇸\n• 205lbs/93k
+ g Light Heavyweight\n• Walker: 7-3-0 | 27yo | MMA\n• Meerschaert: 37-2
+ 2-0 | 38yo | Freestyle\n• Odds history: not checked yet\n\n🥊 1. 𝗠
+ 𝗮𝗹𝗰𝗼𝗹𝗺 𝗪𝗲𝗹𝗹𝗺𝗮𝗸𝗲𝗿 🇺🇸 vs.
+  𝗢𝘁𝗮𝗿𝗶 𝗧𝗮𝗻𝘇𝗶𝗹𝗼𝘃𝗶 🇬🇪\n• 1
+ 35lbs/61kg Bantamweight\n• Wellmaker: 10-2-0 | 32yo | Striker\n• Tanzi
+ lovi: 10-2-0 | 28yo | Kickboxer\n• Odds history: not checked yet\n\n----
+ ----------------------------\nSource: https://www.ufc.com/event/ufc-fight-
+ night-october-10-2026\nFull odds log: https://staircasewit.github.io/mmaca
+ lendar/odds-history.html\nEvent status: Scheduled
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  📍 Meta APEX\, Las Vegas\, United States<br>🕒 01:00–04:00 Ireland</
  p><p>--------------------------------<br><strong>𝗕𝗢𝗨𝗧𝗦</str
- ong><br>--------------------------------</p><p><strong>🥊 1. 𝗕𝗿
+ ong><br>--------------------------------</p><p><strong>🥊 6. 𝗕𝗿
  𝗲𝗻𝗱𝗮𝗻 𝗔𝗹𝗹𝗲𝗻 (#4) 🇧🇷 vs. 𝗖𝗵𝗿
  𝗶𝘀𝘁𝗶𝗮𝗻 𝗟𝗲𝗿𝗼𝘆 𝗗𝘂𝗻𝗰𝗮𝗻 (#1
  0) 🇪🇳</strong><br>• 185lbs/84kg Middleweight<br>• Allen: 27-7-0 
  | 30yo | MMA<br>• Duncan: 15-2-0 | 31yo | MMA<br>• Odds history: not c
- hecked yet</p><p>--------------------------------<br>Source: <a href="http
- s://www.ufc.com/event/ufc-fight-night-october-10-2026">UFC.com</a><br>Full
-  odds log: <a href="https://staircasewit.github.io/mmacalendar/odds-histor
- y.html">view history</a><br>Event status: Scheduled</p></body></html>
+ hecked yet</p><p><strong>🥊 5. 𝗠𝗮𝘁𝗵𝗲𝘂𝘀 𝗖𝗮𝗺
+ 𝗶𝗹𝗼 🇧🇷 vs. 𝗝𝗮𝗶 𝗛𝗲𝗿𝗯𝗲𝗿𝘁 🇪
+ 🇳</strong><br>• 155lbs/70kg Lightweight<br>• Camilo: 11-3-0 | 25yo 
+ | MMA<br>• Herbert: 14-6-1 | 38yo | MMA<br>• Odds history: not checked
+  yet</p><p><strong>🥊 4. 𝗟𝗼𝗼𝗽𝘆 𝗚𝗼𝗱𝗶𝗻𝗲
+ 𝘇 (#8) 🇲🇽 vs. 𝗞𝗲𝘁𝗹𝗲𝗻 𝗦𝗼𝘂𝘇𝗮 🇧
+ 🇷</strong><br>• 115lbs/52kg Women&#39\;s Strawweight<br>• Godinez: 
+ 14-6-0 | 33yo<br>• Souza: 17-6-0 | 32yo | Boxing<br>• Odds history: no
+ t checked yet</p><p><strong>🥊 3. 𝗔𝗻𝗱𝗿𝗲 𝗙𝗶𝗹𝗶 
+ 🇺🇸 vs. 𝗞𝗮𝗶 𝗞𝗮𝗺𝗮𝗸𝗮 𝗜𝗜𝗜 🇺🇸</
+ strong><br>• 145lbs/66kg Featherweight<br>• Fili: 25-14-0 | 36yo | MMA
+ <br>• Kamaka III: 18-8-1 | 31yo | Boxing<br>• Odds history: not checke
+ d yet</p><p><strong>🥊 2. 𝗝𝘂𝗹𝗶𝘂𝘀 𝗪𝗮𝗹𝗸𝗲
+ 𝗿 🇺🇸 vs. 𝗚𝗲𝗿𝗮𝗹𝗱 𝗠𝗲𝗲𝗿𝘀𝗰𝗵
+ 𝗮𝗲𝗿𝘁 🇺🇸</strong><br>• 205lbs/93kg Light Heavyweight<br
+ >• Walker: 7-3-0 | 27yo | MMA<br>• Meerschaert: 37-22-0 | 38yo | Frees
+ tyle<br>• Odds history: not checked yet</p><p><strong>🥊 1. 𝗠𝗮
+ 𝗹𝗰𝗼𝗹𝗺 𝗪𝗲𝗹𝗹𝗺𝗮𝗸𝗲𝗿 🇺🇸 vs. 
+ 𝗢𝘁𝗮𝗿𝗶 𝗧𝗮𝗻𝘇𝗶𝗹𝗼𝘃𝗶 🇬🇪</strong
+ ><br>• 135lbs/61kg Bantamweight<br>• Wellmaker: 10-2-0 | 32yo | Strike
+ r<br>• Tanzilovi: 10-2-0 | 28yo | Kickboxer<br>• Odds history: not che
+ cked yet</p><p>--------------------------------<br>Source: <a href="https:
+ //www.ufc.com/event/ufc-fight-night-october-10-2026">UFC.com</a><br>Full o
+ dds log: <a href="https://staircasewit.github.io/mmacalendar/odds-history.
+ html">view history</a><br>Event status: Scheduled</p></body></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
 CATEGORIES:UFC,Main Card
@@ -3720,50 +3815,116 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260921T125410Z
-SEQUENCE:5
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:6
 DTSTART:20261101T000000Z
 DTEND:20261101T030000Z
 SUMMARY:Main Card – UFC Fight Night: Moicano vs Nolan
-DESCRIPTION:UFC · Main Card · 3 bouts announced · placement TBD\n📍 Me
- ta APEX\, Las Vegas\, United States\n🕒 00:00–03:00 Ireland\nThis prov
- isional entry updates automatically as UFC finalises the card.\n\n--------
- ------------------------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------
- ------\n\n🥊 3. 𝗥𝗲𝗻𝗮𝘁𝗼 𝗠𝗼𝗶𝗰𝗮𝗻𝗼 (#
- 11) 🇧🇷 vs. 𝗧𝗼𝗺 𝗡𝗼𝗹𝗮𝗻 (#14) 🇦🇺\n• 155
- lbs/70kg Lightweight\n• Moicano: 21-7-1 | 37yo | Jiu-Jitsu\n• Nolan: 1
- 1-1-0 | 26yo\n• Odds history: not checked yet\n\n🥊 2. 𝗟𝘂𝗰
- 𝗶𝗮 𝗦𝘇𝗮𝗯𝗼𝘃𝗮 🇸🇰 vs. 𝗧𝗮𝗶𝗻𝗮
- 𝗿𝗮 𝗟𝗶𝘀𝗯𝗼𝗮 🇧🇷\n• 125lbs/57kg Women's Flywei
- ght\n• Szabova: 0-0-0 | 28yo\n• Lisboa: 7-4-0 | 35yo | Muay Thai\n• 
- Odds history: not checked yet\n\n🥊 1. 𝗡𝗶𝗰𝗸 𝗞𝗹𝗲𝗶
- 𝗻 🇺🇸 vs. 𝗝𝗼𝘀𝗲𝗽𝗵 𝗞𝗿𝗼𝗽𝘀𝗰𝗵
- 𝗼𝘁 🇺🇸\n• 185lbs/84kg Middleweight\n• Klein: 6-3-0 | 31yo |
-  Freestyle\n• Kropschot: 1-0-0 | 31yo\n• Odds history: not checked yet
+DESCRIPTION:UFC · Main Card · 11 bouts announced · placement TBD\n📍 M
+ eta APEX\, Las Vegas\, United States\n🕒 00:00–03:00 Ireland\nThis pro
+ visional entry updates automatically as UFC finalises the card.\n\n-------
+ -------------------------\n𝗕𝗢𝗨𝗧𝗦\n-------------------------
+ -------\n\n🥊 11. 𝗥𝗲𝗻𝗮𝘁𝗼 𝗠𝗼𝗶𝗰𝗮𝗻𝗼 
+ (#12) 🇧🇷 vs. 𝗧𝗼𝗺 𝗡𝗼𝗹𝗮𝗻 (#14) 🇦🇺\n• 1
+ 55lbs/70kg Lightweight\n• Moicano: 21-7-1 | 37yo | Jiu-Jitsu\n• Nolan:
+  11-1-0 | 26yo\n• Odds history: not checked yet\n\n🥊 10. 𝗥𝗮𝗻
+ 𝗱𝘆 𝗕𝗿𝗼𝘄𝗻 🇯🇲 vs. 𝗖𝗮𝗿𝗹𝗼𝘀 𝗟
+ 𝗲𝗮𝗹 🇧🇷\n• 170lbs/77kg Welterweight\n• Brown: 20-8-0 | 3
+ 6yo\n• Leal: 23-7-0 | 32yo | Striker\n• Odds history: not checked yet\
+ n\n🥊 9. 𝗟𝘂𝗰𝗶𝗮 𝗦𝘇𝗮𝗯𝗼𝘃𝗮 🇸🇰 vs. 
+ 𝗧𝗮𝗶𝗻𝗮𝗿𝗮 𝗟𝗶𝘀𝗯𝗼𝗮 🇧🇷\n• 125lbs
+ /57kg Women's Flyweight\n• Szabova: 0-0-0 | 28yo\n• Lisboa: 7-4-0 | 35
+ yo | Muay Thai\n• Odds history: not checked yet\n\n🥊 8. 𝗬𝗮𝗻
+ 𝗮 𝗦𝗮𝗻𝘁𝗼𝘀 (#6) 🇷🇺 vs. 𝗟𝘂𝗮𝗻𝗮 𝗦
+ 𝗮𝗻𝘁𝗼𝘀 (#7) 🇧🇷\n• 135lbs/61kg Women's Bantamweight\n
+ • Santos: 17-8-0 | 36yo | MMA\n• Santos: 11-2-0 | 26yo | Judo\n• Odd
+ s history: not checked yet\n\n🥊 7. 𝗧𝗮𝗹𝗶𝘁𝗮 𝗔𝗹
+ 𝗲𝗻𝗰𝗮𝗿 🇧🇷 vs. 𝗣𝗶𝗲𝗿𝗮 𝗥𝗼𝗱𝗿
+ 𝗶𝗴𝘂𝗲𝘇 🇻🇪\n• 115lbs/52kg Women's Strawweight\n• Al
+ encar: 8-1-1 | 36yo | Grappler\n• Rodriguez: 12-2-0 | 33yo | Striker\n
+ • Odds history: not checked yet\n\n🥊 6. 𝗡𝗶𝗰𝗸 𝗞𝗹𝗲
+ 𝗶𝗻 🇺🇸 vs. 𝗝𝗼𝘀𝗲𝗽𝗵 𝗞𝗿𝗼𝗽𝘀𝗰
+ 𝗵𝗼𝘁 🇺🇸\n• 185lbs/84kg Middleweight\n• Klein: 6-3-0 | 31
+ yo | Freestyle\n• Kropschot: 1-0-0 | 31yo\n• Odds history: not checked
+  yet\n\n🥊 5. 𝗥𝗼𝗱𝗿𝗶𝗴𝗼 𝗦𝗲𝘇𝗶𝗻𝗮𝗻
+ 𝗱𝗼 🇧🇷 vs. 𝗧𝗵𝗲𝗼𝗱𝗼𝗿 𝗕𝗲𝗿𝗴𝗴
+ 𝗿𝗲𝗻 🇸🇪\n• 170lbs/77kg Welterweight\n• Sezinando: 9-2-0 
+ | 28yo | MMA\n• Berggren: 8-4-0 | 26yo | MMA\n• Odds history: not chec
+ ked yet\n\n🥊 4. 𝗝𝗲𝗮𝗻-𝗣𝗮𝘂𝗹 𝗟𝗲𝗯𝗼𝘀
+ 𝗻𝗼𝘆𝗮𝗻𝗶 🇺🇸 vs. 𝗙𝗮𝗿𝗺𝗮𝗻 𝗛𝗮
+ 𝘀𝗮𝗻𝗼𝘃 🇦🇿\n• 170lbs/77kg Welterweight\n• Lebosnoya
+ ni: 11-2-0 | 27yo | Freestyle\n• Hasanov: 6-0-0 | 31yo | Wrestler\n• O
+ dds history: not checked yet\n\n🥊 3. 𝗔𝘇𝗮𝗺𝗮𝘁 𝗕𝗲
+ 𝗸𝗼𝗲𝘃 🇷🇺 vs. 𝗔𝗻𝗱𝗿𝗲 𝗣𝗲𝘁𝗿𝗼
+ 𝘀𝗸𝗶 🇺🇸\n• 185lbs/84kg Middleweight\n• Bekoev: 20-5-0 | 
+ 30yo | MMA\n• Petroski: 13-7-0 | 35yo | Freestyle\n• Odds history: not
+  checked yet\n\n🥊 2. 𝗝𝘂𝗹𝗶𝗮𝗻 𝗘𝗿𝗼𝘀𝗮 🇺
+ 🇸 vs. 𝗝𝗲𝗼𝗻𝗴𝗬𝗲𝗼𝗻𝗴 𝗟𝗲𝗲 🇰🇷\n
+ • 145lbs/66kg Featherweight\n• Erosa: 31-14-0 | 37yo | Striker\n• Le
+ e: 11-3-0 | 30yo | Brazilian Jiu-Jitsu\n• Odds history: not checked yet\
+ n\n🥊 1. 𝗙𝗿𝗮𝗻𝗰𝗶𝘀 𝗠𝗮𝗿𝘀𝗵𝗮𝗹𝗹 
+ 🇺🇸 vs. 𝗚𝗮𝘀𝘁𝗼𝗻 𝗕𝗼𝗹𝗮𝗻𝗼𝘀 🇵
+ 🇪\n• 145lbs/66kg Featherweight\n• Marshall: 10-3-0 | 27yo | Freesty
+ le\n• Bolanos: 9-5-0 | 34yo | Striker\n• Odds history: not checked yet
  \n\n--------------------------------\nSource: https://www.ufc.com/event/uf
  c-fight-night-october-31-2026\nFull odds log: https://staircasewit.github.
  io/mmacalendar/odds-history.html\nEvent status: Scheduled
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 3 bouts ann
- ounced · placement TBD<br>📍 Meta APEX\, Las Vegas\, United States<br>
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 11 bouts an
+ nounced · placement TBD<br>📍 Meta APEX\, Las Vegas\, United States<br>
  🕒 00:00–03:00 Ireland<br>This provisional entry updates automatically
   as UFC finalises the card.</p><p>--------------------------------<br><str
  ong>𝗕𝗢𝗨𝗧𝗦</strong><br>--------------------------------</p><
- p><strong>🥊 3. 𝗥𝗲𝗻𝗮𝘁𝗼 𝗠𝗼𝗶𝗰𝗮𝗻𝗼 (#
- 11) 🇧🇷 vs. 𝗧𝗼𝗺 𝗡𝗼𝗹𝗮𝗻 (#14) 🇦🇺</strong>
- <br>• 155lbs/70kg Lightweight<br>• Moicano: 21-7-1 | 37yo | Jiu-Jitsu<
- br>• Nolan: 11-1-0 | 26yo<br>• Odds history: not checked yet</p><p><st
- rong>🥊 2. 𝗟𝘂𝗰𝗶𝗮 𝗦𝘇𝗮𝗯𝗼𝘃𝗮 🇸🇰 vs
- . 𝗧𝗮𝗶𝗻𝗮𝗿𝗮 𝗟𝗶𝘀𝗯𝗼𝗮 🇧🇷</strong><
- br>• 125lbs/57kg Women&#39\;s Flyweight<br>• Szabova: 0-0-0 | 28yo<br>
- • Lisboa: 7-4-0 | 35yo | Muay Thai<br>• Odds history: not checked yet<
- /p><p><strong>🥊 1. 𝗡𝗶𝗰𝗸 𝗞𝗹𝗲𝗶𝗻 🇺🇸 vs. 
- 𝗝𝗼𝘀𝗲𝗽𝗵 𝗞𝗿𝗼𝗽𝘀𝗰𝗵𝗼𝘁 🇺🇸</st
- rong><br>• 185lbs/84kg Middleweight<br>• Klein: 6-3-0 | 31yo | Freesty
- le<br>• Kropschot: 1-0-0 | 31yo<br>• Odds history: not checked yet</p>
- <p>--------------------------------<br>Source: <a href="https://www.ufc.co
- m/event/ufc-fight-night-october-31-2026">UFC.com</a><br>Full odds log: <a 
- href="https://staircasewit.github.io/mmacalendar/odds-history.html">view h
- istory</a><br>Event status: Scheduled</p></body></html>
+ p><strong>🥊 11. 𝗥𝗲𝗻𝗮𝘁𝗼 𝗠𝗼𝗶𝗰𝗮𝗻𝗼 (
+ #12) 🇧🇷 vs. 𝗧𝗼𝗺 𝗡𝗼𝗹𝗮𝗻 (#14) 🇦🇺</strong
+ ><br>• 155lbs/70kg Lightweight<br>• Moicano: 21-7-1 | 37yo | Jiu-Jitsu
+ <br>• Nolan: 11-1-0 | 26yo<br>• Odds history: not checked yet</p><p><s
+ trong>🥊 10. 𝗥𝗮𝗻𝗱𝘆 𝗕𝗿𝗼𝘄𝗻 🇯🇲 vs. 𝗖
+ 𝗮𝗿𝗹𝗼𝘀 𝗟𝗲𝗮𝗹 🇧🇷</strong><br>• 170lbs/77kg
+  Welterweight<br>• Brown: 20-8-0 | 36yo<br>• Leal: 23-7-0 | 32yo | Str
+ iker<br>• Odds history: not checked yet</p><p><strong>🥊 9. 𝗟𝘂
+ 𝗰𝗶𝗮 𝗦𝘇𝗮𝗯𝗼𝘃𝗮 🇸🇰 vs. 𝗧𝗮𝗶𝗻
+ 𝗮𝗿𝗮 𝗟𝗶𝘀𝗯𝗼𝗮 🇧🇷</strong><br>• 125lbs/57kg
+  Women&#39\;s Flyweight<br>• Szabova: 0-0-0 | 28yo<br>• Lisboa: 7-4-0 
+ | 35yo | Muay Thai<br>• Odds history: not checked yet</p><p><strong>🥊
+  8. 𝗬𝗮𝗻𝗮 𝗦𝗮𝗻𝘁𝗼𝘀 (#6) 🇷🇺 vs. 𝗟𝘂
+ 𝗮𝗻𝗮 𝗦𝗮𝗻𝘁𝗼𝘀 (#7) 🇧🇷</strong><br>• 135lbs
+ /61kg Women&#39\;s Bantamweight<br>• Santos: 17-8-0 | 36yo | MMA<br>• 
+ Santos: 11-2-0 | 26yo | Judo<br>• Odds history: not checked yet</p><p><s
+ trong>🥊 7. 𝗧𝗮𝗹𝗶𝘁𝗮 𝗔𝗹𝗲𝗻𝗰𝗮𝗿 🇧
+ 🇷 vs. 𝗣𝗶𝗲𝗿𝗮 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 🇻
+ 🇪</strong><br>• 115lbs/52kg Women&#39\;s Strawweight<br>• Alencar: 
+ 8-1-1 | 36yo | Grappler<br>• Rodriguez: 12-2-0 | 33yo | Striker<br>• O
+ dds history: not checked yet</p><p><strong>🥊 6. 𝗡𝗶𝗰𝗸 𝗞
+ 𝗹𝗲𝗶𝗻 🇺🇸 vs. 𝗝𝗼𝘀𝗲𝗽𝗵 𝗞𝗿𝗼𝗽
+ 𝘀𝗰𝗵𝗼𝘁 🇺🇸</strong><br>• 185lbs/84kg Middleweight<br>
+ • Klein: 6-3-0 | 31yo | Freestyle<br>• Kropschot: 1-0-0 | 31yo<br>• 
+ Odds history: not checked yet</p><p><strong>🥊 5. 𝗥𝗼𝗱𝗿𝗶
+ 𝗴𝗼 𝗦𝗲𝘇𝗶𝗻𝗮𝗻𝗱𝗼 🇧🇷 vs. 𝗧𝗵𝗲
+ 𝗼𝗱𝗼𝗿 𝗕𝗲𝗿𝗴𝗴𝗿𝗲𝗻 🇸🇪</strong><br>•
+  170lbs/77kg Welterweight<br>• Sezinando: 9-2-0 | 28yo | MMA<br>• Berg
+ gren: 8-4-0 | 26yo | MMA<br>• Odds history: not checked yet</p><p><stron
+ g>🥊 4. 𝗝𝗲𝗮𝗻-𝗣𝗮𝘂𝗹 𝗟𝗲𝗯𝗼𝘀𝗻𝗼
+ 𝘆𝗮𝗻𝗶 🇺🇸 vs. 𝗙𝗮𝗿𝗺𝗮𝗻 𝗛𝗮𝘀𝗮
+ 𝗻𝗼𝘃 🇦🇿</strong><br>• 170lbs/77kg Welterweight<br>• Lebo
+ snoyani: 11-2-0 | 27yo | Freestyle<br>• Hasanov: 6-0-0 | 31yo | Wrestler
+ <br>• Odds history: not checked yet</p><p><strong>🥊 3. 𝗔𝘇𝗮
+ 𝗺𝗮𝘁 𝗕𝗲𝗸𝗼𝗲𝘃 🇷🇺 vs. 𝗔𝗻𝗱𝗿𝗲 
+ 𝗣𝗲𝘁𝗿𝗼𝘀𝗸𝗶 🇺🇸</strong><br>• 185lbs/84kg Midd
+ leweight<br>• Bekoev: 20-5-0 | 30yo | MMA<br>• Petroski: 13-7-0 | 35yo
+  | Freestyle<br>• Odds history: not checked yet</p><p><strong>🥊 2. 
+ 𝗝𝘂𝗹𝗶𝗮𝗻 𝗘𝗿𝗼𝘀𝗮 🇺🇸 vs. 𝗝𝗲𝗼
+ 𝗻𝗴𝗬𝗲𝗼𝗻𝗴 𝗟𝗲𝗲 🇰🇷</strong><br>• 145lbs/
+ 66kg Featherweight<br>• Erosa: 31-14-0 | 37yo | Striker<br>• Lee: 11-3
+ -0 | 30yo | Brazilian Jiu-Jitsu<br>• Odds history: not checked yet</p><p
+ ><strong>🥊 1. 𝗙𝗿𝗮𝗻𝗰𝗶𝘀 𝗠𝗮𝗿𝘀𝗵𝗮𝗹
+ 𝗹 🇺🇸 vs. 𝗚𝗮𝘀𝘁𝗼𝗻 𝗕𝗼𝗹𝗮𝗻𝗼𝘀 
+ 🇵🇪</strong><br>• 145lbs/66kg Featherweight<br>• Marshall: 10-3-0
+  | 27yo | Freestyle<br>• Bolanos: 9-5-0 | 34yo | Striker<br>• Odds his
+ tory: not checked yet</p><p>--------------------------------<br>Source: <a
+  href="https://www.ufc.com/event/ufc-fight-night-october-31-2026">UFC.com<
+ /a><br>Full odds log: <a href="https://staircasewit.github.io/mmacalendar/
+ odds-history.html">view history</a><br>Event status: Scheduled</p></body><
+ /html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
 CATEGORIES:UFC,Main Card
@@ -3801,37 +3962,138 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T162242Z
-SEQUENCE:2
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:3
 DTSTART:20261107T220000Z
 DTEND:20261108T010000Z
 SUMMARY:Main Card – UFC Fight Night: Bonfim vs Brady
-DESCRIPTION:UFC · Main Card · 1 bout\n📍 Meta APEX\, Las Vegas\, United
-  States\n🕒 22:00–Sun 01:00 Ireland\n\n-------------------------------
- -\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 1. 𝗚
- 𝗮𝗯𝗿𝗶𝗲𝗹 𝗕𝗼𝗻𝗳𝗶𝗺 (#5) 🇧🇷 vs. 𝗦
- 𝗲𝗮𝗻 𝗕𝗿𝗮𝗱𝘆 (#6) 🇺🇸\n• 170lbs/77kg Welterwei
- ght\n• Bonfim: 20-1-0 | 29yo | Striker\n• Brady: 19-2-0 | 33yo | Jiu-J
- itsu\n• Odds history: not checked yet\n\n-------------------------------
- -\nSource: https://www.ufc.com/event/ufc-fight-night-november-07-2026\nFul
- l odds log: https://staircasewit.github.io/mmacalendar/odds-history.html\n
- Event status: Scheduled
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 1 bout<br>
- 📍 Meta APEX\, Las Vegas\, United States<br>🕒 22:00–Sun 01:00 Irela
- nd</p><p>--------------------------------<br><strong>𝗕𝗢𝗨𝗧𝗦<
- /strong><br>--------------------------------</p><p><strong>🥊 1. 𝗚
- 𝗮𝗯𝗿𝗶𝗲𝗹 𝗕𝗼𝗻𝗳𝗶𝗺 (#5) 🇧🇷 vs. 𝗦
- 𝗲𝗮𝗻 𝗕𝗿𝗮𝗱𝘆 (#6) 🇺🇸</strong><br>• 170lbs/77k
- g Welterweight<br>• Bonfim: 20-1-0 | 29yo | Striker<br>• Brady: 19-2-0
-  | 33yo | Jiu-Jitsu<br>• Odds history: not checked yet</p><p>-----------
- ---------------------<br>Source: <a href="https://www.ufc.com/event/ufc-fi
- ght-night-november-07-2026">UFC.com</a><br>Full odds log: <a href="https:/
- /staircasewit.github.io/mmacalendar/odds-history.html">view history</a><br
- >Event status: Scheduled</p></body></html>
+DESCRIPTION:UFC · Main Card · 13 bouts announced · placement TBD\n📍 M
+ eta APEX\, Las Vegas\, United States\n🕒 22:00–Sun 01:00 Ireland\nThis
+  provisional entry updates automatically as UFC finalises the card.\n\n---
+ -----------------------------\n𝗕𝗢𝗨𝗧𝗦\n---------------------
+ -----------\n\n🥊 13. 𝗚𝗮𝗯𝗿𝗶𝗲𝗹 𝗕𝗼𝗻𝗳𝗶
+ 𝗺 (#5) 🇧🇷 vs. 𝗦𝗲𝗮𝗻 𝗕𝗿𝗮𝗱𝘆 (#6) 🇺🇸
+ \n• 170lbs/77kg Welterweight\n• Bonfim: 20-1-0 | 29yo | Striker\n• B
+ rady: 19-2-0 | 33yo | Jiu-Jitsu\n• Odds history: not checked yet\n\n🥊
+  12. 𝗧𝗮𝘁𝗶𝗮𝗻𝗮 𝗦𝘂𝗮𝗿𝗲𝘇 (#2) 🇺🇸 v
+ s. 𝗩𝗶𝗿𝗻𝗮 𝗝𝗮𝗻𝗱𝗶𝗿𝗼𝗯𝗮 (#3) 🇧🇷
+ \n• 115lbs/52kg Women's Strawweight\n• Suarez: 13-1-0 | 35yo | MMA\n
+ • Jandiroba: 23-4-0 | 38yo | Jiu-Jitsu\n• Odds history: not checked ye
+ t\n\n🥊 11. 𝗠𝗮𝗻𝘁𝗮𝘀 𝗞𝗼𝗻𝗱𝗿𝗮𝘁𝗮
+ 𝘃𝗶č𝗶𝘂𝘀 🇱🇹 vs. 𝗪𝗲𝘀 𝗦𝗰𝗵𝘂𝗹𝘁
+ 𝘇 🇺🇸\n• 185lbs/84kg Middleweight\n• Kondratavicius: 9-1-0 | 2
+ 7yo | MMA\n• Schultz: 9-4-0 | 30yo | MMA\n• Odds history: not checked 
+ yet\n\n🥊 10. 𝗕𝗶𝗹𝗹𝘆 𝗘𝗹𝗲𝗸𝗮𝗻𝗮 🇺🇸
+  vs. 𝗟𝘂𝗰𝗮𝘀 𝗙𝗲𝗿𝗻𝗮𝗻𝗱𝗼 🇧🇷\n• 2
+ 05lbs/93kg Light Heavyweight\n• Elekana: 10-2-0 | 31yo | MMA\n• Fernan
+ do: 14-3-0 | 29yo | Striker\n• Odds history: not checked yet\n\n🥊 9. 
+ 𝗔𝘂𝘀𝘁𝗶𝗻 𝗕𝗮𝘀𝗵𝗶 🇺🇸 vs. 𝗟𝘂𝗰
+ 𝗮𝘀 𝗕𝗿𝗲𝗻𝗻𝗮𝗻 🇺🇸\n• 145lbs/66kg Featherwei
+ ght\n• Bashi: 14-2-0 | 25yo | Jiu-Jitsu\n• Brennan: 11-3-0 | 26yo | Gr
+ appler\n• Odds history: not checked yet\n\n🥊 8. 𝗞𝗮𝗿𝗶𝗻
+ 𝗲 𝗦𝗶𝗹𝘃𝗮 (#11) 🇧🇷 vs. 𝗚𝗮𝗯𝗿𝗶𝗲𝗹
+ 𝗹𝗮 𝗙𝗲𝗿𝗻𝗮𝗻𝗱𝗲𝘀 (#15) 🇧🇷\n• 125lbs/5
+ 7kg Women's Flyweight\n• Silva: 19-7-0 | 32yo | Brazilian Jiu-Jitsu\n•
+  Fernandes: 11-4-0 | 33yo | Striker\n• Odds history: not checked yet\n\n
+ 🥊 7. 𝗣𝗿𝗶𝘀𝗰𝗶𝗹𝗮 𝗖𝗮𝗰𝗵𝗼𝗲𝗶𝗿
+ 𝗮 🇧🇷 vs. 𝗡𝗶𝗻𝗮 𝗠𝗶𝗹𝗼š𝗲𝘃𝗶ć 🇷
+ 🇸\n• 135lbs/61kg Women's Bantamweight\n• Cachoeira: 13-9-0 | 38yo |
+  Brawler\n• Milosevic: 9-1-0 | 30yo | Freestyle\n• Odds history: not c
+ hecked yet\n\n🥊 6. 𝗞𝗲𝗶𝗶𝗰𝗵𝗶𝗿𝗼 𝗡𝗮𝗸
+ 𝗮𝗺𝘂𝗿𝗮 🇯🇵 vs. 𝗢𝗹𝗹𝗶𝗲 𝗦𝗰𝗵𝗺
+ 𝗶𝗱 🇳🇿\n• 145lbs/66kg Featherweight\n• Nakamura: 8-1-0 | 27
+ yo\n• Schmid: 4-3-0 | 25yo | Striker\n• Odds history: not checked yet\
+ n\n🥊 5. 𝗦𝗲𝗼𝗸𝗵𝘆𝗲𝗼𝗻 𝗞𝗼 🇰🇷 vs. 𝗪
+ 𝗲𝗹𝗹𝗶𝗻𝗴𝘁𝗼𝗻 𝗧𝘂𝗿𝗺𝗮𝗻 🇧🇷\n
+ • 170lbs/77kg Welterweight\n• Ko: 13-3-0 | 33yo | Judo\n• Turman: 18
+ -8-0 | 30yo | Jiu-Jitsu\n• Odds history: not checked yet\n\n🥊 4. 𝗝
+ 𝗼𝗻𝗻𝘆 𝗣𝗮𝗿𝘀𝗼𝗻𝘀 🇺🇸 vs. 𝗝𝗼𝘀é 
+ 𝗦𝗼𝘂𝘇𝗮 🇧🇷\n• 170lbs/77kg Welterweight\n• Parsons: 
+ 9-3-0 | 35yo | Muay Thai\n• Souza: 9-1-0 | 24yo | Jiu-Jitsu\n• Odds hi
+ story: not checked yet\n\n🥊 3. 𝗗𝗮𝘃𝗲𝘆 𝗚𝗿𝗮𝗻
+ 𝘁 🇪🇳 vs. 𝗘𝗹𝗶𝗷𝗮𝗵 𝗦𝗺𝗶𝘁𝗵 🇺🇸\n
+ • 135lbs/61kg Bantamweight\n• Grant: 18-8-0 | 40yo | MMA\n• Smith: 1
+ 0-1-0 | 24yo | Freestyle\n• Odds history: not checked yet\n\n🥊 2. 
+ 𝗝𝗼𝘀𝗲 𝗗𝗲𝗹𝗮𝗻𝗼 🇧🇷 vs. 𝗠𝘂𝗿𝘁
+ 𝗮𝘇𝗮𝗹𝗶 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝗼𝘃 🇰🇬\n• 14
+ 5lbs/66kg Featherweight\n• Delano: 17-3-0 | 30yo | Striker\n• Magomedo
+ v: 11-0-0 | 27yo | MMA\n• Odds history: not checked yet\n\n🥊 1. 𝗚
+ 𝗮𝗯𝗿𝗶𝗲𝗹 𝗟𝗼𝗿𝗲𝗻𝗰𝗼 🇧🇷 vs. 𝗔
+ 𝗹𝘃𝗶𝗻 𝗛𝗶𝗻𝗲𝘀 🇺🇸\n• 265lbs/120kg Heavyweig
+ ht\n• Lorenco: 1-0-0 | 27yo\n• Hines: 7-2-0 | 35yo | MMA\n• Odds his
+ tory: not checked yet\n\n--------------------------------\nSource: https:/
+ /www.ufc.com/event/ufc-fight-night-november-07-2026\nFull odds log: https:
+ //staircasewit.github.io/mmacalendar/odds-history.html\nEvent status: Sche
+ duled
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 13 bouts an
+ nounced · placement TBD<br>📍 Meta APEX\, Las Vegas\, United States<br>
+ 🕒 22:00–Sun 01:00 Ireland<br>This provisional entry updates automatic
+ ally as UFC finalises the card.</p><p>--------------------------------<br>
+ <strong>𝗕𝗢𝗨𝗧𝗦</strong><br>--------------------------------<
+ /p><p><strong>🥊 13. 𝗚𝗮𝗯𝗿𝗶𝗲𝗹 𝗕𝗼𝗻𝗳𝗶
+ 𝗺 (#5) 🇧🇷 vs. 𝗦𝗲𝗮𝗻 𝗕𝗿𝗮𝗱𝘆 (#6) 🇺🇸
+ </strong><br>• 170lbs/77kg Welterweight<br>• Bonfim: 20-1-0 | 29yo | S
+ triker<br>• Brady: 19-2-0 | 33yo | Jiu-Jitsu<br>• Odds history: not ch
+ ecked yet</p><p><strong>🥊 12. 𝗧𝗮𝘁𝗶𝗮𝗻𝗮 𝗦𝘂𝗮
+ 𝗿𝗲𝘇 (#2) 🇺🇸 vs. 𝗩𝗶𝗿𝗻𝗮 𝗝𝗮𝗻𝗱𝗶
+ 𝗿𝗼𝗯𝗮 (#3) 🇧🇷</strong><br>• 115lbs/52kg Women&#39\;s St
+ rawweight<br>• Suarez: 13-1-0 | 35yo | MMA<br>• Jandiroba: 23-4-0 | 38
+ yo | Jiu-Jitsu<br>• Odds history: not checked yet</p><p><strong>🥊 11.
+  𝗠𝗮𝗻𝘁𝗮𝘀 𝗞𝗼𝗻𝗱𝗿𝗮𝘁𝗮𝘃𝗶č𝗶
+ 𝘂𝘀 🇱🇹 vs. 𝗪𝗲𝘀 𝗦𝗰𝗵𝘂𝗹𝘁𝘇 🇺🇸</
+ strong><br>• 185lbs/84kg Middleweight<br>• Kondratavicius: 9-1-0 | 27y
+ o | MMA<br>• Schultz: 9-4-0 | 30yo | MMA<br>• Odds history: not checke
+ d yet</p><p><strong>🥊 10. 𝗕𝗶𝗹𝗹𝘆 𝗘𝗹𝗲𝗸𝗮𝗻
+ 𝗮 🇺🇸 vs. 𝗟𝘂𝗰𝗮𝘀 𝗙𝗲𝗿𝗻𝗮𝗻𝗱𝗼 
+ 🇧🇷</strong><br>• 205lbs/93kg Light Heavyweight<br>• Elekana: 10-
+ 2-0 | 31yo | MMA<br>• Fernando: 14-3-0 | 29yo | Striker<br>• Odds hist
+ ory: not checked yet</p><p><strong>🥊 9. 𝗔𝘂𝘀𝘁𝗶𝗻 𝗕
+ 𝗮𝘀𝗵𝗶 🇺🇸 vs. 𝗟𝘂𝗰𝗮𝘀 𝗕𝗿𝗲𝗻𝗻
+ 𝗮𝗻 🇺🇸</strong><br>• 145lbs/66kg Featherweight<br>• Bashi: 
+ 14-2-0 | 25yo | Jiu-Jitsu<br>• Brennan: 11-3-0 | 26yo | Grappler<br>• 
+ Odds history: not checked yet</p><p><strong>🥊 8. 𝗞𝗮𝗿𝗶𝗻
+ 𝗲 𝗦𝗶𝗹𝘃𝗮 (#11) 🇧🇷 vs. 𝗚𝗮𝗯𝗿𝗶𝗲𝗹
+ 𝗹𝗮 𝗙𝗲𝗿𝗻𝗮𝗻𝗱𝗲𝘀 (#15) 🇧🇷</strong><br>
+ • 125lbs/57kg Women&#39\;s Flyweight<br>• Silva: 19-7-0 | 32yo | Brazi
+ lian Jiu-Jitsu<br>• Fernandes: 11-4-0 | 33yo | Striker<br>• Odds histo
+ ry: not checked yet</p><p><strong>🥊 7. 𝗣𝗿𝗶𝘀𝗰𝗶𝗹𝗮
+  𝗖𝗮𝗰𝗵𝗼𝗲𝗶𝗿𝗮 🇧🇷 vs. 𝗡𝗶𝗻𝗮 𝗠
+ 𝗶𝗹𝗼š𝗲𝘃𝗶ć 🇷🇸</strong><br>• 135lbs/61kg Women&#3
+ 9\;s Bantamweight<br>• Cachoeira: 13-9-0 | 38yo | Brawler<br>• Milosev
+ ic: 9-1-0 | 30yo | Freestyle<br>• Odds history: not checked yet</p><p><s
+ trong>🥊 6. 𝗞𝗲𝗶𝗶𝗰𝗵𝗶𝗿𝗼 𝗡𝗮𝗸𝗮𝗺
+ 𝘂𝗿𝗮 🇯🇵 vs. 𝗢𝗹𝗹𝗶𝗲 𝗦𝗰𝗵𝗺𝗶𝗱 
+ 🇳🇿</strong><br>• 145lbs/66kg Featherweight<br>• Nakamura: 8-1-0 
+ | 27yo<br>• Schmid: 4-3-0 | 25yo | Striker<br>• Odds history: not chec
+ ked yet</p><p><strong>🥊 5. 𝗦𝗲𝗼𝗸𝗵𝘆𝗲𝗼𝗻 𝗞
+ 𝗼 🇰🇷 vs. 𝗪𝗲𝗹𝗹𝗶𝗻𝗴𝘁𝗼𝗻 𝗧𝘂𝗿
+ 𝗺𝗮𝗻 🇧🇷</strong><br>• 170lbs/77kg Welterweight<br>• Ko: 
+ 13-3-0 | 33yo | Judo<br>• Turman: 18-8-0 | 30yo | Jiu-Jitsu<br>• Odds 
+ history: not checked yet</p><p><strong>🥊 4. 𝗝𝗼𝗻𝗻𝘆 𝗣
+ 𝗮𝗿𝘀𝗼𝗻𝘀 🇺🇸 vs. 𝗝𝗼𝘀é 𝗦𝗼𝘂𝘇𝗮 
+ 🇧🇷</strong><br>• 170lbs/77kg Welterweight<br>• Parsons: 9-3-0 | 
+ 35yo | Muay Thai<br>• Souza: 9-1-0 | 24yo | Jiu-Jitsu<br>• Odds histor
+ y: not checked yet</p><p><strong>🥊 3. 𝗗𝗮𝘃𝗲𝘆 𝗚𝗿𝗮
+ 𝗻𝘁 🇪🇳 vs. 𝗘𝗹𝗶𝗷𝗮𝗵 𝗦𝗺𝗶𝘁𝗵 🇺
+ 🇸</strong><br>• 135lbs/61kg Bantamweight<br>• Grant: 18-8-0 | 40yo 
+ | MMA<br>• Smith: 10-1-0 | 24yo | Freestyle<br>• Odds history: not che
+ cked yet</p><p><strong>🥊 2. 𝗝𝗼𝘀𝗲 𝗗𝗲𝗹𝗮𝗻𝗼 
+ 🇧🇷 vs. 𝗠𝘂𝗿𝘁𝗮𝘇𝗮𝗹𝗶 𝗠𝗮𝗴𝗼𝗺𝗲
+ 𝗱𝗼𝘃 🇰🇬</strong><br>• 145lbs/66kg Featherweight<br>• Del
+ ano: 17-3-0 | 30yo | Striker<br>• Magomedov: 11-0-0 | 27yo | MMA<br>• 
+ Odds history: not checked yet</p><p><strong>🥊 1. 𝗚𝗮𝗯𝗿𝗶
+ 𝗲𝗹 𝗟𝗼𝗿𝗲𝗻𝗰𝗼 🇧🇷 vs. 𝗔𝗹𝘃𝗶𝗻 
+ 𝗛𝗶𝗻𝗲𝘀 🇺🇸</strong><br>• 265lbs/120kg Heavyweight<br>
+ • Lorenco: 1-0-0 | 27yo<br>• Hines: 7-2-0 | 35yo | MMA<br>• Odds his
+ tory: not checked yet</p><p>--------------------------------<br>Source: <a
+  href="https://www.ufc.com/event/ufc-fight-night-november-07-2026">UFC.com
+ </a><br>Full odds log: <a href="https://staircasewit.github.io/mmacalendar
+ /odds-history.html">view history</a><br>Event status: Scheduled</p></body>
+ </html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
 CATEGORIES:UFC,Main Card
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-early-prelims@ufc-detailed-calendar
@@ -4028,27 +4290,102 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-november-21-2026-main-card@ufc-detailed-calendar
 DTSTAMP:20260918T112058Z
-LAST-MODIFIED:20260918T112058Z
-SEQUENCE:0
-DTSTART:20261121T220000Z
-DTEND:20261122T010000Z
-SUMMARY:Main Card – UFC Fight Night: TBD vs TBD
-DESCRIPTION:UFC · Main Card · fight card TBD\n📍 ABHA Arena\, Doha\, Qa
- tar\n🕒 22:00–Sun 01:00 Ireland\nThis provisional entry updates automa
- tically as UFC finalises the card.\n\n--------------------------------\n
- 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\nNo bouts announc
- ed yet.\n\n--------------------------------\nSource: https://www.ufc.com/e
- vent/ufc-fight-night-november-21-2026\nFull odds log: https://staircasewit
- .github.io/mmacalendar/odds-history.html\nEvent status: Scheduled
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · fight card 
- TBD<br>📍 ABHA Arena\, Doha\, Qatar<br>🕒 22:00–Sun 01:00 Ireland<br
- >This provisional entry updates automatically as UFC finalises the card.</
- p><p>--------------------------------<br><strong>𝗕𝗢𝗨𝗧𝗦</str
- ong><br>--------------------------------</p><p>No bouts announced yet.</p>
- <p>--------------------------------<br>Source: <a href="https://www.ufc.co
- m/event/ufc-fight-night-november-21-2026">UFC.com</a><br>Full odds log: <a
-  href="https://staircasewit.github.io/mmacalendar/odds-history.html">view 
- history</a><br>Event status: Scheduled</p></body></html>
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:1
+DTSTART:20261121T180000Z
+DTEND:20261121T210000Z
+SUMMARY:Main Card – UFC Fight Night: Prochazka vs Stirling
+DESCRIPTION:UFC · Main Card · 9 bouts announced · placement TBD\n📍 AB
+ HA Arena\, Doha\, Qatar\n🕒 18:00–21:00 Ireland\nThis provisional entr
+ y updates automatically as UFC finalises the card.\n\n--------------------
+ ------------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n
+ 🥊 9. 𝗝𝗶ří 𝗣𝗿𝗼𝗰𝗵á𝘇𝗸𝗮 (#2) 🇨🇿 vs. 
+ 𝗡𝗮𝘃𝗮𝗷𝗼 𝗦𝘁𝗶𝗿𝗹𝗶𝗻𝗴 (#5) 🇳🇿\n
+ • 205lbs/93kg Light Heavyweight\n• Prochazka: 32-6-1 | 34yo | Karate\n
+ • Stirling: 11-0-0 | 29yo | Kickboxer\n• Odds history: not checked yet
+ \n\n🥊 8. 𝗔𝗹𝗷𝗮𝗺𝗮𝗶𝗻 𝗦𝘁𝗲𝗿𝗹𝗶𝗻
+ 𝗴 (#4) 🇺🇸 vs. 𝗞𝗲𝘃𝗶𝗻 𝗩𝗮𝗹𝗹𝗲𝗷𝗼
+ 𝘀 (#9) 🇦🇷\n• 145lbs/66kg Featherweight\n• Sterling: 26-5-0 | 
+ 37yo | Kickboxer\n• Vallejos: 17-1-0 | 24yo | Striker\n• Odds history:
+  not checked yet\n\n🥊 7. 𝗗𝗮𝗻 𝗛𝗼𝗼𝗸𝗲𝗿 (#13) 
+ 🇳🇿 vs. 𝗕𝗿𝗶𝗮𝗻 𝗢𝗿𝘁𝗲𝗴𝗮 🇺🇸\n• 1
+ 55lbs/70kg Lightweight\n• Hooker: 24-15-0 | 36yo | MMA\n• Ortega: 16-5
+ -0 | 35yo | Jiu-Jitsu\n• Odds history: not checked yet\n\n🥊 6. 𝗝
+ 𝗮𝗿𝗲𝗱 𝗖𝗮𝗻𝗻𝗼𝗻𝗶𝗲𝗿 (#11) 🇺🇸 vs. 
+ 𝗜𝗸𝗿𝗮𝗺 𝗔𝗹𝗶𝘀𝗸𝗲𝗿𝗼𝘃 (#13) 🇷🇺\n
+ • 185lbs/84kg Middleweight\n• Cannonier: 18-10-0 | 42yo | Striker\n•
+  Aliskerov: 18-2-0 | 33yo | Sambo\n• Odds history: not checked yet\n\n
+ 🥊 5. 𝗦𝗵𝗮𝗺𝗶𝗹 𝗚𝗮𝘇𝗶𝗲𝘃 🇧🇭 vs. 
+ 𝗧𝗮𝗹𝗹𝗶𝘀𝗼𝗻 𝗧𝗲𝗶𝘅𝗲𝗶𝗿𝗮 🇧🇷
+ \n• 265lbs/120kg Heavyweight\n• Gaziev: 15-3-0 | 36yo | MMA\n• Teixe
+ ira: 9-2-0 | 26yo | Striker\n• Odds history: not checked yet\n\n🥊 4. 
+ 𝗝𝗮𝗸𝗲 𝗠𝗮𝘁𝘁𝗵𝗲𝘄𝘀 🇦🇺 vs. 𝗧𝗮
+ 𝗵𝗶𝗿 𝗔𝗯𝗱𝘂𝗹𝗹𝗮𝘆𝗲𝘃 🇦🇿\n• 170lbs
+ /77kg Welterweight\n• Matthews: 23-8-0 | 32yo | Freestyle\n• Abdullaye
+ v: 20-3-0 | 29yo\n• Odds history: not checked yet\n\n🥊 3. 𝗔𝗹
+ 𝗲𝗸𝘀𝗮𝗻𝗱𝗿𝗲 𝗧𝗼𝗽𝘂𝗿𝗶𝗮 🇬🇪 vs.
+  𝗦𝗮𝗻𝘁𝗶𝗮𝗴𝗼 𝗟𝘂𝗻𝗮 🇲🇽\n• 135lbs/61
+ kg Bantamweight\n• Topuria: 7-1-0 | 30yo | Boxing\n• Luna: 8-1-0 | 22y
+ o | MMA\n• Odds history: not checked yet\n\n🥊 2. 𝗔𝘀𝘂 𝗔
+ 𝗹𝗺𝗮𝗯𝗮𝘆𝗲𝘃 (#7) 🇰🇿 vs. 𝗞𝘆𝗼𝗷𝗶 
+ 𝗛𝗼𝗿𝗶𝗴𝘂𝗰𝗵𝗶 (#5) 🇯🇵\n• 125lbs/57kg Flywei
+ ght\n• Almabayev: 24-3-0 | 32yo | Jiu-Jitsu\n• Horiguchi: 36-6-0 | 36y
+ o | MMA\n• Odds history: not checked yet\n\n🥊 1. 𝗔𝗺𝗶𝗿 
+ 𝗔𝗹𝗯𝗮𝘇𝗶 (#9) 🇮🇶 vs. 𝗔𝗹𝗲𝘀𝘀𝗮𝗻
+ 𝗱𝗿𝗼 𝗖𝗼𝘀𝘁𝗮 🇧🇷\n• 125lbs/57kg Flyweight\n•
+  Albazi: 17-3-0 | 33yo | Jiu-Jitsu\n• Costa: 17-5-0 | 30yo | Jiu-Jitsu\n
+ • Odds history: not checked yet\n\n--------------------------------\nSou
+ rce: https://www.ufc.com/event/ufc-fight-night-november-21-2026\nFull odds
+  log: https://staircasewit.github.io/mmacalendar/odds-history.html\nEvent 
+ status: Rescheduled\; previously 21 Nov 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 9 bouts ann
+ ounced · placement TBD<br>📍 ABHA Arena\, Doha\, Qatar<br>🕒 18:00–
+ 21:00 Ireland<br>This provisional entry updates automatically as UFC final
+ ises the card.</p><p>--------------------------------<br><strong>𝗕𝗢
+ 𝗨𝗧𝗦</strong><br>--------------------------------</p><p><strong>
+ 🥊 9. 𝗝𝗶ří 𝗣𝗿𝗼𝗰𝗵á𝘇𝗸𝗮 (#2) 🇨🇿 vs. 
+ 𝗡𝗮𝘃𝗮𝗷𝗼 𝗦𝘁𝗶𝗿𝗹𝗶𝗻𝗴 (#5) 🇳🇿</s
+ trong><br>• 205lbs/93kg Light Heavyweight<br>• Prochazka: 32-6-1 | 34y
+ o | Karate<br>• Stirling: 11-0-0 | 29yo | Kickboxer<br>• Odds history:
+  not checked yet</p><p><strong>🥊 8. 𝗔𝗹𝗷𝗮𝗺𝗮𝗶𝗻 
+ 𝗦𝘁𝗲𝗿𝗹𝗶𝗻𝗴 (#4) 🇺🇸 vs. 𝗞𝗲𝘃𝗶𝗻 
+ 𝗩𝗮𝗹𝗹𝗲𝗷𝗼𝘀 (#9) 🇦🇷</strong><br>• 145lbs/66kg
+  Featherweight<br>• Sterling: 26-5-0 | 37yo | Kickboxer<br>• Vallejos:
+  17-1-0 | 24yo | Striker<br>• Odds history: not checked yet</p><p><stron
+ g>🥊 7. 𝗗𝗮𝗻 𝗛𝗼𝗼𝗸𝗲𝗿 (#13) 🇳🇿 vs. 𝗕
+ 𝗿𝗶𝗮𝗻 𝗢𝗿𝘁𝗲𝗴𝗮 🇺🇸</strong><br>• 155lbs/
+ 70kg Lightweight<br>• Hooker: 24-15-0 | 36yo | MMA<br>• Ortega: 16-5-0
+  | 35yo | Jiu-Jitsu<br>• Odds history: not checked yet</p><p><strong>
+ 🥊 6. 𝗝𝗮𝗿𝗲𝗱 𝗖𝗮𝗻𝗻𝗼𝗻𝗶𝗲𝗿 (#11) 
+ 🇺🇸 vs. 𝗜𝗸𝗿𝗮𝗺 𝗔𝗹𝗶𝘀𝗸𝗲𝗿𝗼𝘃 (#1
+ 3) 🇷🇺</strong><br>• 185lbs/84kg Middleweight<br>• Cannonier: 18-
+ 10-0 | 42yo | Striker<br>• Aliskerov: 18-2-0 | 33yo | Sambo<br>• Odds 
+ history: not checked yet</p><p><strong>🥊 5. 𝗦𝗵𝗮𝗺𝗶𝗹 
+ 𝗚𝗮𝘇𝗶𝗲𝘃 🇧🇭 vs. 𝗧𝗮𝗹𝗹𝗶𝘀𝗼𝗻 
+ 𝗧𝗲𝗶𝘅𝗲𝗶𝗿𝗮 🇧🇷</strong><br>• 265lbs/120kg Hea
+ vyweight<br>• Gaziev: 15-3-0 | 36yo | MMA<br>• Teixeira: 9-2-0 | 26yo 
+ | Striker<br>• Odds history: not checked yet</p><p><strong>🥊 4. 𝗝
+ 𝗮𝗸𝗲 𝗠𝗮𝘁𝘁𝗵𝗲𝘄𝘀 🇦🇺 vs. 𝗧𝗮𝗵
+ 𝗶𝗿 𝗔𝗯𝗱𝘂𝗹𝗹𝗮𝘆𝗲𝘃 🇦🇿</strong><br>•
+  170lbs/77kg Welterweight<br>• Matthews: 23-8-0 | 32yo | Freestyle<br>
+ • Abdullayev: 20-3-0 | 29yo<br>• Odds history: not checked yet</p><p><
+ strong>🥊 3. 𝗔𝗹𝗲𝗸𝘀𝗮𝗻𝗱𝗿𝗲 𝗧𝗼𝗽𝘂
+ 𝗿𝗶𝗮 🇬🇪 vs. 𝗦𝗮𝗻𝘁𝗶𝗮𝗴𝗼 𝗟𝘂𝗻
+ 𝗮 🇲🇽</strong><br>• 135lbs/61kg Bantamweight<br>• Topuria: 7-1
+ -0 | 30yo | Boxing<br>• Luna: 8-1-0 | 22yo | MMA<br>• Odds history: no
+ t checked yet</p><p><strong>🥊 2. 𝗔𝘀𝘂 𝗔𝗹𝗺𝗮𝗯𝗮
+ 𝘆𝗲𝘃 (#7) 🇰🇿 vs. 𝗞𝘆𝗼𝗷𝗶 𝗛𝗼𝗿𝗶𝗴
+ 𝘂𝗰𝗵𝗶 (#5) 🇯🇵</strong><br>• 125lbs/57kg Flyweight<br>
+ • Almabayev: 24-3-0 | 32yo | Jiu-Jitsu<br>• Horiguchi: 36-6-0 | 36yo |
+  MMA<br>• Odds history: not checked yet</p><p><strong>🥊 1. 𝗔𝗺
+ 𝗶𝗿 𝗔𝗹𝗯𝗮𝘇𝗶 (#9) 🇮🇶 vs. 𝗔𝗹𝗲𝘀𝘀
+ 𝗮𝗻𝗱𝗿𝗼 𝗖𝗼𝘀𝘁𝗮 🇧🇷</strong><br>• 125lbs/
+ 57kg Flyweight<br>• Albazi: 17-3-0 | 33yo | Jiu-Jitsu<br>• Costa: 17-5
+ -0 | 30yo | Jiu-Jitsu<br>• Odds history: not checked yet</p><p>---------
+ -----------------------<br>Source: <a href="https://www.ufc.com/event/ufc-
+ fight-night-november-21-2026">UFC.com</a><br>Full odds log: <a href="https
+ ://staircasewit.github.io/mmacalendar/odds-history.html">view history</a><
+ br>Event status: Rescheduled\; previously 21 Nov 2026</p></body></html>
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
 CATEGORIES:UFC,Main Card
@@ -4138,6 +4475,68 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · fight card
  br>Event status: Scheduled</p></body></html>
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
+CATEGORIES:UFC,Main Card
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-february-06-2027-prelims@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20270206T200000Z
+DTEND:20270206T220000Z
+SUMMARY:Prelims – UFC Fight Night: TBD vs TBD
+DESCRIPTION:UFC · Prelims · fight card TBD\n📍 Afterpay Arena\, Sydney 
+ Olympic Park\, Australia\n🕒 20:00–22:00 Ireland\nThis provisional ent
+ ry updates automatically as UFC finalises the card.\n\n-------------------
+ -------------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\nN
+ o bouts announced yet.\n\n--------------------------------\nSource: https:
+ //www.ufc.com/event/ufc-fight-night-february-06-2027\nFull odds log: https
+ ://staircasewit.github.io/mmacalendar/odds-history.html\nEvent status: Sch
+ eduled
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · fight card TB
+ D<br>📍 Afterpay Arena\, Sydney Olympic Park\, Australia<br>🕒 20:00
+ –22:00 Ireland<br>This provisional entry updates automatically as UFC fi
+ nalises the card.</p><p>--------------------------------<br><strong>𝗕
+ 𝗢𝗨𝗧𝗦</strong><br>--------------------------------</p><p>No bou
+ ts announced yet.</p><p>--------------------------------<br>Source: <a hre
+ f="https://www.ufc.com/event/ufc-fight-night-february-06-2027">UFC.com</a>
+ <br>Full odds log: <a href="https://staircasewit.github.io/mmacalendar/odd
+ s-history.html">view history</a><br>Event status: Scheduled</p></body></ht
+ ml>
+LOCATION:Afterpay Arena\, Sydney Olympic Park\, Australia
+URL:https://www.ufc.com/event/ufc-fight-night-february-06-2027
+CATEGORIES:UFC,Prelims
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-february-06-2027-main-card@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20260930T124052Z
+SEQUENCE:0
+DTSTART:20270206T220000Z
+DTEND:20270207T010000Z
+SUMMARY:Main Card – UFC Fight Night: TBD vs TBD
+DESCRIPTION:UFC · Main Card · fight card TBD\n📍 Afterpay Arena\, Sydne
+ y Olympic Park\, Australia\n🕒 22:00–Sun 01:00 Ireland\nThis provision
+ al entry updates automatically as UFC finalises the card.\n\n-------------
+ -------------------\n𝗕𝗢𝗨𝗧𝗦\n-------------------------------
+ -\n\nNo bouts announced yet.\n\n--------------------------------\nSource: 
+ https://www.ufc.com/event/ufc-fight-night-february-06-2027\nFull odds log:
+  https://staircasewit.github.io/mmacalendar/odds-history.html\nEvent statu
+ s: Scheduled
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · fight card 
+ TBD<br>📍 Afterpay Arena\, Sydney Olympic Park\, Australia<br>🕒 22:00
+ –Sun 01:00 Ireland<br>This provisional entry updates automatically as UF
+ C finalises the card.</p><p>--------------------------------<br><strong>
+ 𝗕𝗢𝗨𝗧𝗦</strong><br>--------------------------------</p><p>No
+  bouts announced yet.</p><p>--------------------------------<br>Source: <a
+  href="https://www.ufc.com/event/ufc-fight-night-february-06-2027">UFC.com
+ </a><br>Full odds log: <a href="https://staircasewit.github.io/mmacalendar
+ /odds-history.html">view history</a><br>Event status: Scheduled</p></body>
+ </html>
+LOCATION:Afterpay Arena\, Sydney Olympic Park\, Australia
+URL:https://www.ufc.com/event/ufc-fight-night-february-06-2027
 CATEGORIES:UFC,Main Card
 STATUS:TENTATIVE
 END:VEVENT
