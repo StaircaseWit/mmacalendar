@@ -4847,7 +4847,7 @@
           "birthDate": "1996-10-29",
           "record": "11-4-0",
           "style": null,
-          "odds": null
+          "odds": "-146"
         },
         "blue": {
           "name": "Hazem Kayyali",
@@ -4856,10 +4856,26 @@
           "birthDate": "2000-05-14",
           "record": "3-0-2",
           "style": null,
-          "odds": null
+          "odds": "+124"
         },
         "details": "170lbs/77kg Welterweight · Semifinal",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "PFL MENA 11",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+            "promotion": "pfl",
+            "eventId": "pflmena11",
+            "odds": {
+              "badreddine diani": "-146",
+              "hazem kayyali": "+124"
+            },
+            "names": {
+              "badreddine diani": "Badreddine Diani",
+              "hazem kayyali": "Hazem Kayyali"
+            }
+          }
+        ]
       },
       {
         "id": "1575",
@@ -4871,7 +4887,7 @@
           "birthDate": "1993-10-16",
           "record": "21-9-0",
           "style": null,
-          "odds": null
+          "odds": "-333"
         },
         "blue": {
           "name": "Islam Youssef",
@@ -4880,10 +4896,26 @@
           "birthDate": "1999-07-02",
           "record": "7-3-0",
           "style": null,
-          "odds": null
+          "odds": "+285"
         },
         "details": "145lbs/66kg Featherweight · Semifinal",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "PFL MENA 11",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+            "promotion": "pfl",
+            "eventId": "pflmena11",
+            "odds": {
+              "elias boudegzdame": "-333",
+              "islam youssef": "+285"
+            },
+            "names": {
+              "elias boudegzdame": "Elias Boudegzdame",
+              "islam youssef": "Islam Youssef"
+            }
+          }
+        ]
       },
       {
         "id": "1576",
@@ -4895,7 +4927,7 @@
           "birthDate": null,
           "record": "16-6-0",
           "style": null,
-          "odds": null
+          "odds": "-549"
         },
         "blue": {
           "name": "Basel Shalaan",
@@ -4904,10 +4936,26 @@
           "birthDate": "2002-08-03",
           "record": "7-1-0",
           "style": null,
-          "odds": null
+          "odds": "+460"
         },
         "details": "155lbs/70kg Lightweight · Semifinal",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "PFL MENA 11",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+            "promotion": "pfl",
+            "eventId": "pflmena11",
+            "odds": {
+              "ylies djiroun": "-549",
+              "basel shalaan": "+460"
+            },
+            "names": {
+              "ylies djiroun": "Ylies Djiroun",
+              "basel shalaan": "Basel Shalaan"
+            }
+          }
+        ]
       },
       {
         "id": "1577",
@@ -4919,7 +4967,7 @@
           "birthDate": null,
           "record": "12-7-0",
           "style": null,
-          "odds": null
+          "odds": "+220"
         },
         "blue": {
           "name": "Abdelkrim Zouad",
@@ -4928,10 +4976,26 @@
           "birthDate": null,
           "record": "8-2-0",
           "style": null,
-          "odds": null
+          "odds": "-270"
         },
         "details": "170lbs/77kg Welterweight · Semifinal",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "PFL MENA 11",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+            "promotion": "pfl",
+            "eventId": "pflmena11",
+            "odds": {
+              "omar hussein": "+220",
+              "abdelkrim zouad": "-270"
+            },
+            "names": {
+              "omar hussein": "Omar Hussein",
+              "abdelkrim zouad": "Abdelkrim Zouad"
+            }
+          }
+        ]
       },
       {
         "id": "1596",
@@ -4943,7 +5007,7 @@
           "birthDate": "2001-09-18",
           "record": "6-2-0",
           "style": null,
-          "odds": null
+          "odds": "-134"
         },
         "blue": {
           "name": "Assem Ghanem",
@@ -4952,10 +5016,26 @@
           "birthDate": "2001-04-16",
           "record": "7-0-0",
           "style": null,
-          "odds": null
+          "odds": "+114"
         },
         "details": "155lbs/70kg Lightweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "PFL MENA 11",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+            "promotion": "pfl",
+            "eventId": "pflmena11",
+            "odds": {
+              "hassan shaaban": "-134",
+              "assem ghanem": "+114"
+            },
+            "names": {
+              "hassan shaaban": "Hassan Shaaban",
+              "assem ghanem": "Assem Ghanem"
+            }
+          }
+        ]
       },
       {
         "id": "1578",
@@ -4967,7 +5047,7 @@
           "birthDate": "1993-03-07",
           "record": "6-2-0",
           "style": null,
-          "odds": null
+          "odds": "-150"
         },
         "blue": {
           "name": "Shadi Kabbani",
@@ -4976,10 +5056,26 @@
           "birthDate": null,
           "record": "5-0-0",
           "style": null,
-          "odds": null
+          "odds": "+142"
         },
         "details": "145lbs/66kg Featherweight · Semifinal",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "PFL MENA 11",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+            "promotion": "pfl",
+            "eventId": "pflmena11",
+            "odds": {
+              "mehdi saadi": "-150",
+              "shadi kabbani": "+142"
+            },
+            "names": {
+              "mehdi saadi": "Mehdi Saadi",
+              "shadi kabbani": "Shadi Kabbani"
+            }
+          }
+        ]
       },
       {
         "id": "1579",
@@ -4991,7 +5087,7 @@
           "birthDate": "1995-07-30",
           "record": "5-1-0",
           "style": null,
-          "odds": null
+          "odds": "-126"
         },
         "blue": {
           "name": "Ahmed El Sisy",
@@ -5000,10 +5096,26 @@
           "birthDate": null,
           "record": "8-2-0",
           "style": null,
-          "odds": null
+          "odds": "+110"
         },
         "details": "155lbs/70kg Lightweight · Semifinal",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "PFL MENA 11",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+            "promotion": "pfl",
+            "eventId": "pflmena11",
+            "odds": {
+              "mohammad fahmi": "-126",
+              "ahmed el sisy": "+110"
+            },
+            "names": {
+              "mohammad fahmi": "Mohammad Fahmi",
+              "ahmed el sisy": "Ahmed El Sisy"
+            }
+          }
+        ]
       },
       {
         "id": "1597",
@@ -5039,7 +5151,7 @@
           "birthDate": "2008-09-16",
           "record": "0-0-0",
           "style": null,
-          "odds": null
+          "odds": "-295"
         },
         "blue": {
           "name": "Aya Lounes",
@@ -5048,10 +5160,26 @@
           "birthDate": "2005-10-21",
           "record": "0-0-0",
           "style": null,
-          "odds": null
+          "odds": "+240"
         },
         "details": "135lbs/61kg Bantamweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "PFL MENA 11",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+            "promotion": "pfl",
+            "eventId": "pflmena11",
+            "odds": {
+              "fatima al ammari": "-295",
+              "aya lounes": "+240"
+            },
+            "names": {
+              "fatima al ammari": "Fatima Al Ammari",
+              "aya lounes": "Aya Lounes"
+            }
+          }
+        ]
       }
     ],
     "cancelledBouts": [
@@ -5065,7 +5193,7 @@
           "birthDate": "1993-01-29",
           "record": "15-4-0",
           "style": null,
-          "odds": null
+          "odds": "+225"
         },
         "blue": {
           "name": "Elias Boudegzdame",
@@ -5074,10 +5202,26 @@
           "birthDate": "1993-10-16",
           "record": "21-9-0",
           "style": null,
-          "odds": null
+          "odds": "-333"
         },
         "details": "145lbs/66kg Featherweight · Semifinal",
-        "oddsHistory": [],
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "PFL MENA 11",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+            "promotion": "pfl",
+            "eventId": "pflmena11",
+            "odds": {
+              "hamza kooheji": "+225",
+              "elias boudegzdame": "-333"
+            },
+            "names": {
+              "hamza kooheji": "Hamza Kooheji",
+              "elias boudegzdame": "Elias Boudegzdame"
+            }
+          }
+        ],
         "note": "Removed from the official PFL card"
       }
     ]
@@ -5670,8 +5814,32 @@
     "status": "CONFIRMED",
     "bouts": [
       {
+        "id": "1609",
+        "order": 10,
+        "red": {
+          "name": "Ernesto Rodriguez",
+          "profileUrl": "https://pflmma.com/wt-fighter/ernesto-rodriguez",
+          "countryCode": "CU",
+          "birthDate": "1997-08-08",
+          "record": "11-2-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Rhys McKee",
+          "profileUrl": "https://pflmma.com/wt-fighter/rhys-mckee",
+          "countryCode": null,
+          "birthDate": "1995-09-09",
+          "record": "15-7-1",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight",
+        "oddsHistory": []
+      },
+      {
         "id": "1587",
-        "order": 8,
+        "order": 9,
         "red": {
           "name": "Khasan Magomedsharipov",
           "profileUrl": "https://pflmma.com/wt-fighter/khasan-magomedsharipov",
@@ -5695,7 +5863,7 @@
       },
       {
         "id": "1605",
-        "order": 7,
+        "order": 8,
         "red": {
           "name": "Asaël Adjoudj",
           "profileUrl": "https://pflmma.com/wt-fighter/asael-adjoudj",
@@ -5719,7 +5887,7 @@
       },
       {
         "id": "1606",
-        "order": 6,
+        "order": 7,
         "red": {
           "name": "Lewis McGrillen",
           "profileUrl": "https://pflmma.com/wt-fighter/lewis-mcgrillen",
@@ -5739,6 +5907,30 @@
           "odds": null
         },
         "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1608",
+        "order": 6,
+        "red": {
+          "name": "Shem Rock",
+          "profileUrl": "https://pflmma.com/wt-fighter/shem-rock",
+          "countryCode": null,
+          "birthDate": "1993-11-04",
+          "record": "12-3-1",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Connor Hughes",
+          "profileUrl": "https://pflmma.com/wt-fighter/connor-hughes",
+          "countryCode": "GB",
+          "birthDate": "1997-06-04",
+          "record": "12-3-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight",
         "oddsHistory": []
       },
       {
@@ -5874,6 +6066,30 @@
     "end": "20261219T230000Z",
     "status": "CONFIRMED",
     "bouts": [
+      {
+        "id": "1607",
+        "order": 5,
+        "red": {
+          "name": "Baris Adiguzel",
+          "profileUrl": "https://pflmma.com/wt-fighter/baris-adiguzel",
+          "countryCode": "FR",
+          "birthDate": "1999-04-30",
+          "record": "10-2-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Liam Gittins",
+          "profileUrl": "https://pflmma.com/wt-fighter/liam-gittins",
+          "countryCode": "GB",
+          "birthDate": "1999-05-31",
+          "record": "13-6-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": []
+      },
       {
         "id": "1601",
         "order": 4,

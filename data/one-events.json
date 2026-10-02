@@ -7722,28 +7722,10 @@
     "end": "20261002T153003Z",
     "summary": "ONE Friday Fights 173 & The Inner Circle 33",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-173\n\nBuakaew Sor Sor Pakorn vs. Nat Khat Min | Muay Thai | Flyweight\n\nTonglampoon FA Group vs. Dionatha Santos Tobias | Muay Thai | Strawweight\n\nPayakrut Suajantokmuaythai vs. Andrii Mezentsev | Muay Thai | Strawweight\n\nNongkhailek Dr.Knotmuaythai vs. Cal Cook | Muay Thai | Flyweight\n\nGaichon Sor Prawatmuang vs. Tandiao Por Prawit | Muay Thai | Atomweight\n\nImran Satiev vs. Babar Ali | Mixed Martial Arts | Flyweight\n\nJoanne La vs. Yara Saleh | Muay Thai | Strawweight\n\nYoussef Ramadan vs. Jongjun Park | Mixed Martial Arts | Bantamweight\n\nKevin Oyervides vs. Hiroyuki | Muay Thai | Strawweight\n\nRegian Eersel vs. George Jarvis | Lightweight World Championship\n\nDuangdawnoi Looksaikongdin vs. Aline Seiberth | Muay Thai | Atomweight\n\nDzhamil Osmanov vs. Ben Woolliss | Kickboxing | Bantamweight\n\nMia Trevorrow vs. Sheila Barrios | Muay Thai | Atomweight\n\nFahlap Toyotarayong vs. Yugo Kato | Muay Thai | Strawweight\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-173\n\nTonglampoon FA Group vs. Dionatha Santos Tobias | Muay Thai | Strawweight\n\nPayakrut Suajantokmuaythai vs. Andrii Mezentsev | Muay Thai | Strawweight\n\nNongkhailek Dr.Knotmuaythai vs. Cal Cook | Muay Thai | Flyweight\n\nPetkongfa Wor Technoluangpusuang vs. Panpakan Sor Sasiwat | Muay Thai | Flyweight\n\nGaichon Sor Prawatmuang vs. Tandiao Por Prawit | Muay Thai | Atomweight\n\nImran Satiev vs. Babar Ali | Mixed Martial Arts | Flyweight\n\nJoanne La vs. Yara Saleh | Muay Thai | Strawweight\n\nYoussef Ramadan vs. Jongjun Park | Mixed Martial Arts | Bantamweight\n\nKevin Oyervides vs. Hiroyuki | Muay Thai | Strawweight\n\nRegian Eersel vs. George Jarvis | Lightweight World Championship\n\nDuangdawnoi Looksaikongdin vs. Aline Seiberth | Muay Thai | Atomweight\n\nDzhamil Osmanov vs. Ben Woolliss | Kickboxing | Bantamweight\n\nMia Trevorrow vs. Sheila Barrios | Muay Thai | Atomweight\n\nFahlap Toyotarayong vs. Yugo Kato | Muay Thai | Strawweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/one-friday-fights-173",
     "status": "CONFIRMED",
     "bouts": [
-      {
-        "redName": "Buakaew Sor Sor Pakorn",
-        "blueName": "Nat Khat Min",
-        "details": "Flyweight Muay Thai",
-        "redProfileUrl": "https://www.onefc.com/athletes/buakaew-sor-sor-pakorn/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/nat-khat-min/",
-        "redCountry": "Thailand",
-        "blueCountry": "Myanmar [Burma]",
-        "redAge": 28,
-        "redRecord": "2-0-0",
-        "redStyle": "Striker",
-        "blueAge": 26,
-        "blueRecord": "0-1-0",
-        "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
-      },
       {
         "redName": "Tonglampoon FA Group",
         "blueName": "Dionatha Santos Tobias",
@@ -7776,9 +7758,25 @@
         "blueAge": 27,
         "blueRecord": "2-3-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-118",
+        "blueOdds": "-118",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+            "promotion": "one",
+            "eventId": "6a9682efd3539b67790eccd4",
+            "odds": {
+              "payakrut suajantokmuaythai": "-118",
+              "andrii mezentsev": "-118"
+            },
+            "names": {
+              "payakrut suajantokmuaythai": "Payakrut Suajantokmuaythai",
+              "andrii mezentsev": "Andrii Mezentsev"
+            }
+          }
+        ]
       },
       {
         "redName": "Nongkhailek Dr.Knotmuaythai",
@@ -7790,6 +7788,16 @@
         "blueCountry": "England",
         "redAge": 28,
         "redRecord": "0-1-0",
+        "redStyle": "Striker",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Petkongfa Wor Technoluangpusuang",
+        "blueName": "Panpakan Sor Sasiwat",
+        "details": "Flyweight Muay Thai",
         "redStyle": "Striker",
         "blueStyle": "Striker",
         "redOdds": null,
@@ -7810,9 +7818,25 @@
         "blueAge": 29,
         "blueRecord": "0-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-275",
+        "blueOdds": "+200",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+            "promotion": "one",
+            "eventId": "6a9682efd3539b67790eccd4",
+            "odds": {
+              "gaichon sor prawatmuang": "-275",
+              "tandiao por prawit": "+200"
+            },
+            "names": {
+              "gaichon sor prawatmuang": "Gaichon Sor Prawatmuang",
+              "tandiao por prawit": "Tandiao Por Prawit"
+            }
+          }
+        ]
       },
       {
         "redName": "Imran Satiev",
@@ -7826,9 +7850,25 @@
         "redRecord": "1-1-0",
         "blueAge": 24,
         "blueRecord": "1-1-0",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-275",
+        "blueOdds": "+200",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+            "promotion": "one",
+            "eventId": "6a9682efd3539b67790eccd4",
+            "odds": {
+              "imran satiev": "-275",
+              "babar ali": "+200"
+            },
+            "names": {
+              "imran satiev": "Imran Satiev",
+              "babar ali": "Babar Ali"
+            }
+          }
+        ]
       },
       {
         "redName": "Joanne La",
@@ -7844,9 +7884,25 @@
         "blueAge": 24,
         "blueRecord": "0-2-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+110",
+        "blueOdds": "-150",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+            "promotion": "one",
+            "eventId": "6a9682efd3539b67790eccd4",
+            "odds": {
+              "joanne la": "+110",
+              "yara saleh": "-150"
+            },
+            "names": {
+              "joanne la": "Joanne La",
+              "yara saleh": "Yara Saleh"
+            }
+          }
+        ]
       },
       {
         "redName": "Youssef Ramadan",
@@ -7876,9 +7932,25 @@
         "blueAge": 30,
         "blueRecord": "2-2-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+210",
+        "blueOdds": "-300",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+            "promotion": "one",
+            "eventId": "6a9682efd3539b67790eccd4",
+            "odds": {
+              "kevin oyervides": "+210",
+              "hiroyuki": "-300"
+            },
+            "names": {
+              "kevin oyervides": "Kevin Oyervides",
+              "hiroyuki": "Hiroyuki"
+            }
+          }
+        ]
       },
       {
         "redName": "Regian Eersel",
@@ -7894,9 +7966,25 @@
         "blueAge": 26,
         "blueRecord": "6-2-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-450",
+        "blueOdds": "+300",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+            "promotion": "one",
+            "eventId": "6a9682efd3539b67790eccd4",
+            "odds": {
+              "regian eersel": "-450",
+              "george jarvis": "+300"
+            },
+            "names": {
+              "regian eersel": "Regian Eersel",
+              "george jarvis": "George Jarvis"
+            }
+          }
+        ]
       },
       {
         "redName": "Duangdawnoi Looksaikongdin",
@@ -7929,9 +8017,25 @@
         "blueAge": 32,
         "blueRecord": "1-2-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-250",
+        "blueOdds": "+175",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+            "promotion": "one",
+            "eventId": "6a9682efd3539b67790eccd4",
+            "odds": {
+              "dzhamil osmanov": "-250",
+              "ben woolliss": "+175"
+            },
+            "names": {
+              "dzhamil osmanov": "Dzhamil Osmanov",
+              "ben woolliss": "Ben Woolliss"
+            }
+          }
+        ]
       },
       {
         "redName": "Mia Trevorrow",
@@ -7947,9 +8051,25 @@
         "blueAge": 23,
         "blueRecord": "0-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-450",
+        "blueOdds": "+300",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+            "promotion": "one",
+            "eventId": "6a9682efd3539b67790eccd4",
+            "odds": {
+              "mia trevorrow": "-450",
+              "sheila barrios": "+300"
+            },
+            "names": {
+              "mia trevorrow": "Mia Trevorrow",
+              "sheila barrios": "Sheila Barrios"
+            }
+          }
+        ]
       },
       {
         "redName": "Fahlap Toyotarayong",
@@ -7961,9 +8081,25 @@
         "blueCountry": "Japan",
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": [],
+        "redOdds": "-105",
+        "blueOdds": "-125",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+            "promotion": "one",
+            "eventId": "6a9682efd3539b67790eccd4",
+            "odds": {
+              "fahlap toyotarayong": "-105",
+              "yugo kato": "-125"
+            },
+            "names": {
+              "fahlap toyotarayong": "Fahlap Toyotarayong",
+              "yugo kato": "Yugo Kato"
+            }
+          }
+        ],
         "blueAge": 27,
         "blueRecord": "1-0-0"
       }
@@ -7976,7 +8112,7 @@
     "end": "20261003T080000Z",
     "summary": "ONE Fight Night 48",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/onefightnight48\n\nShamil   Erdogan vs. Paul Elliott | Mixed Martial Arts | Heavyweight\n\nNakrob Fairtex vs. Parham Gheirati | Muay Thai | Bantamweight\n\nJoshua Perreira vs. Antonio  Cesar | Mixed Martial Arts | Flyweight\n\nLuke Lessei vs. Charlie Guest | Muay Thai | Featherweight\n\nYi Yuxuan vs. Elbrus Osmanov | Kickboxing | Bantamweight\n\nLee Seung Cheol vs. Karen Ghazaryan | Mixed Martial Arts | Strawweight\n\nShoya Ishiguro vs. Ruan Alvarenga | Submission Grappling | Featherweight\n\nYu Yau Pui vs. Marie McManamon | Muay Thai | Atomweight\n\nArian  Esparza vs. Sam Fitzgerald | Muay Thai | Featherweight\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/onefightnight48\n\nShamil   Erdogan vs. Paul Elliott | Mixed Martial Arts | Heavyweight\n\nNakrob Fairtex vs. Parham Gheirati | Muay Thai | Bantamweight\n\nLuke Lessei vs. Charlie Guest | Muay Thai | Featherweight\n\nJoshua Perreira vs. Antonio  Cesar | Mixed Martial Arts | Flyweight\n\nYi Yuxuan vs. Elbrus Osmanov | Kickboxing | Bantamweight\n\nShoya Ishiguro vs. Ruan Alvarenga | Submission Grappling | Featherweight\n\nYu Yau Pui vs. Marie McManamon | Muay Thai | Atomweight\n\nArian  Esparza vs. Sam Fitzgerald | Muay Thai | Featherweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/onefightnight48",
     "status": "CONFIRMED",
     "bouts": [
@@ -8008,30 +8144,29 @@
         "blueCountry": "Iran",
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": [],
+        "redOdds": "+136",
+        "blueOdds": "-138",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "ONE Fight Night 48",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-fight-night-48-4387",
+            "promotion": "one",
+            "eventId": "69365982370b4d81ea624186",
+            "odds": {
+              "nakrob fairtex": "+136",
+              "parham gheirati": "-138"
+            },
+            "names": {
+              "nakrob fairtex": "Nakrob Fairtex",
+              "parham gheirati": "Parham Gheirati"
+            }
+          }
+        ],
         "redAge": 27,
         "redRecord": "11-5-0",
         "blueAge": 22,
         "blueRecord": "7-1-0"
-      },
-      {
-        "redName": "Joshua Perreira",
-        "blueName": "Antonio Cesar",
-        "details": "Flyweight Mixed Martial Arts",
-        "redProfileUrl": "https://www.onefc.com/athletes/joshua-perreira/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/antonio-cesar/",
-        "redCountry": "United States",
-        "blueCountry": "Brazil",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": [],
-        "redAge": 29,
-        "redRecord": "1-0-0",
-        "redStyle": "Grappler",
-        "blueAge": 22,
-        "blueRecord": "1-0-0"
       },
       {
         "redName": "Luke Lessei",
@@ -8047,9 +8182,58 @@
         "blueAge": 30,
         "redRecord": "3-3-0",
         "blueRecord": "1-0-0",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-184",
+        "blueOdds": "+163",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "ONE Fight Night 48",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-fight-night-48-4387",
+            "promotion": "one",
+            "eventId": "69365982370b4d81ea624186",
+            "odds": {
+              "luke lessei": "-184",
+              "charlie guest": "+163"
+            },
+            "names": {
+              "luke lessei": "Luke Lessei",
+              "charlie guest": "Charlie Guest"
+            }
+          }
+        ]
+      },
+      {
+        "redName": "Joshua Perreira",
+        "blueName": "Antonio Cesar",
+        "details": "Flyweight Mixed Martial Arts",
+        "redProfileUrl": "https://www.onefc.com/athletes/joshua-perreira/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/antonio-cesar/",
+        "redCountry": "United States",
+        "blueCountry": "Brazil",
+        "redOdds": "+154",
+        "blueOdds": "-163",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "ONE Fight Night 48",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-fight-night-48-4387",
+            "promotion": "one",
+            "eventId": "69365982370b4d81ea624186",
+            "odds": {
+              "joshua perreira": "+154",
+              "antonio cesar": "-163"
+            },
+            "names": {
+              "joshua perreira": "Joshua Perreira",
+              "antonio cesar": "Antonio Cesar"
+            }
+          }
+        ],
+        "redAge": 29,
+        "redRecord": "1-0-0",
+        "redStyle": "Grappler",
+        "blueAge": 22,
+        "blueRecord": "1-0-0"
       },
       {
         "redName": "Yi Yuxuan",
@@ -8061,28 +8245,28 @@
         "blueCountry": "Russia",
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": [],
+        "redOdds": "+250",
+        "blueOdds": "-310",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "ONE Fight Night 48",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-fight-night-48-4387",
+            "promotion": "one",
+            "eventId": "69365982370b4d81ea624186",
+            "odds": {
+              "yi yuxuan": "+250",
+              "elbrus osmanov": "-310"
+            },
+            "names": {
+              "yi yuxuan": "Yi Yuxuan",
+              "elbrus osmanov": "Elbrus Osmanov"
+            }
+          }
+        ],
         "redAge": 25,
         "blueAge": 25,
         "blueRecord": "9-1-0"
-      },
-      {
-        "redName": "Lee Seung Cheol",
-        "blueName": "Karen Ghazaryan",
-        "details": "Strawweight Mixed Martial Arts",
-        "redProfileUrl": "https://www.onefc.com/athletes/lee-seung-cheol/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/karen-ghazaryan/",
-        "redCountry": "South Korea",
-        "blueCountry": "Armenia",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": [],
-        "redAge": 27,
-        "redRecord": "6-0-0",
-        "blueAge": 25,
-        "blueRecord": "1-1-0"
       },
       {
         "redName": "Shoya Ishiguro",
@@ -8094,9 +8278,25 @@
         "blueCountry": "Brazil",
         "redStyle": "Grappler",
         "blueStyle": "Grappler",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": [],
+        "redOdds": "+410",
+        "blueOdds": "-550",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "ONE Fight Night 48",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-fight-night-48-4387",
+            "promotion": "one",
+            "eventId": "69365982370b4d81ea624186",
+            "odds": {
+              "shoya ishiguro": "+410",
+              "ruan alvarenga": "-550"
+            },
+            "names": {
+              "shoya ishiguro": "Shoya Ishiguro",
+              "ruan alvarenga": "Ruan Alvarenga"
+            }
+          }
+        ],
         "redAge": 30,
         "redRecord": "4-2-0",
         "blueAge": 28,
@@ -8112,9 +8312,25 @@
         "blueCountry": "England / Ireland",
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": [],
+        "redOdds": "-350",
+        "blueOdds": "+280",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "ONE Fight Night 48",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-fight-night-48-4387",
+            "promotion": "one",
+            "eventId": "69365982370b4d81ea624186",
+            "odds": {
+              "yu yau pui": "-350",
+              "marie mcmanamon": "+280"
+            },
+            "names": {
+              "yu yau pui": "Yu Yau Pui",
+              "marie mcmanamon": "Marie McManamon"
+            }
+          }
+        ],
         "redAge": 33,
         "redRecord": "7-3-0",
         "blueAge": 36,
@@ -8355,10 +8571,30 @@
     "end": "20261106T153018Z",
     "summary": "ONE Friday Fights 177 & The Inner Circle 37",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-177\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-177\n\nChristian Lee vs. Tye Ruotolo | Lightweight World Championship\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/one-friday-fights-177",
     "status": "CONFIRMED",
-    "bouts": []
+    "bouts": [
+      {
+        "redName": "Christian Lee",
+        "blueName": "Tye Ruotolo",
+        "details": "Lightweight MMA World Championship",
+        "redProfileUrl": "https://www.onefc.com/athletes/christian-lee/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/tye-ruotolo/",
+        "redCountry": "Singapore / United States",
+        "blueCountry": "United States",
+        "redAge": 28,
+        "redRecord": "18-4-0",
+        "redStyle": "Grappler",
+        "blueAge": 23,
+        "blueRecord": "11-0-0",
+        "blueStyle": "Grappler",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      }
+    ],
+    "detailsUrl": "https://www.onefc.com/events/one-friday-fights-177/"
   },
   {
     "uid": "693659a52fbf6a23229602c3",

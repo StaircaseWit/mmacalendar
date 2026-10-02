@@ -2055,7 +2055,7 @@
           "countryCode": "JP",
           "birthDate": "1995-05-10",
           "record": "6-3-0",
-          "odds": null
+          "odds": "-163"
         },
         "blue": {
           "name": "Sho Patrick Usami",
@@ -2064,10 +2064,26 @@
           "countryCode": "JP",
           "birthDate": "2000-05-08",
           "record": "6-4-0",
-          "odds": null
+          "odds": "+120"
         },
-        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds",
-        "oddsHistory": []
+        "details": "72.65kg Lightweight · RIZIN MMA · 3 × 5 min rounds · Title bout",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "RIZIN LANDMARK 16 in NAGASAKI",
+            "sourceUrl": "https://www.bestfightodds.com/events/rizin-landmark-16-4388",
+            "promotion": "rizin",
+            "eventId": "17852438",
+            "odds": {
+              "yoshinori horie": "-163",
+              "sho patrick usami": "+120"
+            },
+            "names": {
+              "yoshinori horie": "Yoshinori Horie",
+              "sho patrick usami": "Sho Patrick Usami"
+            }
+          }
+        ]
       },
       {
         "order": 9,
@@ -2079,7 +2095,7 @@
           "countryCode": "RU",
           "birthDate": "1996-03-07",
           "record": "4-2-0",
-          "odds": null
+          "odds": "-333"
         },
         "blue": {
           "name": "Koyomi Matsushima",
@@ -2088,10 +2104,26 @@
           "countryCode": "JP",
           "birthDate": "1992-10-08",
           "record": "0-1-0",
-          "odds": null
+          "odds": "+225"
         },
         "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "RIZIN LANDMARK 16 in NAGASAKI",
+            "sourceUrl": "https://www.bestfightodds.com/events/rizin-landmark-16-4388",
+            "promotion": "rizin",
+            "eventId": "17852438",
+            "odds": {
+              "viktor kolesnik": "-333",
+              "koyomi matsushima": "+225"
+            },
+            "names": {
+              "viktor kolesnik": "Viktor Kolesnik",
+              "koyomi matsushima": "Koyomi Matsushima"
+            }
+          }
+        ]
       },
       {
         "order": 8,
@@ -2103,7 +2135,7 @@
           "countryCode": "US",
           "birthDate": "1989-10-24",
           "record": "1-0-0",
-          "odds": null
+          "odds": "-188"
         },
         "blue": {
           "name": "Hyuma Yasui",
@@ -2112,10 +2144,26 @@
           "countryCode": "JP",
           "birthDate": "2000-12-29",
           "record": "1-1-0",
-          "odds": null
+          "odds": "+140"
         },
         "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "RIZIN LANDMARK 16 in NAGASAKI",
+            "sourceUrl": "https://www.bestfightodds.com/events/rizin-landmark-16-4388",
+            "promotion": "rizin",
+            "eventId": "17852438",
+            "odds": {
+              "ryan cafaro": "-188",
+              "hyuma yasui": "+140"
+            },
+            "names": {
+              "ryan cafaro": "Ryan Cafaro",
+              "hyuma yasui": "Hyuma Yasui"
+            }
+          }
+        ]
       },
       {
         "order": 7,
@@ -2162,7 +2210,7 @@
           "record": null,
           "odds": null
         },
-        "details": "120kg Heavyweight · RIZIN MMA · 3 × 5 min rounds",
+        "details": "120kg Welterweight · RIZIN MMA · 3 × 5 min rounds",
         "oddsHistory": []
       },
       {
@@ -2199,7 +2247,7 @@
           "countryCode": "JP",
           "birthDate": "1995-05-01",
           "record": "3-4-0",
-          "odds": null
+          "odds": "+130"
         },
         "blue": {
           "name": "Seiya Inoue",
@@ -2208,10 +2256,26 @@
           "countryCode": "JP",
           "birthDate": "2004-04-04",
           "record": "2-1-0",
-          "odds": null
+          "odds": "-175"
         },
         "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "RIZIN LANDMARK 16 in NAGASAKI",
+            "sourceUrl": "https://www.bestfightodds.com/events/rizin-landmark-16-4388",
+            "promotion": "rizin",
+            "eventId": "17852438",
+            "odds": {
+              "ryusei ashizawa": "+130",
+              "seiya inoue": "-175"
+            },
+            "names": {
+              "ryusei ashizawa": "Ryusei Ashizawa",
+              "seiya inoue": "Seiya Inoue"
+            }
+          }
+        ]
       },
       {
         "order": 3,
@@ -2223,7 +2287,7 @@
           "countryCode": "JP",
           "birthDate": "1988-05-05",
           "record": "1-1-0",
-          "odds": null
+          "odds": "+150"
         },
         "blue": {
           "name": "Ken Hasegawa",
@@ -2232,10 +2296,26 @@
           "countryCode": "JP",
           "birthDate": "1987-02-26",
           "record": null,
-          "odds": null
+          "odds": "-200"
         },
-        "details": "120kg Heavyweight · RIZIN MMA · 3 × 5 min rounds",
-        "oddsHistory": []
+        "details": "120kg Middleweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "RIZIN LANDMARK 16 in NAGASAKI",
+            "sourceUrl": "https://www.bestfightodds.com/events/rizin-landmark-16-4388",
+            "promotion": "rizin",
+            "eventId": "17852438",
+            "odds": {
+              "hidetaka kaiju killer arato": "+150",
+              "ken hasegawa": "-200"
+            },
+            "names": {
+              "hidetaka kaiju killer arato": "Hidetaka\"Kaiju Killer\"Arato",
+              "ken hasegawa": "Ken Hasegawa"
+            }
+          }
+        ]
       },
       {
         "order": 2,
@@ -2271,7 +2351,7 @@
           "countryCode": "JP",
           "birthDate": "1995-11-21",
           "record": "0-1-0",
-          "odds": null
+          "odds": "+120"
         },
         "blue": {
           "name": "Kaito Oda",
@@ -2280,10 +2360,26 @@
           "countryCode": "JP",
           "birthDate": "1997-02-13",
           "record": null,
-          "odds": null
+          "odds": "-163"
         },
         "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "RIZIN LANDMARK 16 in NAGASAKI",
+            "sourceUrl": "https://www.bestfightodds.com/events/rizin-landmark-16-4388",
+            "promotion": "rizin",
+            "eventId": "17852438",
+            "odds": {
+              "kohei sugiyama": "+120",
+              "kaito oda": "-163"
+            },
+            "names": {
+              "kohei sugiyama": "Kohei Sugiyama",
+              "kaito oda": "Kaito Oda"
+            }
+          }
+        ]
       },
       {
         "order": 4,

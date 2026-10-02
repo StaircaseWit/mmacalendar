@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-09-28T14:01:47.609Z",
+  "lastCheckedAt": "2026-10-02T12:41:53.475Z",
   "fights": {
     "one::693657db2fbf6a23229602bf::selina flores--stamp fairtex": [
       {
@@ -1477,6 +1477,516 @@
         "names": {
           "tangtang sor dechapan": "Tangtang Sor Dechapan",
           "trieu thi phuong thuy": "Trieu Thi Phuong Thuy"
+        }
+      }
+    ],
+    "one::6a9682efd3539b67790eccd4::andrii mezentsev--payakrut suajantokmuaythai": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+        "promotion": "one",
+        "eventId": "6a9682efd3539b67790eccd4",
+        "odds": {
+          "payakrut suajantokmuaythai": "-118",
+          "andrii mezentsev": "-118"
+        },
+        "names": {
+          "payakrut suajantokmuaythai": "Payakrut Suajantokmuaythai",
+          "andrii mezentsev": "Andrii Mezentsev"
+        }
+      }
+    ],
+    "one::6a9682efd3539b67790eccd4::gaichon sor prawatmuang--tandiao por prawit": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+        "promotion": "one",
+        "eventId": "6a9682efd3539b67790eccd4",
+        "odds": {
+          "gaichon sor prawatmuang": "-275",
+          "tandiao por prawit": "+200"
+        },
+        "names": {
+          "gaichon sor prawatmuang": "Gaichon Sor Prawatmuang",
+          "tandiao por prawit": "Tandiao Por Prawit"
+        }
+      }
+    ],
+    "one::6a9682efd3539b67790eccd4::babar ali--imran satiev": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+        "promotion": "one",
+        "eventId": "6a9682efd3539b67790eccd4",
+        "odds": {
+          "imran satiev": "-275",
+          "babar ali": "+200"
+        },
+        "names": {
+          "imran satiev": "Imran Satiev",
+          "babar ali": "Babar Ali"
+        }
+      }
+    ],
+    "one::6a9682efd3539b67790eccd4::joanne la--yara saleh": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+        "promotion": "one",
+        "eventId": "6a9682efd3539b67790eccd4",
+        "odds": {
+          "joanne la": "+110",
+          "yara saleh": "-150"
+        },
+        "names": {
+          "joanne la": "Joanne La",
+          "yara saleh": "Yara Saleh"
+        }
+      }
+    ],
+    "one::6a9682efd3539b67790eccd4::hiroyuki--kevin oyervides": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+        "promotion": "one",
+        "eventId": "6a9682efd3539b67790eccd4",
+        "odds": {
+          "kevin oyervides": "+210",
+          "hiroyuki": "-300"
+        },
+        "names": {
+          "kevin oyervides": "Kevin Oyervides",
+          "hiroyuki": "Hiroyuki"
+        }
+      }
+    ],
+    "one::6a9682efd3539b67790eccd4::george jarvis--regian eersel": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+        "promotion": "one",
+        "eventId": "6a9682efd3539b67790eccd4",
+        "odds": {
+          "regian eersel": "-450",
+          "george jarvis": "+300"
+        },
+        "names": {
+          "regian eersel": "Regian Eersel",
+          "george jarvis": "George Jarvis"
+        }
+      }
+    ],
+    "one::6a9682efd3539b67790eccd4::ben woolliss--dzhamil osmanov": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+        "promotion": "one",
+        "eventId": "6a9682efd3539b67790eccd4",
+        "odds": {
+          "dzhamil osmanov": "-250",
+          "ben woolliss": "+175"
+        },
+        "names": {
+          "dzhamil osmanov": "Dzhamil Osmanov",
+          "ben woolliss": "Ben Woolliss"
+        }
+      }
+    ],
+    "one::6a9682efd3539b67790eccd4::mia trevorrow--sheila barrios": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+        "promotion": "one",
+        "eventId": "6a9682efd3539b67790eccd4",
+        "odds": {
+          "mia trevorrow": "-450",
+          "sheila barrios": "+300"
+        },
+        "names": {
+          "mia trevorrow": "Mia Trevorrow",
+          "sheila barrios": "Sheila Barrios"
+        }
+      }
+    ],
+    "one::6a9682efd3539b67790eccd4::fahlap toyotarayong--yugo kato": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "ONE Friday Fights 173 & The Inner Circle 33",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-173-4386",
+        "promotion": "one",
+        "eventId": "6a9682efd3539b67790eccd4",
+        "odds": {
+          "fahlap toyotarayong": "-105",
+          "yugo kato": "-125"
+        },
+        "names": {
+          "fahlap toyotarayong": "Fahlap Toyotarayong",
+          "yugo kato": "Yugo Kato"
+        }
+      }
+    ],
+    "pfl::pflmena11::badreddine diani--hazem kayyali": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "PFL MENA 11",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+        "promotion": "pfl",
+        "eventId": "pflmena11",
+        "odds": {
+          "badreddine diani": "-146",
+          "hazem kayyali": "+124"
+        },
+        "names": {
+          "badreddine diani": "Badreddine Diani",
+          "hazem kayyali": "Hazem Kayyali"
+        }
+      }
+    ],
+    "pfl::pflmena11::elias boudegzdame--islam youssef": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "PFL MENA 11",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+        "promotion": "pfl",
+        "eventId": "pflmena11",
+        "odds": {
+          "elias boudegzdame": "-333",
+          "islam youssef": "+285"
+        },
+        "names": {
+          "elias boudegzdame": "Elias Boudegzdame",
+          "islam youssef": "Islam Youssef"
+        }
+      }
+    ],
+    "pfl::pflmena11::basel shalaan--ylies djiroun": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "PFL MENA 11",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+        "promotion": "pfl",
+        "eventId": "pflmena11",
+        "odds": {
+          "ylies djiroun": "-549",
+          "basel shalaan": "+460"
+        },
+        "names": {
+          "ylies djiroun": "Ylies Djiroun",
+          "basel shalaan": "Basel Shalaan"
+        }
+      }
+    ],
+    "pfl::pflmena11::abdelkrim zouad--omar hussein": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "PFL MENA 11",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+        "promotion": "pfl",
+        "eventId": "pflmena11",
+        "odds": {
+          "omar hussein": "+220",
+          "abdelkrim zouad": "-270"
+        },
+        "names": {
+          "omar hussein": "Omar Hussein",
+          "abdelkrim zouad": "Abdelkrim Zouad"
+        }
+      }
+    ],
+    "pfl::pflmena11::mehdi saadi--shadi kabbani": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "PFL MENA 11",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+        "promotion": "pfl",
+        "eventId": "pflmena11",
+        "odds": {
+          "mehdi saadi": "-150",
+          "shadi kabbani": "+142"
+        },
+        "names": {
+          "mehdi saadi": "Mehdi Saadi",
+          "shadi kabbani": "Shadi Kabbani"
+        }
+      }
+    ],
+    "pfl::pflmena11::ahmed el sisy--mohammad fahmi": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "PFL MENA 11",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+        "promotion": "pfl",
+        "eventId": "pflmena11",
+        "odds": {
+          "mohammad fahmi": "-126",
+          "ahmed el sisy": "+110"
+        },
+        "names": {
+          "mohammad fahmi": "Mohammad Fahmi",
+          "ahmed el sisy": "Ahmed El Sisy"
+        }
+      }
+    ],
+    "pfl::pflmena11::assem ghanem--hassan shaaban": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "PFL MENA 11",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+        "promotion": "pfl",
+        "eventId": "pflmena11",
+        "odds": {
+          "hassan shaaban": "-134",
+          "assem ghanem": "+114"
+        },
+        "names": {
+          "hassan shaaban": "Hassan Shaaban",
+          "assem ghanem": "Assem Ghanem"
+        }
+      }
+    ],
+    "pfl::pflmena11::aya lounes--fatima al ammari": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "PFL MENA 11",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+        "promotion": "pfl",
+        "eventId": "pflmena11",
+        "odds": {
+          "fatima al ammari": "-295",
+          "aya lounes": "+240"
+        },
+        "names": {
+          "fatima al ammari": "Fatima Al Ammari",
+          "aya lounes": "Aya Lounes"
+        }
+      }
+    ],
+    "pfl::pflmena11::elias boudegzdame--hamza kooheji": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "PFL MENA 11",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+        "promotion": "pfl",
+        "eventId": "pflmena11",
+        "odds": {
+          "hamza kooheji": "+225",
+          "elias boudegzdame": "-333"
+        },
+        "names": {
+          "hamza kooheji": "Hamza Kooheji",
+          "elias boudegzdame": "Elias Boudegzdame"
+        }
+      }
+    ],
+    "one::69365982370b4d81ea624186::nakrob fairtex--parham gheirati": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "ONE Fight Night 48",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-fight-night-48-4387",
+        "promotion": "one",
+        "eventId": "69365982370b4d81ea624186",
+        "odds": {
+          "nakrob fairtex": "+136",
+          "parham gheirati": "-138"
+        },
+        "names": {
+          "nakrob fairtex": "Nakrob Fairtex",
+          "parham gheirati": "Parham Gheirati"
+        }
+      }
+    ],
+    "one::69365982370b4d81ea624186::antonio cesar--joshua perreira": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "ONE Fight Night 48",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-fight-night-48-4387",
+        "promotion": "one",
+        "eventId": "69365982370b4d81ea624186",
+        "odds": {
+          "joshua perreira": "+154",
+          "antonio cesar": "-163"
+        },
+        "names": {
+          "joshua perreira": "Joshua Perreira",
+          "antonio cesar": "Antonio Cesar"
+        }
+      }
+    ],
+    "one::69365982370b4d81ea624186::charlie guest--luke lessei": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "ONE Fight Night 48",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-fight-night-48-4387",
+        "promotion": "one",
+        "eventId": "69365982370b4d81ea624186",
+        "odds": {
+          "luke lessei": "-184",
+          "charlie guest": "+163"
+        },
+        "names": {
+          "luke lessei": "Luke Lessei",
+          "charlie guest": "Charlie Guest"
+        }
+      }
+    ],
+    "one::69365982370b4d81ea624186::elbrus osmanov--yi yuxuan": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "ONE Fight Night 48",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-fight-night-48-4387",
+        "promotion": "one",
+        "eventId": "69365982370b4d81ea624186",
+        "odds": {
+          "yi yuxuan": "+250",
+          "elbrus osmanov": "-310"
+        },
+        "names": {
+          "yi yuxuan": "Yi Yuxuan",
+          "elbrus osmanov": "Elbrus Osmanov"
+        }
+      }
+    ],
+    "one::69365982370b4d81ea624186::ruan alvarenga--shoya ishiguro": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "ONE Fight Night 48",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-fight-night-48-4387",
+        "promotion": "one",
+        "eventId": "69365982370b4d81ea624186",
+        "odds": {
+          "shoya ishiguro": "+410",
+          "ruan alvarenga": "-550"
+        },
+        "names": {
+          "shoya ishiguro": "Shoya Ishiguro",
+          "ruan alvarenga": "Ruan Alvarenga"
+        }
+      }
+    ],
+    "one::69365982370b4d81ea624186::marie mcmanamon--yu yau pui": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "ONE Fight Night 48",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-fight-night-48-4387",
+        "promotion": "one",
+        "eventId": "69365982370b4d81ea624186",
+        "odds": {
+          "yu yau pui": "-350",
+          "marie mcmanamon": "+280"
+        },
+        "names": {
+          "yu yau pui": "Yu Yau Pui",
+          "marie mcmanamon": "Marie McManamon"
+        }
+      }
+    ],
+    "rizin::17852438::sho patrick usami--yoshinori horie": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "RIZIN LANDMARK 16 in NAGASAKI",
+        "sourceUrl": "https://www.bestfightodds.com/events/rizin-landmark-16-4388",
+        "promotion": "rizin",
+        "eventId": "17852438",
+        "odds": {
+          "yoshinori horie": "-163",
+          "sho patrick usami": "+120"
+        },
+        "names": {
+          "yoshinori horie": "Yoshinori Horie",
+          "sho patrick usami": "Sho Patrick Usami"
+        }
+      }
+    ],
+    "rizin::17852438::koyomi matsushima--viktor kolesnik": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "RIZIN LANDMARK 16 in NAGASAKI",
+        "sourceUrl": "https://www.bestfightodds.com/events/rizin-landmark-16-4388",
+        "promotion": "rizin",
+        "eventId": "17852438",
+        "odds": {
+          "viktor kolesnik": "-333",
+          "koyomi matsushima": "+225"
+        },
+        "names": {
+          "viktor kolesnik": "Viktor Kolesnik",
+          "koyomi matsushima": "Koyomi Matsushima"
+        }
+      }
+    ],
+    "rizin::17852438::ryusei ashizawa--seiya inoue": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "RIZIN LANDMARK 16 in NAGASAKI",
+        "sourceUrl": "https://www.bestfightodds.com/events/rizin-landmark-16-4388",
+        "promotion": "rizin",
+        "eventId": "17852438",
+        "odds": {
+          "ryusei ashizawa": "+130",
+          "seiya inoue": "-175"
+        },
+        "names": {
+          "ryusei ashizawa": "Ryusei Ashizawa",
+          "seiya inoue": "Seiya Inoue"
+        }
+      }
+    ],
+    "rizin::17852438::hyuma yasui--ryan cafaro": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "RIZIN LANDMARK 16 in NAGASAKI",
+        "sourceUrl": "https://www.bestfightodds.com/events/rizin-landmark-16-4388",
+        "promotion": "rizin",
+        "eventId": "17852438",
+        "odds": {
+          "ryan cafaro": "-188",
+          "hyuma yasui": "+140"
+        },
+        "names": {
+          "ryan cafaro": "Ryan Cafaro",
+          "hyuma yasui": "Hyuma Yasui"
+        }
+      }
+    ],
+    "rizin::17852438::hidetaka kaiju killer arato--ken hasegawa": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "RIZIN LANDMARK 16 in NAGASAKI",
+        "sourceUrl": "https://www.bestfightodds.com/events/rizin-landmark-16-4388",
+        "promotion": "rizin",
+        "eventId": "17852438",
+        "odds": {
+          "hidetaka kaiju killer arato": "+150",
+          "ken hasegawa": "-200"
+        },
+        "names": {
+          "hidetaka kaiju killer arato": "Hidetaka\"Kaiju Killer\"Arato",
+          "ken hasegawa": "Ken Hasegawa"
+        }
+      }
+    ],
+    "rizin::17852438::kaito oda--kohei sugiyama": [
+      {
+        "checkedAt": "2026-10-02T12:41:53.475Z",
+        "eventName": "RIZIN LANDMARK 16 in NAGASAKI",
+        "sourceUrl": "https://www.bestfightodds.com/events/rizin-landmark-16-4388",
+        "promotion": "rizin",
+        "eventId": "17852438",
+        "odds": {
+          "kohei sugiyama": "+120",
+          "kaito oda": "-163"
+        },
+        "names": {
+          "kohei sugiyama": "Kohei Sugiyama",
+          "kaito oda": "Kaito Oda"
         }
       }
     ]

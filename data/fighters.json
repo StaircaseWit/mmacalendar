@@ -3298,32 +3298,32 @@
       "checkedAt": "2026-09-25T11:55:05.698Z"
     },
     "https://www.ufc.com/athlete/mahammadali-osmanli": {
-      "birthDate": null,
-      "familyName": null,
-      "record": null,
-      "fightingStyle": null,
-      "checkedAt": "2026-09-25T11:55:05.698Z"
+      "birthDate": "2004-08-05",
+      "familyName": "Osmanli",
+      "record": "13-2-0",
+      "fightingStyle": "MMA",
+      "checkedAt": "2026-10-02T12:41:53.475Z"
     },
     "https://www.ufc.com/athlete/natalia-silva": {
       "birthDate": "1997-02-03",
       "familyName": "Silva",
       "record": "20-5-1",
       "fightingStyle": "Taekwondo",
-      "checkedAt": "2026-09-25T11:55:05.698Z"
+      "checkedAt": "2026-10-02T12:41:53.475Z"
     },
     "https://www.ufc.com/athlete/kyle-nelson": {
       "birthDate": "1991-04-20",
       "familyName": "Nelson",
       "record": "17-7-1",
       "fightingStyle": "Jiu-Jitsu",
-      "checkedAt": "2026-09-25T11:55:05.698Z"
+      "checkedAt": "2026-10-02T12:41:53.475Z"
     },
     "https://www.ufc.com/athlete/cristian-perez-gonzalez": {
       "birthDate": "1999-08-17",
       "familyName": "Perez Gonzalez",
       "record": "1-1-0",
       "fightingStyle": null,
-      "checkedAt": "2026-09-25T11:55:05.698Z"
+      "checkedAt": "2026-10-02T12:41:53.475Z"
     },
     "https://www.ufc.com/athlete/jacobe-smith": {
       "birthDate": "1996-01-17",
@@ -3625,6 +3625,13 @@
       "record": "17-3-0",
       "fightingStyle": "Jiu-Jitsu",
       "checkedAt": "2026-09-30T12:40:52.896Z"
+    },
+    "https://www.ufc.com/athlete/anthony-romero-0": {
+      "birthDate": "1996-10-22",
+      "familyName": "Romero",
+      "record": "7-2-0",
+      "fightingStyle": "Freestyle",
+      "checkedAt": "2026-10-02T12:41:53.475Z"
     }
   }
 }

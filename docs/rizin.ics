@@ -444,8 +444,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:17852438@mma-calendar-rizin
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260930T124052Z
-SEQUENCE:2
+LAST-MODIFIED:20261002T124153Z
+SEQUENCE:3
 DTSTART:20261003T050000Z
 DTEND:20261003T110000Z
 SUMMARY:RIZIN LANDMARK 16 in NAGASAKI
@@ -456,36 +456,44 @@ DESCRIPTION:RIZIN Fighting Federation · Complete Event · 14 announced bou
  -------\n\n── 𝗠𝗔𝗜𝗡 𝗖𝗔𝗥𝗗 · 𝟭𝟬 𝗯𝗼
  𝘂𝘁𝘀 ──\n\n🥊 10. 𝗬𝗼𝘀𝗵𝗶𝗻𝗼𝗿𝗶 𝗛
  𝗼𝗿𝗶𝗲 🇯🇵 vs. 𝗦𝗵𝗼 𝗣𝗮𝘁𝗿𝗶𝗰𝗸 
- 𝗨𝘀𝗮𝗺𝗶 🇯🇵\n• 156.5lbs/71kg Lightweight · RIZIN MMA 
- · 3 × 5 min rounds\n• Horie: RIZIN 6-3-0 | 31yo | Striker\n• Usami: 
- RIZIN 6-4-0 | 26yo | Striker\n\n🥊 9. 𝗩𝗶𝗸𝘁𝗼𝗿 𝗞𝗼
- 𝗹𝗲𝘀𝗻𝗶𝗸 🇷🇺 vs. 𝗞𝗼𝘆𝗼𝗺𝗶 𝗠𝗮
- 𝘁𝘀𝘂𝘀𝗵𝗶𝗺𝗮 🇯🇵\n• 145.5lbs/66kg Featherweight
-  · RIZIN MMA · 3 × 5 min rounds\n• Kolesnik: RIZIN 4-2-0 | 30yo | Str
- iker\n• Matsushima: RIZIN 0-1-0 | 33yo | All-rounder\n\n🥊 8. 𝗥𝘆
- 𝗮𝗻 𝗖𝗮𝗳𝗮𝗿𝗼 🇺🇸 vs. 𝗛𝘆𝘂𝗺𝗮 𝗬
- 𝗮𝘀𝘂𝗶 🇯🇵\n• 145.5lbs/66kg Featherweight · RIZIN MMA ·
-  3 × 5 min rounds\n• Cafaro: RIZIN 1-0-0 | 36yo | All-rounder\n• Yasu
- i: RIZIN 1-1-0 | 25yo | All-rounder\n\n🥊 7. 𝗞𝗮𝘁𝗲 𝗟𝗼
- 𝘁𝘂𝘀 🇯🇵 vs. 𝗡𝗢𝗘𝗟 🇯🇵\n• 108lbs/49kg Women
- 's Super Atomweight · RIZIN MMA · 3 × 5 min rounds\n• Lotus: RIZIN 3-
- 2-0 | 28yo | All-rounder\n• NOEL: RIZIN 2-1-0 | 18yo | All-rounder\n\n
- 🥊 6. 𝗠𝗮𝗰 𝗣𝗮𝗽𝗮𝗹𝗶𝗶 🇼🇸 vs. 𝗬𝘂
- 𝗸𝗶𝗻𝗼𝗿𝗶 𝗔𝗸𝗮𝘇𝗮𝘄𝗮 🇯🇵\n• 264.6l
- bs/120kg Heavyweight · RIZIN MMA · 3 × 5 min rounds\n• Papalii: 27yo 
- | All-rounder\n• Akazawa: 34yo | Grappler\n\n🥊 5. 𝗛𝗶𝗻𝗼
- 𝘁𝗼𝗿𝗶 🇯🇵 vs. 𝗠𝗮𝘀𝗮𝘁𝗼𝘀𝗵𝗶 𝗨
- 𝗲𝗱𝗮 🇯🇵\n• 125.7lbs/57kg Flyweight · RIZIN MMA · 3 × 5 
- min rounds\n• Hinotori: RIZIN 2-0-0 | 32yo | All-rounder\n• Ueda: RIZI
- N 0-1-0 | 39yo | All-rounder\n\n🥊 4. 𝗥𝘆𝘂𝘀𝗲𝗶 𝗔𝘀
- 𝗵𝗶𝘇𝗮𝘄𝗮 🇯🇵 vs. 𝗦𝗲𝗶𝘆𝗮 𝗜𝗻𝗼
- 𝘂𝗲 🇯🇵\n• 134.5lbs/61kg Bantamweight · RIZIN MMA · 3 × 5 m
- in rounds\n• Ashizawa: RIZIN 3-4-0 | 31yo | All-rounder\n• Inoue: RIZI
- N 2-1-0 | 22yo | All-rounder\n\n🥊 3. 𝗛𝗶𝗱𝗲𝘁𝗮𝗸𝗮"
- 𝗞𝗮𝗶𝗷𝘂 𝗞𝗶𝗹𝗹𝗲𝗿"𝗔𝗿𝗮𝘁𝗼 🇯
- 🇵 vs. 𝗞𝗲𝗻 𝗛𝗮𝘀𝗲𝗴𝗮𝘄𝗮 🇯🇵\n• 264.6
- lbs/120kg Heavyweight · RIZIN MMA · 3 × 5 min rounds\n• Killer"Arato:
-  RIZIN 1-1-0 | 38yo | All-rounder\n• Hasegawa: 39yo | All-rounder\n\n
+ 𝗨𝘀𝗮𝗺𝗶 🇯🇵\n• 160.2lbs/72.65kg Lightweight · RIZIN M
+ MA · 3 × 5 min rounds · Title bout\n• Horie: RIZIN 6-3-0 | 31yo | Str
+ iker | -163 (1.61)\n• Usami: RIZIN 6-4-0 | 26yo | Striker | +120 (2.20)\
+ n• Odds history:\n  ◦ 2 Oct: Horie 🟢 -163 (1.61) | Usami 🔴 +120 
+ (2.20)\n\n🥊 9. 𝗩𝗶𝗸𝘁𝗼𝗿 𝗞𝗼𝗹𝗲𝘀𝗻𝗶
+ 𝗸 🇷🇺 vs. 𝗞𝗼𝘆𝗼𝗺𝗶 𝗠𝗮𝘁𝘀𝘂𝘀𝗵
+ 𝗶𝗺𝗮 🇯🇵\n• 145.5lbs/66kg Featherweight · RIZIN MMA · 3 
+ × 5 min rounds\n• Kolesnik: RIZIN 4-2-0 | 30yo | Striker | -333 (1.30)\
+ n• Matsushima: RIZIN 0-1-0 | 33yo | All-rounder | +225 (3.25)\n• Odds 
+ history:\n  ◦ 2 Oct: Kolesnik 🟢 -333 (1.30) | Matsushima 🔴 +225 (3
+ .25)\n\n🥊 8. 𝗥𝘆𝗮𝗻 𝗖𝗮𝗳𝗮𝗿𝗼 🇺🇸 vs. 
+ 𝗛𝘆𝘂𝗺𝗮 𝗬𝗮𝘀𝘂𝗶 🇯🇵\n• 145.5lbs/66kg Feat
+ herweight · RIZIN MMA · 3 × 5 min rounds\n• Cafaro: RIZIN 1-0-0 | 36y
+ o | All-rounder | -188 (1.53)\n• Yasui: RIZIN 1-1-0 | 25yo | All-rounder
+  | +140 (2.40)\n• Odds history:\n  ◦ 2 Oct: Cafaro 🟢 -188 (1.53) | 
+ Yasui 🔴 +140 (2.40)\n\n🥊 7. 𝗞𝗮𝘁𝗲 𝗟𝗼𝘁𝘂𝘀 
+ 🇯🇵 vs. 𝗡𝗢𝗘𝗟 🇯🇵\n• 108lbs/49kg Women's Super Atom
+ weight · RIZIN MMA · 3 × 5 min rounds\n• Lotus: RIZIN 3-2-0 | 28yo | 
+ All-rounder\n• NOEL: RIZIN 2-1-0 | 18yo | All-rounder\n\n🥊 6. 𝗠
+ 𝗮𝗰 𝗣𝗮𝗽𝗮𝗹𝗶𝗶 🇼🇸 vs. 𝗬𝘂𝗸𝗶𝗻
+ 𝗼𝗿𝗶 𝗔𝗸𝗮𝘇𝗮𝘄𝗮 🇯🇵\n• 264.6lbs/120kg Wel
+ terweight · RIZIN MMA · 3 × 5 min rounds\n• Papalii: 27yo | All-round
+ er\n• Akazawa: 34yo | Grappler\n\n🥊 5. 𝗛𝗶𝗻𝗼𝘁𝗼𝗿
+ 𝗶 🇯🇵 vs. 𝗠𝗮𝘀𝗮𝘁𝗼𝘀𝗵𝗶 𝗨𝗲𝗱𝗮 
+ 🇯🇵\n• 125.7lbs/57kg Flyweight · RIZIN MMA · 3 × 5 min rounds\n
+ • Hinotori: RIZIN 2-0-0 | 32yo | All-rounder\n• Ueda: RIZIN 0-1-0 | 39
+ yo | All-rounder\n\n🥊 4. 𝗥𝘆𝘂𝘀𝗲𝗶 𝗔𝘀𝗵𝗶𝘇
+ 𝗮𝘄𝗮 🇯🇵 vs. 𝗦𝗲𝗶𝘆𝗮 𝗜𝗻𝗼𝘂𝗲 🇯
+ 🇵\n• 134.5lbs/61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds\n
+ • Ashizawa: RIZIN 3-4-0 | 31yo | All-rounder | +130 (2.30)\n• Inoue: R
+ IZIN 2-1-0 | 22yo | All-rounder | -175 (1.57)\n• Odds history:\n  ◦ 2 
+ Oct: Ashizawa 🔴 +130 (2.30) | Inoue 🟢 -175 (1.57)\n\n🥊 3. 𝗛
+ 𝗶𝗱𝗲𝘁𝗮𝗸𝗮"𝗞𝗮𝗶𝗷𝘂 𝗞𝗶𝗹𝗹𝗲𝗿
+ "𝗔𝗿𝗮𝘁𝗼 🇯🇵 vs. 𝗞𝗲𝗻 𝗛𝗮𝘀𝗲𝗴𝗮
+ 𝘄𝗮 🇯🇵\n• 264.6lbs/120kg Middleweight · RIZIN MMA · 3 × 5 
+ min rounds\n• Killer"Arato: RIZIN 1-1-0 | 38yo | All-rounder | +150 (2.5
+ 0)\n• Hasegawa: 39yo | All-rounder | -200 (1.50)\n• Odds history:\n  
+ ◦ 2 Oct: Killer"Arato 🔴 +150 (2.50) | Hasegawa 🟢 -200 (1.50)\n\n
  🥊 2. 𝗔𝗹𝗮𝗻“𝗛𝗶𝗿𝗼”𝗬𝗮𝗺𝗮𝗻𝗶𝗵
  𝗮 🇧🇷 vs. 𝗦𝗲𝗶𝗴𝗼 𝗬𝗮𝗺𝗮𝗺𝗼𝘁𝗼 
  🇯🇵\n• 134.5lbs/61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds
@@ -493,26 +501,29 @@ DESCRIPTION:RIZIN Fighting Federation · Complete Event · 14 announced bou
  to: RIZIN 0-2-0 | 30yo | Striker\n\n🥊 1. 𝗞𝗼𝗵𝗲𝗶 𝗦𝘂
  𝗴𝗶𝘆𝗮𝗺𝗮 🇯🇵 vs. 𝗞𝗮𝗶𝘁𝗼 𝗢𝗱𝗮 
  🇯🇵\n• 125.7lbs/57kg Flyweight · RIZIN MMA · 3 × 5 min rounds\n
- • Sugiyama: RIZIN 0-1-0 | 30yo | All-rounder\n• Oda: 29yo | All-rounde
- r\n\n── 𝗢𝗣𝗘𝗡𝗜𝗡𝗚 𝗙𝗜𝗚𝗛𝗧𝗦 · 𝟰 
- 𝗯𝗼𝘂𝘁𝘀 ──\n\n🥊 4. 𝗥𝘆𝗼𝘁𝗮 𝗢𝗸𝗶 
- 🇯🇵 vs. 𝗛𝘂𝗻𝘁 𝗥𝗮𝗻𝗴𝗲𝗿𝘀 🇯🇵\n• 1
- 56.5lbs/71kg Lightweight · RIZIN MMA · 2 × 5 min rounds\n• Oki: RIZIN
-  1-0-0 | 37yo | Striker\n• Rangers: 44yo | Striker\n\n🥊 3. 𝗞𝗼
- 𝘁𝗮𝗿𝗼 𝗠𝗼𝗿𝗶 🇯🇵 vs. 𝗬𝘂𝗸𝗶 🇯🇵\n
- • 220.5lbs/100kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds\n
- • Mori: 39yo\n• Yuki: 42yo | Striker\n\n🥊 2. 𝗥𝘆𝘂𝘀𝗲
- 𝗶 𝗜𝗺𝗮𝗺𝘂𝗿𝗮 🇯🇵 vs. 𝗥𝗲𝗼𝗻 𝗨𝗲
- 𝗺𝘂𝗿𝗮 🇯🇵\n• 125.7lbs/57kg Flyweight · RIZIN Kickboxing
-  · 3 × 3 min rounds\n• Imamura: RIZIN 1-0-0 | 23yo | Striker\n• Uemu
- ra: 21yo | Striker\n\n🥊 1. 𝗞𝗮𝗸𝗲𝗿𝘂 🇯🇵 vs. 𝗔
- 𝘆𝘂𝘁𝗼 🇯🇵\n• 143.3lbs/65kg Catchweight · RIZIN Kickboxi
- ng · 3 × 3 min rounds\n• Kakeru: 32yo | Striker\n• Ayuto: 23yo | Str
- iker\n\n--------------------------------\n𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘
- 𝗗 𝗢𝗥 𝗣𝗢𝗦𝗧𝗣𝗢𝗡𝗘𝗗 𝗕𝗢𝗨𝗧𝗦\n-
- -------------------------------\n\n✕ Mac Papalii vs. Alboury Ndiaye\n•
-  Removed from the official RIZIN card\n\n--------------------------------\
- nSource: https://jp.rizinff.com/_ct/17857720
+ • Sugiyama: RIZIN 0-1-0 | 30yo | All-rounder | +120 (2.20)\n• Oda: 29y
+ o | All-rounder | -163 (1.61)\n• Odds history:\n  ◦ 2 Oct: Sugiyama 
+ 🔴 +120 (2.20) | Oda 🟢 -163 (1.61)\n\n── 𝗢𝗣𝗘𝗡𝗜𝗡
+ 𝗚 𝗙𝗜𝗚𝗛𝗧𝗦 · 𝟰 𝗯𝗼𝘂𝘁𝘀 ──\n\n🥊 
+ 4. 𝗥𝘆𝗼𝘁𝗮 𝗢𝗸𝗶 🇯🇵 vs. 𝗛𝘂𝗻𝘁 𝗥
+ 𝗮𝗻𝗴𝗲𝗿𝘀 🇯🇵\n• 156.5lbs/71kg Lightweight · RIZIN 
+ MMA · 2 × 5 min rounds\n• Oki: RIZIN 1-0-0 | 37yo | Striker\n• Range
+ rs: 44yo | Striker\n\n🥊 3. 𝗞𝗼𝘁𝗮𝗿𝗼 𝗠𝗼𝗿𝗶 
+ 🇯🇵 vs. 𝗬𝘂𝗸𝗶 🇯🇵\n• 220.5lbs/100kg Catchweight · 
+ RIZIN Kickboxing · 3 × 3 min rounds\n• Mori: 39yo\n• Yuki: 42yo | St
+ riker\n\n🥊 2. 𝗥𝘆𝘂𝘀𝗲𝗶 𝗜𝗺𝗮𝗺𝘂𝗿𝗮 
+ 🇯🇵 vs. 𝗥𝗲𝗼𝗻 𝗨𝗲𝗺𝘂𝗿𝗮 🇯🇵\n• 125.7
+ lbs/57kg Flyweight · RIZIN Kickboxing · 3 × 3 min rounds\n• Imamura: 
+ RIZIN 1-0-0 | 23yo | Striker\n• Uemura: 21yo | Striker\n\n🥊 1. 𝗞
+ 𝗮𝗸𝗲𝗿𝘂 🇯🇵 vs. 𝗔𝘆𝘂𝘁𝗼 🇯🇵\n• 143.3
+ lbs/65kg Catchweight · RIZIN Kickboxing · 3 × 3 min rounds\n• Kakeru:
+  32yo | Striker\n• Ayuto: 23yo | Striker\n\n----------------------------
+ ----\n𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗣𝗢𝗦𝗧𝗣
+ 𝗢𝗡𝗘𝗗 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\
+ n✕ Mac Papalii vs. Alboury Ndiaye\n• Removed from the official RIZIN c
+ ard\n\n--------------------------------\nSource: https://jp.rizinff.com/_c
+ t/17857720\nOdds source: https://www.bestfightodds.com/ · best available 
+ line · checked Monday and Friday
 LOCATION:長崎スタジアムシティ HAPPINESS ARENA
 URL:https://jp.rizinff.com/_ct/17852438
 CATEGORIES:RIZIN Fighting Federation
