@@ -892,65 +892,59 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pflmena11@mma-calendar-pfl
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261002T124153Z
-SEQUENCE:4
+LAST-MODIFIED:20261005T144716Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 TRANSP:TRANSPARENT
 SUMMARY:PFL MENA 11
-DESCRIPTION:Professional Fighters League · Complete Event · 10 announced 
- bouts\n📍 Riyadh\, KSA\nCard times have not been announced. This date-on
- ly entry will update automatically.\n\n--------------------------------\n
- 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 10. 𝗠
- 𝗼𝘀𝘁𝗮𝗳𝗮 𝗥𝗮𝘀𝗵𝗲𝗱 𝗡𝗲𝗱𝗮 🇸
- 🇦 vs. 𝗢𝘀𝗮𝗺𝗮 𝗘𝗹 𝗦𝗮𝗶𝗱𝘆\n• 205lbs/93
- kg Light Heavyweight\n• Neda: 9-4-0 | 38yo\n\n🥊 9. 𝗕𝗮𝗱𝗿
- 𝗲𝗱𝗱𝗶𝗻𝗲 𝗗𝗶𝗮𝗻𝗶 🇲🇦 vs. 𝗛𝗮𝘇
- 𝗲𝗺 𝗞𝗮𝘆𝘆𝗮𝗹𝗶 🇯🇴\n• 170lbs/77kg Welterweig
- ht · Semifinal\n• Diani: 11-4-0 | 29yo | -146 (1.68)\n• Kayyali: 3-0-
- 2 | 26yo | +124 (2.24)\n• Odds history:\n  ◦ 2 Oct: Diani 🟢 -146 (1
- .68) | Kayyali 🔴 +124 (2.24)\n\n🥊 8. 𝗘𝗹𝗶𝗮𝘀 𝗕𝗼
- 𝘂𝗱𝗲𝗴𝘇𝗱𝗮𝗺𝗲 🇩🇿 vs. 𝗜𝘀𝗹𝗮𝗺 
- 𝗬𝗼𝘂𝘀𝘀𝗲𝗳 🇪🇬\n• 145lbs/66kg Featherweight · Se
- mifinal\n• Boudegzdame: 21-9-0 | 32yo | -333 (1.30)\n• Youssef: 7-3-0 
- | 27yo | +285 (3.85)\n• Odds history:\n  ◦ 2 Oct: Boudegzdame 🟢 -33
- 3 (1.30) | Youssef 🔴 +285 (3.85)\n\n🥊 7. 𝗬𝗹𝗶𝗲𝘀 𝗗
- 𝗷𝗶𝗿𝗼𝘂𝗻 vs. 𝗕𝗮𝘀𝗲𝗹 𝗦𝗵𝗮𝗹𝗮𝗮
- 𝗻 🇪🇬\n• 155lbs/70kg Lightweight · Semifinal\n• Djiroun: 16-6
- -0 | -549 (1.18)\n• Shalaan: 7-1-0 | 24yo | +460 (5.60)\n• Odds histor
- y:\n  ◦ 2 Oct: Djiroun 🟢 -549 (1.18) | Shalaan 🔴 +460 (5.60)\n\n
- 🥊 6. 𝗢𝗺𝗮𝗿 𝗛𝘂𝘀𝘀𝗲𝗶𝗻 vs. 𝗔𝗯𝗱𝗲
- 𝗹𝗸𝗿𝗶𝗺 𝗭𝗼𝘂𝗮𝗱 🇩🇿\n• 170lbs/77kg Welter
- weight · Semifinal\n• Hussein: 12-7-0 | +220 (3.20)\n• Zouad: 8-2-0 |
-  -270 (1.37)\n• Odds history:\n  ◦ 2 Oct: Hussein 🔴 +220 (3.20) | Z
- ouad 🟢 -270 (1.37)\n\n🥊 5. 𝗛𝗮𝘀𝘀𝗮𝗻 𝗦𝗵𝗮𝗮
- 𝗯𝗮𝗻 🇱🇧 vs. 𝗔𝘀𝘀𝗲𝗺 𝗚𝗵𝗮𝗻𝗲𝗺 
- 🇪🇬\n• 155lbs/70kg Lightweight\n• Shaaban: 6-2-0 | 25yo | -134 (1
- .75)\n• Ghanem: 7-0-0 | 25yo | +114 (2.14)\n• Odds history:\n  ◦ 2 O
- ct: Shaaban 🟢 -134 (1.75) | Ghanem 🔴 +114 (2.14)\n\n🥊 4. 𝗠𝗲
- 𝗵𝗱𝗶 𝗦𝗮𝗮𝗱𝗶 🇫🇷 vs. 𝗦𝗵𝗮𝗱𝗶 𝗞
- 𝗮𝗯𝗯𝗮𝗻𝗶 🇸🇾\n• 145lbs/66kg Featherweight · Semifi
- nal\n• Saadi: 6-2-0 | 33yo | -150 (1.67)\n• Kabbani: 5-0-0 | +142 (2.4
- 2)\n• Odds history:\n  ◦ 2 Oct: Saadi 🟢 -150 (1.67) | Kabbani 🔴 
- +142 (2.42)\n\n🥊 3. 𝗠𝗼𝗵𝗮𝗺𝗺𝗮𝗱 𝗙𝗮𝗵𝗺
- 𝗶 🇮🇶 vs. 𝗔𝗵𝗺𝗲𝗱 𝗘𝗹 𝗦𝗶𝘀𝘆 🇪🇬\
- n• 155lbs/70kg Lightweight · Semifinal\n• Fahmi: 5-1-0 | 31yo | -126 
- (1.79)\n• Sisy: 8-2-0 | +110 (2.10)\n• Odds history:\n  ◦ 2 Oct: Fah
- mi 🟢 -126 (1.79) | Sisy 🔴 +110 (2.10)\n\n🥊 2. 𝗛𝗮𝗶𝗳 
- 𝗔𝗹 𝗤𝗮𝗵𝘁𝗮𝗻𝗶 🇸🇦 vs. 𝗔𝗹𝗶 𝗔𝗹
- 𝘀𝗵𝗼𝘄𝗮𝗸𝗵 🇧🇭\n• 145lbs/66kg Featherweight · Am
- ateur\n• Qahtani: 8-1-0 | 18yo\n• Alshowakh: 3-0-0 | 21yo\n\n🥊 1. 
+DESCRIPTION:Professional Fighters League · Complete Event · 8 announced b
+ outs\n📍 Riyadh\, KSA\nCard times have not been announced. This date-onl
+ y entry will update automatically.\n\n--------------------------------\n
+ 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 8. 𝗠𝗼
+ 𝘀𝘁𝗮𝗳𝗮 𝗥𝗮𝘀𝗵𝗲𝗱 𝗡𝗲𝗱𝗮 🇸🇦 vs
+ . 𝗢𝘀𝗮𝗺𝗮 𝗘𝗹 𝗦𝗮𝗶𝗱𝘆\n• 205lbs/93kg Ligh
+ t Heavyweight\n• Neda: 9-4-0 | 38yo\n\n🥊 7. 𝗕𝗮𝗱𝗿𝗲𝗱
+ 𝗱𝗶𝗻𝗲 𝗗𝗶𝗮𝗻𝗶 🇲🇦 vs. 𝗛𝗮𝘇𝗲𝗺 
+ 𝗞𝗮𝘆𝘆𝗮𝗹𝗶 🇯🇴\n• 170lbs/77kg Welterweight · Sem
+ ifinal\n• Diani: 11-4-0 | 29yo | -146 (1.68)\n• Kayyali: 3-0-2 | 26yo 
+ | +124 (2.24)\n• Odds history:\n  ◦ 2 Oct: Diani 🟢 -146 (1.68) | Ka
+ yyali 🔴 +124 (2.24)\n\n🥊 6. 𝗬𝗹𝗶𝗲𝘀 𝗗𝗷𝗶𝗿
+ 𝗼𝘂𝗻 vs. 𝗔𝘀𝘀𝗲𝗺 𝗚𝗵𝗮𝗻𝗲𝗺 🇪🇬\n
+ • Winner: Ylies Djiroun by TKO\n• Djiroun: 16-6-0 | -350 (1.29)\n• G
+ hanem: 7-0-0 | 25yo | +275 (3.75)\n• Odds history:\n  ◦ 5 Oct: Djiroun
+  🟢 -350 (1.29) | Ghanem 🔴 +275 (3.75)\n\n🥊 5. 𝗠𝗲𝗵𝗱
+ 𝗶 𝗦𝗮𝗮𝗱𝗶 🇫🇷 vs. 𝗦𝗵𝗮𝗱𝗶 𝗞𝗮𝗯
+ 𝗯𝗮𝗻𝗶 🇸🇾\n• 145lbs/66kg Featherweight · Semifinal\n•
+  Saadi: 6-2-0 | 33yo | -150 (1.67)\n• Kabbani: 5-0-0 | +142 (2.42)\n• 
+ Odds history:\n  ◦ 2 Oct: Saadi 🟢 -150 (1.67) | Kabbani 🔴 +142 (2.
+ 42)\n\n🥊 4. 𝗢𝗺𝗮𝗿 𝗛𝘂𝘀𝘀𝗲𝗶𝗻 vs. 𝗔𝗯
+ 𝗱𝗲𝗹𝗸𝗿𝗶𝗺 𝗭𝗼𝘂𝗮𝗱 🇩🇿\n• 170lbs/77k
+ g Welterweight · Semifinal\n• Hussein: 12-7-0 | +220 (3.20)\n• Zouad:
+  8-2-0 | -270 (1.37)\n• Odds history:\n  ◦ 2 Oct: Hussein 🔴 +220 (3
+ .20) | Zouad 🟢 -270 (1.37)\n\n🥊 3. 𝗠𝗼𝗵𝗮𝗺𝗺𝗮𝗱 
+ 𝗙𝗮𝗵𝗺𝗶 🇮🇶 vs. 𝗔𝗵𝗺𝗲𝗱 𝗘𝗹 𝗦𝗶
+ 𝘀𝘆 🇪🇬\n• 155lbs/70kg Lightweight · Semifinal\n• Fahmi: 5-
+ 1-0 | 31yo | -126 (1.79)\n• Sisy: 8-2-0 | +110 (2.10)\n• Odds history:
+ \n  ◦ 2 Oct: Fahmi 🟢 -126 (1.79) | Sisy 🔴 +110 (2.10)\n\n🥊 2. 
  𝗙𝗮𝘁𝗶𝗺𝗮 𝗔𝗹 𝗔𝗺𝗺𝗮𝗿𝗶 🇸🇦 vs. 
  𝗔𝘆𝗮 𝗟𝗼𝘂𝗻𝗲𝘀 🇩🇿\n• 135lbs/61kg Bantamweig
  ht\n• Ammari: 0-0-0 | 18yo | -295 (1.34)\n• Lounes: 0-0-0 | 20yo | +24
  0 (3.40)\n• Odds history:\n  ◦ 2 Oct: Ammari 🟢 -295 (1.34) | Lounes
-  🔴 +240 (3.40)\n\n--------------------------------\n𝗖𝗔𝗡𝗖
- 𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗣𝗢𝗦𝗧𝗣𝗢𝗡𝗘𝗗 𝗕
- 𝗢𝗨𝗧𝗦\n--------------------------------\n\n✕ Hamza Kooheji vs
- . Elias Boudegzdame\n• Removed from the official PFL card\n\n-----------
- ---------------------\nSource: https://pflmma.com/event/pflmena11\nOdds so
- urce: https://www.bestfightodds.com/ · best available line · checked Mon
- day and Friday
+  🔴 +240 (3.40)\n\n🥊 1. 𝗔𝗹𝗿𝗶𝗱𝗮𝗵 𝗔𝗹𝗻𝗲
+ 𝗺𝗲𝗿 vs. 𝗔𝗹𝗶 𝗔𝗹𝘀𝗵𝗼𝘄𝗮𝗸𝗵 🇧
+ 🇭\n• Winner: Alridah Alnemer by Decision\n• Alnemer: 1-0-0 | 28yo\n
+ • Alshowakh: 3-0-0 | 21yo\n\n--------------------------------\n𝗖𝗔
+ 𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗣𝗢𝗦𝗧𝗣𝗢𝗡𝗘𝗗
+  𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n✕ Hamza Koohe
+ ji vs. Elias Boudegzdame\n• Removed from the official PFL card\n\n✕ El
+ ias Boudegzdame vs. Islam Youssef\n• Removed from the official PFL card\
+ n\n✕ Ylies Djiroun vs. Basel Shalaan\n• Removed from the official PFL 
+ card\n\n✕ Hassan Shaaban vs. Assem Ghanem\n• Removed from the official
+  PFL card\n\n✕ Haif Al Qahtani vs. Ali Alshowakh\n• Removed from the o
+ fficial PFL card\n\n--------------------------------\nSource: https://pflm
+ ma.com/event/pflmena11\nOdds source: https://www.bestfightodds.com/ · bes
+ t available line · checked Monday and Friday
 LOCATION:Riyadh\, KSA
 URL:https://pflmma.com/event/pflmena11
 CATEGORIES:Professional Fighters League
@@ -1110,6 +1104,46 @@ LOCATION:Dubai\, United Arab Emirates
 URL:https://pflmma.com/event/pfl-returns-to-dubai
 CATEGORIES:Professional Fighters League
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pflmena-12@mma-calendar-pfl
+DTSTAMP:20261005T144716Z
+LAST-MODIFIED:20261005T144716Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+TRANSP:TRANSPARENT
+SUMMARY:PFL MENA 12
+DESCRIPTION:Professional Fighters League · Complete Event · card details 
+ to be announced\n📍 Khobar\, KSA\nCard times have not been announced. Th
+ is date-only entry will update automatically.\n\n-------------------------
+ -------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\nNo bout
+ s announced yet.\n\n--------------------------------\nSource: https://pflm
+ ma.com/event/pflmena-12
+LOCATION:Khobar\, KSA
+URL:https://pflmma.com/event/pflmena-12
+CATEGORIES:Professional Fighters League
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:pflmena12@mma-calendar-pfl
+DTSTAMP:20261005T144716Z
+LAST-MODIFIED:20261005T144716Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+TRANSP:TRANSPARENT
+SUMMARY:PFL MENA 12
+DESCRIPTION:Professional Fighters League · Complete Event · card details 
+ to be announced\n📍 Khobar\, KSA\nCard times have not been announced. Th
+ is date-only entry will update automatically.\n\n-------------------------
+ -------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\nNo bout
+ s announced yet.\n\n--------------------------------\nSource: https://pflm
+ ma.com/event/pflmena12
+LOCATION:Khobar\, KSA
+URL:https://pflmma.com/event/pflmena12
+CATEGORIES:Professional Fighters League
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:pfl-lyon-2026@mma-calendar-pfl

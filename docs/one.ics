@@ -2324,10 +2324,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a9682efd3539b67790eccd4@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261002T124153Z
-SEQUENCE:5
+LAST-MODIFIED:20261005T144716Z
+SEQUENCE:6
 DTSTART:20261002T113003Z
-DTEND:20261002T153003Z
+DTEND:20261002T163629Z
 SUMMARY:ONE Friday Fights 173 & The Inner Circle 33
 DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
@@ -2409,10 +2409,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:69365982370b4d81ea624186@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261002T124153Z
-SEQUENCE:4
-DTSTART:20261003T020000Z
-DTEND:20261003T080000Z
+LAST-MODIFIED:20261005T144716Z
+SEQUENCE:5
+DTSTART:20261003T010000Z
+DTEND:20261003T070000Z
 SUMMARY:ONE Fight Night 48
 DESCRIPTION:ONE Championship · Complete Event · 8 bouts\n📍 Lumpinee St
  adium\, Bangkok\nTimes display automatically in your calendar time zone.\n
@@ -2572,8 +2572,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a968ba710c90c3a3d15f98b@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261002T124153Z
-SEQUENCE:1
+LAST-MODIFIED:20261005T144716Z
+SEQUENCE:2
 DTSTART:20261106T113018Z
 DTEND:20261106T153018Z
 SUMMARY:ONE Friday Fights 177 & The Inner Circle 37
@@ -2582,10 +2582,10 @@ DESCRIPTION:ONE Championship · Complete Event · 1 bout\n📍 Lumpinee Sta
  n--------------------------------\n𝗕𝗢𝗨𝗧𝗦\n-----------------
  ---------------\n\n🥊 1. 𝗖𝗵𝗿𝗶𝘀𝘁𝗶𝗮𝗻 𝗟𝗲
  𝗲 🇸🇬/🇺🇸 vs. 𝗧𝘆𝗲 𝗥𝘂𝗼𝘁𝗼𝗹𝗼 🇺
- 🇸\n• 170lbs/77.1kg Lightweight MMA World Championship\n• Lee: ONE 1
- 8-4-0 | 28yo | Grappler\n• Ruotolo: ONE 11-0-0 | 23yo | Grappler\n\n----
- ----------------------------\nSource: https://www.onefc.com/events/one-fri
- day-fights-177/
+ 🇸\n• 170lbs/77.1kg Lightweight World Championship\n• Lee: ONE 18-4-
+ 0 | 28yo | Grappler\n• Ruotolo: ONE 11-0-0 | 23yo | Grappler\n\n--------
+ ------------------------\nSource: https://www.onefc.com/events/one-friday-
+ fights-177/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-177
 CATEGORIES:ONE Championship

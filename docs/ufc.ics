@@ -3351,8 +3351,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-10-2026-prelims@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260930T124052Z
-SEQUENCE:3
+LAST-MODIFIED:20261005T144716Z
+SEQUENCE:4
 DTSTART:20261010T210000Z
 DTEND:20261011T000000Z
 SUMMARY:Prelims – UFC Fight Night: Allen vs Duncan
@@ -3361,63 +3361,77 @@ DESCRIPTION:UFC · Prelims · 6 bouts\n📍 Meta APEX\, Las Vegas\, United
  \n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 6. 𝗙
  𝗿𝗮𝗻𝗰𝗶𝘀𝗰𝗼 𝗣𝗿𝗮𝗱𝗼 🇦🇷 vs. 𝗜
  𝘀𝗺𝗮𝗲𝗹 𝗕𝗼𝗻𝗳𝗶𝗺 🇧🇷\n• 155lbs/70kg Li
- ghtweight\n• Prado: 12-5-0 | 24yo\n• Bonfim: 20-7-0 | 30yo | Boxer\n
- • Odds history: not checked yet\n\n🥊 5. 𝗡𝗶𝗸𝗼 𝗣𝗿𝗶
+ ghtweight\n• Prado: 12-5-0 | 24yo | +105 (2.05)\n• Bonfim: 20-7-0 | 30
+ yo | Boxer | -112 (1.89)\n• Odds history:\n  ◦ 5 Oct: Prado 🔴 +105 
+ (2.05) | Bonfim 🟢 -112 (1.89)\n\n🥊 5. 𝗡𝗶𝗸𝗼 𝗣𝗿𝗶
  𝗰𝗲 🇺🇸 vs. 𝗟𝗲𝗼𝗻 𝗦𝗵𝗮𝗵𝗯𝗮𝘇𝘆
  𝗮𝗻 🇦🇲\n• 170lbs/77kg Welterweight\n• Price: 16-11-0 | 37yo
-  | Freestyle\n• Shahbazyan: 12-5-0 | 30yo | Striker\n• Odds history: n
- ot checked yet\n\n🥊 4. 𝗙𝗲𝗹𝗶𝗽𝗲 𝗙𝗿𝗮𝗻𝗰
- 𝗼 🇧🇷 vs. 𝗕𝗿𝗲𝗻𝗱𝘀𝗼𝗻 𝗥𝗶𝗯𝗲𝗶
- 𝗿𝗼 🇧🇷\n• 205lbs/93kg Light Heavyweight\n• Franco: 11-2-0 |
-  25yo | MMA\n• Ribeiro: 17-11-0 | 30yo | Striker\n• Odds history: not 
- checked yet\n\n🥊 3. 𝗔𝗹𝗹𝗲𝗻 𝗙𝗿𝘆𝗲 𝗝𝗿. 
- 🇺🇸 vs. 𝗥𝗝 𝗛𝗮𝗿𝗿𝗶𝘀 🇺🇸\n• 265lbs/120kg 
- Heavyweight\n• Frye Jr.: 6-1-0 | 28yo\n• Harris: 6-0-0 | 28yo | Wrestl
- ing\n• Odds history: not checked yet\n\n🥊 2. 𝗔𝗹𝗶𝗰𝗲 
- 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 🇧🇷 vs. 𝗗𝗮𝗿𝗶𝗮 𝗭𝗵
- 𝗲𝗹𝗲𝘇𝗻𝗶𝗮𝗸𝗼𝘃𝗮 🇷🇺\n• 135lbs/61kg Wom
- en's Bantamweight\n• Pereira: 7-1-0 | 20yo | Striker\n• Zhelezniakova:
-  10-3-0 | 30yo | Striker\n• Odds history: not checked yet\n\n🥊 1. 
- 𝗘𝗿𝗻𝗲𝘀𝘁𝗮 𝗞𝗮𝗿𝗲𝗰𝗸𝗮𝗶𝘁ė 🇱
- 🇹 vs. 𝗠𝗲𝗹𝗶𝘀𝘀𝗮 𝗚𝗮𝘁𝘁𝗼 🇧🇷\n• 1
- 25lbs/57kg Women's Flyweight\n• Kareckaite: 6-2-1 | 28yo | MMA\n• Gatt
- o: 9-3-2 | 30yo | Jiu-Jitsu\n• Odds history: not checked yet\n\n--------
- ------------------------\nSource: https://www.ufc.com/event/ufc-fight-nigh
- t-october-10-2026\nFull odds log: https://staircasewit.github.io/mmacalend
- ar/odds-history.html\nEvent status: Scheduled
+  | Freestyle | +132 (2.32)\n• Shahbazyan: 12-5-0 | 30yo | Striker | -150
+  (1.67)\n• Odds history:\n  ◦ 5 Oct: Price 🔴 +132 (2.32) | Shahbazy
+ an 🟢 -150 (1.67)\n\n🥊 4. 𝗙𝗲𝗹𝗶𝗽𝗲 𝗙𝗿𝗮𝗻
+ 𝗰𝗼 🇧🇷 vs. 𝗕𝗿𝗲𝗻𝗱𝘀𝗼𝗻 𝗥𝗶𝗯𝗲
+ 𝗶𝗿𝗼 🇧🇷\n• 205lbs/93kg Light Heavyweight\n• Franco: 11-2
+ -0 | 25yo | MMA | -340 (1.29)\n• Ribeiro: 17-11-0 | 30yo | Striker | +26
+ 5 (3.65)\n• Odds history:\n  ◦ 5 Oct: Franco 🟢 -340 (1.29) | Ribeir
+ o 🔴 +265 (3.65)\n\n🥊 3. 𝗔𝗹𝗹𝗲𝗻 𝗙𝗿𝘆𝗲 𝗝
+ 𝗿. 🇺🇸 vs. 𝗥𝗝 𝗛𝗮𝗿𝗿𝗶𝘀 🇺🇸\n• 265lbs/
+ 120kg Heavyweight\n• Frye Jr.: 6-1-0 | 28yo | +215 (3.15)\n• Harris: 6
+ -0-0 | 28yo | Wrestling | -250 (1.40)\n• Odds history:\n  ◦ 5 Oct: Fry
+ e Jr. 🔴 +215 (3.15) | Harris 🟢 -250 (1.40)\n\n🥊 2. 𝗔𝗹𝗶
+ 𝗰𝗲 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 🇧🇷 vs. 𝗗𝗮𝗿𝗶𝗮 
+ 𝗭𝗵𝗲𝗹𝗲𝘇𝗻𝗶𝗮𝗸𝗼𝘃𝗮 🇷🇺\n• 135lbs/
+ 61kg Women's Bantamweight\n• Pereira: 7-1-0 | 20yo | Striker\n• Zhelez
+ niakova: 10-3-0 | 30yo | Striker\n• Odds history: not checked yet\n\n
+ 🥊 1. 𝗘𝗿𝗻𝗲𝘀𝘁𝗮 𝗞𝗮𝗿𝗲𝗰𝗸𝗮𝗶𝘁
+ ė 🇱🇹 vs. 𝗠𝗲𝗹𝗶𝘀𝘀𝗮 𝗚𝗮𝘁𝘁𝗼 🇧🇷
+ \n• 125lbs/57kg Women's Flyweight\n• Kareckaite: 6-2-1 | 28yo | MMA | 
+ +105 (2.05)\n• Gatto: 9-3-2 | 30yo | Jiu-Jitsu | -125 (1.80)\n• Odds h
+ istory:\n  ◦ 5 Oct: Kareckaite 🔴 +105 (2.05) | Gatto 🟢 -125 (1.80)
+ \n\n--------------------------------\nSource: https://www.ufc.com/event/uf
+ c-fight-night-october-10-2026\nOdds source: https://www.bestfightodds.com/
+  · best available line · checked Monday and Friday\nFull odds log: https
+ ://staircasewit.github.io/mmacalendar/odds-history.html\nEvent status: Sch
+ eduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 6 bouts<br>
  📍 Meta APEX\, Las Vegas\, United States<br>🕒 22:00–Sun 01:00 Irela
  nd</p><p>--------------------------------<br><strong>𝗕𝗢𝗨𝗧𝗦<
  /strong><br>--------------------------------</p><p><strong>🥊 6. 𝗙
  𝗿𝗮𝗻𝗰𝗶𝘀𝗰𝗼 𝗣𝗿𝗮𝗱𝗼 🇦🇷 vs. 𝗜
  𝘀𝗺𝗮𝗲𝗹 𝗕𝗼𝗻𝗳𝗶𝗺 🇧🇷</strong><br>• 155
- lbs/70kg Lightweight<br>• Prado: 12-5-0 | 24yo<br>• Bonfim: 20-7-0 | 3
- 0yo | Boxer<br>• Odds history: not checked yet</p><p><strong>🥊 5. 
+ lbs/70kg Lightweight<br>• Prado: 12-5-0 | 24yo | +105 (2.05)<br>• Bonf
+ im: 20-7-0 | 30yo | Boxer | -112 (1.89)<br>• Odds history:<br>◦ 5 Oct:
+  Prado 🔴 +105 (2.05) | Bonfim 🟢 -112 (1.89)</p><p><strong>🥊 5. 
  𝗡𝗶𝗸𝗼 𝗣𝗿𝗶𝗰𝗲 🇺🇸 vs. 𝗟𝗲𝗼𝗻 𝗦
  𝗵𝗮𝗵𝗯𝗮𝘇𝘆𝗮𝗻 🇦🇲</strong><br>• 170lbs/77kg 
- Welterweight<br>• Price: 16-11-0 | 37yo | Freestyle<br>• Shahbazyan: 1
- 2-5-0 | 30yo | Striker<br>• Odds history: not checked yet</p><p><strong>
- 🥊 4. 𝗙𝗲𝗹𝗶𝗽𝗲 𝗙𝗿𝗮𝗻𝗰𝗼 🇧🇷 vs. 
- 𝗕𝗿𝗲𝗻𝗱𝘀𝗼𝗻 𝗥𝗶𝗯𝗲𝗶𝗿𝗼 🇧🇷</st
- rong><br>• 205lbs/93kg Light Heavyweight<br>• Franco: 11-2-0 | 25yo | 
- MMA<br>• Ribeiro: 17-11-0 | 30yo | Striker<br>• Odds history: not chec
- ked yet</p><p><strong>🥊 3. 𝗔𝗹𝗹𝗲𝗻 𝗙𝗿𝘆𝗲 𝗝
- 𝗿. 🇺🇸 vs. 𝗥𝗝 𝗛𝗮𝗿𝗿𝗶𝘀 🇺🇸</strong><br>
- • 265lbs/120kg Heavyweight<br>• Frye Jr.: 6-1-0 | 28yo<br>• Harris: 
- 6-0-0 | 28yo | Wrestling<br>• Odds history: not checked yet</p><p><stron
- g>🥊 2. 𝗔𝗹𝗶𝗰𝗲 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 🇧🇷 vs. 
- 𝗗𝗮𝗿𝗶𝗮 𝗭𝗵𝗲𝗹𝗲𝘇𝗻𝗶𝗮𝗸𝗼𝘃𝗮 
- 🇷🇺</strong><br>• 135lbs/61kg Women&#39\;s Bantamweight<br>• Pere
- ira: 7-1-0 | 20yo | Striker<br>• Zhelezniakova: 10-3-0 | 30yo | Striker<
- br>• Odds history: not checked yet</p><p><strong>🥊 1. 𝗘𝗿𝗻
- 𝗲𝘀𝘁𝗮 𝗞𝗮𝗿𝗲𝗰𝗸𝗮𝗶𝘁ė 🇱🇹 vs. 𝗠
- 𝗲𝗹𝗶𝘀𝘀𝗮 𝗚𝗮𝘁𝘁𝗼 🇧🇷</strong><br>• 125
- lbs/57kg Women&#39\;s Flyweight<br>• Kareckaite: 6-2-1 | 28yo | MMA<br>
- • Gatto: 9-3-2 | 30yo | Jiu-Jitsu<br>• Odds history: not checked yet</
- p><p>--------------------------------<br>Source: <a href="https://www.ufc.
- com/event/ufc-fight-night-october-10-2026">UFC.com</a><br>Full odds log: <
- a href="https://staircasewit.github.io/mmacalendar/odds-history.html">view
-  history</a><br>Event status: Scheduled</p></body></html>
+ Welterweight<br>• Price: 16-11-0 | 37yo | Freestyle | +132 (2.32)<br>•
+  Shahbazyan: 12-5-0 | 30yo | Striker | -150 (1.67)<br>• Odds history:<br
+ >◦ 5 Oct: Price 🔴 +132 (2.32) | Shahbazyan 🟢 -150 (1.67)</p><p><st
+ rong>🥊 4. 𝗙𝗲𝗹𝗶𝗽𝗲 𝗙𝗿𝗮𝗻𝗰𝗼 🇧🇷 vs
+ . 𝗕𝗿𝗲𝗻𝗱𝘀𝗼𝗻 𝗥𝗶𝗯𝗲𝗶𝗿𝗼 🇧🇷</
+ strong><br>• 205lbs/93kg Light Heavyweight<br>• Franco: 11-2-0 | 25yo 
+ | MMA | -340 (1.29)<br>• Ribeiro: 17-11-0 | 30yo | Striker | +265 (3.65)
+ <br>• Odds history:<br>◦ 5 Oct: Franco 🟢 -340 (1.29) | Ribeiro 🔴
+  +265 (3.65)</p><p><strong>🥊 3. 𝗔𝗹𝗹𝗲𝗻 𝗙𝗿𝘆𝗲 
+ 𝗝𝗿. 🇺🇸 vs. 𝗥𝗝 𝗛𝗮𝗿𝗿𝗶𝘀 🇺🇸</strong>
+ <br>• 265lbs/120kg Heavyweight<br>• Frye Jr.: 6-1-0 | 28yo | +215 (3.1
+ 5)<br>• Harris: 6-0-0 | 28yo | Wrestling | -250 (1.40)<br>• Odds histo
+ ry:<br>◦ 5 Oct: Frye Jr. 🔴 +215 (3.15) | Harris 🟢 -250 (1.40)</p><
+ p><strong>🥊 2. 𝗔𝗹𝗶𝗰𝗲 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 🇧
+ 🇷 vs. 𝗗𝗮𝗿𝗶𝗮 𝗭𝗵𝗲𝗹𝗲𝘇𝗻𝗶𝗮𝗸𝗼
+ 𝘃𝗮 🇷🇺</strong><br>• 135lbs/61kg Women&#39\;s Bantamweight<br
+ >• Pereira: 7-1-0 | 20yo | Striker<br>• Zhelezniakova: 10-3-0 | 30yo |
+  Striker<br>• Odds history: not checked yet</p><p><strong>🥊 1. 𝗘
+ 𝗿𝗻𝗲𝘀𝘁𝗮 𝗞𝗮𝗿𝗲𝗰𝗸𝗮𝗶𝘁ė 🇱🇹 v
+ s. 𝗠𝗲𝗹𝗶𝘀𝘀𝗮 𝗚𝗮𝘁𝘁𝗼 🇧🇷</strong><br>
+ • 125lbs/57kg Women&#39\;s Flyweight<br>• Kareckaite: 6-2-1 | 28yo | M
+ MA | +105 (2.05)<br>• Gatto: 9-3-2 | 30yo | Jiu-Jitsu | -125 (1.80)<br>
+ • Odds history:<br>◦ 5 Oct: Kareckaite 🔴 +105 (2.05) | Gatto 🟢 -
+ 125 (1.80)</p><p>--------------------------------<br>Source: <a href="http
+ s://www.ufc.com/event/ufc-fight-night-october-10-2026">UFC.com</a><br>Odds
+  source: <a href="https://www.bestfightodds.com/">BestFightOdds</a> · bes
+ t available line · checked Monday and Friday<br>Full odds log: <a href="h
+ ttps://staircasewit.github.io/mmacalendar/odds-history.html">view history<
+ /a><br>Event status: Scheduled</p></body></html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
 CATEGORIES:UFC,Prelims
@@ -3426,8 +3440,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-10-2026-main-card@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260930T124052Z
-SEQUENCE:4
+LAST-MODIFIED:20261005T144716Z
+SEQUENCE:5
 DTSTART:20261011T000000Z
 DTEND:20261011T030000Z
 SUMMARY:Main Card – UFC Fight Night: Allen vs Duncan
@@ -3436,30 +3450,38 @@ DESCRIPTION:UFC · Main Card · 6 bouts\n📍 Meta APEX\, Las Vegas\, Unite
  𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 6. 𝗕𝗿
  𝗲𝗻𝗱𝗮𝗻 𝗔𝗹𝗹𝗲𝗻 (#4) 🇧🇷 vs. 𝗖𝗵𝗿
  𝗶𝘀𝘁𝗶𝗮𝗻 𝗟𝗲𝗿𝗼𝘆 𝗗𝘂𝗻𝗰𝗮𝗻 (#1
- 0) 🇪🇳\n• 185lbs/84kg Middleweight\n• Allen: 27-7-0 | 30yo | MMA\
- n• Duncan: 15-2-0 | 31yo | MMA\n• Odds history: not checked yet\n\n
+ 0) 🇪🇳\n• 185lbs/84kg Middleweight\n• Allen: 27-7-0 | 30yo | MMA 
+ | -135 (1.74)\n• Duncan: 15-2-0 | 31yo | MMA | +115 (2.15)\n• Odds his
+ tory:\n  ◦ 5 Oct: Allen 🟢 -135 (1.74) | Duncan 🔴 +115 (2.15)\n\n
  🥊 5. 𝗠𝗮𝘁𝗵𝗲𝘂𝘀 𝗖𝗮𝗺𝗶𝗹𝗼 🇧🇷 vs.
   𝗝𝗮𝗶 𝗛𝗲𝗿𝗯𝗲𝗿𝘁 🇪🇳\n• 155lbs/70kg Light
- weight\n• Camilo: 11-3-0 | 25yo | MMA\n• Herbert: 14-6-1 | 38yo | MMA\
- n• Odds history: not checked yet\n\n🥊 4. 𝗟𝗼𝗼𝗽𝘆 𝗚
+ weight\n• Camilo: 11-3-0 | 25yo | MMA | -205 (1.49)\n• Herbert: 14-6-1
+  | 38yo | MMA | +170 (2.70)\n• Odds history:\n  ◦ 5 Oct: Camilo 🟢 -
+ 205 (1.49) | Herbert 🔴 +170 (2.70)\n\n🥊 4. 𝗟𝗼𝗼𝗽𝘆 𝗚
  𝗼𝗱𝗶𝗻𝗲𝘇 (#8) 🇲🇽 vs. 𝗞𝗲𝘁𝗹𝗲𝗻 𝗦
  𝗼𝘂𝘇𝗮 🇧🇷\n• 115lbs/52kg Women's Strawweight\n• Godine
- z: 14-6-0 | 33yo\n• Souza: 17-6-0 | 32yo | Boxing\n• Odds history: not
-  checked yet\n\n🥊 3. 𝗔𝗻𝗱𝗿𝗲 𝗙𝗶𝗹𝗶 🇺🇸 vs.
-  𝗞𝗮𝗶 𝗞𝗮𝗺𝗮𝗸𝗮 𝗜𝗜𝗜 🇺🇸\n• 145lbs/6
- 6kg Featherweight\n• Fili: 25-14-0 | 36yo | MMA\n• Kamaka III: 18-8-1 
- | 31yo | Boxing\n• Odds history: not checked yet\n\n🥊 2. 𝗝𝘂𝗹
- 𝗶𝘂𝘀 𝗪𝗮𝗹𝗸𝗲𝗿 🇺🇸 vs. 𝗚𝗲𝗿𝗮𝗹
- 𝗱 𝗠𝗲𝗲𝗿𝘀𝗰𝗵𝗮𝗲𝗿𝘁 🇺🇸\n• 205lbs/93k
- g Light Heavyweight\n• Walker: 7-3-0 | 27yo | MMA\n• Meerschaert: 37-2
- 2-0 | 38yo | Freestyle\n• Odds history: not checked yet\n\n🥊 1. 𝗠
- 𝗮𝗹𝗰𝗼𝗹𝗺 𝗪𝗲𝗹𝗹𝗺𝗮𝗸𝗲𝗿 🇺🇸 vs.
-  𝗢𝘁𝗮𝗿𝗶 𝗧𝗮𝗻𝘇𝗶𝗹𝗼𝘃𝗶 🇬🇪\n• 1
- 35lbs/61kg Bantamweight\n• Wellmaker: 10-2-0 | 32yo | Striker\n• Tanzi
- lovi: 10-2-0 | 28yo | Kickboxer\n• Odds history: not checked yet\n\n----
- ----------------------------\nSource: https://www.ufc.com/event/ufc-fight-
- night-october-10-2026\nFull odds log: https://staircasewit.github.io/mmaca
- lendar/odds-history.html\nEvent status: Scheduled
+ z: 14-6-0 | 33yo | -230 (1.43)\n• Souza: 17-6-0 | 32yo | Boxing | +200 (
+ 3.00)\n• Odds history:\n  ◦ 5 Oct: Godinez 🟢 -230 (1.43) | Souza 
+ 🔴 +200 (3.00)\n\n🥊 3. 𝗔𝗻𝗱𝗿𝗲 𝗙𝗶𝗹𝗶 🇺🇸
+  vs. 𝗞𝗮𝗶 𝗞𝗮𝗺𝗮𝗸𝗮 𝗜𝗜𝗜 🇺🇸\n• 145l
+ bs/66kg Featherweight\n• Fili: 25-14-0 | 36yo | MMA | -150 (1.67)\n• K
+ amaka III: 18-8-1 | 31yo | Boxing | +125 (2.25)\n• Odds history:\n  ◦ 
+ 5 Oct: Fili 🟢 -150 (1.67) | Kamaka III 🔴 +125 (2.25)\n\n🥊 2. 𝗝
+ 𝘂𝗹𝗶𝘂𝘀 𝗪𝗮𝗹𝗸𝗲𝗿 🇺🇸 vs. 𝗚𝗲𝗿
+ 𝗮𝗹𝗱 𝗠𝗲𝗲𝗿𝘀𝗰𝗵𝗮𝗲𝗿𝘁 🇺🇸\n• 20
+ 5lbs/93kg Light Heavyweight\n• Walker: 7-3-0 | 27yo | MMA | -250 (1.40)\
+ n• Meerschaert: 37-22-0 | 38yo | Freestyle | +220 (3.20)\n• Odds histo
+ ry:\n  ◦ 5 Oct: Walker 🟢 -250 (1.40) | Meerschaert 🔴 +220 (3.20)\n
+ \n🥊 1. 𝗠𝗮𝗹𝗰𝗼𝗹𝗺 𝗪𝗲𝗹𝗹𝗺𝗮𝗸𝗲
+ 𝗿 🇺🇸 vs. 𝗢𝘁𝗮𝗿𝗶 𝗧𝗮𝗻𝘇𝗶𝗹𝗼𝘃
+ 𝗶 🇬🇪\n• 135lbs/61kg Bantamweight\n• Wellmaker: 10-2-0 | 32yo 
+ | Striker | -215 (1.47)\n• Tanzilovi: 10-2-0 | 28yo | Kickboxer | +185 (
+ 2.85)\n• Odds history:\n  ◦ 5 Oct: Wellmaker 🟢 -215 (1.47) | Tanzil
+ ovi 🔴 +185 (2.85)\n\n--------------------------------\nSource: https://
+ www.ufc.com/event/ufc-fight-night-october-10-2026\nOdds source: https://ww
+ w.bestfightodds.com/ · best available line · checked Monday and Friday\n
+ Full odds log: https://staircasewit.github.io/mmacalendar/odds-history.htm
+ l\nEvent status: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  📍 Meta APEX\, Las Vegas\, United States<br>🕒 01:00–04:00 Ireland</
  p><p>--------------------------------<br><strong>𝗕𝗢𝗨𝗧𝗦</str
@@ -3467,32 +3489,41 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  𝗲𝗻𝗱𝗮𝗻 𝗔𝗹𝗹𝗲𝗻 (#4) 🇧🇷 vs. 𝗖𝗵𝗿
  𝗶𝘀𝘁𝗶𝗮𝗻 𝗟𝗲𝗿𝗼𝘆 𝗗𝘂𝗻𝗰𝗮𝗻 (#1
  0) 🇪🇳</strong><br>• 185lbs/84kg Middleweight<br>• Allen: 27-7-0 
- | 30yo | MMA<br>• Duncan: 15-2-0 | 31yo | MMA<br>• Odds history: not c
- hecked yet</p><p><strong>🥊 5. 𝗠𝗮𝘁𝗵𝗲𝘂𝘀 𝗖𝗮𝗺
- 𝗶𝗹𝗼 🇧🇷 vs. 𝗝𝗮𝗶 𝗛𝗲𝗿𝗯𝗲𝗿𝘁 🇪
- 🇳</strong><br>• 155lbs/70kg Lightweight<br>• Camilo: 11-3-0 | 25yo 
- | MMA<br>• Herbert: 14-6-1 | 38yo | MMA<br>• Odds history: not checked
-  yet</p><p><strong>🥊 4. 𝗟𝗼𝗼𝗽𝘆 𝗚𝗼𝗱𝗶𝗻𝗲
- 𝘇 (#8) 🇲🇽 vs. 𝗞𝗲𝘁𝗹𝗲𝗻 𝗦𝗼𝘂𝘇𝗮 🇧
- 🇷</strong><br>• 115lbs/52kg Women&#39\;s Strawweight<br>• Godinez: 
- 14-6-0 | 33yo<br>• Souza: 17-6-0 | 32yo | Boxing<br>• Odds history: no
- t checked yet</p><p><strong>🥊 3. 𝗔𝗻𝗱𝗿𝗲 𝗙𝗶𝗹𝗶 
- 🇺🇸 vs. 𝗞𝗮𝗶 𝗞𝗮𝗺𝗮𝗸𝗮 𝗜𝗜𝗜 🇺🇸</
- strong><br>• 145lbs/66kg Featherweight<br>• Fili: 25-14-0 | 36yo | MMA
- <br>• Kamaka III: 18-8-1 | 31yo | Boxing<br>• Odds history: not checke
- d yet</p><p><strong>🥊 2. 𝗝𝘂𝗹𝗶𝘂𝘀 𝗪𝗮𝗹𝗸𝗲
- 𝗿 🇺🇸 vs. 𝗚𝗲𝗿𝗮𝗹𝗱 𝗠𝗲𝗲𝗿𝘀𝗰𝗵
- 𝗮𝗲𝗿𝘁 🇺🇸</strong><br>• 205lbs/93kg Light Heavyweight<br
- >• Walker: 7-3-0 | 27yo | MMA<br>• Meerschaert: 37-22-0 | 38yo | Frees
- tyle<br>• Odds history: not checked yet</p><p><strong>🥊 1. 𝗠𝗮
- 𝗹𝗰𝗼𝗹𝗺 𝗪𝗲𝗹𝗹𝗺𝗮𝗸𝗲𝗿 🇺🇸 vs. 
- 𝗢𝘁𝗮𝗿𝗶 𝗧𝗮𝗻𝘇𝗶𝗹𝗼𝘃𝗶 🇬🇪</strong
- ><br>• 135lbs/61kg Bantamweight<br>• Wellmaker: 10-2-0 | 32yo | Strike
- r<br>• Tanzilovi: 10-2-0 | 28yo | Kickboxer<br>• Odds history: not che
- cked yet</p><p>--------------------------------<br>Source: <a href="https:
- //www.ufc.com/event/ufc-fight-night-october-10-2026">UFC.com</a><br>Full o
- dds log: <a href="https://staircasewit.github.io/mmacalendar/odds-history.
- html">view history</a><br>Event status: Scheduled</p></body></html>
+ | 30yo | MMA | -135 (1.74)<br>• Duncan: 15-2-0 | 31yo | MMA | +115 (2.15
+ )<br>• Odds history:<br>◦ 5 Oct: Allen 🟢 -135 (1.74) | Duncan 🔴 
+ +115 (2.15)</p><p><strong>🥊 5. 𝗠𝗮𝘁𝗵𝗲𝘂𝘀 𝗖𝗮
+ 𝗺𝗶𝗹𝗼 🇧🇷 vs. 𝗝𝗮𝗶 𝗛𝗲𝗿𝗯𝗲𝗿𝘁 
+ 🇪🇳</strong><br>• 155lbs/70kg Lightweight<br>• Camilo: 11-3-0 | 2
+ 5yo | MMA | -205 (1.49)<br>• Herbert: 14-6-1 | 38yo | MMA | +170 (2.70)<
+ br>• Odds history:<br>◦ 5 Oct: Camilo 🟢 -205 (1.49) | Herbert 🔴 
+ +170 (2.70)</p><p><strong>🥊 4. 𝗟𝗼𝗼𝗽𝘆 𝗚𝗼𝗱𝗶
+ 𝗻𝗲𝘇 (#8) 🇲🇽 vs. 𝗞𝗲𝘁𝗹𝗲𝗻 𝗦𝗼𝘂𝘇
+ 𝗮 🇧🇷</strong><br>• 115lbs/52kg Women&#39\;s Strawweight<br>• 
+ Godinez: 14-6-0 | 33yo | -230 (1.43)<br>• Souza: 17-6-0 | 32yo | Boxing 
+ | +200 (3.00)<br>• Odds history:<br>◦ 5 Oct: Godinez 🟢 -230 (1.43) 
+ | Souza 🔴 +200 (3.00)</p><p><strong>🥊 3. 𝗔𝗻𝗱𝗿𝗲 𝗙
+ 𝗶𝗹𝗶 🇺🇸 vs. 𝗞𝗮𝗶 𝗞𝗮𝗺𝗮𝗸𝗮 𝗜𝗜
+ 𝗜 🇺🇸</strong><br>• 145lbs/66kg Featherweight<br>• Fili: 25-14
+ -0 | 36yo | MMA | -150 (1.67)<br>• Kamaka III: 18-8-1 | 31yo | Boxing | 
+ +125 (2.25)<br>• Odds history:<br>◦ 5 Oct: Fili 🟢 -150 (1.67) | Kam
+ aka III 🔴 +125 (2.25)</p><p><strong>🥊 2. 𝗝𝘂𝗹𝗶𝘂𝘀 
+ 𝗪𝗮𝗹𝗸𝗲𝗿 🇺🇸 vs. 𝗚𝗲𝗿𝗮𝗹𝗱 𝗠𝗲
+ 𝗲𝗿𝘀𝗰𝗵𝗮𝗲𝗿𝘁 🇺🇸</strong><br>• 205lbs/93kg 
+ Light Heavyweight<br>• Walker: 7-3-0 | 27yo | MMA | -250 (1.40)<br>• M
+ eerschaert: 37-22-0 | 38yo | Freestyle | +220 (3.20)<br>• Odds history:<
+ br>◦ 5 Oct: Walker 🟢 -250 (1.40) | Meerschaert 🔴 +220 (3.20)</p><p
+ ><strong>🥊 1. 𝗠𝗮𝗹𝗰𝗼𝗹𝗺 𝗪𝗲𝗹𝗹𝗺𝗮𝗸
+ 𝗲𝗿 🇺🇸 vs. 𝗢𝘁𝗮𝗿𝗶 𝗧𝗮𝗻𝘇𝗶𝗹𝗼
+ 𝘃𝗶 🇬🇪</strong><br>• 135lbs/61kg Bantamweight<br>• Wellmake
+ r: 10-2-0 | 32yo | Striker | -215 (1.47)<br>• Tanzilovi: 10-2-0 | 28yo |
+  Kickboxer | +185 (2.85)<br>• Odds history:<br>◦ 5 Oct: Wellmaker 🟢
+  -215 (1.47) | Tanzilovi 🔴 +185 (2.85)</p><p>--------------------------
+ ------<br>Source: <a href="https://www.ufc.com/event/ufc-fight-night-octob
+ er-10-2026">UFC.com</a><br>Odds source: <a href="https://www.bestfightodds
+ .com/">BestFightOdds</a> · best available line · checked Monday and Frid
+ ay<br>Full odds log: <a href="https://staircasewit.github.io/mmacalendar/o
+ dds-history.html">view history</a><br>Event status: Scheduled</p></body></
+ html>
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-october-10-2026
 CATEGORIES:UFC,Main Card
@@ -3749,8 +3780,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-main-card@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260925T115505Z
-SEQUENCE:3
+LAST-MODIFIED:20261005T144716Z
+SEQUENCE:4
 DTSTART:20261024T180000Z
 DTEND:20261024T210000Z
 SUMMARY:Main Card – UFC 333: Volkanovski vs Evloev
@@ -3760,30 +3791,31 @@ DESCRIPTION:UFC · Main Card · 5 bouts\n📍 Etihad Arena\, Yas Island/Yas
  \n\n🥊 5. 𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗲𝗿 𝗩𝗼𝗹𝗸𝗮𝗻
  𝗼𝘃𝘀𝗸𝗶 (C) 🇦🇺 vs. 𝗠𝗼𝘃𝘀𝗮𝗿 𝗘𝘃
  𝗹𝗼𝗲𝘃 (#1) 🇷🇺\n• 145lbs/66kg Featherweight · Title Bou
- t\n• Volkanovski: 28-4-0 | 38yo | -110 (1.91)\n• Evloev: 20-0-0 | 32yo
-  | Freestyle | -107 (1.93)\n• Odds history:\n  ◦ 13 Sep: Volkanovski 
- 🟢 -110 (1.91) | Evloev 🔴 -107 (1.93)\n\n🥊 4. 𝗣𝗲𝘁𝗿 
- 𝗬𝗮𝗻 (C) 🇷🇺 vs. 𝗠𝗲𝗿𝗮𝗯 𝗗𝘃𝗮𝗹𝗶
- 𝘀𝗵𝘃𝗶𝗹𝗶 (#1) 🇬🇪\n• 135lbs/61kg Bantamweight · Ti
- tle Bout\n• Yan: 20-5-0 | 33yo | Boxer | -172 (1.58)\n• Dvalishvili: 2
- 1-5-0 | 35yo | Freestyle | +150 (2.50)\n• Odds history:\n  ◦ 13 Sep: Y
- an 🟢 -172 (1.58) | Dvalishvili 🔴 +150 (2.50)\n\n🥊 3. 𝗟𝗼𝗻
- 𝗲’𝗲𝗿 𝗞𝗮𝘃𝗮𝗻𝗮𝗴𝗵 (#6) 🇪🇳 vs. 𝗥
- 𝗮𝗺𝗮𝘇𝗮𝗻 𝗧𝗲𝗺𝗶𝗿𝗼𝘃 (#10) 🇺🇿\n• 
- 125lbs/57kg Flyweight\n• Kavanagh: 10-2-0 | 27yo | Kickboxer\n• Temiro
- v: 20-3-0 | 29yo | Striker\n• Odds history: not checked yet\n\n🥊 2. 
- 𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗲𝗿 𝗩𝗼𝗹𝗸𝗼𝘃 (#2) 🇷
- 🇺 vs. 𝗥𝗶𝘇𝘃𝗮𝗻 𝗞𝘂𝗻𝗶𝗲𝘃 (#7) 🇷🇺\n
- • 265lbs/120kg Heavyweight\n• Volkov: 40-11-0 | 38yo | Brazilian Jiu-J
- itsu\n• Kuniev: 14-3-1 | 34yo\n• Odds history: not checked yet\n\n🥊
-  1. 𝗔𝗿𝗻𝗼𝗹𝗱 𝗔𝗹𝗹𝗲𝗻 (#7) 🇪🇳 vs. 𝗔
- 𝗮𝗿𝗼𝗻 𝗣𝗶𝗰𝗼 (#11) 🇺🇸\n• 145lbs/66kg Featherw
- eight\n• Allen: 21-4-0 | 32yo | MMA\n• Pico: 14-5-0 | 30yo | Boxing\n
- • Odds history: not checked yet\n\n--------------------------------\nSou
- rce: https://www.ufc.com/event/ufc-333\nOdds source: https://www.bestfight
- odds.com/ · best available line · checked Monday and Friday\nFull odds l
- og: https://staircasewit.github.io/mmacalendar/odds-history.html\nEvent st
- atus: Scheduled
+ t\n• Volkanovski: 28-4-0 | 38yo | +100 (2.00)\n• Evloev: 20-0-0 | 32yo
+  | Freestyle | -110 (1.91)\n• Odds history:\n  ◦ 13 Sep: Volkanovski 
+ 🟢 -110 (1.91) | Evloev 🔴 -107 (1.93)\n  ◦ 5 Oct: Volkanovski 🔴 
+ +100 (2.00) | Evloev 🟢 -110 (1.91)\n\n🥊 4. 𝗣𝗲𝘁𝗿 𝗬𝗮
+ 𝗻 (C) 🇷🇺 vs. 𝗠𝗲𝗿𝗮𝗯 𝗗𝘃𝗮𝗹𝗶𝘀𝗵
+ 𝘃𝗶𝗹𝗶 (#1) 🇬🇪\n• 135lbs/61kg Bantamweight · Title Bout
+ \n• Yan: 20-5-0 | 33yo | Boxer | -172 (1.58)\n• Dvalishvili: 21-5-0 | 
+ 35yo | Freestyle | +150 (2.50)\n• Odds history:\n  ◦ 13 Sep: Yan 🟢 
+ -172 (1.58) | Dvalishvili 🔴 +150 (2.50)\n\n🥊 3. 𝗟𝗼𝗻𝗲’
+ 𝗲𝗿 𝗞𝗮𝘃𝗮𝗻𝗮𝗴𝗵 (#6) 🇪🇳 vs. 𝗥𝗮𝗺
+ 𝗮𝘇𝗮𝗻 𝗧𝗲𝗺𝗶𝗿𝗼𝘃 (#10) 🇺🇿\n• 125lbs/5
+ 7kg Flyweight\n• Kavanagh: 10-2-0 | 27yo | Kickboxer\n• Temirov: 20-3-
+ 0 | 29yo | Striker\n• Odds history: not checked yet\n\n🥊 2. 𝗔𝗹
+ 𝗲𝘅𝗮𝗻𝗱𝗲𝗿 𝗩𝗼𝗹𝗸𝗼𝘃 (#2) 🇷🇺 vs. 
+ 𝗥𝗶𝘇𝘃𝗮𝗻 𝗞𝘂𝗻𝗶𝗲𝘃 (#7) 🇷🇺\n• 265lb
+ s/120kg Heavyweight\n• Volkov: 40-11-0 | 38yo | Brazilian Jiu-Jitsu\n•
+  Kuniev: 14-3-1 | 34yo\n• Odds history: not checked yet\n\n🥊 1. 𝗔
+ 𝗿𝗻𝗼𝗹𝗱 𝗔𝗹𝗹𝗲𝗻 (#7) 🇪🇳 vs. 𝗔𝗮𝗿
+ 𝗼𝗻 𝗣𝗶𝗰𝗼 (#11) 🇺🇸\n• 145lbs/66kg Featherweight\n
+ • Allen: 21-4-0 | 32yo | MMA\n• Pico: 14-5-0 | 30yo | Boxing\n• Odds
+  history: not checked yet\n\n--------------------------------\nSource: htt
+ ps://www.ufc.com/event/ufc-333\nOdds source: https://www.bestfightodds.com
+ / · best available line · checked Monday and Friday\nFull odds log: http
+ s://staircasewit.github.io/mmacalendar/odds-history.html\nEvent status: Sc
+ heduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  📍 Etihad Arena\, Yas Island/Yas West\, United Arab Emirates<br>🕒 19:
  00–22:00 Ireland</p><p>--------------------------------<br><strong>𝗕
@@ -3791,15 +3823,16 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  g>🥊 5. 𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗲𝗿 𝗩𝗼𝗹𝗸𝗮𝗻
  𝗼𝘃𝘀𝗸𝗶 (C) 🇦🇺 vs. 𝗠𝗼𝘃𝘀𝗮𝗿 𝗘𝘃
  𝗹𝗼𝗲𝘃 (#1) 🇷🇺</strong><br>• 145lbs/66kg Featherweight 
- · Title Bout<br>• Volkanovski: 28-4-0 | 38yo | -110 (1.91)<br>• Evloe
- v: 20-0-0 | 32yo | Freestyle | -107 (1.93)<br>• Odds history:<br>◦ 13 
- Sep: Volkanovski 🟢 -110 (1.91) | Evloev 🔴 -107 (1.93)</p><p><strong>
- 🥊 4. 𝗣𝗲𝘁𝗿 𝗬𝗮𝗻 (C) 🇷🇺 vs. 𝗠𝗲𝗿𝗮
- 𝗯 𝗗𝘃𝗮𝗹𝗶𝘀𝗵𝘃𝗶𝗹𝗶 (#1) 🇬🇪</strong><b
- r>• 135lbs/61kg Bantamweight · Title Bout<br>• Yan: 20-5-0 | 33yo | B
- oxer | -172 (1.58)<br>• Dvalishvili: 21-5-0 | 35yo | Freestyle | +150 (2
- .50)<br>• Odds history:<br>◦ 13 Sep: Yan 🟢 -172 (1.58) | Dvalishvil
- i 🔴 +150 (2.50)</p><p><strong>🥊 3. 𝗟𝗼𝗻𝗲’𝗲𝗿 𝗞
+ · Title Bout<br>• Volkanovski: 28-4-0 | 38yo | +100 (2.00)<br>• Evloe
+ v: 20-0-0 | 32yo | Freestyle | -110 (1.91)<br>• Odds history:<br>◦ 13 
+ Sep: Volkanovski 🟢 -110 (1.91) | Evloev 🔴 -107 (1.93)<br>◦ 5 Oct: 
+ Volkanovski 🔴 +100 (2.00) | Evloev 🟢 -110 (1.91)</p><p><strong>🥊 
+ 4. 𝗣𝗲𝘁𝗿 𝗬𝗮𝗻 (C) 🇷🇺 vs. 𝗠𝗲𝗿𝗮𝗯 
+ 𝗗𝘃𝗮𝗹𝗶𝘀𝗵𝘃𝗶𝗹𝗶 (#1) 🇬🇪</strong><br>•
+  135lbs/61kg Bantamweight · Title Bout<br>• Yan: 20-5-0 | 33yo | Boxer 
+ | -172 (1.58)<br>• Dvalishvili: 21-5-0 | 35yo | Freestyle | +150 (2.50)<
+ br>• Odds history:<br>◦ 13 Sep: Yan 🟢 -172 (1.58) | Dvalishvili 
+ 🔴 +150 (2.50)</p><p><strong>🥊 3. 𝗟𝗼𝗻𝗲’𝗲𝗿 𝗞
  𝗮𝘃𝗮𝗻𝗮𝗴𝗵 (#6) 🇪🇳 vs. 𝗥𝗮𝗺𝗮𝘇𝗮
  𝗻 𝗧𝗲𝗺𝗶𝗿𝗼𝘃 (#10) 🇺🇿</strong><br>• 125lbs/57
  kg Flyweight<br>• Kavanagh: 10-2-0 | 27yo | Kickboxer<br>• Temirov: 20

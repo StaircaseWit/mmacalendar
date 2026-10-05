@@ -4819,7 +4819,7 @@
     "bouts": [
       {
         "id": "1594",
-        "order": 10,
+        "order": 8,
         "red": {
           "name": "Mostafa Rashed Neda",
           "profileUrl": "https://pflmma.com/mena-fighter/mostafa-rashedneda",
@@ -4839,7 +4839,7 @@
       },
       {
         "id": "1574",
-        "order": 9,
+        "order": 7,
         "red": {
           "name": "Badreddine Diani",
           "profileUrl": "https://pflmma.com/mena-fighter/badreddine-diani",
@@ -4878,48 +4878,8 @@
         ]
       },
       {
-        "id": "1575",
-        "order": 8,
-        "red": {
-          "name": "Elias Boudegzdame",
-          "profileUrl": "https://pflmma.com/mena-fighter/elias-boudegzdame",
-          "countryCode": "DZ",
-          "birthDate": "1993-10-16",
-          "record": "21-9-0",
-          "style": null,
-          "odds": "-333"
-        },
-        "blue": {
-          "name": "Islam Youssef",
-          "profileUrl": "https://pflmma.com/mena-fighter/islam-youssef",
-          "countryCode": "EG",
-          "birthDate": "1999-07-02",
-          "record": "7-3-0",
-          "style": null,
-          "odds": "+285"
-        },
-        "details": "145lbs/66kg Featherweight · Semifinal",
-        "oddsHistory": [
-          {
-            "checkedAt": "2026-10-02T12:41:53.475Z",
-            "eventName": "PFL MENA 11",
-            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
-            "promotion": "pfl",
-            "eventId": "pflmena11",
-            "odds": {
-              "elias boudegzdame": "-333",
-              "islam youssef": "+285"
-            },
-            "names": {
-              "elias boudegzdame": "Elias Boudegzdame",
-              "islam youssef": "Islam Youssef"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1576",
-        "order": 7,
+        "id": "1596",
+        "order": 6,
         "red": {
           "name": "Ylies Djiroun",
           "profileUrl": "https://pflmma.com/mena-fighter/ylies-djiroun-2",
@@ -4927,87 +4887,7 @@
           "birthDate": null,
           "record": "16-6-0",
           "style": null,
-          "odds": "-549"
-        },
-        "blue": {
-          "name": "Basel Shalaan",
-          "profileUrl": "https://pflmma.com/mena-fighter/basel-shalaan",
-          "countryCode": "EG",
-          "birthDate": "2002-08-03",
-          "record": "7-1-0",
-          "style": null,
-          "odds": "+460"
-        },
-        "details": "155lbs/70kg Lightweight · Semifinal",
-        "oddsHistory": [
-          {
-            "checkedAt": "2026-10-02T12:41:53.475Z",
-            "eventName": "PFL MENA 11",
-            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
-            "promotion": "pfl",
-            "eventId": "pflmena11",
-            "odds": {
-              "ylies djiroun": "-549",
-              "basel shalaan": "+460"
-            },
-            "names": {
-              "ylies djiroun": "Ylies Djiroun",
-              "basel shalaan": "Basel Shalaan"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1577",
-        "order": 6,
-        "red": {
-          "name": "Omar Hussein",
-          "profileUrl": "https://pflmma.com/mena-fighter/omar-hussein-2",
-          "countryCode": null,
-          "birthDate": null,
-          "record": "12-7-0",
-          "style": null,
-          "odds": "+220"
-        },
-        "blue": {
-          "name": "Abdelkrim Zouad",
-          "profileUrl": "https://pflmma.com/mena-fighter/abdelkrim-zouad",
-          "countryCode": "DZ",
-          "birthDate": null,
-          "record": "8-2-0",
-          "style": null,
-          "odds": "-270"
-        },
-        "details": "170lbs/77kg Welterweight · Semifinal",
-        "oddsHistory": [
-          {
-            "checkedAt": "2026-10-02T12:41:53.475Z",
-            "eventName": "PFL MENA 11",
-            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
-            "promotion": "pfl",
-            "eventId": "pflmena11",
-            "odds": {
-              "omar hussein": "+220",
-              "abdelkrim zouad": "-270"
-            },
-            "names": {
-              "omar hussein": "Omar Hussein",
-              "abdelkrim zouad": "Abdelkrim Zouad"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1596",
-        "order": 5,
-        "red": {
-          "name": "Hassan Shaaban",
-          "profileUrl": "https://pflmma.com/mena-fighter/hassan-shaaban",
-          "countryCode": "LB",
-          "birthDate": "2001-09-18",
-          "record": "6-2-0",
-          "style": null,
-          "odds": "-134"
+          "odds": "-350"
         },
         "blue": {
           "name": "Assem Ghanem",
@@ -5016,22 +4896,22 @@
           "birthDate": "2001-04-16",
           "record": "7-0-0",
           "style": null,
-          "odds": "+114"
+          "odds": "+275"
         },
-        "details": "155lbs/70kg Lightweight",
+        "details": "Winner: Ylies Djiroun by TKO",
         "oddsHistory": [
           {
-            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "checkedAt": "2026-10-05T14:47:16.208Z",
             "eventName": "PFL MENA 11",
             "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
             "promotion": "pfl",
             "eventId": "pflmena11",
             "odds": {
-              "hassan shaaban": "-134",
-              "assem ghanem": "+114"
+              "ylies djiroun": "-350",
+              "assem ghanem": "+275"
             },
             "names": {
-              "hassan shaaban": "Hassan Shaaban",
+              "ylies djiroun": "Ylies Djiroun",
               "assem ghanem": "Assem Ghanem"
             }
           }
@@ -5039,7 +4919,7 @@
       },
       {
         "id": "1578",
-        "order": 4,
+        "order": 5,
         "red": {
           "name": "Mehdi Saadi",
           "profileUrl": "https://pflmma.com/mena-fighter/mehdi-saadi-2",
@@ -5073,6 +4953,46 @@
             "names": {
               "mehdi saadi": "Mehdi Saadi",
               "shadi kabbani": "Shadi Kabbani"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1577",
+        "order": 4,
+        "red": {
+          "name": "Omar Hussein",
+          "profileUrl": "https://pflmma.com/mena-fighter/omar-hussein-2",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "12-7-0",
+          "style": null,
+          "odds": "+220"
+        },
+        "blue": {
+          "name": "Abdelkrim Zouad",
+          "profileUrl": "https://pflmma.com/mena-fighter/abdelkrim-zouad",
+          "countryCode": "DZ",
+          "birthDate": null,
+          "record": "8-2-0",
+          "style": null,
+          "odds": "-270"
+        },
+        "details": "170lbs/77kg Welterweight · Semifinal",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "PFL MENA 11",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+            "promotion": "pfl",
+            "eventId": "pflmena11",
+            "odds": {
+              "omar hussein": "+220",
+              "abdelkrim zouad": "-270"
+            },
+            "names": {
+              "omar hussein": "Omar Hussein",
+              "abdelkrim zouad": "Abdelkrim Zouad"
             }
           }
         ]
@@ -5121,30 +5041,6 @@
         "id": "1597",
         "order": 2,
         "red": {
-          "name": "Haif Al Qahtani",
-          "profileUrl": "https://pflmma.com/mena-fighter/haif-alqahtani",
-          "countryCode": "SA",
-          "birthDate": "2008-04-10",
-          "record": "8-1-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Ali Alshowakh",
-          "profileUrl": "https://pflmma.com/mena-fighter/ali-alshowakh",
-          "countryCode": "BH",
-          "birthDate": "2005-08-30",
-          "record": "3-0-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "145lbs/66kg Featherweight · Amateur",
-        "oddsHistory": []
-      },
-      {
-        "id": "1595",
-        "order": 1,
-        "red": {
           "name": "Fatima Al Ammari",
           "profileUrl": "https://pflmma.com/mena-fighter/fatima-alammari",
           "countryCode": "SA",
@@ -5180,6 +5076,30 @@
             }
           }
         ]
+      },
+      {
+        "id": "1595",
+        "order": 1,
+        "red": {
+          "name": "Alridah Alnemer",
+          "profileUrl": "https://pflmma.com/mena-fighter/alridah-alnemer",
+          "countryCode": null,
+          "birthDate": "1998-08-11",
+          "record": "1-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Ali Alshowakh",
+          "profileUrl": "https://pflmma.com/mena-fighter/ali-alshowakh",
+          "countryCode": "BH",
+          "birthDate": "2005-08-30",
+          "record": "3-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "Winner: Alridah Alnemer by Decision",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": [
@@ -5222,6 +5142,154 @@
             }
           }
         ],
+        "note": "Removed from the official PFL card"
+      },
+      {
+        "id": "1575",
+        "order": 8,
+        "red": {
+          "name": "Elias Boudegzdame",
+          "profileUrl": "https://pflmma.com/mena-fighter/elias-boudegzdame",
+          "countryCode": "DZ",
+          "birthDate": "1993-10-16",
+          "record": "21-9-0",
+          "style": null,
+          "odds": "-333"
+        },
+        "blue": {
+          "name": "Islam Youssef",
+          "profileUrl": "https://pflmma.com/mena-fighter/islam-youssef",
+          "countryCode": "EG",
+          "birthDate": "1999-07-02",
+          "record": "7-3-0",
+          "style": null,
+          "odds": "+285"
+        },
+        "details": "145lbs/66kg Featherweight · Semifinal",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "PFL MENA 11",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+            "promotion": "pfl",
+            "eventId": "pflmena11",
+            "odds": {
+              "elias boudegzdame": "-333",
+              "islam youssef": "+285"
+            },
+            "names": {
+              "elias boudegzdame": "Elias Boudegzdame",
+              "islam youssef": "Islam Youssef"
+            }
+          }
+        ],
+        "note": "Removed from the official PFL card"
+      },
+      {
+        "id": "1576",
+        "order": 7,
+        "red": {
+          "name": "Ylies Djiroun",
+          "profileUrl": "https://pflmma.com/mena-fighter/ylies-djiroun-2",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "16-6-0",
+          "style": null,
+          "odds": "-549"
+        },
+        "blue": {
+          "name": "Basel Shalaan",
+          "profileUrl": "https://pflmma.com/mena-fighter/basel-shalaan",
+          "countryCode": "EG",
+          "birthDate": "2002-08-03",
+          "record": "7-1-0",
+          "style": null,
+          "odds": "+460"
+        },
+        "details": "155lbs/70kg Lightweight · Semifinal",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "PFL MENA 11",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+            "promotion": "pfl",
+            "eventId": "pflmena11",
+            "odds": {
+              "ylies djiroun": "-549",
+              "basel shalaan": "+460"
+            },
+            "names": {
+              "ylies djiroun": "Ylies Djiroun",
+              "basel shalaan": "Basel Shalaan"
+            }
+          }
+        ],
+        "note": "Removed from the official PFL card"
+      },
+      {
+        "id": "1596",
+        "order": 5,
+        "red": {
+          "name": "Hassan Shaaban",
+          "profileUrl": "https://pflmma.com/mena-fighter/hassan-shaaban",
+          "countryCode": "LB",
+          "birthDate": "2001-09-18",
+          "record": "6-2-0",
+          "style": null,
+          "odds": "-134"
+        },
+        "blue": {
+          "name": "Assem Ghanem",
+          "profileUrl": "https://pflmma.com/mena-fighter/assem-ghanem",
+          "countryCode": "EG",
+          "birthDate": "2001-04-16",
+          "record": "7-0-0",
+          "style": null,
+          "odds": "+114"
+        },
+        "details": "155lbs/70kg Lightweight",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-02T12:41:53.475Z",
+            "eventName": "PFL MENA 11",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+            "promotion": "pfl",
+            "eventId": "pflmena11",
+            "odds": {
+              "hassan shaaban": "-134",
+              "assem ghanem": "+114"
+            },
+            "names": {
+              "hassan shaaban": "Hassan Shaaban",
+              "assem ghanem": "Assem Ghanem"
+            }
+          }
+        ],
+        "note": "Removed from the official PFL card"
+      },
+      {
+        "id": "1597",
+        "order": 2,
+        "red": {
+          "name": "Haif Al Qahtani",
+          "profileUrl": "https://pflmma.com/mena-fighter/haif-alqahtani",
+          "countryCode": "SA",
+          "birthDate": "2008-04-10",
+          "record": "8-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Ali Alshowakh",
+          "profileUrl": "https://pflmma.com/mena-fighter/ali-alshowakh",
+          "countryCode": "BH",
+          "birthDate": "2005-08-30",
+          "record": "3-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "145lbs/66kg Featherweight · Amateur",
+        "oddsHistory": [],
         "note": "Removed from the official PFL card"
       }
     ]
@@ -6054,6 +6122,30 @@
         "oddsHistory": []
       }
     ],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pflmena-12",
+    "date": "2026-12-11",
+    "summary": "PFL MENA 12",
+    "location": "Khobar, KSA",
+    "url": "https://pflmma.com/event/pflmena-12",
+    "start": null,
+    "end": null,
+    "status": "TENTATIVE",
+    "bouts": [],
+    "cancelledBouts": []
+  },
+  {
+    "uid": "pflmena12",
+    "date": "2026-12-11",
+    "summary": "PFL MENA 12",
+    "location": "Khobar, KSA",
+    "url": "https://pflmma.com/event/pflmena12",
+    "start": null,
+    "end": null,
+    "status": "TENTATIVE",
+    "bouts": [],
     "cancelledBouts": []
   },
   {

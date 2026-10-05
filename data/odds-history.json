@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-02T12:41:53.475Z",
+  "lastCheckedAt": "2026-10-05T14:47:16.208Z",
   "fights": {
     "ufc-fight-night-september-12-2026::edgar chairez--tim elliott": [
       {
@@ -752,6 +752,19 @@
         "odds": {
           "alexander volkanovski": "-110",
           "movsar evloev": "-107"
+        },
+        "names": {
+          "alexander volkanovski": "Alexander Volkanovski",
+          "movsar evloev": "Movsar Evloev"
+        }
+      },
+      {
+        "checkedAt": "2026-10-05T14:47:16.208Z",
+        "eventName": "UFC 333: Volkanovski vs Evloev",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-333-4321",
+        "odds": {
+          "alexander volkanovski": "+100",
+          "movsar evloev": "-110"
         },
         "names": {
           "alexander volkanovski": "Alexander Volkanovski",
@@ -1594,6 +1607,171 @@
         "names": {
           "marcus mcghee": "Marcus McGhee",
           "anthony romero": "Anthony Romero"
+        }
+      }
+    ],
+    "ufc-fight-night-october-10-2026::francisco prado--ismael bonfim": [
+      {
+        "checkedAt": "2026-10-05T14:47:16.208Z",
+        "eventName": "UFC Fight Night: Allen vs Duncan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "francisco prado": "+105",
+          "ismael bonfim": "-112"
+        },
+        "names": {
+          "francisco prado": "Francisco Prado",
+          "ismael bonfim": "Ismael Bonfim"
+        }
+      }
+    ],
+    "ufc-fight-night-october-10-2026::leon shahbazyan--niko price": [
+      {
+        "checkedAt": "2026-10-05T14:47:16.208Z",
+        "eventName": "UFC Fight Night: Allen vs Duncan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "niko price": "+132",
+          "leon shahbazyan": "-150"
+        },
+        "names": {
+          "niko price": "Niko Price",
+          "leon shahbazyan": "Leon Shahbazyan"
+        }
+      }
+    ],
+    "ufc-fight-night-october-10-2026::brendson ribeiro--felipe franco": [
+      {
+        "checkedAt": "2026-10-05T14:47:16.208Z",
+        "eventName": "UFC Fight Night: Allen vs Duncan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "felipe franco": "-340",
+          "brendson ribeiro": "+265"
+        },
+        "names": {
+          "felipe franco": "Felipe Franco",
+          "brendson ribeiro": "Brendson Ribeiro"
+        }
+      }
+    ],
+    "ufc-fight-night-october-10-2026::allen frye jr.--rj harris": [
+      {
+        "checkedAt": "2026-10-05T14:47:16.208Z",
+        "eventName": "UFC Fight Night: Allen vs Duncan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "allen frye jr.": "+215",
+          "rj harris": "-250"
+        },
+        "names": {
+          "allen frye jr.": "Allen Frye Jr.",
+          "rj harris": "RJ Harris"
+        }
+      }
+    ],
+    "ufc-fight-night-october-10-2026::ernesta kareckaite--melissa gatto": [
+      {
+        "checkedAt": "2026-10-05T14:47:16.208Z",
+        "eventName": "UFC Fight Night: Allen vs Duncan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "ernesta kareckaite": "+105",
+          "melissa gatto": "-125"
+        },
+        "names": {
+          "ernesta kareckaite": "Ernesta Kareckaitė",
+          "melissa gatto": "Melissa Gatto"
+        }
+      }
+    ],
+    "ufc-fight-night-october-10-2026::brendan allen--christian leroy duncan": [
+      {
+        "checkedAt": "2026-10-05T14:47:16.208Z",
+        "eventName": "UFC Fight Night: Allen vs Duncan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "brendan allen": "-135",
+          "christian leroy duncan": "+115"
+        },
+        "names": {
+          "brendan allen": "Brendan Allen",
+          "christian leroy duncan": "Christian Leroy Duncan"
+        }
+      }
+    ],
+    "ufc-fight-night-october-10-2026::jai herbert--matheus camilo": [
+      {
+        "checkedAt": "2026-10-05T14:47:16.208Z",
+        "eventName": "UFC Fight Night: Allen vs Duncan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "matheus camilo": "-205",
+          "jai herbert": "+170"
+        },
+        "names": {
+          "matheus camilo": "Matheus Camilo",
+          "jai herbert": "Jai Herbert"
+        }
+      }
+    ],
+    "ufc-fight-night-october-10-2026::ketlen souza--loopy godinez": [
+      {
+        "checkedAt": "2026-10-05T14:47:16.208Z",
+        "eventName": "UFC Fight Night: Allen vs Duncan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "loopy godinez": "-230",
+          "ketlen souza": "+200"
+        },
+        "names": {
+          "loopy godinez": "Loopy Godinez",
+          "ketlen souza": "Ketlen Souza"
+        }
+      }
+    ],
+    "ufc-fight-night-october-10-2026::andre fili--kai kamaka iii": [
+      {
+        "checkedAt": "2026-10-05T14:47:16.208Z",
+        "eventName": "UFC Fight Night: Allen vs Duncan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "andre fili": "-150",
+          "kai kamaka iii": "+125"
+        },
+        "names": {
+          "andre fili": "Andre Fili",
+          "kai kamaka iii": "Kai Kamaka III"
+        }
+      }
+    ],
+    "ufc-fight-night-october-10-2026::gerald meerschaert--julius walker": [
+      {
+        "checkedAt": "2026-10-05T14:47:16.208Z",
+        "eventName": "UFC Fight Night: Allen vs Duncan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "julius walker": "-250",
+          "gerald meerschaert": "+220"
+        },
+        "names": {
+          "julius walker": "Julius Walker",
+          "gerald meerschaert": "Gerald Meerschaert"
+        }
+      }
+    ],
+    "ufc-fight-night-october-10-2026::malcolm wellmaker--otari tanzilovi": [
+      {
+        "checkedAt": "2026-10-05T14:47:16.208Z",
+        "eventName": "UFC Fight Night: Allen vs Duncan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-332-4378",
+        "odds": {
+          "malcolm wellmaker": "-215",
+          "otari tanzilovi": "+185"
+        },
+        "names": {
+          "malcolm wellmaker": "Malcolm Wellmaker",
+          "otari tanzilovi": "Otari Tanzilovi"
         }
       }
     ]

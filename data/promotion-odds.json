@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-02T12:41:53.475Z",
+  "lastCheckedAt": "2026-10-05T14:47:16.208Z",
   "fights": {
     "one::693657db2fbf6a23229602bf::selina flores--stamp fairtex": [
       {
@@ -1987,6 +1987,23 @@
         "names": {
           "kohei sugiyama": "Kohei Sugiyama",
           "kaito oda": "Kaito Oda"
+        }
+      }
+    ],
+    "pfl::pflmena11::assem ghanem--ylies djiroun": [
+      {
+        "checkedAt": "2026-10-05T14:47:16.208Z",
+        "eventName": "PFL MENA 11",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+        "promotion": "pfl",
+        "eventId": "pflmena11",
+        "odds": {
+          "ylies djiroun": "-350",
+          "assem ghanem": "+275"
+        },
+        "names": {
+          "ylies djiroun": "Ylies Djiroun",
+          "assem ghanem": "Assem Ghanem"
         }
       }
     ]
