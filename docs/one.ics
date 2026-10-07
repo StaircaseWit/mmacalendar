@@ -2409,10 +2409,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:69365982370b4d81ea624186@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261005T144716Z
-SEQUENCE:5
+LAST-MODIFIED:20261007T133000Z
+SEQUENCE:6
 DTSTART:20261003T010000Z
-DTEND:20261003T070000Z
+DTEND:20261003T040945Z
 SUMMARY:ONE Fight Night 48
 DESCRIPTION:ONE Championship · Complete Event · 8 bouts\n📍 Lumpinee St
  adium\, Bangkok\nTimes display automatically in your calendar time zone.\n
@@ -2466,17 +2466,71 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a968560d3539b67790eccdb@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T144507Z
-SEQUENCE:0
+LAST-MODIFIED:20261007T133000Z
+SEQUENCE:1
 DTSTART:20261009T113003Z
 DTEND:20261009T153003Z
 SUMMARY:ONE Friday Fights 174 & The Inner Circle 34
-DESCRIPTION:ONE Championship · Complete Event · card details to be announ
- ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
- calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
- 𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
- ---------------------------\nSource: https://watch.onefc.com/events/one-fr
- iday-fights-174
+DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\n𝗕𝗢𝗨𝗧𝗦\n---------------
+ -----------------\n\n🥊 14. 𝗗𝗲𝗱𝗱𝘂𝗮𝗻𝗴𝗹𝗲𝗸
+  𝗧𝗼𝗿𝗳𝘂𝗻𝗳𝗮𝗿𝗺 🇹🇭 vs. 𝗠𝗼𝗻𝗴
+ 𝗸𝗼𝗹𝗱𝗲𝘁𝗹𝗲𝗸 𝗣𝗼𝗿 𝗣𝗶𝗺-𝗼𝗻 
+ 🇹🇭\n• 145lbs/65.8kg Bantamweight Muay Thai\n• Torfunfarm: ONE 9-
+ 6-0 | 23yo | Striker\n• Pim-on: ONE 7-1-0 | 31yo | Striker\n\n🥊 13. 
+ 𝗞𝗵𝘂𝗻𝗱𝗲𝘁 𝗣𝗞 𝗦𝗮𝗲𝗻𝗰𝗵𝗮𝗶 
+ 🇹🇭 vs. 𝗔𝗹𝗱𝗼 𝗖𝗿𝘂𝘇 🇲🇽\n• 135lbs/61.2kg
+  Flyweight Muay Thai\n• Saenchai: ONE 2-2-0 | 21yo | Striker\n• Cruz: 
+ ONE 1-1-0 | 24yo | Striker\n\n🥊 12. 𝗣𝗲𝘁 𝗦𝗶𝘁𝗰𝗵
+ 𝗮𝗹𝗼𝗻𝗴𝘀𝗮𝗸 🇹🇭 vs. 𝗦𝗶𝗻𝗴𝗵𝗮𝗿
+ 𝗮𝘁 𝗦𝗶𝘁𝗞𝗵𝘂𝗻𝘁𝗮𝗯 🇹🇭\n• 155lbs/70.
+ 3kg Featherweight Muay Thai\n• Sitchalongsak: ONE 1-0-0 | 19yo | Striker
+ \n• SitKhuntab: ONE 1-0-0 | 19yo | Striker\n\n🥊 11. 𝗗𝗲𝗻𝗶
+ 𝘀 𝗔𝗻𝗱𝗿𝗲𝗲𝘃 🇷🇺 vs. 𝗪𝗮𝗹𝗱𝗶𝗺
+ 𝗶𝗿 𝗕𝗿𝗶𝘁𝗲𝘇 🇵🇾\n• 145lbs/65.8kg Bantamweight
+  MMA\n• Andreev: ONE 1-1-0 | 32yo\n• Britez: ONE 1-1-0 | 24yo\n\n🥊 
+ 10. 𝗣𝗲𝘁𝗺𝗮𝗻𝗲𝗲 𝗣𝗞 𝗦𝗶𝗮𝗺𝗮𝘅𝗺
+ 𝗽𝘀𝗲𝗿𝘃𝗶𝗰𝗲 🇹🇭 vs. 𝗗-𝗠𝗮𝘅 𝗞𝗿
+ 𝘂𝘁𝗶𝗸 𝗠𝗦 𝗦𝗽𝗼𝗿𝘁 𝗧𝗵𝗮𝗶𝗹𝗮
+ 𝗻𝗱 🇹🇭\n• 135lbs/61.2kg Flyweight Muay Thai\n• Siamaxmpserv
+ ice: Striker\n• Thailand: Striker\n\n🥊 9. 𝗣𝗲𝘁𝘂𝗯𝗼
+ 𝗻 𝗦𝗼𝗿 𝗧𝗲𝗮𝗻𝗰𝗵𝗮𝗶 🇹🇭 vs. 𝗦𝘂
+ 𝗱𝘀𝗮𝗯 𝗦𝗼𝗿 𝗦𝗮𝘀𝗶𝘄𝗮𝘁 🇹🇭\n• 1
+ 35lbs/61.2kg Flyweight Muay Thai\n• Teanchai: ONE 1-0-0 | 24yo | Striker
+ \n• Sasiwat: Striker\n\n🥊 8. 𝗣𝗵𝗶𝗹𝗲𝗺𝗼𝗻 𝗕
+ 𝗶𝘁𝗿𝘂𝘀 𝗝𝗲𝗯 🇳🇬 vs. 𝗕𝗮𝘁-𝗜𝗿𝗲
+ 𝗲𝗱𝘂𝗶 𝗚𝗮𝗻𝗯𝗮𝗮𝘁𝗮𝗿 🇲🇳\n• 155lbs
+ /70.3kg Featherweight MMA\n• Jeb: ONE 0-1-0 | 22yo\n\n🥊 7. 𝗖𝗵
+ 𝗮𝗯𝗮𝗸𝗮𝗲𝘄 𝗦𝗼𝗿 𝗞𝗮𝗻𝗝𝗮𝗻𝗰𝗵
+ 𝗮𝗶 🇹🇭 vs. 𝗬𝗮𝗻𝗮 𝗬𝗶𝗽 🇭🇰\n• 115lbs/5
+ 2.2kg Atomweight Muay Thai\n• KanJanchai: ONE 5-2-0 | 20yo | Striker\n
+ • Yip: ONE 0-1-0 | 31yo | Striker\n\n🥊 6. 𝗢𝗺𝗮𝗿 𝗘𝗹 
+ 𝗠𝗼𝗿𝗮𝗯𝗲𝘁 🇪🇸 vs. 𝗡𝗮𝗼𝗸𝗶 𝗠𝗼
+ 𝗿𝗶𝘁𝗮 🇯🇵\n• 155lbs/70.3kg Featherweight Kickboxing\n•
+  Morabet: 29yo | Striker\n• Morita: 33yo | Striker\n\n🥊 5. 𝗦𝘂
+ 𝗿𝗶𝘆𝗮𝗻𝗹𝗲𝗸 𝗣𝗼𝗿 𝗬𝗲𝗻𝘆𝗶𝗻𝗴
+  🇹🇭 vs. 𝗥𝘂𝘀𝘁𝗮𝗺 𝗬𝘂𝗻𝘂𝘀𝗼𝘃 🇷
+ 🇺\n• 135lbs/61.2kg Flyweight Muay Thai\n• Yenying: ONE 11-7-0 | 30y
+ o | Striker\n• Yunusov: ONE 8-0-0 | 19yo | Striker\n\n🥊 4. 𝗧𝘆
+ 𝘀𝗼𝗻 𝗛𝗮𝗿𝗿𝗶𝘀𝗼𝗻 🇦🇺 vs. 𝗟𝗶𝗻
+ 𝘂𝘀 𝗕𝘆𝗹𝗮𝗻𝗱𝗲𝗿 🇸🇪\n• 145lbs/65.8kg Bant
+ amweight Muay Thai\n• Harrison: ONE 4-4-0 | 25yo | Striker\n• Bylander
+ : ONE 1-1-0 | 29yo | Striker\n\n🥊 3. 𝗞𝗼𝗻𝗴𝘀𝘂𝗸 𝗦
+ 𝗶𝘁𝘀𝗮𝗿𝗮𝘄𝗮𝘁𝘀𝘂𝗲𝗿 🇹🇭 vs. 𝗥𝘂
+ 𝘀𝗹𝗮𝗻 𝗧𝘂𝗸𝘁𝗮𝗿𝗼𝘃 🇷🇺\n• 145lbs/65.
+ 8kg Bantamweight Muay Thai\n• Sitsarawatsuer: ONE 9-4-0 | 26yo | Striker
+ \n• Tuktarov: ONE 0-1-0 | 26yo | Striker\n\n🥊 2. 𝗬𝗼𝗱𝘁𝗵
+ 𝗲𝘄𝗶𝗻 𝗠𝗼𝗿 𝗥𝗮𝗷𝗮𝗯𝗵𝗮𝘁𝗺𝘂𝗯
+ 𝗮𝗻𝗰𝗵𝗼𝗺𝗯𝘂𝗲𝗻𝗴 vs. 𝗔𝗿𝗺𝗮𝗻 𝗠
+ 𝗼𝗿𝗮𝗱𝗶 🇮🇷\n• 155lbs/70.3kg Featherweight Muay Thai\n
+ • Rajabhatmubanchombueng: Striker\n• Moradi: ONE 2-1-0 | 22yo | Strike
+ r\n\n🥊 1. 𝗔𝘁𝘁𝗮𝗰𝗵𝗮𝗶 𝗞𝗲𝗹𝗮𝘀𝗽𝗼
+ 𝗿𝘁 🇹🇭 vs. 𝗞𝗼𝗷𝗶𝗿𝗼 𝗦𝗵𝗶𝗯𝗮 🇯
+ 🇵\n• 125lbs/56.7kg Strawweight Kickboxing\n• Kelasport: ONE 2-0-0 |
+  24yo | Striker\n• Shiba: ONE 3-0-0 | 21yo | Striker\n\n----------------
+ ----------------\nSource: https://www.onefc.com/events/one-friday-fights-1
+ 74/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-174
 CATEGORIES:ONE Championship
