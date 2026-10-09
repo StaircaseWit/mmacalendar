@@ -2905,13 +2905,6 @@
       "fightingStyle": "Brawler",
       "checkedAt": "2026-10-05T14:47:16.208Z"
     },
-    "https://www.ufc.com/athlete/jamey-lyn-horth": {
-      "birthDate": "1990-03-30",
-      "familyName": "Horth",
-      "record": "9-3-0",
-      "fightingStyle": "Kickboxer",
-      "checkedAt": "2026-10-05T14:47:16.208Z"
-    },
     "https://www.ufc.com/athlete/tanner-boser": {
       "birthDate": "1991-08-02",
       "familyName": "Boser",
@@ -3316,14 +3309,14 @@
       "familyName": "Nelson",
       "record": "17-7-1",
       "fightingStyle": "Jiu-Jitsu",
-      "checkedAt": "2026-10-02T12:41:53.475Z"
+      "checkedAt": "2026-10-09T13:22:33.422Z"
     },
     "https://www.ufc.com/athlete/cristian-perez-gonzalez": {
       "birthDate": "1999-08-17",
       "familyName": "Perez Gonzalez",
       "record": "1-1-0",
       "fightingStyle": null,
-      "checkedAt": "2026-10-02T12:41:53.475Z"
+      "checkedAt": "2026-10-09T13:22:33.422Z"
     },
     "https://www.ufc.com/athlete/jacobe-smith": {
       "birthDate": "1996-01-17",
@@ -3660,6 +3653,13 @@
       "record": "16-3-0",
       "fightingStyle": "Boxing",
       "checkedAt": "2026-10-07T13:30:00.229Z"
+    },
+    "https://www.ufc.com/athlete/mackenzie-stiller": {
+      "birthDate": "1999-07-15",
+      "familyName": "Stiller",
+      "record": "0-0-0",
+      "fightingStyle": null,
+      "checkedAt": "2026-10-09T13:22:33.422Z"
     }
   }
 }

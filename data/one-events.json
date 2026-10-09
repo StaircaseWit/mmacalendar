@@ -8360,10 +8360,10 @@
   {
     "uid": "6a968560d3539b67790eccdb",
     "start": "20261009T113003Z",
-    "end": "20261009T153003Z",
+    "end": "20261009T163003Z",
     "summary": "ONE Friday Fights 174 & The Inner Circle 34",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-174\n\nDedduanglek Torfunfarm vs. Mongkoldetlek Por Pim-on | Muay Thai | Bantamweight\n\nKhundet PK Saenchai vs. Aldo Cruz | Muay Thai | Flyweight\n\nPet Sitchalongsak vs. Singharat SitKhuntab | Muay Thai | Featherweight\n\nDenis Andreev vs. Waldimir Britez | Mixed Martial Arts | Bantamweight\n\nPetmanee PK Siamaxmpservice vs. D-Max Krutik MS Sport Thailand | Muay Thai | Flyweight\n\nPetubon Sor Teanchai vs. Sudsab Sor Sasiwat | Muay Thai | Flyweight\n\nPhilemon Bitrus Jeb vs. Bat-Ireedui Ganbaatar | Mixed Martial Arts | Featherweight\n\nChabakaew Sor KanJanchai vs. Yana Yip | Muay Thai | Atomweight\n\nOmar El Morabet vs. Naoki Morita | Kickboxing | Featherweight\n\nSuriyanlek Por Yenying vs. Rustam Yunusov | Muay Thai | Flyweight\n\nTyson Harrison vs. Linus Bylander | Muay Thai | Bantamweight\n\nKongsuk Sitsarawatsuer vs. Ruslan Tuktarov | Muay Thai | Bantamweight\n\nYodthewin Mor Rajabhatmubanchombueng vs. Arman Moradi | Muay Thai | Featherweight\n\nAttachai Kelasport vs. Kojiro Shiba | Kickboxing | Strawweight\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-174\n\nDedduanglek Torfunfarm vs. Mongkoldetlek Por Pim-on | Muay Thai | Bantamweight\n\nKhundet PK Saenchai vs. Kiwthong TKD Muaythai | Muay Thai | Bantamweight\n\nPet Sitchalongsak vs. Singharat SitKhuntab | Muay Thai | Featherweight\n\nPetmanee PK Siamaxmpservice vs. D-Max Krutik MS Sport Thailand | Muay Thai | Flyweight\n\nPetubon Sor Teanchai vs. Sudsab Sor Sasiwat | Muay Thai | Flyweight\n\nPhilemon Bitrus Jeb vs. Bat-Ireedui Ganbaatar | Mixed Martial Arts | Featherweight\n\nChabakaew Sor KanJanchai vs. Yana Yip | Muay Thai | Atomweight\n\nOmar El Morabet vs. Naoki Morita | Kickboxing | Featherweight\n\nSuriyanlek Por Yenying vs. Rustam Yunusov | Muay Thai | Flyweight\n\nTyson Harrison vs. Linus Bylander | Muay Thai | Bantamweight\n\nKongsuk Sitsarawatsuer vs. Ruslan Tuktarov | Muay Thai | Bantamweight\n\nYodthewin Mor Rajabhatmubanchombueng vs. Arman Moradi | Muay Thai | Featherweight\n\nAttachai Kelasport vs. Kojiro Shiba | Kickboxing | Strawweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/one-friday-fights-174",
     "status": "CONFIRMED",
     "bouts": [
@@ -8381,23 +8381,31 @@
         "blueAge": 31,
         "blueRecord": "7-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-225",
+        "blueOdds": "+163",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "ONE Friday Fights 174 & The Inner Circle 34",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-174-4400",
+            "promotion": "one",
+            "eventId": "6a968560d3539b67790eccdb",
+            "odds": {
+              "dedduanglek torfunfarm": "-225",
+              "mongkoldetlek por pim on": "+163"
+            },
+            "names": {
+              "dedduanglek torfunfarm": "Dedduanglek Torfunfarm",
+              "mongkoldetlek por pim on": "Mongkoldetlek Por Pim-on"
+            }
+          }
+        ]
       },
       {
         "redName": "Khundet PK Saenchai",
-        "blueName": "Aldo Cruz",
-        "details": "Flyweight Muay Thai",
-        "redProfileUrl": "https://www.onefc.com/athletes/khundet-pk-saenchai/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/aldo-cruz/",
-        "redCountry": "Thailand",
-        "blueCountry": "Mexico",
-        "redAge": 21,
-        "redRecord": "2-2-0",
+        "blueName": "Kiwthong TKD Muaythai",
+        "details": "Bantamweight Muay Thai",
         "redStyle": "Striker",
-        "blueAge": 24,
-        "blueRecord": "1-1-0",
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
@@ -8417,25 +8425,25 @@
         "blueAge": 19,
         "blueRecord": "1-0-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
-      },
-      {
-        "redName": "Denis Andreev",
-        "blueName": "Waldimir Britez",
-        "details": "Bantamweight MMA",
-        "redProfileUrl": "https://www.onefc.com/athletes/denis-andreev/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/waldimir-britez/",
-        "redCountry": "Russia",
-        "blueCountry": "Paraguay",
-        "redAge": 32,
-        "redRecord": "1-1-0",
-        "blueAge": 24,
-        "blueRecord": "1-1-0",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-150",
+        "blueOdds": "+110",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "ONE Friday Fights 174 & The Inner Circle 34",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-174-4400",
+            "promotion": "one",
+            "eventId": "6a968560d3539b67790eccdb",
+            "odds": {
+              "pet sitchalongsak": "-150",
+              "singharat sitkhuntab": "+110"
+            },
+            "names": {
+              "pet sitchalongsak": "Pet Sitchalongsak",
+              "singharat sitkhuntab": "Singharat SitKhuntab"
+            }
+          }
+        ]
       },
       {
         "redName": "Petmanee PK Siamaxmpservice",
@@ -8447,9 +8455,25 @@
         "blueCountry": "Thailand",
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-110",
+        "blueOdds": "-120",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "ONE Friday Fights 174 & The Inner Circle 34",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-174-4400",
+            "promotion": "one",
+            "eventId": "6a968560d3539b67790eccdb",
+            "odds": {
+              "petmanee pk siamaxmpservice": "-110",
+              "d max krutik ms sport thailand": "-120"
+            },
+            "names": {
+              "petmanee pk siamaxmpservice": "Petmanee PK Siamaxmpservice",
+              "d max krutik ms sport thailand": "D-Max Krutik MS Sport Thailand"
+            }
+          }
+        ]
       },
       {
         "redName": "Petubon Sor Teanchai",
@@ -8463,9 +8487,25 @@
         "redRecord": "1-0-0",
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+105",
+        "blueOdds": "-138",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "ONE Friday Fights 174 & The Inner Circle 34",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-174-4400",
+            "promotion": "one",
+            "eventId": "6a968560d3539b67790eccdb",
+            "odds": {
+              "petubon sor teanchai": "+105",
+              "sudsab sor sasiwat": "-138"
+            },
+            "names": {
+              "petubon sor teanchai": "Petubon Sor Teanchai",
+              "sudsab sor sasiwat": "Sudsab Sor Sasiwat"
+            }
+          }
+        ]
       },
       {
         "redName": "Philemon Bitrus Jeb",
@@ -8477,9 +8517,25 @@
         "blueCountry": "Mongolia",
         "redAge": 22,
         "redRecord": "0-1-0",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-250",
+        "blueOdds": "+175",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "ONE Friday Fights 174 & The Inner Circle 34",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-174-4400",
+            "promotion": "one",
+            "eventId": "6a968560d3539b67790eccdb",
+            "odds": {
+              "philemon bitrus jeb": "-250",
+              "bat ireedui ganbaatar": "+175"
+            },
+            "names": {
+              "philemon bitrus jeb": "Philemon Bitrus Jeb",
+              "bat ireedui ganbaatar": "Bat-Ireedui Ganbaatar"
+            }
+          }
+        ]
       },
       {
         "redName": "Chabakaew Sor KanJanchai",
@@ -8495,9 +8551,25 @@
         "blueAge": 31,
         "blueRecord": "0-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-333",
+        "blueOdds": "+225",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "ONE Friday Fights 174 & The Inner Circle 34",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-174-4400",
+            "promotion": "one",
+            "eventId": "6a968560d3539b67790eccdb",
+            "odds": {
+              "chabakaew sor kanjanchai": "-333",
+              "yana yip": "+225"
+            },
+            "names": {
+              "chabakaew sor kanjanchai": "Chabakaew Sor KanJanchai",
+              "yana yip": "Yana Yip"
+            }
+          }
+        ]
       },
       {
         "redName": "Omar El Morabet",
@@ -8511,9 +8583,25 @@
         "redStyle": "Striker",
         "blueAge": 33,
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+105",
+        "blueOdds": "-138",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "ONE Friday Fights 174 & The Inner Circle 34",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-174-4400",
+            "promotion": "one",
+            "eventId": "6a968560d3539b67790eccdb",
+            "odds": {
+              "omar el morabet": "+105",
+              "naoki morita": "-138"
+            },
+            "names": {
+              "omar el morabet": "Omar El Morabet",
+              "naoki morita": "Naoki Morita"
+            }
+          }
+        ]
       },
       {
         "redName": "Suriyanlek Por Yenying",
@@ -8529,9 +8617,25 @@
         "blueAge": 19,
         "blueRecord": "8-0-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+225",
+        "blueOdds": "-333",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "ONE Friday Fights 174 & The Inner Circle 34",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-174-4400",
+            "promotion": "one",
+            "eventId": "6a968560d3539b67790eccdb",
+            "odds": {
+              "suriyanlek por yenying": "+225",
+              "rustam yunusov": "-333"
+            },
+            "names": {
+              "suriyanlek por yenying": "Suriyanlek Por Yenying",
+              "rustam yunusov": "Rustam Yunusov"
+            }
+          }
+        ]
       },
       {
         "redName": "Tyson Harrison",
@@ -8547,9 +8651,25 @@
         "blueAge": 29,
         "blueRecord": "1-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-150",
+        "blueOdds": "+110",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "ONE Friday Fights 174 & The Inner Circle 34",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-174-4400",
+            "promotion": "one",
+            "eventId": "6a968560d3539b67790eccdb",
+            "odds": {
+              "tyson harrison": "-150",
+              "linus bylander": "+110"
+            },
+            "names": {
+              "tyson harrison": "Tyson Harrison",
+              "linus bylander": "Linus Bylander"
+            }
+          }
+        ]
       },
       {
         "redName": "Kongsuk Sitsarawatsuer",
@@ -8565,9 +8685,25 @@
         "blueAge": 26,
         "blueRecord": "0-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-175",
+        "blueOdds": "+130",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "ONE Friday Fights 174 & The Inner Circle 34",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-174-4400",
+            "promotion": "one",
+            "eventId": "6a968560d3539b67790eccdb",
+            "odds": {
+              "kongsuk sitsarawatsuer": "-175",
+              "ruslan tuktarov": "+130"
+            },
+            "names": {
+              "kongsuk sitsarawatsuer": "Kongsuk Sitsarawatsuer",
+              "ruslan tuktarov": "Ruslan Tuktarov"
+            }
+          }
+        ]
       },
       {
         "redName": "Yodthewin Mor Rajabhatmubanchombueng",
@@ -8581,9 +8717,25 @@
         "blueAge": 22,
         "blueRecord": "2-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-138",
+        "blueOdds": "+105",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "ONE Friday Fights 174 & The Inner Circle 34",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-174-4400",
+            "promotion": "one",
+            "eventId": "6a968560d3539b67790eccdb",
+            "odds": {
+              "yodthewin mor rajabhatmubanchombueng": "-138",
+              "arman moradi": "+105"
+            },
+            "names": {
+              "yodthewin mor rajabhatmubanchombueng": "Yodthewin Mor Rajabhatmubanchombueng",
+              "arman moradi": "Arman Moradi"
+            }
+          }
+        ]
       },
       {
         "redName": "Attachai Kelasport",
@@ -8599,9 +8751,25 @@
         "blueAge": 21,
         "blueRecord": "3-0-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+150",
+        "blueOdds": "-200",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "ONE Friday Fights 174 & The Inner Circle 34",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-174-4400",
+            "promotion": "one",
+            "eventId": "6a968560d3539b67790eccdb",
+            "odds": {
+              "attachai kelasport": "+150",
+              "kojiro shiba": "-200"
+            },
+            "names": {
+              "attachai kelasport": "Attachai Kelasport",
+              "kojiro shiba": "Kojiro Shiba"
+            }
+          }
+        ]
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-174/"
@@ -8609,15 +8777,15 @@
   {
     "uid": "6a9685c74f4a09743472c759",
     "start": "20261016T113016Z",
-    "end": "20261016T153016Z",
+    "end": "20261016T163016Z",
     "summary": "ONE Friday Fights 175 & The Inner Circle 35",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-175\n\nPrajanchai PongSuphan PK vs. Wang Junguang | Kickboxing | Strawweight\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-175\n\nPrajanchai PongSuphan PK vs. Wang Junguang | Kickboxing | Strawweight\n\nJohan Ghazali vs. Diego Paez | Muay Thai | Flyweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/one-friday-fights-175",
     "status": "CONFIRMED",
     "bouts": [
       {
-        "redName": "Prajanchai PongSuphan PK",
+        "redName": "Prajanchai Pongsuphan PK",
         "blueName": "Wang Junguang",
         "details": "Strawweight Kickboxing",
         "redProfileUrl": "https://www.onefc.com/athletes/prajanchai/",
@@ -8628,6 +8796,24 @@
         "redRecord": "7-2-0",
         "redStyle": "Striker",
         "blueAge": 31,
+        "blueRecord": "1-2-0",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Johan Ghazali",
+        "blueName": "Diego Paez",
+        "details": "Flyweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/johan-ghazali/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/diego-paez/",
+        "redCountry": "Malaysia / United States",
+        "blueCountry": "Colombia / United States",
+        "redAge": 19,
+        "redRecord": "8-5-0",
+        "redStyle": "Striker",
+        "blueAge": 32,
         "blueRecord": "1-2-0",
         "blueStyle": "Striker",
         "redOdds": null,
@@ -8942,17 +9128,6 @@
     "bouts": []
   },
   {
-    "uid": "69d5f15028ec3730786e73de",
-    "start": "20261212T020017Z",
-    "end": "20261212T080017Z",
-    "summary": "ONE Fight Night 50",
-    "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-fight-night-50\n\nDownload the ONE Super App Now!",
-    "url": "https://watch.onefc.com/events/one-fight-night-50",
-    "status": "CONFIRMED",
-    "bouts": []
-  },
-  {
     "uid": "6a968d70687675b16b9f8e3f",
     "start": "20261218T113016Z",
     "end": "20261218T153016Z",
@@ -8960,6 +9135,17 @@
     "location": "Lumpinee Stadium, Bangkok",
     "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-183\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/one-friday-fights-183",
+    "status": "CONFIRMED",
+    "bouts": []
+  },
+  {
+    "uid": "69d5f15028ec3730786e73de",
+    "start": "20261219T020017Z",
+    "end": "20261219T080017Z",
+    "summary": "ONE Fight Night 50",
+    "location": "Lumpinee Stadium, Bangkok",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-fight-night-50\n\nDownload the ONE Super App Now!",
+    "url": "https://watch.onefc.com/events/one-fight-night-50",
     "status": "CONFIRMED",
     "bouts": []
   },

@@ -2466,71 +2466,88 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a968560d3539b67790eccdb@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261007T133000Z
-SEQUENCE:1
+LAST-MODIFIED:20261009T132233Z
+SEQUENCE:2
 DTSTART:20261009T113003Z
-DTEND:20261009T153003Z
+DTEND:20261009T163003Z
 SUMMARY:ONE Friday Fights 174 & The Inner Circle 34
-DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+DESCRIPTION:ONE Championship · Complete Event · 13 bouts\n📍 Lumpinee S
  tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
  n\n--------------------------------\n𝗕𝗢𝗨𝗧𝗦\n---------------
- -----------------\n\n🥊 14. 𝗗𝗲𝗱𝗱𝘂𝗮𝗻𝗴𝗹𝗲𝗸
+ -----------------\n\n🥊 13. 𝗗𝗲𝗱𝗱𝘂𝗮𝗻𝗴𝗹𝗲𝗸
   𝗧𝗼𝗿𝗳𝘂𝗻𝗳𝗮𝗿𝗺 🇹🇭 vs. 𝗠𝗼𝗻𝗴
  𝗸𝗼𝗹𝗱𝗲𝘁𝗹𝗲𝗸 𝗣𝗼𝗿 𝗣𝗶𝗺-𝗼𝗻 
  🇹🇭\n• 145lbs/65.8kg Bantamweight Muay Thai\n• Torfunfarm: ONE 9-
- 6-0 | 23yo | Striker\n• Pim-on: ONE 7-1-0 | 31yo | Striker\n\n🥊 13. 
- 𝗞𝗵𝘂𝗻𝗱𝗲𝘁 𝗣𝗞 𝗦𝗮𝗲𝗻𝗰𝗵𝗮𝗶 
- 🇹🇭 vs. 𝗔𝗹𝗱𝗼 𝗖𝗿𝘂𝘇 🇲🇽\n• 135lbs/61.2kg
-  Flyweight Muay Thai\n• Saenchai: ONE 2-2-0 | 21yo | Striker\n• Cruz: 
- ONE 1-1-0 | 24yo | Striker\n\n🥊 12. 𝗣𝗲𝘁 𝗦𝗶𝘁𝗰𝗵
- 𝗮𝗹𝗼𝗻𝗴𝘀𝗮𝗸 🇹🇭 vs. 𝗦𝗶𝗻𝗴𝗵𝗮𝗿
- 𝗮𝘁 𝗦𝗶𝘁𝗞𝗵𝘂𝗻𝘁𝗮𝗯 🇹🇭\n• 155lbs/70.
- 3kg Featherweight Muay Thai\n• Sitchalongsak: ONE 1-0-0 | 19yo | Striker
- \n• SitKhuntab: ONE 1-0-0 | 19yo | Striker\n\n🥊 11. 𝗗𝗲𝗻𝗶
- 𝘀 𝗔𝗻𝗱𝗿𝗲𝗲𝘃 🇷🇺 vs. 𝗪𝗮𝗹𝗱𝗶𝗺
- 𝗶𝗿 𝗕𝗿𝗶𝘁𝗲𝘇 🇵🇾\n• 145lbs/65.8kg Bantamweight
-  MMA\n• Andreev: ONE 1-1-0 | 32yo\n• Britez: ONE 1-1-0 | 24yo\n\n🥊 
- 10. 𝗣𝗲𝘁𝗺𝗮𝗻𝗲𝗲 𝗣𝗞 𝗦𝗶𝗮𝗺𝗮𝘅𝗺
- 𝗽𝘀𝗲𝗿𝘃𝗶𝗰𝗲 🇹🇭 vs. 𝗗-𝗠𝗮𝘅 𝗞𝗿
- 𝘂𝘁𝗶𝗸 𝗠𝗦 𝗦𝗽𝗼𝗿𝘁 𝗧𝗵𝗮𝗶𝗹𝗮
- 𝗻𝗱 🇹🇭\n• 135lbs/61.2kg Flyweight Muay Thai\n• Siamaxmpserv
- ice: Striker\n• Thailand: Striker\n\n🥊 9. 𝗣𝗲𝘁𝘂𝗯𝗼
- 𝗻 𝗦𝗼𝗿 𝗧𝗲𝗮𝗻𝗰𝗵𝗮𝗶 🇹🇭 vs. 𝗦𝘂
- 𝗱𝘀𝗮𝗯 𝗦𝗼𝗿 𝗦𝗮𝘀𝗶𝘄𝗮𝘁 🇹🇭\n• 1
- 35lbs/61.2kg Flyweight Muay Thai\n• Teanchai: ONE 1-0-0 | 24yo | Striker
- \n• Sasiwat: Striker\n\n🥊 8. 𝗣𝗵𝗶𝗹𝗲𝗺𝗼𝗻 𝗕
+ 6-0 | 23yo | Striker | -225 (1.44)\n• Pim-on: ONE 7-1-0 | 31yo | Striker
+  | +163 (2.63)\n• Odds history:\n  ◦ 9 Oct: Torfunfarm 🟢 -225 (1.44
+ ) | Pim-on 🔴 +163 (2.63)\n\n🥊 12. 𝗞𝗵𝘂𝗻𝗱𝗲𝘁 𝗣
+ 𝗞 𝗦𝗮𝗲𝗻𝗰𝗵𝗮𝗶 vs. 𝗞𝗶𝘄𝘁𝗵𝗼𝗻𝗴
+  𝗧𝗞𝗗 𝗠𝘂𝗮𝘆𝘁𝗵𝗮𝗶\n• 145lbs/65.8kg Bantamwe
+ ight Muay Thai\n• Saenchai: Striker\n• Muaythai: Striker\n\n🥊 11. 
+ 𝗣𝗲𝘁 𝗦𝗶𝘁𝗰𝗵𝗮𝗹𝗼𝗻𝗴𝘀𝗮𝗸 🇹🇭
+  vs. 𝗦𝗶𝗻𝗴𝗵𝗮𝗿𝗮𝘁 𝗦𝗶𝘁𝗞𝗵𝘂𝗻𝘁
+ 𝗮𝗯 🇹🇭\n• 155lbs/70.3kg Featherweight Muay Thai\n• Sitchalo
+ ngsak: ONE 1-0-0 | 19yo | Striker | -150 (1.67)\n• SitKhuntab: ONE 1-0-0
+  | 19yo | Striker | +110 (2.10)\n• Odds history:\n  ◦ 9 Oct: Sitchalon
+ gsak 🟢 -150 (1.67) | SitKhuntab 🔴 +110 (2.10)\n\n🥊 10. 𝗣𝗲
+ 𝘁𝗺𝗮𝗻𝗲𝗲 𝗣𝗞 𝗦𝗶𝗮𝗺𝗮𝘅𝗺𝗽𝘀𝗲
+ 𝗿𝘃𝗶𝗰𝗲 🇹🇭 vs. 𝗗-𝗠𝗮𝘅 𝗞𝗿𝘂𝘁𝗶
+ 𝗸 𝗠𝗦 𝗦𝗽𝗼𝗿𝘁 𝗧𝗵𝗮𝗶𝗹𝗮𝗻𝗱 🇹
+ 🇭\n• 135lbs/61.2kg Flyweight Muay Thai\n• Siamaxmpservice: Striker 
+ | -110 (1.91)\n• Thailand: Striker | -120 (1.83)\n• Odds history:\n  
+ ◦ 9 Oct: Siamaxmpservice 🔴 -110 (1.91) | Thailand 🟢 -120 (1.83)\n\
+ n🥊 9. 𝗣𝗲𝘁𝘂𝗯𝗼𝗻 𝗦𝗼𝗿 𝗧𝗲𝗮𝗻𝗰
+ 𝗵𝗮𝗶 🇹🇭 vs. 𝗦𝘂𝗱𝘀𝗮𝗯 𝗦𝗼𝗿 𝗦𝗮
+ 𝘀𝗶𝘄𝗮𝘁 🇹🇭\n• 135lbs/61.2kg Flyweight Muay Thai\n• 
+ Teanchai: ONE 1-0-0 | 24yo | Striker | +105 (2.05)\n• Sasiwat: Striker |
+  -138 (1.72)\n• Odds history:\n  ◦ 9 Oct: Teanchai 🔴 +105 (2.05) | 
+ Sasiwat 🟢 -138 (1.72)\n\n🥊 8. 𝗣𝗵𝗶𝗹𝗲𝗺𝗼𝗻 𝗕
  𝗶𝘁𝗿𝘂𝘀 𝗝𝗲𝗯 🇳🇬 vs. 𝗕𝗮𝘁-𝗜𝗿𝗲
  𝗲𝗱𝘂𝗶 𝗚𝗮𝗻𝗯𝗮𝗮𝘁𝗮𝗿 🇲🇳\n• 155lbs
- /70.3kg Featherweight MMA\n• Jeb: ONE 0-1-0 | 22yo\n\n🥊 7. 𝗖𝗵
- 𝗮𝗯𝗮𝗸𝗮𝗲𝘄 𝗦𝗼𝗿 𝗞𝗮𝗻𝗝𝗮𝗻𝗰𝗵
- 𝗮𝗶 🇹🇭 vs. 𝗬𝗮𝗻𝗮 𝗬𝗶𝗽 🇭🇰\n• 115lbs/5
- 2.2kg Atomweight Muay Thai\n• KanJanchai: ONE 5-2-0 | 20yo | Striker\n
- • Yip: ONE 0-1-0 | 31yo | Striker\n\n🥊 6. 𝗢𝗺𝗮𝗿 𝗘𝗹 
- 𝗠𝗼𝗿𝗮𝗯𝗲𝘁 🇪🇸 vs. 𝗡𝗮𝗼𝗸𝗶 𝗠𝗼
- 𝗿𝗶𝘁𝗮 🇯🇵\n• 155lbs/70.3kg Featherweight Kickboxing\n•
-  Morabet: 29yo | Striker\n• Morita: 33yo | Striker\n\n🥊 5. 𝗦𝘂
- 𝗿𝗶𝘆𝗮𝗻𝗹𝗲𝗸 𝗣𝗼𝗿 𝗬𝗲𝗻𝘆𝗶𝗻𝗴
-  🇹🇭 vs. 𝗥𝘂𝘀𝘁𝗮𝗺 𝗬𝘂𝗻𝘂𝘀𝗼𝘃 🇷
- 🇺\n• 135lbs/61.2kg Flyweight Muay Thai\n• Yenying: ONE 11-7-0 | 30y
- o | Striker\n• Yunusov: ONE 8-0-0 | 19yo | Striker\n\n🥊 4. 𝗧𝘆
- 𝘀𝗼𝗻 𝗛𝗮𝗿𝗿𝗶𝘀𝗼𝗻 🇦🇺 vs. 𝗟𝗶𝗻
- 𝘂𝘀 𝗕𝘆𝗹𝗮𝗻𝗱𝗲𝗿 🇸🇪\n• 145lbs/65.8kg Bant
- amweight Muay Thai\n• Harrison: ONE 4-4-0 | 25yo | Striker\n• Bylander
- : ONE 1-1-0 | 29yo | Striker\n\n🥊 3. 𝗞𝗼𝗻𝗴𝘀𝘂𝗸 𝗦
- 𝗶𝘁𝘀𝗮𝗿𝗮𝘄𝗮𝘁𝘀𝘂𝗲𝗿 🇹🇭 vs. 𝗥𝘂
- 𝘀𝗹𝗮𝗻 𝗧𝘂𝗸𝘁𝗮𝗿𝗼𝘃 🇷🇺\n• 145lbs/65.
- 8kg Bantamweight Muay Thai\n• Sitsarawatsuer: ONE 9-4-0 | 26yo | Striker
- \n• Tuktarov: ONE 0-1-0 | 26yo | Striker\n\n🥊 2. 𝗬𝗼𝗱𝘁𝗵
- 𝗲𝘄𝗶𝗻 𝗠𝗼𝗿 𝗥𝗮𝗷𝗮𝗯𝗵𝗮𝘁𝗺𝘂𝗯
- 𝗮𝗻𝗰𝗵𝗼𝗺𝗯𝘂𝗲𝗻𝗴 vs. 𝗔𝗿𝗺𝗮𝗻 𝗠
- 𝗼𝗿𝗮𝗱𝗶 🇮🇷\n• 155lbs/70.3kg Featherweight Muay Thai\n
- • Rajabhatmubanchombueng: Striker\n• Moradi: ONE 2-1-0 | 22yo | Strike
- r\n\n🥊 1. 𝗔𝘁𝘁𝗮𝗰𝗵𝗮𝗶 𝗞𝗲𝗹𝗮𝘀𝗽𝗼
- 𝗿𝘁 🇹🇭 vs. 𝗞𝗼𝗷𝗶𝗿𝗼 𝗦𝗵𝗶𝗯𝗮 🇯
- 🇵\n• 125lbs/56.7kg Strawweight Kickboxing\n• Kelasport: ONE 2-0-0 |
-  24yo | Striker\n• Shiba: ONE 3-0-0 | 21yo | Striker\n\n----------------
- ----------------\nSource: https://www.onefc.com/events/one-friday-fights-1
- 74/
+ /70.3kg Featherweight MMA\n• Jeb: ONE 0-1-0 | 22yo | -250 (1.40)\n• Ga
+ nbaatar: +175 (2.75)\n• Odds history:\n  ◦ 9 Oct: Jeb 🟢 -250 (1.40)
+  | Ganbaatar 🔴 +175 (2.75)\n\n🥊 7. 𝗖𝗵𝗮𝗯𝗮𝗸𝗮𝗲
+ 𝘄 𝗦𝗼𝗿 𝗞𝗮𝗻𝗝𝗮𝗻𝗰𝗵𝗮𝗶 🇹🇭 vs. 
+ 𝗬𝗮𝗻𝗮 𝗬𝗶𝗽 🇭🇰\n• 115lbs/52.2kg Atomweight Muay 
+ Thai\n• KanJanchai: ONE 5-2-0 | 20yo | Striker | -333 (1.30)\n• Yip: O
+ NE 0-1-0 | 31yo | Striker | +225 (3.25)\n• Odds history:\n  ◦ 9 Oct: K
+ anJanchai 🟢 -333 (1.30) | Yip 🔴 +225 (3.25)\n\n🥊 6. 𝗢𝗺𝗮
+ 𝗿 𝗘𝗹 𝗠𝗼𝗿𝗮𝗯𝗲𝘁 🇪🇸 vs. 𝗡𝗮𝗼𝗸
+ 𝗶 𝗠𝗼𝗿𝗶𝘁𝗮 🇯🇵\n• 155lbs/70.3kg Featherweight Ki
+ ckboxing\n• Morabet: 29yo | Striker | +105 (2.05)\n• Morita: 33yo | St
+ riker | -138 (1.72)\n• Odds history:\n  ◦ 9 Oct: Morabet 🔴 +105 (2.
+ 05) | Morita 🟢 -138 (1.72)\n\n🥊 5. 𝗦𝘂𝗿𝗶𝘆𝗮𝗻𝗹
+ 𝗲𝗸 𝗣𝗼𝗿 𝗬𝗲𝗻𝘆𝗶𝗻𝗴 🇹🇭 vs. 𝗥𝘂
+ 𝘀𝘁𝗮𝗺 𝗬𝘂𝗻𝘂𝘀𝗼𝘃 🇷🇺\n• 135lbs/61.2kg 
+ Flyweight Muay Thai\n• Yenying: ONE 11-7-0 | 30yo | Striker | +225 (3.25
+ )\n• Yunusov: ONE 8-0-0 | 19yo | Striker | -333 (1.30)\n• Odds history
+ :\n  ◦ 9 Oct: Yenying 🔴 +225 (3.25) | Yunusov 🟢 -333 (1.30)\n\n
+ 🥊 4. 𝗧𝘆𝘀𝗼𝗻 𝗛𝗮𝗿𝗿𝗶𝘀𝗼𝗻 🇦🇺 vs.
+  𝗟𝗶𝗻𝘂𝘀 𝗕𝘆𝗹𝗮𝗻𝗱𝗲𝗿 🇸🇪\n• 145lb
+ s/65.8kg Bantamweight Muay Thai\n• Harrison: ONE 4-4-0 | 25yo | Striker 
+ | -150 (1.67)\n• Bylander: ONE 1-1-0 | 29yo | Striker | +110 (2.10)\n•
+  Odds history:\n  ◦ 9 Oct: Harrison 🟢 -150 (1.67) | Bylander 🔴 +11
+ 0 (2.10)\n\n🥊 3. 𝗞𝗼𝗻𝗴𝘀𝘂𝗸 𝗦𝗶𝘁𝘀𝗮𝗿
+ 𝗮𝘄𝗮𝘁𝘀𝘂𝗲𝗿 🇹🇭 vs. 𝗥𝘂𝘀𝗹𝗮𝗻 
+ 𝗧𝘂𝗸𝘁𝗮𝗿𝗼𝘃 🇷🇺\n• 145lbs/65.8kg Bantamweight 
+ Muay Thai\n• Sitsarawatsuer: ONE 9-4-0 | 26yo | Striker | -175 (1.57)\n
+ • Tuktarov: ONE 0-1-0 | 26yo | Striker | +130 (2.30)\n• Odds history:\
+ n  ◦ 9 Oct: Sitsarawatsuer 🟢 -175 (1.57) | Tuktarov 🔴 +130 (2.30)\
+ n\n🥊 2. 𝗬𝗼𝗱𝘁𝗵𝗲𝘄𝗶𝗻 𝗠𝗼𝗿 𝗥𝗮𝗷
+ 𝗮𝗯𝗵𝗮𝘁𝗺𝘂𝗯𝗮𝗻𝗰𝗵𝗼𝗺𝗯𝘂𝗲𝗻
+ 𝗴 vs. 𝗔𝗿𝗺𝗮𝗻 𝗠𝗼𝗿𝗮𝗱𝗶 🇮🇷\n• 155lb
+ s/70.3kg Featherweight Muay Thai\n• Rajabhatmubanchombueng: Striker | -1
+ 38 (1.72)\n• Moradi: ONE 2-1-0 | 22yo | Striker | +105 (2.05)\n• Odds 
+ history:\n  ◦ 9 Oct: Rajabhatmubanchombueng 🟢 -138 (1.72) | Moradi 
+ 🔴 +105 (2.05)\n\n🥊 1. 𝗔𝘁𝘁𝗮𝗰𝗵𝗮𝗶 𝗞𝗲𝗹
+ 𝗮𝘀𝗽𝗼𝗿𝘁 🇹🇭 vs. 𝗞𝗼𝗷𝗶𝗿𝗼 𝗦𝗵
+ 𝗶𝗯𝗮 🇯🇵\n• 125lbs/56.7kg Strawweight Kickboxing\n• Kelas
+ port: ONE 2-0-0 | 24yo | Striker | +150 (2.50)\n• Shiba: ONE 3-0-0 | 21y
+ o | Striker | -200 (1.50)\n• Odds history:\n  ◦ 9 Oct: Kelasport 🔴 
+ +150 (2.50) | Shiba 🟢 -200 (1.50)\n\n--------------------------------\n
+ Source: https://www.onefc.com/events/one-friday-fights-174/\nOdds source: 
+ https://www.bestfightodds.com/ · best available line · checked Monday an
+ d Friday
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-174
 CATEGORIES:ONE Championship
@@ -2539,20 +2556,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a9685c74f4a09743472c759@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260921T125410Z
-SEQUENCE:2
+LAST-MODIFIED:20261009T132233Z
+SEQUENCE:3
 DTSTART:20261016T113016Z
-DTEND:20261016T153016Z
+DTEND:20261016T163016Z
 SUMMARY:ONE Friday Fights 175 & The Inner Circle 35
-DESCRIPTION:ONE Championship · Complete Event · 1 bout\n📍 Lumpinee Sta
- dium\, Bangkok\nTimes display automatically in your calendar time zone.\n\
- n--------------------------------\n𝗕𝗢𝗨𝗧𝗦\n-----------------
- ---------------\n\n🥊 1. 𝗣𝗿𝗮𝗷𝗮𝗻𝗰𝗵𝗮𝗶 𝗣
- 𝗼𝗻𝗴𝗦𝘂𝗽𝗵𝗮𝗻 𝗣𝗞 🇹🇭 vs. 𝗪𝗮𝗻
+DESCRIPTION:ONE Championship · Complete Event · 2 bouts\n📍 Lumpinee St
+ adium\, Bangkok\nTimes display automatically in your calendar time zone.\n
+ \n--------------------------------\n𝗕𝗢𝗨𝗧𝗦\n----------------
+ ----------------\n\n🥊 2. 𝗣𝗿𝗮𝗷𝗮𝗻𝗰𝗵𝗮𝗶 𝗣
+ 𝗼𝗻𝗴𝘀𝘂𝗽𝗵𝗮𝗻 𝗣𝗞 🇹🇭 vs. 𝗪𝗮𝗻
  𝗴 𝗝𝘂𝗻𝗴𝘂𝗮𝗻𝗴 🇨🇳\n• 125lbs/56.7kg Strawwei
  ght Kickboxing\n• PK: ONE 7-2-0 | 31yo | Striker\n• Junguang: ONE 1-2-
- 0 | 31yo | Striker\n\n--------------------------------\nSource: https://ww
- w.onefc.com/events/one-friday-fights-175/
+ 0 | 31yo | Striker\n\n🥊 1. 𝗝𝗼𝗵𝗮𝗻 𝗚𝗵𝗮𝘇𝗮
+ 𝗹𝗶 🇲🇾/🇺🇸 vs. 𝗗𝗶𝗲𝗴𝗼 𝗣𝗮𝗲𝘇 🇨
+ 🇴/🇺🇸\n• 135lbs/61.2kg Flyweight Muay Thai\n• Ghazali: ONE 8-5
+ -0 | 19yo | Striker\n• Paez: ONE 1-2-0 | 32yo | Striker\n\n-------------
+ -------------------\nSource: https://www.onefc.com/events/one-friday-fight
+ s-175/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-175
 CATEGORIES:ONE Championship
@@ -2800,25 +2821,6 @@ CATEGORIES:ONE Championship
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:69d5f15028ec3730786e73de@mma-calendar-one
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T144507Z
-SEQUENCE:0
-DTSTART:20261212T020017Z
-DTEND:20261212T080017Z
-SUMMARY:ONE Fight Night 50
-DESCRIPTION:ONE Championship · Complete Event · card details to be announ
- ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
- calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
- 𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
- ---------------------------\nSource: https://watch.onefc.com/events/one-fi
- ght-night-50
-LOCATION:Lumpinee Stadium\, Bangkok
-URL:https://watch.onefc.com/events/one-fight-night-50
-CATEGORIES:ONE Championship
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:6a968d70687675b16b9f8e3f@mma-calendar-one
 DTSTAMP:20260913T144507Z
 LAST-MODIFIED:20260913T144507Z
@@ -2834,6 +2836,25 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  iday-fights-183
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-183
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:69d5f15028ec3730786e73de@mma-calendar-one
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20261009T132233Z
+SEQUENCE:1
+DTSTART:20261219T020017Z
+DTEND:20261219T080017Z
+SUMMARY:ONE Fight Night 50
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
+ calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
+ 𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
+ ---------------------------\nSource: https://watch.onefc.com/events/one-fi
+ ght-night-50
+LOCATION:Lumpinee Stadium\, Bangkok
+URL:https://watch.onefc.com/events/one-fight-night-50
 CATEGORIES:ONE Championship
 STATUS:CONFIRMED
 END:VEVENT

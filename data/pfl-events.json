@@ -2855,11 +2855,7 @@
         },
         "blue": {
           "name": "Hussain Al Kurdi",
-          "profileUrl": "https://pflmma.com/africa-fighter/hussain-alkurdi",
-          "countryCode": null,
-          "birthDate": "2001-06-07",
-          "record": "3-0-0",
-          "style": null,
+          "profileUrl": "https://pflmma.com/africa-fighter/hussain-al-kurdi",
           "odds": "-168"
         },
         "details": "Winner: Hussain Al Kurdi by Submission",
@@ -3062,7 +3058,49 @@
         "oddsHistory": []
       }
     ],
-    "cancelledBouts": []
+    "cancelledBouts": [
+      {
+        "id": "1499",
+        "order": 6,
+        "red": {
+          "name": "Abderrahman Errachidy",
+          "profileUrl": "https://pflmma.com/africa-fighter/abderrahman-errachidy",
+          "countryCode": "MA",
+          "birthDate": "2001-02-03",
+          "record": "5-2-0",
+          "style": null,
+          "odds": "+142"
+        },
+        "blue": {
+          "name": "Hussain Al Kurdi",
+          "profileUrl": "https://pflmma.com/africa-fighter/hussain-alkurdi",
+          "countryCode": null,
+          "birthDate": "2001-06-07",
+          "record": "3-0-0",
+          "style": null,
+          "odds": "-168"
+        },
+        "details": "Winner: Hussain Al Kurdi by Submission",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Africa Nigeria",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4228",
+            "odds": {
+              "abderrahman errachidy": "+142",
+              "hussain al kurdi": "-168"
+            },
+            "names": {
+              "abderrahman errachidy": "Abderrahman Errachidy",
+              "hussain al kurdi": "Hussain Al Kurdi"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-africa-nigeria"
+          }
+        ],
+        "note": "Removed from the official PFL card"
+      }
+    ]
   },
   {
     "uid": "pfl-san-diego-2026",
@@ -5318,11 +5356,7 @@
         },
         "blue": {
           "name": "Oussama El Idrissi",
-          "profileUrl": "https://pflmma.com/africa-fighter/oussama-elidrissi",
-          "countryCode": null,
-          "birthDate": "1997-08-29",
-          "record": "3-0-0",
-          "style": null,
+          "profileUrl": "https://pflmma.com/africa-fighter/oussama-el-idrissi",
           "odds": null
         },
         "details": "155lbs/70kg Lightweight",
@@ -5338,7 +5372,7 @@
           "birthDate": "2005-06-13",
           "record": "5-4-0",
           "style": null,
-          "odds": null
+          "odds": "-130"
         },
         "blue": {
           "name": "Sanaa Mandar",
@@ -5347,10 +5381,26 @@
           "birthDate": "1990-10-01",
           "record": null,
           "style": null,
-          "odds": null
+          "odds": "+112"
         },
         "details": "Catchweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "PFL Africa Morocco",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
+            "promotion": "pfl",
+            "eventId": "pfl-morocco",
+            "odds": {
+              "jane osigwe": "-130",
+              "sanaa mandar": "+112"
+            },
+            "names": {
+              "jane osigwe": "Jane Osigwe",
+              "sanaa mandar": "Sanaa Mandar"
+            }
+          }
+        ]
       },
       {
         "id": "1612",
@@ -5366,11 +5416,7 @@
         },
         "blue": {
           "name": "Hussain Al Kurdi",
-          "profileUrl": "https://pflmma.com/africa-fighter/hussain-alkurdi",
-          "countryCode": null,
-          "birthDate": "2001-06-07",
-          "record": "3-0-0",
-          "style": null,
+          "profileUrl": "https://pflmma.com/africa-fighter/hussain-al-kurdi",
           "odds": null
         },
         "details": "155lbs/70kg Lightweight",
@@ -5386,7 +5432,7 @@
           "birthDate": "1989-08-15",
           "record": "16-3-1",
           "style": null,
-          "odds": null
+          "odds": "-128"
         },
         "blue": {
           "name": "Boule Godogo",
@@ -5395,10 +5441,26 @@
           "birthDate": null,
           "record": "5-1-0",
           "style": null,
-          "odds": null
+          "odds": "+118"
         },
         "details": "135lbs/61kg Bantamweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "PFL Africa Morocco",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
+            "promotion": "pfl",
+            "eventId": "pfl-morocco",
+            "odds": {
+              "dwight joseph": "-128",
+              "boule godogo": "+118"
+            },
+            "names": {
+              "dwight joseph": "Dwight Joseph",
+              "boule godogo": "Boule Godogo"
+            }
+          }
+        ]
       },
       {
         "id": "1610",
@@ -5410,7 +5472,7 @@
           "birthDate": null,
           "record": "3-0-0",
           "style": null,
-          "odds": null
+          "odds": "-1000"
         },
         "blue": {
           "name": "Salim Mhamdi",
@@ -5419,30 +5481,38 @@
           "birthDate": "2005-02-15",
           "record": "2-0-0",
           "style": null,
-          "odds": null
+          "odds": "+820"
         },
         "details": "135lbs/61kg Bantamweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "PFL Africa Morocco",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
+            "promotion": "pfl",
+            "eventId": "pfl-morocco",
+            "odds": {
+              "reda abdellaoui": "-1000",
+              "salim mhamdi": "+820"
+            },
+            "names": {
+              "reda abdellaoui": "Reda Abdellaoui",
+              "salim mhamdi": "Salim Mhamdi"
+            }
+          }
+        ]
       },
       {
         "id": "1568",
         "order": 7,
         "red": {
           "name": "Yabna N’tchala",
-          "profileUrl": "https://pflmma.com/africa-fighter/yabna-n%E2%80%99tchala",
-          "countryCode": "GW",
-          "birthDate": "1997-08-04",
-          "record": "13-3-1",
-          "style": null,
+          "profileUrl": "https://pflmma.com/africa-fighter/yabna-ntchala",
           "odds": null
         },
         "blue": {
-          "name": "Mouhamed Ba",
-          "profileUrl": "https://pflmma.com/africa-fighter/mouhamed-ba",
-          "countryCode": "SN",
-          "birthDate": "2002-12-17",
-          "record": "4-1-0",
-          "style": null,
+          "name": "Mouhamed Tafsir Ba",
+          "profileUrl": "https://pflmma.com/africa-fighter/mouhamed-tafsir-ba",
           "odds": null
         },
         "details": "170lbs/77kg Welterweight",
@@ -5458,7 +5528,7 @@
           "birthDate": "1989-11-05",
           "record": "6-2-0",
           "style": null,
-          "odds": null
+          "odds": "-125"
         },
         "blue": {
           "name": "Raphael Uchegbu",
@@ -5467,10 +5537,26 @@
           "birthDate": null,
           "record": "7-1-0",
           "style": null,
-          "odds": null
+          "odds": "+106"
         },
         "details": "135lbs/61kg Bantamweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "PFL Africa Morocco",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
+            "promotion": "pfl",
+            "eventId": "pfl-morocco",
+            "odds": {
+              "alain majorique": "-125",
+              "raphael uchegbu": "+106"
+            },
+            "names": {
+              "alain majorique": "Alain Majorique",
+              "raphael uchegbu": "Raphael Uchegbu"
+            }
+          }
+        ]
       },
       {
         "id": "1566",
@@ -5482,7 +5568,7 @@
           "birthDate": "1997-05-20",
           "record": "3-2-0",
           "style": null,
-          "odds": null
+          "odds": "+390"
         },
         "blue": {
           "name": "David Samuel",
@@ -5491,10 +5577,26 @@
           "birthDate": null,
           "record": "6-0-0",
           "style": null,
-          "odds": null
+          "odds": "-450"
         },
         "details": "170lbs/77kg Welterweight · Semifinal",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "PFL Africa Morocco",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
+            "promotion": "pfl",
+            "eventId": "pfl-morocco",
+            "odds": {
+              "rivaldo pereira": "+390",
+              "david samuel": "-450"
+            },
+            "names": {
+              "rivaldo pereira": "Rivaldo Pereira",
+              "david samuel": "David Samuel"
+            }
+          }
+        ]
       },
       {
         "id": "1565",
@@ -5506,7 +5608,7 @@
           "birthDate": "1994-11-27",
           "record": "9-1-0",
           "style": null,
-          "odds": null
+          "odds": "-225"
         },
         "blue": {
           "name": "Cornel Thompson",
@@ -5515,21 +5617,33 @@
           "birthDate": "1995-03-01",
           "record": "11-3-0",
           "style": null,
-          "odds": null
+          "odds": "+190"
         },
         "details": "155lbs/70kg Lightweight · Semifinal",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "PFL Africa Morocco",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
+            "promotion": "pfl",
+            "eventId": "pfl-morocco",
+            "odds": {
+              "patrick ocheme": "-225",
+              "cornel thompson": "+190"
+            },
+            "names": {
+              "patrick ocheme": "Patrick Ocheme",
+              "cornel thompson": "Cornel Thompson"
+            }
+          }
+        ]
       },
       {
         "id": "1564",
         "order": 3,
         "red": {
-          "name": "Shido Boris Esperanca",
-          "profileUrl": "https://pflmma.com/africa-fighter/shido-borisesperanca",
-          "countryCode": "AO",
-          "birthDate": "1994-12-22",
-          "record": "12-1-0",
-          "style": null,
+          "name": "Shido Boris Esperança",
+          "profileUrl": "https://pflmma.com/africa-fighter/shido-boris-esperana",
           "odds": null
         },
         "blue": {
@@ -5554,7 +5668,7 @@
           "birthDate": "1995-01-17",
           "record": "5-2-0",
           "style": null,
-          "odds": null
+          "odds": "+185"
         },
         "blue": {
           "name": "Yanis Ghemmouri",
@@ -5563,10 +5677,26 @@
           "birthDate": "1995-01-23",
           "record": "13-4-0",
           "style": null,
-          "odds": null
+          "odds": "-225"
         },
         "details": "145lbs/66kg Featherweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "PFL Africa Morocco",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
+            "promotion": "pfl",
+            "eventId": "pfl-morocco",
+            "odds": {
+              "taha bendaoud": "+185",
+              "yanis ghemmouri": "-225"
+            },
+            "names": {
+              "taha bendaoud": "Taha Bendaoud",
+              "yanis ghemmouri": "Yanis Ghemmouri"
+            }
+          }
+        ]
       },
       {
         "id": "1562",
@@ -5578,7 +5708,7 @@
           "birthDate": "1998-08-14",
           "record": "5-2-0",
           "style": null,
-          "odds": null
+          "odds": "-400"
         },
         "blue": {
           "name": "Badr Medkouri",
@@ -5587,10 +5717,26 @@
           "birthDate": "1993-12-04",
           "record": "7-2-0",
           "style": null,
-          "odds": null
+          "odds": "+320"
         },
         "details": "265lbs/120kg Heavyweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "PFL Africa Morocco",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
+            "promotion": "pfl",
+            "eventId": "pfl-morocco",
+            "odds": {
+              "abdoulaye kane": "-400",
+              "badr medkouri": "+320"
+            },
+            "names": {
+              "abdoulaye kane": "Abdoulaye Kane",
+              "badr medkouri": "Badr Medkouri"
+            }
+          }
+        ]
       }
     ],
     "cancelledBouts": [
@@ -5616,6 +5762,106 @@
           "odds": null
         },
         "details": "135lbs/61kg Bantamweight · Semifinal",
+        "oddsHistory": [],
+        "note": "Removed from the official PFL card"
+      },
+      {
+        "id": "1614",
+        "order": 12,
+        "red": {
+          "name": "Abderrahman Errachidy",
+          "profileUrl": "https://pflmma.com/africa-fighter/abderrahman-errachidy",
+          "countryCode": "MA",
+          "birthDate": "2001-02-03",
+          "record": "5-2-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Oussama El Idrissi",
+          "profileUrl": "https://pflmma.com/africa-fighter/oussama-elidrissi",
+          "countryCode": null,
+          "birthDate": "1997-08-29",
+          "record": "3-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight",
+        "oddsHistory": [],
+        "note": "Removed from the official PFL card"
+      },
+      {
+        "id": "1612",
+        "order": 10,
+        "red": {
+          "name": "Demba Seck",
+          "profileUrl": "https://pflmma.com/africa-fighter/demba-seck",
+          "countryCode": null,
+          "birthDate": "1994-07-19",
+          "record": "11-3-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Hussain Al Kurdi",
+          "profileUrl": "https://pflmma.com/africa-fighter/hussain-alkurdi",
+          "countryCode": null,
+          "birthDate": "2001-06-07",
+          "record": "3-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight",
+        "oddsHistory": [],
+        "note": "Removed from the official PFL card"
+      },
+      {
+        "id": "1568",
+        "order": 7,
+        "red": {
+          "name": "Yabna N’tchala",
+          "profileUrl": "https://pflmma.com/africa-fighter/yabna-n%E2%80%99tchala",
+          "countryCode": "GW",
+          "birthDate": "1997-08-04",
+          "record": "13-3-1",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Mouhamed Ba",
+          "profileUrl": "https://pflmma.com/africa-fighter/mouhamed-ba",
+          "countryCode": "SN",
+          "birthDate": "2002-12-17",
+          "record": "4-1-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight",
+        "oddsHistory": [],
+        "note": "Removed from the official PFL card"
+      },
+      {
+        "id": "1564",
+        "order": 3,
+        "red": {
+          "name": "Shido Boris Esperanca",
+          "profileUrl": "https://pflmma.com/africa-fighter/shido-borisesperanca",
+          "countryCode": "AO",
+          "birthDate": "1994-12-22",
+          "record": "12-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Peace Nguphane",
+          "profileUrl": "https://pflmma.com/africa-fighter/peace-nguphane",
+          "countryCode": "ZA",
+          "birthDate": null,
+          "record": "10-3-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight · Semifinal",
         "oddsHistory": [],
         "note": "Removed from the official PFL card"
       }
@@ -6028,8 +6274,32 @@
     "status": "CONFIRMED",
     "bouts": [
       {
+        "id": "1621",
+        "order": 13,
+        "red": {
+          "name": "Khamzat Abaev",
+          "profileUrl": "https://pflmma.com/wt-fighter/khamzat-abaev",
+          "countryCode": null,
+          "birthDate": "1996-09-23",
+          "record": "6-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Leon Hill",
+          "profileUrl": "https://pflmma.com/wt-fighter/leon-hill",
+          "countryCode": null,
+          "birthDate": "1996-04-22",
+          "record": "10-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight",
+        "oddsHistory": []
+      },
+      {
         "id": "1609",
-        "order": 11,
+        "order": 12,
         "red": {
           "name": "Ernesto Rodriguez",
           "profileUrl": "https://pflmma.com/wt-fighter/ernesto-rodriguez",
@@ -6049,6 +6319,30 @@
           "odds": null
         },
         "details": "170lbs/77kg Welterweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1620",
+        "order": 11,
+        "red": {
+          "name": "Denis Goltsov",
+          "profileUrl": "https://pflmma.com/wt-fighter/denis-goltsov",
+          "countryCode": "RU",
+          "birthDate": "1990-06-09",
+          "record": "37-9-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Maxwell Djantou Nana",
+          "profileUrl": "https://pflmma.com/wt-fighter/maxwell-djantounana",
+          "countryCode": "CM",
+          "birthDate": "1991-01-18",
+          "record": "9-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "265lbs/120kg Heavyweight",
         "oddsHistory": []
       },
       {
@@ -6401,6 +6695,30 @@
     "end": "20261219T230000Z",
     "status": "CONFIRMED",
     "bouts": [
+      {
+        "id": "1619",
+        "order": 6,
+        "red": {
+          "name": "Brandon Brachet",
+          "profileUrl": "https://pflmma.com/wt-fighter/brandon-brachet",
+          "countryCode": "FR",
+          "birthDate": "2004-11-27",
+          "record": "9-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Adam Meskini",
+          "profileUrl": "https://pflmma.com/wt-fighter/adam-meskini",
+          "countryCode": "MA",
+          "birthDate": "1996-07-28",
+          "record": "11-3-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "145lbs/66kg Featherweight",
+        "oddsHistory": []
+      },
       {
         "id": "1607",
         "order": 5,
