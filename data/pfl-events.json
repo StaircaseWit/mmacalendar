@@ -5343,47 +5343,27 @@
     "status": "TENTATIVE",
     "bouts": [
       {
-        "id": "1614",
-        "order": 12,
-        "red": {
-          "name": "Abderrahman Errachidy",
-          "profileUrl": "https://pflmma.com/africa-fighter/abderrahman-errachidy",
-          "countryCode": "MA",
-          "birthDate": "2001-02-03",
-          "record": "5-2-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Oussama El Idrissi",
-          "profileUrl": "https://pflmma.com/africa-fighter/oussama-el-idrissi",
-          "odds": null
-        },
-        "details": "155lbs/70kg Lightweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1613",
+        "id": "1562",
         "order": 11,
         "red": {
-          "name": "Jane Osigwe",
-          "profileUrl": "https://pflmma.com/africa-fighter/jane-osigwe",
-          "countryCode": null,
-          "birthDate": "2005-06-13",
-          "record": "5-4-0",
+          "name": "Abdoulaye Kane",
+          "profileUrl": "https://pflmma.com/africa-fighter/abdoulaye-kane",
+          "countryCode": "SN",
+          "birthDate": "1998-08-14",
+          "record": "5-2-0",
           "style": null,
-          "odds": "-130"
+          "odds": "-400"
         },
         "blue": {
-          "name": "Sanaa Mandar",
-          "profileUrl": "https://pflmma.com/africa-fighter/sanaa-mandar",
-          "countryCode": null,
-          "birthDate": "1990-10-01",
-          "record": null,
+          "name": "Badr Medkouri",
+          "profileUrl": "https://pflmma.com/africa-fighter/badr-medkouri",
+          "countryCode": "FR",
+          "birthDate": "1993-12-04",
+          "record": "7-2-0",
           "style": null,
-          "odds": "+112"
+          "odds": "+320"
         },
-        "details": "Catchweight",
+        "details": "265lbs/120kg Heavyweight",
         "oddsHistory": [
           {
             "checkedAt": "2026-10-09T13:22:33.422Z",
@@ -5392,275 +5372,19 @@
             "promotion": "pfl",
             "eventId": "pfl-morocco",
             "odds": {
-              "jane osigwe": "-130",
-              "sanaa mandar": "+112"
+              "abdoulaye kane": "-400",
+              "badr medkouri": "+320"
             },
             "names": {
-              "jane osigwe": "Jane Osigwe",
-              "sanaa mandar": "Sanaa Mandar"
+              "abdoulaye kane": "Abdoulaye Kane",
+              "badr medkouri": "Badr Medkouri"
             }
           }
         ]
-      },
-      {
-        "id": "1612",
-        "order": 10,
-        "red": {
-          "name": "Demba Seck",
-          "profileUrl": "https://pflmma.com/africa-fighter/demba-seck",
-          "countryCode": null,
-          "birthDate": "1994-07-19",
-          "record": "11-3-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Hussain Al Kurdi",
-          "profileUrl": "https://pflmma.com/africa-fighter/hussain-al-kurdi",
-          "odds": null
-        },
-        "details": "155lbs/70kg Lightweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1611",
-        "order": 9,
-        "red": {
-          "name": "Dwight Joseph",
-          "profileUrl": "https://pflmma.com/africa-fighter/dwight-joseph",
-          "countryCode": "LR",
-          "birthDate": "1989-08-15",
-          "record": "16-3-1",
-          "style": null,
-          "odds": "-128"
-        },
-        "blue": {
-          "name": "Boule Godogo",
-          "profileUrl": "https://pflmma.com/africa-fighter/boule-godogo",
-          "countryCode": "AO",
-          "birthDate": null,
-          "record": "5-1-0",
-          "style": null,
-          "odds": "+118"
-        },
-        "details": "135lbs/61kg Bantamweight",
-        "oddsHistory": [
-          {
-            "checkedAt": "2026-10-09T13:22:33.422Z",
-            "eventName": "PFL Africa Morocco",
-            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
-            "promotion": "pfl",
-            "eventId": "pfl-morocco",
-            "odds": {
-              "dwight joseph": "-128",
-              "boule godogo": "+118"
-            },
-            "names": {
-              "dwight joseph": "Dwight Joseph",
-              "boule godogo": "Boule Godogo"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1610",
-        "order": 8,
-        "red": {
-          "name": "Reda Abdellaoui",
-          "profileUrl": "https://pflmma.com/africa-fighter/reda-abdellaoui",
-          "countryCode": "MA",
-          "birthDate": null,
-          "record": "3-0-0",
-          "style": null,
-          "odds": "-1000"
-        },
-        "blue": {
-          "name": "Salim Mhamdi",
-          "profileUrl": "https://pflmma.com/africa-fighter/salim-mhamdi",
-          "countryCode": null,
-          "birthDate": "2005-02-15",
-          "record": "2-0-0",
-          "style": null,
-          "odds": "+820"
-        },
-        "details": "135lbs/61kg Bantamweight",
-        "oddsHistory": [
-          {
-            "checkedAt": "2026-10-09T13:22:33.422Z",
-            "eventName": "PFL Africa Morocco",
-            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
-            "promotion": "pfl",
-            "eventId": "pfl-morocco",
-            "odds": {
-              "reda abdellaoui": "-1000",
-              "salim mhamdi": "+820"
-            },
-            "names": {
-              "reda abdellaoui": "Reda Abdellaoui",
-              "salim mhamdi": "Salim Mhamdi"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1568",
-        "order": 7,
-        "red": {
-          "name": "Yabna N’tchala",
-          "profileUrl": "https://pflmma.com/africa-fighter/yabna-ntchala",
-          "odds": null
-        },
-        "blue": {
-          "name": "Mouhamed Tafsir Ba",
-          "profileUrl": "https://pflmma.com/africa-fighter/mouhamed-tafsir-ba",
-          "odds": null
-        },
-        "details": "170lbs/77kg Welterweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1567",
-        "order": 6,
-        "red": {
-          "name": "Alain Majorique",
-          "profileUrl": "https://pflmma.com/africa-fighter/alain-majorique",
-          "countryCode": "CM",
-          "birthDate": "1989-11-05",
-          "record": "6-2-0",
-          "style": null,
-          "odds": "-125"
-        },
-        "blue": {
-          "name": "Raphael Uchegbu",
-          "profileUrl": "https://pflmma.com/africa-fighter/raphael-uchegbu",
-          "countryCode": "GB",
-          "birthDate": null,
-          "record": "7-1-0",
-          "style": null,
-          "odds": "+106"
-        },
-        "details": "135lbs/61kg Bantamweight",
-        "oddsHistory": [
-          {
-            "checkedAt": "2026-10-09T13:22:33.422Z",
-            "eventName": "PFL Africa Morocco",
-            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
-            "promotion": "pfl",
-            "eventId": "pfl-morocco",
-            "odds": {
-              "alain majorique": "-125",
-              "raphael uchegbu": "+106"
-            },
-            "names": {
-              "alain majorique": "Alain Majorique",
-              "raphael uchegbu": "Raphael Uchegbu"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1566",
-        "order": 5,
-        "red": {
-          "name": "Rivaldo Pereira",
-          "profileUrl": "https://pflmma.com/africa-fighter/rivaldo-pereira",
-          "countryCode": "LU",
-          "birthDate": "1997-05-20",
-          "record": "3-2-0",
-          "style": null,
-          "odds": "+390"
-        },
-        "blue": {
-          "name": "David Samuel",
-          "profileUrl": "https://pflmma.com/africa-fighter/david-samuel",
-          "countryCode": "RU",
-          "birthDate": null,
-          "record": "6-0-0",
-          "style": null,
-          "odds": "-450"
-        },
-        "details": "170lbs/77kg Welterweight · Semifinal",
-        "oddsHistory": [
-          {
-            "checkedAt": "2026-10-09T13:22:33.422Z",
-            "eventName": "PFL Africa Morocco",
-            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
-            "promotion": "pfl",
-            "eventId": "pfl-morocco",
-            "odds": {
-              "rivaldo pereira": "+390",
-              "david samuel": "-450"
-            },
-            "names": {
-              "rivaldo pereira": "Rivaldo Pereira",
-              "david samuel": "David Samuel"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1565",
-        "order": 4,
-        "red": {
-          "name": "Patrick Ocheme",
-          "profileUrl": "https://pflmma.com/africa-fighter/patrick-ocheme",
-          "countryCode": "NG",
-          "birthDate": "1994-11-27",
-          "record": "9-1-0",
-          "style": null,
-          "odds": "-225"
-        },
-        "blue": {
-          "name": "Cornel Thompson",
-          "profileUrl": "https://pflmma.com/africa-fighter/cornel-thompson",
-          "countryCode": null,
-          "birthDate": "1995-03-01",
-          "record": "11-3-0",
-          "style": null,
-          "odds": "+190"
-        },
-        "details": "155lbs/70kg Lightweight · Semifinal",
-        "oddsHistory": [
-          {
-            "checkedAt": "2026-10-09T13:22:33.422Z",
-            "eventName": "PFL Africa Morocco",
-            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
-            "promotion": "pfl",
-            "eventId": "pfl-morocco",
-            "odds": {
-              "patrick ocheme": "-225",
-              "cornel thompson": "+190"
-            },
-            "names": {
-              "patrick ocheme": "Patrick Ocheme",
-              "cornel thompson": "Cornel Thompson"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1564",
-        "order": 3,
-        "red": {
-          "name": "Shido Boris Esperança",
-          "profileUrl": "https://pflmma.com/africa-fighter/shido-boris-esperana",
-          "odds": null
-        },
-        "blue": {
-          "name": "Peace Nguphane",
-          "profileUrl": "https://pflmma.com/africa-fighter/peace-nguphane",
-          "countryCode": "ZA",
-          "birthDate": null,
-          "record": "10-3-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "170lbs/77kg Welterweight · Semifinal",
-        "oddsHistory": []
       },
       {
         "id": "1563",
-        "order": 2,
+        "order": 10,
         "red": {
           "name": "Taha Bendaoud",
           "profileUrl": "https://pflmma.com/africa-fighter/taha-bendaoud",
@@ -5699,27 +5423,47 @@
         ]
       },
       {
-        "id": "1562",
-        "order": 1,
+        "id": "1564",
+        "order": 9,
         "red": {
-          "name": "Abdoulaye Kane",
-          "profileUrl": "https://pflmma.com/africa-fighter/abdoulaye-kane",
-          "countryCode": "SN",
-          "birthDate": "1998-08-14",
-          "record": "5-2-0",
-          "style": null,
-          "odds": "-400"
+          "name": "Shido Boris Esperança",
+          "profileUrl": "https://pflmma.com/africa-fighter/shido-boris-esperana",
+          "odds": null
         },
         "blue": {
-          "name": "Badr Medkouri",
-          "profileUrl": "https://pflmma.com/africa-fighter/badr-medkouri",
-          "countryCode": "FR",
-          "birthDate": "1993-12-04",
-          "record": "7-2-0",
+          "name": "Peace Nguphane",
+          "profileUrl": "https://pflmma.com/africa-fighter/peace-nguphane",
+          "countryCode": "ZA",
+          "birthDate": null,
+          "record": "10-3-0",
           "style": null,
-          "odds": "+320"
+          "odds": null
         },
-        "details": "265lbs/120kg Heavyweight",
+        "details": "170lbs/77kg Welterweight · Semifinal",
+        "oddsHistory": []
+      },
+      {
+        "id": "1565",
+        "order": 8,
+        "red": {
+          "name": "Patrick Ocheme",
+          "profileUrl": "https://pflmma.com/africa-fighter/patrick-ocheme",
+          "countryCode": "NG",
+          "birthDate": "1994-11-27",
+          "record": "9-1-0",
+          "style": null,
+          "odds": "-225"
+        },
+        "blue": {
+          "name": "Cornel Thompson",
+          "profileUrl": "https://pflmma.com/africa-fighter/cornel-thompson",
+          "countryCode": null,
+          "birthDate": "1995-03-01",
+          "record": "11-3-0",
+          "style": null,
+          "odds": "+190"
+        },
+        "details": "155lbs/70kg Lightweight · Semifinal",
         "oddsHistory": [
           {
             "checkedAt": "2026-10-09T13:22:33.422Z",
@@ -5728,15 +5472,231 @@
             "promotion": "pfl",
             "eventId": "pfl-morocco",
             "odds": {
-              "abdoulaye kane": "-400",
-              "badr medkouri": "+320"
+              "patrick ocheme": "-225",
+              "cornel thompson": "+190"
             },
             "names": {
-              "abdoulaye kane": "Abdoulaye Kane",
-              "badr medkouri": "Badr Medkouri"
+              "patrick ocheme": "Patrick Ocheme",
+              "cornel thompson": "Cornel Thompson"
             }
           }
         ]
+      },
+      {
+        "id": "1566",
+        "order": 7,
+        "red": {
+          "name": "Rivaldo Pereira",
+          "profileUrl": "https://pflmma.com/africa-fighter/rivaldo-pereira",
+          "countryCode": "LU",
+          "birthDate": "1997-05-20",
+          "record": "3-2-0",
+          "style": null,
+          "odds": "+390"
+        },
+        "blue": {
+          "name": "David Samuel",
+          "profileUrl": "https://pflmma.com/africa-fighter/david-samuel",
+          "countryCode": "RU",
+          "birthDate": null,
+          "record": "6-0-0",
+          "style": null,
+          "odds": "-450"
+        },
+        "details": "170lbs/77kg Welterweight · Semifinal",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "PFL Africa Morocco",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
+            "promotion": "pfl",
+            "eventId": "pfl-morocco",
+            "odds": {
+              "rivaldo pereira": "+390",
+              "david samuel": "-450"
+            },
+            "names": {
+              "rivaldo pereira": "Rivaldo Pereira",
+              "david samuel": "David Samuel"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1568",
+        "order": 6,
+        "red": {
+          "name": "Yabna N’tchala",
+          "profileUrl": "https://pflmma.com/africa-fighter/yabna-ntchala",
+          "odds": null
+        },
+        "blue": {
+          "name": "Mouhamed Tafsir Ba",
+          "profileUrl": "https://pflmma.com/africa-fighter/mouhamed-tafsir-ba",
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1610",
+        "order": 5,
+        "red": {
+          "name": "Reda Abdellaoui",
+          "profileUrl": "https://pflmma.com/africa-fighter/reda-abdellaoui",
+          "countryCode": "MA",
+          "birthDate": null,
+          "record": "3-0-0",
+          "style": null,
+          "odds": "-1000"
+        },
+        "blue": {
+          "name": "Salim Mhamdi",
+          "profileUrl": "https://pflmma.com/africa-fighter/salim-mhamdi",
+          "countryCode": null,
+          "birthDate": "2005-02-15",
+          "record": "2-0-0",
+          "style": null,
+          "odds": "+820"
+        },
+        "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "PFL Africa Morocco",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
+            "promotion": "pfl",
+            "eventId": "pfl-morocco",
+            "odds": {
+              "reda abdellaoui": "-1000",
+              "salim mhamdi": "+820"
+            },
+            "names": {
+              "reda abdellaoui": "Reda Abdellaoui",
+              "salim mhamdi": "Salim Mhamdi"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1611",
+        "order": 4,
+        "red": {
+          "name": "Dwight Joseph",
+          "profileUrl": "https://pflmma.com/africa-fighter/dwight-joseph",
+          "countryCode": "LR",
+          "birthDate": "1989-08-15",
+          "record": "16-3-1",
+          "style": null,
+          "odds": "-128"
+        },
+        "blue": {
+          "name": "Boule Godogo",
+          "profileUrl": "https://pflmma.com/africa-fighter/boule-godogo",
+          "countryCode": "AO",
+          "birthDate": null,
+          "record": "5-1-0",
+          "style": null,
+          "odds": "+118"
+        },
+        "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "PFL Africa Morocco",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
+            "promotion": "pfl",
+            "eventId": "pfl-morocco",
+            "odds": {
+              "dwight joseph": "-128",
+              "boule godogo": "+118"
+            },
+            "names": {
+              "dwight joseph": "Dwight Joseph",
+              "boule godogo": "Boule Godogo"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1612",
+        "order": 3,
+        "red": {
+          "name": "Demba Seck",
+          "profileUrl": "https://pflmma.com/africa-fighter/demba-seck",
+          "countryCode": null,
+          "birthDate": "1994-07-19",
+          "record": "11-3-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Hussain Al Kurdi",
+          "profileUrl": "https://pflmma.com/africa-fighter/hussain-al-kurdi",
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1613",
+        "order": 2,
+        "red": {
+          "name": "Jane Osigwe",
+          "profileUrl": "https://pflmma.com/africa-fighter/jane-osigwe",
+          "countryCode": null,
+          "birthDate": "2005-06-13",
+          "record": "5-4-0",
+          "style": null,
+          "odds": "-130"
+        },
+        "blue": {
+          "name": "Sanaa Mandar",
+          "profileUrl": "https://pflmma.com/africa-fighter/sanaa-mandar",
+          "countryCode": null,
+          "birthDate": "1990-10-01",
+          "record": null,
+          "style": null,
+          "odds": "+112"
+        },
+        "details": "Catchweight",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "PFL Africa Morocco",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
+            "promotion": "pfl",
+            "eventId": "pfl-morocco",
+            "odds": {
+              "jane osigwe": "-130",
+              "sanaa mandar": "+112"
+            },
+            "names": {
+              "jane osigwe": "Jane Osigwe",
+              "sanaa mandar": "Sanaa Mandar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1614",
+        "order": 1,
+        "red": {
+          "name": "Abderrahman Errachidy",
+          "profileUrl": "https://pflmma.com/africa-fighter/abderrahman-errachidy",
+          "countryCode": "MA",
+          "birthDate": "2001-02-03",
+          "record": "5-2-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Oussama El Idrissi",
+          "profileUrl": "https://pflmma.com/africa-fighter/oussama-el-idrissi",
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": [
@@ -5864,6 +5824,47 @@
         "details": "170lbs/77kg Welterweight · Semifinal",
         "oddsHistory": [],
         "note": "Removed from the official PFL card"
+      },
+      {
+        "id": "1567",
+        "order": 6,
+        "red": {
+          "name": "Alain Majorique",
+          "profileUrl": "https://pflmma.com/africa-fighter/alain-majorique",
+          "countryCode": "CM",
+          "birthDate": "1989-11-05",
+          "record": "6-2-0",
+          "style": null,
+          "odds": "-125"
+        },
+        "blue": {
+          "name": "Raphael Uchegbu",
+          "profileUrl": "https://pflmma.com/africa-fighter/raphael-uchegbu",
+          "countryCode": "GB",
+          "birthDate": null,
+          "record": "7-1-0",
+          "style": null,
+          "odds": "+106"
+        },
+        "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-09T13:22:33.422Z",
+            "eventName": "PFL Africa Morocco",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4401",
+            "promotion": "pfl",
+            "eventId": "pfl-morocco",
+            "odds": {
+              "alain majorique": "-125",
+              "raphael uchegbu": "+106"
+            },
+            "names": {
+              "alain majorique": "Alain Majorique",
+              "raphael uchegbu": "Raphael Uchegbu"
+            }
+          }
+        ],
+        "note": "Removed from the official PFL card"
       }
     ]
   },
@@ -5878,292 +5879,32 @@
     "status": "CONFIRMED",
     "bouts": [
       {
-        "id": "1603",
+        "id": "1569",
         "order": 14,
         "red": {
-          "name": "Benita Van Rooji",
-          "profileUrl": "https://pflmma.com/wt-fighter/benita-vanrooji",
-          "countryCode": "NL",
-          "birthDate": "1999-06-02",
-          "record": "7-2-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Giulliany Perêa",
-          "profileUrl": "https://pflmma.com/wt-fighter/giulliany-pera",
-          "odds": null
-        },
-        "details": "Women's Strawweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1602",
-        "order": 13,
-        "red": {
-          "name": "Noah Hermosillo",
-          "profileUrl": "https://pflmma.com/wt-fighter/noah-hermosillo",
+          "name": "Liz Carmouche",
+          "profileUrl": "https://pflmma.com/wt-fighter/liz-carmouche",
           "countryCode": "US",
-          "birthDate": "1999-03-25",
-          "record": null,
+          "birthDate": "1984-02-17",
+          "record": "26-8-0",
           "style": null,
           "odds": null
         },
         "blue": {
-          "name": "Caden Cox",
-          "profileUrl": "https://pflmma.com/wt-fighter/caden-cox",
-          "countryCode": "US",
-          "birthDate": "1999-04-12",
-          "record": "2-0-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "145lbs/66kg Featherweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1588",
-        "order": 12,
-        "red": {
-          "name": "Paulina Wisniewska",
-          "profileUrl": "https://pflmma.com/wt-fighter/paulina-wisniewska",
-          "countryCode": "PL",
-          "birthDate": "1998-11-26",
-          "record": "7-1-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Chelsea Hackett",
-          "profileUrl": "https://pflmma.com/wt-fighter/chelsea-hackett",
-          "countryCode": "AU",
-          "birthDate": "1999-10-28",
-          "record": "5-3-1",
-          "style": "Striker",
-          "odds": null
-        },
-        "details": "125lbs/57kg Women's Flyweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1604",
-        "order": 11,
-        "red": {
-          "name": "Levan Khabalaev",
-          "profileUrl": "https://pflmma.com/wt-fighter/levan-khabalaev",
-          "countryCode": "GE",
-          "birthDate": "1999-03-09",
-          "record": "5-0-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Morquez Forest",
-          "profileUrl": "https://pflmma.com/wt-fighter/morquez-forest",
-          "countryCode": "US",
-          "birthDate": "1993-07-07",
-          "record": "8-2-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "155lbs/70kg Lightweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1599",
-        "order": 10,
-        "red": {
-          "name": "Cobey Fehr",
-          "profileUrl": "https://pflmma.com/wt-fighter/cobey-fehr",
+          "name": "Jena Bishop",
+          "profileUrl": "https://pflmma.com/wt-fighter/jena-bishop",
           "countryCode": null,
-          "birthDate": "1994-08-24",
-          "record": "4-0-0",
-          "style": null,
+          "birthDate": "1986-02-19",
+          "record": "11-3-0",
+          "style": "Grappler",
           "odds": null
         },
-        "blue": {
-          "name": "Rosario Romero",
-          "profileUrl": "https://pflmma.com/wt-fighter/rosario-romero",
-          "countryCode": "US",
-          "birthDate": "1997-02-04",
-          "record": "4-0-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "135lbs/61kg Bantamweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1592",
-        "order": 9,
-        "red": {
-          "name": "Gamid Khizriev",
-          "profileUrl": "https://pflmma.com/wt-fighter/gamid-khizriev",
-          "countryCode": "RU",
-          "birthDate": "2000-07-26",
-          "record": "5-0-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Michael Boylan",
-          "profileUrl": "https://pflmma.com/wt-fighter/michael-boylan",
-          "countryCode": "US",
-          "birthDate": "2001-03-20",
-          "record": "6-1-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "155lbs/70kg Lightweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1581",
-        "order": 8,
-        "red": {
-          "name": "Shannon Clark",
-          "profileUrl": "https://pflmma.com/wt-fighter/shannon-clark",
-          "countryCode": "CA",
-          "birthDate": "1992-07-06",
-          "record": "8-1-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Lucero Acosta",
-          "profileUrl": "https://pflmma.com/wt-fighter/lucero-acosta",
-          "countryCode": null,
-          "birthDate": "1994-08-22",
-          "record": "6-2-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "125lbs/57kg Women's Flyweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1584",
-        "order": 7,
-        "red": {
-          "name": "Cássio Barão",
-          "profileUrl": "https://pflmma.com/wt-fighter/cassio-barao",
-          "countryCode": "BR",
-          "birthDate": "1995-09-02",
-          "record": "10-1-1",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Kevin Pease",
-          "profileUrl": "https://pflmma.com/wt-fighter/kevin-pease",
-          "countryCode": "US",
-          "birthDate": "1997-10-02",
-          "record": "6-0-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "155lbs/70kg Lightweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1580",
-        "order": 6,
-        "red": {
-          "name": "Emiliano Sordi",
-          "profileUrl": "https://pflmma.com/wt-fighter/emiliano-sordi",
-          "countryCode": null,
-          "birthDate": "1991-02-14",
-          "record": "23-12-1",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Abraham Bably",
-          "profileUrl": "https://pflmma.com/wt-fighter/abraham-bably",
-          "countryCode": "CI",
-          "birthDate": "1995-12-29",
-          "record": "8-3-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "205lbs/93kg Light Heavyweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1590",
-        "order": 5,
-        "red": {
-          "name": "Eliezer Kubanza",
-          "profileUrl": "https://pflmma.com/wt-fighter/eliezer-kubanza",
-          "countryCode": null,
-          "birthDate": "1997-12-22",
-          "record": "9-1-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Trey Waters",
-          "profileUrl": "https://pflmma.com/wt-fighter/trey-waters",
-          "countryCode": null,
-          "birthDate": "1995-02-20",
-          "record": "10-2-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "170lbs/77kg Welterweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1593",
-        "order": 4,
-        "red": {
-          "name": "Oualy Tandia",
-          "profileUrl": "https://pflmma.com/wt-fighter/oualy-tandia",
-          "countryCode": null,
-          "birthDate": "2002-05-12",
-          "record": "5-0-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "JP Saint Louis",
-          "profileUrl": "https://pflmma.com/wt-fighter/jp-saintlouis",
-          "countryCode": null,
-          "birthDate": "1992-09-17",
-          "record": "12-5-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "170lbs/77kg Welterweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1571",
-        "order": 3,
-        "red": {
-          "name": "Sarvarjon Khamidov",
-          "profileUrl": "https://pflmma.com/wt-fighter/sarvarjon-khamidov",
-          "countryCode": "TJ",
-          "birthDate": "1997-04-12",
-          "record": "17-1-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Rafael do Nascimento",
-          "profileUrl": "https://pflmma.com/wt-fighter/rafael-donascimento",
-          "countryCode": "BR",
-          "birthDate": "1991-11-14",
-          "record": "13-3-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "135lbs/61kg Bantamweight",
+        "details": "125lbs/57kg Women's Flyweight · Championship",
         "oddsHistory": []
       },
       {
         "id": "1573",
-        "order": 2,
+        "order": 13,
         "red": {
           "name": "Timur Khizriev",
           "profileUrl": "https://pflmma.com/wt-fighter/timur-khizriev",
@@ -6186,27 +5927,291 @@
         "oddsHistory": []
       },
       {
-        "id": "1569",
-        "order": 1,
+        "id": "1571",
+        "order": 12,
         "red": {
-          "name": "Liz Carmouche",
-          "profileUrl": "https://pflmma.com/wt-fighter/liz-carmouche",
-          "countryCode": "US",
-          "birthDate": "1984-02-17",
-          "record": "26-8-0",
+          "name": "Sarvarjon Khamidov",
+          "profileUrl": "https://pflmma.com/wt-fighter/sarvarjon-khamidov",
+          "countryCode": "TJ",
+          "birthDate": "1997-04-12",
+          "record": "17-1-0",
           "style": null,
           "odds": null
         },
         "blue": {
-          "name": "Jena Bishop",
-          "profileUrl": "https://pflmma.com/wt-fighter/jena-bishop",
-          "countryCode": null,
-          "birthDate": "1986-02-19",
-          "record": "11-3-0",
-          "style": "Grappler",
+          "name": "Rafael do Nascimento",
+          "profileUrl": "https://pflmma.com/wt-fighter/rafael-donascimento",
+          "countryCode": "BR",
+          "birthDate": "1991-11-14",
+          "record": "13-3-0",
+          "style": null,
           "odds": null
         },
-        "details": "125lbs/57kg Women's Flyweight · Championship",
+        "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1593",
+        "order": 11,
+        "red": {
+          "name": "Oualy Tandia",
+          "profileUrl": "https://pflmma.com/wt-fighter/oualy-tandia",
+          "countryCode": null,
+          "birthDate": "2002-05-12",
+          "record": "5-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "JP Saint Louis",
+          "profileUrl": "https://pflmma.com/wt-fighter/jp-saintlouis",
+          "countryCode": null,
+          "birthDate": "1992-09-17",
+          "record": "12-5-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1590",
+        "order": 10,
+        "red": {
+          "name": "Eliezer Kubanza",
+          "profileUrl": "https://pflmma.com/wt-fighter/eliezer-kubanza",
+          "countryCode": null,
+          "birthDate": "1997-12-22",
+          "record": "9-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Trey Waters",
+          "profileUrl": "https://pflmma.com/wt-fighter/trey-waters",
+          "countryCode": null,
+          "birthDate": "1995-02-20",
+          "record": "10-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1580",
+        "order": 9,
+        "red": {
+          "name": "Emiliano Sordi",
+          "profileUrl": "https://pflmma.com/wt-fighter/emiliano-sordi",
+          "countryCode": null,
+          "birthDate": "1991-02-14",
+          "record": "23-12-1",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Abraham Bably",
+          "profileUrl": "https://pflmma.com/wt-fighter/abraham-bably",
+          "countryCode": "CI",
+          "birthDate": "1995-12-29",
+          "record": "8-3-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "205lbs/93kg Light Heavyweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1584",
+        "order": 8,
+        "red": {
+          "name": "Cássio Barão",
+          "profileUrl": "https://pflmma.com/wt-fighter/cassio-barao",
+          "countryCode": "BR",
+          "birthDate": "1995-09-02",
+          "record": "10-1-1",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Kevin Pease",
+          "profileUrl": "https://pflmma.com/wt-fighter/kevin-pease",
+          "countryCode": "US",
+          "birthDate": "1997-10-02",
+          "record": "6-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1581",
+        "order": 7,
+        "red": {
+          "name": "Shannon Clark",
+          "profileUrl": "https://pflmma.com/wt-fighter/shannon-clark",
+          "countryCode": "CA",
+          "birthDate": "1992-07-06",
+          "record": "8-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Lucero Acosta",
+          "profileUrl": "https://pflmma.com/wt-fighter/lucero-acosta",
+          "countryCode": null,
+          "birthDate": "1994-08-22",
+          "record": "6-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "125lbs/57kg Women's Flyweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1592",
+        "order": 6,
+        "red": {
+          "name": "Gamid Khizriev",
+          "profileUrl": "https://pflmma.com/wt-fighter/gamid-khizriev",
+          "countryCode": "RU",
+          "birthDate": "2000-07-26",
+          "record": "5-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Michael Boylan",
+          "profileUrl": "https://pflmma.com/wt-fighter/michael-boylan",
+          "countryCode": "US",
+          "birthDate": "2001-03-20",
+          "record": "6-1-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1599",
+        "order": 5,
+        "red": {
+          "name": "Cobey Fehr",
+          "profileUrl": "https://pflmma.com/wt-fighter/cobey-fehr",
+          "countryCode": null,
+          "birthDate": "1994-08-24",
+          "record": "4-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Rosario Romero",
+          "profileUrl": "https://pflmma.com/wt-fighter/rosario-romero",
+          "countryCode": "US",
+          "birthDate": "1997-02-04",
+          "record": "4-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1604",
+        "order": 4,
+        "red": {
+          "name": "Levan Khabalaev",
+          "profileUrl": "https://pflmma.com/wt-fighter/levan-khabalaev",
+          "countryCode": "GE",
+          "birthDate": "1999-03-09",
+          "record": "5-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Morquez Forest",
+          "profileUrl": "https://pflmma.com/wt-fighter/morquez-forest",
+          "countryCode": "US",
+          "birthDate": "1993-07-07",
+          "record": "8-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1588",
+        "order": 3,
+        "red": {
+          "name": "Paulina Wisniewska",
+          "profileUrl": "https://pflmma.com/wt-fighter/paulina-wisniewska",
+          "countryCode": "PL",
+          "birthDate": "1998-11-26",
+          "record": "7-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Chelsea Hackett",
+          "profileUrl": "https://pflmma.com/wt-fighter/chelsea-hackett",
+          "countryCode": "AU",
+          "birthDate": "1999-10-28",
+          "record": "5-3-1",
+          "style": "Striker",
+          "odds": null
+        },
+        "details": "125lbs/57kg Women's Flyweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1602",
+        "order": 2,
+        "red": {
+          "name": "Noah Hermosillo",
+          "profileUrl": "https://pflmma.com/wt-fighter/noah-hermosillo",
+          "countryCode": "US",
+          "birthDate": "1999-03-25",
+          "record": null,
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Caden Cox",
+          "profileUrl": "https://pflmma.com/wt-fighter/caden-cox",
+          "countryCode": "US",
+          "birthDate": "1999-04-12",
+          "record": "2-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "145lbs/66kg Featherweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1603",
+        "order": 1,
+        "red": {
+          "name": "Benita Van Rooji",
+          "profileUrl": "https://pflmma.com/wt-fighter/benita-vanrooji",
+          "countryCode": "NL",
+          "birthDate": "1999-06-02",
+          "record": "7-2-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Giulliany Perêa",
+          "profileUrl": "https://pflmma.com/wt-fighter/giulliany-perea",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "5-1-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "Women's Strawweight",
         "oddsHistory": []
       }
     ],
@@ -6260,6 +6265,27 @@
         "details": "135lbs/61kg Bantamweight",
         "oddsHistory": [],
         "note": "Removed from the official PFL card"
+      },
+      {
+        "id": "1603",
+        "order": 14,
+        "red": {
+          "name": "Benita Van Rooji",
+          "profileUrl": "https://pflmma.com/wt-fighter/benita-vanrooji",
+          "countryCode": "NL",
+          "birthDate": "1999-06-02",
+          "record": "7-2-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Giulliany Perêa",
+          "profileUrl": "https://pflmma.com/wt-fighter/giulliany-pera",
+          "odds": null
+        },
+        "details": "Women's Strawweight",
+        "oddsHistory": [],
+        "note": "Removed from the official PFL card"
       }
     ]
   },
@@ -6274,47 +6300,47 @@
     "status": "CONFIRMED",
     "bouts": [
       {
-        "id": "1621",
+        "id": "1582",
         "order": 13,
         "red": {
-          "name": "Khamzat Abaev",
-          "profileUrl": "https://pflmma.com/wt-fighter/khamzat-abaev",
-          "countryCode": null,
-          "birthDate": "1996-09-23",
-          "record": "6-1-0",
+          "name": "Vadim Nemkov",
+          "profileUrl": "https://pflmma.com/wt-fighter/vadim-nemkov",
+          "countryCode": "RU",
+          "birthDate": "1992-06-19",
+          "record": "20-2-0",
           "style": null,
           "odds": null
         },
         "blue": {
-          "name": "Leon Hill",
-          "profileUrl": "https://pflmma.com/wt-fighter/leon-hill",
-          "countryCode": null,
-          "birthDate": "1996-04-22",
-          "record": "10-2-0",
+          "name": "Sergey Bilostenniy",
+          "profileUrl": "https://pflmma.com/wt-fighter/sergey-bilostenniy",
+          "countryCode": "RU",
+          "birthDate": "1995-10-22",
+          "record": "15-4-0",
           "style": null,
           "odds": null
         },
-        "details": "170lbs/77kg Welterweight",
+        "details": "265lbs/120kg Heavyweight · PFL World Title",
         "oddsHistory": []
       },
       {
-        "id": "1609",
+        "id": "1598",
         "order": 12,
         "red": {
-          "name": "Ernesto Rodriguez",
-          "profileUrl": "https://pflmma.com/wt-fighter/ernesto-rodriguez",
-          "countryCode": "CU",
-          "birthDate": "1997-08-08",
-          "record": "11-2-0",
-          "style": null,
+          "name": "Patrick Habirora",
+          "profileUrl": "https://pflmma.com/wt-fighter/patrick-habirora",
+          "countryCode": "BE",
+          "birthDate": "2001-03-25",
+          "record": "9-0-0",
+          "style": "Striker",
           "odds": null
         },
         "blue": {
-          "name": "Rhys McKee",
-          "profileUrl": "https://pflmma.com/wt-fighter/rhys-mckee",
+          "name": "Omar El Dafrawy",
+          "profileUrl": "https://pflmma.com/wt-fighter/omar-eldafrawy",
           "countryCode": null,
-          "birthDate": "1995-09-09",
-          "record": "15-7-1",
+          "birthDate": "1995-04-04",
+          "record": "16-6-0",
           "style": null,
           "odds": null
         },
@@ -6322,23 +6348,23 @@
         "oddsHistory": []
       },
       {
-        "id": "1620",
+        "id": "1583",
         "order": 11,
         "red": {
-          "name": "Denis Goltsov",
-          "profileUrl": "https://pflmma.com/wt-fighter/denis-goltsov",
-          "countryCode": "RU",
-          "birthDate": "1990-06-09",
-          "record": "37-9-0",
+          "name": "Pouya Rahmani",
+          "profileUrl": "https://pflmma.com/wt-fighter/pouya-rahmani",
+          "countryCode": null,
+          "birthDate": "1992-07-26",
+          "record": "6-0-0",
           "style": null,
           "odds": null
         },
         "blue": {
-          "name": "Maxwell Djantou Nana",
-          "profileUrl": "https://pflmma.com/wt-fighter/maxwell-djantounana",
-          "countryCode": "CM",
-          "birthDate": "1991-01-18",
-          "record": "9-2-0",
+          "name": "Oleg Popov",
+          "profileUrl": "https://pflmma.com/wt-fighter/oleg-popov",
+          "countryCode": "RU",
+          "birthDate": "1992-01-01",
+          "record": "22-2-0",
           "style": null,
           "odds": null
         },
@@ -6346,75 +6372,75 @@
         "oddsHistory": []
       },
       {
-        "id": "1615",
+        "id": "1591",
         "order": 10,
         "red": {
-          "name": "Alexei Pergande",
-          "profileUrl": "https://pflmma.com/wt-fighter/alexei-pergande",
-          "countryCode": "US",
-          "birthDate": "2001-05-10",
-          "record": "8-0-0",
+          "name": "Abubakar Nurmagomedov",
+          "profileUrl": "https://pflmma.com/wt-fighter/abubakar-nurmagomedov",
+          "countryCode": null,
+          "birthDate": "1989-11-12",
+          "record": "16-2-0",
           "style": null,
           "odds": null
         },
         "blue": {
-          "name": "Akhmed Magomedov",
-          "profileUrl": "https://pflmma.com/wt-fighter/akhmed-magomedov",
-          "countryCode": "RU",
-          "birthDate": "1996-04-26",
-          "record": "11-2-0",
+          "name": "David Martinez",
+          "profileUrl": "https://pflmma.com/wt-fighter/david-martinez",
+          "countryCode": null,
+          "birthDate": "1993-08-20",
+          "record": "17-6-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1586",
+        "order": 9,
+        "red": {
+          "name": "Sergio Pettis",
+          "profileUrl": "https://pflmma.com/wt-fighter/sergio-pettis",
+          "countryCode": "US",
+          "birthDate": "1993-08-17",
+          "record": "25-8-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Joji Goto",
+          "profileUrl": "https://pflmma.com/wt-fighter/joji-goto",
+          "countryCode": null,
+          "birthDate": "1996-03-08",
+          "record": "21-9-1",
+          "style": null,
+          "odds": null
+        },
+        "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1608",
+        "order": 8,
+        "red": {
+          "name": "Shem Rock",
+          "profileUrl": "https://pflmma.com/wt-fighter/shem-rock",
+          "countryCode": null,
+          "birthDate": "1993-11-04",
+          "record": "12-3-1",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Connor Hughes",
+          "profileUrl": "https://pflmma.com/wt-fighter/connor-hughes",
+          "countryCode": "GB",
+          "birthDate": "1997-06-04",
+          "record": "12-3-0",
           "style": null,
           "odds": null
         },
         "details": "155lbs/70kg Lightweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1587",
-        "order": 9,
-        "red": {
-          "name": "Khasan Magomedsharipov",
-          "profileUrl": "https://pflmma.com/wt-fighter/khasan-magomedsharipov",
-          "countryCode": null,
-          "birthDate": "2000-06-09",
-          "record": "11-0-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Adam Borics",
-          "profileUrl": "https://pflmma.com/wt-fighter/adam-borics",
-          "countryCode": "HU",
-          "birthDate": "1993-07-06",
-          "record": "20-4-0",
-          "style": "Striker",
-          "odds": null
-        },
-        "details": "145lbs/66kg Featherweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1605",
-        "order": 8,
-        "red": {
-          "name": "Asaël Adjoudj",
-          "profileUrl": "https://pflmma.com/wt-fighter/asael-adjoudj",
-          "countryCode": "DZ",
-          "birthDate": "1999-01-15",
-          "record": "11-1-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Movlid Khaybulaev",
-          "profileUrl": "https://pflmma.com/wt-fighter/movlid-khaybulaev",
-          "countryCode": null,
-          "birthDate": "1990-10-15",
-          "record": "23-0-1",
-          "style": null,
-          "odds": null
-        },
-        "details": "145lbs/66kg Featherweight",
         "oddsHistory": []
       },
       {
@@ -6442,23 +6468,71 @@
         "oddsHistory": []
       },
       {
-        "id": "1608",
+        "id": "1605",
         "order": 6,
         "red": {
-          "name": "Shem Rock",
-          "profileUrl": "https://pflmma.com/wt-fighter/shem-rock",
-          "countryCode": null,
-          "birthDate": "1993-11-04",
-          "record": "12-3-1",
+          "name": "Asaël Adjoudj",
+          "profileUrl": "https://pflmma.com/wt-fighter/asael-adjoudj",
+          "countryCode": "DZ",
+          "birthDate": "1999-01-15",
+          "record": "11-1-0",
           "style": null,
           "odds": null
         },
         "blue": {
-          "name": "Connor Hughes",
-          "profileUrl": "https://pflmma.com/wt-fighter/connor-hughes",
-          "countryCode": "GB",
-          "birthDate": "1997-06-04",
-          "record": "12-3-0",
+          "name": "Movlid Khaybulaev",
+          "profileUrl": "https://pflmma.com/wt-fighter/movlid-khaybulaev",
+          "countryCode": null,
+          "birthDate": "1990-10-15",
+          "record": "23-0-1",
+          "style": null,
+          "odds": null
+        },
+        "details": "145lbs/66kg Featherweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1587",
+        "order": 5,
+        "red": {
+          "name": "Khasan Magomedsharipov",
+          "profileUrl": "https://pflmma.com/wt-fighter/khasan-magomedsharipov",
+          "countryCode": null,
+          "birthDate": "2000-06-09",
+          "record": "11-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Adam Borics",
+          "profileUrl": "https://pflmma.com/wt-fighter/adam-borics",
+          "countryCode": "HU",
+          "birthDate": "1993-07-06",
+          "record": "20-4-0",
+          "style": "Striker",
+          "odds": null
+        },
+        "details": "145lbs/66kg Featherweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1615",
+        "order": 4,
+        "red": {
+          "name": "Alexei Pergande",
+          "profileUrl": "https://pflmma.com/wt-fighter/alexei-pergande",
+          "countryCode": "US",
+          "birthDate": "2001-05-10",
+          "record": "8-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Akhmed Magomedov",
+          "profileUrl": "https://pflmma.com/wt-fighter/akhmed-magomedov",
+          "countryCode": "RU",
+          "birthDate": "1996-04-26",
+          "record": "11-2-0",
           "style": null,
           "odds": null
         },
@@ -6466,71 +6540,23 @@
         "oddsHistory": []
       },
       {
-        "id": "1586",
-        "order": 5,
-        "red": {
-          "name": "Sergio Pettis",
-          "profileUrl": "https://pflmma.com/wt-fighter/sergio-pettis",
-          "countryCode": "US",
-          "birthDate": "1993-08-17",
-          "record": "25-8-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Joji Goto",
-          "profileUrl": "https://pflmma.com/wt-fighter/joji-goto",
-          "countryCode": null,
-          "birthDate": "1996-03-08",
-          "record": "21-9-1",
-          "style": null,
-          "odds": null
-        },
-        "details": "135lbs/61kg Bantamweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1591",
-        "order": 4,
-        "red": {
-          "name": "Abubakar Nurmagomedov",
-          "profileUrl": "https://pflmma.com/wt-fighter/abubakar-nurmagomedov",
-          "countryCode": null,
-          "birthDate": "1989-11-12",
-          "record": "16-2-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "David Martinez",
-          "profileUrl": "https://pflmma.com/wt-fighter/david-martinez",
-          "countryCode": null,
-          "birthDate": "1993-08-20",
-          "record": "17-6-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "170lbs/77kg Welterweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1583",
+        "id": "1620",
         "order": 3,
         "red": {
-          "name": "Pouya Rahmani",
-          "profileUrl": "https://pflmma.com/wt-fighter/pouya-rahmani",
-          "countryCode": null,
-          "birthDate": "1992-07-26",
-          "record": "6-0-0",
+          "name": "Denis Goltsov",
+          "profileUrl": "https://pflmma.com/wt-fighter/denis-goltsov",
+          "countryCode": "RU",
+          "birthDate": "1990-06-09",
+          "record": "37-9-0",
           "style": null,
           "odds": null
         },
         "blue": {
-          "name": "Oleg Popov",
-          "profileUrl": "https://pflmma.com/wt-fighter/oleg-popov",
-          "countryCode": "RU",
-          "birthDate": "1992-01-01",
-          "record": "22-2-0",
+          "name": "Maxwell Djantou Nana",
+          "profileUrl": "https://pflmma.com/wt-fighter/maxwell-djantounana",
+          "countryCode": "CM",
+          "birthDate": "1991-01-18",
+          "record": "9-2-0",
           "style": null,
           "odds": null
         },
@@ -6538,23 +6564,23 @@
         "oddsHistory": []
       },
       {
-        "id": "1598",
+        "id": "1609",
         "order": 2,
         "red": {
-          "name": "Patrick Habirora",
-          "profileUrl": "https://pflmma.com/wt-fighter/patrick-habirora",
-          "countryCode": "BE",
-          "birthDate": "2001-03-25",
-          "record": "9-0-0",
-          "style": "Striker",
+          "name": "Ernesto Rodriguez",
+          "profileUrl": "https://pflmma.com/wt-fighter/ernesto-rodriguez",
+          "countryCode": "CU",
+          "birthDate": "1997-08-08",
+          "record": "11-2-0",
+          "style": null,
           "odds": null
         },
         "blue": {
-          "name": "Omar El Dafrawy",
-          "profileUrl": "https://pflmma.com/wt-fighter/omar-eldafrawy",
+          "name": "Rhys McKee",
+          "profileUrl": "https://pflmma.com/wt-fighter/rhys-mckee",
           "countryCode": null,
-          "birthDate": "1995-04-04",
-          "record": "16-6-0",
+          "birthDate": "1995-09-09",
+          "record": "15-7-1",
           "style": null,
           "odds": null
         },
@@ -6562,27 +6588,27 @@
         "oddsHistory": []
       },
       {
-        "id": "1582",
+        "id": "1621",
         "order": 1,
         "red": {
-          "name": "Vadim Nemkov",
-          "profileUrl": "https://pflmma.com/wt-fighter/vadim-nemkov",
-          "countryCode": "RU",
-          "birthDate": "1992-06-19",
-          "record": "20-2-0",
+          "name": "Khamzat Abaev",
+          "profileUrl": "https://pflmma.com/wt-fighter/khamzat-abaev",
+          "countryCode": null,
+          "birthDate": "1996-09-23",
+          "record": "6-1-0",
           "style": null,
           "odds": null
         },
         "blue": {
-          "name": "Sergey Bilostenniy",
-          "profileUrl": "https://pflmma.com/wt-fighter/sergey-bilostenniy",
-          "countryCode": "RU",
-          "birthDate": "1995-10-22",
-          "record": "15-4-0",
+          "name": "Leon Hill",
+          "profileUrl": "https://pflmma.com/wt-fighter/leon-hill",
+          "countryCode": null,
+          "birthDate": "1996-04-22",
+          "record": "10-2-0",
           "style": null,
           "odds": null
         },
-        "details": "265lbs/120kg Heavyweight · PFL World Title",
+        "details": "170lbs/77kg Welterweight",
         "oddsHistory": []
       }
     ],
@@ -6599,27 +6625,27 @@
     "status": "TENTATIVE",
     "bouts": [
       {
-        "id": "1616",
+        "id": "1618",
         "order": 3,
         "red": {
-          "name": "Elias Boudegzdame",
-          "profileUrl": "https://pflmma.com/mena-fighter/elias-boudegzdame",
+          "name": "Abdelkrim Zouad",
+          "profileUrl": "https://pflmma.com/mena-fighter/abdelkrim-zouad",
           "countryCode": "DZ",
-          "birthDate": "1993-10-16",
-          "record": "21-9-0",
+          "birthDate": null,
+          "record": "8-2-0",
           "style": null,
           "odds": null
         },
         "blue": {
-          "name": "Mehdi Saadi",
-          "profileUrl": "https://pflmma.com/mena-fighter/mehdi-saadi",
-          "countryCode": "FR",
-          "birthDate": "1993-03-05",
-          "record": "7-2-0",
+          "name": "Badreddine Diani",
+          "profileUrl": "https://pflmma.com/mena-fighter/badreddine-diani",
+          "countryCode": "MA",
+          "birthDate": "1996-10-29",
+          "record": "11-4-0",
           "style": null,
           "odds": null
         },
-        "details": "145lbs/66kg Featherweight · Finals",
+        "details": "170lbs/77kg Welterweight · Finals",
         "oddsHistory": []
       },
       {
@@ -6647,27 +6673,27 @@
         "oddsHistory": []
       },
       {
-        "id": "1618",
+        "id": "1616",
         "order": 1,
         "red": {
-          "name": "Abdelkrim Zouad",
-          "profileUrl": "https://pflmma.com/mena-fighter/abdelkrim-zouad",
+          "name": "Elias Boudegzdame",
+          "profileUrl": "https://pflmma.com/mena-fighter/elias-boudegzdame",
           "countryCode": "DZ",
-          "birthDate": null,
-          "record": "8-2-0",
+          "birthDate": "1993-10-16",
+          "record": "21-9-0",
           "style": null,
           "odds": null
         },
         "blue": {
-          "name": "Badreddine Diani",
-          "profileUrl": "https://pflmma.com/mena-fighter/badreddine-diani",
-          "countryCode": "MA",
-          "birthDate": "1996-10-29",
-          "record": "11-4-0",
+          "name": "Mehdi Saadi",
+          "profileUrl": "https://pflmma.com/mena-fighter/mehdi-saadi",
+          "countryCode": "FR",
+          "birthDate": "1993-03-05",
+          "record": "7-2-0",
           "style": null,
           "odds": null
         },
-        "details": "170lbs/77kg Welterweight · Finals",
+        "details": "145lbs/66kg Featherweight · Finals",
         "oddsHistory": []
       }
     ],
@@ -6696,104 +6722,32 @@
     "status": "CONFIRMED",
     "bouts": [
       {
-        "id": "1619",
+        "id": "1585",
         "order": 6,
         "red": {
-          "name": "Brandon Brachet",
-          "profileUrl": "https://pflmma.com/wt-fighter/brandon-brachet",
-          "countryCode": "FR",
-          "birthDate": "2004-11-27",
-          "record": "9-1-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Adam Meskini",
-          "profileUrl": "https://pflmma.com/wt-fighter/adam-meskini",
-          "countryCode": "MA",
-          "birthDate": "1996-07-28",
-          "record": "11-3-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "145lbs/66kg Featherweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1607",
-        "order": 5,
-        "red": {
-          "name": "Baris Adiguzel",
-          "profileUrl": "https://pflmma.com/wt-fighter/baris-adiguzel",
-          "countryCode": "FR",
-          "birthDate": "1999-04-30",
-          "record": "10-2-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Liam Gittins",
-          "profileUrl": "https://pflmma.com/wt-fighter/liam-gittins",
-          "countryCode": "GB",
-          "birthDate": "1999-05-31",
-          "record": "13-6-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "135lbs/61kg Bantamweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1601",
-        "order": 4,
-        "red": {
-          "name": "Fabian Edwards",
-          "profileUrl": "https://pflmma.com/wt-fighter/fabian-edwards",
+          "name": "Taylor Lapilus",
+          "profileUrl": "https://pflmma.com/wt-fighter/taylor-lapilus",
           "countryCode": null,
-          "birthDate": "1993-03-23",
-          "record": "16-5-0",
-          "style": "Striker",
+          "birthDate": "1992-04-07",
+          "record": "25-4-0",
+          "style": "All-rounder",
           "odds": null
         },
         "blue": {
-          "name": "Ilian Bouafia",
-          "profileUrl": "https://pflmma.com/wt-fighter/ilian-bouafia",
-          "countryCode": null,
-          "birthDate": "1996-11-12",
-          "record": "8-1-0",
-          "style": null,
+          "name": "Mitch McKee",
+          "profileUrl": "https://pflmma.com/wt-fighter/mitch-mckee",
+          "countryCode": "US",
+          "birthDate": "1997-12-23",
+          "record": "11-0-0",
+          "style": "Grappler",
           "odds": null
         },
-        "details": "185lbs/84kg Middleweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1600",
-        "order": 3,
-        "red": {
-          "name": "Abdoul Abdouraguimov",
-          "profileUrl": "https://pflmma.com/wt-fighter/abdoul-abdouraguimov",
-          "countryCode": "RU",
-          "birthDate": "1995-07-31",
-          "record": "20-1-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Andreeas Binder",
-          "profileUrl": "https://pflmma.com/wt-fighter/andreeas-binder",
-          "countryCode": "RO",
-          "birthDate": "1996-09-12",
-          "record": "8-2-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "170lbs/77kg Welterweight",
+        "details": "135lbs/61kg Bantamweight · World Title",
         "oddsHistory": []
       },
       {
         "id": "1589",
-        "order": 2,
+        "order": 5,
         "red": {
           "name": "Boris Atangana",
           "profileUrl": "https://pflmma.com/wt-fighter/boris-atangana",
@@ -6816,27 +6770,99 @@
         "oddsHistory": []
       },
       {
-        "id": "1585",
-        "order": 1,
+        "id": "1600",
+        "order": 4,
         "red": {
-          "name": "Taylor Lapilus",
-          "profileUrl": "https://pflmma.com/wt-fighter/taylor-lapilus",
-          "countryCode": null,
-          "birthDate": "1992-04-07",
-          "record": "25-4-0",
-          "style": "All-rounder",
+          "name": "Abdoul Abdouraguimov",
+          "profileUrl": "https://pflmma.com/wt-fighter/abdoul-abdouraguimov",
+          "countryCode": "RU",
+          "birthDate": "1995-07-31",
+          "record": "20-1-0",
+          "style": null,
           "odds": null
         },
         "blue": {
-          "name": "Mitch McKee",
-          "profileUrl": "https://pflmma.com/wt-fighter/mitch-mckee",
-          "countryCode": "US",
-          "birthDate": "1997-12-23",
-          "record": "11-0-0",
-          "style": "Grappler",
+          "name": "Andreeas Binder",
+          "profileUrl": "https://pflmma.com/wt-fighter/andreeas-binder",
+          "countryCode": "RO",
+          "birthDate": "1996-09-12",
+          "record": "8-2-0",
+          "style": null,
           "odds": null
         },
-        "details": "135lbs/61kg Bantamweight · World Title",
+        "details": "170lbs/77kg Welterweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1601",
+        "order": 3,
+        "red": {
+          "name": "Fabian Edwards",
+          "profileUrl": "https://pflmma.com/wt-fighter/fabian-edwards",
+          "countryCode": null,
+          "birthDate": "1993-03-23",
+          "record": "16-5-0",
+          "style": "Striker",
+          "odds": null
+        },
+        "blue": {
+          "name": "Ilian Bouafia",
+          "profileUrl": "https://pflmma.com/wt-fighter/ilian-bouafia",
+          "countryCode": null,
+          "birthDate": "1996-11-12",
+          "record": "8-1-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "185lbs/84kg Middleweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1607",
+        "order": 2,
+        "red": {
+          "name": "Baris Adiguzel",
+          "profileUrl": "https://pflmma.com/wt-fighter/baris-adiguzel",
+          "countryCode": "FR",
+          "birthDate": "1999-04-30",
+          "record": "10-2-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Liam Gittins",
+          "profileUrl": "https://pflmma.com/wt-fighter/liam-gittins",
+          "countryCode": "GB",
+          "birthDate": "1999-05-31",
+          "record": "13-6-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1619",
+        "order": 1,
+        "red": {
+          "name": "Brandon Brachet",
+          "profileUrl": "https://pflmma.com/wt-fighter/brandon-brachet",
+          "countryCode": "FR",
+          "birthDate": "2004-11-27",
+          "record": "9-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Adam Meskini",
+          "profileUrl": "https://pflmma.com/wt-fighter/adam-meskini",
+          "countryCode": "MA",
+          "birthDate": "1996-07-28",
+          "record": "11-3-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "145lbs/66kg Featherweight",
         "oddsHistory": []
       }
     ],

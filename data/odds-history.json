@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-09T13:22:33.422Z",
+  "lastCheckedAt": "2026-10-12T15:33:38.535Z",
   "fights": {
     "ufc-fight-night-september-12-2026::edgar chairez--tim elliott": [
       {
@@ -780,6 +780,19 @@
         "odds": {
           "petr yan": "-172",
           "merab dvalishvili": "+150"
+        },
+        "names": {
+          "petr yan": "Petr Yan",
+          "merab dvalishvili": "Merab Dvalishvili"
+        }
+      },
+      {
+        "checkedAt": "2026-10-12T15:33:38.535Z",
+        "eventName": "UFC 333: Volkanovski vs Evloev",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-333-4321",
+        "odds": {
+          "petr yan": "-172",
+          "merab dvalishvili": "+160"
         },
         "names": {
           "petr yan": "Petr Yan",
@@ -1946,6 +1959,19 @@
           "sergei pavlovich": "Sergei Pavlovich",
           "alex pereira": "Alex Pereira"
         }
+      },
+      {
+        "checkedAt": "2026-10-12T15:33:38.535Z",
+        "eventName": "UFC 335: Oliveira vs Lopes",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-335-4394",
+        "odds": {
+          "sergei pavlovich": "-175",
+          "alex pereira": "+145"
+        },
+        "names": {
+          "sergei pavlovich": "Sergei Pavlovich",
+          "alex pereira": "Alex Pereira"
+        }
       }
     ],
     "ufc-335::bo nickal--joe pyfer": [
@@ -1960,6 +1986,214 @@
         "names": {
           "joe pyfer": "Joe Pyfer",
           "bo nickal": "Bo Nickal"
+        }
+      },
+      {
+        "checkedAt": "2026-10-12T15:33:38.535Z",
+        "eventName": "UFC 335: Oliveira vs Lopes",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-335-4394",
+        "odds": {
+          "joe pyfer": "-182",
+          "bo nickal": "+145"
+        },
+        "names": {
+          "joe pyfer": "Joe Pyfer",
+          "bo nickal": "Bo Nickal"
+        }
+      }
+    ],
+    "ufc-fight-night-october-17-2026::jhonata diniz--tanner boser": [
+      {
+        "checkedAt": "2026-10-12T15:33:38.535Z",
+        "eventName": "UFC Fight Night: Buckley vs Malott",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-edmonton-4402",
+        "odds": {
+          "tanner boser": "+200",
+          "jhonata diniz": "-240"
+        },
+        "names": {
+          "tanner boser": "Tanner Boser",
+          "jhonata diniz": "Jhonata Diniz"
+        }
+      }
+    ],
+    "ufc-fight-night-october-17-2026::julien leblanc--nick galanti": [
+      {
+        "checkedAt": "2026-10-12T15:33:38.535Z",
+        "eventName": "UFC Fight Night: Buckley vs Malott",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-edmonton-4402",
+        "odds": {
+          "julien leblanc": "+430",
+          "nick galanti": "-566"
+        },
+        "names": {
+          "julien leblanc": "Julien Leblanc",
+          "nick galanti": "Nick Galanti"
+        }
+      }
+    ],
+    "ufc-fight-night-october-17-2026::javad mahjoub--joel faglier": [
+      {
+        "checkedAt": "2026-10-12T15:33:38.535Z",
+        "eventName": "UFC Fight Night: Buckley vs Malott",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-edmonton-4402",
+        "odds": {
+          "javad mahjoub": "-117",
+          "joel faglier": "+102"
+        },
+        "names": {
+          "javad mahjoub": "Javad Mahjoub",
+          "joel faglier": "Joel Faglier"
+        }
+      }
+    ],
+    "ufc-fight-night-october-17-2026::katlyn cerminara--mackenzie stiller": [
+      {
+        "checkedAt": "2026-10-12T15:33:38.535Z",
+        "eventName": "UFC Fight Night: Buckley vs Malott",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-edmonton-4402",
+        "odds": {
+          "katlyn cerminara": "-270",
+          "mackenzie stiller": "+230"
+        },
+        "names": {
+          "katlyn cerminara": "Katlyn Cerminara",
+          "mackenzie stiller": "Mackenzie Stiller"
+        }
+      }
+    ],
+    "ufc-fight-night-october-17-2026::chad anheliger--steven koslow": [
+      {
+        "checkedAt": "2026-10-12T15:33:38.535Z",
+        "eventName": "UFC Fight Night: Buckley vs Malott",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-edmonton-4402",
+        "odds": {
+          "chad anheliger": "-112",
+          "steven koslow": "+100"
+        },
+        "names": {
+          "chad anheliger": "Chad Anheliger",
+          "steven koslow": "Steven Koslow"
+        }
+      }
+    ],
+    "ufc-fight-night-october-17-2026::chelsea chandler--melissa croden": [
+      {
+        "checkedAt": "2026-10-12T15:33:38.535Z",
+        "eventName": "UFC Fight Night: Buckley vs Malott",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-edmonton-4402",
+        "odds": {
+          "melissa croden": "-250",
+          "chelsea chandler": "+220"
+        },
+        "names": {
+          "melissa croden": "Melissa Croden",
+          "chelsea chandler": "Chelsea Chandler"
+        }
+      }
+    ],
+    "ufc-fight-night-october-17-2026::cody chovancek--suyoung you": [
+      {
+        "checkedAt": "2026-10-12T15:33:38.535Z",
+        "eventName": "UFC Fight Night: Buckley vs Malott",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-edmonton-4402",
+        "odds": {
+          "cody chovancek": "-150",
+          "suyoung you": "+130"
+        },
+        "names": {
+          "cody chovancek": "Cody Chovancek",
+          "suyoung you": "SuYoung You"
+        }
+      }
+    ],
+    "ufc-fight-night-october-17-2026::joaquin buckley--mike malott": [
+      {
+        "checkedAt": "2026-10-12T15:33:38.535Z",
+        "eventName": "UFC Fight Night: Buckley vs Malott",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-edmonton-4403",
+        "odds": {
+          "joaquin buckley": "+108",
+          "mike malott": "-120"
+        },
+        "names": {
+          "joaquin buckley": "Joaquin Buckley",
+          "mike malott": "Mike Malott"
+        }
+      }
+    ],
+    "ufc-fight-night-october-17-2026::erin blanchfield--jasmine jasudavicius": [
+      {
+        "checkedAt": "2026-10-12T15:33:38.535Z",
+        "eventName": "UFC Fight Night: Buckley vs Malott",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-edmonton-4403",
+        "odds": {
+          "erin blanchfield": "-295",
+          "jasmine jasudavicius": "+250"
+        },
+        "names": {
+          "erin blanchfield": "Erin Blanchfield",
+          "jasmine jasudavicius": "Jasmine Jasudavicius"
+        }
+      }
+    ],
+    "ufc-fight-night-october-17-2026::cristian perez gonzalez--kyle nelson": [
+      {
+        "checkedAt": "2026-10-12T15:33:38.535Z",
+        "eventName": "UFC Fight Night: Buckley vs Malott",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-edmonton-4402",
+        "odds": {
+          "kyle nelson": "+250",
+          "cristian perez gonzalez": "-286"
+        },
+        "names": {
+          "kyle nelson": "Kyle Nelson",
+          "cristian perez gonzalez": "Cristian Perez Gonzalez"
+        }
+      }
+    ],
+    "ufc-fight-night-october-17-2026::kyle daukaus--marc-andre barriault": [
+      {
+        "checkedAt": "2026-10-12T15:33:38.535Z",
+        "eventName": "UFC Fight Night: Buckley vs Malott",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-edmonton-4403",
+        "odds": {
+          "marc-andre barriault": "+190",
+          "kyle daukaus": "-219"
+        },
+        "names": {
+          "marc-andre barriault": "Marc-Andre Barriault",
+          "kyle daukaus": "Kyle Daukaus"
+        }
+      }
+    ],
+    "ufc-fight-night-october-17-2026::louis jourdain--timmy cuamba": [
+      {
+        "checkedAt": "2026-10-12T15:33:38.535Z",
+        "eventName": "UFC Fight Night: Buckley vs Malott",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-edmonton-4403",
+        "odds": {
+          "louis jourdain": "-189",
+          "timmy cuamba": "+170"
+        },
+        "names": {
+          "louis jourdain": "Louis Jourdain",
+          "timmy cuamba": "Timmy Cuamba"
+        }
+      }
+    ],
+    "ufc-fight-night-october-17-2026::mandel nallo--nate landwehr": [
+      {
+        "checkedAt": "2026-10-12T15:33:38.535Z",
+        "eventName": "UFC Fight Night: Buckley vs Malott",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-edmonton-4403",
+        "odds": {
+          "mandel nallo": "-264",
+          "nate landwehr": "+230"
+        },
+        "names": {
+          "mandel nallo": "Mandel Nallo",
+          "nate landwehr": "Nate Landwehr"
         }
       }
     ]
