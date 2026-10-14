@@ -3550,8 +3550,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-prelims@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261012T153338Z
-SEQUENCE:6
+LAST-MODIFIED:20261014T115830Z
+SEQUENCE:7
 DTSTART:20261017T210000Z
 DTEND:20261018T000000Z
 SUMMARY:Prelims – UFC Fight Night: Buckley vs Malott
@@ -3567,40 +3567,42 @@ DESCRIPTION:UFC · Prelims · 7 bouts\n📍 Rogers Place\, Edmonton\, Canad
  𝘁𝗶 🇺🇸\n• 185lbs/84kg Middleweight\n• Leblanc: 10-3-0 | 34y
  o | +430 (5.30)\n• Galanti: 1-0-0 | 28yo | -566 (1.18)\n• Odds history
  :\n  ◦ 12 Oct: Leblanc 🔴 +430 (5.30) | Galanti 🟢 -566 (1.18)\n\n
- 🥊 5. 𝗝𝗮𝘃𝗮𝗱 𝗠𝗮𝗵𝗷𝗼𝘂𝗯 vs. 𝗝𝗼𝗲
- 𝗹 𝗙𝗮𝗴𝗹𝗶𝗲𝗿\n• 265lbs/120kg Heavyweight\n• Mahjo
- ub: 0-0-0 | 35yo | -117 (1.85)\n• Faglier: 0-0-0 | 25yo | +102 (2.02)\n
- • Odds history:\n  ◦ 12 Oct: Mahjoub 🟢 -117 (1.85) | Faglier 🔴 +
- 102 (2.02)\n\n🥊 4. 𝗞𝗮𝘁𝗹𝘆𝗻 𝗖𝗲𝗿𝗺𝗶𝗻
- 𝗮𝗿𝗮 🇺🇸 vs. 𝗠𝗮𝗰𝗸𝗲𝗻𝘇𝗶𝗲 𝗦𝘁
- 𝗶𝗹𝗹𝗲𝗿\n• 125lbs/57kg Women's Flyweight\n• Cerminara: 18
- -6-0 | 37yo | MMA | -270 (1.37)\n• Stiller: 0-0-0 | 27yo | +230 (3.30)\n
- • Odds history:\n  ◦ 12 Oct: Cerminara 🟢 -270 (1.37) | Stiller 🔴
-  +230 (3.30)\n\n🥊 3. 𝗖𝗵𝗮𝗱 𝗔𝗻𝗵𝗲𝗹𝗶𝗴𝗲
- 𝗿 🇨🇦 vs. 𝗦𝘁𝗲𝘃𝗲𝗻 𝗞𝗼𝘀𝗹𝗼𝘄 🇺
- 🇸\n• 135lbs/61kg Bantamweight\n• Anheliger: 13-8-0 | 39yo | Freesty
- le | -112 (1.89)\n• Koslow: 6-1-0 | 29yo | +100 (2.00)\n• Odds history
- :\n  ◦ 12 Oct: Anheliger 🟢 -112 (1.89) | Koslow 🔴 +100 (2.00)\n\n
- 🥊 2. 𝗠𝗲𝗹𝗶𝘀𝘀𝗮 𝗖𝗿𝗼𝗱𝗲𝗻 (#14) 🇨
- 🇦 vs. 𝗖𝗵𝗲𝗹𝘀𝗲𝗮 𝗖𝗵𝗮𝗻𝗱𝗹𝗲𝗿 
- 🇺🇸\n• 135lbs/61kg Women's Bantamweight\n• Croden: 8-3-0 | 35yo |
-  MMA | -250 (1.40)\n• Chandler: 7-4-0 | 35yo | MMA | +220 (3.20)\n• Od
- ds history:\n  ◦ 12 Oct: Croden 🟢 -250 (1.40) | Chandler 🔴 +220 (3
- .20)\n\n🥊 1. 𝗖𝗼𝗱𝘆 𝗖𝗵𝗼𝘃𝗮𝗻𝗰𝗲𝗸 🇨
- 🇦 vs. 𝗦𝘂𝗬𝗼𝘂𝗻𝗴 𝗬𝗼𝘂 🇰🇷\n• 135lbs/61
- kg Bantamweight\n• Chovancek: 1-0-0 | 28yo | -150 (1.67)\n• You: 16-4-
- 0 | 30yo | MMA | +130 (2.30)\n• Odds history:\n  ◦ 12 Oct: Chovancek 
- 🟢 -150 (1.67) | You 🔴 +130 (2.30)\n\n-------------------------------
- -\n𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥
- 𝗔𝗪𝗡 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n✕ J
- ulien Leblanc vs. Gilbert Urbina · 185lbs/84kg Middleweight | Removed fro
- m the UFC card\n✕ Javad Mahjoub vs. Louie Sutherland · 265lbs/120kg Hea
- vyweight | Removed from the UFC card\n✕ Jamey-Lyn Horth vs. Katlyn Cermi
- nara · 125lbs/57kg Women's Flyweight | Removed from the UFC card\n\n-----
- ---------------------------\nSource: https://www.ufc.com/event/ufc-fight-n
- ight-october-17-2026\nOdds source: https://www.bestfightodds.com/ · best 
- available line · checked Monday and Friday\nFull odds log: https://stairc
- asewit.github.io/mmacalendar/odds-history.html\nEvent status: Scheduled
+ 🥊 5. 𝗝𝗮𝘃𝗮𝗱 𝗠𝗮𝗵𝗷𝗼𝘂𝗯 🇨🇦 vs. 
+ 𝗝𝗼𝗲𝗹 𝗙𝗮𝗴𝗹𝗶𝗲𝗿 🇺🇸\n• 265lbs/120kg H
+ eavyweight\n• Mahjoub: 0-0-0 | 35yo | -117 (1.85)\n• Faglier: 0-0-0 | 
+ 25yo | +102 (2.02)\n• Odds history:\n  ◦ 12 Oct: Mahjoub 🟢 -117 (1.
+ 85) | Faglier 🔴 +102 (2.02)\n\n🥊 4. 𝗞𝗮𝘁𝗹𝘆𝗻 𝗖
+ 𝗲𝗿𝗺𝗶𝗻𝗮𝗿𝗮 🇺🇸 vs. 𝗠𝗮𝗰𝗸𝗲𝗻𝘇
+ 𝗶𝗲 𝗦𝘁𝗶𝗹𝗹𝗲𝗿 🇺🇸\n• 125lbs/57kg Women's Fl
+ yweight\n• Cerminara: 18-6-0 | 37yo | MMA | -270 (1.37)\n• Stiller: 0-
+ 0-0 | 27yo | +230 (3.30)\n• Odds history:\n  ◦ 12 Oct: Cerminara 🟢 
+ -270 (1.37) | Stiller 🔴 +230 (3.30)\n\n🥊 3. 𝗖𝗵𝗮𝗱 𝗔
+ 𝗻𝗵𝗲𝗹𝗶𝗴𝗲𝗿 🇨🇦 vs. 𝗦𝘁𝗲𝘃𝗲𝗻 
+ 𝗞𝗼𝘀𝗹𝗼𝘄 🇺🇸\n• 135lbs/61kg Bantamweight\n• Anhel
+ iger: 13-8-0 | 39yo | Freestyle | -112 (1.89)\n• Koslow: 6-1-0 | 29yo | 
+ +100 (2.00)\n• Odds history:\n  ◦ 12 Oct: Anheliger 🟢 -112 (1.89) |
+  Koslow 🔴 +100 (2.00)\n\n🥊 2. 𝗠𝗲𝗹𝗶𝘀𝘀𝗮 𝗖𝗿
+ 𝗼𝗱𝗲𝗻 (#14) 🇨🇦 vs. 𝗖𝗵𝗲𝗹𝘀𝗲𝗮 𝗖𝗵
+ 𝗮𝗻𝗱𝗹𝗲𝗿 🇺🇸\n• 135lbs/61kg Women's Bantamweight\n
+ • Croden: 8-3-0 | 35yo | MMA | -250 (1.40)\n• Chandler: 7-4-0 | 35yo |
+  MMA | +220 (3.20)\n• Odds history:\n  ◦ 12 Oct: Croden 🟢 -250 (1.4
+ 0) | Chandler 🔴 +220 (3.20)\n\n🥊 1. 𝗖𝗼𝗱𝘆 𝗖𝗵𝗼
+ 𝘃𝗮𝗻𝗰𝗲𝗸 🇨🇦 vs. 𝗦𝘂𝗬𝗼𝘂𝗻𝗴 𝗬
+ 𝗼𝘂 🇰🇷\n• 135lbs/61kg Bantamweight\n• Chovancek: 1-0-0 | 28
+ yo | -150 (1.67)\n• You: 16-4-0 | 30yo | MMA | +130 (2.30)\n• Odds his
+ tory:\n  ◦ 12 Oct: Chovancek 🟢 -150 (1.67) | You 🔴 +130 (2.30)\n\n
+ --------------------------------\n𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 
+ 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢𝗨𝗧𝗦\n------
+ --------------------------\n✕ Julien Leblanc vs. Gilbert Urbina · 185lb
+ s/84kg Middleweight | Removed from the UFC card\n✕ Javad Mahjoub vs. Lou
+ ie Sutherland · 265lbs/120kg Heavyweight | Removed from the UFC card\n✕
+  Jamey-Lyn Horth vs. Katlyn Cerminara · 125lbs/57kg Women's Flyweight | R
+ emoved from the UFC card\n✕ Kyle Nelson vs. Cristian Perez Gonzalez · 1
+ 55lbs/70kg Lightweight | Removed from the UFC card\n\n--------------------
+ ------------\nSource: https://www.ufc.com/event/ufc-fight-night-october-17
+ -2026\nOdds source: https://www.bestfightodds.com/ · best available line 
+ · checked Monday and Friday\nFull odds log: https://staircasewit.github.i
+ o/mmacalendar/odds-history.html\nEvent status: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  📍 Rogers Place\, Edmonton\, Canada<br>🕒 22:00–Sun 01:00 Ireland</p
  ><p>--------------------------------<br><strong>𝗕𝗢𝗨𝗧𝗦</stro
@@ -3615,44 +3617,46 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 7 bouts<br>
  dleweight<br>• Leblanc: 10-3-0 | 34yo | +430 (5.30)<br>• Galanti: 1-0-
  0 | 28yo | -566 (1.18)<br>• Odds history:<br>◦ 12 Oct: Leblanc 🔴 +4
  30 (5.30) | Galanti 🟢 -566 (1.18)</p><p><strong>🥊 5. 𝗝𝗮𝘃
- 𝗮𝗱 𝗠𝗮𝗵𝗷𝗼𝘂𝗯 vs. 𝗝𝗼𝗲𝗹 𝗙𝗮𝗴
- 𝗹𝗶𝗲𝗿</strong><br>• 265lbs/120kg Heavyweight<br>• Mahjoub: 
- 0-0-0 | 35yo | -117 (1.85)<br>• Faglier: 0-0-0 | 25yo | +102 (2.02)<br>
- • Odds history:<br>◦ 12 Oct: Mahjoub 🟢 -117 (1.85) | Faglier 🔴 +
- 102 (2.02)</p><p><strong>🥊 4. 𝗞𝗮𝘁𝗹𝘆𝗻 𝗖𝗲𝗿𝗺
- 𝗶𝗻𝗮𝗿𝗮 🇺🇸 vs. 𝗠𝗮𝗰𝗸𝗲𝗻𝘇𝗶𝗲 
- 𝗦𝘁𝗶𝗹𝗹𝗲𝗿</strong><br>• 125lbs/57kg Women&#39\;s Flyw
- eight<br>• Cerminara: 18-6-0 | 37yo | MMA | -270 (1.37)<br>• Stiller: 
- 0-0-0 | 27yo | +230 (3.30)<br>• Odds history:<br>◦ 12 Oct: Cerminara 
- 🟢 -270 (1.37) | Stiller 🔴 +230 (3.30)</p><p><strong>🥊 3. 𝗖𝗵
- 𝗮𝗱 𝗔𝗻𝗵𝗲𝗹𝗶𝗴𝗲𝗿 🇨🇦 vs. 𝗦𝘁𝗲
- 𝘃𝗲𝗻 𝗞𝗼𝘀𝗹𝗼𝘄 🇺🇸</strong><br>• 135lbs/61kg
-  Bantamweight<br>• Anheliger: 13-8-0 | 39yo | Freestyle | -112 (1.89)<br
- >• Koslow: 6-1-0 | 29yo | +100 (2.00)<br>• Odds history:<br>◦ 12 Oct
- : Anheliger 🟢 -112 (1.89) | Koslow 🔴 +100 (2.00)</p><p><strong>🥊 
- 2. 𝗠𝗲𝗹𝗶𝘀𝘀𝗮 𝗖𝗿𝗼𝗱𝗲𝗻 (#14) 🇨🇦 vs
- . 𝗖𝗵𝗲𝗹𝘀𝗲𝗮 𝗖𝗵𝗮𝗻𝗱𝗹𝗲𝗿 🇺🇸</
- strong><br>• 135lbs/61kg Women&#39\;s Bantamweight<br>• Croden: 8-3-0 
- | 35yo | MMA | -250 (1.40)<br>• Chandler: 7-4-0 | 35yo | MMA | +220 (3.2
- 0)<br>• Odds history:<br>◦ 12 Oct: Croden 🟢 -250 (1.40) | Chandler 
- 🔴 +220 (3.20)</p><p><strong>🥊 1. 𝗖𝗼𝗱𝘆 𝗖𝗵𝗼𝘃
- 𝗮𝗻𝗰𝗲𝗸 🇨🇦 vs. 𝗦𝘂𝗬𝗼𝘂𝗻𝗴 𝗬𝗼
- 𝘂 🇰🇷</strong><br>• 135lbs/61kg Bantamweight<br>• Chovancek: 1
- -0-0 | 28yo | -150 (1.67)<br>• You: 16-4-0 | 30yo | MMA | +130 (2.30)<br
- >• Odds history:<br>◦ 12 Oct: Chovancek 🟢 -150 (1.67) | You 🔴 +1
- 30 (2.30)</p><p>--------------------------------<br><strong>𝗖𝗔𝗡
- 𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 
- 𝗕𝗢𝗨𝗧𝗦</strong><br>--------------------------------<br>✕ J
- ulien Leblanc vs. Gilbert Urbina · 185lbs/84kg Middleweight | Removed fro
- m the UFC card<br>✕ Javad Mahjoub vs. Louie Sutherland · 265lbs/120kg H
- eavyweight | Removed from the UFC card<br>✕ Jamey-Lyn Horth vs. Katlyn C
- erminara · 125lbs/57kg Women&#39\;s Flyweight | Removed from the UFC card
- </p><p>--------------------------------<br>Source: <a href="https://www.uf
- c.com/event/ufc-fight-night-october-17-2026">UFC.com</a><br>Odds source: <
- a href="https://www.bestfightodds.com/">BestFightOdds</a> · best availabl
- e line · checked Monday and Friday<br>Full odds log: <a href="https://sta
- ircasewit.github.io/mmacalendar/odds-history.html">view history</a><br>Eve
- nt status: Scheduled</p></body></html>
+ 𝗮𝗱 𝗠𝗮𝗵𝗷𝗼𝘂𝗯 🇨🇦 vs. 𝗝𝗼𝗲𝗹 𝗙
+ 𝗮𝗴𝗹𝗶𝗲𝗿 🇺🇸</strong><br>• 265lbs/120kg Heavyweight
+ <br>• Mahjoub: 0-0-0 | 35yo | -117 (1.85)<br>• Faglier: 0-0-0 | 25yo |
+  +102 (2.02)<br>• Odds history:<br>◦ 12 Oct: Mahjoub 🟢 -117 (1.85) 
+ | Faglier 🔴 +102 (2.02)</p><p><strong>🥊 4. 𝗞𝗮𝘁𝗹𝘆𝗻 
+ 𝗖𝗲𝗿𝗺𝗶𝗻𝗮𝗿𝗮 🇺🇸 vs. 𝗠𝗮𝗰𝗸𝗲𝗻
+ 𝘇𝗶𝗲 𝗦𝘁𝗶𝗹𝗹𝗲𝗿 🇺🇸</strong><br>• 125lbs/
+ 57kg Women&#39\;s Flyweight<br>• Cerminara: 18-6-0 | 37yo | MMA | -270 (
+ 1.37)<br>• Stiller: 0-0-0 | 27yo | +230 (3.30)<br>• Odds history:<br>
+ ◦ 12 Oct: Cerminara 🟢 -270 (1.37) | Stiller 🔴 +230 (3.30)</p><p><s
+ trong>🥊 3. 𝗖𝗵𝗮𝗱 𝗔𝗻𝗵𝗲𝗹𝗶𝗴𝗲𝗿 🇨
+ 🇦 vs. 𝗦𝘁𝗲𝘃𝗲𝗻 𝗞𝗼𝘀𝗹𝗼𝘄 🇺🇸</stron
+ g><br>• 135lbs/61kg Bantamweight<br>• Anheliger: 13-8-0 | 39yo | Frees
+ tyle | -112 (1.89)<br>• Koslow: 6-1-0 | 29yo | +100 (2.00)<br>• Odds h
+ istory:<br>◦ 12 Oct: Anheliger 🟢 -112 (1.89) | Koslow 🔴 +100 (2.00
+ )</p><p><strong>🥊 2. 𝗠𝗲𝗹𝗶𝘀𝘀𝗮 𝗖𝗿𝗼𝗱𝗲
+ 𝗻 (#14) 🇨🇦 vs. 𝗖𝗵𝗲𝗹𝘀𝗲𝗮 𝗖𝗵𝗮𝗻𝗱
+ 𝗹𝗲𝗿 🇺🇸</strong><br>• 135lbs/61kg Women&#39\;s Bantamweigh
+ t<br>• Croden: 8-3-0 | 35yo | MMA | -250 (1.40)<br>• Chandler: 7-4-0 |
+  35yo | MMA | +220 (3.20)<br>• Odds history:<br>◦ 12 Oct: Croden 🟢 
+ -250 (1.40) | Chandler 🔴 +220 (3.20)</p><p><strong>🥊 1. 𝗖𝗼𝗱
+ 𝘆 𝗖𝗵𝗼𝘃𝗮𝗻𝗰𝗲𝗸 🇨🇦 vs. 𝗦𝘂𝗬𝗼
+ 𝘂𝗻𝗴 𝗬𝗼𝘂 🇰🇷</strong><br>• 135lbs/61kg Bantamweigh
+ t<br>• Chovancek: 1-0-0 | 28yo | -150 (1.67)<br>• You: 16-4-0 | 30yo |
+  MMA | +130 (2.30)<br>• Odds history:<br>◦ 12 Oct: Chovancek 🟢 -150
+  (1.67) | You 🔴 +130 (2.30)</p><p>--------------------------------<br><
+ strong>𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗
+ 𝗥𝗔𝗪𝗡 𝗕𝗢𝗨𝗧𝗦</strong><br>------------------------
+ --------<br>✕ Julien Leblanc vs. Gilbert Urbina · 185lbs/84kg Middlewei
+ ght | Removed from the UFC card<br>✕ Javad Mahjoub vs. Louie Sutherland 
+ · 265lbs/120kg Heavyweight | Removed from the UFC card<br>✕ Jamey-Lyn H
+ orth vs. Katlyn Cerminara · 125lbs/57kg Women&#39\;s Flyweight | Removed 
+ from the UFC card<br>✕ Kyle Nelson vs. Cristian Perez Gonzalez · 155lbs
+ /70kg Lightweight | Removed from the UFC card</p><p>----------------------
+ ----------<br>Source: <a href="https://www.ufc.com/event/ufc-fight-night-o
+ ctober-17-2026">UFC.com</a><br>Odds source: <a href="https://www.bestfight
+ odds.com/">BestFightOdds</a> · best available line · checked Monday and 
+ Friday<br>Full odds log: <a href="https://staircasewit.github.io/mmacalend
+ ar/odds-history.html">view history</a><br>Event status: Scheduled</p></bod
+ y></html>
 LOCATION:Rogers Place\, Edmonton\, Canada
 URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
 CATEGORIES:UFC,Prelims
@@ -3661,8 +3665,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-main-card@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261012T153338Z
-SEQUENCE:7
+LAST-MODIFIED:20261014T115830Z
+SEQUENCE:8
 DTSTART:20261018T000000Z
 DTEND:20261018T030000Z
 SUMMARY:Main Card – UFC Fight Night: Buckley vs Malott
@@ -3681,35 +3685,35 @@ DESCRIPTION:UFC · Main Card · 6 bouts\n📍 Rogers Place\, Edmonton\, Can
  +250 (3.50)\n• Odds history:\n  ◦ 12 Oct: Blanchfield 🟢 -295 (1.34)
   | Jasudavicius 🔴 +250 (3.50)\n\n🥊 4. 𝗞𝘆𝗹𝗲 𝗡𝗲𝗹
  𝘀𝗼𝗻 🇨🇦 vs. 𝗖𝗿𝗶𝘀𝘁𝗶𝗮𝗻 𝗣𝗲𝗿
- 𝗲𝘇 𝗚𝗼𝗻𝘇𝗮𝗹𝗲𝘇 🇲🇽\n• 155lbs/70kg Lightw
- eight\n• Nelson: 17-7-1 | 35yo | Jiu-Jitsu | +250 (3.50)\n• Perez Gonz
- alez: 1-1-0 | 27yo | -286 (1.35)\n• Odds history:\n  ◦ 12 Oct: Nelson 
- 🔴 +250 (3.50) | Perez Gonzalez 🟢 -286 (1.35)\n\n🥊 3. 𝗠𝗮𝗿
- 𝗰-𝗔𝗻𝗱𝗿𝗲 𝗕𝗮𝗿𝗿𝗶𝗮𝘂𝗹𝘁 🇨🇦 vs
- . 𝗞𝘆𝗹𝗲 𝗗𝗮𝘂𝗸𝗮𝘂𝘀 🇺🇸\n• 185lbs/84kg 
- Middleweight\n• Barriault: 17-11-0 | 36yo | Striker | +190 (2.90)\n• D
- aukaus: 17-4-0 | 33yo | -219 (1.46)\n• Odds history:\n  ◦ 12 Oct: Barr
- iault 🔴 +190 (2.90) | Daukaus 🟢 -219 (1.46)\n\n🥊 2. 𝗟𝗼𝘂
- 𝗶𝘀 𝗝𝗼𝘂𝗿𝗱𝗮𝗶𝗻 🇨🇦 vs. 𝗧𝗶𝗺𝗺
- 𝘆 𝗖𝘂𝗮𝗺𝗯𝗮 🇺🇸\n• 135lbs/61kg Bantamweight\n• 
- Jourdain: 1-0-0 | 29yo | -189 (1.53)\n• Cuamba: 10-4-0 | 27yo | Striker 
- | +170 (2.70)\n• Odds history:\n  ◦ 12 Oct: Jourdain 🟢 -189 (1.53) 
- | Cuamba 🔴 +170 (2.70)\n\n🥊 1. 𝗠𝗮𝗻𝗱𝗲𝗹 𝗡𝗮𝗹
- 𝗹𝗼 🇨🇦 vs. 𝗡𝗮𝘁𝗲 𝗟𝗮𝗻𝗱𝘄𝗲𝗵𝗿 
- 🇺🇸\n• 155lbs/70kg Lightweight\n• Nallo: 14-4-0 | 37yo | Kickboxe
- r | -264 (1.38)\n• Landwehr: 18-8-0 | 38yo | +230 (3.30)\n• Odds histo
- ry:\n  ◦ 12 Oct: Nallo 🟢 -264 (1.38) | Landwehr 🔴 +230 (3.30)\n\n-
- -------------------------------\n𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢
- 𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢𝗨𝗧𝗦\n----------
- ----------------------\n✕ Julien Leblanc vs. Gilbert Urbina · 185lbs/84
- kg Middleweight | Removed from the UFC card\n✕ Javad Mahjoub vs. Louie S
- utherland · 265lbs/120kg Heavyweight | Removed from the UFC card\n✕ Jam
- ey-Lyn Horth vs. Katlyn Cerminara · 125lbs/57kg Women's Flyweight | Remov
- ed from the UFC card\n\n--------------------------------\nSource: https://
- www.ufc.com/event/ufc-fight-night-october-17-2026\nOdds source: https://ww
- w.bestfightodds.com/ · best available line · checked Monday and Friday\n
- Full odds log: https://staircasewit.github.io/mmacalendar/odds-history.htm
- l\nEvent status: Scheduled
+ 𝗲𝘇 🇲🇽\n• 155lbs/70kg Lightweight\n• Nelson: 17-7-1 | 35yo 
+ | Jiu-Jitsu\n• Perez: 1-1-0 | 27yo\n• Odds history: not checked yet\n\
+ n🥊 3. 𝗠𝗮𝗿𝗰-𝗔𝗻𝗱𝗿𝗲 𝗕𝗮𝗿𝗿𝗶𝗮
+ 𝘂𝗹𝘁 🇨🇦 vs. 𝗞𝘆𝗹𝗲 𝗗𝗮𝘂𝗸𝗮𝘂𝘀 
+ 🇺🇸\n• 185lbs/84kg Middleweight\n• Barriault: 17-11-0 | 36yo | St
+ riker | +190 (2.90)\n• Daukaus: 17-4-0 | 33yo | -219 (1.46)\n• Odds hi
+ story:\n  ◦ 12 Oct: Barriault 🔴 +190 (2.90) | Daukaus 🟢 -219 (1.46
+ )\n\n🥊 2. 𝗟𝗼𝘂𝗶𝘀 𝗝𝗼𝘂𝗿𝗱𝗮𝗶𝗻 🇨
+ 🇦 vs. 𝗧𝗶𝗺𝗺𝘆 𝗖𝘂𝗮𝗺𝗯𝗮 🇺🇸\n• 135lb
+ s/61kg Bantamweight\n• Jourdain: 1-0-0 | 29yo | -189 (1.53)\n• Cuamba:
+  10-4-0 | 27yo | Striker | +170 (2.70)\n• Odds history:\n  ◦ 12 Oct: J
+ ourdain 🟢 -189 (1.53) | Cuamba 🔴 +170 (2.70)\n\n🥊 1. 𝗠𝗮𝗻
+ 𝗱𝗲𝗹 𝗡𝗮𝗹𝗹𝗼 🇨🇦 vs. 𝗡𝗮𝘁𝗲 𝗟𝗮
+ 𝗻𝗱𝘄𝗲𝗵𝗿 🇺🇸\n• 155lbs/70kg Lightweight\n• Nallo:
+  14-4-0 | 37yo | Kickboxer | -264 (1.38)\n• Landwehr: 18-8-0 | 38yo | +2
+ 30 (3.30)\n• Odds history:\n  ◦ 12 Oct: Nallo 🟢 -264 (1.38) | Landw
+ ehr 🔴 +230 (3.30)\n\n--------------------------------\n𝗖𝗔𝗡𝗖
+ 𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕
+ 𝗢𝗨𝗧𝗦\n--------------------------------\n✕ Julien Leblanc vs.
+  Gilbert Urbina · 185lbs/84kg Middleweight | Removed from the UFC card\n
+ ✕ Javad Mahjoub vs. Louie Sutherland · 265lbs/120kg Heavyweight | Remov
+ ed from the UFC card\n✕ Jamey-Lyn Horth vs. Katlyn Cerminara · 125lbs/5
+ 7kg Women's Flyweight | Removed from the UFC card\n✕ Kyle Nelson vs. Cri
+ stian Perez Gonzalez · 155lbs/70kg Lightweight | Removed from the UFC car
+ d\n\n--------------------------------\nSource: https://www.ufc.com/event/u
+ fc-fight-night-october-17-2026\nOdds source: https://www.bestfightodds.com
+ / · best available line · checked Monday and Friday\nFull odds log: http
+ s://staircasewit.github.io/mmacalendar/odds-history.html\nEvent status: Sc
+ heduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  📍 Rogers Place\, Edmonton\, Canada<br>🕒 01:00–04:00 Ireland</p><p>
  --------------------------------<br><strong>𝗕𝗢𝗨𝗧𝗦</strong><
@@ -3726,39 +3730,39 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
   Jasudavicius: 15-4-0 | 37yo | Brawler | +250 (3.50)<br>• Odds history:<
  br>◦ 12 Oct: Blanchfield 🟢 -295 (1.34) | Jasudavicius 🔴 +250 (3.50
  )</p><p><strong>🥊 4. 𝗞𝘆𝗹𝗲 𝗡𝗲𝗹𝘀𝗼𝗻 🇨🇦
-  vs. 𝗖𝗿𝗶𝘀𝘁𝗶𝗮𝗻 𝗣𝗲𝗿𝗲𝘇 𝗚𝗼𝗻
- 𝘇𝗮𝗹𝗲𝘇 🇲🇽</strong><br>• 155lbs/70kg Lightweight<br>
- • Nelson: 17-7-1 | 35yo | Jiu-Jitsu | +250 (3.50)<br>• Perez Gonzalez:
-  1-1-0 | 27yo | -286 (1.35)<br>• Odds history:<br>◦ 12 Oct: Nelson 
- 🔴 +250 (3.50) | Perez Gonzalez 🟢 -286 (1.35)</p><p><strong>🥊 3. 
- 𝗠𝗮𝗿𝗰-𝗔𝗻𝗱𝗿𝗲 𝗕𝗮𝗿𝗿𝗶𝗮𝘂𝗹𝘁
-  🇨🇦 vs. 𝗞𝘆𝗹𝗲 𝗗𝗮𝘂𝗸𝗮𝘂𝘀 🇺🇸</stro
- ng><br>• 185lbs/84kg Middleweight<br>• Barriault: 17-11-0 | 36yo | Str
- iker | +190 (2.90)<br>• Daukaus: 17-4-0 | 33yo | -219 (1.46)<br>• Odds
-  history:<br>◦ 12 Oct: Barriault 🔴 +190 (2.90) | Daukaus 🟢 -219 (1
- .46)</p><p><strong>🥊 2. 𝗟𝗼𝘂𝗶𝘀 𝗝𝗼𝘂𝗿𝗱𝗮
- 𝗶𝗻 🇨🇦 vs. 𝗧𝗶𝗺𝗺𝘆 𝗖𝘂𝗮𝗺𝗯𝗮 🇺
- 🇸</strong><br>• 135lbs/61kg Bantamweight<br>• Jourdain: 1-0-0 | 29y
- o | -189 (1.53)<br>• Cuamba: 10-4-0 | 27yo | Striker | +170 (2.70)<br>
- • Odds history:<br>◦ 12 Oct: Jourdain 🟢 -189 (1.53) | Cuamba 🔴 +
- 170 (2.70)</p><p><strong>🥊 1. 𝗠𝗮𝗻𝗱𝗲𝗹 𝗡𝗮𝗹𝗹
- 𝗼 🇨🇦 vs. 𝗡𝗮𝘁𝗲 𝗟𝗮𝗻𝗱𝘄𝗲𝗵𝗿 🇺
- 🇸</strong><br>• 155lbs/70kg Lightweight<br>• Nallo: 14-4-0 | 37yo |
-  Kickboxer | -264 (1.38)<br>• Landwehr: 18-8-0 | 38yo | +230 (3.30)<br>
- • Odds history:<br>◦ 12 Oct: Nallo 🟢 -264 (1.38) | Landwehr 🔴 +2
- 30 (3.30)</p><p>--------------------------------<br><strong>𝗖𝗔𝗡
- 𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 
- 𝗕𝗢𝗨𝗧𝗦</strong><br>--------------------------------<br>✕ J
- ulien Leblanc vs. Gilbert Urbina · 185lbs/84kg Middleweight | Removed fro
- m the UFC card<br>✕ Javad Mahjoub vs. Louie Sutherland · 265lbs/120kg H
- eavyweight | Removed from the UFC card<br>✕ Jamey-Lyn Horth vs. Katlyn C
- erminara · 125lbs/57kg Women&#39\;s Flyweight | Removed from the UFC card
- </p><p>--------------------------------<br>Source: <a href="https://www.uf
- c.com/event/ufc-fight-night-october-17-2026">UFC.com</a><br>Odds source: <
- a href="https://www.bestfightodds.com/">BestFightOdds</a> · best availabl
- e line · checked Monday and Friday<br>Full odds log: <a href="https://sta
- ircasewit.github.io/mmacalendar/odds-history.html">view history</a><br>Eve
- nt status: Scheduled</p></body></html>
+  vs. 𝗖𝗿𝗶𝘀𝘁𝗶𝗮𝗻 𝗣𝗲𝗿𝗲𝘇 🇲🇽</stron
+ g><br>• 155lbs/70kg Lightweight<br>• Nelson: 17-7-1 | 35yo | Jiu-Jitsu
+ <br>• Perez: 1-1-0 | 27yo<br>• Odds history: not checked yet</p><p><st
+ rong>🥊 3. 𝗠𝗮𝗿𝗰-𝗔𝗻𝗱𝗿𝗲 𝗕𝗮𝗿𝗿𝗶
+ 𝗮𝘂𝗹𝘁 🇨🇦 vs. 𝗞𝘆𝗹𝗲 𝗗𝗮𝘂𝗸𝗮𝘂
+ 𝘀 🇺🇸</strong><br>• 185lbs/84kg Middleweight<br>• Barriault: 1
+ 7-11-0 | 36yo | Striker | +190 (2.90)<br>• Daukaus: 17-4-0 | 33yo | -219
+  (1.46)<br>• Odds history:<br>◦ 12 Oct: Barriault 🔴 +190 (2.90) | D
+ aukaus 🟢 -219 (1.46)</p><p><strong>🥊 2. 𝗟𝗼𝘂𝗶𝘀 𝗝
+ 𝗼𝘂𝗿𝗱𝗮𝗶𝗻 🇨🇦 vs. 𝗧𝗶𝗺𝗺𝘆 𝗖𝘂
+ 𝗮𝗺𝗯𝗮 🇺🇸</strong><br>• 135lbs/61kg Bantamweight<br>• 
+ Jourdain: 1-0-0 | 29yo | -189 (1.53)<br>• Cuamba: 10-4-0 | 27yo | Strike
+ r | +170 (2.70)<br>• Odds history:<br>◦ 12 Oct: Jourdain 🟢 -189 (1.
+ 53) | Cuamba 🔴 +170 (2.70)</p><p><strong>🥊 1. 𝗠𝗮𝗻𝗱𝗲
+ 𝗹 𝗡𝗮𝗹𝗹𝗼 🇨🇦 vs. 𝗡𝗮𝘁𝗲 𝗟𝗮𝗻𝗱
+ 𝘄𝗲𝗵𝗿 🇺🇸</strong><br>• 155lbs/70kg Lightweight<br>• N
+ allo: 14-4-0 | 37yo | Kickboxer | -264 (1.38)<br>• Landwehr: 18-8-0 | 38
+ yo | +230 (3.30)<br>• Odds history:<br>◦ 12 Oct: Nallo 🟢 -264 (1.38
+ ) | Landwehr 🔴 +230 (3.30)</p><p>--------------------------------<br><s
+ trong>𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗
+ 𝗥𝗔𝗪𝗡 𝗕𝗢𝗨𝗧𝗦</strong><br>------------------------
+ --------<br>✕ Julien Leblanc vs. Gilbert Urbina · 185lbs/84kg Middlewei
+ ght | Removed from the UFC card<br>✕ Javad Mahjoub vs. Louie Sutherland 
+ · 265lbs/120kg Heavyweight | Removed from the UFC card<br>✕ Jamey-Lyn H
+ orth vs. Katlyn Cerminara · 125lbs/57kg Women&#39\;s Flyweight | Removed 
+ from the UFC card<br>✕ Kyle Nelson vs. Cristian Perez Gonzalez · 155lbs
+ /70kg Lightweight | Removed from the UFC card</p><p>----------------------
+ ----------<br>Source: <a href="https://www.ufc.com/event/ufc-fight-night-o
+ ctober-17-2026">UFC.com</a><br>Odds source: <a href="https://www.bestfight
+ odds.com/">BestFightOdds</a> · best available line · checked Monday and 
+ Friday<br>Full odds log: <a href="https://staircasewit.github.io/mmacalend
+ ar/odds-history.html">view history</a><br>Event status: Scheduled</p></bod
+ y></html>
 LOCATION:Rogers Place\, Edmonton\, Canada
 URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
 CATEGORIES:UFC,Main Card
@@ -3804,8 +3808,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-prelims@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261012T153338Z
-SEQUENCE:5
+LAST-MODIFIED:20261014T115830Z
+SEQUENCE:6
 DTSTART:20261024T160000Z
 DTEND:20261024T180000Z
 SUMMARY:Prelims – UFC 333: Volkanovski vs Evloev
@@ -3813,10 +3817,10 @@ DESCRIPTION:UFC · Prelims · 4 bouts\n📍 Etihad Arena\, Yas Island/Yas W
  est\, United Arab Emirates\n🕒 17:00–19:00 Ireland\n\n----------------
  ----------------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n
  \n🥊 4. 𝗔𝘇𝗮𝗺𝗮𝘁 𝗠𝘂𝗿𝘇𝗮𝗸𝗮𝗻𝗼
- 𝘃 (#8) 🇷🇺 vs. 𝗗𝗼𝗺𝗶𝗻𝗶𝗰𝗸 𝗥𝗲𝘆𝗲
- 𝘀 (#10) 🇺🇸\n• 205lbs/93kg Light Heavyweight\n• Murzakanov: 16
- -1-0 | 37yo | MMA\n• Reyes: 16-5-0 | 36yo | Kickboxer\n• Odds history:
-  not checked yet\n\n🥊 3. 𝗡𝗶𝗸𝗶𝘁𝗮 𝗞𝗿𝘆𝗹𝗼
+ 𝘃 (#7) 🇷🇺 vs. 𝗗𝗼𝗺𝗶𝗻𝗶𝗰𝗸 𝗥𝗲𝘆𝗲
+ 𝘀 (#8) 🇺🇸\n• 205lbs/93kg Light Heavyweight\n• Murzakanov: 16-
+ 1-0 | 37yo | MMA\n• Reyes: 16-5-0 | 36yo | Kickboxer\n• Odds history: 
+ not checked yet\n\n🥊 3. 𝗡𝗶𝗸𝗶𝘁𝗮 𝗞𝗿𝘆𝗹𝗼
  𝘃 (#15) 🇷🇺 vs. 𝗔𝗯𝗱𝘂𝗹 𝗥𝗮𝗸𝗵𝗺𝗮𝗻 
  𝗬𝗮𝗸𝗵𝘆𝗮𝗲𝘃 🇹🇷\n• 205lbs/93kg Light Heavyweig
  ht\n• Krylov: 31-12-0 | 34yo | Karate\n• Yakhyaev: 10-0-0 | 25yo | MMA
@@ -3839,9 +3843,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 4 bouts<br>
  00–19:00 Ireland</p><p>--------------------------------<br><strong>𝗕
  𝗢𝗨𝗧𝗦</strong><br>--------------------------------</p><p><stron
  g>🥊 4. 𝗔𝘇𝗮𝗺𝗮𝘁 𝗠𝘂𝗿𝘇𝗮𝗸𝗮𝗻𝗼
- 𝘃 (#8) 🇷🇺 vs. 𝗗𝗼𝗺𝗶𝗻𝗶𝗰𝗸 𝗥𝗲𝘆𝗲
- 𝘀 (#10) 🇺🇸</strong><br>• 205lbs/93kg Light Heavyweight<br>• M
- urzakanov: 16-1-0 | 37yo | MMA<br>• Reyes: 16-5-0 | 36yo | Kickboxer<br>
+ 𝘃 (#7) 🇷🇺 vs. 𝗗𝗼𝗺𝗶𝗻𝗶𝗰𝗸 𝗥𝗲𝘆𝗲
+ 𝘀 (#8) 🇺🇸</strong><br>• 205lbs/93kg Light Heavyweight<br>• Mu
+ rzakanov: 16-1-0 | 37yo | MMA<br>• Reyes: 16-5-0 | 36yo | Kickboxer<br>
  • Odds history: not checked yet</p><p><strong>🥊 3. 𝗡𝗶𝗸𝗶
  𝘁𝗮 𝗞𝗿𝘆𝗹𝗼𝘃 (#15) 🇷🇺 vs. 𝗔𝗯𝗱𝘂𝗹 
  𝗥𝗮𝗸𝗵𝗺𝗮𝗻 𝗬𝗮𝗸𝗵𝘆𝗮𝗲𝘃 🇹🇷</st
@@ -3871,8 +3875,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-main-card@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261012T153338Z
-SEQUENCE:6
+LAST-MODIFIED:20261014T115830Z
+SEQUENCE:7
 DTSTART:20261024T180000Z
 DTEND:20261024T210000Z
 SUMMARY:Main Card – UFC 333: Volkanovski vs Evloev
@@ -3901,16 +3905,16 @@ DESCRIPTION:UFC · Main Card · 5 bouts\n📍 Etihad Arena\, Yas Island/Yas
  Heavyweight\n• Volkov: 40-11-0 | 38yo | Brazilian Jiu-Jitsu\n• Kuniev:
   14-3-1 | 34yo\n• Odds history: not checked yet\n\n🥊 1. 𝗔𝗮𝗿
  𝗼𝗻 𝗣𝗶𝗰𝗼 (#11) 🇺🇸 vs. 𝗟𝗼𝘀𝗲𝗻𝗲 𝗞
- 𝗲𝗶𝘁𝗮 (#11) 🇧🇪\n• 145lbs/66kg Featherweight\n• Pico: 
- 14-5-0 | 30yo | Boxing\n• Keita: 17-2-0 | 28yo | MMA\n• Odds history: 
- not checked yet\n\n--------------------------------\n𝗖𝗔𝗡𝗖𝗘
- 𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢
- 𝗨𝗧𝗦\n--------------------------------\n✕ Arnold Allen vs. Aaron
-  Pico · 145lbs/66kg Featherweight | Removed from the UFC card\n\n--------
- ------------------------\nSource: https://www.ufc.com/event/ufc-333\nOdds 
- source: https://www.bestfightodds.com/ · best available line · checked M
- onday and Friday\nFull odds log: https://staircasewit.github.io/mmacalenda
- r/odds-history.html\nEvent status: Scheduled
+ 𝗲𝗶𝘁𝗮 🇧🇪\n• 145lbs/66kg Featherweight\n• Pico: 14-5-0
+  | 30yo | Boxing\n• Keita: 17-2-0 | 28yo | MMA\n• Odds history: not ch
+ ecked yet\n\n--------------------------------\n𝗖𝗔𝗡𝗖𝗘𝗟
+ 𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢𝗨
+ 𝗧𝗦\n--------------------------------\n✕ Arnold Allen vs. Aaron Pic
+ o · 145lbs/66kg Featherweight | Removed from the UFC card\n\n------------
+ --------------------\nSource: https://www.ufc.com/event/ufc-333\nOdds sour
+ ce: https://www.bestfightodds.com/ · best available line · checked Monda
+ y and Friday\nFull odds log: https://staircasewit.github.io/mmacalendar/od
+ ds-history.html\nEvent status: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  📍 Etihad Arena\, Yas Island/Yas West\, United Arab Emirates<br>🕒 19:
  00–22:00 Ireland</p><p>--------------------------------<br><strong>𝗕
@@ -3938,19 +3942,19 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  strong><br>• 265lbs/120kg Heavyweight<br>• Volkov: 40-11-0 | 38yo | Br
  azilian Jiu-Jitsu<br>• Kuniev: 14-3-1 | 34yo<br>• Odds history: not ch
  ecked yet</p><p><strong>🥊 1. 𝗔𝗮𝗿𝗼𝗻 𝗣𝗶𝗰𝗼 (#11
- ) 🇺🇸 vs. 𝗟𝗼𝘀𝗲𝗻𝗲 𝗞𝗲𝗶𝘁𝗮 (#11) 🇧
- 🇪</strong><br>• 145lbs/66kg Featherweight<br>• Pico: 14-5-0 | 30yo 
- | Boxing<br>• Keita: 17-2-0 | 28yo | MMA<br>• Odds history: not checke
- d yet</p><p>--------------------------------<br><strong>𝗖𝗔𝗡𝗖
- 𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕
- 𝗢𝗨𝗧𝗦</strong><br>--------------------------------<br>✕ Arnol
- d Allen vs. Aaron Pico · 145lbs/66kg Featherweight | Removed from the UFC
-  card</p><p>--------------------------------<br>Source: <a href="https://w
- ww.ufc.com/event/ufc-333">UFC.com</a><br>Odds source: <a href="https://www
- .bestfightodds.com/">BestFightOdds</a> · best available line · checked M
- onday and Friday<br>Full odds log: <a href="https://staircasewit.github.io
- /mmacalendar/odds-history.html">view history</a><br>Event status: Schedule
- d</p></body></html>
+ ) 🇺🇸 vs. 𝗟𝗼𝘀𝗲𝗻𝗲 𝗞𝗲𝗶𝘁𝗮 🇧🇪</str
+ ong><br>• 145lbs/66kg Featherweight<br>• Pico: 14-5-0 | 30yo | Boxing<
+ br>• Keita: 17-2-0 | 28yo | MMA<br>• Odds history: not checked yet</p>
+ <p>--------------------------------<br><strong>𝗖𝗔𝗡𝗖𝗘𝗟
+ 𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢𝗨
+ 𝗧𝗦</strong><br>--------------------------------<br>✕ Arnold Allen 
+ vs. Aaron Pico · 145lbs/66kg Featherweight | Removed from the UFC card</p
+ ><p>--------------------------------<br>Source: <a href="https://www.ufc.c
+ om/event/ufc-333">UFC.com</a><br>Odds source: <a href="https://www.bestfig
+ htodds.com/">BestFightOdds</a> · best available line · checked Monday an
+ d Friday<br>Full odds log: <a href="https://staircasewit.github.io/mmacale
+ ndar/odds-history.html">view history</a><br>Event status: Scheduled</p></b
+ ody></html>
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Main Card

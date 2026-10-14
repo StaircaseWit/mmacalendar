@@ -206,19 +206,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-17-2026-fight-13158@ufc-detailed-calendar
 DTSTAMP:20260925T115505Z
-LAST-MODIFIED:20261012T153338Z
-SEQUENCE:1
+LAST-MODIFIED:20261014T115830Z
+SEQUENCE:2
 DTSTART:20261018T013000Z
 DTEND:20261018T020000Z
-SUMMARY:🥊 4. Kyle Nelson vs. Cristian Perez Gonzalez (estimated)
+SUMMARY:🥊 4. Kyle Nelson vs. Cristian Perez (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Nelson: 
- 17-7-1 | 35yo | Jiu-Jitsu | +250 (3.50)\n• Perez Gonzalez: 1-1-0 | 27yo 
- | -286 (1.35)\n• Odds history:\n  ◦ 12 Oct: Nelson 🔴 +250 (3.50) | 
- Perez Gonzalez 🟢 -286 (1.35)\nEvent: UFC Fight Night: Buckley vs Malott
- \nSource: https://www.ufc.com/event/ufc-fight-night-october-17-2026\nMain 
- calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status
- : Scheduled
+ 17-7-1 | 35yo | Jiu-Jitsu\n• Perez: 1-1-0 | 27yo\n• Odds history: not 
+ checked yet\nEvent: UFC Fight Night: Buckley vs Malott\nSource: https://ww
+ w.ufc.com/event/ufc-fight-night-october-17-2026\nMain calendar: https://st
+ aircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Rogers Place\, Edmonton\, Canada
 URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1490,9 +1488,9 @@ RELATED-TO:ufc-335-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-335-fight-brandon-moreno-charles-johnson@ufc-detailed-calendar
-DTSTAMP:20261012T153338Z
-LAST-MODIFIED:20261012T153338Z
+UID:ufc-335-fight-13219@ufc-detailed-calendar
+DTSTAMP:20261014T115830Z
+LAST-MODIFIED:20261014T115830Z
 SEQUENCE:0
 DTSTART:20261212T220000Z
 DTEND:20261212T223000Z

@@ -8855,7 +8855,7 @@
       {
         "redName": "Javier Cabrera",
         "blueName": "Sanjaya Hutagaol",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redProfileUrl": "https://www.onefc.com/athletes/javier-cabrera/",
         "blueProfileUrl": "https://www.onefc.com/athletes/sanjaya-hutagaol/",
         "redCountry": "Spain",
@@ -8884,7 +8884,7 @@
       {
         "redName": "Ashok Bagade",
         "blueName": "Yuto Shioya",
-        "details": "Flyweight MMA",
+        "details": "Flyweight Mixed Martial Arts",
         "redProfileUrl": "https://www.onefc.com/athletes/ashok-bagade/",
         "blueProfileUrl": "https://www.onefc.com/athletes/yuto-shioya/",
         "redCountry": "India",
@@ -8912,7 +8912,7 @@
         "oddsHistory": []
       },
       {
-        "redName": "Prajanchai Pongsuphan PK",
+        "redName": "Prajanchai PongSuphan PK",
         "blueName": "Wang Junguang",
         "details": "Strawweight Kickboxing",
         "redProfileUrl": "https://www.onefc.com/athletes/prajanchai/",
@@ -9016,7 +9016,7 @@
       {
         "redName": "Jonathan Haggerty",
         "blueName": "Hiroki Akimoto",
-        "details": "Bantamweight Kickboxing World Championship",
+        "details": "Bantamweight World Championship",
         "redCountry": "United Kingdom",
         "blueCountry": "Japan",
         "redProfileUrl": "https://www.onefc.com/athletes/jonathan-haggerty/",
@@ -9034,7 +9034,7 @@
       {
         "redName": "Nadaka",
         "blueName": "Rifdean Masdor",
-        "details": "Atomweight Muay Thai World Championship",
+        "details": "Atomweight World Championship",
         "redCountry": "Japan",
         "blueCountry": "Malaysia",
         "redProfileUrl": "https://www.onefc.com/athletes/nadaka-yoshinari/",
@@ -9115,7 +9115,7 @@
         "blueProfileUrl": "https://www.onefc.com/athletes/bogdan-shumarov/",
         "redAge": 30,
         "redRecord": "0-1-0",
-        "blueAge": 29,
+        "blueAge": 30,
         "blueRecord": "3-1-0",
         "redOdds": null,
         "blueOdds": null,
@@ -9124,7 +9124,7 @@
       {
         "redName": "Itsuki Hirata",
         "blueName": "Jihin Radzuan",
-        "details": "Atomweight MMA",
+        "details": "Atomweight Mixed Martial Arts",
         "redCountry": "Japan",
         "blueCountry": "Malaysia",
         "redProfileUrl": "https://www.onefc.com/athletes/itsuki-hirata/",
@@ -9158,14 +9158,19 @@
       {
         "redName": "Shozo Isojima",
         "blueName": "Kota Abe",
-        "details": "Lightweight MMA",
+        "details": "Lightweight Mixed Martial Arts",
         "redProfileUrl": "https://www.onefc.com/athletes/shozo-isojima/",
         "blueProfileUrl": "https://www.onefc.com/athletes/kota-abe/",
         "redCountry": "Japan",
         "blueCountry": null,
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 29,
+        "redRecord": "2-2-0",
+        "redStyle": "Grappler",
+        "blueAge": 28,
+        "blueRecord": "1-0-0"
       },
       {
         "redName": "Toki Tamaru",
@@ -9179,12 +9184,16 @@
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 24,
+        "redRecord": "1-0-0",
+        "blueAge": 20,
+        "blueRecord": "4-1-0"
       },
       {
         "redName": "Yu Takeuchi",
         "blueName": "Ryoto Nishiyama",
-        "details": "Flyweight MMA",
+        "details": "Flyweight Mixed Martial Arts",
         "redProfileUrl": "https://www.onefc.com/athletes/yu-takeuchi/",
         "blueProfileUrl": "https://www.onefc.com/athletes/ryoto-nishiyama/",
         "redCountry": "Japan",
@@ -9206,7 +9215,9 @@
         "blueStyle": "Grappler",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 49,
+        "blueAge": 31
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-samurai-4/"
