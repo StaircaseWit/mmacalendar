@@ -5880,7 +5880,7 @@
     "bouts": [
       {
         "id": "1569",
-        "order": 14,
+        "order": 13,
         "red": {
           "name": "Liz Carmouche",
           "profileUrl": "https://pflmma.com/wt-fighter/liz-carmouche",
@@ -5888,7 +5888,7 @@
           "birthDate": "1984-02-16",
           "record": "26-8-0",
           "style": null,
-          "odds": null
+          "odds": "-330"
         },
         "blue": {
           "name": "Jena Bishop",
@@ -5897,14 +5897,30 @@
           "birthDate": "1986-02-18",
           "record": "11-3-0",
           "style": "Grappler",
-          "odds": null
+          "odds": "+310"
         },
         "details": "125lbs/57kg Women's Flyweight · Championship",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-16T11:29:42.405Z",
+            "eventName": "PFL Chicago 2",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4407",
+            "promotion": "pfl",
+            "eventId": "2026-chicago2",
+            "odds": {
+              "liz carmouche": "-330",
+              "jena bishop": "+310"
+            },
+            "names": {
+              "liz carmouche": "Liz Carmouche",
+              "jena bishop": "Jena Bishop"
+            }
+          }
+        ]
       },
       {
         "id": "1573",
-        "order": 13,
+        "order": 12,
         "red": {
           "name": "Timur Khizriev",
           "profileUrl": "https://pflmma.com/wt-fighter/timur-khizriev",
@@ -5912,7 +5928,7 @@
           "birthDate": "1995-11-16",
           "record": "18-0-0",
           "style": "Grappler",
-          "odds": null
+          "odds": "-400"
         },
         "blue": {
           "name": "Gabriel Braga",
@@ -5921,14 +5937,30 @@
           "birthDate": "1998-04-21",
           "record": "17-3-0",
           "style": "Striker",
-          "odds": null
+          "odds": "+320"
         },
         "details": "145lbs/66kg Featherweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-16T11:29:42.405Z",
+            "eventName": "PFL Chicago 2",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4407",
+            "promotion": "pfl",
+            "eventId": "2026-chicago2",
+            "odds": {
+              "timur khizriev": "-400",
+              "gabriel braga": "+320"
+            },
+            "names": {
+              "timur khizriev": "Timur Khizriev",
+              "gabriel braga": "Gabriel Braga"
+            }
+          }
+        ]
       },
       {
         "id": "1571",
-        "order": 12,
+        "order": 11,
         "red": {
           "name": "Sarvarjon Khamidov",
           "profileUrl": "https://pflmma.com/wt-fighter/sarvarjon-khamidov",
@@ -5952,7 +5984,7 @@
       },
       {
         "id": "1593",
-        "order": 11,
+        "order": 10,
         "red": {
           "name": "Oualy Tandia",
           "profileUrl": "https://pflmma.com/wt-fighter/oualy-tandia",
@@ -5960,7 +5992,7 @@
           "birthDate": "2002-05-12",
           "record": "5-0-0",
           "style": null,
-          "odds": null
+          "odds": "-240"
         },
         "blue": {
           "name": "JP Saint Louis",
@@ -5969,14 +6001,30 @@
           "birthDate": "1992-09-17",
           "record": "12-5-0",
           "style": null,
-          "odds": null
+          "odds": "+205"
         },
         "details": "170lbs/77kg Welterweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-16T11:29:42.405Z",
+            "eventName": "PFL Chicago 2",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4407",
+            "promotion": "pfl",
+            "eventId": "2026-chicago2",
+            "odds": {
+              "oualy tandia": "-240",
+              "jp saint louis": "+205"
+            },
+            "names": {
+              "oualy tandia": "Oualy Tandia",
+              "jp saint louis": "JP Saint Louis"
+            }
+          }
+        ]
       },
       {
         "id": "1590",
-        "order": 10,
+        "order": 9,
         "red": {
           "name": "Eliezer Kubanza",
           "profileUrl": "https://pflmma.com/wt-fighter/eliezer-kubanza",
@@ -5984,7 +6032,7 @@
           "birthDate": "1997-12-21",
           "record": "9-1-0",
           "style": null,
-          "odds": null
+          "odds": "-136"
         },
         "blue": {
           "name": "Trey Waters",
@@ -5993,14 +6041,30 @@
           "birthDate": "1995-02-19",
           "record": "10-2-0",
           "style": null,
-          "odds": null
+          "odds": "+122"
         },
         "details": "170lbs/77kg Welterweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-16T11:29:42.405Z",
+            "eventName": "PFL Chicago 2",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4407",
+            "promotion": "pfl",
+            "eventId": "2026-chicago2",
+            "odds": {
+              "eliezer kubanza": "-136",
+              "trey waters": "+122"
+            },
+            "names": {
+              "eliezer kubanza": "Eliezer Kubanza",
+              "trey waters": "Trey Waters"
+            }
+          }
+        ]
       },
       {
         "id": "1580",
-        "order": 9,
+        "order": 8,
         "red": {
           "name": "Emiliano Sordi",
           "profileUrl": "https://pflmma.com/wt-fighter/emiliano-sordi",
@@ -6008,7 +6072,7 @@
           "birthDate": "1991-02-11",
           "record": "26-14-1",
           "style": null,
-          "odds": null
+          "odds": "+200"
         },
         "blue": {
           "name": "Abraham Bably",
@@ -6017,14 +6081,30 @@
           "birthDate": "1995-12-28",
           "record": "8-3-0",
           "style": null,
-          "odds": null
+          "odds": "-196"
         },
         "details": "205lbs/93kg Light Heavyweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-16T11:29:42.405Z",
+            "eventName": "PFL Chicago 2",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4407",
+            "promotion": "pfl",
+            "eventId": "2026-chicago2",
+            "odds": {
+              "emiliano sordi": "+200",
+              "abraham bably": "-196"
+            },
+            "names": {
+              "emiliano sordi": "Emiliano Sordi",
+              "abraham bably": "Abraham Bably"
+            }
+          }
+        ]
       },
       {
         "id": "1584",
-        "order": 8,
+        "order": 7,
         "red": {
           "name": "Cássio Barão",
           "profileUrl": "https://pflmma.com/wt-fighter/cassio-barao",
@@ -6032,7 +6112,7 @@
           "birthDate": "1995-09-01",
           "record": "10-1-1",
           "style": null,
-          "odds": null
+          "odds": "+235"
         },
         "blue": {
           "name": "Kevin Pease",
@@ -6041,14 +6121,30 @@
           "birthDate": "1997-10-01",
           "record": "8-0-0",
           "style": null,
-          "odds": null
+          "odds": "-275"
         },
         "details": "155lbs/70kg Lightweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-16T11:29:42.405Z",
+            "eventName": "PFL Chicago 2",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4407",
+            "promotion": "pfl",
+            "eventId": "2026-chicago2",
+            "odds": {
+              "cassio barao": "+235",
+              "kevin pease": "-275"
+            },
+            "names": {
+              "cassio barao": "Cássio Barão",
+              "kevin pease": "Kevin Pease"
+            }
+          }
+        ]
       },
       {
         "id": "1581",
-        "order": 7,
+        "order": 6,
         "red": {
           "name": "Shannon Clark",
           "profileUrl": "https://pflmma.com/wt-fighter/shannon-clark",
@@ -6056,7 +6152,7 @@
           "birthDate": "1992-07-05",
           "record": "8-1-0",
           "style": null,
-          "odds": null
+          "odds": "-450"
         },
         "blue": {
           "name": "Lucero Acosta",
@@ -6065,14 +6161,30 @@
           "birthDate": "1994-08-21",
           "record": "6-2-0",
           "style": null,
-          "odds": null
+          "odds": "+400"
         },
         "details": "125lbs/57kg Women's Flyweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-16T11:29:42.405Z",
+            "eventName": "PFL Chicago 2",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4407",
+            "promotion": "pfl",
+            "eventId": "2026-chicago2",
+            "odds": {
+              "shannon clark": "-450",
+              "lucero acosta": "+400"
+            },
+            "names": {
+              "shannon clark": "Shannon Clark",
+              "lucero acosta": "Lucero Acosta"
+            }
+          }
+        ]
       },
       {
         "id": "1592",
-        "order": 6,
+        "order": 5,
         "red": {
           "name": "Gamid Khizriev",
           "profileUrl": "https://pflmma.com/wt-fighter/gamid-khizriev",
@@ -6080,7 +6192,7 @@
           "birthDate": "2000-07-25",
           "record": "5-0-0",
           "style": null,
-          "odds": null
+          "odds": "-2000"
         },
         "blue": {
           "name": "Michael Boylan",
@@ -6089,14 +6201,30 @@
           "birthDate": "2001-03-19",
           "record": "6-1-0",
           "style": null,
-          "odds": null
+          "odds": "+1400"
         },
         "details": "155lbs/70kg Lightweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-16T11:29:42.405Z",
+            "eventName": "PFL Chicago 2",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4407",
+            "promotion": "pfl",
+            "eventId": "2026-chicago2",
+            "odds": {
+              "gamid khizriev": "-2000",
+              "michael boylan": "+1400"
+            },
+            "names": {
+              "gamid khizriev": "Gamid Khizriev",
+              "michael boylan": "Michael Boylan"
+            }
+          }
+        ]
       },
       {
         "id": "1599",
-        "order": 5,
+        "order": 4,
         "red": {
           "name": "Cobey Fehr",
           "profileUrl": "https://pflmma.com/wt-fighter/cobey-fehr",
@@ -6104,7 +6232,7 @@
           "birthDate": "1994-08-23",
           "record": "4-0-0",
           "style": null,
-          "odds": null
+          "odds": "-450"
         },
         "blue": {
           "name": "Rosario Romero",
@@ -6113,14 +6241,30 @@
           "birthDate": "1997-02-04",
           "record": "4-0-0",
           "style": null,
-          "odds": null
+          "odds": "+370"
         },
         "details": "135lbs/61kg Bantamweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-16T11:29:42.405Z",
+            "eventName": "PFL Chicago 2",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4407",
+            "promotion": "pfl",
+            "eventId": "2026-chicago2",
+            "odds": {
+              "cobey fehr": "-450",
+              "rosario romero": "+370"
+            },
+            "names": {
+              "cobey fehr": "Cobey Fehr",
+              "rosario romero": "Rosario Romero"
+            }
+          }
+        ]
       },
       {
         "id": "1604",
-        "order": 4,
+        "order": 3,
         "red": {
           "name": "Levan Khabalaev",
           "profileUrl": "https://pflmma.com/wt-fighter/levan-khabalaev",
@@ -6128,7 +6272,7 @@
           "birthDate": "1999-03-08",
           "record": "5-0-0",
           "style": null,
-          "odds": null
+          "odds": "-800"
         },
         "blue": {
           "name": "Brock Hamer",
@@ -6137,14 +6281,30 @@
           "birthDate": "1997-10-17",
           "record": "5-1-0",
           "style": null,
-          "odds": null
+          "odds": "+700"
         },
         "details": "155lbs/70kg Lightweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-16T11:29:42.405Z",
+            "eventName": "PFL Chicago 2",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4407",
+            "promotion": "pfl",
+            "eventId": "2026-chicago2",
+            "odds": {
+              "levan khabalaev": "-800",
+              "brock hamer": "+700"
+            },
+            "names": {
+              "levan khabalaev": "Levan Khabalaev",
+              "brock hamer": "Brock Hamer"
+            }
+          }
+        ]
       },
       {
         "id": "1588",
-        "order": 3,
+        "order": 2,
         "red": {
           "name": "Paulina Wisniewska",
           "profileUrl": "https://pflmma.com/wt-fighter/paulina-wisniewska",
@@ -6152,7 +6312,7 @@
           "birthDate": "1998-11-25",
           "record": "7-1-0",
           "style": null,
-          "odds": null
+          "odds": "-400"
         },
         "blue": {
           "name": "Chelsea Hackett",
@@ -6161,14 +6321,30 @@
           "birthDate": "1999-10-27",
           "record": "5-3-1",
           "style": "Striker",
-          "odds": null
+          "odds": "+320"
         },
         "details": "125lbs/57kg Women's Flyweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-16T11:29:42.405Z",
+            "eventName": "PFL Chicago 2",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4407",
+            "promotion": "pfl",
+            "eventId": "2026-chicago2",
+            "odds": {
+              "paulina wisniewska": "-400",
+              "chelsea hackett": "+320"
+            },
+            "names": {
+              "paulina wisniewska": "Paulina Wisniewska",
+              "chelsea hackett": "Chelsea Hackett"
+            }
+          }
+        ]
       },
       {
         "id": "1602",
-        "order": 2,
+        "order": 1,
         "red": {
           "name": "Noah Hermosillo",
           "profileUrl": "https://pflmma.com/wt-fighter/noah-hermosillo",
@@ -6176,7 +6352,7 @@
           "birthDate": "1999-03-24",
           "record": "1-0-0",
           "style": null,
-          "odds": null
+          "odds": "-163"
         },
         "blue": {
           "name": "Caden Cox",
@@ -6185,34 +6361,26 @@
           "birthDate": "1999-04-12",
           "record": "2-0-0",
           "style": null,
-          "odds": null
+          "odds": "+143"
         },
         "details": "145lbs/66kg Featherweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1603",
-        "order": 1,
-        "red": {
-          "name": "Benita Van Rooji",
-          "profileUrl": "https://pflmma.com/wt-fighter/benita-vanrooji",
-          "countryCode": "NL",
-          "birthDate": "1999-06-02",
-          "record": "7-2-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Giulliany Perêa",
-          "profileUrl": "https://pflmma.com/wt-fighter/giulliany-perea",
-          "countryCode": null,
-          "birthDate": null,
-          "record": "5-1-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "Women's Strawweight",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-16T11:29:42.405Z",
+            "eventName": "PFL Chicago 2",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-chicago-4407",
+            "promotion": "pfl",
+            "eventId": "2026-chicago2",
+            "odds": {
+              "noah hermosillo": "-163",
+              "caden cox": "+143"
+            },
+            "names": {
+              "noah hermosillo": "Noah Hermosillo",
+              "caden cox": "Caden Cox"
+            }
+          }
+        ]
       }
     ],
     "cancelledBouts": [
@@ -6309,6 +6477,31 @@
           "odds": null
         },
         "details": "155lbs/70kg Lightweight",
+        "oddsHistory": [],
+        "note": "Removed from the official PFL card"
+      },
+      {
+        "id": "1603",
+        "order": 1,
+        "red": {
+          "name": "Benita Van Rooji",
+          "profileUrl": "https://pflmma.com/wt-fighter/benita-vanrooji",
+          "countryCode": "NL",
+          "birthDate": "1999-06-02",
+          "record": "7-2-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Giulliany Perêa",
+          "profileUrl": "https://pflmma.com/wt-fighter/giulliany-perea",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "5-1-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "Women's Strawweight",
         "oddsHistory": [],
         "note": "Removed from the official PFL card"
       }
@@ -6748,7 +6941,7 @@
     "bouts": [
       {
         "id": "1585",
-        "order": 6,
+        "order": 7,
         "red": {
           "name": "Taylor Lapilus",
           "profileUrl": "https://pflmma.com/wt-fighter/taylor-lapilus",
@@ -6772,7 +6965,7 @@
       },
       {
         "id": "1589",
-        "order": 5,
+        "order": 6,
         "red": {
           "name": "Boris Atangana",
           "profileUrl": "https://pflmma.com/wt-fighter/boris-atangana",
@@ -6796,7 +6989,7 @@
       },
       {
         "id": "1600",
-        "order": 4,
+        "order": 5,
         "red": {
           "name": "Abdoul Abdouraguimov",
           "profileUrl": "https://pflmma.com/wt-fighter/abdoul-abdouraguimov",
@@ -6820,7 +7013,7 @@
       },
       {
         "id": "1601",
-        "order": 3,
+        "order": 4,
         "red": {
           "name": "Fabian Edwards",
           "profileUrl": "https://pflmma.com/wt-fighter/fabian-edwards",
@@ -6844,7 +7037,7 @@
       },
       {
         "id": "1607",
-        "order": 2,
+        "order": 3,
         "red": {
           "name": "Baris Adiguzel",
           "profileUrl": "https://pflmma.com/wt-fighter/baris-adiguzel",
@@ -6868,7 +7061,7 @@
       },
       {
         "id": "1619",
-        "order": 1,
+        "order": 2,
         "red": {
           "name": "Brandon Brachet",
           "profileUrl": "https://pflmma.com/wt-fighter/brandon-brachet",
@@ -6888,6 +7081,26 @@
           "odds": null
         },
         "details": "145lbs/66kg Featherweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1622",
+        "order": 1,
+        "red": {
+          "name": "Mathilde Aschenbrenner",
+          "profileUrl": "https://pflmma.com/wt-fighter/mathilde-aschenbrenner",
+          "countryCode": "FR",
+          "birthDate": "1997-02-10",
+          "record": "3-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Miracle Chipito",
+          "profileUrl": "https://pflmma.com/wt-fighter/shelda-chipito",
+          "odds": null
+        },
+        "details": "Women's Strawweight",
         "oddsHistory": []
       }
     ],
