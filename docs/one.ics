@@ -2553,10 +2553,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a9685c74f4a09743472c759@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:6
+LAST-MODIFIED:20261019T132427Z
+SEQUENCE:7
 DTSTART:20261016T113016Z
-DTEND:20261016T163016Z
+DTEND:20261016T163157Z
 SUMMARY:ONE Friday Fights 175 & The Inner Circle 35
 DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
@@ -2642,49 +2642,39 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a3b7d34c90b50e63a5105a9@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:3
-DTSTART:20261017T070039Z
-DTEND:20261017T130039Z
+LAST-MODIFIED:20261019T132427Z
+SEQUENCE:4
+DTSTART:20261017T063000Z
+DTEND:20261017T123000Z
 SUMMARY:ONE Samurai 4
-DESCRIPTION:ONE Championship · Complete Event · 12 bouts\n📍 Ariake Are
+DESCRIPTION:ONE Championship · Complete Event · 10 bouts\n📍 Ariake Are
  na\, Tokyo\nTimes display automatically in your calendar time zone.\n\n---
  -----------------------------\n𝗕𝗢𝗨𝗧𝗦\n---------------------
- -----------\n\n🥊 12. 𝗝𝗼𝗻𝗮𝘁𝗵𝗮𝗻 𝗛𝗮𝗴𝗴
+ -----------\n\n🥊 10. 𝗝𝗼𝗻𝗮𝘁𝗵𝗮𝗻 𝗛𝗮𝗴𝗴
  𝗲𝗿𝘁𝘆 🇬🇧 vs. 𝗛𝗶𝗿𝗼𝗸𝗶 𝗔𝗸𝗶𝗺
  𝗼𝘁𝗼 🇯🇵\n• 145lbs/65.8kg Bantamweight World Championship\n
  • Haggerty: ONE 10-3-0 | 29yo | Striker | -310 (1.32)\n• Akimoto: ONE 
  9-4-0 | 34yo | Striker | +275 (3.75)\n• Odds history:\n  ◦ 16 Oct: Hag
- gerty 🟢 -310 (1.32) | Akimoto 🔴 +275 (3.75)\n\n🥊 11. 𝗡𝗮𝗱
+ gerty 🟢 -310 (1.32) | Akimoto 🔴 +275 (3.75)\n\n🥊 9. 𝗡𝗮𝗱
  𝗮𝗸𝗮 🇯🇵 vs. 𝗥𝗶𝗳𝗱𝗲𝗮𝗻 𝗠𝗮𝘀𝗱
  𝗼𝗿 🇲🇾\n• 115lbs/52.2kg Atomweight World Championship\n• Na
  daka: ONE 6-0-0 | 25yo | Striker\n• Masdor: ONE 7-1-0 | 23yo | Striker\n
- \n🥊 10. 𝗠𝗮𝘀𝗮𝗮𝗸𝗶 𝗡𝗼𝗶𝗿𝗶 🇯🇵 vs. 
+ \n🥊 8. 𝗠𝗮𝘀𝗮𝗮𝗸𝗶 𝗡𝗼𝗶𝗿𝗶 🇯🇵 vs. 
  𝗠𝗼𝗵𝗮𝗺𝗺𝗮𝗱 𝗦𝗶𝗮𝘀𝗮𝗿𝗮𝗻𝗶 🇮
  🇷\n• 155lbs/70.3kg Featherweight Kickboxing\n• Noiri: ONE 3-3-0 | 3
  3yo | Striker | -158 (1.63)\n• Siasarani: ONE 10-2-0 | 24yo | Striker | 
  +130 (2.30)\n• Odds history:\n  ◦ 16 Oct: Noiri 🟢 -158 (1.63) | Sia
- sarani 🔴 +130 (2.30)\n\n🥊 9. 𝗠𝗮𝗿𝗮𝘁 𝗚𝗿𝗶𝗴
- 𝗼𝗿𝗶𝗮𝗻 🇦🇲 vs. 𝗟𝘂𝗼 𝗖𝗵𝗮𝗼 🇨🇳\n
- • 155lbs/70.3kg Featherweight Kickboxing\n• Grigorian: ONE 8-3-0 | 35y
- o | Striker | -549 (1.18)\n• Chao: ONE 6-1-0 | 25yo | Striker | +460 (5.
- 60)\n• Odds history:\n  ◦ 16 Oct: Grigorian 🟢 -549 (1.18) | Chao 
- 🔴 +460 (5.60)\n\n🥊 8. 𝗬𝘂𝗸𝗶 𝗬𝗼𝘇𝗮 🇯🇵 vs.
-  𝗡𝗮𝗯𝗶𝗹 𝗔𝗻𝗮𝗻𝗲 🇩🇿/🇹🇭\n• 145lbs/6
- 5.8kg Bantamweight Kickboxing\n• Yoza: ONE 4-1-0 | 28yo | Striker | +144
-  (2.44)\n• Anane: ONE 8-3-0 | 22yo | Striker | -174 (1.57)\n• Odds his
- tory:\n  ◦ 16 Oct: Yoza 🔴 +144 (2.44) | Anane 🟢 -174 (1.57)\n\n
- 🥊 7. 𝗥𝘂𝗸𝗶𝘆𝗮 𝗔𝗻𝗽𝗼 🇯🇵 vs. 𝗕𝗼
- 𝗴𝗱𝗮𝗻 𝗦𝗵𝘂𝗺𝗮𝗿𝗼𝘃 🇧🇬\n• 170lbs/77.
- 1kg Lightweight Kickboxing\n• Anpo: ONE 0-1-0 | 30yo | Striker | -138 (1
- .72)\n• Shumarov: ONE 3-1-0 | 30yo | Striker | +116 (2.16)\n• Odds his
- tory:\n  ◦ 16 Oct: Anpo 🟢 -138 (1.72) | Shumarov 🔴 +116 (2.16)\n\n
- 🥊 6. 𝗜𝘁𝘀𝘂𝗸𝗶 𝗛𝗶𝗿𝗮𝘁𝗮 🇯🇵 vs. 
- 𝗝𝗶𝗵𝗶𝗻 𝗥𝗮𝗱𝘇𝘂𝗮𝗻 🇲🇾\n• 115lbs/52.
- 2kg Atomweight Mixed Martial Arts\n• Hirata: ONE 7-5-0 | 27yo | Grappler
-  | +134 (2.34)\n• Radzuan: ONE 9-6-0 | 28yo | Striker | -150 (1.67)\n•
-  Odds history:\n  ◦ 16 Oct: Hirata 🔴 +134 (2.34) | Radzuan 🟢 -150 
- (1.67)\n\n🥊 5. 𝗦𝗵𝗶𝗻𝘁𝗮𝗿𝗼 𝗠𝗮𝘁𝘀𝘂
+ sarani 🔴 +130 (2.30)\n\n🥊 7. 𝗬𝘂𝗸𝗶 𝗬𝗼𝘇𝗮 🇯
+ 🇵 vs. 𝗡𝗮𝗯𝗶𝗹 𝗔𝗻𝗮𝗻𝗲 🇩🇿/🇹🇭\n• 
+ 145lbs/65.8kg Bantamweight Kickboxing\n• Yoza: ONE 4-1-0 | 28yo | Strike
+ r | +144 (2.44)\n• Anane: ONE 8-3-0 | 22yo | Striker | -174 (1.57)\n• 
+ Odds history:\n  ◦ 16 Oct: Yoza 🔴 +144 (2.44) | Anane 🟢 -174 (1.57
+ )\n\n🥊 6. 𝗜𝘁𝘀𝘂𝗸𝗶 𝗛𝗶𝗿𝗮𝘁𝗮 🇯🇵 vs
+ . 𝗝𝗶𝗵𝗶𝗻 𝗥𝗮𝗱𝘇𝘂𝗮𝗻 🇲🇾\n• 115lbs/5
+ 2.2kg Atomweight Mixed Martial Arts\n• Hirata: ONE 7-5-0 | 27yo | Grappl
+ er | +134 (2.34)\n• Radzuan: ONE 9-6-0 | 28yo | Striker | -150 (1.67)\n
+ • Odds history:\n  ◦ 16 Oct: Hirata 🔴 +134 (2.34) | Radzuan 🟢 -1
+ 50 (1.67)\n\n🥊 5. 𝗦𝗵𝗶𝗻𝘁𝗮𝗿𝗼 𝗠𝗮𝘁𝘀𝘂
  𝗸𝘂𝗿𝗮 🇯🇵 vs. 𝗦𝗶𝗻𝘀𝗮𝗺𝘂𝘁 𝗞𝗹
  𝗶𝗻𝗺𝗲𝗲 🇹🇭\n• 170lbs/77.1kg Lightweight Kickboxing\n
  • Matsukura: Striker | -163 (1.61)\n• Klinmee: ONE 5-6-0 | 30yo | Stri
@@ -2826,8 +2816,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a968c7d10c90c3a3d15f98f@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:1
+LAST-MODIFIED:20261019T132427Z
+SEQUENCE:2
 DTSTART:20261120T113014Z
 DTEND:20261120T153014Z
 SUMMARY:ONE Friday Fights 179 & The Inner Circle 39
@@ -2836,14 +2826,14 @@ DESCRIPTION:ONE Championship · Complete Event · 2 bouts\n📍 Lumpinee St
  \n--------------------------------\n𝗕𝗢𝗨𝗧𝗦\n----------------
  ----------------\n\n🥊 2. 𝗔𝘀𝗮𝗱𝘂𝗹𝗮 𝗜𝗺𝗮𝗻
  𝗴𝗮𝘇𝗮𝗹𝗶𝗲𝘃 🇷🇺 vs. 𝗔𝘀𝗹𝗮𝗺𝗷𝗼
- 𝗻 𝗢𝗿𝘁𝗶𝗸𝗼𝘃 🇺🇿\n• 135lbs/61.2kg Flyweight Mu
- ay Thai World Championship\n• Imangazaliev: ONE 9-0-0 | 23yo | Striker\n
- • Ortikov: ONE 10-1-0 | 23yo | Striker\n\n🥊 1. 𝗕𝗹𝗮𝗰𝗸 
- 𝗣𝗮𝗻𝘁𝗵𝗲𝗿 🇹🇭 vs. 𝗨𝗯𝗮𝗶𝗱 𝗛𝘂
- 𝘀𝘀𝗮𝗶𝗻 🇵🇰/🇬🇧\n• 135lbs/61.2kg Flyweight Muay T
- hai\n• Panther: ONE 6-1-0 | 26yo | Striker\n• Hussain: ONE 8-0-0 | 20y
- o | Striker\n\n--------------------------------\nSource: https://www.onefc
- .com/events/one-friday-fights-179/
+ 𝗻 𝗢𝗿𝘁𝗶𝗸𝗼𝘃 🇺🇿\n• 135lbs/61.2kg Flyweight Wo
+ rld Championship\n• Imangazaliev: ONE 9-0-0 | 23yo | Striker\n• Ortiko
+ v: ONE 10-1-0 | 23yo | Striker\n\n🥊 1. 𝗕𝗹𝗮𝗰𝗸 𝗣𝗮
+ 𝗻𝘁𝗵𝗲𝗿 🇹🇭 vs. 𝗨𝗯𝗮𝗶𝗱 𝗛𝘂𝘀𝘀
+ 𝗮𝗶𝗻 🇵🇰/🇬🇧\n• 135lbs/61.2kg Flyweight Muay Thai\n•
+  Panther: ONE 6-1-0 | 26yo | Striker\n• Hussain: ONE 8-0-0 | 20yo | Stri
+ ker\n\n--------------------------------\nSource: https://www.onefc.com/eve
+ nts/one-friday-fights-179/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-179
 CATEGORIES:ONE Championship
@@ -2871,8 +2861,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a854312744b2bfc37290f0c@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:1
+LAST-MODIFIED:20261019T132427Z
+SEQUENCE:2
 DTSTART:20261202T083023Z
 DTEND:20261202T143023Z
 SUMMARY:ONE SAMURAI 6
@@ -2881,10 +2871,10 @@ DESCRIPTION:ONE Championship · Complete Event · 1 bout\n📍 Yokohama Bun
  n--------------------------------\n𝗕𝗢𝗨𝗧𝗦\n-----------------
  ---------------\n\n🥊 1. 𝗖𝗵𝗶𝗵𝗶𝗿𝗼 𝗦𝗮𝘄𝗮
  𝗱𝗮 🇯🇵 vs. 𝗔𝗻𝗮𝘀𝘁𝗮𝘀𝗶𝗮 𝗡𝗶𝗸
- 𝗼𝗹𝗮𝗸𝗮𝗸𝗼𝘀 🇨🇦\n• 115lbs/52.2kg Atomweight MM
- A World Championship\n• Sawada: ONE 7-1-0 | 28yo | Grappler\n• Nikolak
- akos: ONE 2-0-0 | 36yo\n\n--------------------------------\nSource: https:
- //www.onefc.com/events/one-samurai-6/
+ 𝗼𝗹𝗮𝗸𝗮𝗸𝗼𝘀 🇨🇦\n• 115lbs/52.2kg Atomweight Wo
+ rld Championship\n• Sawada: ONE 7-1-0 | 28yo | Grappler\n• Nikolakakos
+ : ONE 2-0-0 | 36yo\n\n--------------------------------\nSource: https://ww
+ w.onefc.com/events/one-samurai-6/
 LOCATION:Yokohama Buntai\, Yokohama
 URL:https://watch.onefc.com/events/one-samurai-6
 CATEGORIES:ONE Championship

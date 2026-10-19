@@ -8755,7 +8755,7 @@
   {
     "uid": "6a9685c74f4a09743472c759",
     "start": "20261016T113016Z",
-    "end": "20261016T163016Z",
+    "end": "20261016T163157Z",
     "summary": "ONE Friday Fights 175 & The Inner Circle 35",
     "location": "Lumpinee Stadium, Bangkok",
     "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-175\n\nLamsing T1 Fight Academy vs. Abdessamie Rhenimi | Muay Thai | Flyweight\n\nMahesuan Aekmuangnon vs. Bakjo Sitkhunma | Muay Thai | Atomweight\n\nKampeetewada  Sitthikul vs. Anuar Cisneros | Muay Thai | Bantamweight\n\nSlatan Jitmuangnon vs. Babak Haghi | Muay Thai | Flyweight\n\nTepatip Champkhaomootod vs. Chokpreecha PK TomTKalaiyont  | Muay Thai | Strawweight\n\nJavier Cabrera vs. Sanjaya Hutagaol | Mixed Martial Arts | Strawweight\n\nHatthep Sor Sasiwat vs. Pichai Mor Rajabhatkorat | Muay Thai | Strawweight\n\nAshok Bagade vs. Yuto Shioya | Mixed Martial Arts | Flyweight\n\nYang Guiyao vs. Shosuke Iwanaga | Kickboxing | Strawweight\n\nPrajanchai Pongsuphan PK vs. Wang Junguang | Kickboxing | Strawweight\n\nJohan Ghazali vs. Diego Paez | Muay Thai | Flyweight\n\nJaradchai Maxjandee vs. Ayoub Yassine | Muay Thai | Flyweight\n\nOlivia Bahsous vs. Malia Weaver | Muay Thai | Atomweight\n\nFace Erawan vs. Valerii Strungari | Muay Thai | Strawweight\n\nDownload the ONE Super App Now!",
@@ -9181,11 +9181,11 @@
   },
   {
     "uid": "6a3b7d34c90b50e63a5105a9",
-    "start": "20261017T070039Z",
-    "end": "20261017T130039Z",
+    "start": "20261017T063000Z",
+    "end": "20261017T123000Z",
     "summary": "ONE Samurai 4",
     "location": "Ariake Arena, Tokyo",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-samurai-4\n\nJonathan Haggerty vs. Hiroki Akimoto | Bantamweight World Championship\n\nNadaka vs. Rifdean Masdor | Atomweight World Championship\n\nMasaaki Noiri vs. Mohammad Siasarani | Kickboxing | Featherweight\n\nMarat Grigorian vs. Luo Chao | Kickboxing | Featherweight\n\nYuki Yoza vs. Nabil Anane | Kickboxing | Bantamweight\n\nRukiya Anpo vs. Bogdan Shumarov | Kickboxing | Lightweight\n\nItsuki Hirata vs. Jihin Radzuan | Mixed Martial Arts | Atomweight\n\nShintaro Matsukura vs. Sinsamut Klinmee | Kickboxing | Lightweight\n\nShozo Isojima vs. Kota Abe | Mixed Martial Arts | Lightweight\n\nToki Tamaru vs. Shoma Okumura | Kickboxing | Strawweight\n\nYu Takeuchi vs. Ryoto Nishiyama | Mixed Martial Arts | Flyweight\n\nYoshinari Fukushima vs. Masaki Takeura | Submission Grappling | Lightweight\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-samurai-4\n\nJonathan Haggerty vs. Hiroki Akimoto | Bantamweight World Championship\n\nNadaka vs. Rifdean Masdor | Atomweight World Championship\n\nMasaaki Noiri vs. Mohammad Siasarani | Kickboxing | Featherweight\n\nYuki Yoza vs. Nabil Anane | Kickboxing | Bantamweight\n\nItsuki Hirata vs. Jihin Radzuan | Mixed Martial Arts | Atomweight\n\nShintaro Matsukura vs. Sinsamut Klinmee | Kickboxing | Lightweight\n\nShozo Isojima vs. Kota Abe | Mixed Martial Arts | Lightweight\n\nToki Tamaru vs. Shoma Okumura | Kickboxing | Strawweight\n\nYu Takeuchi vs. Ryoto Nishiyama | Mixed Martial Arts | Flyweight\n\nYoshinari Fukushima vs. Masaki Takeura | Submission Grappling | Lightweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/one-samurai-4",
     "status": "CONFIRMED",
     "bouts": [
@@ -9276,40 +9276,6 @@
         ]
       },
       {
-        "redName": "Marat Grigorian",
-        "blueName": "Luo Chao",
-        "details": "Featherweight Kickboxing",
-        "redCountry": "Armenia",
-        "blueCountry": "China",
-        "redStyle": "Striker",
-        "blueStyle": "Striker",
-        "redProfileUrl": "https://www.onefc.com/athletes/marat-grigorian/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/luo-chao/",
-        "redAge": 35,
-        "redRecord": "8-3-0",
-        "blueAge": 25,
-        "blueRecord": "6-1-0",
-        "redOdds": "-549",
-        "blueOdds": "+460",
-        "oddsHistory": [
-          {
-            "checkedAt": "2026-10-16T11:29:42.405Z",
-            "eventName": "ONE Samurai 4",
-            "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-4-4411",
-            "promotion": "one",
-            "eventId": "6a3b7d34c90b50e63a5105a9",
-            "odds": {
-              "marat grigorian": "-549",
-              "luo chao": "+460"
-            },
-            "names": {
-              "marat grigorian": "Marat Grigorian",
-              "luo chao": "Luo Chao"
-            }
-          }
-        ]
-      },
-      {
         "redName": "Yuki Yoza",
         "blueName": "Nabil Anane",
         "details": "Bantamweight Kickboxing",
@@ -9339,40 +9305,6 @@
             "names": {
               "yuki yoza": "Yuki Yoza",
               "nabil anane": "Nabil Anane"
-            }
-          }
-        ]
-      },
-      {
-        "redName": "Rukiya Anpo",
-        "blueName": "Bogdan Shumarov",
-        "details": "Lightweight Kickboxing",
-        "redCountry": "Japan",
-        "blueCountry": "Bulgaria",
-        "redStyle": "Striker",
-        "blueStyle": "Striker",
-        "redProfileUrl": "https://www.onefc.com/athletes/rukiya-anpo/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/bogdan-shumarov/",
-        "redAge": 30,
-        "redRecord": "0-1-0",
-        "blueAge": 30,
-        "blueRecord": "3-1-0",
-        "redOdds": "-138",
-        "blueOdds": "+116",
-        "oddsHistory": [
-          {
-            "checkedAt": "2026-10-16T11:29:42.405Z",
-            "eventName": "ONE Samurai 4",
-            "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-4-4411",
-            "promotion": "one",
-            "eventId": "6a3b7d34c90b50e63a5105a9",
-            "odds": {
-              "rukiya anpo": "-138",
-              "bogdan shumarov": "+116"
-            },
-            "names": {
-              "rukiya anpo": "Rukiya Anpo",
-              "bogdan shumarov": "Bogdan Shumarov"
             }
           }
         ]
@@ -9719,7 +9651,7 @@
       {
         "redName": "Asadula Imangazaliev",
         "blueName": "Aslamjon Ortikov",
-        "details": "Flyweight Muay Thai World Championship",
+        "details": "Flyweight World Championship",
         "redProfileUrl": "https://www.onefc.com/athletes/asadula-imangazaliev/",
         "blueProfileUrl": "https://www.onefc.com/athletes/aslamjon-ortikov/",
         "redCountry": "Russia",
@@ -9779,7 +9711,7 @@
       {
         "redName": "Chihiro Sawada",
         "blueName": "Anastasia Nikolakakos",
-        "details": "Atomweight MMA World Championship",
+        "details": "Atomweight World Championship",
         "redProfileUrl": "https://www.onefc.com/athletes/chihiro-sawada/",
         "blueProfileUrl": "https://www.onefc.com/athletes/anastasia-nikolakakos/",
         "redCountry": "Japan",

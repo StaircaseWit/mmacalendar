@@ -476,9 +476,9 @@
       "name": "David Samuel",
       "countryCode": "RU",
       "birthDate": null,
-      "record": "6-0-0",
+      "record": "7-0-0",
       "style": null,
-      "checkedAt": "2026-09-13T10:10:12.597Z"
+      "checkedAt": "2026-10-19T13:24:27.664Z"
     },
     "https://pflmma.com/africa-fighter/abdulrazac-sankara": {
       "name": "Abdul Razac Sankara",
@@ -1278,7 +1278,7 @@
       "birthDate": "1998-05-17",
       "record": "11-1-0",
       "style": null,
-      "checkedAt": "2026-09-13T10:10:12.597Z"
+      "checkedAt": "2026-10-19T13:24:27.664Z"
     },
     "https://pflmma.com/mena-fighter/hamza-kooheji": {
       "name": "Hamza Kooheji",
@@ -1315,10 +1315,10 @@
     "https://pflmma.com/mena-fighter/assem-ghanem": {
       "name": "Assem Ghanem",
       "countryCode": "EG",
-      "birthDate": "2001-04-16",
-      "record": "7-0-0",
+      "birthDate": "2001-04-15",
+      "record": "7-1-0",
       "style": null,
-      "checkedAt": "2026-09-13T10:10:12.597Z"
+      "checkedAt": "2026-10-19T13:24:27.664Z"
     },
     "https://pflmma.com/mena-fighter/mohammad-fahmi": {
       "name": "Mohammad Fahmi",
@@ -1435,10 +1435,10 @@
     "https://pflmma.com/africa-fighter/patrick-ocheme": {
       "name": "Patrick Ocheme",
       "countryCode": "NG",
-      "birthDate": "1994-11-27",
-      "record": "9-1-0",
+      "birthDate": "1994-11-26",
+      "record": "10-1-0",
       "style": null,
-      "checkedAt": "2026-09-13T10:10:12.597Z"
+      "checkedAt": "2026-10-19T13:24:27.664Z"
     },
     "https://pflmma.com/africa-fighter/octave-ayinda": {
       "name": "Octave Ayinda",
@@ -1506,11 +1506,11 @@
     },
     "https://pflmma.com/africa-fighter/raphael-uchegbu": {
       "name": "Raphael Uchegbu",
-      "countryCode": "GB",
+      "countryCode": null,
       "birthDate": null,
-      "record": "7-1-0",
+      "record": "11-2-0",
       "style": null,
-      "checkedAt": "2026-09-13T10:10:12.597Z"
+      "checkedAt": "2026-10-19T13:24:27.664Z"
     },
     "https://pflmma.com/africa-fighter/abderrahman-errachidy": {
       "name": "Abderrahman Errachidy",
@@ -1539,10 +1539,10 @@
     "https://pflmma.com/africa-fighter/demba-seck": {
       "name": "Demba Seck",
       "countryCode": null,
-      "birthDate": "1994-07-19",
+      "birthDate": "1994-07-17",
       "record": "11-3-0",
       "style": null,
-      "checkedAt": "2026-09-13T10:10:12.597Z"
+      "checkedAt": "2026-10-19T13:24:27.664Z"
     },
     "https://pflmma.com/africa-fighter/jean-dosantos": {
       "name": "Jean Do Santos",
@@ -1555,10 +1555,10 @@
     "https://pflmma.com/africa-fighter/dwight-joseph": {
       "name": "Dwight Joseph",
       "countryCode": "LR",
-      "birthDate": "1989-08-15",
-      "record": "16-3-1",
+      "birthDate": "1989-08-14",
+      "record": "17-3-0",
       "style": null,
-      "checkedAt": "2026-09-13T10:10:12.597Z"
+      "checkedAt": "2026-10-19T13:24:27.664Z"
     },
     "https://pflmma.com/africa-fighter/dauda-rajabu": {
       "name": "Dauda Rajabu",
@@ -2378,11 +2378,11 @@
     },
     "https://pflmma.com/mena-fighter/mehdi-saadi-2": {
       "name": "Mehdi Saadi",
-      "countryCode": "FR",
-      "birthDate": "1993-03-07",
-      "record": "6-2-0",
+      "countryCode": "TN",
+      "birthDate": "1993-03-06",
+      "record": "8-2-0",
       "style": null,
-      "checkedAt": "2026-09-13T10:13:24.156Z"
+      "checkedAt": "2026-10-19T13:24:27.664Z"
     },
     "https://pflmma.com/mena-fighter/omar-hussein-2": {
       "name": "Omar Hussein",
@@ -2427,10 +2427,10 @@
     "https://pflmma.com/wt-fighter/abubakar-nurmagomedov": {
       "name": "Abubakar Nurmagomedov",
       "countryCode": null,
-      "birthDate": "1989-11-12",
-      "record": "16-2-0",
+      "birthDate": "1989-11-11",
+      "record": "17-4-1",
       "style": null,
-      "checkedAt": "2026-09-16T11:41:28.093Z"
+      "checkedAt": "2026-10-19T13:24:27.664Z"
     },
     "https://pflmma.com/wt-fighter/oualy-tandia": {
       "name": "Oualy Tandia",
@@ -2687,6 +2687,30 @@
       "record": "3-0-0",
       "style": null,
       "checkedAt": "2026-10-16T11:29:42.405Z"
+    },
+    "https://pflmma.com/mena-fighter/mostafa-neda": {
+      "name": "Mostafa Neda",
+      "countryCode": null,
+      "birthDate": null,
+      "record": "10-4-0",
+      "style": null,
+      "checkedAt": "2026-10-19T13:24:27.664Z"
+    },
+    "https://pflmma.com/mena-fighter/osama-elsaidy": {
+      "name": "Osama Elsaidy",
+      "countryCode": "EG",
+      "birthDate": null,
+      "record": "9-4-0",
+      "style": null,
+      "checkedAt": "2026-10-19T13:24:27.664Z"
+    },
+    "https://pflmma.com/mena-fighter/ylies-djiroun": {
+      "name": "Ylies Djiroun",
+      "countryCode": null,
+      "birthDate": null,
+      "record": "26-9-0",
+      "style": null,
+      "checkedAt": "2026-10-19T13:24:27.664Z"
     }
   }
 }

@@ -11,305 +11,20 @@ X-APPLE-CALENDAR-COLOR:#D8070C
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:ufc-fight-night-october-17-2026-fight-13049@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:5
-DTSTART:20261017T233500Z
-DTEND:20261018T000500Z
-SUMMARY:🥊 7. Tanner Boser vs. Jhonata Diniz (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 265lbs/120kg Heavyweight\n• Boser: 22
- -11-1 | 35yo | Karate | +200 (3.00)\n• Diniz: 9-2-0 | 35yo | Kickboxer |
-  -229 (1.44)\n• Odds history:\n  ◦ 12 Oct: Boser 🔴 +200 (3.00) | Di
- niz 🟢 -240 (1.42)\n  ◦ 16 Oct: Boser 🔴 +200 (3.00) | Diniz 🟢 -2
- 29 (1.44)\nEvent: UFC Fight Night: Buckley vs Malott\nSource: https://www.
- ufc.com/event/ufc-fight-night-october-17-2026\nMain calendar: https://stai
- rcasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Rogers Place\, Edmonton\, Canada
-URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-october-17-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-17-2026-fight-13216@ufc-detailed-calendar
-DTSTAMP:20261009T132233Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:2
-DTSTART:20261017T231000Z
-DTEND:20261017T234000Z
-SUMMARY:🥊 6. Julien Leblanc vs. Nick Galanti (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Leblanc: 
- 10-3-0 | 34yo | +600 (7.00)\n• Galanti: 8-1-0 | 28yo | MMA | -649 (1.15)
- \n• Odds history:\n  ◦ 12 Oct: Leblanc 🔴 +430 (5.30) | Galanti 🟢
-  -566 (1.18)\n  ◦ 16 Oct: Leblanc 🔴 +600 (7.00) | Galanti 🟢 -649 (
- 1.15)\nEvent: UFC Fight Night: Buckley vs Malott\nSource: https://www.ufc.
- com/event/ufc-fight-night-october-17-2026\nMain calendar: https://staircas
- ewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Rogers Place\, Edmonton\, Canada
-URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-october-17-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-17-2026-fight-13217@ufc-detailed-calendar
-DTSTAMP:20261009T132233Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:2
-DTSTART:20261017T224500Z
-DTEND:20261017T231500Z
-SUMMARY:🥊 5. Javad Mahjoub vs. Joel Faglier (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 265lbs/120kg Heavyweight\n• Mahjoub: 
- 0-0-0 | 35yo | +116 (2.16)\n• Faglier: 6-0-0 | 25yo | Karate | -125 (1.8
- 0)\n• Odds history:\n  ◦ 12 Oct: Mahjoub 🟢 -117 (1.85) | Faglier 
- 🔴 +102 (2.02)\n  ◦ 16 Oct: Mahjoub 🔴 +116 (2.16) | Faglier 🟢 -1
- 25 (1.80)\nEvent: UFC Fight Night: Buckley vs Malott\nSource: https://www.
- ufc.com/event/ufc-fight-night-october-17-2026\nMain calendar: https://stai
- rcasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Rogers Place\, Edmonton\, Canada
-URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-october-17-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-17-2026-fight-13218@ufc-detailed-calendar
-DTSTAMP:20261009T132233Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:2
-DTSTART:20261017T221500Z
-DTEND:20261017T224500Z
-SUMMARY:🥊 4. Katlyn Cerminara vs. Mackenzie Stiller (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 125lbs/57kg Women's Flyweight\n• Cerm
- inara: 18-6-0 | 37yo | MMA | -264 (1.38)\n• Stiller: 0-0-0 | 27yo | +228
-  (3.28)\n• Odds history:\n  ◦ 12 Oct: Cerminara 🟢 -270 (1.37) | Sti
- ller 🔴 +230 (3.30)\n  ◦ 16 Oct: Cerminara 🟢 -264 (1.38) | Stiller 
- 🔴 +228 (3.28)\nEvent: UFC Fight Night: Buckley vs Malott\nSource: https
- ://www.ufc.com/event/ufc-fight-night-october-17-2026\nMain calendar: https
- ://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Rogers Place\, Edmonton\, Canada
-URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-october-17-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-17-2026-fight-13095@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:5
-DTSTART:20261017T215000Z
-DTEND:20261017T222000Z
-SUMMARY:🥊 3. Chad Anheliger vs. Steven Koslow (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Anheliger
- : 13-8-0 | 39yo | Freestyle | +145 (2.45)\n• Koslow: 6-1-0 | 29yo | -162
-  (1.62)\n• Odds history:\n  ◦ 12 Oct: Anheliger 🟢 -112 (1.89) | Kos
- low 🔴 +100 (2.00)\n  ◦ 16 Oct: Anheliger 🔴 +145 (2.45) | Koslow 
- 🟢 -162 (1.62)\nEvent: UFC Fight Night: Buckley vs Malott\nSource: https
- ://www.ufc.com/event/ufc-fight-night-october-17-2026\nMain calendar: https
- ://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Rogers Place\, Edmonton\, Canada
-URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-october-17-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-17-2026-fight-13050@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:5
-DTSTART:20261017T212500Z
-DTEND:20261017T215500Z
-SUMMARY:🥊 2. Melissa Croden vs. Chelsea Chandler (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 135lbs/61kg Women's Bantamweight\n• C
- roden: 8-3-0 | 35yo | MMA | -310 (1.32)\n• Chandler: 7-4-0 | 35yo | MMA 
- | +265 (3.65)\n• Odds history:\n  ◦ 12 Oct: Croden 🟢 -250 (1.40) | 
- Chandler 🔴 +220 (3.20)\n  ◦ 16 Oct: Croden 🟢 -310 (1.32) | Chandle
- r 🔴 +265 (3.65)\nEvent: UFC Fight Night: Buckley vs Malott\nSource: htt
- ps://www.ufc.com/event/ufc-fight-night-october-17-2026\nMain calendar: htt
- ps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Rogers Place\, Edmonton\, Canada
-URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-october-17-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-17-2026-fight-13132@ufc-detailed-calendar
-DTSTAMP:20260921T125410Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:3
-DTSTART:20261017T210000Z
-DTEND:20261017T213000Z
-SUMMARY:🥊 1. Cody Chovancek vs. SuYoung You (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Chovancek
- : 1-0-0 | 28yo | -125 (1.80)\n• You: 16-4-0 | 30yo | MMA | +118 (2.18)\n
- • Odds history:\n  ◦ 12 Oct: Chovancek 🟢 -150 (1.67) | You 🔴 +13
- 0 (2.30)\n  ◦ 16 Oct: Chovancek 🟢 -125 (1.80) | You 🔴 +118 (2.18)\
- nEvent: UFC Fight Night: Buckley vs Malott\nSource: https://www.ufc.com/ev
- ent/ufc-fight-night-october-17-2026\nMain calendar: https://staircasewit.g
- ithub.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Rogers Place\, Edmonton\, Canada
-URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-october-17-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-17-2026-fight-13002@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:6
-DTSTART:20261018T023000Z
-DTEND:20261018T030000Z
-SUMMARY:🥊 6. Joaquin Buckley vs. Mike Malott (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Buckley
- : 21-8-0 | 32yo | Freestyle | +114 (2.14)\n• Malott: 14-2-1 | 34yo | MMA
-  | -125 (1.80)\n• Odds history:\n  ◦ 12 Oct: Buckley 🔴 +108 (2.08) 
- | Malott 🟢 -120 (1.83)\n  ◦ 16 Oct: Buckley 🔴 +114 (2.14) | Malott
-  🟢 -125 (1.80)\nEvent: UFC Fight Night: Buckley vs Malott\nSource: http
- s://www.ufc.com/event/ufc-fight-night-october-17-2026\nMain calendar: http
- s://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Rogers Place\, Edmonton\, Canada
-URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-fight-night-october-17-2026-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-17-2026-fight-13046@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:6
-DTSTART:20261018T020000Z
-DTEND:20261018T023000Z
-SUMMARY:🥊 5. Erin Blanchfield vs. Jasmine Jasudavicius (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 125lbs/57kg Women's Flyweight\n• Bl
- anchfield: 14-2-0 | 27yo | Jiu-Jitsu | -333 (1.30)\n• Jasudavicius: 15-4
- -0 | 37yo | Brawler | +279 (3.79)\n• Odds history:\n  ◦ 12 Oct: Blanch
- field 🟢 -295 (1.34) | Jasudavicius 🔴 +250 (3.50)\n  ◦ 16 Oct: Blan
- chfield 🟢 -333 (1.30) | Jasudavicius 🔴 +279 (3.79)\nEvent: UFC Fight
-  Night: Buckley vs Malott\nSource: https://www.ufc.com/event/ufc-fight-nig
- ht-october-17-2026\nMain calendar: https://staircasewit.github.io/mmacalen
- dar/ufc.ics\nEvent status: Scheduled
-LOCATION:Rogers Place\, Edmonton\, Canada
-URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-fight-night-october-17-2026-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-17-2026-fight-13158@ufc-detailed-calendar
-DTSTAMP:20260925T115505Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:3
-DTSTART:20261018T013000Z
-DTEND:20261018T020000Z
-SUMMARY:🥊 4. Kyle Nelson vs. Cristian Perez (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Nelson: 
- 17-7-1 | 35yo | Jiu-Jitsu | +290 (3.90)\n• Perez: 1-1-0 | 27yo | -341 (1
- .29)\n• Odds history:\n  ◦ 16 Oct: Nelson 🔴 +290 (3.90) | Perez 
- 🟢 -341 (1.29)\nEvent: UFC Fight Night: Buckley vs Malott\nSource: https
- ://www.ufc.com/event/ufc-fight-night-october-17-2026\nMain calendar: https
- ://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Rogers Place\, Edmonton\, Canada
-URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-fight-night-october-17-2026-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-17-2026-fight-13047@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:6
-DTSTART:20261018T010000Z
-DTEND:20261018T013000Z
-SUMMARY:🥊 3. Marc-Andre Barriault vs. Kyle Daukaus (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Barriau
- lt: 17-11-0 | 36yo | Striker | +165 (2.65)\n• Daukaus: 17-4-0 | 33yo | -
- 185 (1.54)\n• Odds history:\n  ◦ 12 Oct: Barriault 🔴 +190 (2.90) | 
- Daukaus 🟢 -219 (1.46)\n  ◦ 16 Oct: Barriault 🔴 +165 (2.65) | Dauka
- us 🟢 -185 (1.54)\nEvent: UFC Fight Night: Buckley vs Malott\nSource: ht
- tps://www.ufc.com/event/ufc-fight-night-october-17-2026\nMain calendar: ht
- tps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Rogers Place\, Edmonton\, Canada
-URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-fight-night-october-17-2026-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-17-2026-fight-13051@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:6
-DTSTART:20261018T003000Z
-DTEND:20261018T010000Z
-SUMMARY:🥊 2. Louis Jourdain vs. Timmy Cuamba (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Jourdai
- n: 1-0-0 | 29yo | -175 (1.57)\n• Cuamba: 10-4-0 | 27yo | Striker | +152 
- (2.52)\n• Odds history:\n  ◦ 12 Oct: Jourdain 🟢 -189 (1.53) | Cuamb
- a 🔴 +170 (2.70)\n  ◦ 16 Oct: Jourdain 🟢 -175 (1.57) | Cuamba 🔴 
- +152 (2.52)\nEvent: UFC Fight Night: Buckley vs Malott\nSource: https://ww
- w.ufc.com/event/ufc-fight-night-october-17-2026\nMain calendar: https://st
- aircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Rogers Place\, Edmonton\, Canada
-URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-fight-night-october-17-2026-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-17-2026-fight-13016@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:5
-DTSTART:20261018T000000Z
-DTEND:20261018T003000Z
-SUMMARY:🥊 1. Mandel Nallo vs. Nate Landwehr (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Nallo: 1
- 4-4-0 | 37yo | Kickboxer | -275 (1.36)\n• Landwehr: 18-8-0 | 38yo | +235
-  (3.35)\n• Odds history:\n  ◦ 12 Oct: Nallo 🟢 -264 (1.38) | Landweh
- r 🔴 +230 (3.30)\n  ◦ 16 Oct: Nallo 🟢 -275 (1.36) | Landwehr 🔴 +
- 235 (3.35)\nEvent: UFC Fight Night: Buckley vs Malott\nSource: https://www
- .ufc.com/event/ufc-fight-night-october-17-2026\nMain calendar: https://sta
- ircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Rogers Place\, Edmonton\, Canada
-URL:https://www.ufc.com/event/ufc-fight-night-october-17-2026
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-fight-night-october-17-2026-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:ufc-333-fight-13221@ufc-detailed-calendar
 DTSTAMP:20261016T112942Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:0
+LAST-MODIFIED:20261019T132427Z
+SEQUENCE:1
 DTSTART:20261024T150000Z
 DTEND:20261024T153000Z
 SUMMARY:🥊 2. Colby Thicknesse vs. Asaf Chopurov (estimated)
 DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Thi
- cknesse: 9-1-0 | 27yo | Freestyle\n• Chopurov: 0-0-0 | 24yo\n• Odds hi
- story: not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\nSource: htt
- ps://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github
- .io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ cknesse: 9-1-0 | 27yo | Freestyle | +400 (5.00)\n• Chopurov: 0-0-0 | 24y
+ o | -456 (1.22)\n• Odds history:\n  ◦ 19 Oct: Thicknesse 🔴 +400 (5.
+ 00) | Chopurov 🟢 -456 (1.22)\nEvent: UFC 333: Volkanovski vs Evloev\nSo
+ urce: https://www.ufc.com/event/ufc-333\nMain calendar: https://staircasew
+ it.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -319,17 +34,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13220@ufc-detailed-calendar
 DTSTAMP:20261016T112942Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:0
+LAST-MODIFIED:20261019T132427Z
+SEQUENCE:1
 DTSTART:20261024T140000Z
 DTEND:20261024T143000Z
 SUMMARY:🥊 1. Abubakar Vagaev vs. Jacob Malkoun (estimated)
 DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Vag
- aev: 25-4-0 | 33yo\n• Malkoun: 10-3-0 | 31yo | MMA\n• Odds history: no
- t checked yet\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://www.
- ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.io/mmaca
- lendar/ufc.ics\nEvent status: Scheduled
+ aev: 25-4-0 | 33yo | -170 (1.59)\n• Malkoun: 10-3-0 | 31yo | MMA | +163 
+ (2.63)\n• Odds history:\n  ◦ 19 Oct: Vagaev 🟢 -170 (1.59) | Malkoun
+  🔴 +163 (2.63)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://
+ www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.io/m
+ macalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -339,18 +55,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13065@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:4
+LAST-MODIFIED:20261019T132427Z
+SEQUENCE:5
 DTSTART:20261024T173000Z
 DTEND:20261024T180000Z
 SUMMARY:🥊 4. Azamat Murzakanov vs. Dominick Reyes (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• Murz
- akanov: 16-1-0 | 37yo | MMA | -219 (1.46)\n• Reyes: 16-5-0 | 36yo | Kick
- boxer | +175 (2.75)\n• Odds history:\n  ◦ 16 Oct: Murzakanov 🟢 -219
-  (1.46) | Reyes 🔴 +175 (2.75)\nEvent: UFC 333: Volkanovski vs Evloev\nS
- ource: https://www.ufc.com/event/ufc-333\nMain calendar: https://staircase
- wit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ akanov: 16-1-0 | 37yo | MMA | -186 (1.54)\n• Reyes: 16-5-0 | 36yo | Kick
+ boxer | +190 (2.90)\n• Odds history:\n  ◦ 16 Oct: Murzakanov 🟢 -219
+  (1.46) | Reyes 🔴 +175 (2.75)\n  ◦ 19 Oct: Murzakanov 🟢 -186 (1.54
+ ) | Reyes 🔴 +190 (2.90)\nEvent: UFC 333: Volkanovski vs Evloev\nSource:
+  https://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.gi
+ thub.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -360,18 +77,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13081@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:4
+LAST-MODIFIED:20261019T132427Z
+SEQUENCE:5
 DTSTART:20261024T170000Z
 DTEND:20261024T173000Z
 SUMMARY:🥊 3. Nikita Krylov vs. Abdul Rakhman Yakhyaev (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• Kryl
- ov: 31-12-0 | 34yo | Karate | +350 (4.50)\n• Yakhyaev: 10-0-0 | 25yo | M
+ ov: 31-12-0 | 34yo | Karate | +400 (5.00)\n• Yakhyaev: 10-0-0 | 25yo | M
  MA | -431 (1.23)\n• Odds history:\n  ◦ 16 Oct: Krylov 🔴 +350 (4.50)
-  | Yakhyaev 🟢 -431 (1.23)\nEvent: UFC 333: Volkanovski vs Evloev\nSourc
- e: https://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.
- github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+  | Yakhyaev 🟢 -431 (1.23)\n  ◦ 19 Oct: Krylov 🔴 +400 (5.00) | Yakh
+ yaev 🟢 -431 (1.23)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: http
+ s://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.
+ io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -381,18 +99,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13082@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:5
+LAST-MODIFIED:20261019T132427Z
+SEQUENCE:6
 DTSTART:20261024T163000Z
 DTEND:20261024T170000Z
 SUMMARY:🥊 2. Abus Magomedov vs. Cam Rowston (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Magomedov
  : 29-7-1 | 36yo | MMA | -105 (1.95)\n• Rowston: record unavailable | age
-  unavailable | -112 (1.89)\n• Odds history:\n  ◦ 16 Oct: Magomedov 
- 🔴 -105 (1.95) | Rowston 🟢 -112 (1.89)\nEvent: UFC 333: Volkanovski v
- s Evloev\nSource: https://www.ufc.com/event/ufc-333\nMain calendar: https:
- //staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+  unavailable | +110 (2.10)\n• Odds history:\n  ◦ 16 Oct: Magomedov 
+ 🔴 -105 (1.95) | Rowston 🟢 -112 (1.89)\n  ◦ 19 Oct: Magomedov 🟢 
+ -105 (1.95) | Rowston 🔴 +110 (2.10)\nEvent: UFC 333: Volkanovski vs Evl
+ oev\nSource: https://www.ufc.com/event/ufc-333\nMain calendar: https://sta
+ ircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -402,18 +121,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13067@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:4
+LAST-MODIFIED:20261019T132427Z
+SEQUENCE:5
 DTSTART:20261024T160000Z
 DTEND:20261024T163000Z
 SUMMARY:🥊 1. Grant Dawson vs. Nurullo Aliev (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Dawson: 24
- -3-1 | 32yo | -117 (1.85)\n• Aliev: 12-0-0 | 25yo | Wrestling | +100 (2.
- 00)\n• Odds history:\n  ◦ 16 Oct: Dawson 🟢 -117 (1.85) | Aliev 🔴
-  +100 (2.00)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://www.u
- fc.com/event/ufc-333\nMain calendar: https://staircasewit.github.io/mmacal
- endar/ufc.ics\nEvent status: Scheduled
+ -3-1 | 32yo | -120 (1.83)\n• Aliev: 12-0-0 | 25yo | Wrestling | +117 (2.
+ 17)\n• Odds history:\n  ◦ 16 Oct: Dawson 🟢 -117 (1.85) | Aliev 🔴
+  +100 (2.00)\n  ◦ 19 Oct: Dawson 🟢 -120 (1.83) | Aliev 🔴 +117 (2.1
+ 7)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc.com/eve
+ nt/ufc-333\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.
+ ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -423,20 +143,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13063@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:5
+LAST-MODIFIED:20261019T132427Z
+SEQUENCE:6
 DTSTART:20261024T202500Z
 DTEND:20261024T205500Z
 SUMMARY:🥊 5. Alexander Volkanovski vs. Movsar Evloev (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 145lbs/66kg Featherweight · Title Bo
- ut\n• Volkanovski: 28-4-0 | 38yo | -105 (1.95)\n• Evloev: 20-0-0 | 32y
- o | Freestyle | -103 (1.97)\n• Odds history:\n  ◦ 13 Sep: Volkanovski 
- 🟢 -110 (1.91) | Evloev 🔴 -107 (1.93)\n  ◦ 5 Oct: Volkanovski 🔴 
- +100 (2.00) | Evloev 🟢 -110 (1.91)\n  ◦ 16 Oct: Volkanovski 🟢 -105
-  (1.95) | Evloev 🔴 -103 (1.97)\nEvent: UFC 333: Volkanovski vs Evloev\n
- Source: https://www.ufc.com/event/ufc-333\nMain calendar: https://staircas
- ewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ ut\n• Volkanovski: 28-4-0 | 38yo | -108 (1.93)\n• Evloev: 20-0-0 | 32y
+ o | Freestyle | +104 (2.04)\n• Odds history:\n  ◦ 5 Oct: Volkanovski 
+ 🔴 +100 (2.00) | Evloev 🟢 -110 (1.91)\n  ◦ 16 Oct: Volkanovski 🟢
+  -105 (1.95) | Evloev 🔴 -103 (1.97)\n  ◦ 19 Oct: Volkanovski 🟢 -10
+ 8 (1.93) | Evloev 🔴 +104 (2.04)\n  ◦ Earlier changes: see full odds l
+ og\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc.com/eve
+ nt/ufc-333\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.
+ ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -446,20 +167,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13064@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:5
+LAST-MODIFIED:20261019T132427Z
+SEQUENCE:6
 DTSTART:20261024T195000Z
 DTEND:20261024T202000Z
 SUMMARY:🥊 4. Petr Yan vs. Merab Dvalishvili (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 135lbs/61kg Bantamweight · Title Bou
- t\n• Yan: 20-5-0 | 33yo | Boxer | -168 (1.60)\n• Dvalishvili: 21-5-0 |
-  35yo | Freestyle | +160 (2.60)\n• Odds history:\n  ◦ 13 Sep: Yan 🟢
-  -172 (1.58) | Dvalishvili 🔴 +150 (2.50)\n  ◦ 12 Oct: Yan 🟢 -172 (
- 1.58) | Dvalishvili 🔴 +160 (2.60)\n  ◦ 16 Oct: Yan 🟢 -168 (1.60) |
-  Dvalishvili 🔴 +160 (2.60)\nEvent: UFC 333: Volkanovski vs Evloev\nSour
- ce: https://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit
- .github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ t\n• Yan: 20-5-0 | 33yo | Boxer | -150 (1.67)\n• Dvalishvili: 21-5-0 |
+  35yo | Freestyle | +150 (2.50)\n• Odds history:\n  ◦ 12 Oct: Yan 🟢
+  -172 (1.58) | Dvalishvili 🔴 +160 (2.60)\n  ◦ 16 Oct: Yan 🟢 -168 (
+ 1.60) | Dvalishvili 🔴 +160 (2.60)\n  ◦ 19 Oct: Yan 🟢 -150 (1.67) |
+  Dvalishvili 🔴 +150 (2.50)\n  ◦ Earlier changes: see full odds log\nE
+ vent: UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc.com/event/uf
+ c-333\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\n
+ Event status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -489,18 +211,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13125@ufc-detailed-calendar
 DTSTAMP:20260916T114128Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:2
+LAST-MODIFIED:20261019T132427Z
+SEQUENCE:3
 DTSTART:20261024T183500Z
 DTEND:20261024T190500Z
 SUMMARY:🥊 2. Alexander Volkov vs. Rizvan Kuniev (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n• Volkov:
-  40-11-0 | 38yo | Brazilian Jiu-Jitsu | -121 (1.83)\n• Kuniev: 14-3-1 | 
+  40-11-0 | 38yo | Brazilian Jiu-Jitsu | -113 (1.88)\n• Kuniev: 14-3-1 | 
  34yo | +110 (2.10)\n• Odds history:\n  ◦ 16 Oct: Volkov 🟢 -121 (1.8
- 3) | Kuniev 🔴 +110 (2.10)\nEvent: UFC 333: Volkanovski vs Evloev\nSourc
- e: https://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.
- github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ 3) | Kuniev 🔴 +110 (2.10)\n  ◦ 19 Oct: Volkov 🟢 -113 (1.88) | Kuni
+ ev 🔴 +110 (2.10)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https:
+ //www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.io
+ /mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -510,18 +233,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13215@ufc-detailed-calendar
 DTSTAMP:20261007T133000Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:1
+LAST-MODIFIED:20261019T132427Z
+SEQUENCE:2
 DTSTART:20261024T180000Z
 DTEND:20261024T183000Z
 SUMMARY:🥊 1. Aaron Pico vs. Losene Keita (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 145lbs/66kg Featherweight\n• Pico: 
- 14-5-0 | 30yo | Boxing | +100 (2.00)\n• Keita: 17-2-0 | 28yo | MMA | -12
- 1 (1.83)\n• Odds history:\n  ◦ 16 Oct: Pico 🔴 +100 (2.00) | Keita 
- 🟢 -121 (1.83)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://w
- ww.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.io/mm
- acalendar/ufc.ics\nEvent status: Scheduled
+ 14-5-0 | 30yo | Boxing | +100 (2.00)\n• Keita: 17-2-0 | 28yo | MMA | -10
+ 0 (2.00)\n• Odds history:\n  ◦ 16 Oct: Pico 🔴 +100 (2.00) | Keita 
+ 🟢 -121 (1.83)\n  ◦ 19 Oct: Pico 🔴 +100 (2.00) | Keita 🟢 -100 (2
+ .00)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc.com/e
+ vent/ufc-333\nMain calendar: https://staircasewit.github.io/mmacalendar/uf
+ c.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card

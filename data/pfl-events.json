@@ -1540,10 +1540,10 @@
     "uid": "pfl-sioux-falls-2026",
     "date": "2026-05-02",
     "summary": "PFL Sioux Falls",
-    "location": "Sanford Pentagon, Sioux Falls, South Dakota",
+    "location": "Sanford Pentagon, Sioux Falls, SD",
     "url": "https://pflmma.com/event/pfl-sioux-falls-2026",
-    "start": "20260502T190000Z",
-    "end": "20260503T010000Z",
+    "start": "20260502T230000Z",
+    "end": "20260503T050000Z",
     "status": "CONFIRMED",
     "bouts": [
       {
@@ -1763,32 +1763,8 @@
         "oddsHistory": []
       },
       {
-        "id": "1423",
-        "order": 3,
-        "red": {
-          "name": "Angel Alvarez",
-          "profileUrl": "https://pflmma.com/wt-fighter/angel-alvarez",
-          "countryCode": "CU",
-          "birthDate": "1995-01-19",
-          "record": "11-3-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Bryce Logan",
-          "profileUrl": "https://pflmma.com/wt-fighter/bryce-logan",
-          "countryCode": null,
-          "birthDate": "1989-12-03",
-          "record": "13-10-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "Winner: Angel Alvarez by Decision",
-        "oddsHistory": []
-      },
-      {
         "id": "1424",
-        "order": 2,
+        "order": 3,
         "red": {
           "name": "Brett Bye",
           "profileUrl": "https://pflmma.com/wt-fighter/brett-bye",
@@ -1808,6 +1784,30 @@
           "odds": null
         },
         "details": "Winner: Brett Bye by TKO",
+        "oddsHistory": []
+      },
+      {
+        "id": "1423",
+        "order": 2,
+        "red": {
+          "name": "Angel Alvarez",
+          "profileUrl": "https://pflmma.com/wt-fighter/angel-alvarez",
+          "countryCode": "CU",
+          "birthDate": "1995-01-19",
+          "record": "11-3-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Bryce Logan",
+          "profileUrl": "https://pflmma.com/wt-fighter/bryce-logan",
+          "countryCode": null,
+          "birthDate": "1989-12-03",
+          "record": "13-10-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "Winner: Angel Alvarez by Decision",
         "oddsHistory": []
       },
       {
@@ -1843,8 +1843,8 @@
     "summary": "PFL Brussels 2026",
     "location": "ING Arena, Brussels, Belgium",
     "url": "https://pflmma.com/event/pfl-brussels-2026",
-    "start": "20260523T123000Z",
-    "end": "20260523T180000Z",
+    "start": "20260523T163000Z",
+    "end": "20260523T220000Z",
     "status": "CONFIRMED",
     "bouts": [
       {
@@ -2178,10 +2178,10 @@
         },
         "blue": {
           "name": "Ylies Djiroun",
-          "profileUrl": "https://pflmma.com/mena-fighter/ylies-djiroun-2",
+          "profileUrl": "https://pflmma.com/mena-fighter/ylies-djiroun",
           "countryCode": null,
           "birthDate": null,
-          "record": "16-6-0",
+          "record": "26-9-0",
           "style": null,
           "odds": "+168"
         },
@@ -2549,7 +2549,49 @@
         ]
       }
     ],
-    "cancelledBouts": []
+    "cancelledBouts": [
+      {
+        "id": "1452",
+        "order": 10,
+        "red": {
+          "name": "Salah Eddine Hamli",
+          "profileUrl": "https://pflmma.com/mena-fighter/salaheddine-hamli",
+          "countryCode": "MA",
+          "birthDate": "1998-05-17",
+          "record": "11-1-0",
+          "style": null,
+          "odds": "-175"
+        },
+        "blue": {
+          "name": "Ylies Djiroun",
+          "profileUrl": "https://pflmma.com/mena-fighter/ylies-djiroun-2",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "16-6-0",
+          "style": null,
+          "odds": "+168"
+        },
+        "details": "Winner: Ylies Djiroun by TKO",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL MENA 9",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4191",
+            "odds": {
+              "salah eddine hamli": "-175",
+              "ylies djiroun": "+168"
+            },
+            "names": {
+              "salah eddine hamli": "Salah Eddine Hamli",
+              "ylies djiroun": "Ylies Djiroun"
+            },
+            "promotion": "pfl",
+            "eventId": "pflmena-9"
+          }
+        ],
+        "note": "Removed from the official PFL card"
+      }
+    ]
   },
   {
     "uid": "pfl-africa-nigeria",
@@ -2557,8 +2599,8 @@
     "summary": "PFL Africa Nigeria",
     "location": "Eko Convention Center, Lagos, Nigeria",
     "url": "https://pflmma.com/event/pfl-africa-nigeria",
-    "start": "20260613T130000Z",
-    "end": "20260613T160000Z",
+    "start": "20260613T170000Z",
+    "end": "20260613T200000Z",
     "status": "CONFIRMED",
     "bouts": [
       {
@@ -3106,14 +3148,14 @@
     "uid": "pfl-san-diego-2026",
     "date": "2026-06-27",
     "summary": "PFL San Diego",
-    "location": "Pechanga Arena San Diego – San Diego, Calif.",
+    "location": "Pechanga Arena, San Diego, California",
     "url": "https://pflmma.com/event/pfl-san-diego-2026",
-    "start": "20260627T200000Z",
-    "end": "20260628T010000Z",
+    "start": "20260628T000000Z",
+    "end": "20260628T050000Z",
     "status": "CONFIRMED",
     "bouts": [
       {
-        "id": "1450",
+        "id": "1660",
         "order": 9,
         "red": {
           "name": "AJ McKee",
@@ -3137,7 +3179,7 @@
         "oddsHistory": []
       },
       {
-        "id": "1462",
+        "id": "1661",
         "order": 8,
         "red": {
           "name": "Liz Carmouche",
@@ -3161,7 +3203,7 @@
         "oddsHistory": []
       },
       {
-        "id": "1465",
+        "id": "1662",
         "order": 7,
         "red": {
           "name": "Alexander Shabliy",
@@ -3185,7 +3227,7 @@
         "oddsHistory": []
       },
       {
-        "id": "1468",
+        "id": "1663",
         "order": 6,
         "red": {
           "name": "Abraham Bably",
@@ -3209,7 +3251,7 @@
         "oddsHistory": []
       },
       {
-        "id": "1466",
+        "id": "1664",
         "order": 5,
         "red": {
           "name": "Khasan Magomedsharipov",
@@ -3233,7 +3275,7 @@
         "oddsHistory": []
       },
       {
-        "id": "1469",
+        "id": "1665",
         "order": 4,
         "red": {
           "name": "Ariane Lipski da Silva",
@@ -3257,7 +3299,7 @@
         "oddsHistory": []
       },
       {
-        "id": "1477",
+        "id": "1666",
         "order": 3,
         "red": {
           "name": "Justin Wetzell",
@@ -3281,7 +3323,7 @@
         "oddsHistory": []
       },
       {
-        "id": "1479",
+        "id": "1667",
         "order": 2,
         "red": {
           "name": "Shannon Clark",
@@ -3305,7 +3347,7 @@
         "oddsHistory": []
       },
       {
-        "id": "1480",
+        "id": "1668",
         "order": 1,
         "red": {
           "name": "Cobey Fehr",
@@ -3335,11 +3377,11 @@
     "uid": "pflmena10",
     "date": "2026-07-10",
     "summary": "PFL MENA 10",
-    "location": "Riyadh, KSA",
+    "location": "Boulevard City, Riyadh, Saudi Arabia",
     "url": "https://pflmma.com/event/pflmena10",
-    "start": null,
-    "end": null,
-    "status": "TENTATIVE",
+    "start": "20260710T140000Z",
+    "end": "20260710T170000Z",
+    "status": "CONFIRMED",
     "bouts": [
       {
         "id": "1481",
@@ -3588,10 +3630,10 @@
     "uid": "pfl-austin-2026",
     "date": "2026-07-18",
     "summary": "PFL AUSTIN 2026",
-    "location": "Moody Center - Austin, Texas",
+    "location": "Moody Center, Austin, Texas",
     "url": "https://pflmma.com/event/pfl-austin-2026",
-    "start": "20260718T173000Z",
-    "end": "20260718T230000Z",
+    "start": "20260718T213000Z",
+    "end": "20260719T030000Z",
     "status": "CONFIRMED",
     "bouts": [
       {
@@ -3817,10 +3859,10 @@
     "uid": "pfl-washington-dc-2026",
     "date": "2026-07-25",
     "summary": "PFL Washington DC",
-    "location": "CareFirst Arena, Washington D.C.",
+    "location": "Carefirst Arena, Washington DC",
     "url": "https://pflmma.com/event/pfl-washington-dc-2026",
-    "start": "20260725T200000Z",
-    "end": "20260726T010000Z",
+    "start": "20260726T000000Z",
+    "end": "20260726T050000Z",
     "status": "CONFIRMED",
     "bouts": [
       {
@@ -4022,10 +4064,10 @@
     "uid": "pfl-ny-2026",
     "date": "2026-07-31",
     "summary": "PFL NEW YORK",
-    "location": "UBS Arena, Belmont Park, New York",
+    "location": "UBS Arena, Long Island, NY",
     "url": "https://pflmma.com/event/pfl-ny-2026",
-    "start": "20260731T163000Z",
-    "end": "20260731T220000Z",
+    "start": "20260731T203000Z",
+    "end": "20260801T020000Z",
     "status": "CONFIRMED",
     "bouts": [
       {
@@ -4251,10 +4293,10 @@
     "uid": "pfl-charlotte",
     "date": "2026-08-07",
     "summary": "PFL Charlotte",
-    "location": "Bojangles Coliseum, Charlotte, North Carolina",
+    "location": "Bojangles Coliseum, Charlotte, NC",
     "url": "https://pflmma.com/event/pfl-charlotte",
-    "start": "20260807T183000Z",
-    "end": "20260808T010000Z",
+    "start": "20260807T223000Z",
+    "end": "20260808T050000Z",
     "status": "CONFIRMED",
     "bouts": [
       {
@@ -4578,8 +4620,8 @@
     "summary": "PFL Tampa",
     "location": "Benchmark International Arena, Tampa, FL",
     "url": "https://pflmma.com/event/pfl-tampa",
-    "start": "20260822T173000Z",
-    "end": "20260823T000000Z",
+    "start": "20260822T213000Z",
+    "end": "20260823T040000Z",
     "status": "CONFIRMED",
     "bouts": [
       {
@@ -4849,15 +4891,15 @@
     "uid": "pflmena11",
     "date": "2026-10-02",
     "summary": "PFL MENA 11",
-    "location": "Riyadh, KSA",
+    "location": "Green Halls, Riyadh, Saudi Arabia",
     "url": "https://pflmma.com/event/pflmena11",
-    "start": null,
-    "end": null,
-    "status": "TENTATIVE",
+    "start": "20261002T140000Z",
+    "end": "20261002T170000Z",
+    "status": "CONFIRMED",
     "bouts": [
       {
         "id": "1594",
-        "order": 8,
+        "order": 9,
         "red": {
           "name": "Mostafa Rashed Neda",
           "profileUrl": "https://pflmma.com/mena-fighter/mostafa-rashedneda",
@@ -4873,6 +4915,30 @@
           "odds": null
         },
         "details": "205lbs/93kg Light Heavyweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1650",
+        "order": 8,
+        "red": {
+          "name": "Mostafa Neda",
+          "profileUrl": "https://pflmma.com/mena-fighter/mostafa-neda",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "10-4-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Osama Elsaidy",
+          "profileUrl": "https://pflmma.com/mena-fighter/osama-elsaidy",
+          "countryCode": "EG",
+          "birthDate": null,
+          "record": "9-4-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "Winner: Mostafa Neda by Submission",
         "oddsHistory": []
       },
       {
@@ -4920,10 +4986,10 @@
         "order": 6,
         "red": {
           "name": "Ylies Djiroun",
-          "profileUrl": "https://pflmma.com/mena-fighter/ylies-djiroun-2",
+          "profileUrl": "https://pflmma.com/mena-fighter/ylies-djiroun",
           "countryCode": null,
           "birthDate": null,
-          "record": "16-6-0",
+          "record": "26-9-0",
           "style": null,
           "odds": "-350"
         },
@@ -4931,12 +4997,12 @@
           "name": "Assem Ghanem",
           "profileUrl": "https://pflmma.com/mena-fighter/assem-ghanem",
           "countryCode": "EG",
-          "birthDate": "2001-04-16",
-          "record": "7-0-0",
+          "birthDate": "2001-04-15",
+          "record": "7-1-0",
           "style": null,
           "odds": "+275"
         },
-        "details": "Winner: Ylies Djiroun by TKO",
+        "details": "Winner: Ylies Djiroun by KO",
         "oddsHistory": [
           {
             "checkedAt": "2026-10-05T14:47:16.208Z",
@@ -5329,6 +5395,47 @@
         "details": "145lbs/66kg Featherweight · Amateur",
         "oddsHistory": [],
         "note": "Removed from the official PFL card"
+      },
+      {
+        "id": "1596",
+        "order": 6,
+        "red": {
+          "name": "Ylies Djiroun",
+          "profileUrl": "https://pflmma.com/mena-fighter/ylies-djiroun-2",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "16-6-0",
+          "style": null,
+          "odds": "-350"
+        },
+        "blue": {
+          "name": "Assem Ghanem",
+          "profileUrl": "https://pflmma.com/mena-fighter/assem-ghanem",
+          "countryCode": "EG",
+          "birthDate": "2001-04-16",
+          "record": "7-0-0",
+          "style": null,
+          "odds": "+275"
+        },
+        "details": "Winner: Ylies Djiroun by TKO",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-05T14:47:16.208Z",
+            "eventName": "PFL MENA 11",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-mena-4385",
+            "promotion": "pfl",
+            "eventId": "pflmena11",
+            "odds": {
+              "ylies djiroun": "-350",
+              "assem ghanem": "+275"
+            },
+            "names": {
+              "ylies djiroun": "Ylies Djiroun",
+              "assem ghanem": "Assem Ghanem"
+            }
+          }
+        ],
+        "note": "Removed from the official PFL card"
       }
     ]
   },
@@ -5336,11 +5443,11 @@
     "uid": "pfl-morocco",
     "date": "2026-10-10",
     "summary": "PFL Africa Morocco",
-    "location": "CASABLANCA",
+    "location": "Salle Mohammed V, Casablanca, Morocco",
     "url": "https://pflmma.com/event/pfl-morocco",
-    "start": null,
-    "end": null,
-    "status": "TENTATIVE",
+    "start": "20261010T180000Z",
+    "end": "20261010T210000Z",
+    "status": "CONFIRMED",
     "bouts": [
       {
         "id": "1562",
@@ -5872,9 +5979,9 @@
     "uid": "2026-chicago2",
     "date": "2026-10-16",
     "summary": "PFL Chicago 2",
-    "location": "Wintrust Arena",
+    "location": "Wintrust Arena, Chicago",
     "url": "https://pflmma.com/event/2026-chicago2",
-    "start": "20261016T220000Z",
+    "start": "20261016T223000Z",
     "end": "20261017T060000Z",
     "status": "CONFIRMED",
     "bouts": [
@@ -6306,7 +6413,7 @@
         "id": "1588",
         "order": 2,
         "red": {
-          "name": "Paulina Wisniewska",
+          "name": "Paulina Wiśniewska",
           "profileUrl": "https://pflmma.com/wt-fighter/paulina-wisniewska",
           "countryCode": "PL",
           "birthDate": "1998-11-25",
@@ -6511,7 +6618,7 @@
     "uid": "pfl-returns-to-dubai",
     "date": "2026-11-14",
     "summary": "PFL Dubai",
-    "location": "Dubai, United Arab Emirates",
+    "location": "Coca-Cola Arena, Dubai",
     "url": "https://pflmma.com/event/pfl-returns-to-dubai",
     "start": "20261114T140000Z",
     "end": "20261114T210000Z",
@@ -6596,8 +6703,8 @@
           "name": "Abubakar Nurmagomedov",
           "profileUrl": "https://pflmma.com/wt-fighter/abubakar-nurmagomedov",
           "countryCode": null,
-          "birthDate": "1989-11-12",
-          "record": "16-2-0",
+          "birthDate": "1989-11-11",
+          "record": "17-4-1",
           "style": null,
           "odds": null
         },
@@ -6836,11 +6943,11 @@
     "uid": "pflmena-12",
     "date": "2026-12-11",
     "summary": "PFL MENA 12",
-    "location": "Khobar, KSA",
+    "location": "tbd, Khobar, Saudi Arabia",
     "url": "https://pflmma.com/event/pflmena-12",
-    "start": null,
-    "end": null,
-    "status": "TENTATIVE",
+    "start": "20261211T150000Z",
+    "end": "20261211T180000Z",
+    "status": "CONFIRMED",
     "bouts": [
       {
         "id": "1618",
@@ -6880,6 +6987,56 @@
         },
         "blue": {
           "name": "Ylies Djiroun",
+          "profileUrl": "https://pflmma.com/mena-fighter/ylies-djiroun",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "26-9-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight · Finals",
+        "oddsHistory": []
+      },
+      {
+        "id": "1616",
+        "order": 1,
+        "red": {
+          "name": "Elias Boudegzdame",
+          "profileUrl": "https://pflmma.com/mena-fighter/elias-boudegzdame",
+          "countryCode": "DZ",
+          "birthDate": "1993-10-16",
+          "record": "21-9-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Mehdi Saadi",
+          "profileUrl": "https://pflmma.com/mena-fighter/mehdi-saadi-2",
+          "countryCode": "TN",
+          "birthDate": "1993-03-06",
+          "record": "8-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "145lbs/66kg Featherweight · Finals",
+        "oddsHistory": []
+      }
+    ],
+    "cancelledBouts": [
+      {
+        "id": "1617",
+        "order": 2,
+        "red": {
+          "name": "Mohammad Fahmi",
+          "profileUrl": "https://pflmma.com/mena-fighter/mohammad-fahmi",
+          "countryCode": "IQ",
+          "birthDate": "1995-07-29",
+          "record": "6-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Ylies Djiroun",
           "profileUrl": "https://pflmma.com/mena-fighter/ylies-djiroun-2",
           "countryCode": null,
           "birthDate": null,
@@ -6888,7 +7045,8 @@
           "odds": null
         },
         "details": "155lbs/70kg Lightweight · Finals",
-        "oddsHistory": []
+        "oddsHistory": [],
+        "note": "Removed from the official PFL card"
       },
       {
         "id": "1616",
@@ -6912,10 +7070,10 @@
           "odds": null
         },
         "details": "145lbs/66kg Featherweight · Finals",
-        "oddsHistory": []
+        "oddsHistory": [],
+        "note": "Removed from the official PFL card"
       }
-    ],
-    "cancelledBouts": []
+    ]
   },
   {
     "uid": "pflmena12",
@@ -6930,10 +7088,91 @@
     "cancelledBouts": []
   },
   {
+    "uid": "pfl-africa-kigali-2026",
+    "date": "2026-12-12",
+    "summary": "PFL Africa Kigali",
+    "location": "BK Arena, Kigali, Rwanda",
+    "url": "https://pflmma.com/event/pfl-africa-kigali-2026",
+    "start": null,
+    "end": null,
+    "status": "TENTATIVE",
+    "bouts": [
+      {
+        "id": "1669",
+        "order": 3,
+        "red": {
+          "name": "Shido Boris Esperança",
+          "profileUrl": "https://pflmma.com/africa-fighter/shido-boris-esperana",
+          "odds": null
+        },
+        "blue": {
+          "name": "David Samuel",
+          "profileUrl": "https://pflmma.com/africa-fighter/david-samuel",
+          "countryCode": "RU",
+          "birthDate": null,
+          "record": "7-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight · Finals",
+        "oddsHistory": []
+      },
+      {
+        "id": "1670",
+        "order": 2,
+        "red": {
+          "name": "Patrick Ocheme",
+          "profileUrl": "https://pflmma.com/africa-fighter/patrick-ocheme",
+          "countryCode": "NG",
+          "birthDate": "1994-11-26",
+          "record": "10-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Demba Seck",
+          "profileUrl": "https://pflmma.com/africa-fighter/demba-seck",
+          "countryCode": null,
+          "birthDate": "1994-07-17",
+          "record": "11-3-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight · Finals",
+        "oddsHistory": []
+      },
+      {
+        "id": "1671",
+        "order": 1,
+        "red": {
+          "name": "Dwight Joseph",
+          "profileUrl": "https://pflmma.com/africa-fighter/dwight-joseph",
+          "countryCode": "LR",
+          "birthDate": "1989-08-14",
+          "record": "17-3-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Raphael Uchegbu",
+          "profileUrl": "https://pflmma.com/africa-fighter/raphael-uchegbu",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "11-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "135lbs/61kg Bantamweight · Finals",
+        "oddsHistory": []
+      }
+    ],
+    "cancelledBouts": []
+  },
+  {
     "uid": "pfl-lyon-2026",
     "date": "2026-12-19",
     "summary": "PFL Lyon",
-    "location": "Lyon, France",
+    "location": "LDLC Arena, Lyon, France",
     "url": "https://pflmma.com/event/pfl-lyon-2026",
     "start": "20261219T160000Z",
     "end": "20261219T230000Z",
