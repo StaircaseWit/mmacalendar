@@ -998,7 +998,7 @@
       "birthDate": "1989-11-22",
       "record": "13-6-0",
       "style": null,
-      "checkedAt": "2026-09-13T10:10:12.597Z"
+      "checkedAt": "2026-10-21T11:55:56.716Z"
     },
     "https://pflmma.com/wt-fighter/cheyanne-bowers": {
       "name": "Cheyanne Bowers",
@@ -2711,6 +2711,14 @@
       "record": "26-9-0",
       "style": null,
       "checkedAt": "2026-10-19T13:24:27.664Z"
+    },
+    "https://pflmma.com/wt-fighter/sergei-bilostenniy": {
+      "name": "Sergei Bilostenniy",
+      "countryCode": "RU",
+      "birthDate": "1995-10-22",
+      "record": "15-4-0",
+      "style": null,
+      "checkedAt": "2026-10-21T11:55:56.716Z"
     }
   }
 }

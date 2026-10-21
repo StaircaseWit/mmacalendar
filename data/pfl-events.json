@@ -1631,15 +1631,15 @@
           "odds": null
         },
         "blue": {
-          "name": "Sergey Bilostenniy",
-          "profileUrl": "https://pflmma.com/wt-fighter/sergey-bilostenniy",
+          "name": "Sergei Bilostenniy",
+          "profileUrl": "https://pflmma.com/wt-fighter/sergei-bilostenniy",
           "countryCode": "RU",
           "birthDate": "1995-10-22",
           "record": "15-4-0",
           "style": null,
           "odds": null
         },
-        "details": "Winner: Sergey Bilostenniy by TKO",
+        "details": "Winner: Sergei Bilostenniy by TKO",
         "oddsHistory": []
       },
       {
@@ -1835,7 +1835,33 @@
         "oddsHistory": []
       }
     ],
-    "cancelledBouts": []
+    "cancelledBouts": [
+      {
+        "id": "1439",
+        "order": 9,
+        "red": {
+          "name": "Renan Ferreira",
+          "profileUrl": "https://pflmma.com/wt-fighter/renan-ferreira",
+          "countryCode": null,
+          "birthDate": "1989-11-22",
+          "record": "13-6-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Sergey Bilostenniy",
+          "profileUrl": "https://pflmma.com/wt-fighter/sergey-bilostenniy",
+          "countryCode": "RU",
+          "birthDate": "1995-10-22",
+          "record": "15-4-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "Winner: Sergey Bilostenniy by TKO",
+        "oddsHistory": [],
+        "note": "Removed from the official PFL card"
+      }
+    ]
   },
   {
     "uid": "pfl-brussels-2026",
@@ -6637,8 +6663,8 @@
           "odds": null
         },
         "blue": {
-          "name": "Sergey Bilostenniy",
-          "profileUrl": "https://pflmma.com/wt-fighter/sergey-bilostenniy",
+          "name": "Sergei Bilostenniy",
+          "profileUrl": "https://pflmma.com/wt-fighter/sergei-bilostenniy",
           "countryCode": "RU",
           "birthDate": "1995-10-22",
           "record": "15-4-0",
@@ -6937,13 +6963,39 @@
         "oddsHistory": []
       }
     ],
-    "cancelledBouts": []
+    "cancelledBouts": [
+      {
+        "id": "1582",
+        "order": 13,
+        "red": {
+          "name": "Vadim Nemkov",
+          "profileUrl": "https://pflmma.com/wt-fighter/vadim-nemkov",
+          "countryCode": "RU",
+          "birthDate": "1992-06-19",
+          "record": "20-2-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Sergey Bilostenniy",
+          "profileUrl": "https://pflmma.com/wt-fighter/sergey-bilostenniy",
+          "countryCode": "RU",
+          "birthDate": "1995-10-22",
+          "record": "15-4-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "265lbs/120kg Heavyweight · PFL World Title",
+        "oddsHistory": [],
+        "note": "Removed from the official PFL card"
+      }
+    ]
   },
   {
     "uid": "pflmena-12",
     "date": "2026-12-11",
-    "summary": "PFL MENA 12",
-    "location": "tbd, Khobar, Saudi Arabia",
+    "summary": "PFL Khobar",
+    "location": "Dhahran Expo, Khobar, Saudi Arabia",
     "url": "https://pflmma.com/event/pflmena-12",
     "start": "20261211T150000Z",
     "end": "20261211T180000Z",
