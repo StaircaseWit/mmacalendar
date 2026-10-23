@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-19T13:24:27.664Z",
+  "lastCheckedAt": "2026-10-23T11:44:22.443Z",
   "fights": {
     "ufc-fight-night-september-12-2026::edgar chairez--tim elliott": [
       {
@@ -845,6 +845,19 @@
         "odds": {
           "petr yan": "-150",
           "merab dvalishvili": "+150"
+        },
+        "names": {
+          "petr yan": "Petr Yan",
+          "merab dvalishvili": "Merab Dvalishvili"
+        }
+      },
+      {
+        "checkedAt": "2026-10-23T11:44:22.443Z",
+        "eventName": "UFC 333: Volkanovski vs Evloev",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-333-4321",
+        "odds": {
+          "petr yan": "-138",
+          "merab dvalishvili": "+133"
         },
         "names": {
           "petr yan": "Petr Yan",
@@ -2009,6 +2022,19 @@
           "charles oliveira": "Charles Oliveira",
           "diego lopes": "Diego Lopes"
         }
+      },
+      {
+        "checkedAt": "2026-10-23T11:44:22.443Z",
+        "eventName": "UFC 335: Oliveira vs Lopes",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-335-4394",
+        "odds": {
+          "charles oliveira": "-150",
+          "diego lopes": "+126"
+        },
+        "names": {
+          "charles oliveira": "Charles Oliveira",
+          "diego lopes": "Diego Lopes"
+        }
       }
     ],
     "ufc-335::alex pereira--sergei pavlovich": [
@@ -2050,6 +2076,19 @@
           "sergei pavlovich": "Sergei Pavlovich",
           "alex pereira": "Alex Pereira"
         }
+      },
+      {
+        "checkedAt": "2026-10-23T11:44:22.443Z",
+        "eventName": "UFC 335: Oliveira vs Lopes",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-335-4394",
+        "odds": {
+          "sergei pavlovich": "-200",
+          "alex pereira": "+163"
+        },
+        "names": {
+          "sergei pavlovich": "Sergei Pavlovich",
+          "alex pereira": "Alex Pereira"
+        }
       }
     ],
     "ufc-335::bo nickal--joe pyfer": [
@@ -2073,6 +2112,19 @@
         "odds": {
           "joe pyfer": "-182",
           "bo nickal": "+145"
+        },
+        "names": {
+          "joe pyfer": "Joe Pyfer",
+          "bo nickal": "Bo Nickal"
+        }
+      },
+      {
+        "checkedAt": "2026-10-23T11:44:22.443Z",
+        "eventName": "UFC 335: Oliveira vs Lopes",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-335-4394",
+        "odds": {
+          "joe pyfer": "-200",
+          "bo nickal": "+160"
         },
         "names": {
           "joe pyfer": "Joe Pyfer",
@@ -2472,6 +2524,19 @@
           "azamat murzakanov": "Azamat Murzakanov",
           "dominick reyes": "Dominick Reyes"
         }
+      },
+      {
+        "checkedAt": "2026-10-23T11:44:22.443Z",
+        "eventName": "UFC 333: Volkanovski vs Evloev",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-333-4321",
+        "odds": {
+          "azamat murzakanov": "-194",
+          "dominick reyes": "+186"
+        },
+        "names": {
+          "azamat murzakanov": "Azamat Murzakanov",
+          "dominick reyes": "Dominick Reyes"
+        }
       }
     ],
     "ufc-333::abdul rakhman yakhyaev--nikita krylov": [
@@ -2495,6 +2560,19 @@
         "odds": {
           "nikita krylov": "+400",
           "abdul rakhman yakhyaev": "-431"
+        },
+        "names": {
+          "nikita krylov": "Nikita Krylov",
+          "abdul rakhman yakhyaev": "Abdul Rakhman Yakhyaev"
+        }
+      },
+      {
+        "checkedAt": "2026-10-23T11:44:22.443Z",
+        "eventName": "UFC 333: Volkanovski vs Evloev",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-333-4321",
+        "odds": {
+          "nikita krylov": "+456",
+          "abdul rakhman yakhyaev": "-488"
         },
         "names": {
           "nikita krylov": "Nikita Krylov",
@@ -2528,6 +2606,19 @@
           "abus magomedov": "Abus Magomedov",
           "cam rowston": "Cam Rowston"
         }
+      },
+      {
+        "checkedAt": "2026-10-23T11:44:22.443Z",
+        "eventName": "UFC 333: Volkanovski vs Evloev",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-333-4321",
+        "odds": {
+          "abus magomedov": "-117",
+          "cam rowston": "+113"
+        },
+        "names": {
+          "abus magomedov": "Abus Magomedov",
+          "cam rowston": "Cam Rowston"
+        }
       }
     ],
     "ufc-333::grant dawson--nurullo aliev": [
@@ -2551,6 +2642,19 @@
         "odds": {
           "grant dawson": "-120",
           "nurullo aliev": "+117"
+        },
+        "names": {
+          "grant dawson": "Grant Dawson",
+          "nurullo aliev": "Nurullo Aliev"
+        }
+      },
+      {
+        "checkedAt": "2026-10-23T11:44:22.443Z",
+        "eventName": "UFC 333: Volkanovski vs Evloev",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-333-4321",
+        "odds": {
+          "grant dawson": "-108",
+          "nurullo aliev": "+104"
         },
         "names": {
           "grant dawson": "Grant Dawson",
@@ -2584,6 +2688,19 @@
           "alexander volkov": "Alexander Volkov",
           "rizvan kuniev": "Rizvan Kuniev"
         }
+      },
+      {
+        "checkedAt": "2026-10-23T11:44:22.443Z",
+        "eventName": "UFC 333: Volkanovski vs Evloev",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-333-4321",
+        "odds": {
+          "alexander volkov": "-117",
+          "rizvan kuniev": "+113"
+        },
+        "names": {
+          "alexander volkov": "Alexander Volkov",
+          "rizvan kuniev": "Rizvan Kuniev"
+        }
       }
     ],
     "ufc-333::aaron pico--losene keita": [
@@ -2612,6 +2729,19 @@
           "aaron pico": "Aaron Pico",
           "losene keita": "Losene Keita"
         }
+      },
+      {
+        "checkedAt": "2026-10-23T11:44:22.443Z",
+        "eventName": "UFC 333: Volkanovski vs Evloev",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-333-4321",
+        "odds": {
+          "aaron pico": "-133",
+          "losene keita": "+127"
+        },
+        "names": {
+          "aaron pico": "Aaron Pico",
+          "losene keita": "Losene Keita"
+        }
       }
     ],
     "ufc-333::asaf chopurov--colby thicknesse": [
@@ -2622,6 +2752,19 @@
         "odds": {
           "colby thicknesse": "+400",
           "asaf chopurov": "-456"
+        },
+        "names": {
+          "colby thicknesse": "Colby Thicknesse",
+          "asaf chopurov": "Asaf Chopurov"
+        }
+      },
+      {
+        "checkedAt": "2026-10-23T11:44:22.443Z",
+        "eventName": "UFC 333: Volkanovski vs Evloev",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-333-4321",
+        "odds": {
+          "colby thicknesse": "+456",
+          "asaf chopurov": "-488"
         },
         "names": {
           "colby thicknesse": "Colby Thicknesse",
@@ -2641,6 +2784,49 @@
         "names": {
           "abubakar vagaev": "Abubakar Vagaev",
           "jacob malkoun": "Jacob Malkoun"
+        }
+      },
+      {
+        "checkedAt": "2026-10-23T11:44:22.443Z",
+        "eventName": "UFC 333: Volkanovski vs Evloev",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-333-4321",
+        "odds": {
+          "abubakar vagaev": "-150",
+          "jacob malkoun": "+144"
+        },
+        "names": {
+          "abubakar vagaev": "Abubakar Vagaev",
+          "jacob malkoun": "Jacob Malkoun"
+        }
+      }
+    ],
+    "ufc-333::bolaji oki--daniel santos": [
+      {
+        "checkedAt": "2026-10-23T11:44:22.443Z",
+        "eventName": "UFC 333: Volkanovski vs Evloev",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-333-4321",
+        "odds": {
+          "bolaji oki": "+108",
+          "daniel santos": "-113"
+        },
+        "names": {
+          "bolaji oki": "Bolaji Oki",
+          "daniel santos": "Daniel Santos"
+        }
+      }
+    ],
+    "ufc-333::kody steele--noah gugnon": [
+      {
+        "checkedAt": "2026-10-23T11:44:22.443Z",
+        "eventName": "UFC 333: Volkanovski vs Evloev",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-333-4321",
+        "odds": {
+          "kody steele": "-144",
+          "noah gugnon": "+138"
+        },
+        "names": {
+          "kody steele": "Kody Steele",
+          "noah gugnon": "Noah Gugnon"
         }
       }
     ]

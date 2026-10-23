@@ -3794,8 +3794,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-early-prelims@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261021T115556Z
-SEQUENCE:6
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:7
 DTSTART:20261024T140000Z
 DTEND:20261024T160000Z
 SUMMARY:Early Prelims – UFC 333: Volkanovski vs Evloev
@@ -3805,20 +3805,24 @@ DESCRIPTION:UFC · Early Prelims · 5 bouts\n📍 Etihad Arena\, Yas Island
  ----\n\n🥊 5. 𝗖𝗼𝗹𝗯𝘆 𝗧𝗵𝗶𝗰𝗸𝗻𝗲𝘀𝘀
  𝗲 🇦🇺 vs. 𝗔𝘀𝗮𝗳 𝗖𝗵𝗼𝗽𝘂𝗿𝗼𝘃 🇷
  🇺\n• 135lbs/61kg Bantamweight\n• Thicknesse: 9-1-0 | 27yo | Freesty
- le | +400 (5.00)\n• Chopurov: 0-0-0 | 24yo | -456 (1.22)\n• Odds histo
- ry:\n  ◦ 19 Oct: Thicknesse 🔴 +400 (5.00) | Chopurov 🟢 -456 (1.22)
- \n\n🥊 4. 𝗔𝗯𝘂𝗯𝗮𝗸𝗮𝗿 𝗩𝗮𝗴𝗮𝗲𝘃 🇷
- 🇺 vs. 𝗝𝗮𝗰𝗼𝗯 𝗠𝗮𝗹𝗸𝗼𝘂𝗻 🇦🇺\n• 1
- 85lbs/84kg Middleweight\n• Vagaev: 25-4-0 | 33yo | -170 (1.59)\n• Malk
- oun: 10-3-0 | 31yo | MMA | +163 (2.63)\n• Odds history:\n  ◦ 19 Oct: V
- agaev 🟢 -170 (1.59) | Malkoun 🔴 +163 (2.63)\n\n🥊 3. 𝗕𝗼𝗹
- 𝗮𝗷𝗶 𝗢𝗸𝗶 🇧🇪 vs. 𝗗𝗮𝗻𝗶𝗲𝗹 𝗦𝗮
- 𝗻𝘁𝗼𝘀 🇧🇷\n• 145lbs/66kg Featherweight\n• Oki: 10-4-0 
- | 30yo | MMA\n• Santos: 14-3-0 | 31yo | Muay Thai\n• Odds history: not
-  checked yet\n\n🥊 2. 𝗞𝗼𝗱𝘆 𝗦𝘁𝗲𝗲𝗹𝗲 🇺🇸
-  vs. 𝗡𝗼𝗮𝗵 𝗚𝘂𝗴𝗻𝗼𝗻 🇫🇷\n• 155lbs/70kg L
- ightweight\n• Steele: 8-1-0 | 31yo | Jiu-Jitsu\n• Gugnon: 10-2-0 | 26y
- o\n• Odds history: not checked yet\n\n🥊 1. 𝗜𝗮𝘀𝗺𝗶𝗻 
+ le | +456 (5.56)\n• Chopurov: 11-0-0 | 24yo | MMA | -488 (1.20)\n• Odd
+ s history:\n  ◦ 19 Oct: Thicknesse 🔴 +400 (5.00) | Chopurov 🟢 -456
+  (1.22)\n  ◦ 23 Oct: Thicknesse 🔴 +456 (5.56) | Chopurov 🟢 -488 (1
+ .20)\n\n🥊 4. 𝗔𝗯𝘂𝗯𝗮𝗸𝗮𝗿 𝗩𝗮𝗴𝗮𝗲𝘃 
+ 🇷🇺 vs. 𝗝𝗮𝗰𝗼𝗯 𝗠𝗮𝗹𝗸𝗼𝘂𝗻 🇦🇺\n
+ • 185lbs/84kg Middleweight\n• Vagaev: 25-4-0 | 33yo | -150 (1.67)\n•
+  Malkoun: 10-3-0 | 31yo | MMA | +144 (2.44)\n• Odds history:\n  ◦ 19 O
+ ct: Vagaev 🟢 -170 (1.59) | Malkoun 🔴 +163 (2.63)\n  ◦ 23 Oct: Vaga
+ ev 🟢 -150 (1.67) | Malkoun 🔴 +144 (2.44)\n\n🥊 3. 𝗕𝗼𝗹𝗮
+ 𝗷𝗶 𝗢𝗸𝗶 🇧🇪 vs. 𝗗𝗮𝗻𝗶𝗲𝗹 𝗦𝗮𝗻
+ 𝘁𝗼𝘀 🇧🇷\n• 145lbs/66kg Featherweight\n• Oki: 10-4-0 | 30
+ yo | MMA | +108 (2.08)\n• Santos: 14-3-0 | 31yo | Muay Thai | -113 (1.88
+ )\n• Odds history:\n  ◦ 23 Oct: Oki 🔴 +108 (2.08) | Santos 🟢 -11
+ 3 (1.88)\n\n🥊 2. 𝗞𝗼𝗱𝘆 𝗦𝘁𝗲𝗲𝗹𝗲 🇺🇸 vs.
+  𝗡𝗼𝗮𝗵 𝗚𝘂𝗴𝗻𝗼𝗻 🇫🇷\n• 155lbs/70kg Light
+ weight\n• Steele: 8-1-0 | 31yo | Jiu-Jitsu | -144 (1.69)\n• Gugnon: 10
+ -2-0 | 26yo | +138 (2.38)\n• Odds history:\n  ◦ 23 Oct: Steele 🟢 -1
+ 44 (1.69) | Gugnon 🔴 +138 (2.38)\n\n🥊 1. 𝗜𝗮𝘀𝗺𝗶𝗻 
  𝗟𝘂𝗰𝗶𝗻𝗱𝗼 🇧🇷 vs. 𝗡𝗶𝗰𝗼𝗹𝗹𝗲 
  𝗖𝗮𝗹𝗶𝗮𝗿𝗶 🇧🇷\n• 115lbs/52kg Women's Strawweight
  \n• Lucindo: 18-6-0 | 24yo | Striker\n• Caliari: 9-4-0 | 29yo | MMA\n
@@ -3837,22 +3841,26 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · 5 bouts
  trong>🥊 5. 𝗖𝗼𝗹𝗯𝘆 𝗧𝗵𝗶𝗰𝗸𝗻𝗲𝘀𝘀
  𝗲 🇦🇺 vs. 𝗔𝘀𝗮𝗳 𝗖𝗵𝗼𝗽𝘂𝗿𝗼𝘃 🇷
  🇺</strong><br>• 135lbs/61kg Bantamweight<br>• Thicknesse: 9-1-0 | 2
- 7yo | Freestyle | +400 (5.00)<br>• Chopurov: 0-0-0 | 24yo | -456 (1.22)<
- br>• Odds history:<br>◦ 19 Oct: Thicknesse 🔴 +400 (5.00) | Chopurov
-  🟢 -456 (1.22)</p><p><strong>🥊 4. 𝗔𝗯𝘂𝗯𝗮𝗸𝗮𝗿 
- 𝗩𝗮𝗴𝗮𝗲𝘃 🇷🇺 vs. 𝗝𝗮𝗰𝗼𝗯 𝗠𝗮𝗹
- 𝗸𝗼𝘂𝗻 🇦🇺</strong><br>• 185lbs/84kg Middleweight<br>• 
- Vagaev: 25-4-0 | 33yo | -170 (1.59)<br>• Malkoun: 10-3-0 | 31yo | MMA | 
- +163 (2.63)<br>• Odds history:<br>◦ 19 Oct: Vagaev 🟢 -170 (1.59) | 
- Malkoun 🔴 +163 (2.63)</p><p><strong>🥊 3. 𝗕𝗼𝗹𝗮𝗷𝗶 
- 𝗢𝗸𝗶 🇧🇪 vs. 𝗗𝗮𝗻𝗶𝗲𝗹 𝗦𝗮𝗻𝘁𝗼
- 𝘀 🇧🇷</strong><br>• 145lbs/66kg Featherweight<br>• Oki: 10-4-0
-  | 30yo | MMA<br>• Santos: 14-3-0 | 31yo | Muay Thai<br>• Odds history
- : not checked yet</p><p><strong>🥊 2. 𝗞𝗼𝗱𝘆 𝗦𝘁𝗲𝗲
- 𝗹𝗲 🇺🇸 vs. 𝗡𝗼𝗮𝗵 𝗚𝘂𝗴𝗻𝗼𝗻 🇫🇷</
- strong><br>• 155lbs/70kg Lightweight<br>• Steele: 8-1-0 | 31yo | Jiu-J
- itsu<br>• Gugnon: 10-2-0 | 26yo<br>• Odds history: not checked yet</p>
- <p><strong>🥊 1. 𝗜𝗮𝘀𝗺𝗶𝗻 𝗟𝘂𝗰𝗶𝗻𝗱𝗼 
+ 7yo | Freestyle | +456 (5.56)<br>• Chopurov: 11-0-0 | 24yo | MMA | -488 
+ (1.20)<br>• Odds history:<br>◦ 19 Oct: Thicknesse 🔴 +400 (5.00) | C
+ hopurov 🟢 -456 (1.22)<br>◦ 23 Oct: Thicknesse 🔴 +456 (5.56) | Chop
+ urov 🟢 -488 (1.20)</p><p><strong>🥊 4. 𝗔𝗯𝘂𝗯𝗮𝗸𝗮
+ 𝗿 𝗩𝗮𝗴𝗮𝗲𝘃 🇷🇺 vs. 𝗝𝗮𝗰𝗼𝗯 𝗠𝗮
+ 𝗹𝗸𝗼𝘂𝗻 🇦🇺</strong><br>• 185lbs/84kg Middleweight<br>
+ • Vagaev: 25-4-0 | 33yo | -150 (1.67)<br>• Malkoun: 10-3-0 | 31yo | MM
+ A | +144 (2.44)<br>• Odds history:<br>◦ 19 Oct: Vagaev 🟢 -170 (1.59
+ ) | Malkoun 🔴 +163 (2.63)<br>◦ 23 Oct: Vagaev 🟢 -150 (1.67) | Malk
+ oun 🔴 +144 (2.44)</p><p><strong>🥊 3. 𝗕𝗼𝗹𝗮𝗷𝗶 𝗢
+ 𝗸𝗶 🇧🇪 vs. 𝗗𝗮𝗻𝗶𝗲𝗹 𝗦𝗮𝗻𝘁𝗼𝘀 
+ 🇧🇷</strong><br>• 145lbs/66kg Featherweight<br>• Oki: 10-4-0 | 30
+ yo | MMA | +108 (2.08)<br>• Santos: 14-3-0 | 31yo | Muay Thai | -113 (1.
+ 88)<br>• Odds history:<br>◦ 23 Oct: Oki 🔴 +108 (2.08) | Santos 🟢
+  -113 (1.88)</p><p><strong>🥊 2. 𝗞𝗼𝗱𝘆 𝗦𝘁𝗲𝗲𝗹
+ 𝗲 🇺🇸 vs. 𝗡𝗼𝗮𝗵 𝗚𝘂𝗴𝗻𝗼𝗻 🇫🇷</stro
+ ng><br>• 155lbs/70kg Lightweight<br>• Steele: 8-1-0 | 31yo | Jiu-Jitsu
+  | -144 (1.69)<br>• Gugnon: 10-2-0 | 26yo | +138 (2.38)<br>• Odds hist
+ ory:<br>◦ 23 Oct: Steele 🟢 -144 (1.69) | Gugnon 🔴 +138 (2.38)</p><
+ p><strong>🥊 1. 𝗜𝗮𝘀𝗺𝗶𝗻 𝗟𝘂𝗰𝗶𝗻𝗱𝗼 
  🇧🇷 vs. 𝗡𝗶𝗰𝗼𝗹𝗹𝗲 𝗖𝗮𝗹𝗶𝗮𝗿𝗶 
  🇧🇷</strong><br>• 115lbs/52kg Women&#39\;s Strawweight<br>• Lucin
  do: 18-6-0 | 24yo | Striker<br>• Caliari: 9-4-0 | 29yo | MMA<br>• Odds
@@ -3874,8 +3882,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-prelims@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261021T115556Z
-SEQUENCE:9
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:10
 DTSTART:20261024T160000Z
 DTEND:20261024T180000Z
 SUMMARY:Prelims – UFC 333: Volkanovski vs Evloev
@@ -3885,35 +3893,38 @@ DESCRIPTION:UFC · Prelims · 4 bouts\n📍 Etihad Arena\, Yas Island/Yas W
  \n🥊 4. 𝗔𝘇𝗮𝗺𝗮𝘁 𝗠𝘂𝗿𝘇𝗮𝗸𝗮𝗻𝗼
  𝘃 (#7) 🇷🇺 vs. 𝗗𝗼𝗺𝗶𝗻𝗶𝗰𝗸 𝗥𝗲𝘆𝗲
  𝘀 (#8) 🇺🇸\n• 205lbs/93kg Light Heavyweight\n• Murzakanov: 16-
- 1-0 | 37yo | MMA | -186 (1.54)\n• Reyes: 16-5-0 | 36yo | Kickboxer | +19
- 0 (2.90)\n• Odds history:\n  ◦ 16 Oct: Murzakanov 🟢 -219 (1.46) | R
+ 1-0 | 37yo | MMA | -194 (1.52)\n• Reyes: 16-5-0 | 36yo | Kickboxer | +18
+ 6 (2.86)\n• Odds history:\n  ◦ 16 Oct: Murzakanov 🟢 -219 (1.46) | R
  eyes 🔴 +175 (2.75)\n  ◦ 19 Oct: Murzakanov 🟢 -186 (1.54) | Reyes 
- 🔴 +190 (2.90)\n\n🥊 3. 𝗡𝗶𝗸𝗶𝘁𝗮 𝗞𝗿𝘆𝗹𝗼
- 𝘃 (#15) 🇷🇺 vs. 𝗔𝗯𝗱𝘂𝗹 𝗥𝗮𝗸𝗵𝗺𝗮𝗻 
- 𝗬𝗮𝗸𝗵𝘆𝗮𝗲𝘃 🇹🇷\n• 205lbs/93kg Light Heavyweig
- ht\n• Krylov: 31-12-0 | 34yo | Karate | +400 (5.00)\n• Yakhyaev: 10-0-
- 0 | 25yo | MMA | -431 (1.23)\n• Odds history:\n  ◦ 16 Oct: Krylov 🔴
-  +350 (4.50) | Yakhyaev 🟢 -431 (1.23)\n  ◦ 19 Oct: Krylov 🔴 +400 (
- 5.00) | Yakhyaev 🟢 -431 (1.23)\n\n🥊 2. 𝗔𝗯𝘂𝘀 𝗠𝗮𝗴
- 𝗼𝗺𝗲𝗱𝗼𝘃 (#12) 🇩🇪 vs. 𝗖𝗮𝗺 𝗥𝗼𝘄𝘀
- 𝘁𝗼𝗻 🇦🇺\n• 185lbs/84kg Middleweight\n• Magomedov: 29-7-1
-  | 36yo | MMA | -105 (1.95)\n• Rowston: 15-3-0 | 31yo | Brazilian Jiu-Ji
- tsu | +110 (2.10)\n• Odds history:\n  ◦ 16 Oct: Magomedov 🔴 -105 (1
- .95) | Rowston 🟢 -112 (1.89)\n  ◦ 19 Oct: Magomedov 🟢 -105 (1.95) 
- | Rowston 🔴 +110 (2.10)\n\n🥊 1. 𝗚𝗿𝗮𝗻𝘁 𝗗𝗮𝘄
- 𝘀𝗼𝗻 🇺🇸 vs. 𝗡𝘂𝗿𝘂𝗹𝗹𝗼 𝗔𝗹𝗶𝗲
- 𝘃 🇹🇯\n• 155lbs/70kg Lightweight\n• Dawson: 24-3-1 | 32yo | -1
- 20 (1.83)\n• Aliev: 12-0-0 | 25yo | Wrestling | +117 (2.17)\n• Odds hi
- story:\n  ◦ 16 Oct: Dawson 🟢 -117 (1.85) | Aliev 🔴 +100 (2.00)\n  
- ◦ 19 Oct: Dawson 🟢 -120 (1.83) | Aliev 🔴 +117 (2.17)\n\n----------
- ----------------------\n𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪
- 𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢𝗨𝗧𝗦\n-------------------
- -------------\n✕ Arnold Allen vs. Aaron Pico · 145lbs/66kg Featherweigh
- t | Removed from the UFC card\n\n--------------------------------\nSource:
-  https://www.ufc.com/event/ufc-333\nOdds source: https://www.bestfightodds
- .com/ · best available line · checked Monday and Friday\nFull odds log: 
- https://staircasewit.github.io/mmacalendar/odds-history.html\nEvent status
- : Scheduled
+ 🔴 +190 (2.90)\n  ◦ 23 Oct: Murzakanov 🟢 -194 (1.52) | Reyes 🔴 +
+ 186 (2.86)\n\n🥊 3. 𝗡𝗶𝗸𝗶𝘁𝗮 𝗞𝗿𝘆𝗹𝗼𝘃 (#
+ 15) 🇷🇺 vs. 𝗔𝗯𝗱𝘂𝗹 𝗥𝗮𝗸𝗵𝗺𝗮𝗻 𝗬
+ 𝗮𝗸𝗵𝘆𝗮𝗲𝘃 🇹🇷\n• 205lbs/93kg Light Heavyweight\n
+ • Krylov: 31-12-0 | 34yo | Karate | +456 (5.56)\n• Yakhyaev: 10-0-0 | 
+ 25yo | MMA | -488 (1.20)\n• Odds history:\n  ◦ 16 Oct: Krylov 🔴 +35
+ 0 (4.50) | Yakhyaev 🟢 -431 (1.23)\n  ◦ 19 Oct: Krylov 🔴 +400 (5.00
+ ) | Yakhyaev 🟢 -431 (1.23)\n  ◦ 23 Oct: Krylov 🔴 +456 (5.56) | Yak
+ hyaev 🟢 -488 (1.20)\n\n🥊 2. 𝗔𝗯𝘂𝘀 𝗠𝗮𝗴𝗼𝗺
+ 𝗲𝗱𝗼𝘃 (#12) 🇩🇪 vs. 𝗖𝗮𝗺 𝗥𝗼𝘄𝘀𝘁𝗼
+ 𝗻 🇦🇺\n• 185lbs/84kg Middleweight\n• Magomedov: 29-7-1 | 36yo 
+ | MMA | -117 (1.85)\n• Rowston: 15-3-0 | 31yo | Brazilian Jiu-Jitsu | +1
+ 13 (2.13)\n• Odds history:\n  ◦ 16 Oct: Magomedov 🔴 -105 (1.95) | R
+ owston 🟢 -112 (1.89)\n  ◦ 19 Oct: Magomedov 🟢 -105 (1.95) | Rowsto
+ n 🔴 +110 (2.10)\n  ◦ 23 Oct: Magomedov 🟢 -117 (1.85) | Rowston 
+ 🔴 +113 (2.13)\n\n🥊 1. 𝗚𝗿𝗮𝗻𝘁 𝗗𝗮𝘄𝘀𝗼𝗻 
+ 🇺🇸 vs. 𝗡𝘂𝗿𝘂𝗹𝗹𝗼 𝗔𝗹𝗶𝗲𝘃 🇹🇯\n
+ • 155lbs/70kg Lightweight\n• Dawson: 24-3-1 | 32yo | -108 (1.93)\n• 
+ Aliev: 12-0-0 | 25yo | Wrestling | +104 (2.04)\n• Odds history:\n  ◦ 1
+ 6 Oct: Dawson 🟢 -117 (1.85) | Aliev 🔴 +100 (2.00)\n  ◦ 19 Oct: Daw
+ son 🟢 -120 (1.83) | Aliev 🔴 +117 (2.17)\n  ◦ 23 Oct: Dawson 🟢 -
+ 108 (1.93) | Aliev 🔴 +104 (2.04)\n\n--------------------------------\n
+ 𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔
+ 𝗪𝗡 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n✕ Arnol
+ d Allen vs. Aaron Pico · 145lbs/66kg Featherweight | Removed from the UFC
+  card\n\n--------------------------------\nSource: https://www.ufc.com/eve
+ nt/ufc-333\nOdds source: https://www.bestfightodds.com/ · best available 
+ line · checked Monday and Friday\nFull odds log: https://staircasewit.git
+ hub.io/mmacalendar/odds-history.html\nEvent status: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 4 bouts<br>
  📍 Etihad Arena\, Yas Island/Yas West\, United Arab Emirates<br>🕒 17:
  00–19:00 Ireland</p><p>--------------------------------<br><strong>𝗕
@@ -3921,38 +3932,41 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 4 bouts<br>
  g>🥊 4. 𝗔𝘇𝗮𝗺𝗮𝘁 𝗠𝘂𝗿𝘇𝗮𝗸𝗮𝗻𝗼
  𝘃 (#7) 🇷🇺 vs. 𝗗𝗼𝗺𝗶𝗻𝗶𝗰𝗸 𝗥𝗲𝘆𝗲
  𝘀 (#8) 🇺🇸</strong><br>• 205lbs/93kg Light Heavyweight<br>• Mu
- rzakanov: 16-1-0 | 37yo | MMA | -186 (1.54)<br>• Reyes: 16-5-0 | 36yo | 
- Kickboxer | +190 (2.90)<br>• Odds history:<br>◦ 16 Oct: Murzakanov 
+ rzakanov: 16-1-0 | 37yo | MMA | -194 (1.52)<br>• Reyes: 16-5-0 | 36yo | 
+ Kickboxer | +186 (2.86)<br>• Odds history:<br>◦ 16 Oct: Murzakanov 
  🟢 -219 (1.46) | Reyes 🔴 +175 (2.75)<br>◦ 19 Oct: Murzakanov 🟢 -
- 186 (1.54) | Reyes 🔴 +190 (2.90)</p><p><strong>🥊 3. 𝗡𝗶𝗸𝗶
- 𝘁𝗮 𝗞𝗿𝘆𝗹𝗼𝘃 (#15) 🇷🇺 vs. 𝗔𝗯𝗱𝘂𝗹 
- 𝗥𝗮𝗸𝗵𝗺𝗮𝗻 𝗬𝗮𝗸𝗵𝘆𝗮𝗲𝘃 🇹🇷</st
- rong><br>• 205lbs/93kg Light Heavyweight<br>• Krylov: 31-12-0 | 34yo |
-  Karate | +400 (5.00)<br>• Yakhyaev: 10-0-0 | 25yo | MMA | -431 (1.23)<b
- r>• Odds history:<br>◦ 16 Oct: Krylov 🔴 +350 (4.50) | Yakhyaev 🟢
-  -431 (1.23)<br>◦ 19 Oct: Krylov 🔴 +400 (5.00) | Yakhyaev 🟢 -431 (
- 1.23)</p><p><strong>🥊 2. 𝗔𝗯𝘂𝘀 𝗠𝗮𝗴𝗼𝗺𝗲𝗱
- 𝗼𝘃 (#12) 🇩🇪 vs. 𝗖𝗮𝗺 𝗥𝗼𝘄𝘀𝘁𝗼𝗻 🇦
- 🇺</strong><br>• 185lbs/84kg Middleweight<br>• Magomedov: 29-7-1 | 3
- 6yo | MMA | -105 (1.95)<br>• Rowston: 15-3-0 | 31yo | Brazilian Jiu-Jits
- u | +110 (2.10)<br>• Odds history:<br>◦ 16 Oct: Magomedov 🔴 -105 (1
- .95) | Rowston 🟢 -112 (1.89)<br>◦ 19 Oct: Magomedov 🟢 -105 (1.95) 
- | Rowston 🔴 +110 (2.10)</p><p><strong>🥊 1. 𝗚𝗿𝗮𝗻𝘁 𝗗
- 𝗮𝘄𝘀𝗼𝗻 🇺🇸 vs. 𝗡𝘂𝗿𝘂𝗹𝗹𝗼 𝗔𝗹
- 𝗶𝗲𝘃 🇹🇯</strong><br>• 155lbs/70kg Lightweight<br>• Dawso
- n: 24-3-1 | 32yo | -120 (1.83)<br>• Aliev: 12-0-0 | 25yo | Wrestling | +
- 117 (2.17)<br>• Odds history:<br>◦ 16 Oct: Dawson 🟢 -117 (1.85) | A
- liev 🔴 +100 (2.00)<br>◦ 19 Oct: Dawson 🟢 -120 (1.83) | Aliev 🔴 
- +117 (2.17)</p><p>--------------------------------<br><strong>𝗖𝗔𝗡
- 𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 
- 𝗕𝗢𝗨𝗧𝗦</strong><br>--------------------------------<br>✕ A
- rnold Allen vs. Aaron Pico · 145lbs/66kg Featherweight | Removed from the
-  UFC card</p><p>--------------------------------<br>Source: <a href="https
- ://www.ufc.com/event/ufc-333">UFC.com</a><br>Odds source: <a href="https:/
- /www.bestfightodds.com/">BestFightOdds</a> · best available line · check
- ed Monday and Friday<br>Full odds log: <a href="https://staircasewit.githu
- b.io/mmacalendar/odds-history.html">view history</a><br>Event status: Sche
- duled</p></body></html>
+ 186 (1.54) | Reyes 🔴 +190 (2.90)<br>◦ 23 Oct: Murzakanov 🟢 -194 (1
+ .52) | Reyes 🔴 +186 (2.86)</p><p><strong>🥊 3. 𝗡𝗶𝗸𝗶𝘁
+ 𝗮 𝗞𝗿𝘆𝗹𝗼𝘃 (#15) 🇷🇺 vs. 𝗔𝗯𝗱𝘂𝗹 𝗥
+ 𝗮𝗸𝗵𝗺𝗮𝗻 𝗬𝗮𝗸𝗵𝘆𝗮𝗲𝘃 🇹🇷</strong
+ ><br>• 205lbs/93kg Light Heavyweight<br>• Krylov: 31-12-0 | 34yo | Kar
+ ate | +456 (5.56)<br>• Yakhyaev: 10-0-0 | 25yo | MMA | -488 (1.20)<br>
+ • Odds history:<br>◦ 16 Oct: Krylov 🔴 +350 (4.50) | Yakhyaev 🟢 -
+ 431 (1.23)<br>◦ 19 Oct: Krylov 🔴 +400 (5.00) | Yakhyaev 🟢 -431 (1.
+ 23)<br>◦ 23 Oct: Krylov 🔴 +456 (5.56) | Yakhyaev 🟢 -488 (1.20)</p>
+ <p><strong>🥊 2. 𝗔𝗯𝘂𝘀 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝗼𝘃 (
+ #12) 🇩🇪 vs. 𝗖𝗮𝗺 𝗥𝗼𝘄𝘀𝘁𝗼𝗻 🇦🇺</stro
+ ng><br>• 185lbs/84kg Middleweight<br>• Magomedov: 29-7-1 | 36yo | MMA 
+ | -117 (1.85)<br>• Rowston: 15-3-0 | 31yo | Brazilian Jiu-Jitsu | +113 (
+ 2.13)<br>• Odds history:<br>◦ 16 Oct: Magomedov 🔴 -105 (1.95) | Row
+ ston 🟢 -112 (1.89)<br>◦ 19 Oct: Magomedov 🟢 -105 (1.95) | Rowston 
+ 🔴 +110 (2.10)<br>◦ 23 Oct: Magomedov 🟢 -117 (1.85) | Rowston 🔴 
+ +113 (2.13)</p><p><strong>🥊 1. 𝗚𝗿𝗮𝗻𝘁 𝗗𝗮𝘄𝘀
+ 𝗼𝗻 🇺🇸 vs. 𝗡𝘂𝗿𝘂𝗹𝗹𝗼 𝗔𝗹𝗶𝗲𝘃 
+ 🇹🇯</strong><br>• 155lbs/70kg Lightweight<br>• Dawson: 24-3-1 | 3
+ 2yo | -108 (1.93)<br>• Aliev: 12-0-0 | 25yo | Wrestling | +104 (2.04)<br
+ >• Odds history:<br>◦ 16 Oct: Dawson 🟢 -117 (1.85) | Aliev 🔴 +10
+ 0 (2.00)<br>◦ 19 Oct: Dawson 🟢 -120 (1.83) | Aliev 🔴 +117 (2.17)<b
+ r>◦ 23 Oct: Dawson 🟢 -108 (1.93) | Aliev 🔴 +104 (2.04)</p><p>-----
+ ---------------------------<br><strong>𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘
+ 𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢𝗨𝗧𝗦</s
+ trong><br>--------------------------------<br>✕ Arnold Allen vs. Aaron P
+ ico · 145lbs/66kg Featherweight | Removed from the UFC card</p><p>-------
+ -------------------------<br>Source: <a href="https://www.ufc.com/event/uf
+ c-333">UFC.com</a><br>Odds source: <a href="https://www.bestfightodds.com/
+ ">BestFightOdds</a> · best available line · checked Monday and Friday<br
+ >Full odds log: <a href="https://staircasewit.github.io/mmacalendar/odds-h
+ istory.html">view history</a><br>Event status: Scheduled</p></body></html>
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Prelims
@@ -3961,8 +3975,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-main-card@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261019T132427Z
-SEQUENCE:9
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:10
 DTSTART:20261024T180000Z
 DTEND:20261024T210000Z
 SUMMARY:Main Card – UFC 333: Volkanovski vs Evloev
@@ -3980,10 +3994,10 @@ DESCRIPTION:UFC · Main Card · 5 bouts\n📍 Etihad Arena\, Yas Island/Yas
  og\n\n🥊 4. 𝗣𝗲𝘁𝗿 𝗬𝗮𝗻 (C) 🇷🇺 vs. 𝗠𝗲𝗿
  𝗮𝗯 𝗗𝘃𝗮𝗹𝗶𝘀𝗵𝘃𝗶𝗹𝗶 (#1) 🇬🇪\n• 1
  35lbs/61kg Bantamweight · Title Bout\n• Yan: 20-5-0 | 33yo | Boxer | -1
- 50 (1.67)\n• Dvalishvili: 21-5-0 | 35yo | Freestyle | +150 (2.50)\n• O
- dds history:\n  ◦ 12 Oct: Yan 🟢 -172 (1.58) | Dvalishvili 🔴 +160 (
- 2.60)\n  ◦ 16 Oct: Yan 🟢 -168 (1.60) | Dvalishvili 🔴 +160 (2.60)\n
-   ◦ 19 Oct: Yan 🟢 -150 (1.67) | Dvalishvili 🔴 +150 (2.50)\n  ◦ E
+ 38 (1.72)\n• Dvalishvili: 21-5-0 | 35yo | Freestyle | +133 (2.33)\n• O
+ dds history:\n  ◦ 16 Oct: Yan 🟢 -168 (1.60) | Dvalishvili 🔴 +160 (
+ 2.60)\n  ◦ 19 Oct: Yan 🟢 -150 (1.67) | Dvalishvili 🔴 +150 (2.50)\n
+   ◦ 23 Oct: Yan 🟢 -138 (1.72) | Dvalishvili 🔴 +133 (2.33)\n  ◦ E
  arlier changes: see full odds log\n\n🥊 3. 𝗟𝗼𝗻𝗲’𝗲𝗿 
  𝗞𝗮𝘃𝗮𝗻𝗮𝗴𝗵 (#6) 🇪🇳 vs. 𝗥𝗮𝗺𝗮𝘇
  𝗮𝗻 𝗧𝗲𝗺𝗶𝗿𝗼𝘃 (#10) 🇺🇿\n• 125lbs/57kg Flyw
@@ -3991,23 +4005,24 @@ DESCRIPTION:UFC · Main Card · 5 bouts\n📍 Etihad Arena\, Yas Island/Yas
   | Striker\n• Odds history: not checked yet\n\n🥊 2. 𝗔𝗹𝗲𝘅
  𝗮𝗻𝗱𝗲𝗿 𝗩𝗼𝗹𝗸𝗼𝘃 (#2) 🇷🇺 vs. 𝗥𝗶
  𝘇𝘃𝗮𝗻 𝗞𝘂𝗻𝗶𝗲𝘃 (#7) 🇷🇺\n• 265lbs/120kg 
- Heavyweight\n• Volkov: 40-11-0 | 38yo | Brazilian Jiu-Jitsu | -113 (1.88
- )\n• Kuniev: 14-3-1 | 34yo | +110 (2.10)\n• Odds history:\n  ◦ 16 Oc
+ Heavyweight\n• Volkov: 40-11-0 | 38yo | Brazilian Jiu-Jitsu | -117 (1.85
+ )\n• Kuniev: 14-3-1 | 34yo | +113 (2.13)\n• Odds history:\n  ◦ 16 Oc
  t: Volkov 🟢 -121 (1.83) | Kuniev 🔴 +110 (2.10)\n  ◦ 19 Oct: Volkov
-  🟢 -113 (1.88) | Kuniev 🔴 +110 (2.10)\n\n🥊 1. 𝗔𝗮𝗿𝗼
- 𝗻 𝗣𝗶𝗰𝗼 (#11) 🇺🇸 vs. 𝗟𝗼𝘀𝗲𝗻𝗲 𝗞𝗲
- 𝗶𝘁𝗮 🇧🇪\n• 145lbs/66kg Featherweight\n• Pico: 14-5-0 | 3
- 0yo | Boxing | +100 (2.00)\n• Keita: 17-2-0 | 28yo | MMA | -100 (2.00)\n
- • Odds history:\n  ◦ 16 Oct: Pico 🔴 +100 (2.00) | Keita 🟢 -121 (
- 1.83)\n  ◦ 19 Oct: Pico 🔴 +100 (2.00) | Keita 🟢 -100 (2.00)\n\n---
- -----------------------------\n𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢
- 𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢𝗨𝗧𝗦\n----------
- ----------------------\n✕ Arnold Allen vs. Aaron Pico · 145lbs/66kg Fea
- therweight | Removed from the UFC card\n\n--------------------------------
- \nSource: https://www.ufc.com/event/ufc-333\nOdds source: https://www.best
- fightodds.com/ · best available line · checked Monday and Friday\nFull o
- dds log: https://staircasewit.github.io/mmacalendar/odds-history.html\nEve
- nt status: Scheduled
+  🟢 -113 (1.88) | Kuniev 🔴 +110 (2.10)\n  ◦ 23 Oct: Volkov 🟢 -11
+ 7 (1.85) | Kuniev 🔴 +113 (2.13)\n\n🥊 1. 𝗔𝗮𝗿𝗼𝗻 𝗣
+ 𝗶𝗰𝗼 (#11) 🇺🇸 vs. 𝗟𝗼𝘀𝗲𝗻𝗲 𝗞𝗲𝗶𝘁
+ 𝗮 🇧🇪\n• 145lbs/66kg Featherweight\n• Pico: 14-5-0 | 30yo | Bo
+ xing | -133 (1.75)\n• Keita: 17-2-0 | 28yo | MMA | +127 (2.27)\n• Odds
+  history:\n  ◦ 16 Oct: Pico 🔴 +100 (2.00) | Keita 🟢 -121 (1.83)\n 
+  ◦ 19 Oct: Pico 🔴 +100 (2.00) | Keita 🟢 -100 (2.00)\n  ◦ 23 Oct:
+  Pico 🟢 -133 (1.75) | Keita 🔴 +127 (2.27)\n\n-----------------------
+ ---------\n𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛
+ 𝗗𝗥𝗔𝗪𝗡 𝗕𝗢𝗨𝗧𝗦\n-------------------------------
+ -\n✕ Arnold Allen vs. Aaron Pico · 145lbs/66kg Featherweight | Removed 
+ from the UFC card\n\n--------------------------------\nSource: https://www
+ .ufc.com/event/ufc-333\nOdds source: https://www.bestfightodds.com/ · bes
+ t available line · checked Monday and Friday\nFull odds log: https://stai
+ rcasewit.github.io/mmacalendar/odds-history.html\nEvent status: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  📍 Etihad Arena\, Yas Island/Yas West\, United Arab Emirates<br>🕒 19:
  00–22:00 Ireland</p><p>--------------------------------<br><strong>𝗕
@@ -4023,11 +4038,11 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
   see full odds log</p><p><strong>🥊 4. 𝗣𝗲𝘁𝗿 𝗬𝗮𝗻 (C)
   🇷🇺 vs. 𝗠𝗲𝗿𝗮𝗯 𝗗𝘃𝗮𝗹𝗶𝘀𝗵𝘃𝗶
  𝗹𝗶 (#1) 🇬🇪</strong><br>• 135lbs/61kg Bantamweight · Title B
- out<br>• Yan: 20-5-0 | 33yo | Boxer | -150 (1.67)<br>• Dvalishvili: 21
- -5-0 | 35yo | Freestyle | +150 (2.50)<br>• Odds history:<br>◦ 12 Oct: 
- Yan 🟢 -172 (1.58) | Dvalishvili 🔴 +160 (2.60)<br>◦ 16 Oct: Yan 
- 🟢 -168 (1.60) | Dvalishvili 🔴 +160 (2.60)<br>◦ 19 Oct: Yan 🟢 -1
- 50 (1.67) | Dvalishvili 🔴 +150 (2.50)<br>◦ Earlier changes: see full 
+ out<br>• Yan: 20-5-0 | 33yo | Boxer | -138 (1.72)<br>• Dvalishvili: 21
+ -5-0 | 35yo | Freestyle | +133 (2.33)<br>• Odds history:<br>◦ 16 Oct: 
+ Yan 🟢 -168 (1.60) | Dvalishvili 🔴 +160 (2.60)<br>◦ 19 Oct: Yan 
+ 🟢 -150 (1.67) | Dvalishvili 🔴 +150 (2.50)<br>◦ 23 Oct: Yan 🟢 -1
+ 38 (1.72) | Dvalishvili 🔴 +133 (2.33)<br>◦ Earlier changes: see full 
  odds log</p><p><strong>🥊 3. 𝗟𝗼𝗻𝗲’𝗲𝗿 𝗞𝗮𝘃
  𝗮𝗻𝗮𝗴𝗵 (#6) 🇪🇳 vs. 𝗥𝗮𝗺𝗮𝘇𝗮𝗻 𝗧
  𝗲𝗺𝗶𝗿𝗼𝘃 (#10) 🇺🇿</strong><br>• 125lbs/57kg Flywei
@@ -4036,24 +4051,26 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗲𝗿 𝗩𝗼𝗹𝗸𝗼𝘃 (#2) 🇷
  🇺 vs. 𝗥𝗶𝘇𝘃𝗮𝗻 𝗞𝘂𝗻𝗶𝗲𝘃 (#7) 🇷🇺</
  strong><br>• 265lbs/120kg Heavyweight<br>• Volkov: 40-11-0 | 38yo | Br
- azilian Jiu-Jitsu | -113 (1.88)<br>• Kuniev: 14-3-1 | 34yo | +110 (2.10)
+ azilian Jiu-Jitsu | -117 (1.85)<br>• Kuniev: 14-3-1 | 34yo | +113 (2.13)
  <br>• Odds history:<br>◦ 16 Oct: Volkov 🟢 -121 (1.83) | Kuniev 🔴
   +110 (2.10)<br>◦ 19 Oct: Volkov 🟢 -113 (1.88) | Kuniev 🔴 +110 (2.
- 10)</p><p><strong>🥊 1. 𝗔𝗮𝗿𝗼𝗻 𝗣𝗶𝗰𝗼 (#11) 🇺
- 🇸 vs. 𝗟𝗼𝘀𝗲𝗻𝗲 𝗞𝗲𝗶𝘁𝗮 🇧🇪</strong><b
- r>• 145lbs/66kg Featherweight<br>• Pico: 14-5-0 | 30yo | Boxing | +100
-  (2.00)<br>• Keita: 17-2-0 | 28yo | MMA | -100 (2.00)<br>• Odds histor
- y:<br>◦ 16 Oct: Pico 🔴 +100 (2.00) | Keita 🟢 -121 (1.83)<br>◦ 19
-  Oct: Pico 🔴 +100 (2.00) | Keita 🟢 -100 (2.00)</p><p>---------------
- -----------------<br><strong>𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥
-  𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢𝗨𝗧𝗦</strong><br>---
- -----------------------------<br>✕ Arnold Allen vs. Aaron Pico · 145lbs
- /66kg Featherweight | Removed from the UFC card</p><p>--------------------
- ------------<br>Source: <a href="https://www.ufc.com/event/ufc-333">UFC.co
- m</a><br>Odds source: <a href="https://www.bestfightodds.com/">BestFightOd
- ds</a> · best available line · checked Monday and Friday<br>Full odds lo
- g: <a href="https://staircasewit.github.io/mmacalendar/odds-history.html">
- view history</a><br>Event status: Scheduled</p></body></html>
+ 10)<br>◦ 23 Oct: Volkov 🟢 -117 (1.85) | Kuniev 🔴 +113 (2.13)</p><p
+ ><strong>🥊 1. 𝗔𝗮𝗿𝗼𝗻 𝗣𝗶𝗰𝗼 (#11) 🇺🇸 vs. 
+ 𝗟𝗼𝘀𝗲𝗻𝗲 𝗞𝗲𝗶𝘁𝗮 🇧🇪</strong><br>• 145
+ lbs/66kg Featherweight<br>• Pico: 14-5-0 | 30yo | Boxing | -133 (1.75)<b
+ r>• Keita: 17-2-0 | 28yo | MMA | +127 (2.27)<br>• Odds history:<br>◦
+  16 Oct: Pico 🔴 +100 (2.00) | Keita 🟢 -121 (1.83)<br>◦ 19 Oct: Pic
+ o 🔴 +100 (2.00) | Keita 🟢 -100 (2.00)<br>◦ 23 Oct: Pico 🟢 -133 
+ (1.75) | Keita 🔴 +127 (2.27)</p><p>--------------------------------<br>
+ <strong>𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗
+ 𝗥𝗔𝗪𝗡 𝗕𝗢𝗨𝗧𝗦</strong><br>------------------------
+ --------<br>✕ Arnold Allen vs. Aaron Pico · 145lbs/66kg Featherweight |
+  Removed from the UFC card</p><p>--------------------------------<br>Sourc
+ e: <a href="https://www.ufc.com/event/ufc-333">UFC.com</a><br>Odds source:
+  <a href="https://www.bestfightodds.com/">BestFightOdds</a> · best availa
+ ble line · checked Monday and Friday<br>Full odds log: <a href="https://s
+ taircasewit.github.io/mmacalendar/odds-history.html">view history</a><br>E
+ vent status: Scheduled</p></body></html>
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Main Card
@@ -4744,8 +4761,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-335-main-card@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:6
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:7
 DTSTART:20261213T020000Z
 DTEND:20261213T050000Z
 SUMMARY:Main Card – UFC 335: Oliveira vs Lopes
@@ -4756,33 +4773,35 @@ DESCRIPTION:UFC · Main Card · 5 bouts announced · placement TBD\n📍 T-
  -----------\n\n🥊 5. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗢𝗹𝗶𝘃𝗲
  𝗶𝗿𝗮 (#3) 🇧🇷 vs. 𝗗𝗶𝗲𝗴𝗼 𝗟𝗼𝗽𝗲𝘀 
  🇧🇷\n• 155lbs/70kg Lightweight\n• Oliveira: 37-11-0 | 37yo | Jiu-
- Jitsu | -150 (1.67)\n• Lopes: 28-8-0 | 31yo | Jiu-Jitsu | +125 (2.25)\n
+ Jitsu | -150 (1.67)\n• Lopes: 28-8-0 | 31yo | Jiu-Jitsu | +126 (2.26)\n
  • Odds history:\n  ◦ 9 Oct: Oliveira 🟢 -155 (1.65) | Lopes 🔴 +14
  5 (2.45)\n  ◦ 16 Oct: Oliveira 🟢 -150 (1.67) | Lopes 🔴 +125 (2.25)
- \n\n🥊 4. 𝗦𝗲𝗿𝗴𝗲𝗶 𝗣𝗮𝘃𝗹𝗼𝘃𝗶𝗰𝗵 
- (#3) 🇷🇺 vs. 𝗔𝗹𝗲𝘅 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 🇧🇷\n
- • 265lbs/120kg Heavyweight\n• Pavlovich: 21-3-0 | 34yo | MMA | -175 (1
- .57)\n• Pereira: 13-4-0 | 39yo | Kickboxer | +163 (2.63)\n• Odds histo
- ry:\n  ◦ 9 Oct: Pavlovich 🟢 -150 (1.67) | Pereira 🔴 +135 (2.35)\n 
-  ◦ 12 Oct: Pavlovich 🟢 -175 (1.57) | Pereira 🔴 +145 (2.45)\n  ◦ 
- 16 Oct: Pavlovich 🟢 -175 (1.57) | Pereira 🔴 +163 (2.63)\n\n🥊 3. 
- 𝗕𝗿𝗮𝗻𝗱𝗼𝗻 𝗠𝗼𝗿𝗲𝗻𝗼 (#8) 🇲🇽 vs. 
- 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗝𝗼𝗵𝗻𝘀𝗼𝗻 🇺🇸\n• 12
- 5lbs/57kg Flyweight\n• Moreno: 24-10-2 | 33yo | Jiu-Jitsu\n• Johnson: 
- 20-9-0 | 35yo\n• Odds history: not checked yet\n\n🥊 2. 𝗤𝘂𝗲
- 𝗻𝘁𝗶𝗻 𝗣𝗮𝘀𝗹𝗲𝘆 🇺🇸 vs. 𝗝𝘂𝗻𝗶
- 𝗼𝗿 𝗧𝗮𝗳𝗮 🇦🇺\n• 205lbs/93kg Light Heavyweight\n•
-  Pasley: 1-0-0 | 25yo\n• Tafa: 7-6-0 | 30yo | Kickboxer\n• Odds histor
- y: not checked yet\n\n🥊 1. 𝗝𝗼𝗲 𝗣𝘆𝗳𝗲𝗿 (#6) 🇺
- 🇸 vs. 𝗕𝗼 𝗡𝗶𝗰𝗸𝗮𝗹 (#14) 🇺🇸\n• 185lbs/84kg
-  Middleweight\n• Pyfer: 16-3-0 | 30yo | Boxing | -182 (1.55)\n• Nickal
- : 9-1-0 | 30yo | Wrestler | +145 (2.45)\n• Odds history:\n  ◦ 9 Oct: P
- yfer 🟢 -157 (1.64) | Nickal 🔴 +125 (2.25)\n  ◦ 12 Oct: Pyfer 🟢 
- -182 (1.55) | Nickal 🔴 +145 (2.45)\n\n--------------------------------\
- nSource: https://www.ufc.com/event/ufc-335\nOdds source: https://www.bestf
- ightodds.com/ · best available line · checked Monday and Friday\nFull od
- ds log: https://staircasewit.github.io/mmacalendar/odds-history.html\nEven
- t status: Scheduled
+ \n  ◦ 23 Oct: Oliveira 🟢 -150 (1.67) | Lopes 🔴 +126 (2.26)\n\n🥊
+  4. 𝗦𝗲𝗿𝗴𝗲𝗶 𝗣𝗮𝘃𝗹𝗼𝘃𝗶𝗰𝗵 (#3) 
+ 🇷🇺 vs. 𝗔𝗹𝗲𝘅 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 🇧🇷\n• 2
+ 65lbs/120kg Heavyweight\n• Pavlovich: 21-3-0 | 34yo | MMA | -200 (1.50)\
+ n• Pereira: 13-4-0 | 39yo | Kickboxer | +163 (2.63)\n• Odds history:\n
+   ◦ 12 Oct: Pavlovich 🟢 -175 (1.57) | Pereira 🔴 +145 (2.45)\n  ◦
+  16 Oct: Pavlovich 🟢 -175 (1.57) | Pereira 🔴 +163 (2.63)\n  ◦ 23 O
+ ct: Pavlovich 🟢 -200 (1.50) | Pereira 🔴 +163 (2.63)\n  ◦ Earlier c
+ hanges: see full odds log\n\n🥊 3. 𝗕𝗿𝗮𝗻𝗱𝗼𝗻 𝗠𝗼
+ 𝗿𝗲𝗻𝗼 (#8) 🇲🇽 vs. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗝𝗼
+ 𝗵𝗻𝘀𝗼𝗻 🇺🇸\n• 125lbs/57kg Flyweight\n• Moreno: 24-1
+ 0-2 | 33yo | Jiu-Jitsu\n• Johnson: 20-9-0 | 35yo\n• Odds history: not 
+ checked yet\n\n🥊 2. 𝗤𝘂𝗲𝗻𝘁𝗶𝗻 𝗣𝗮𝘀𝗹𝗲
+ 𝘆 🇺🇸 vs. 𝗝𝘂𝗻𝗶𝗼𝗿 𝗧𝗮𝗳𝗮 🇦🇺\n• 
+ 205lbs/93kg Light Heavyweight\n• Pasley: 1-0-0 | 25yo\n• Tafa: 7-6-0 |
+  30yo | Kickboxer\n• Odds history: not checked yet\n\n🥊 1. 𝗝𝗼
+ 𝗲 𝗣𝘆𝗳𝗲𝗿 (#6) 🇺🇸 vs. 𝗕𝗼 𝗡𝗶𝗰𝗸𝗮
+ 𝗹 (#14) 🇺🇸\n• 185lbs/84kg Middleweight\n• Pyfer: 16-3-0 | 30y
+ o | Boxing | -200 (1.50)\n• Nickal: 9-1-0 | 30yo | Wrestler | +160 (2.60
+ )\n• Odds history:\n  ◦ 9 Oct: Pyfer 🟢 -157 (1.64) | Nickal 🔴 +1
+ 25 (2.25)\n  ◦ 12 Oct: Pyfer 🟢 -182 (1.55) | Nickal 🔴 +145 (2.45)\
+ n  ◦ 23 Oct: Pyfer 🟢 -200 (1.50) | Nickal 🔴 +160 (2.60)\n\n-------
+ -------------------------\nSource: https://www.ufc.com/event/ufc-335\nOdds
+  source: https://www.bestfightodds.com/ · best available line · checked 
+ Monday and Friday\nFull odds log: https://staircasewit.github.io/mmacalend
+ ar/odds-history.html\nEvent status: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts ann
  ounced · placement TBD<br>📍 T-Mobile Arena\, Las Vegas\, United States
  <br>🕒 02:00–05:00 Ireland<br>This provisional entry updates automatic
@@ -4792,35 +4811,37 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts ann
  𝗶𝗿𝗮 (#3) 🇧🇷 vs. 𝗗𝗶𝗲𝗴𝗼 𝗟𝗼𝗽𝗲𝘀 
  🇧🇷</strong><br>• 155lbs/70kg Lightweight<br>• Oliveira: 37-11-0 
  | 37yo | Jiu-Jitsu | -150 (1.67)<br>• Lopes: 28-8-0 | 31yo | Jiu-Jitsu |
-  +125 (2.25)<br>• Odds history:<br>◦ 9 Oct: Oliveira 🟢 -155 (1.65) 
+  +126 (2.26)<br>• Odds history:<br>◦ 9 Oct: Oliveira 🟢 -155 (1.65) 
  | Lopes 🔴 +145 (2.45)<br>◦ 16 Oct: Oliveira 🟢 -150 (1.67) | Lopes 
- 🔴 +125 (2.25)</p><p><strong>🥊 4. 𝗦𝗲𝗿𝗴𝗲𝗶 𝗣𝗮
- 𝘃𝗹𝗼𝘃𝗶𝗰𝗵 (#3) 🇷🇺 vs. 𝗔𝗹𝗲𝘅 𝗣𝗲
- 𝗿𝗲𝗶𝗿𝗮 🇧🇷</strong><br>• 265lbs/120kg Heavyweight<br>
- • Pavlovich: 21-3-0 | 34yo | MMA | -175 (1.57)<br>• Pereira: 13-4-0 | 
- 39yo | Kickboxer | +163 (2.63)<br>• Odds history:<br>◦ 9 Oct: Pavlovic
- h 🟢 -150 (1.67) | Pereira 🔴 +135 (2.35)<br>◦ 12 Oct: Pavlovich 
- 🟢 -175 (1.57) | Pereira 🔴 +145 (2.45)<br>◦ 16 Oct: Pavlovich 🟢 
- -175 (1.57) | Pereira 🔴 +163 (2.63)</p><p><strong>🥊 3. 𝗕𝗿𝗮
- 𝗻𝗱𝗼𝗻 𝗠𝗼𝗿𝗲𝗻𝗼 (#8) 🇲🇽 vs. 𝗖𝗵𝗮
- 𝗿𝗹𝗲𝘀 𝗝𝗼𝗵𝗻𝘀𝗼𝗻 🇺🇸</strong><br>• 125
- lbs/57kg Flyweight<br>• Moreno: 24-10-2 | 33yo | Jiu-Jitsu<br>• Johnso
- n: 20-9-0 | 35yo<br>• Odds history: not checked yet</p><p><strong>🥊 2
- . 𝗤𝘂𝗲𝗻𝘁𝗶𝗻 𝗣𝗮𝘀𝗹𝗲𝘆 🇺🇸 vs. 𝗝
- 𝘂𝗻𝗶𝗼𝗿 𝗧𝗮𝗳𝗮 🇦🇺</strong><br>• 205lbs/93kg
-  Light Heavyweight<br>• Pasley: 1-0-0 | 25yo<br>• Tafa: 7-6-0 | 30yo |
-  Kickboxer<br>• Odds history: not checked yet</p><p><strong>🥊 1. 𝗝
- 𝗼𝗲 𝗣𝘆𝗳𝗲𝗿 (#6) 🇺🇸 vs. 𝗕𝗼 𝗡𝗶𝗰𝗸
- 𝗮𝗹 (#14) 🇺🇸</strong><br>• 185lbs/84kg Middleweight<br>• Py
- fer: 16-3-0 | 30yo | Boxing | -182 (1.55)<br>• Nickal: 9-1-0 | 30yo | Wr
- estler | +145 (2.45)<br>• Odds history:<br>◦ 9 Oct: Pyfer 🟢 -157 (1
- .64) | Nickal 🔴 +125 (2.25)<br>◦ 12 Oct: Pyfer 🟢 -182 (1.55) | Nic
- kal 🔴 +145 (2.45)</p><p>--------------------------------<br>Source: <a 
- href="https://www.ufc.com/event/ufc-335">UFC.com</a><br>Odds source: <a hr
- ef="https://www.bestfightodds.com/">BestFightOdds</a> · best available li
- ne · checked Monday and Friday<br>Full odds log: <a href="https://stairca
- sewit.github.io/mmacalendar/odds-history.html">view history</a><br>Event s
- tatus: Scheduled</p></body></html>
+ 🔴 +125 (2.25)<br>◦ 23 Oct: Oliveira 🟢 -150 (1.67) | Lopes 🔴 +12
+ 6 (2.26)</p><p><strong>🥊 4. 𝗦𝗲𝗿𝗴𝗲𝗶 𝗣𝗮𝘃𝗹
+ 𝗼𝘃𝗶𝗰𝗵 (#3) 🇷🇺 vs. 𝗔𝗹𝗲𝘅 𝗣𝗲𝗿𝗲
+ 𝗶𝗿𝗮 🇧🇷</strong><br>• 265lbs/120kg Heavyweight<br>• Pavl
+ ovich: 21-3-0 | 34yo | MMA | -200 (1.50)<br>• Pereira: 13-4-0 | 39yo | K
+ ickboxer | +163 (2.63)<br>• Odds history:<br>◦ 12 Oct: Pavlovich 🟢 
+ -175 (1.57) | Pereira 🔴 +145 (2.45)<br>◦ 16 Oct: Pavlovich 🟢 -175 
+ (1.57) | Pereira 🔴 +163 (2.63)<br>◦ 23 Oct: Pavlovich 🟢 -200 (1.50
+ ) | Pereira 🔴 +163 (2.63)<br>◦ Earlier changes: see full odds log</p>
+ <p><strong>🥊 3. 𝗕𝗿𝗮𝗻𝗱𝗼𝗻 𝗠𝗼𝗿𝗲𝗻𝗼 (
+ #8) 🇲🇽 vs. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗝𝗼𝗵𝗻𝘀𝗼𝗻
+  🇺🇸</strong><br>• 125lbs/57kg Flyweight<br>• Moreno: 24-10-2 | 3
+ 3yo | Jiu-Jitsu<br>• Johnson: 20-9-0 | 35yo<br>• Odds history: not che
+ cked yet</p><p><strong>🥊 2. 𝗤𝘂𝗲𝗻𝘁𝗶𝗻 𝗣𝗮𝘀
+ 𝗹𝗲𝘆 🇺🇸 vs. 𝗝𝘂𝗻𝗶𝗼𝗿 𝗧𝗮𝗳𝗮 🇦
+ 🇺</strong><br>• 205lbs/93kg Light Heavyweight<br>• Pasley: 1-0-0 | 
+ 25yo<br>• Tafa: 7-6-0 | 30yo | Kickboxer<br>• Odds history: not checke
+ d yet</p><p><strong>🥊 1. 𝗝𝗼𝗲 𝗣𝘆𝗳𝗲𝗿 (#6) 🇺
+ 🇸 vs. 𝗕𝗼 𝗡𝗶𝗰𝗸𝗮𝗹 (#14) 🇺🇸</strong><br>• 
+ 185lbs/84kg Middleweight<br>• Pyfer: 16-3-0 | 30yo | Boxing | -200 (1.50
+ )<br>• Nickal: 9-1-0 | 30yo | Wrestler | +160 (2.60)<br>• Odds history
+ :<br>◦ 9 Oct: Pyfer 🟢 -157 (1.64) | Nickal 🔴 +125 (2.25)<br>◦ 12
+  Oct: Pyfer 🟢 -182 (1.55) | Nickal 🔴 +145 (2.45)<br>◦ 23 Oct: Pyfe
+ r 🟢 -200 (1.50) | Nickal 🔴 +160 (2.60)</p><p>-----------------------
+ ---------<br>Source: <a href="https://www.ufc.com/event/ufc-335">UFC.com</
+ a><br>Odds source: <a href="https://www.bestfightodds.com/">BestFightOdds<
+ /a> · best available line · checked Monday and Friday<br>Full odds log: 
+ <a href="https://staircasewit.github.io/mmacalendar/odds-history.html">vie
+ w history</a><br>Event status: Scheduled</p></body></html>
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
 CATEGORIES:UFC,Main Card

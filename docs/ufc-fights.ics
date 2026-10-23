@@ -13,18 +13,19 @@ X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:ufc-333-fight-13221@ufc-detailed-calendar
 DTSTAMP:20261016T112942Z
-LAST-MODIFIED:20261021T115556Z
-SEQUENCE:2
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:3
 DTSTART:20261024T153500Z
 DTEND:20261024T160500Z
 SUMMARY:🥊 5. Colby Thicknesse vs. Asaf Chopurov (estimated)
 DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Thi
- cknesse: 9-1-0 | 27yo | Freestyle | +400 (5.00)\n• Chopurov: 0-0-0 | 24y
- o | -456 (1.22)\n• Odds history:\n  ◦ 19 Oct: Thicknesse 🔴 +400 (5.
- 00) | Chopurov 🟢 -456 (1.22)\nEvent: UFC 333: Volkanovski vs Evloev\nSo
- urce: https://www.ufc.com/event/ufc-333\nMain calendar: https://staircasew
- it.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ cknesse: 9-1-0 | 27yo | Freestyle | +456 (5.56)\n• Chopurov: 11-0-0 | 24
+ yo | MMA | -488 (1.20)\n• Odds history:\n  ◦ 19 Oct: Thicknesse 🔴 +
+ 400 (5.00) | Chopurov 🟢 -456 (1.22)\n  ◦ 23 Oct: Thicknesse 🔴 +456
+  (5.56) | Chopurov 🟢 -488 (1.20)\nEvent: UFC 333: Volkanovski vs Evloev
+ \nSource: https://www.ufc.com/event/ufc-333\nMain calendar: https://stairc
+ asewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -34,18 +35,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13220@ufc-detailed-calendar
 DTSTAMP:20261016T112942Z
-LAST-MODIFIED:20261021T115556Z
-SEQUENCE:2
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:3
 DTSTART:20261024T151000Z
 DTEND:20261024T154000Z
 SUMMARY:🥊 4. Abubakar Vagaev vs. Jacob Malkoun (estimated)
 DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Vag
- aev: 25-4-0 | 33yo | -170 (1.59)\n• Malkoun: 10-3-0 | 31yo | MMA | +163 
- (2.63)\n• Odds history:\n  ◦ 19 Oct: Vagaev 🟢 -170 (1.59) | Malkoun
-  🔴 +163 (2.63)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://
- www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.io/m
- macalendar/ufc.ics\nEvent status: Scheduled
+ aev: 25-4-0 | 33yo | -150 (1.67)\n• Malkoun: 10-3-0 | 31yo | MMA | +144 
+ (2.44)\n• Odds history:\n  ◦ 19 Oct: Vagaev 🟢 -170 (1.59) | Malkoun
+  🔴 +163 (2.63)\n  ◦ 23 Oct: Vagaev 🟢 -150 (1.67) | Malkoun 🔴 +1
+ 44 (2.44)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc.
+ com/event/ufc-333\nMain calendar: https://staircasewit.github.io/mmacalend
+ ar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -55,15 +57,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13224@ufc-detailed-calendar
 DTSTAMP:20261021T115556Z
-LAST-MODIFIED:20261021T115556Z
-SEQUENCE:0
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:1
 DTSTART:20261024T145000Z
 DTEND:20261024T152000Z
 SUMMARY:🥊 3. Bolaji Oki vs. Daniel Santos (estimated)
 DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n• Ok
- i: 10-4-0 | 30yo | MMA\n• Santos: 14-3-0 | 31yo | Muay Thai\n• Odds hi
- story: not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\nSource: htt
+ i: 10-4-0 | 30yo | MMA | +108 (2.08)\n• Santos: 14-3-0 | 31yo | Muay Tha
+ i | -113 (1.88)\n• Odds history:\n  ◦ 23 Oct: Oki 🔴 +108 (2.08) | S
+ antos 🟢 -113 (1.88)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: htt
  ps://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github
  .io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
@@ -75,17 +78,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13225@ufc-detailed-calendar
 DTSTAMP:20261021T115556Z
-LAST-MODIFIED:20261021T115556Z
-SEQUENCE:0
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:1
 DTSTART:20261024T142500Z
 DTEND:20261024T145500Z
 SUMMARY:🥊 2. Kody Steele vs. Noah Gugnon (estimated)
 DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Stee
- le: 8-1-0 | 31yo | Jiu-Jitsu\n• Gugnon: 10-2-0 | 26yo\n• Odds history:
-  not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://w
- ww.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.io/mm
- acalendar/ufc.ics\nEvent status: Scheduled
+ le: 8-1-0 | 31yo | Jiu-Jitsu | -144 (1.69)\n• Gugnon: 10-2-0 | 26yo | +1
+ 38 (2.38)\n• Odds history:\n  ◦ 23 Oct: Steele 🟢 -144 (1.69) | Gugn
+ on 🔴 +138 (2.38)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https:
+ //www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.io
+ /mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -115,19 +119,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13065@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261019T132427Z
-SEQUENCE:5
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:6
 DTSTART:20261024T173000Z
 DTEND:20261024T180000Z
 SUMMARY:🥊 4. Azamat Murzakanov vs. Dominick Reyes (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• Murz
- akanov: 16-1-0 | 37yo | MMA | -186 (1.54)\n• Reyes: 16-5-0 | 36yo | Kick
- boxer | +190 (2.90)\n• Odds history:\n  ◦ 16 Oct: Murzakanov 🟢 -219
+ akanov: 16-1-0 | 37yo | MMA | -194 (1.52)\n• Reyes: 16-5-0 | 36yo | Kick
+ boxer | +186 (2.86)\n• Odds history:\n  ◦ 16 Oct: Murzakanov 🟢 -219
   (1.46) | Reyes 🔴 +175 (2.75)\n  ◦ 19 Oct: Murzakanov 🟢 -186 (1.54
- ) | Reyes 🔴 +190 (2.90)\nEvent: UFC 333: Volkanovski vs Evloev\nSource:
-  https://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.gi
- thub.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ ) | Reyes 🔴 +190 (2.90)\n  ◦ 23 Oct: Murzakanov 🟢 -194 (1.52) | Re
+ yes 🔴 +186 (2.86)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https
+ ://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.i
+ o/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -137,19 +142,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13081@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261019T132427Z
-SEQUENCE:5
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:6
 DTSTART:20261024T170000Z
 DTEND:20261024T173000Z
 SUMMARY:🥊 3. Nikita Krylov vs. Abdul Rakhman Yakhyaev (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• Kryl
- ov: 31-12-0 | 34yo | Karate | +400 (5.00)\n• Yakhyaev: 10-0-0 | 25yo | M
- MA | -431 (1.23)\n• Odds history:\n  ◦ 16 Oct: Krylov 🔴 +350 (4.50)
+ ov: 31-12-0 | 34yo | Karate | +456 (5.56)\n• Yakhyaev: 10-0-0 | 25yo | M
+ MA | -488 (1.20)\n• Odds history:\n  ◦ 16 Oct: Krylov 🔴 +350 (4.50)
   | Yakhyaev 🟢 -431 (1.23)\n  ◦ 19 Oct: Krylov 🔴 +400 (5.00) | Yakh
- yaev 🟢 -431 (1.23)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: http
- s://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.
- io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ yaev 🟢 -431 (1.23)\n  ◦ 23 Oct: Krylov 🔴 +456 (5.56) | Yakhyaev 
+ 🟢 -488 (1.20)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://w
+ ww.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.io/mm
+ acalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -159,19 +165,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13082@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261021T115556Z
-SEQUENCE:7
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:8
 DTSTART:20261024T163000Z
 DTEND:20261024T170000Z
 SUMMARY:🥊 2. Abus Magomedov vs. Cam Rowston (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Magomedov
- : 29-7-1 | 36yo | MMA | -105 (1.95)\n• Rowston: 15-3-0 | 31yo | Brazilia
- n Jiu-Jitsu | +110 (2.10)\n• Odds history:\n  ◦ 16 Oct: Magomedov 🔴
+ : 29-7-1 | 36yo | MMA | -117 (1.85)\n• Rowston: 15-3-0 | 31yo | Brazilia
+ n Jiu-Jitsu | +113 (2.13)\n• Odds history:\n  ◦ 16 Oct: Magomedov 🔴
   -105 (1.95) | Rowston 🟢 -112 (1.89)\n  ◦ 19 Oct: Magomedov 🟢 -105
-  (1.95) | Rowston 🔴 +110 (2.10)\nEvent: UFC 333: Volkanovski vs Evloev\
- nSource: https://www.ufc.com/event/ufc-333\nMain calendar: https://stairca
- sewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+  (1.95) | Rowston 🔴 +110 (2.10)\n  ◦ 23 Oct: Magomedov 🟢 -117 (1.8
+ 5) | Rowston 🔴 +113 (2.13)\nEvent: UFC 333: Volkanovski vs Evloev\nSour
+ ce: https://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit
+ .github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -181,19 +188,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13067@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261019T132427Z
-SEQUENCE:5
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:6
 DTSTART:20261024T160000Z
 DTEND:20261024T163000Z
 SUMMARY:🥊 1. Grant Dawson vs. Nurullo Aliev (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Dawson: 24
- -3-1 | 32yo | -120 (1.83)\n• Aliev: 12-0-0 | 25yo | Wrestling | +117 (2.
- 17)\n• Odds history:\n  ◦ 16 Oct: Dawson 🟢 -117 (1.85) | Aliev 🔴
+ -3-1 | 32yo | -108 (1.93)\n• Aliev: 12-0-0 | 25yo | Wrestling | +104 (2.
+ 04)\n• Odds history:\n  ◦ 16 Oct: Dawson 🟢 -117 (1.85) | Aliev 🔴
   +100 (2.00)\n  ◦ 19 Oct: Dawson 🟢 -120 (1.83) | Aliev 🔴 +117 (2.1
- 7)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc.com/eve
- nt/ufc-333\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.
- ics\nEvent status: Scheduled
+ 7)\n  ◦ 23 Oct: Dawson 🟢 -108 (1.93) | Aliev 🔴 +104 (2.04)\nEvent:
+  UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc.com/event/ufc-333
+ \nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent
+  status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -227,18 +235,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13064@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261019T132427Z
-SEQUENCE:6
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:7
 DTSTART:20261024T195000Z
 DTEND:20261024T202000Z
 SUMMARY:🥊 4. Petr Yan vs. Merab Dvalishvili (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 135lbs/61kg Bantamweight · Title Bou
- t\n• Yan: 20-5-0 | 33yo | Boxer | -150 (1.67)\n• Dvalishvili: 21-5-0 |
-  35yo | Freestyle | +150 (2.50)\n• Odds history:\n  ◦ 12 Oct: Yan 🟢
-  -172 (1.58) | Dvalishvili 🔴 +160 (2.60)\n  ◦ 16 Oct: Yan 🟢 -168 (
- 1.60) | Dvalishvili 🔴 +160 (2.60)\n  ◦ 19 Oct: Yan 🟢 -150 (1.67) |
-  Dvalishvili 🔴 +150 (2.50)\n  ◦ Earlier changes: see full odds log\nE
+ t\n• Yan: 20-5-0 | 33yo | Boxer | -138 (1.72)\n• Dvalishvili: 21-5-0 |
+  35yo | Freestyle | +133 (2.33)\n• Odds history:\n  ◦ 16 Oct: Yan 🟢
+  -168 (1.60) | Dvalishvili 🔴 +160 (2.60)\n  ◦ 19 Oct: Yan 🟢 -150 (
+ 1.67) | Dvalishvili 🔴 +150 (2.50)\n  ◦ 23 Oct: Yan 🟢 -138 (1.72) |
+  Dvalishvili 🔴 +133 (2.33)\n  ◦ Earlier changes: see full odds log\nE
  vent: UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc.com/event/uf
  c-333\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\n
  Event status: Scheduled
@@ -271,19 +279,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13125@ufc-detailed-calendar
 DTSTAMP:20260916T114128Z
-LAST-MODIFIED:20261019T132427Z
-SEQUENCE:3
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:4
 DTSTART:20261024T183500Z
 DTEND:20261024T190500Z
 SUMMARY:🥊 2. Alexander Volkov vs. Rizvan Kuniev (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n• Volkov:
-  40-11-0 | 38yo | Brazilian Jiu-Jitsu | -113 (1.88)\n• Kuniev: 14-3-1 | 
- 34yo | +110 (2.10)\n• Odds history:\n  ◦ 16 Oct: Volkov 🟢 -121 (1.8
+  40-11-0 | 38yo | Brazilian Jiu-Jitsu | -117 (1.85)\n• Kuniev: 14-3-1 | 
+ 34yo | +113 (2.13)\n• Odds history:\n  ◦ 16 Oct: Volkov 🟢 -121 (1.8
  3) | Kuniev 🔴 +110 (2.10)\n  ◦ 19 Oct: Volkov 🟢 -113 (1.88) | Kuni
- ev 🔴 +110 (2.10)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https:
- //www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.io
- /mmacalendar/ufc.ics\nEvent status: Scheduled
+ ev 🔴 +110 (2.10)\n  ◦ 23 Oct: Volkov 🟢 -117 (1.85) | Kuniev 🔴 +
+ 113 (2.13)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc
+ .com/event/ufc-333\nMain calendar: https://staircasewit.github.io/mmacalen
+ dar/ufc.ics\nEvent status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -293,19 +302,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-333-fight-13215@ufc-detailed-calendar
 DTSTAMP:20261007T133000Z
-LAST-MODIFIED:20261019T132427Z
-SEQUENCE:2
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:3
 DTSTART:20261024T180000Z
 DTEND:20261024T183000Z
 SUMMARY:🥊 1. Aaron Pico vs. Losene Keita (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 145lbs/66kg Featherweight\n• Pico: 
- 14-5-0 | 30yo | Boxing | +100 (2.00)\n• Keita: 17-2-0 | 28yo | MMA | -10
- 0 (2.00)\n• Odds history:\n  ◦ 16 Oct: Pico 🔴 +100 (2.00) | Keita 
+ 14-5-0 | 30yo | Boxing | -133 (1.75)\n• Keita: 17-2-0 | 28yo | MMA | +12
+ 7 (2.27)\n• Odds history:\n  ◦ 16 Oct: Pico 🔴 +100 (2.00) | Keita 
  🟢 -121 (1.83)\n  ◦ 19 Oct: Pico 🔴 +100 (2.00) | Keita 🟢 -100 (2
- .00)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc.com/e
- vent/ufc-333\nMain calendar: https://staircasewit.github.io/mmacalendar/uf
- c.ics\nEvent status: Scheduled
+ .00)\n  ◦ 23 Oct: Pico 🟢 -133 (1.75) | Keita 🔴 +127 (2.27)\nEvent:
+  UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc.com/event/ufc-333
+ \nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent
+  status: Scheduled
 LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
 URL:https://www.ufc.com/event/ufc-333
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1260,19 +1270,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-335-fight-13207@ufc-detailed-calendar
 DTSTAMP:20261007T133000Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:3
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:4
 DTSTART:20261213T033500Z
 DTEND:20261213T040500Z
 SUMMARY:🥊 5. Charles Oliveira vs. Diego Lopes (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n•
   Oliveira: 37-11-0 | 37yo | Jiu-Jitsu | -150 (1.67)\n• Lopes: 28-8-0 | 3
- 1yo | Jiu-Jitsu | +125 (2.25)\n• Odds history:\n  ◦ 9 Oct: Oliveira 
+ 1yo | Jiu-Jitsu | +126 (2.26)\n• Odds history:\n  ◦ 9 Oct: Oliveira 
  🟢 -155 (1.65) | Lopes 🔴 +145 (2.45)\n  ◦ 16 Oct: Oliveira 🟢 -15
- 0 (1.67) | Lopes 🔴 +125 (2.25)\nEvent: UFC 335: Oliveira vs Lopes\nSour
- ce: https://www.ufc.com/event/ufc-335\nMain calendar: https://staircasewit
- .github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ 0 (1.67) | Lopes 🔴 +125 (2.25)\n  ◦ 23 Oct: Oliveira 🟢 -150 (1.67)
+  | Lopes 🔴 +126 (2.26)\nEvent: UFC 335: Oliveira vs Lopes\nSource: http
+ s://www.ufc.com/event/ufc-335\nMain calendar: https://staircasewit.github.
+ io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1282,20 +1293,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-335-fight-13208@ufc-detailed-calendar
 DTSTAMP:20261007T133000Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:3
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:4
 DTSTART:20261213T021000Z
 DTEND:20261213T024000Z
 SUMMARY:🥊 4. Sergei Pavlovich vs. Alex Pereira (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n
- • Pavlovich: 21-3-0 | 34yo | MMA | -175 (1.57)\n• Pereira: 13-4-0 | 39
- yo | Kickboxer | +163 (2.63)\n• Odds history:\n  ◦ 9 Oct: Pavlovich 
- 🟢 -150 (1.67) | Pereira 🔴 +135 (2.35)\n  ◦ 12 Oct: Pavlovich 🟢 
- -175 (1.57) | Pereira 🔴 +145 (2.45)\n  ◦ 16 Oct: Pavlovich 🟢 -175 
- (1.57) | Pereira 🔴 +163 (2.63)\nEvent: UFC 335: Oliveira vs Lopes\nSour
- ce: https://www.ufc.com/event/ufc-335\nMain calendar: https://staircasewit
- .github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ • Pavlovich: 21-3-0 | 34yo | MMA | -200 (1.50)\n• Pereira: 13-4-0 | 39
+ yo | Kickboxer | +163 (2.63)\n• Odds history:\n  ◦ 12 Oct: Pavlovich 
+ 🟢 -175 (1.57) | Pereira 🔴 +145 (2.45)\n  ◦ 16 Oct: Pavlovich 🟢 
+ -175 (1.57) | Pereira 🔴 +163 (2.63)\n  ◦ 23 Oct: Pavlovich 🟢 -200 
+ (1.50) | Pereira 🔴 +163 (2.63)\n  ◦ Earlier changes: see full odds lo
+ g\nEvent: UFC 335: Oliveira vs Lopes\nSource: https://www.ufc.com/event/uf
+ c-335\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\n
+ Event status: Scheduled
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1345,19 +1357,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-335-fight-13209@ufc-detailed-calendar
 DTSTAMP:20261007T133000Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:3
+LAST-MODIFIED:20261023T114422Z
+SEQUENCE:4
 DTSTART:20261212T220000Z
 DTEND:20261212T223000Z
 SUMMARY:🥊 1. Joe Pyfer vs. Bo Nickal (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
- • Pyfer: 16-3-0 | 30yo | Boxing | -182 (1.55)\n• Nickal: 9-1-0 | 30yo 
- | Wrestler | +145 (2.45)\n• Odds history:\n  ◦ 9 Oct: Pyfer 🟢 -157 
+ • Pyfer: 16-3-0 | 30yo | Boxing | -200 (1.50)\n• Nickal: 9-1-0 | 30yo 
+ | Wrestler | +160 (2.60)\n• Odds history:\n  ◦ 9 Oct: Pyfer 🟢 -157 
  (1.64) | Nickal 🔴 +125 (2.25)\n  ◦ 12 Oct: Pyfer 🟢 -182 (1.55) | N
- ickal 🔴 +145 (2.45)\nEvent: UFC 335: Oliveira vs Lopes\nSource: https:/
- /www.ufc.com/event/ufc-335\nMain calendar: https://staircasewit.github.io/
- mmacalendar/ufc.ics\nEvent status: Scheduled
+ ickal 🔴 +145 (2.45)\n  ◦ 23 Oct: Pyfer 🟢 -200 (1.50) | Nickal 🔴
+  +160 (2.60)\nEvent: UFC 335: Oliveira vs Lopes\nSource: https://www.ufc.c
+ om/event/ufc-335\nMain calendar: https://staircasewit.github.io/mmacalenda
+ r/ufc.ics\nEvent status: Scheduled
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
 CATEGORIES:UFC,Estimated Fight,Main Card

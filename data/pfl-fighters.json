@@ -2492,9 +2492,9 @@
       "name": "Andreeas Binder",
       "countryCode": "RO",
       "birthDate": "1996-09-12",
-      "record": "8-2-0",
+      "record": "12-2-0",
       "style": null,
-      "checkedAt": "2026-09-23T11:42:56.935Z"
+      "checkedAt": "2026-10-23T11:44:22.443Z"
     },
     "https://pflmma.com/wt-fighter/rosario-romero": {
       "name": "Rosario Romero",
@@ -2510,7 +2510,7 @@
       "birthDate": "1995-07-31",
       "record": "20-1-0",
       "style": null,
-      "checkedAt": "2026-09-23T11:42:56.935Z"
+      "checkedAt": "2026-10-23T11:44:22.443Z"
     },
     "https://pflmma.com/wt-fighter/caden-cox": {
       "name": "Caden Cox",
@@ -2719,6 +2719,22 @@
       "record": "15-4-0",
       "style": null,
       "checkedAt": "2026-10-21T11:55:56.716Z"
+    },
+    "https://pflmma.com/wt-fighter/khabib-nabiev": {
+      "name": "Khabib Nabiev",
+      "countryCode": null,
+      "birthDate": "1997-08-11",
+      "record": "12-0-0",
+      "style": null,
+      "checkedAt": "2026-10-23T11:44:22.443Z"
+    },
+    "https://pflmma.com/wt-fighter/styve-ngono": {
+      "name": "Styve Ngono",
+      "countryCode": "CM",
+      "birthDate": "1999-09-18",
+      "record": "8-1-0",
+      "style": null,
+      "checkedAt": "2026-10-23T11:44:22.443Z"
     }
   }
 }

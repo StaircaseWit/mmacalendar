@@ -6652,7 +6652,7 @@
     "bouts": [
       {
         "id": "1582",
-        "order": 13,
+        "order": 14,
         "red": {
           "name": "Vadim Nemkov",
           "profileUrl": "https://pflmma.com/wt-fighter/vadim-nemkov",
@@ -6676,7 +6676,7 @@
       },
       {
         "id": "1598",
-        "order": 12,
+        "order": 13,
         "red": {
           "name": "Patrick Habirora",
           "profileUrl": "https://pflmma.com/wt-fighter/patrick-habirora",
@@ -6700,7 +6700,7 @@
       },
       {
         "id": "1583",
-        "order": 11,
+        "order": 12,
         "red": {
           "name": "Pouya Rahmani",
           "profileUrl": "https://pflmma.com/wt-fighter/pouya-rahmani",
@@ -6724,7 +6724,7 @@
       },
       {
         "id": "1591",
-        "order": 10,
+        "order": 11,
         "red": {
           "name": "Abubakar Nurmagomedov",
           "profileUrl": "https://pflmma.com/wt-fighter/abubakar-nurmagomedov",
@@ -6748,7 +6748,7 @@
       },
       {
         "id": "1586",
-        "order": 9,
+        "order": 10,
         "red": {
           "name": "Sergio Pettis",
           "profileUrl": "https://pflmma.com/wt-fighter/sergio-pettis",
@@ -6772,7 +6772,7 @@
       },
       {
         "id": "1608",
-        "order": 8,
+        "order": 9,
         "red": {
           "name": "Shem Rock",
           "profileUrl": "https://pflmma.com/wt-fighter/shem-rock",
@@ -6796,7 +6796,7 @@
       },
       {
         "id": "1606",
-        "order": 7,
+        "order": 8,
         "red": {
           "name": "Lewis McGrillen",
           "profileUrl": "https://pflmma.com/wt-fighter/lewis-mcgrillen",
@@ -6820,7 +6820,7 @@
       },
       {
         "id": "1605",
-        "order": 6,
+        "order": 7,
         "red": {
           "name": "Asaël Adjoudj",
           "profileUrl": "https://pflmma.com/wt-fighter/asael-adjoudj",
@@ -6840,6 +6840,30 @@
           "odds": null
         },
         "details": "145lbs/66kg Featherweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1615",
+        "order": 6,
+        "red": {
+          "name": "Alexei Pergande",
+          "profileUrl": "https://pflmma.com/wt-fighter/alexei-pergande",
+          "countryCode": "US",
+          "birthDate": "2001-05-10",
+          "record": "8-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Akhmed Magomedov",
+          "profileUrl": "https://pflmma.com/wt-fighter/akhmed-magomedov",
+          "countryCode": "RU",
+          "birthDate": "1996-04-26",
+          "record": "11-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight",
         "oddsHistory": []
       },
       {
@@ -6867,32 +6891,8 @@
         "oddsHistory": []
       },
       {
-        "id": "1615",
-        "order": 4,
-        "red": {
-          "name": "Alexei Pergande",
-          "profileUrl": "https://pflmma.com/wt-fighter/alexei-pergande",
-          "countryCode": "US",
-          "birthDate": "2001-05-10",
-          "record": "8-0-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Akhmed Magomedov",
-          "profileUrl": "https://pflmma.com/wt-fighter/akhmed-magomedov",
-          "countryCode": "RU",
-          "birthDate": "1996-04-26",
-          "record": "11-2-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "155lbs/70kg Lightweight",
-        "oddsHistory": []
-      },
-      {
         "id": "1620",
-        "order": 3,
+        "order": 4,
         "red": {
           "name": "Denis Goltsov",
           "profileUrl": "https://pflmma.com/wt-fighter/denis-goltsov",
@@ -6916,7 +6916,7 @@
       },
       {
         "id": "1609",
-        "order": 2,
+        "order": 3,
         "red": {
           "name": "Ernesto Rodriguez",
           "profileUrl": "https://pflmma.com/wt-fighter/ernesto-rodriguez",
@@ -6936,6 +6936,30 @@
           "odds": null
         },
         "details": "170lbs/77kg Welterweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1672",
+        "order": 2,
+        "red": {
+          "name": "Khabib Nabiev",
+          "profileUrl": "https://pflmma.com/wt-fighter/khabib-nabiev",
+          "countryCode": null,
+          "birthDate": "1997-08-11",
+          "record": "12-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Styve Ngono",
+          "profileUrl": "https://pflmma.com/wt-fighter/styve-ngono",
+          "countryCode": "CM",
+          "birthDate": "1999-09-18",
+          "record": "8-1-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "205lbs/93kg Light Heavyweight",
         "oddsHistory": []
       },
       {
@@ -7295,7 +7319,7 @@
           "profileUrl": "https://pflmma.com/wt-fighter/andreeas-binder",
           "countryCode": "RO",
           "birthDate": "1996-09-12",
-          "record": "8-2-0",
+          "record": "12-2-0",
           "style": null,
           "odds": null
         },
