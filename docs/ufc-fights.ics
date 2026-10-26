@@ -11,474 +11,21 @@ X-APPLE-CALENDAR-COLOR:#D8070C
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:ufc-333-fight-13221@ufc-detailed-calendar
-DTSTAMP:20261016T112942Z
-LAST-MODIFIED:20261023T114422Z
-SEQUENCE:3
-DTSTART:20261024T153500Z
-DTEND:20261024T160500Z
-SUMMARY:🥊 5. Colby Thicknesse vs. Asaf Chopurov (estimated)
-DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
-  may move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Thi
- cknesse: 9-1-0 | 27yo | Freestyle | +456 (5.56)\n• Chopurov: 11-0-0 | 24
- yo | MMA | -488 (1.20)\n• Odds history:\n  ◦ 19 Oct: Thicknesse 🔴 +
- 400 (5.00) | Chopurov 🟢 -456 (1.22)\n  ◦ 23 Oct: Thicknesse 🔴 +456
-  (5.56) | Chopurov 🟢 -488 (1.20)\nEvent: UFC 333: Volkanovski vs Evloev
- \nSource: https://www.ufc.com/event/ufc-333\nMain calendar: https://stairc
- asewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Early Prelims
-RELATED-TO:ufc-333-early-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13220@ufc-detailed-calendar
-DTSTAMP:20261016T112942Z
-LAST-MODIFIED:20261023T114422Z
-SEQUENCE:3
-DTSTART:20261024T151000Z
-DTEND:20261024T154000Z
-SUMMARY:🥊 4. Abubakar Vagaev vs. Jacob Malkoun (estimated)
-DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
-  may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Vag
- aev: 25-4-0 | 33yo | -150 (1.67)\n• Malkoun: 10-3-0 | 31yo | MMA | +144 
- (2.44)\n• Odds history:\n  ◦ 19 Oct: Vagaev 🟢 -170 (1.59) | Malkoun
-  🔴 +163 (2.63)\n  ◦ 23 Oct: Vagaev 🟢 -150 (1.67) | Malkoun 🔴 +1
- 44 (2.44)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc.
- com/event/ufc-333\nMain calendar: https://staircasewit.github.io/mmacalend
- ar/ufc.ics\nEvent status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Early Prelims
-RELATED-TO:ufc-333-early-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13224@ufc-detailed-calendar
-DTSTAMP:20261021T115556Z
-LAST-MODIFIED:20261023T114422Z
-SEQUENCE:1
-DTSTART:20261024T145000Z
-DTEND:20261024T152000Z
-SUMMARY:🥊 3. Bolaji Oki vs. Daniel Santos (estimated)
-DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
-  may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n• Ok
- i: 10-4-0 | 30yo | MMA | +108 (2.08)\n• Santos: 14-3-0 | 31yo | Muay Tha
- i | -113 (1.88)\n• Odds history:\n  ◦ 23 Oct: Oki 🔴 +108 (2.08) | S
- antos 🟢 -113 (1.88)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: htt
- ps://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github
- .io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Early Prelims
-RELATED-TO:ufc-333-early-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13225@ufc-detailed-calendar
-DTSTAMP:20261021T115556Z
-LAST-MODIFIED:20261023T114422Z
-SEQUENCE:1
-DTSTART:20261024T142500Z
-DTEND:20261024T145500Z
-SUMMARY:🥊 2. Kody Steele vs. Noah Gugnon (estimated)
-DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
-  may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Stee
- le: 8-1-0 | 31yo | Jiu-Jitsu | -144 (1.69)\n• Gugnon: 10-2-0 | 26yo | +1
- 38 (2.38)\n• Odds history:\n  ◦ 23 Oct: Steele 🟢 -144 (1.69) | Gugn
- on 🔴 +138 (2.38)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https:
- //www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.io
- /mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Early Prelims
-RELATED-TO:ufc-333-early-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13226@ufc-detailed-calendar
-DTSTAMP:20261021T115556Z
-LAST-MODIFIED:20261021T115556Z
-SEQUENCE:0
-DTSTART:20261024T140000Z
-DTEND:20261024T143000Z
-SUMMARY:🥊 1. Iasmin Lucindo vs. Nicolle Caliari (estimated)
-DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
-  may move as earlier fights finish.\n• 115lbs/52kg Women's Strawweight\n
- • Lucindo: 18-6-0 | 24yo | Striker\n• Caliari: 9-4-0 | 29yo | MMA\n•
-  Odds history: not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\nSou
- rce: https://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewi
- t.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Early Prelims
-RELATED-TO:ufc-333-early-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13065@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261023T114422Z
-SEQUENCE:6
-DTSTART:20261024T173000Z
-DTEND:20261024T180000Z
-SUMMARY:🥊 4. Azamat Murzakanov vs. Dominick Reyes (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• Murz
- akanov: 16-1-0 | 37yo | MMA | -194 (1.52)\n• Reyes: 16-5-0 | 36yo | Kick
- boxer | +186 (2.86)\n• Odds history:\n  ◦ 16 Oct: Murzakanov 🟢 -219
-  (1.46) | Reyes 🔴 +175 (2.75)\n  ◦ 19 Oct: Murzakanov 🟢 -186 (1.54
- ) | Reyes 🔴 +190 (2.90)\n  ◦ 23 Oct: Murzakanov 🟢 -194 (1.52) | Re
- yes 🔴 +186 (2.86)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https
- ://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.i
- o/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-333-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13081@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261023T114422Z
-SEQUENCE:6
-DTSTART:20261024T170000Z
-DTEND:20261024T173000Z
-SUMMARY:🥊 3. Nikita Krylov vs. Abdul Rakhman Yakhyaev (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• Kryl
- ov: 31-12-0 | 34yo | Karate | +456 (5.56)\n• Yakhyaev: 10-0-0 | 25yo | M
- MA | -488 (1.20)\n• Odds history:\n  ◦ 16 Oct: Krylov 🔴 +350 (4.50)
-  | Yakhyaev 🟢 -431 (1.23)\n  ◦ 19 Oct: Krylov 🔴 +400 (5.00) | Yakh
- yaev 🟢 -431 (1.23)\n  ◦ 23 Oct: Krylov 🔴 +456 (5.56) | Yakhyaev 
- 🟢 -488 (1.20)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://w
- ww.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.github.io/mm
- acalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-333-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13082@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261023T114422Z
-SEQUENCE:8
-DTSTART:20261024T163000Z
-DTEND:20261024T170000Z
-SUMMARY:🥊 2. Abus Magomedov vs. Cam Rowston (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Magomedov
- : 29-7-1 | 36yo | MMA | -117 (1.85)\n• Rowston: 15-3-0 | 31yo | Brazilia
- n Jiu-Jitsu | +113 (2.13)\n• Odds history:\n  ◦ 16 Oct: Magomedov 🔴
-  -105 (1.95) | Rowston 🟢 -112 (1.89)\n  ◦ 19 Oct: Magomedov 🟢 -105
-  (1.95) | Rowston 🔴 +110 (2.10)\n  ◦ 23 Oct: Magomedov 🟢 -117 (1.8
- 5) | Rowston 🔴 +113 (2.13)\nEvent: UFC 333: Volkanovski vs Evloev\nSour
- ce: https://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit
- .github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-333-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13067@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261023T114422Z
-SEQUENCE:6
-DTSTART:20261024T160000Z
-DTEND:20261024T163000Z
-SUMMARY:🥊 1. Grant Dawson vs. Nurullo Aliev (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Dawson: 24
- -3-1 | 32yo | -108 (1.93)\n• Aliev: 12-0-0 | 25yo | Wrestling | +104 (2.
- 04)\n• Odds history:\n  ◦ 16 Oct: Dawson 🟢 -117 (1.85) | Aliev 🔴
-  +100 (2.00)\n  ◦ 19 Oct: Dawson 🟢 -120 (1.83) | Aliev 🔴 +117 (2.1
- 7)\n  ◦ 23 Oct: Dawson 🟢 -108 (1.93) | Aliev 🔴 +104 (2.04)\nEvent:
-  UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc.com/event/ufc-333
- \nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent
-  status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-333-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13063@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261019T132427Z
-SEQUENCE:6
-DTSTART:20261024T202500Z
-DTEND:20261024T205500Z
-SUMMARY:🥊 5. Alexander Volkanovski vs. Movsar Evloev (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 145lbs/66kg Featherweight · Title Bo
- ut\n• Volkanovski: 28-4-0 | 38yo | -108 (1.93)\n• Evloev: 20-0-0 | 32y
- o | Freestyle | +104 (2.04)\n• Odds history:\n  ◦ 5 Oct: Volkanovski 
- 🔴 +100 (2.00) | Evloev 🟢 -110 (1.91)\n  ◦ 16 Oct: Volkanovski 🟢
-  -105 (1.95) | Evloev 🔴 -103 (1.97)\n  ◦ 19 Oct: Volkanovski 🟢 -10
- 8 (1.93) | Evloev 🔴 +104 (2.04)\n  ◦ Earlier changes: see full odds l
- og\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc.com/eve
- nt/ufc-333\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.
- ics\nEvent status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-333-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13064@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261023T114422Z
-SEQUENCE:7
-DTSTART:20261024T195000Z
-DTEND:20261024T202000Z
-SUMMARY:🥊 4. Petr Yan vs. Merab Dvalishvili (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 135lbs/61kg Bantamweight · Title Bou
- t\n• Yan: 20-5-0 | 33yo | Boxer | -138 (1.72)\n• Dvalishvili: 21-5-0 |
-  35yo | Freestyle | +133 (2.33)\n• Odds history:\n  ◦ 16 Oct: Yan 🟢
-  -168 (1.60) | Dvalishvili 🔴 +160 (2.60)\n  ◦ 19 Oct: Yan 🟢 -150 (
- 1.67) | Dvalishvili 🔴 +150 (2.50)\n  ◦ 23 Oct: Yan 🟢 -138 (1.72) |
-  Dvalishvili 🔴 +133 (2.33)\n  ◦ Earlier changes: see full odds log\nE
- vent: UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc.com/event/uf
- c-333\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\n
- Event status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-333-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13066@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260925T115505Z
-SEQUENCE:3
-DTSTART:20261024T191000Z
-DTEND:20261024T194000Z
-SUMMARY:🥊 3. Lone’er Kavanagh vs. Ramazan Temirov (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 125lbs/57kg Flyweight\n• Kavanagh: 
- 10-2-0 | 27yo | Kickboxer\n• Temirov: 20-3-0 | 29yo | Striker\n• Odds 
- history: not checked yet\nEvent: UFC 333: Volkanovski vs Evloev\nSource: h
- ttps://www.ufc.com/event/ufc-333\nMain calendar: https://staircasewit.gith
- ub.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-333-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13125@ufc-detailed-calendar
+UID:ufc-fight-night-october-31-2026-fight-13133@ufc-detailed-calendar
 DTSTAMP:20260916T114128Z
-LAST-MODIFIED:20261023T114422Z
-SEQUENCE:4
-DTSTART:20261024T183500Z
-DTEND:20261024T190500Z
-SUMMARY:🥊 2. Alexander Volkov vs. Rizvan Kuniev (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n• Volkov:
-  40-11-0 | 38yo | Brazilian Jiu-Jitsu | -117 (1.85)\n• Kuniev: 14-3-1 | 
- 34yo | +113 (2.13)\n• Odds history:\n  ◦ 16 Oct: Volkov 🟢 -121 (1.8
- 3) | Kuniev 🔴 +110 (2.10)\n  ◦ 19 Oct: Volkov 🟢 -113 (1.88) | Kuni
- ev 🔴 +110 (2.10)\n  ◦ 23 Oct: Volkov 🟢 -117 (1.85) | Kuniev 🔴 +
- 113 (2.13)\nEvent: UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc
- .com/event/ufc-333\nMain calendar: https://staircasewit.github.io/mmacalen
- dar/ufc.ics\nEvent status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-333-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-333-fight-13215@ufc-detailed-calendar
-DTSTAMP:20261007T133000Z
-LAST-MODIFIED:20261023T114422Z
-SEQUENCE:3
-DTSTART:20261024T180000Z
-DTEND:20261024T183000Z
-SUMMARY:🥊 1. Aaron Pico vs. Losene Keita (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 145lbs/66kg Featherweight\n• Pico: 
- 14-5-0 | 30yo | Boxing | -133 (1.75)\n• Keita: 17-2-0 | 28yo | MMA | +12
- 7 (2.27)\n• Odds history:\n  ◦ 16 Oct: Pico 🔴 +100 (2.00) | Keita 
- 🟢 -121 (1.83)\n  ◦ 19 Oct: Pico 🔴 +100 (2.00) | Keita 🟢 -100 (2
- .00)\n  ◦ 23 Oct: Pico 🟢 -133 (1.75) | Keita 🔴 +127 (2.27)\nEvent:
-  UFC 333: Volkanovski vs Evloev\nSource: https://www.ufc.com/event/ufc-333
- \nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent
-  status: Scheduled
-LOCATION:Etihad Arena\, Yas Island/Yas West\, United Arab Emirates
-URL:https://www.ufc.com/event/ufc-333
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-333-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-31-2026-fight-13179@ufc-detailed-calendar
-DTSTAMP:20261002T124153Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:1
-DTSTART:20261031T233500Z
-DTEND:20261101T000500Z
-SUMMARY:🥊 7. Francis Marshall vs. Gaston Bolanos (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 145lbs/66kg Featherweight\n• Marshall
- : 10-3-0 | 27yo | Freestyle\n• Bolanos: 9-5-0 | 34yo | Striker\n• Odds
-  history: not checked yet\nEvent: UFC Fight Night: Moicano vs Nolan\nSourc
+LAST-MODIFIED:20261026T131005Z
+SEQUENCE:5
+DTSTART:20261101T023000Z
+DTEND:20261101T030000Z
+SUMMARY:🥊 12. Renato Moicano vs. Tom Nolan (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n•
+  Moicano: 21-7-1 | 37yo | Jiu-Jitsu | -104 (1.96)\n• Nolan: 11-1-0 | 26y
+ o | -100 (2.00)\n• Odds history:\n  ◦ 26 Oct: Moicano 🟢 -104 (1.96)
+  | Nolan 🔴 -100 (2.00)\nEvent: UFC Fight Night: Moicano vs Nolan\nSourc
  e: https://www.ufc.com/event/ufc-fight-night-october-31-2026\nMain calenda
  r: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sched
  uled
-LOCATION:Meta APEX\, Las Vegas\, United States
-URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-october-31-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-31-2026-fight-13177@ufc-detailed-calendar
-DTSTAMP:20261002T124153Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:1
-DTSTART:20261031T231000Z
-DTEND:20261031T234000Z
-SUMMARY:🥊 6. Azamat Bekoev vs. Andre Petroski (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Bekoev: 2
- 0-5-0 | 30yo | MMA\n• Petroski: 13-7-0 | 35yo | Freestyle\n• Odds hist
- ory: not checked yet\nEvent: UFC Fight Night: Moicano vs Nolan\nSource: ht
- tps://www.ufc.com/event/ufc-fight-night-october-31-2026\nMain calendar: ht
- tps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Meta APEX\, Las Vegas\, United States
-URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-october-31-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-31-2026-fight-13175@ufc-detailed-calendar
-DTSTAMP:20261002T124153Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:1
-DTSTART:20261031T224500Z
-DTEND:20261031T231500Z
-SUMMARY:🥊 5. Rodrigo Sezinando vs. Theodor Berggren (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Sezinando
- : 9-2-0 | 28yo | MMA\n• Berggren: 8-4-0 | 26yo | MMA\n• Odds history: 
- not checked yet\nEvent: UFC Fight Night: Moicano vs Nolan\nSource: https:/
- /www.ufc.com/event/ufc-fight-night-october-31-2026\nMain calendar: https:/
- /staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Meta APEX\, Las Vegas\, United States
-URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-october-31-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-31-2026-fight-13178@ufc-detailed-calendar
-DTSTAMP:20261002T124153Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:1
-DTSTART:20261031T221500Z
-DTEND:20261031T224500Z
-SUMMARY:🥊 4. Julian Erosa vs. JeongYeong Lee (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 145lbs/66kg Featherweight\n• Erosa: 3
- 1-14-0 | 37yo | Striker\n• Lee: 11-3-0 | 30yo | Brazilian Jiu-Jitsu\n•
-  Odds history: not checked yet\nEvent: UFC Fight Night: Moicano vs Nolan\n
- Source: https://www.ufc.com/event/ufc-fight-night-october-31-2026\nMain ca
- lendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: 
- Scheduled
-LOCATION:Meta APEX\, Las Vegas\, United States
-URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-october-31-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-31-2026-fight-13096@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:7
-DTSTART:20261031T215000Z
-DTEND:20261031T222000Z
-SUMMARY:🥊 3. Nick Klein vs. Joseph Kropschot (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Klein: 6-
- 3-0 | 31yo | Freestyle\n• Kropschot: 1-0-0 | 31yo\n• Odds history: not
-  checked yet\nEvent: UFC Fight Night: Moicano vs Nolan\nSource: https://ww
- w.ufc.com/event/ufc-fight-night-october-31-2026\nMain calendar: https://st
- aircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Meta APEX\, Las Vegas\, United States
-URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-october-31-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-31-2026-fight-13174@ufc-detailed-calendar
-DTSTAMP:20261002T124153Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:1
-DTSTART:20261031T212500Z
-DTEND:20261031T215500Z
-SUMMARY:🥊 2. Talita Alencar vs. Piera Rodriguez (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 115lbs/52kg Women's Strawweight\n• Al
- encar: 8-1-1 | 36yo | Grappler\n• Rodriguez: 12-2-0 | 33yo | Striker\n
- • Odds history: not checked yet\nEvent: UFC Fight Night: Moicano vs Nola
- n\nSource: https://www.ufc.com/event/ufc-fight-night-october-31-2026\nMain
-  calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent statu
- s: Scheduled
-LOCATION:Meta APEX\, Las Vegas\, United States
-URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-october-31-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-31-2026-fight-13117@ufc-detailed-calendar
-DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:7
-DTSTART:20261031T210000Z
-DTEND:20261031T213000Z
-SUMMARY:🥊 1. Lucia Szabova vs. Tainara Lisboa (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 125lbs/57kg Women's Flyweight\n• Szab
- ova: 0-0-0 | 28yo\n• Lisboa: 7-4-0 | 35yo | Muay Thai\n• Odds history:
-  not checked yet\nEvent: UFC Fight Night: Moicano vs Nolan\nSource: https:
- //www.ufc.com/event/ufc-fight-night-october-31-2026\nMain calendar: https:
- //staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Meta APEX\, Las Vegas\, United States
-URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-october-31-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-october-31-2026-fight-13133@ufc-detailed-calendar
-DTSTAMP:20260916T114128Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:4
-DTSTART:20261101T021500Z
-DTEND:20261101T024500Z
-SUMMARY:🥊 4. Renato Moicano vs. Tom Nolan (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Moicano:
-  21-7-1 | 37yo | Jiu-Jitsu\n• Nolan: 11-1-0 | 26yo\n• Odds history: no
- t checked yet\nEvent: UFC Fight Night: Moicano vs Nolan\nSource: https://w
- ww.ufc.com/event/ufc-fight-night-october-31-2026\nMain calendar: https://s
- taircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -486,19 +33,21 @@ RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-fight-night-october-31-2026-fight-13172@ufc-detailed-calendar
-DTSTAMP:20261002T124153Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:1
-DTSTART:20261101T013000Z
-DTEND:20261101T020000Z
-SUMMARY:🥊 3. Randy Brown vs. Carlos Leal (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Brown: 
- 20-8-0 | 36yo\n• Leal: 23-7-0 | 32yo | Striker\n• Odds history: not ch
- ecked yet\nEvent: UFC Fight Night: Moicano vs Nolan\nSource: https://www.u
- fc.com/event/ufc-fight-night-october-31-2026\nMain calendar: https://stair
- casewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+UID:ufc-fight-night-october-31-2026-fight-13228@ufc-detailed-calendar
+DTSTAMP:20261026T131005Z
+LAST-MODIFIED:20261026T131005Z
+SEQUENCE:0
+DTSTART:20261101T020000Z
+DTEND:20261101T023000Z
+SUMMARY:🥊 11. Randy Brown vs. Jacobe Smith (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Brown: 20-8-0 | 36yo | +213 (3.13)\n• Smith: 13-0-0 | 30yo | Freesty
+ le | -223 (1.45)\n• Odds history:\n  ◦ 26 Oct: Brown 🔴 +213 (3.13) 
+ | Smith 🟢 -223 (1.45)\nEvent: UFC Fight Night: Moicano vs Nolan\nSource
+ : https://www.ufc.com/event/ufc-fight-night-october-31-2026\nMain calendar
+ : https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedu
+ led
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -508,18 +57,62 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-31-2026-fight-13173@ufc-detailed-calendar
 DTSTAMP:20261002T124153Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:1
-DTSTART:20261101T004500Z
-DTEND:20261101T011500Z
-SUMMARY:🥊 2. Yana Santos vs. Luana Santos (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 135lbs/61kg Women's Bantamweight\n•
-  Santos: 17-8-0 | 36yo | MMA\n• Santos: 11-2-0 | 26yo | Judo\n• Odds h
- istory: not checked yet\nEvent: UFC Fight Night: Moicano vs Nolan\nSource:
-  https://www.ufc.com/event/ufc-fight-night-october-31-2026\nMain calendar:
-  https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedul
- ed
+LAST-MODIFIED:20261026T131005Z
+SEQUENCE:2
+DTSTART:20261101T013000Z
+DTEND:20261101T020000Z
+SUMMARY:🥊 10. Yana Santos vs. Luana Santos (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 135lbs/61kg Women's Bantamwe
+ ight\n• Santos: 17-8-0 | 36yo | MMA | +245 (3.45)\n• Santos: 11-2-0 | 
+ 26yo | Judo | -250 (1.40)\n• Odds history:\n  ◦ 26 Oct: Santos 🔴 +2
+ 45 (3.45) | Santos 🟢 -250 (1.40)\nEvent: UFC Fight Night: Moicano vs No
+ lan\nSource: https://www.ufc.com/event/ufc-fight-night-october-31-2026\nMa
+ in calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent sta
+ tus: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-31-2026-fight-13227@ufc-detailed-calendar
+DTSTAMP:20261026T131005Z
+LAST-MODIFIED:20261026T131005Z
+SEQUENCE:0
+DTSTART:20261101T010000Z
+DTEND:20261101T013000Z
+SUMMARY:🥊 9. Ode' Osbourne vs. Cody Durden (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 125lbs/57kg Flyweight\n• O
+ sbourne: 13-9-0 | 34yo | Striker | -108 (1.93)\n• Durden: 18-11-1 | 35yo
+  | Striker | +108 (2.08)\n• Odds history:\n  ◦ 26 Oct: Osbourne 🟢 -
+ 108 (1.93) | Durden 🔴 +108 (2.08)\nEvent: UFC Fight Night: Moicano vs N
+ olan\nSource: https://www.ufc.com/event/ufc-fight-night-october-31-2026\nM
+ ain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent st
+ atus: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-31-2026-fight-13229@ufc-detailed-calendar
+DTSTAMP:20261026T131005Z
+LAST-MODIFIED:20261026T131005Z
+SEQUENCE:0
+DTSTART:20261101T003000Z
+DTEND:20261101T010000Z
+SUMMARY:🥊 8. Zachary Reese vs. Mickey Gall (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
+ • Reese: 10-4-0 | 32yo\n• Gall: 7-7-0 | 34yo | Brazilian Jiu-Jitsu\n
+ • Odds history: not checked yet\nEvent: UFC Fight Night: Moicano vs Nola
+ n\nSource: https://www.ufc.com/event/ufc-fight-night-october-31-2026\nMain
+  calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent statu
+ s: Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -529,18 +122,151 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-october-31-2026-fight-13176@ufc-detailed-calendar
 DTSTAMP:20261002T124153Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:1
+LAST-MODIFIED:20261026T131005Z
+SEQUENCE:2
 DTSTART:20261101T000000Z
 DTEND:20261101T003000Z
-SUMMARY:🥊 1. Jean-Paul Lebosnoyani vs. Farman Hasanov (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Lebosno
- yani: 11-2-0 | 27yo | Freestyle\n• Hasanov: 6-0-0 | 31yo | Wrestler\n•
-  Odds history: not checked yet\nEvent: UFC Fight Night: Moicano vs Nolan\n
+SUMMARY:🥊 7. Jean-Paul Lebosnoyani vs. Farman Hasanov (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Lebosnoyani: 11-2-0 | 27yo | Freestyle | -233 (1.43)\n• Hasanov: 6-0
+ -0 | 31yo | Wrestler | +225 (3.25)\n• Odds history:\n  ◦ 26 Oct: Lebos
+ noyani 🟢 -233 (1.43) | Hasanov 🔴 +225 (3.25)\nEvent: UFC Fight Night
+ : Moicano vs Nolan\nSource: https://www.ufc.com/event/ufc-fight-night-octo
+ ber-31-2026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc
+ .ics\nEvent status: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-31-2026-fight-13230@ufc-detailed-calendar
+DTSTAMP:20261026T131005Z
+LAST-MODIFIED:20261026T131005Z
+SEQUENCE:0
+DTSTART:20261031T233000Z
+DTEND:20261101T000000Z
+SUMMARY:🥊 6. Francis Marshall vs. Dakota Hope (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n
+ • Marshall: 10-3-0 | 27yo | Freestyle | -203 (1.49)\n• Hope: 11-2-0 | 
+ 29yo | +215 (3.15)\n• Odds history:\n  ◦ 26 Oct: Marshall 🟢 -203 (1
+ .49) | Hope 🔴 +215 (3.15)\nEvent: UFC Fight Night: Moicano vs Nolan\nSo
+ urce: https://www.ufc.com/event/ufc-fight-night-october-31-2026\nMain cale
+ ndar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sc
+ heduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-31-2026-fight-13175@ufc-detailed-calendar
+DTSTAMP:20261002T124153Z
+LAST-MODIFIED:20261026T131005Z
+SEQUENCE:2
+DTSTART:20261031T230000Z
+DTEND:20261031T233000Z
+SUMMARY:🥊 5. Rodrigo Sezinando vs. Theodor Berggren (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Sezinando: 9-2-0 | 28yo | MMA | -156 (1.64)\n• Berggren: 8-4-0 | 26y
+ o | MMA | +150 (2.50)\n• Odds history:\n  ◦ 26 Oct: Sezinando 🟢 -15
+ 6 (1.64) | Berggren 🔴 +150 (2.50)\nEvent: UFC Fight Night: Moicano vs N
+ olan\nSource: https://www.ufc.com/event/ufc-fight-night-october-31-2026\nM
+ ain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent st
+ atus: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-31-2026-fight-13178@ufc-detailed-calendar
+DTSTAMP:20261002T124153Z
+LAST-MODIFIED:20261026T131005Z
+SEQUENCE:2
+DTSTART:20261031T223000Z
+DTEND:20261031T230000Z
+SUMMARY:🥊 4. Julian Erosa vs. JeongYeong Lee (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n
+ • Erosa: 31-14-0 | 37yo | Striker | +160 (2.60)\n• Lee: 11-3-0 | 30yo 
+ | Brazilian Jiu-Jitsu | -180 (1.56)\n• Odds history:\n  ◦ 26 Oct: Eros
+ a 🔴 +160 (2.60) | Lee 🟢 -180 (1.56)\nEvent: UFC Fight Night: Moicano
+  vs Nolan\nSource: https://www.ufc.com/event/ufc-fight-night-october-31-20
+ 26\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEve
+ nt status: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-31-2026-fight-13096@ufc-detailed-calendar
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20261026T131005Z
+SEQUENCE:8
+DTSTART:20261031T220000Z
+DTEND:20261031T223000Z
+SUMMARY:🥊 3. Nick Klein vs. Joseph Kropschot (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
+ • Klein: 6-3-0 | 31yo | Freestyle | +250 (3.50)\n• Kropschot: 1-0-0 | 
+ 31yo | -245 (1.41)\n• Odds history:\n  ◦ 26 Oct: Klein 🔴 +250 (3.50
+ ) | Kropschot 🟢 -245 (1.41)\nEvent: UFC Fight Night: Moicano vs Nolan\n
  Source: https://www.ufc.com/event/ufc-fight-night-october-31-2026\nMain ca
  lendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: 
  Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-31-2026-fight-13174@ufc-detailed-calendar
+DTSTAMP:20261002T124153Z
+LAST-MODIFIED:20261026T131005Z
+SEQUENCE:2
+DTSTART:20261031T213000Z
+DTEND:20261031T220000Z
+SUMMARY:🥊 2. Talita Alencar vs. Piera Rodriguez (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 115lbs/52kg Women's Strawwei
+ ght\n• Alencar: 8-1-1 | 36yo | Grappler | +245 (3.45)\n• Rodriguez: 12
+ -2-0 | 33yo | Striker | -257 (1.39)\n• Odds history:\n  ◦ 26 Oct: Alen
+ car 🔴 +245 (3.45) | Rodriguez 🟢 -257 (1.39)\nEvent: UFC Fight Night:
+  Moicano vs Nolan\nSource: https://www.ufc.com/event/ufc-fight-night-octob
+ er-31-2026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.
+ ics\nEvent status: Scheduled
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-october-31-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-october-31-2026-fight-13117@ufc-detailed-calendar
+DTSTAMP:20260913T144507Z
+LAST-MODIFIED:20261026T131005Z
+SEQUENCE:8
+DTSTART:20261031T210000Z
+DTEND:20261031T213000Z
+SUMMARY:🥊 1. Lucia Szabova vs. Tainara Lisboa (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 125lbs/57kg Women's Flyweigh
+ t\n• Szabova: 0-0-0 | 28yo | -525 (1.19)\n• Lisboa: 7-4-0 | 35yo | Mua
+ y Thai | +488 (5.88)\n• Odds history:\n  ◦ 26 Oct: Szabova 🟢 -525 (
+ 1.19) | Lisboa 🔴 +488 (5.88)\nEvent: UFC Fight Night: Moicano vs Nolan\
+ nSource: https://www.ufc.com/event/ufc-fight-night-october-31-2026\nMain c
+ alendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status:
+  Scheduled
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-october-31-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -790,21 +516,21 @@ RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-fight-night-november-07-2026-fight-billy-elekana-lucas-fernando@ufc
- -detailed-calendar
-DTSTAMP:20260930T124052Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:2
+UID:ufc-fight-night-november-07-2026-fight-andre-petroski-mantas-kondratavi
+ cius@ufc-detailed-calendar
+DTSTAMP:20261026T131005Z
+LAST-MODIFIED:20261026T131005Z
+SEQUENCE:0
 DTSTART:20261108T013000Z
 DTEND:20261108T020000Z
-SUMMARY:🥊 2. Billy Elekana vs. Lucas Fernando (estimated)
+SUMMARY:🥊 2. Mantas Kondratavičius vs. Andre Petroski (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• El
- ekana: 10-2-0 | 31yo | MMA\n• Fernando: 14-3-0 | 29yo | Striker\n• Odd
- s history: not checked yet\nEvent: UFC Fight Night: Bonfim vs Brady\nSourc
- e: https://www.ufc.com/event/ufc-fight-night-november-07-2026\nMain calend
- ar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Resc
- heduled\; previously 7 Nov 2026
+  move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Kondrat
+ avicius: 9-1-0 | 27yo | MMA\n• Petroski: 13-7-0 | 35yo | Freestyle\n• 
+ Odds history: not checked yet\nEvent: UFC Fight Night: Bonfim vs Brady\nSo
+ urce: https://www.ufc.com/event/ufc-fight-night-november-07-2026\nMain cal
+ endar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: R
+ escheduled\; previously 7 Nov 2026
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -812,21 +538,21 @@ RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-fight-night-november-07-2026-fight-mantas-kondratavicius-wes-schult
- z@ufc-detailed-calendar
+UID:ufc-fight-night-november-07-2026-fight-billy-elekana-lucas-fernando@ufc
+ -detailed-calendar
 DTSTAMP:20260930T124052Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:2
+LAST-MODIFIED:20261026T131005Z
+SEQUENCE:3
 DTSTART:20261108T010000Z
 DTEND:20261108T013000Z
-SUMMARY:🥊 1. Mantas Kondratavičius vs. Wes Schultz (estimated)
+SUMMARY:🥊 1. Billy Elekana vs. Lucas Fernando (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Kondrat
- avicius: 9-1-0 | 27yo | MMA\n• Schultz: 9-4-0 | 30yo | MMA\n• Odds his
- tory: not checked yet\nEvent: UFC Fight Night: Bonfim vs Brady\nSource: ht
- tps://www.ufc.com/event/ufc-fight-night-november-07-2026\nMain calendar: h
- ttps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Reschedul
- ed\; previously 7 Nov 2026
+  move as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• El
+ ekana: 10-2-0 | 31yo | MMA\n• Fernando: 14-3-0 | 29yo | Striker\n• Odd
+ s history: not checked yet\nEvent: UFC Fight Night: Bonfim vs Brady\nSourc
+ e: https://www.ufc.com/event/ufc-fight-night-november-07-2026\nMain calend
+ ar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Resc
+ heduled\; previously 7 Nov 2026
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1375,6 +1101,48 @@ LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
 CATEGORIES:UFC,Estimated Fight,Main Card
 RELATED-TO:ufc-335-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-336-fight-joshua-van-manel-kape@ufc-detailed-calendar
+DTSTAMP:20261026T131005Z
+LAST-MODIFIED:20261026T131005Z
+SEQUENCE:0
+DTSTART:20270131T023000Z
+DTEND:20270131T030000Z
+SUMMARY:🥊 2. Joshua Van vs. Manel Kape (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• Weight class unavailable\n
+ • Van: 18-2-0 | 25yo | Freestyle | -121 (1.83)\n• Kape: 23-7-0 | 33yo 
+ | MMA | -103 (1.97)\n• Odds history:\n  ◦ 26 Oct: Van 🟢 -121 (1.83)
+  | Kape 🔴 -103 (1.97)\nEvent: UFC 336: Van vs Kape\nSource: https://www
+ .ufc.com/event/ufc-336\nMain calendar: https://staircasewit.github.io/mmac
+ alendar/ufc.ics\nEvent status: Scheduled
+LOCATION:Scotiabank Arena\, Toronto\, Canada
+URL:https://www.ufc.com/event/ufc-336
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-336-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-336-fight-carlos-prates-michael-morales@ufc-detailed-calendar
+DTSTAMP:20261026T131005Z
+LAST-MODIFIED:20261026T131005Z
+SEQUENCE:0
+DTSTART:20270131T000000Z
+DTEND:20270131T003000Z
+SUMMARY:🥊 1. Carlos Prates vs. Michael Morales (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• Weight class unavailable\n
+ • Prates: 24-7-0 | 33yo | Striker | -150 (1.67)\n• Morales: 19-0-0 | 2
+ 7yo | Striker | +128 (2.28)\n• Odds history:\n  ◦ 26 Oct: Prates 🟢 
+ -150 (1.67) | Morales 🔴 +128 (2.28)\nEvent: UFC 336: Van vs Kape\nSourc
+ e: https://www.ufc.com/event/ufc-336\nMain calendar: https://staircasewit.
+ github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:Scotiabank Arena\, Toronto\, Canada
+URL:https://www.ufc.com/event/ufc-336
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-336-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR

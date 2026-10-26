@@ -7256,7 +7256,7 @@
     "bouts": [
       {
         "id": "1585",
-        "order": 7,
+        "order": 8,
         "red": {
           "name": "Taylor Lapilus",
           "profileUrl": "https://pflmma.com/wt-fighter/taylor-lapilus",
@@ -7280,7 +7280,7 @@
       },
       {
         "id": "1589",
-        "order": 6,
+        "order": 7,
         "red": {
           "name": "Boris Atangana",
           "profileUrl": "https://pflmma.com/wt-fighter/boris-atangana",
@@ -7304,7 +7304,7 @@
       },
       {
         "id": "1600",
-        "order": 5,
+        "order": 6,
         "red": {
           "name": "Abdoul Abdouraguimov",
           "profileUrl": "https://pflmma.com/wt-fighter/abdoul-abdouraguimov",
@@ -7328,7 +7328,7 @@
       },
       {
         "id": "1601",
-        "order": 4,
+        "order": 5,
         "red": {
           "name": "Fabian Edwards",
           "profileUrl": "https://pflmma.com/wt-fighter/fabian-edwards",
@@ -7352,7 +7352,7 @@
       },
       {
         "id": "1607",
-        "order": 3,
+        "order": 4,
         "red": {
           "name": "Baris Adiguzel",
           "profileUrl": "https://pflmma.com/wt-fighter/baris-adiguzel",
@@ -7372,6 +7372,30 @@
           "odds": null
         },
         "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1673",
+        "order": 3,
+        "red": {
+          "name": "Bafode Gassama",
+          "profileUrl": "https://pflmma.com/wt-fighter/bafode-gassama",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "4-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Coby Bradford",
+          "profileUrl": "https://pflmma.com/wt-fighter/coby-bradford",
+          "countryCode": "US",
+          "birthDate": "1994-10-25",
+          "record": "6-4-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "205lbs/93kg Light Heavyweight",
         "oddsHistory": []
       },
       {

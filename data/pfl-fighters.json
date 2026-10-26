@@ -2004,9 +2004,9 @@
       "name": "Coby Bradford",
       "countryCode": "US",
       "birthDate": "1994-10-25",
-      "record": null,
+      "record": "6-4-0",
       "style": null,
-      "checkedAt": "2026-09-13T10:10:12.597Z"
+      "checkedAt": "2026-10-26T13:10:05.194Z"
     },
     "https://pflmma.com/wt-fighter/noah-hermosillo": {
       "name": "Noah Hermosillo",
@@ -2526,7 +2526,7 @@
       "birthDate": "1996-11-12",
       "record": "8-1-0",
       "style": null,
-      "checkedAt": "2026-09-25T11:55:05.698Z"
+      "checkedAt": "2026-10-26T13:10:05.194Z"
     },
     "https://pflmma.com/mena-fighter/islam-youssef": {
       "name": "Islam Youssef",
@@ -2735,6 +2735,14 @@
       "record": "8-1-0",
       "style": null,
       "checkedAt": "2026-10-23T11:44:22.443Z"
+    },
+    "https://pflmma.com/wt-fighter/bafode-gassama": {
+      "name": "Bafode Gassama",
+      "countryCode": null,
+      "birthDate": null,
+      "record": "4-0-0",
+      "style": null,
+      "checkedAt": "2026-10-26T13:10:05.194Z"
     }
   }
 }

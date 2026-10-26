@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-23T11:44:22.443Z",
+  "lastCheckedAt": "2026-10-26T13:10:05.194Z",
   "fights": {
     "ufc-fight-night-september-12-2026::edgar chairez--tim elliott": [
       {
@@ -2827,6 +2827,201 @@
         "names": {
           "kody steele": "Kody Steele",
           "noah gugnon": "Noah Gugnon"
+        }
+      }
+    ],
+    "ufc-fight-night-october-31-2026::renato moicano--tom nolan": [
+      {
+        "checkedAt": "2026-10-26T13:10:05.194Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "renato moicano": "-104",
+          "tom nolan": "-100"
+        },
+        "names": {
+          "renato moicano": "Renato Moicano",
+          "tom nolan": "Tom Nolan"
+        }
+      }
+    ],
+    "ufc-fight-night-october-31-2026::jacobe smith--randy brown": [
+      {
+        "checkedAt": "2026-10-26T13:10:05.194Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "randy brown": "+213",
+          "jacobe smith": "-223"
+        },
+        "names": {
+          "randy brown": "Randy Brown",
+          "jacobe smith": "Jacobe Smith"
+        }
+      }
+    ],
+    "ufc-fight-night-october-31-2026::luana santos--yana santos": [
+      {
+        "checkedAt": "2026-10-26T13:10:05.194Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "yana santos": "+245",
+          "luana santos": "-250"
+        },
+        "names": {
+          "yana santos": "Yana Santos",
+          "luana santos": "Luana Santos"
+        }
+      }
+    ],
+    "ufc-fight-night-october-31-2026::cody durden--ode' osbourne": [
+      {
+        "checkedAt": "2026-10-26T13:10:05.194Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-333-4321",
+        "odds": {
+          "ode' osbourne": "-108",
+          "cody durden": "+108"
+        },
+        "names": {
+          "ode' osbourne": "Ode' Osbourne",
+          "cody durden": "Cody Durden"
+        }
+      }
+    ],
+    "ufc-fight-night-october-31-2026::farman hasanov--jean-paul lebosnoyani": [
+      {
+        "checkedAt": "2026-10-26T13:10:05.194Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "jean-paul lebosnoyani": "-233",
+          "farman hasanov": "+225"
+        },
+        "names": {
+          "jean-paul lebosnoyani": "Jean-Paul Lebosnoyani",
+          "farman hasanov": "Farman Hasanov"
+        }
+      }
+    ],
+    "ufc-fight-night-october-31-2026::dakota hope--francis marshall": [
+      {
+        "checkedAt": "2026-10-26T13:10:05.194Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "francis marshall": "-203",
+          "dakota hope": "+215"
+        },
+        "names": {
+          "francis marshall": "Francis Marshall",
+          "dakota hope": "Dakota Hope"
+        }
+      }
+    ],
+    "ufc-fight-night-october-31-2026::rodrigo sezinando--theodor berggren": [
+      {
+        "checkedAt": "2026-10-26T13:10:05.194Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "rodrigo sezinando": "-156",
+          "theodor berggren": "+150"
+        },
+        "names": {
+          "rodrigo sezinando": "Rodrigo Sezinando",
+          "theodor berggren": "Theodor Berggren"
+        }
+      }
+    ],
+    "ufc-fight-night-october-31-2026::jeongyeong lee--julian erosa": [
+      {
+        "checkedAt": "2026-10-26T13:10:05.194Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "julian erosa": "+160",
+          "jeongyeong lee": "-180"
+        },
+        "names": {
+          "julian erosa": "Julian Erosa",
+          "jeongyeong lee": "JeongYeong Lee"
+        }
+      }
+    ],
+    "ufc-fight-night-october-31-2026::joseph kropschot--nick klein": [
+      {
+        "checkedAt": "2026-10-26T13:10:05.194Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "nick klein": "+250",
+          "joseph kropschot": "-245"
+        },
+        "names": {
+          "nick klein": "Nick Klein",
+          "joseph kropschot": "Joseph Kropschot"
+        }
+      }
+    ],
+    "ufc-fight-night-october-31-2026::piera rodriguez--talita alencar": [
+      {
+        "checkedAt": "2026-10-26T13:10:05.194Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "talita alencar": "+245",
+          "piera rodriguez": "-257"
+        },
+        "names": {
+          "talita alencar": "Talita Alencar",
+          "piera rodriguez": "Piera Rodriguez"
+        }
+      }
+    ],
+    "ufc-fight-night-october-31-2026::lucia szabova--tainara lisboa": [
+      {
+        "checkedAt": "2026-10-26T13:10:05.194Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "lucia szabova": "-525",
+          "tainara lisboa": "+488"
+        },
+        "names": {
+          "lucia szabova": "Lucia Szabova",
+          "tainara lisboa": "Tainara Lisboa"
+        }
+      }
+    ],
+    "ufc-336::joshua van--manel kape": [
+      {
+        "checkedAt": "2026-10-26T13:10:05.194Z",
+        "eventName": "UFC 336: Van vs Kape",
+        "sourceUrl": "https://www.bestfightodds.com/events/future-events-197",
+        "odds": {
+          "joshua van": "-121",
+          "manel kape": "-103"
+        },
+        "names": {
+          "joshua van": "Joshua Van",
+          "manel kape": "Manel Kape"
+        }
+      }
+    ],
+    "ufc-336::carlos prates--michael morales": [
+      {
+        "checkedAt": "2026-10-26T13:10:05.194Z",
+        "eventName": "UFC 336: Van vs Kape",
+        "sourceUrl": "https://www.bestfightodds.com/events/future-events-197",
+        "odds": {
+          "carlos prates": "-150",
+          "michael morales": "+128"
+        },
+        "names": {
+          "carlos prates": "Carlos Prates",
+          "michael morales": "Michael Morales"
         }
       }
     ]
