@@ -124,7 +124,7 @@
       "familyName": "Moreno",
       "record": "24-10-2",
       "fightingStyle": "Jiu-Jitsu",
-      "checkedAt": "2026-10-21T11:55:56.716Z"
+      "checkedAt": "2026-10-28T13:01:15.055Z"
     },
     "https://www.ufc.com/athlete/joseph-morales": {
       "birthDate": "1994-08-22",
@@ -334,7 +334,7 @@
       "familyName": "Moicano",
       "record": "21-7-1",
       "fightingStyle": "Jiu-Jitsu",
-      "checkedAt": "2026-10-21T11:55:56.716Z"
+      "checkedAt": "2026-10-28T13:01:15.055Z"
     },
     "https://www.ufc.com/athlete/alonzo-menifield": {
       "birthDate": "1987-10-18",
@@ -796,7 +796,7 @@
       "familyName": "Bonfim",
       "record": "20-1-0",
       "fightingStyle": "Striker",
-      "checkedAt": "2026-10-21T11:55:56.716Z"
+      "checkedAt": "2026-10-28T13:01:15.055Z"
     },
     "https://www.ufc.com/athlete/fares-ziam": {
       "birthDate": "1997-03-21",
@@ -810,7 +810,7 @@
       "familyName": "Nolan",
       "record": "11-1-0",
       "fightingStyle": null,
-      "checkedAt": "2026-10-21T11:55:56.716Z"
+      "checkedAt": "2026-10-28T13:01:15.055Z"
     },
     "https://www.ufc.com/athlete/santiago-luna": {
       "birthDate": "2004-08-06",
@@ -1027,7 +1027,7 @@
       "familyName": "Johnson",
       "record": "20-9-0",
       "fightingStyle": null,
-      "checkedAt": "2026-10-21T11:55:56.716Z"
+      "checkedAt": "2026-10-28T13:01:15.055Z"
     },
     "https://www.ufc.com/athlete/ikram-aliskerov": {
       "birthDate": "1992-12-07",
@@ -1055,7 +1055,7 @@
       "familyName": "Almeida",
       "record": "7-3-0",
       "fightingStyle": "Striker",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
+      "checkedAt": "2026-10-28T13:01:15.055Z"
     },
     "https://www.ufc.com/athlete/john-garza": {
       "birthDate": "2002-10-30",
@@ -2413,7 +2413,7 @@
       "familyName": "Brady",
       "record": "19-2-0",
       "fightingStyle": "Jiu-Jitsu",
-      "checkedAt": "2026-10-21T11:55:56.716Z"
+      "checkedAt": "2026-10-28T13:01:15.055Z"
     },
     "https://www.ufc.com/athlete/losene-keita": {
       "birthDate": "1997-12-30",
@@ -2616,28 +2616,28 @@
       "familyName": "Szabova",
       "record": "0-0-0",
       "fightingStyle": null,
-      "checkedAt": "2026-10-21T11:55:56.716Z"
+      "checkedAt": "2026-10-28T13:01:15.055Z"
     },
     "https://www.ufc.com/athlete/tainara-lisboa": {
       "birthDate": "1991-03-02",
       "familyName": "Lisboa",
       "record": "7-4-0",
       "fightingStyle": "Muay Thai",
-      "checkedAt": "2026-10-21T11:55:56.716Z"
+      "checkedAt": "2026-10-28T13:01:15.055Z"
     },
     "https://www.ufc.com/athlete/joseph-kropschot": {
       "birthDate": "1995-06-19",
       "familyName": "Kropschot",
       "record": "1-0-0",
       "fightingStyle": null,
-      "checkedAt": "2026-10-21T11:55:56.716Z"
+      "checkedAt": "2026-10-28T13:01:15.055Z"
     },
     "https://www.ufc.com/athlete/nick-klein": {
       "birthDate": "1995-09-08",
       "familyName": "Klein",
       "record": "6-3-0",
       "fightingStyle": "Freestyle",
-      "checkedAt": "2026-10-21T11:55:56.716Z"
+      "checkedAt": "2026-10-28T13:01:15.055Z"
     },
     "https://www.ufc.com/athlete/su-mudaerji": {
       "birthDate": "1996-01-20",
@@ -2812,13 +2812,6 @@
       "familyName": "Thompson",
       "record": "17-9-1",
       "fightingStyle": "Karate",
-      "checkedAt": "2026-10-23T11:44:22.443Z"
-    },
-    "https://www.ufc.com/athlete/baisangur-susurkaev": {
-      "birthDate": "2001-01-08",
-      "familyName": "Susurkaev",
-      "record": "12-0-0",
-      "fightingStyle": "Striker",
       "checkedAt": "2026-10-23T11:44:22.443Z"
     },
     "https://www.ufc.com/athlete/jim-miller": {
@@ -3310,6 +3303,20 @@
       "record": "23-7-0",
       "fightingStyle": "MMA",
       "checkedAt": "2026-10-26T13:10:05.194Z"
+    },
+    "https://www.ufc.com/athlete/marcos-degli": {
+      "birthDate": "2000-05-13",
+      "familyName": "Degli",
+      "record": "1-0-0",
+      "fightingStyle": null,
+      "checkedAt": "2026-10-28T13:01:15.055Z"
+    },
+    "https://www.ufc.com/athlete/mitch-raposo": {
+      "birthDate": "1998-10-16",
+      "familyName": "Raposo",
+      "record": "11-3-0",
+      "fightingStyle": "Freestyle",
+      "checkedAt": "2026-10-28T13:01:15.055Z"
     }
   }
 }

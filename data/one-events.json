@@ -9606,7 +9606,7 @@
       {
         "redName": "Ethan Brockett",
         "blueName": "Pedro Duarte",
-        "details": "Featherweight MMA",
+        "details": "Featherweight Mixed Martial Arts",
         "redProfileUrl": "https://www.onefc.com/athletes/ethan-brockett/",
         "blueProfileUrl": "https://www.onefc.com/athletes/pedro-duarte/",
         "redCountry": "New Zealand",
@@ -9639,7 +9639,7 @@
       {
         "redName": "Prashanth Guda",
         "blueName": "Oga Akita",
-        "details": "Flyweight MMA",
+        "details": "Flyweight Mixed Martial Arts",
         "redProfileUrl": "https://www.onefc.com/athletes/prashanth-guda/",
         "blueProfileUrl": "https://www.onefc.com/athletes/oga-akita/",
         "redCountry": "India / New Zealand",
@@ -9731,7 +9731,11 @@
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 21,
+        "redRecord": "4-2-0",
+        "blueAge": 27,
+        "blueRecord": "1-1-0"
       },
       {
         "redName": "Evan Gambuto",
@@ -9745,7 +9749,10 @@
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 24,
+        "blueAge": 22,
+        "blueRecord": "3-1-0"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-176/"
@@ -9787,7 +9794,7 @@
     "end": "20261107T080000Z",
     "summary": "ONE Fight Night 49",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/onefightnight49\n\nLucas Gabriel vs. Magomed  Magomedov (MMA) | Mixed Martial Arts | Lightweight\n\nKongthoranee Sor Sommai vs. Taiki Naito | Kickboxing | Flyweight\n\nLee Seung Cheol vs. Nazareth Lalthazuala | Mixed Martial Arts | Strawweight\n\nNontachai Jitmuangnon vs. Felipe Lobo | Muay Thai | Bantamweight\n\nZhou  Jiaqiang vs. Mamuka Usubyan | Kickboxing | Featherweight\n\nVick Souza vs. Magdalena Czaban | Mixed Martial Arts | Atomweight\n\nVictor  Hugo vs. Devhonte Johnson | Submission Grappling | Openweight\n\nKalandar Tabarov vs. Ilmadi Israilov | Mixed Martial Arts | Bantamweight\n\nBogdan Shumarov vs. Gasham  Mammadov | Kickboxing | Lightweight\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/onefightnight49\n\nLucas Gabriel vs. Magomed  Magomedov (MMA) | Mixed Martial Arts | Lightweight\n\nKongthoranee Sor Sommai vs. Taiki Naito | Kickboxing | Flyweight\n\nLee Seung Cheol vs. Nazareth Lalthazuala | Mixed Martial Arts | Strawweight\n\nNontachai Jitmuangnon vs. Felipe Lobo | Muay Thai | Bantamweight\n\nZhou  Jiaqiang vs. Mamuka Usubyan | Kickboxing | Featherweight\n\nVick Souza vs. Magdalena Czaban | Mixed Martial Arts | Atomweight\n\nVictor  Hugo vs. Devhonte Johnson | Submission Grappling | Openweight\n\nKalandar Tabarov vs. Ilmadi Israilov | Mixed Martial Arts | Bantamweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/onefightnight49",
     "status": "CONFIRMED",
     "bouts": [
@@ -9808,12 +9815,14 @@
         "redCountry": "Thailand",
         "blueCountry": "Japan",
         "redAge": 29,
-        "redRecord": "11-6-0",
+        "redRecord": "12-6-0",
         "redStyle": "Striker",
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "blueAge": 30,
+        "blueRecord": "10-6-0"
       },
       {
         "redName": "Lee Seung Cheol",
@@ -9827,7 +9836,9 @@
         "redRecord": "6-0-0",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "blueAge": 25,
+        "blueRecord": "3-0-0"
       },
       {
         "redName": "Nontachai Jitmuangnon",
@@ -9838,12 +9849,14 @@
         "redCountry": "Thailand",
         "blueCountry": "Brazil",
         "redAge": 27,
-        "redRecord": "6-1-0",
+        "redRecord": "6-2-0",
         "redStyle": "Striker",
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "blueAge": 33,
+        "blueRecord": "4-6-0"
       },
       {
         "redName": "Zhou Jiaqiang",
@@ -9857,7 +9870,11 @@
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 26,
+        "redRecord": "0-1-0",
+        "blueAge": 32,
+        "blueRecord": "4-1-0"
       },
       {
         "redName": "Vick Souza",
@@ -9869,7 +9886,12 @@
         "blueCountry": "Poland",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 29,
+        "redRecord": "4-3-0",
+        "redStyle": "Striker",
+        "blueAge": 27,
+        "blueRecord": "1-0-0"
       },
       {
         "redName": "Victor Hugo",
@@ -9895,21 +9917,9 @@
         "blueCountry": "Russia",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
-      },
-      {
-        "redName": "Bogdan Shumarov",
-        "blueName": "Gasham Mammadov",
-        "details": "Lightweight Kickboxing",
-        "redProfileUrl": "https://www.onefc.com/athletes/bogdan-shumarov/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/gasham-mammadov/",
-        "redCountry": "Bulgaria",
-        "blueCountry": "Azerbaijan",
-        "redStyle": "Striker",
-        "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "redAge": 27,
+        "blueAge": 23
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/onefightnight49/"

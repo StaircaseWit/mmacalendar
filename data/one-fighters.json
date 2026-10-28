@@ -1067,9 +1067,9 @@
     "https://www.onefc.com/athletes/nontachai-jitmuangnon/": {
       "country": "Thailand",
       "age": 27,
-      "record": "6-1-0",
+      "record": "6-2-0",
       "style": "Striker",
-      "checkedAt": "2026-09-16T11:41:28.093Z"
+      "checkedAt": "2026-10-28T13:01:15.055Z"
     },
     "https://www.onefc.com/athletes/yamin-pk-saenchai/": {
       "country": "Thailand",
@@ -1298,9 +1298,9 @@
     "https://www.onefc.com/athletes/kongthoranee-sor-sommai/": {
       "country": "Thailand",
       "age": 29,
-      "record": "11-6-0",
+      "record": "12-6-0",
       "style": "Striker",
-      "checkedAt": "2026-09-21T12:54:10.490Z"
+      "checkedAt": "2026-10-28T13:01:15.055Z"
     },
     "https://www.onefc.com/athletes/yuan-pengjie/": {
       "country": "China",
@@ -1356,7 +1356,7 @@
       "age": 27,
       "record": "6-0-0",
       "style": null,
-      "checkedAt": "2026-09-23T11:42:56.935Z"
+      "checkedAt": "2026-10-28T13:01:15.055Z"
     },
     "https://www.onefc.com/athletes/karen-ghazaryan/": {
       "country": "Armenia",
@@ -2225,6 +2225,111 @@
       "record": "4-2-0",
       "style": null,
       "checkedAt": "2026-10-26T13:10:05.194Z"
+    },
+    "https://www.onefc.com/athletes/petkhaokradong/": {
+      "country": "Thailand",
+      "age": 21,
+      "record": "4-2-0",
+      "style": null,
+      "checkedAt": "2026-10-28T13:01:15.055Z"
+    },
+    "https://www.onefc.com/athletes/abdelali-zahidi/": {
+      "country": "Morocco",
+      "age": 27,
+      "record": "1-1-0",
+      "style": null,
+      "checkedAt": "2026-10-28T13:01:15.055Z"
+    },
+    "https://www.onefc.com/athletes/evan-gambuto/": {
+      "country": "France",
+      "age": 24,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-10-28T13:01:15.055Z"
+    },
+    "https://www.onefc.com/athletes/ranma/": {
+      "country": "Japan",
+      "age": 22,
+      "record": "3-1-0",
+      "style": null,
+      "checkedAt": "2026-10-28T13:01:15.055Z"
+    },
+    "https://www.onefc.com/athletes/taiki-naito/": {
+      "country": "Japan",
+      "age": 30,
+      "record": "10-6-0",
+      "style": "Striker",
+      "checkedAt": "2026-10-28T13:01:15.055Z"
+    },
+    "https://www.onefc.com/athletes/nazareth-lalthazuala/": {
+      "country": "India",
+      "age": 25,
+      "record": "3-0-0",
+      "style": null,
+      "checkedAt": "2026-10-28T13:01:15.055Z"
+    },
+    "https://www.onefc.com/athletes/felipe-lobo/": {
+      "country": "Brazil",
+      "age": 33,
+      "record": "4-6-0",
+      "style": "Striker",
+      "checkedAt": "2026-10-28T13:01:15.055Z"
+    },
+    "https://www.onefc.com/athletes/zhou-jiaqiang/": {
+      "country": "China",
+      "age": 26,
+      "record": "0-1-0",
+      "style": null,
+      "checkedAt": "2026-10-28T13:01:15.055Z"
+    },
+    "https://www.onefc.com/athletes/mamuka-usubyan/": {
+      "country": "Russia",
+      "age": 32,
+      "record": "4-1-0",
+      "style": "Striker",
+      "checkedAt": "2026-10-28T13:01:15.055Z"
+    },
+    "https://www.onefc.com/athletes/vick-souza/": {
+      "country": "Brazil",
+      "age": 29,
+      "record": "4-3-0",
+      "style": "Striker",
+      "checkedAt": "2026-10-28T13:01:15.055Z"
+    },
+    "https://www.onefc.com/athletes/magdalena-czaban/": {
+      "country": "Poland",
+      "age": 27,
+      "record": "1-0-0",
+      "style": null,
+      "checkedAt": "2026-10-28T13:01:15.055Z"
+    },
+    "https://www.onefc.com/athletes/victor-hugo-costa-marques/": {
+      "country": null,
+      "age": null,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-10-28T13:01:15.055Z"
+    },
+    "https://www.onefc.com/athletes/devhonte-johnson/": {
+      "country": null,
+      "age": null,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-10-28T13:01:15.055Z"
+    },
+    "https://www.onefc.com/athletes/kalandar-tabarov/": {
+      "country": "Tajikistan",
+      "age": 27,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-10-28T13:01:15.055Z"
+    },
+    "https://www.onefc.com/athletes/ilmadi-israilov/": {
+      "country": "Russia",
+      "age": 23,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-10-28T13:01:15.055Z"
     }
   }
 }
