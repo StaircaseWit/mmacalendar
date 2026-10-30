@@ -40,7 +40,7 @@
       "age": 30,
       "record": "9-6-0",
       "style": "Striker",
-      "checkedAt": "2026-09-13T12:47:10.519Z"
+      "checkedAt": "2026-10-30T13:00:53.522Z"
     },
     "https://www.onefc.com/athletes/hyu/": {
       "country": "Japan",
@@ -320,7 +320,7 @@
       "age": 26,
       "record": "4-3-0",
       "style": "Striker",
-      "checkedAt": "2026-09-13T13:20:20.773Z"
+      "checkedAt": "2026-10-30T13:00:53.522Z"
     },
     "https://www.onefc.com/athletes/ryohei-kurosawa/": {
       "country": "Japan",
@@ -345,10 +345,10 @@
     },
     "https://www.onefc.com/athletes/jordan-estupinan/": {
       "country": "Colombia",
-      "age": 23,
+      "age": 24,
       "record": "3-2-0",
       "style": "Striker",
-      "checkedAt": "2026-09-13T13:24:27.674Z"
+      "checkedAt": "2026-10-30T13:00:53.522Z"
     },
     "https://www.onefc.com/athletes/hector-almonacid/": {
       "country": "Argentina",
@@ -2233,13 +2233,6 @@
       "style": null,
       "checkedAt": "2026-10-28T13:01:15.055Z"
     },
-    "https://www.onefc.com/athletes/abdelali-zahidi/": {
-      "country": "Morocco",
-      "age": 27,
-      "record": "1-1-0",
-      "style": null,
-      "checkedAt": "2026-10-28T13:01:15.055Z"
-    },
     "https://www.onefc.com/athletes/evan-gambuto/": {
       "country": "France",
       "age": 24,
@@ -2308,14 +2301,14 @@
       "age": null,
       "record": null,
       "style": null,
-      "checkedAt": "2026-10-28T13:01:15.055Z"
+      "checkedAt": "2026-10-30T13:00:53.522Z"
     },
     "https://www.onefc.com/athletes/devhonte-johnson/": {
       "country": null,
       "age": null,
       "record": null,
       "style": null,
-      "checkedAt": "2026-10-28T13:01:15.055Z"
+      "checkedAt": "2026-10-30T13:00:53.522Z"
     },
     "https://www.onefc.com/athletes/kalandar-tabarov/": {
       "country": "Tajikistan",
@@ -2330,6 +2323,41 @@
       "record": null,
       "style": null,
       "checkedAt": "2026-10-28T13:01:15.055Z"
+    },
+    "https://www.onefc.com/athletes/kade-ruotolo/": {
+      "country": "United States",
+      "age": 23,
+      "record": "10-0-0",
+      "style": "Grappler",
+      "checkedAt": "2026-10-30T13:00:53.522Z"
+    },
+    "https://www.onefc.com/athletes/ok-rae-yoon/": {
+      "country": "South Korea",
+      "age": 35,
+      "record": "4-3-0",
+      "style": "Grappler",
+      "checkedAt": "2026-10-30T13:00:53.522Z"
+    },
+    "https://www.onefc.com/athletes/bampara-kouyate/": {
+      "country": "France / Mali",
+      "age": 31,
+      "record": "2-2-0",
+      "style": "Striker",
+      "checkedAt": "2026-10-30T13:00:53.522Z"
+    },
+    "https://www.onefc.com/athletes/maurice-abevi/": {
+      "country": "Switzerland",
+      "age": 27,
+      "record": "3-1-0",
+      "style": "Grappler",
+      "checkedAt": "2026-10-30T13:00:53.522Z"
+    },
+    "https://www.onefc.com/athletes/dzhabir-dzhabrailov/": {
+      "country": "Turkey",
+      "age": 21,
+      "record": "4-0-0",
+      "style": "All-rounder",
+      "checkedAt": "2026-10-30T13:00:53.522Z"
     }
   }
 }

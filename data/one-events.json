@@ -9513,31 +9513,13 @@
   {
     "uid": "6a968b61d3539b67790ecd51",
     "start": "20261030T113006Z",
-    "end": "20261030T153006Z",
+    "end": "20261030T163006Z",
     "summary": "ONE Friday Fights 176 & The Inner Circle 36",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-176\n\nRambong Sor Therapat vs. Jacob Thompson | Muay Thai | Flyweight\n\nKhunsuk T1 Fight Academy vs. YodUdon K Tongtalingchan | Muay Thai | Atomweight\n\nSitthichai Sor Dechapan vs. Arthur Evan | Muay Thai | Flyweight\n\nCaviar Pudprachachuen vs. Klapichit K Tongtalingchan | Muay Thai | Strawweight\n\nDenchailek Sor Dechapan vs. Adham Ruziev | Muay Thai | Strawweight\n\nEthan Brockett vs. Pedro Duarte | Mixed Martial Arts | Featherweight\n\nNihad Taghizade vs. Yumeto Mizuno | Kickboxing | Strawweight\n\nPrashanth Guda vs. Oga Akita | Mixed Martial Arts | Flyweight\n\nSuperbest Winnermuaythai vs. Raize | Muay Thai | Strawweight\n\nNumsurin Chor Ketwina vs. Akram Hamidi | Muay Thai | Atomweight\n\nXavier Gonzalez vs. Exza Wankhongohm | Muay Thai | Flyweight\n\nTomyamkoong Bhumjaithai vs. Yassir Rassafi | Muay Thai | Bantamweight\n\nPetkhaokradong Lukjaomaesaithong vs. Abdelali Zahidi | Muay Thai | Featherweight\n\nEvan Gambuto vs. Ranma | Kickboxing | Bantamweight\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-176\n\nKhunsuk T1 Fight Academy vs. YodUdon K Tongtalingchan | Muay Thai | Atomweight\n\nSitthichai Sor Dechapan vs. Arthur Evan | Muay Thai | Flyweight\n\nCaviar Pudprachachuen vs. Klapichit K Tongtalingchan | Muay Thai | Strawweight\n\nEthan Brockett vs. Pedro Duarte | Mixed Martial Arts | Featherweight\n\nDenchailek Sor Dechapan vs. Adham Ruziev | Muay Thai | Strawweight\n\nPrashanth Guda vs. Oga Akita | Mixed Martial Arts | Flyweight\n\nNihad Taghizade vs. Yumeto Mizuno | Kickboxing | Strawweight\n\nNumsurin Chor Ketwina vs. Akram Hamidi | Muay Thai | Atomweight\n\nXavier Gonzalez vs. Exza Wankhongohm | Muay Thai | Flyweight\n\nTomyamkoong Bhumjaithai vs. Yassir Rassafi | Muay Thai | Bantamweight\n\nEvan Gambuto vs. Ranma | Kickboxing | Bantamweight\n\nSuperbest Winnermuaythai vs. Raize | Muay Thai | Strawweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/one-friday-fights-176",
     "status": "CONFIRMED",
     "bouts": [
-      {
-        "redName": "Rambong Sor Therapat",
-        "blueName": "Jacob Thompson",
-        "details": "Flyweight Muay Thai",
-        "redProfileUrl": "https://www.onefc.com/athletes/rambong-sor-therapat/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/jacob-thompson/",
-        "redCountry": "Thailand",
-        "blueCountry": "United Kingdom",
-        "redAge": 29,
-        "redRecord": "11-5-0",
-        "redStyle": "Striker",
-        "blueAge": 23,
-        "blueRecord": "2-2-0",
-        "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
-      },
       {
         "redName": "Khunsuk T1 Fight Academy",
         "blueName": "YodUdon K Tongtalingchan",
@@ -9568,9 +9550,25 @@
         "redRecord": "0-1-0",
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+105",
+        "blueOdds": "-138",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-30T13:00:53.522Z",
+            "eventName": "ONE Friday Fights 176 & The Inner Circle 36",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-176-4432",
+            "promotion": "one",
+            "eventId": "6a968b61d3539b67790ecd51",
+            "odds": {
+              "sitthichai sor dechapan": "+105",
+              "arthur evan": "-138"
+            },
+            "names": {
+              "sitthichai sor dechapan": "Sitthichai Sor Dechapan",
+              "arthur evan": "Arthur Evan"
+            }
+          }
+        ]
       },
       {
         "redName": "Caviar Pudprachachuen",
@@ -9583,9 +9581,56 @@
         "redStyle": "Striker",
         "blueAge": 23,
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-138",
+        "blueOdds": "+105",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-30T13:00:53.522Z",
+            "eventName": "ONE Friday Fights 176 & The Inner Circle 36",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-176-4432",
+            "promotion": "one",
+            "eventId": "6a968b61d3539b67790ecd51",
+            "odds": {
+              "caviar pudprachachuen": "-138",
+              "klapichit k tongtalingchan": "+105"
+            },
+            "names": {
+              "caviar pudprachachuen": "Caviar Pudprachachuen",
+              "klapichit k tongtalingchan": "Klapichit K Tongtalingchan"
+            }
+          }
+        ]
+      },
+      {
+        "redName": "Ethan Brockett",
+        "blueName": "Pedro Duarte",
+        "details": "Featherweight Mixed Martial Arts",
+        "redProfileUrl": "https://www.onefc.com/athletes/ethan-brockett/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/pedro-duarte/",
+        "redCountry": "New Zealand",
+        "blueCountry": "Portugal",
+        "redAge": 25,
+        "redRecord": "2-0-0",
+        "blueAge": 21,
+        "redOdds": "-350",
+        "blueOdds": "+240",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-30T13:00:53.522Z",
+            "eventName": "ONE Friday Fights 176 & The Inner Circle 36",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-176-4432",
+            "promotion": "one",
+            "eventId": "6a968b61d3539b67790ecd51",
+            "odds": {
+              "ethan brockett": "-350",
+              "pedro duarte": "+240"
+            },
+            "names": {
+              "ethan brockett": "Ethan Brockett",
+              "pedro duarte": "Pedro Duarte"
+            }
+          }
+        ]
       },
       {
         "redName": "Denchailek Sor Dechapan",
@@ -9599,24 +9644,54 @@
         "blueAge": 17,
         "blueRecord": "1-2-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+175",
+        "blueOdds": "-250",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-30T13:00:53.522Z",
+            "eventName": "ONE Friday Fights 176 & The Inner Circle 36",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-176-4432",
+            "promotion": "one",
+            "eventId": "6a968b61d3539b67790ecd51",
+            "odds": {
+              "denchailek sor dechapan": "+175",
+              "adham ruziev": "-250"
+            },
+            "names": {
+              "denchailek sor dechapan": "Denchailek Sor Dechapan",
+              "adham ruziev": "Adham Ruziev"
+            }
+          }
+        ]
       },
       {
-        "redName": "Ethan Brockett",
-        "blueName": "Pedro Duarte",
-        "details": "Featherweight Mixed Martial Arts",
-        "redProfileUrl": "https://www.onefc.com/athletes/ethan-brockett/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/pedro-duarte/",
-        "redCountry": "New Zealand",
-        "blueCountry": "Portugal",
-        "redAge": 25,
-        "redRecord": "2-0-0",
-        "blueAge": 21,
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redName": "Prashanth Guda",
+        "blueName": "Oga Akita",
+        "details": "Flyweight Mixed Martial Arts",
+        "redProfileUrl": "https://www.onefc.com/athletes/prashanth-guda/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/oga-akita/",
+        "redCountry": "India / New Zealand",
+        "blueCountry": "Japan",
+        "redAge": 28,
+        "redOdds": "-150",
+        "blueOdds": "+110",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-30T13:00:53.522Z",
+            "eventName": "ONE Friday Fights 176 & The Inner Circle 36",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-176-4432",
+            "promotion": "one",
+            "eventId": "6a968b61d3539b67790ecd51",
+            "odds": {
+              "prashanth guda": "-150",
+              "oga akita": "+110"
+            },
+            "names": {
+              "prashanth guda": "Prashanth Guda",
+              "oga akita": "Oga Akita"
+            }
+          }
+        ]
       },
       {
         "redName": "Nihad Taghizade",
@@ -9632,39 +9707,25 @@
         "blueAge": 19,
         "blueRecord": "1-0-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
-      },
-      {
-        "redName": "Prashanth Guda",
-        "blueName": "Oga Akita",
-        "details": "Flyweight Mixed Martial Arts",
-        "redProfileUrl": "https://www.onefc.com/athletes/prashanth-guda/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/oga-akita/",
-        "redCountry": "India / New Zealand",
-        "blueCountry": "Japan",
-        "redAge": 28,
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
-      },
-      {
-        "redName": "Superbest Winnermuaythai",
-        "blueName": "Raize",
-        "details": "Strawweight Muay Thai",
-        "redProfileUrl": "https://www.onefc.com/athletes/superbest-winnermuaythai/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/raize/",
-        "redCountry": "Thailand",
-        "blueCountry": "Japan",
-        "redAge": 28,
-        "redStyle": "Striker",
-        "blueAge": 22,
-        "blueRecord": "1-0-0",
-        "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+200",
+        "blueOdds": "-275",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-30T13:00:53.522Z",
+            "eventName": "ONE Friday Fights 176 & The Inner Circle 36",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-176-4432",
+            "promotion": "one",
+            "eventId": "6a968b61d3539b67790ecd51",
+            "odds": {
+              "nihad taghizade": "+200",
+              "yumeto mizuno": "-275"
+            },
+            "names": {
+              "nihad taghizade": "Nihad Taghizade",
+              "yumeto mizuno": "Yumeto Mizuno"
+            }
+          }
+        ]
       },
       {
         "redName": "Numsurin Chor Ketwina",
@@ -9680,9 +9741,25 @@
         "blueAge": 27,
         "blueRecord": "3-2-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-150",
+        "blueOdds": "+110",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-30T13:00:53.522Z",
+            "eventName": "ONE Friday Fights 176 & The Inner Circle 36",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-176-4432",
+            "promotion": "one",
+            "eventId": "6a968b61d3539b67790ecd51",
+            "odds": {
+              "numsurin chor ketwina": "-150",
+              "akram hamidi": "+110"
+            },
+            "names": {
+              "numsurin chor ketwina": "Numsurin Chor Ketwina",
+              "akram hamidi": "Akram Hamidi"
+            }
+          }
+        ]
       },
       {
         "redName": "Xavier Gonzalez",
@@ -9697,9 +9774,25 @@
         "redStyle": "Striker",
         "blueAge": 23,
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-225",
+        "blueOdds": "+163",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-30T13:00:53.522Z",
+            "eventName": "ONE Friday Fights 176 & The Inner Circle 36",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-176-4432",
+            "promotion": "one",
+            "eventId": "6a968b61d3539b67790ecd51",
+            "odds": {
+              "xavier gonzalez": "-225",
+              "exza wankhongohm": "+163"
+            },
+            "names": {
+              "xavier gonzalez": "Xavier Gonzalez",
+              "exza wankhongohm": "Exza Wankhongohm"
+            }
+          }
+        ]
       },
       {
         "redName": "Tomyamkoong Bhumjaithai",
@@ -9715,27 +9808,25 @@
         "blueAge": 21,
         "blueRecord": "0-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
-      },
-      {
-        "redName": "Petkhaokradong Lukjaomaesaithong",
-        "blueName": "Abdelali Zahidi",
-        "details": "Featherweight Muay Thai",
-        "redProfileUrl": "https://www.onefc.com/athletes/petkhaokradong/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/abdelali-zahidi/",
-        "redCountry": "Thailand",
-        "blueCountry": "Morocco",
-        "redStyle": "Striker",
-        "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": [],
-        "redAge": 21,
-        "redRecord": "4-2-0",
-        "blueAge": 27,
-        "blueRecord": "1-1-0"
+        "redOdds": "-225",
+        "blueOdds": "+163",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-30T13:00:53.522Z",
+            "eventName": "ONE Friday Fights 176 & The Inner Circle 36",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-176-4432",
+            "promotion": "one",
+            "eventId": "6a968b61d3539b67790ecd51",
+            "odds": {
+              "tomyamkoong bhumjaithai": "-225",
+              "yassir rassafi": "+163"
+            },
+            "names": {
+              "tomyamkoong bhumjaithai": "Tomyamkoong Bhumjaithai",
+              "yassir rassafi": "Yassir Rassafi"
+            }
+          }
+        ]
       },
       {
         "redName": "Evan Gambuto",
@@ -9747,12 +9838,61 @@
         "blueCountry": "Japan",
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": [],
+        "redOdds": "+175",
+        "blueOdds": "-250",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-30T13:00:53.522Z",
+            "eventName": "ONE Friday Fights 176 & The Inner Circle 36",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-176-4432",
+            "promotion": "one",
+            "eventId": "6a968b61d3539b67790ecd51",
+            "odds": {
+              "evan gambuto": "+175",
+              "ranma": "-250"
+            },
+            "names": {
+              "evan gambuto": "Evan Gambuto",
+              "ranma": "Ranma"
+            }
+          }
+        ],
         "redAge": 24,
         "blueAge": 22,
         "blueRecord": "3-1-0"
+      },
+      {
+        "redName": "Superbest Winnermuaythai",
+        "blueName": "Raize",
+        "details": "Strawweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/superbest-winnermuaythai/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/raize/",
+        "redCountry": "Thailand",
+        "blueCountry": "Japan",
+        "redAge": 28,
+        "redStyle": "Striker",
+        "blueAge": 22,
+        "blueRecord": "1-0-0",
+        "blueStyle": "Striker",
+        "redOdds": "+130",
+        "blueOdds": "-175",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-10-30T13:00:53.522Z",
+            "eventName": "ONE Friday Fights 176 & The Inner Circle 36",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-176-4432",
+            "promotion": "one",
+            "eventId": "6a968b61d3539b67790ecd51",
+            "odds": {
+              "superbest winnermuaythai": "+130",
+              "raize": "-175"
+            },
+            "names": {
+              "superbest winnermuaythai": "Superbest Winnermuaythai",
+              "raize": "Raize"
+            }
+          }
+        ]
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-176/"
@@ -9760,7 +9900,7 @@
   {
     "uid": "6a968ba710c90c3a3d15f98b",
     "start": "20261106T113018Z",
-    "end": "20261106T153018Z",
+    "end": "20261106T163018Z",
     "summary": "ONE Friday Fights 177 & The Inner Circle 37",
     "location": "Lumpinee Stadium, Bangkok",
     "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-177\n\nChristian Lee vs. Tye Ruotolo | Lightweight World Championship\n\nDownload the ONE Super App Now!",
@@ -10006,7 +10146,7 @@
   {
     "uid": "6a968c7d10c90c3a3d15f98f",
     "start": "20261120T113014Z",
-    "end": "20261120T153014Z",
+    "end": "20261120T163014Z",
     "summary": "ONE Friday Fights 179 & The Inner Circle 39",
     "location": "Lumpinee Stadium, Bangkok",
     "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-179\n\nAsadula Imangazaliev vs. Aslamjon Ortikov | Flyweight World Championship\n\nBlack Panther vs. Ubaid Hussain | Muay Thai | Flyweight\n\nDownload the ONE Super App Now!",
@@ -10055,7 +10195,7 @@
   {
     "uid": "6a968cbcd3539b67790ecd55",
     "start": "20261127T113011Z",
-    "end": "20261127T153011Z",
+    "end": "20261127T163011Z",
     "summary": "ONE Friday Fights 180 & The Inner Circle 40",
     "location": "Lumpinee Stadium, Bangkok",
     "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-180\n\nDownload the ONE Super App Now!",
@@ -10096,7 +10236,7 @@
   {
     "uid": "6a968cef10c90c3a3d15f993",
     "start": "20261204T113008Z",
-    "end": "20261204T153008Z",
+    "end": "20261204T163008Z",
     "summary": "ONE Friday Fights 181 & The Inner Circle 41",
     "location": "Lumpinee Stadium, Bangkok",
     "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-181\n\nDownload the ONE Super App Now!",
@@ -10107,7 +10247,7 @@
   {
     "uid": "6a968d30d3539b67790ecd59",
     "start": "20261211T113007Z",
-    "end": "20261211T153007Z",
+    "end": "20261211T163007Z",
     "summary": "ONE Friday Fights 182 & The Inner Circle 42",
     "location": "Lumpinee Stadium, Bangkok",
     "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-182\n\nDownload the ONE Super App Now!",
@@ -10118,7 +10258,7 @@
   {
     "uid": "6a968d70687675b16b9f8e3f",
     "start": "20261218T113016Z",
-    "end": "20261218T153016Z",
+    "end": "20261218T163016Z",
     "summary": "ONE Friday Fights 183 & The Inner Circle 43",
     "location": "Lumpinee Stadium, Bangkok",
     "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-183\n\nDownload the ONE Super App Now!",
@@ -10132,10 +10272,84 @@
     "end": "20261219T080017Z",
     "summary": "ONE Fight Night 50",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-fight-night-50\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-fight-night-50\n\nKade Ruotolo vs. Ok Rae Yoon | Mixed Martial Arts | Lightweight\n\nSuablack Tor Pran49 vs. Jordan  Estupinan | Muay Thai | Flyweight\n\nBampara Kouyate vs. Ricardo Bravo | Muay Thai | Featherweight\n\nMaurice  Abevi vs. Dzhabir Dzhabrailov | Mixed Martial Arts | Welterweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/one-fight-night-50",
     "status": "CONFIRMED",
-    "bouts": []
+    "bouts": [
+      {
+        "redName": "Kade Ruotolo",
+        "blueName": "Ok Rae Yoon",
+        "details": "Lightweight MMA",
+        "redProfileUrl": "https://www.onefc.com/athletes/kade-ruotolo/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/ok-rae-yoon/",
+        "redCountry": "United States",
+        "blueCountry": "South Korea",
+        "redAge": 23,
+        "redRecord": "10-0-0",
+        "redStyle": "Grappler",
+        "blueAge": 35,
+        "blueRecord": "4-3-0",
+        "blueStyle": "Grappler",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Suablack Tor Pran49",
+        "blueName": "Jordan Estupinan",
+        "details": "Flyweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/suablack-tor-pran49/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/jordan-estupinan/",
+        "redCountry": "Thailand",
+        "blueCountry": "Colombia",
+        "redAge": 30,
+        "redRecord": "9-6-0",
+        "redStyle": "Striker",
+        "blueAge": 24,
+        "blueRecord": "3-2-0",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Bampara Kouyate",
+        "blueName": "Ricardo Bravo",
+        "details": "Featherweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/bampara-kouyate/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/ricardo-bravo/",
+        "redCountry": "France / Mali",
+        "blueCountry": "Argentina",
+        "redAge": 31,
+        "redRecord": "2-2-0",
+        "redStyle": "Striker",
+        "blueAge": 26,
+        "blueRecord": "4-3-0",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Maurice Abevi",
+        "blueName": "Dzhabir Dzhabrailov",
+        "details": "Welterweight MMA",
+        "redProfileUrl": "https://www.onefc.com/athletes/maurice-abevi/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/dzhabir-dzhabrailov/",
+        "redCountry": "Switzerland",
+        "blueCountry": "Turkey",
+        "redAge": 27,
+        "redRecord": "3-1-0",
+        "redStyle": "Grappler",
+        "blueAge": 21,
+        "blueRecord": "4-0-0",
+        "blueStyle": "All-rounder",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      }
+    ],
+    "detailsUrl": "https://www.onefc.com/events/onefightnight50/"
   },
   {
     "uid": "6a6227c8b99d7ab180bc5f25",

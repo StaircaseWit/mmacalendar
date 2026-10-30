@@ -6963,27 +6963,27 @@
         "oddsHistory": []
       },
       {
-        "id": "1621",
+        "id": "1674",
         "order": 1,
         "red": {
-          "name": "Khamzat Abaev",
-          "profileUrl": "https://pflmma.com/wt-fighter/khamzat-abaev",
-          "countryCode": null,
-          "birthDate": "1996-09-23",
-          "record": "6-1-0",
+          "name": "Aleksandra Savicheva",
+          "profileUrl": "https://pflmma.com/wt-fighter/aleksandra-savicheva",
+          "countryCode": "RU",
+          "birthDate": "1998-05-28",
+          "record": "8-2-0",
           "style": null,
           "odds": null
         },
         "blue": {
-          "name": "Leon Hill",
-          "profileUrl": "https://pflmma.com/wt-fighter/leon-hill",
-          "countryCode": null,
-          "birthDate": "1996-04-22",
-          "record": "10-2-0",
+          "name": "Jacinta Austin",
+          "profileUrl": "https://pflmma.com/wt-fighter/jacinta-austin",
+          "countryCode": "AU",
+          "birthDate": "1994-10-19",
+          "record": "9-2-0",
           "style": null,
           "odds": null
         },
-        "details": "170lbs/77kg Welterweight",
+        "details": "Women's Strawweight",
         "oddsHistory": []
       }
     ],
@@ -7010,6 +7010,31 @@
           "odds": null
         },
         "details": "265lbs/120kg Heavyweight · PFL World Title",
+        "oddsHistory": [],
+        "note": "Removed from the official PFL card"
+      },
+      {
+        "id": "1621",
+        "order": 1,
+        "red": {
+          "name": "Khamzat Abaev",
+          "profileUrl": "https://pflmma.com/wt-fighter/khamzat-abaev",
+          "countryCode": null,
+          "birthDate": "1996-09-23",
+          "record": "6-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Leon Hill",
+          "profileUrl": "https://pflmma.com/wt-fighter/leon-hill",
+          "countryCode": null,
+          "birthDate": "1996-04-22",
+          "record": "10-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight",
         "oddsHistory": [],
         "note": "Removed from the official PFL card"
       }

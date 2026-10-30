@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-10-26T13:10:05.194Z",
+  "lastCheckedAt": "2026-10-30T13:00:53.522Z",
   "fights": {
     "ufc-fight-night-september-12-2026::edgar chairez--tim elliott": [
       {
@@ -1613,6 +1613,19 @@
           "ciryl gane": "Ciryl Gane",
           "josh hokit": "Josh Hokit"
         }
+      },
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "Polymarket UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4370",
+        "odds": {
+          "ciryl gane": "-250",
+          "josh hokit": "+210"
+        },
+        "names": {
+          "ciryl gane": "Ciryl Gane",
+          "josh hokit": "Josh Hokit"
+        }
       }
     ],
     "ufc-334::amanda nunes--kayla harrison": [
@@ -2843,6 +2856,19 @@
           "renato moicano": "Renato Moicano",
           "tom nolan": "Tom Nolan"
         }
+      },
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "renato moicano": "-117",
+          "tom nolan": "+113"
+        },
+        "names": {
+          "renato moicano": "Renato Moicano",
+          "tom nolan": "Tom Nolan"
+        }
       }
     ],
     "ufc-fight-night-october-31-2026::jacobe smith--randy brown": [
@@ -2858,6 +2884,19 @@
           "randy brown": "Randy Brown",
           "jacobe smith": "Jacobe Smith"
         }
+      },
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "randy brown": "+233",
+          "jacobe smith": "-245"
+        },
+        "names": {
+          "randy brown": "Randy Brown",
+          "jacobe smith": "Jacobe Smith"
+        }
       }
     ],
     "ufc-fight-night-october-31-2026::luana santos--yana santos": [
@@ -2868,6 +2907,19 @@
         "odds": {
           "yana santos": "+245",
           "luana santos": "-250"
+        },
+        "names": {
+          "yana santos": "Yana Santos",
+          "luana santos": "Luana Santos"
+        }
+      },
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "yana santos": "+257",
+          "luana santos": "-270"
         },
         "names": {
           "yana santos": "Yana Santos",
@@ -2903,6 +2955,19 @@
           "jean-paul lebosnoyani": "Jean-Paul Lebosnoyani",
           "farman hasanov": "Farman Hasanov"
         }
+      },
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "jean-paul lebosnoyani": "-257",
+          "farman hasanov": "+245"
+        },
+        "names": {
+          "jean-paul lebosnoyani": "Jean-Paul Lebosnoyani",
+          "farman hasanov": "Farman Hasanov"
+        }
       }
     ],
     "ufc-fight-night-october-31-2026::dakota hope--francis marshall": [
@@ -2913,6 +2978,19 @@
         "odds": {
           "francis marshall": "-203",
           "dakota hope": "+215"
+        },
+        "names": {
+          "francis marshall": "Francis Marshall",
+          "dakota hope": "Dakota Hope"
+        }
+      },
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "francis marshall": "-203",
+          "dakota hope": "+194"
         },
         "names": {
           "francis marshall": "Francis Marshall",
@@ -2933,6 +3011,19 @@
           "rodrigo sezinando": "Rodrigo Sezinando",
           "theodor berggren": "Theodor Berggren"
         }
+      },
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "rodrigo sezinando": "-170",
+          "theodor berggren": "+163"
+        },
+        "names": {
+          "rodrigo sezinando": "Rodrigo Sezinando",
+          "theodor berggren": "Theodor Berggren"
+        }
       }
     ],
     "ufc-fight-night-october-31-2026::jeongyeong lee--julian erosa": [
@@ -2943,6 +3034,19 @@
         "odds": {
           "julian erosa": "+160",
           "jeongyeong lee": "-180"
+        },
+        "names": {
+          "julian erosa": "Julian Erosa",
+          "jeongyeong lee": "JeongYeong Lee"
+        }
+      },
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "julian erosa": "+150",
+          "jeongyeong lee": "-156"
         },
         "names": {
           "julian erosa": "Julian Erosa",
@@ -2978,6 +3082,19 @@
           "talita alencar": "Talita Alencar",
           "piera rodriguez": "Piera Rodriguez"
         }
+      },
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "talita alencar": "+245",
+          "piera rodriguez": "-245"
+        },
+        "names": {
+          "talita alencar": "Talita Alencar",
+          "piera rodriguez": "Piera Rodriguez"
+        }
       }
     ],
     "ufc-fight-night-october-31-2026::lucia szabova--tainara lisboa": [
@@ -2993,6 +3110,19 @@
           "lucia szabova": "Lucia Szabova",
           "tainara lisboa": "Tainara Lisboa"
         }
+      },
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Moicano vs Nolan",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-123-4427",
+        "odds": {
+          "lucia szabova": "-611",
+          "tainara lisboa": "+528"
+        },
+        "names": {
+          "lucia szabova": "Lucia Szabová",
+          "tainara lisboa": "Tainara Lisboa"
+        }
       }
     ],
     "ufc-336::joshua van--manel kape": [
@@ -3003,6 +3133,19 @@
         "odds": {
           "joshua van": "-121",
           "manel kape": "-103"
+        },
+        "names": {
+          "joshua van": "Joshua Van",
+          "manel kape": "Manel Kape"
+        }
+      },
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC 336: Van vs Kape",
+        "sourceUrl": "https://www.bestfightodds.com/events/future-events-197",
+        "odds": {
+          "joshua van": "-121",
+          "manel kape": "+108"
         },
         "names": {
           "joshua van": "Joshua Van",
@@ -3022,6 +3165,214 @@
         "names": {
           "carlos prates": "Carlos Prates",
           "michael morales": "Michael Morales"
+        }
+      },
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC 336: Van vs Kape",
+        "sourceUrl": "https://www.bestfightodds.com/events/future-events-197",
+        "odds": {
+          "carlos prates": "-138",
+          "michael morales": "+142"
+        },
+        "names": {
+          "carlos prates": "Carlos Prates",
+          "michael morales": "Michael Morales"
+        }
+      }
+    ],
+    "ufc-fight-night-november-07-2026::gabriella fernandes--karine silva": [
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Bonfim vs Brady",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4437",
+        "odds": {
+          "karine silva": "-144",
+          "gabriella fernandes": "+140"
+        },
+        "names": {
+          "karine silva": "Karine Silva",
+          "gabriella fernandes": "Gabriella Fernandes"
+        }
+      }
+    ],
+    "ufc-fight-night-november-07-2026::marcos degli--mitch raposo": [
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Bonfim vs Brady",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4437",
+        "odds": {
+          "mitch raposo": "+233",
+          "marcos degli": "-245"
+        },
+        "names": {
+          "mitch raposo": "Mitch Raposo",
+          "marcos degli": "Marcos Degli"
+        }
+      }
+    ],
+    "ufc-fight-night-november-07-2026::jose delano--murtazali magomedov": [
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Bonfim vs Brady",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4437",
+        "odds": {
+          "jose delano": "+113",
+          "murtazali magomedov": "+100"
+        },
+        "names": {
+          "jose delano": "Jose Delano",
+          "murtazali magomedov": "Murtazali Magomedov"
+        }
+      }
+    ],
+    "ufc-fight-night-november-07-2026::keiichiro nakamura--ollie schmid": [
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Bonfim vs Brady",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4439",
+        "odds": {
+          "keiichiro nakamura": "-317",
+          "ollie schmid": "+300"
+        },
+        "names": {
+          "keiichiro nakamura": "Keiichiro Nakamura",
+          "ollie schmid": "Ollie Schmid"
+        }
+      }
+    ],
+    "ufc-fight-night-november-07-2026::nina milosevic--priscila cachoeira": [
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Bonfim vs Brady",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4439",
+        "odds": {
+          "priscila cachoeira": "+376",
+          "nina milosevic": "-426"
+        },
+        "names": {
+          "priscila cachoeira": "Priscila Cachoeira",
+          "nina milosevic": "Nina Milošević"
+        }
+      }
+    ],
+    "ufc-fight-night-november-07-2026::jonny parsons--jose souza": [
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Bonfim vs Brady",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4437",
+        "odds": {
+          "jonny parsons": "-133",
+          "jose souza": "+127"
+        },
+        "names": {
+          "jonny parsons": "Jonny Parsons",
+          "jose souza": "José Souza"
+        }
+      }
+    ],
+    "ufc-fight-night-november-07-2026::gabriel bonfim--sean brady": [
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Bonfim vs Brady",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4437",
+        "odds": {
+          "gabriel bonfim": "-113",
+          "sean brady": "+108"
+        },
+        "names": {
+          "gabriel bonfim": "Gabriel Bonfim",
+          "sean brady": "Sean Brady"
+        }
+      }
+    ],
+    "ufc-fight-night-november-07-2026::tatiana suarez--virna jandiroba": [
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Bonfim vs Brady",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4437",
+        "odds": {
+          "tatiana suarez": "-186",
+          "virna jandiroba": "+178"
+        },
+        "names": {
+          "tatiana suarez": "Tatiana Suarez",
+          "virna jandiroba": "Virna Jandiroba"
+        }
+      }
+    ],
+    "ufc-fight-night-november-07-2026::seokhyeon ko--wellington turman": [
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Bonfim vs Brady",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4437",
+        "odds": {
+          "seokhyeon ko": "-549",
+          "wellington turman": "+567"
+        },
+        "names": {
+          "seokhyeon ko": "Seokhyeon Ko",
+          "wellington turman": "Wellington Turman"
+        }
+      }
+    ],
+    "ufc-fight-night-november-07-2026::billy elekana--lucas fernando": [
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "UFC Fight Night: Bonfim vs Brady",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4437",
+        "odds": {
+          "billy elekana": "+233",
+          "lucas fernando": "-245"
+        },
+        "names": {
+          "billy elekana": "Billy Elekana",
+          "lucas fernando": "Lucas Fernando"
+        }
+      }
+    ],
+    "ufc-334::caio borralho--yousri belgaroui": [
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "Polymarket UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4370",
+        "odds": {
+          "caio borralho": "-137",
+          "yousri belgaroui": "+112"
+        },
+        "names": {
+          "caio borralho": "Caio Borralho",
+          "yousri belgaroui": "Yousri Belgaroui"
+        }
+      }
+    ],
+    "ufc-334::kevin holland--uros medic": [
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "Polymarket UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4370",
+        "odds": {
+          "uros medic": "-162",
+          "kevin holland": "+130"
+        },
+        "names": {
+          "uros medic": "Uroš Medić",
+          "kevin holland": "Kevin Holland"
+        }
+      }
+    ],
+    "ufc-334::bilal hasan--luis gurule": [
+      {
+        "checkedAt": "2026-10-30T13:00:53.522Z",
+        "eventName": "Polymarket UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4370",
+        "odds": {
+          "bilal hasan": "-910",
+          "luis gurule": "+600"
+        },
+        "names": {
+          "bilal hasan": "Bilal Hasan",
+          "luis gurule": "Luis Gurule"
         }
       }
     ]

@@ -475,7 +475,7 @@
       "birthDate": "1992-07-26",
       "record": "0-1-0",
       "style": "Grappler",
-      "checkedAt": "2026-09-13T12:47:10.519Z"
+      "checkedAt": "2026-10-30T13:00:53.522Z"
     },
     "https://jp.rizinff.com/_tags/%E4%B8%AD%E5%B7%9D%E7%9A%93%E8%B2%B4": {
       "name": "Kouki Nakagawa",
@@ -1447,7 +1447,7 @@
       "birthDate": "1994-12-08",
       "record": null,
       "style": "Striker",
-      "checkedAt": "2026-09-30T12:40:52.896Z"
+      "checkedAt": "2026-10-30T13:00:53.522Z"
     },
     "https://jp.rizinff.com/_tags/%E8%B5%A4%E6%B2%A2%E5%B9%B8%E5%85%B8": {
       "name": "Yukinori Akazawa",
@@ -1465,7 +1465,7 @@
       "birthDate": "1993-09-03",
       "record": "1-0-0",
       "style": "All-rounder",
-      "checkedAt": "2026-09-30T12:40:52.896Z"
+      "checkedAt": "2026-10-30T13:00:53.522Z"
     },
     "https://jp.rizinff.com/_tags/%E9%AB%99%E6%A9%8B%E6%AD%A3%E8%A6%AA": {
       "name": "Masachika Takahashi",
@@ -1474,7 +1474,7 @@
       "birthDate": "2005-04-23",
       "record": null,
       "style": "Grappler",
-      "checkedAt": "2026-09-30T12:40:52.896Z"
+      "checkedAt": "2026-10-30T13:00:53.522Z"
     },
     "https://jp.rizinff.com/_tags/%E4%BA%95%E4%B8%8A%E8%88%9C%E7%9F%A2": {
       "name": "Shunya Inoue",
@@ -1483,7 +1483,7 @@
       "birthDate": "2006-06-21",
       "record": null,
       "style": "Striker",
-      "checkedAt": "2026-09-30T12:40:52.896Z"
+      "checkedAt": "2026-10-30T13:00:53.522Z"
     },
     "https://jp.rizinff.com/_tags/%E3%83%9E%E3%82%A4%E3%83%86%E3%82%A3%E3%83%BBsaw": {
       "name": "Mighty saw",
@@ -1492,7 +1492,7 @@
       "birthDate": "1999-02-17",
       "record": null,
       "style": null,
-      "checkedAt": "2026-09-30T12:40:52.896Z"
+      "checkedAt": "2026-10-30T13:00:53.522Z"
     },
     "https://jp.rizinff.com/_tags/%E6%9D%BE%E6%9C%AC%E5%B0%9A%E5%A4%A7": {
       "name": "Naohiro Matsumoto",
@@ -1501,7 +1501,7 @@
       "birthDate": "1996-08-22",
       "record": null,
       "style": "Grappler",
-      "checkedAt": "2026-09-30T12:40:52.896Z"
+      "checkedAt": "2026-10-30T13:00:53.522Z"
     },
     "https://jp.rizinff.com/_tags/%E4%BA%95%E4%B8%8A%E7%9B%B4%E6%A8%B9": {
       "name": "Naoki Inoue",
@@ -1511,6 +1511,15 @@
       "record": "10-3-0",
       "style": "Striker",
       "checkedAt": "2026-10-05T14:47:16.208Z"
+    },
+    "https://jp.rizinff.com/_tags/%E5%B1%B1%EF%A8%91%E5%BC%A5%E5%8D%81%E6%9C%97%20": {
+      "name": "YAJURO YAMASAKI",
+      "origin": "日本 埼玉県",
+      "countryCode": "JP",
+      "birthDate": "1997-05-07",
+      "record": null,
+      "style": "Grappler",
+      "checkedAt": "2026-10-30T13:00:53.522Z"
     }
   }
 }

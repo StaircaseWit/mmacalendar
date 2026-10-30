@@ -2806,7 +2806,7 @@
         "oddsHistory": []
       },
       {
-        "order": 2,
+        "order": 3,
         "section": "Opening Fights",
         "red": {
           "name": "Naohiro Matsumoto",
@@ -2830,7 +2830,7 @@
         "oddsHistory": []
       },
       {
-        "order": 1,
+        "order": 2,
         "section": "Opening Fights",
         "red": {
           "name": "Shunya Inoue",
@@ -2851,6 +2851,30 @@
           "odds": null
         },
         "details": "66kg Featherweight · RIZIN MMA · 2 × 5 min rounds",
+        "oddsHistory": []
+      },
+      {
+        "order": 1,
+        "section": "Opening Fights",
+        "red": {
+          "name": "Jake Wilkins",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%AD%E3%83%B3%E3%82%B9",
+          "style": "Grappler",
+          "countryCode": "JP",
+          "birthDate": "1992-07-26",
+          "record": "0-1-0",
+          "odds": null
+        },
+        "blue": {
+          "name": "YAJURO YAMASAKI",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E5%B1%B1%EF%A8%91%E5%BC%A5%E5%8D%81%E6%9C%97%20",
+          "style": "Grappler",
+          "countryCode": "JP",
+          "birthDate": "1997-05-07",
+          "record": null,
+          "odds": null
+        },
+        "details": "71kg Lightweight · RIZIN MMA · 2 × 5 min rounds",
         "oddsHistory": []
       }
     ],
