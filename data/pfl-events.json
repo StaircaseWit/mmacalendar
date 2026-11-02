@@ -7200,7 +7200,7 @@
     "bouts": [
       {
         "id": "1669",
-        "order": 3,
+        "order": 6,
         "red": {
           "name": "Shido Boris Esperança",
           "profileUrl": "https://pflmma.com/africa-fighter/shido-boris-esperana",
@@ -7220,7 +7220,7 @@
       },
       {
         "id": "1670",
-        "order": 2,
+        "order": 5,
         "red": {
           "name": "Patrick Ocheme",
           "profileUrl": "https://pflmma.com/africa-fighter/patrick-ocheme",
@@ -7243,8 +7243,32 @@
         "oddsHistory": []
       },
       {
+        "id": "1675",
+        "order": 4,
+        "red": {
+          "name": "Juliet Ukah",
+          "profileUrl": "https://pflmma.com/africa-fighter/juliet-ukah",
+          "countryCode": "NG",
+          "birthDate": "1999-05-25",
+          "record": "9-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Benita Van Rooij",
+          "profileUrl": "https://pflmma.com/africa-fighter/benita-vanrooij",
+          "countryCode": "NL",
+          "birthDate": "1998-11-08",
+          "record": "7-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "Women's Strawweight",
+        "oddsHistory": []
+      },
+      {
         "id": "1671",
-        "order": 1,
+        "order": 3,
         "red": {
           "name": "Dwight Joseph",
           "profileUrl": "https://pflmma.com/africa-fighter/dwight-joseph",
@@ -7265,6 +7289,54 @@
         },
         "details": "135lbs/61kg Bantamweight · Finals",
         "oddsHistory": []
+      },
+      {
+        "id": "1676",
+        "order": 2,
+        "red": {
+          "name": "Felista Mugo",
+          "profileUrl": "https://pflmma.com/africa-fighter/felista-mugo",
+          "countryCode": "KE",
+          "birthDate": "2000-02-14",
+          "record": "6-2-1",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Sephora Kiala",
+          "profileUrl": "https://pflmma.com/africa-fighter/sephora-kiala",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "4-0-1",
+          "style": null,
+          "odds": null
+        },
+        "details": "Women's Strawweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1677",
+        "order": 1,
+        "red": {
+          "name": "Boule Godogo",
+          "profileUrl": "https://pflmma.com/africa-fighter/boule-godogo",
+          "countryCode": "AO",
+          "birthDate": null,
+          "record": "5-3-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Ridouan Errami",
+          "profileUrl": "https://pflmma.com/africa-fighter/ridouan-errami",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "5-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": []
       }
     ],
     "cancelledBouts": []
@@ -7281,7 +7353,7 @@
     "bouts": [
       {
         "id": "1585",
-        "order": 8,
+        "order": 7,
         "red": {
           "name": "Taylor Lapilus",
           "profileUrl": "https://pflmma.com/wt-fighter/taylor-lapilus",
@@ -7305,7 +7377,7 @@
       },
       {
         "id": "1589",
-        "order": 7,
+        "order": 6,
         "red": {
           "name": "Boris Atangana",
           "profileUrl": "https://pflmma.com/wt-fighter/boris-atangana",
@@ -7329,7 +7401,7 @@
       },
       {
         "id": "1600",
-        "order": 6,
+        "order": 5,
         "red": {
           "name": "Abdoul Abdouraguimov",
           "profileUrl": "https://pflmma.com/wt-fighter/abdoul-abdouraguimov",
@@ -7353,7 +7425,7 @@
       },
       {
         "id": "1601",
-        "order": 5,
+        "order": 4,
         "red": {
           "name": "Fabian Edwards",
           "profileUrl": "https://pflmma.com/wt-fighter/fabian-edwards",
@@ -7373,30 +7445,6 @@
           "odds": null
         },
         "details": "185lbs/84kg Middleweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1607",
-        "order": 4,
-        "red": {
-          "name": "Baris Adiguzel",
-          "profileUrl": "https://pflmma.com/wt-fighter/baris-adiguzel",
-          "countryCode": "FR",
-          "birthDate": "1999-04-30",
-          "record": "10-2-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Liam Gittins",
-          "profileUrl": "https://pflmma.com/wt-fighter/liam-gittins",
-          "countryCode": "GB",
-          "birthDate": "1999-05-31",
-          "record": "13-6-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "135lbs/61kg Bantamweight",
         "oddsHistory": []
       },
       {
@@ -7468,6 +7516,32 @@
         "oddsHistory": []
       }
     ],
-    "cancelledBouts": []
+    "cancelledBouts": [
+      {
+        "id": "1607",
+        "order": 4,
+        "red": {
+          "name": "Baris Adiguzel",
+          "profileUrl": "https://pflmma.com/wt-fighter/baris-adiguzel",
+          "countryCode": "FR",
+          "birthDate": "1999-04-30",
+          "record": "10-2-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Liam Gittins",
+          "profileUrl": "https://pflmma.com/wt-fighter/liam-gittins",
+          "countryCode": "GB",
+          "birthDate": "1999-05-31",
+          "record": "13-6-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": [],
+        "note": "Removed from the official PFL card"
+      }
+    ]
   }
 ]

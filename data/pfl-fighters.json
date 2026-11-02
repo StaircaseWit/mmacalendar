@@ -462,7 +462,7 @@
       "birthDate": "1999-05-25",
       "record": "9-1-0",
       "style": null,
-      "checkedAt": "2026-09-13T10:10:12.597Z"
+      "checkedAt": "2026-11-02T16:02:26.576Z"
     },
     "https://pflmma.com/africa-fighter/abdelrahman-mohamed": {
       "name": "Abdelrahman Mohamed",
@@ -534,7 +534,7 @@
       "birthDate": "2000-02-14",
       "record": "6-2-1",
       "style": null,
-      "checkedAt": "2026-09-13T10:10:12.597Z"
+      "checkedAt": "2026-11-02T16:02:26.576Z"
     },
     "https://pflmma.com/africa-fighter/annet-kiiza": {
       "name": "Annet Kiiza",
@@ -1572,9 +1572,9 @@
       "name": "Boule Godogo",
       "countryCode": "AO",
       "birthDate": null,
-      "record": "5-1-0",
+      "record": "5-3-0",
       "style": null,
-      "checkedAt": "2026-09-13T10:10:12.597Z"
+      "checkedAt": "2026-11-02T16:02:26.576Z"
     },
     "https://pflmma.com/africa-fighter/styve-ngono": {
       "name": "Styve Ngono",
@@ -2558,7 +2558,7 @@
       "birthDate": "1993-11-04",
       "record": "12-3-1",
       "style": null,
-      "checkedAt": "2026-10-02T12:41:53.475Z"
+      "checkedAt": "2026-11-02T16:02:26.576Z"
     },
     "https://pflmma.com/wt-fighter/connor-hughes": {
       "name": "Connor Hughes",
@@ -2566,7 +2566,7 @@
       "birthDate": "1997-06-04",
       "record": "12-3-0",
       "style": null,
-      "checkedAt": "2026-10-02T12:41:53.475Z"
+      "checkedAt": "2026-11-02T16:02:26.576Z"
     },
     "https://pflmma.com/mena-fighter/alridah-alnemer": {
       "name": "Alridah Alnemer",
@@ -2743,6 +2743,30 @@
       "record": "4-0-0",
       "style": null,
       "checkedAt": "2026-10-26T13:10:05.194Z"
+    },
+    "https://pflmma.com/africa-fighter/benita-vanrooij": {
+      "name": "Benita Van Rooij",
+      "countryCode": "NL",
+      "birthDate": "1998-11-08",
+      "record": "7-2-0",
+      "style": null,
+      "checkedAt": "2026-11-02T16:02:26.576Z"
+    },
+    "https://pflmma.com/africa-fighter/sephora-kiala": {
+      "name": "Sephora Kiala",
+      "countryCode": null,
+      "birthDate": null,
+      "record": "4-0-1",
+      "style": null,
+      "checkedAt": "2026-11-02T16:02:26.576Z"
+    },
+    "https://pflmma.com/africa-fighter/ridouan-errami": {
+      "name": "Ridouan Errami",
+      "countryCode": null,
+      "birthDate": null,
+      "record": "5-0-0",
+      "style": null,
+      "checkedAt": "2026-11-02T16:02:26.576Z"
     }
   }
 }
