@@ -159,7 +159,7 @@
       "age": 26,
       "record": "2-5-0",
       "style": null,
-      "checkedAt": "2026-09-13T12:47:10.519Z"
+      "checkedAt": "2026-11-04T14:37:57.238Z"
     },
     "https://www.onefc.com/athletes/petsangwan-sor-samarngarment/": {
       "country": "Thailand",
@@ -208,7 +208,7 @@
       "age": 21,
       "record": "5-1-0",
       "style": null,
-      "checkedAt": "2026-09-13T13:20:20.773Z"
+      "checkedAt": "2026-11-04T14:37:57.238Z"
     },
     "https://www.onefc.com/athletes/pek-por-tor-tor-thongtawee/": {
       "country": "Thailand",
@@ -390,7 +390,7 @@
       "age": 29,
       "record": "2-2-0",
       "style": "Striker",
-      "checkedAt": "2026-09-13T13:24:27.674Z"
+      "checkedAt": "2026-11-04T14:37:57.238Z"
     },
     "https://www.onefc.com/athletes/khunponnoi-sor-sommai/": {
       "country": "Thailand",
@@ -1123,9 +1123,9 @@
     "https://www.onefc.com/athletes/gump/": {
       "country": "Japan",
       "age": 23,
-      "record": "1-0-0",
+      "record": "2-0-0",
       "style": null,
-      "checkedAt": "2026-09-16T16:01:53.129Z"
+      "checkedAt": "2026-11-04T14:37:57.238Z"
     },
     "https://www.onefc.com/athletes/regian-eersel/": {
       "country": "Suriname",
@@ -1501,9 +1501,9 @@
     "https://www.onefc.com/athletes/cal-cook/": {
       "country": "England",
       "age": null,
-      "record": null,
+      "record": "1-0-0",
       "style": null,
-      "checkedAt": "2026-09-28T14:01:47.609Z"
+      "checkedAt": "2026-11-04T14:37:57.238Z"
     },
     "https://www.onefc.com/athletes/gaichon-sor-prawatmuang/": {
       "country": "Thailand",
@@ -1627,9 +1627,9 @@
     "https://www.onefc.com/athletes/yugo-kato/": {
       "country": "Japan",
       "age": 27,
-      "record": "1-0-0",
+      "record": "2-0-0",
       "style": null,
-      "checkedAt": "2026-09-30T12:40:52.896Z"
+      "checkedAt": "2026-11-04T14:37:57.238Z"
     },
     "https://www.onefc.com/athletes/christian-lee/": {
       "country": "Singapore / United States",
@@ -2301,14 +2301,14 @@
       "age": null,
       "record": null,
       "style": null,
-      "checkedAt": "2026-10-30T13:00:53.522Z"
+      "checkedAt": "2026-11-04T14:37:57.238Z"
     },
     "https://www.onefc.com/athletes/devhonte-johnson/": {
       "country": null,
       "age": null,
       "record": null,
       "style": null,
-      "checkedAt": "2026-10-30T13:00:53.522Z"
+      "checkedAt": "2026-11-04T14:37:57.238Z"
     },
     "https://www.onefc.com/athletes/kalandar-tabarov/": {
       "country": "Tajikistan",
@@ -2491,6 +2491,118 @@
       "record": "12-6-0",
       "style": null,
       "checkedAt": "2026-11-02T16:02:26.576Z"
+    },
+    "https://www.onefc.com/athletes/titus-proctor/": {
+      "country": "New Zealand",
+      "age": 22,
+      "record": "2-0-0",
+      "style": null,
+      "checkedAt": "2026-11-04T14:37:57.238Z"
+    },
+    "https://www.onefc.com/athletes/maciej-karpinski/": {
+      "country": "Poland",
+      "age": 30,
+      "record": "1-1-0",
+      "style": null,
+      "checkedAt": "2026-11-04T14:37:57.238Z"
+    },
+    "https://www.onefc.com/athletes/ryujin-nasukawa/": {
+      "country": "Japan",
+      "age": 20,
+      "record": "1-0-0",
+      "style": null,
+      "checkedAt": "2026-11-04T14:37:57.238Z"
+    },
+    "https://www.onefc.com/athletes/tatsumitsu-wada/": {
+      "country": "Japan",
+      "age": 37,
+      "record": "7-7-0",
+      "style": "All-rounder",
+      "checkedAt": "2026-11-04T14:37:57.238Z"
+    },
+    "https://www.onefc.com/athletes/jarred-brooks/": {
+      "country": "United States",
+      "age": 33,
+      "record": "5-5-0",
+      "style": "Grappler",
+      "checkedAt": "2026-11-04T14:37:57.238Z"
+    },
+    "https://www.onefc.com/athletes/masashi-kumura/": {
+      "country": "Japan",
+      "age": 27,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-04T14:37:57.238Z"
+    },
+    "https://www.onefc.com/athletes/ellis-badr-barboza/": {
+      "country": "United Kingdom",
+      "age": 26,
+      "record": "2-2-0",
+      "style": "Striker",
+      "checkedAt": "2026-11-04T14:37:57.238Z"
+    },
+    "https://www.onefc.com/athletes/yutaro-asahi/": {
+      "country": "Japan",
+      "age": 27,
+      "record": "1-0-0",
+      "style": null,
+      "checkedAt": "2026-11-04T14:37:57.238Z"
+    },
+    "https://www.onefc.com/athletes/petchtanong/": {
+      "country": "Thailand",
+      "age": 40,
+      "record": "4-2-0",
+      "style": "Striker",
+      "checkedAt": "2026-11-04T14:37:57.238Z"
+    },
+    "https://www.onefc.com/athletes/ryugo-takeuchi/": {
+      "country": "Japan",
+      "age": 23,
+      "record": "1-3-0",
+      "style": null,
+      "checkedAt": "2026-11-04T14:37:57.238Z"
+    },
+    "https://www.onefc.com/athletes/brandon-hashimoto/": {
+      "country": "Japan",
+      "age": null,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-04T14:37:57.238Z"
+    },
+    "https://www.onefc.com/athletes/reiji-takaki/": {
+      "country": "Japan",
+      "age": 19,
+      "record": "2-0-0",
+      "style": null,
+      "checkedAt": "2026-11-04T14:37:57.238Z"
+    },
+    "https://www.onefc.com/athletes/rui-botelho/": {
+      "country": "Portugal",
+      "age": 31,
+      "record": "4-7-0",
+      "style": "Striker",
+      "checkedAt": "2026-11-04T14:37:57.238Z"
+    },
+    "https://www.onefc.com/athletes/shuto-inui/": {
+      "country": "Japan",
+      "age": null,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-04T14:37:57.238Z"
+    },
+    "https://www.onefc.com/athletes/shosuke-kinoshita/": {
+      "country": "Japan",
+      "age": 30,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-04T14:37:57.238Z"
+    },
+    "https://www.onefc.com/athletes/takuya-shibamura/": {
+      "country": "Japan",
+      "age": null,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-04T14:37:57.238Z"
     }
   }
 }

@@ -11,14 +11,36 @@ X-APPLE-CALENDAR-COLOR:#D8070C
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:ufc-fight-night-november-07-2026-fight-gabriel-lorenco-thomas-petersen@
- ufc-detailed-calendar
-DTSTAMP:20261102T160226Z
-LAST-MODIFIED:20261102T160226Z
+UID:ufc-fight-night-november-07-2026-fight-4335@ufc-detailed-calendar
+DTSTAMP:20261104T143757Z
+LAST-MODIFIED:20261104T143757Z
 SEQUENCE:0
 DTSTART:20261108T004000Z
 DTEND:20261108T011000Z
-SUMMARY:🥊 8. Gabriel Lorenco vs. Thomas Petersen (estimated)
+SUMMARY:🥊 8. Keiichiro Nakamura vs. Ollie Schmid (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 145lbs/66kg Featherweight\n• Nakamura
+ : 8-1-0 | 27yo | -335 (1.30)\n• Schmid: 4-3-0 | 25yo | Striker | +300 (4
+ .00)\n• Odds history:\n  ◦ 30 Oct: Nakamura 🟢 -317 (1.32) | Schmid 
+ 🔴 +300 (4.00)\n  ◦ 2 Nov: Nakamura 🟢 -335 (1.30) | Schmid 🔴 +30
+ 0 (4.00)\nEvent: UFC Fight Night: Cortes Acosta vs Walker\nSource: https:/
+ /www.ufc.com/event/ufc-fight-night-november-07-2026\nMain calendar: https:
+ //staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Rescheduled\; 
+ previously 7 Nov 2026
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-fight-night-november-07-2026-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-07-2026-fight-4576@ufc-detailed-calendar
+DTSTAMP:20261104T143757Z
+LAST-MODIFIED:20261104T143757Z
+SEQUENCE:0
+DTSTART:20261108T001500Z
+DTEND:20261108T004500Z
+SUMMARY:🥊 7. Gabriel Lorenço vs. Thomas Petersen (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 265lbs/120kg Heavyweight\n• Lorenco: 
  1-0-0 | 27yo | +150 (2.50)\n• Petersen: 11-5-0 | 31yo | Boxer | -150 (1.
@@ -37,11 +59,11 @@ BEGIN:VEVENT
 UID:ufc-fight-night-november-07-2026-fight-gabriella-fernandes-karine-silva
  @ufc-detailed-calendar
 DTSTAMP:20260930T124052Z
-LAST-MODIFIED:20261102T160226Z
-SEQUENCE:5
-DTSTART:20261108T001500Z
-DTEND:20261108T004500Z
-SUMMARY:🥊 7. Karine Silva vs. Gabriella Fernandes (estimated)
+LAST-MODIFIED:20261104T143757Z
+SEQUENCE:6
+DTSTART:20261107T235500Z
+DTEND:20261108T002500Z
+SUMMARY:🥊 6. Karine Silva vs. Gabriella Fernandes (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 125lbs/57kg Women's Flyweight\n• Silv
  a: 19-7-0 | 32yo | Brazilian Jiu-Jitsu | -186 (1.54)\n• Fernandes: 11-4-
@@ -51,30 +73,6 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ta vs Walker\nSource: https://www.ufc.com/event/ufc-fight-night-november-0
  7-2026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\
  nEvent status: Rescheduled\; previously 7 Nov 2026
-LOCATION:Meta APEX\, Las Vegas\, United States
-URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-november-07-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-fight-night-november-07-2026-fight-marcos-degli-mitch-raposo@ufc-de
- tailed-calendar
-DTSTAMP:20261028T130115Z
-LAST-MODIFIED:20261102T160226Z
-SEQUENCE:2
-DTSTART:20261107T235500Z
-DTEND:20261108T002500Z
-SUMMARY:🥊 6. Mitch Raposo vs. Marcos Degli (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 125lbs/57kg Flyweight\n• Raposo: 11-3
- -0 | 28yo | Freestyle | +195 (2.95)\n• Degli: 1-0-0 | 26yo | -194 (1.52)
- \n• Odds history:\n  ◦ 30 Oct: Raposo 🔴 +233 (3.33) | Degli 🟢 -2
- 45 (1.41)\n  ◦ 2 Nov: Raposo 🔴 +195 (2.95) | Degli 🟢 -194 (1.52)\n
- Event: UFC Fight Night: Cortes Acosta vs Walker\nSource: https://www.ufc.c
- om/event/ufc-fight-night-november-07-2026\nMain calendar: https://staircas
- ewit.github.io/mmacalendar/ufc.ics\nEvent status: Rescheduled\; previously
-  7 Nov 2026
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -106,38 +104,14 @@ RELATED-TO:ufc-fight-night-november-07-2026-prelims@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-fight-night-november-07-2026-fight-keiichiro-nakamura-ollie-schmid@
- ufc-detailed-calendar
-DTSTAMP:20260930T124052Z
-LAST-MODIFIED:20261102T160226Z
-SEQUENCE:5
-DTSTART:20261107T231000Z
-DTEND:20261107T234000Z
-SUMMARY:🥊 4. Keiichiro Nakamura vs. Ollie Schmid (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 145lbs/66kg Featherweight\n• Nakamura
- : 8-1-0 | 27yo | -335 (1.30)\n• Schmid: 4-3-0 | 25yo | Striker | +300 (4
- .00)\n• Odds history:\n  ◦ 30 Oct: Nakamura 🟢 -317 (1.32) | Schmid 
- 🔴 +300 (4.00)\n  ◦ 2 Nov: Nakamura 🟢 -335 (1.30) | Schmid 🔴 +30
- 0 (4.00)\nEvent: UFC Fight Night: Cortes Acosta vs Walker\nSource: https:/
- /www.ufc.com/event/ufc-fight-night-november-07-2026\nMain calendar: https:
- //staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Rescheduled\; 
- previously 7 Nov 2026
-LOCATION:Meta APEX\, Las Vegas\, United States
-URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-november-07-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:ufc-fight-night-november-07-2026-fight-austin-bashi-lucas-brennan@ufc-d
  etailed-calendar
 DTSTAMP:20260930T124052Z
-LAST-MODIFIED:20261102T160226Z
-SEQUENCE:4
-DTSTART:20261107T224500Z
-DTEND:20261107T231500Z
-SUMMARY:🥊 3. Austin Bashi vs. Lucas Brennan (estimated)
+LAST-MODIFIED:20261104T143757Z
+SEQUENCE:5
+DTSTART:20261107T231000Z
+DTEND:20261107T234000Z
+SUMMARY:🥊 4. Austin Bashi vs. Lucas Brennan (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 145lbs/66kg Featherweight\n• Bashi: 1
  4-2-0 | 25yo | Jiu-Jitsu\n• Brennan: 11-3-0 | 26yo | Grappler\n• Odds 
@@ -152,23 +126,45 @@ RELATED-TO:ufc-fight-night-november-07-2026-prelims@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-fight-night-november-07-2026-fight-nina-milosevic-priscila-cachoeir
- a@ufc-detailed-calendar
+UID:ufc-fight-night-november-07-2026-fight-andre-petroski-mantas-kondratavi
+ cius@ufc-detailed-calendar
+DTSTAMP:20261026T131005Z
+LAST-MODIFIED:20261104T143757Z
+SEQUENCE:3
+DTSTART:20261107T224500Z
+DTEND:20261107T231500Z
+SUMMARY:🥊 3. Mantas Kondratavičius vs. Andre Petroski (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Kondratav
+ icius: 9-1-0 | 27yo | MMA | -285 (1.35)\n• Petroski: 13-7-0 | 35yo | Fre
+ estyle | +270 (3.70)\n• Odds history:\n  ◦ 2 Nov: Kondratavicius 🟢 
+ -285 (1.35) | Petroski 🔴 +270 (3.70)\nEvent: UFC Fight Night: Cortes Ac
+ osta vs Walker\nSource: https://www.ufc.com/event/ufc-fight-night-november
+ -07-2026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ic
+ s\nEvent status: Rescheduled\; previously 7 Nov 2026
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-fight-night-november-07-2026-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-07-2026-fight-seokhyeon-ko-wellington-turman@u
+ fc-detailed-calendar
 DTSTAMP:20260930T124052Z
-LAST-MODIFIED:20261102T160226Z
-SEQUENCE:4
+LAST-MODIFIED:20261104T143757Z
+SEQUENCE:5
 DTSTART:20261107T222500Z
 DTEND:20261107T225500Z
-SUMMARY:🥊 2. Priscila Cachoeira vs. Nina Milošević (estimated)
+SUMMARY:🥊 2. Seokhyeon Ko vs. Wellington Turman (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 135lbs/61kg Women's Bantamweight\n• C
- achoeira: 13-9-0 | 38yo | Brawler | +456 (5.56)\n• Milosevic: 9-1-0 | 30
- yo | Freestyle | -450 (1.22)\n• Odds history:\n  ◦ 30 Oct: Cachoeira 
- 🔴 +376 (4.76) | Milosevic 🟢 -426 (1.23)\n  ◦ 2 Nov: Cachoeira 🔴
-  +456 (5.56) | Milosevic 🟢 -450 (1.22)\nEvent: UFC Fight Night: Cortes 
- Acosta vs Walker\nSource: https://www.ufc.com/event/ufc-fight-night-novemb
- er-07-2026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.
- ics\nEvent status: Rescheduled\; previously 7 Nov 2026
+ ove as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Ko: 13-3-
+ 0 | 33yo | Judo | -549 (1.18)\n• Turman: 18-8-0 | 30yo | Jiu-Jitsu | +56
+ 7 (6.67)\n• Odds history:\n  ◦ 30 Oct: Ko 🟢 -549 (1.18) | Turman 
+ 🔴 +567 (6.67)\nEvent: UFC Fight Night: Cortes Acosta vs Walker\nSource:
+  https://www.ufc.com/event/ufc-fight-night-november-07-2026\nMain calendar
+ : https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Resche
+ duled\; previously 7 Nov 2026
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -269,37 +265,14 @@ RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-fight-night-november-07-2026-fight-seokhyeon-ko-wellington-turman@u
- fc-detailed-calendar
-DTSTAMP:20260930T124052Z
-LAST-MODIFIED:20261102T160226Z
-SEQUENCE:4
-DTSTART:20261108T020000Z
-DTEND:20261108T023000Z
-SUMMARY:🥊 3. Seokhyeon Ko vs. Wellington Turman (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Ko: 13-
- 3-0 | 33yo | Judo | -549 (1.18)\n• Turman: 18-8-0 | 30yo | Jiu-Jitsu | +
- 567 (6.67)\n• Odds history:\n  ◦ 30 Oct: Ko 🟢 -549 (1.18) | Turman 
- 🔴 +567 (6.67)\nEvent: UFC Fight Night: Cortes Acosta vs Walker\nSource:
-  https://www.ufc.com/event/ufc-fight-night-november-07-2026\nMain calendar
- : https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Resche
- duled\; previously 7 Nov 2026
-LOCATION:Meta APEX\, Las Vegas\, United States
-URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:ufc-fight-night-november-07-2026-fight-billy-elekana-lucas-fernando@ufc
  -detailed-calendar
 DTSTAMP:20260930T124052Z
-LAST-MODIFIED:20261102T160226Z
-SEQUENCE:6
-DTSTART:20261108T013000Z
-DTEND:20261108T020000Z
-SUMMARY:🥊 2. Billy Elekana vs. Lucas Fernando (estimated)
+LAST-MODIFIED:20261104T143757Z
+SEQUENCE:7
+DTSTART:20261108T020000Z
+DTEND:20261108T023000Z
+SUMMARY:🥊 3. Billy Elekana vs. Lucas Fernando (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• El
  ekana: 10-2-0 | 31yo | MMA | +245 (3.45)\n• Fernando: 14-3-0 | 29yo | St
@@ -316,22 +289,46 @@ RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-fight-night-november-07-2026-fight-andre-petroski-mantas-kondratavi
- cius@ufc-detailed-calendar
-DTSTAMP:20261026T131005Z
-LAST-MODIFIED:20261102T160226Z
-SEQUENCE:2
+UID:ufc-fight-night-november-07-2026-fight-nina-milosevic-priscila-cachoeir
+ a@ufc-detailed-calendar
+DTSTAMP:20260930T124052Z
+LAST-MODIFIED:20261104T143757Z
+SEQUENCE:5
+DTSTART:20261108T013000Z
+DTEND:20261108T020000Z
+SUMMARY:🥊 2. Priscila Cachoeira vs. Nina Milošević (estimated)
+DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
+  move as earlier fights finish.\n• 135lbs/61kg Women's Bantamweight\n•
+  Cachoeira: 13-9-0 | 38yo | Brawler | +456 (5.56)\n• Milosevic: 9-1-0 | 
+ 30yo | Freestyle | -450 (1.22)\n• Odds history:\n  ◦ 30 Oct: Cachoeira
+  🔴 +376 (4.76) | Milosevic 🟢 -426 (1.23)\n  ◦ 2 Nov: Cachoeira 
+ 🔴 +456 (5.56) | Milosevic 🟢 -450 (1.22)\nEvent: UFC Fight Night: Cor
+ tes Acosta vs Walker\nSource: https://www.ufc.com/event/ufc-fight-night-no
+ vember-07-2026\nMain calendar: https://staircasewit.github.io/mmacalendar/
+ ufc.ics\nEvent status: Rescheduled\; previously 7 Nov 2026
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-november-07-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-07-2026-fight-4584@ufc-detailed-calendar
+DTSTAMP:20261104T143757Z
+LAST-MODIFIED:20261104T143757Z
+SEQUENCE:0
 DTSTART:20261108T010000Z
 DTEND:20261108T013000Z
-SUMMARY:🥊 1. Mantas Kondratavičius vs. Andre Petroski (estimated)
+SUMMARY:🥊 1. Mitch Raposo vs. Marcos Degli (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Kondrat
- avicius: 9-1-0 | 27yo | MMA | -285 (1.35)\n• Petroski: 13-7-0 | 35yo | F
- reestyle | +270 (3.70)\n• Odds history:\n  ◦ 2 Nov: Kondratavicius 
- 🟢 -285 (1.35) | Petroski 🔴 +270 (3.70)\nEvent: UFC Fight Night: Cort
- es Acosta vs Walker\nSource: https://www.ufc.com/event/ufc-fight-night-nov
- ember-07-2026\nMain calendar: https://staircasewit.github.io/mmacalendar/u
- fc.ics\nEvent status: Rescheduled\; previously 7 Nov 2026
+  move as earlier fights finish.\n• 125lbs/57kg Flyweight\n• Raposo: 11
+ -3-0 | 28yo | Freestyle | +195 (2.95)\n• Degli: 15-3-0 | 26yo | MMA | -1
+ 94 (1.52)\n• Odds history:\n  ◦ 30 Oct: Raposo 🔴 +233 (3.33) | Degl
+ i 🟢 -245 (1.41)\n  ◦ 2 Nov: Raposo 🔴 +195 (2.95) | Degli 🟢 -194
+  (1.52)\nEvent: UFC Fight Night: Cortes Acosta vs Walker\nSource: https://
+ www.ufc.com/event/ufc-fight-night-november-07-2026\nMain calendar: https:/
+ /staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Rescheduled\; p
+ reviously 7 Nov 2026
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-november-07-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -811,21 +808,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-335-fight-13208@ufc-detailed-calendar
 DTSTAMP:20261007T133000Z
-LAST-MODIFIED:20261023T114422Z
-SEQUENCE:4
+LAST-MODIFIED:20261104T143757Z
+SEQUENCE:5
 DTSTART:20261213T021000Z
 DTEND:20261213T024000Z
-SUMMARY:🥊 4. Sergei Pavlovich vs. Alex Pereira (estimated)
+SUMMARY:🥊 4. Alex Pereira vs. Sergei Pavlovich (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n
- • Pavlovich: 21-3-0 | 34yo | MMA | -200 (1.50)\n• Pereira: 13-4-0 | 39
- yo | Kickboxer | +163 (2.63)\n• Odds history:\n  ◦ 12 Oct: Pavlovich 
- 🟢 -175 (1.57) | Pereira 🔴 +145 (2.45)\n  ◦ 16 Oct: Pavlovich 🟢 
- -175 (1.57) | Pereira 🔴 +163 (2.63)\n  ◦ 23 Oct: Pavlovich 🟢 -200 
- (1.50) | Pereira 🔴 +163 (2.63)\n  ◦ Earlier changes: see full odds lo
- g\nEvent: UFC 335: Oliveira vs Lopes\nSource: https://www.ufc.com/event/uf
- c-335\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\n
- Event status: Scheduled
+ • Pereira: 13-4-0 | 39yo | Kickboxer | +163 (2.63)\n• Pavlovich: 21-3-
+ 0 | 34yo | MMA | -200 (1.50)\n• Odds history:\n  ◦ 12 Oct: Pereira 
+ 🔴 +145 (2.45) | Pavlovich 🟢 -175 (1.57)\n  ◦ 16 Oct: Pereira 🔴 
+ +163 (2.63) | Pavlovich 🟢 -175 (1.57)\n  ◦ 23 Oct: Pereira 🔴 +163 
+ (2.63) | Pavlovich 🟢 -200 (1.50)\n  ◦ Earlier changes: see full odds 
+ log\nEvent: UFC 335: Oliveira vs Lopes\nSource: https://www.ufc.com/event/
+ ufc-335\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics
+ \nEvent status: Scheduled
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -938,6 +935,48 @@ LOCATION:Scotiabank Arena\, Toronto\, Canada
 URL:https://www.ufc.com/event/ufc-336
 CATEGORIES:UFC,Estimated Fight,Main Card
 RELATED-TO:ufc-336-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-february-06-2027-fight-13240@ufc-detailed-calendar
+DTSTAMP:20261104T143757Z
+LAST-MODIFIED:20261104T143757Z
+SEQUENCE:0
+DTSTART:20270206T223000Z
+DTEND:20270206T230000Z
+SUMMARY:🥊 2. Quillan Salkilld vs. Benoît Saint Denis (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n•
+  Salkilld: 13-1-0 | 27yo | MMA\n• Saint Denis: 17-4-0 | 31yo | MMA\n• 
+ Odds history: not checked yet\nEvent: UFC Fight Night: Salkilld vs Saint D
+ enis\nSource: https://www.ufc.com/event/ufc-fight-night-february-06-2027\n
+ Main calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent s
+ tatus: Scheduled
+LOCATION:Afterpay Arena\, Sydney Olympic Park\, Australia
+URL:https://www.ufc.com/event/ufc-fight-night-february-06-2027
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-february-06-2027-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-february-06-2027-fight-13241@ufc-detailed-calendar
+DTSTAMP:20261104T143757Z
+LAST-MODIFIED:20261104T143757Z
+SEQUENCE:0
+DTSTART:20270206T200000Z
+DTEND:20270206T203000Z
+SUMMARY:🥊 1. Bogdan Guskov vs. Robert Whittaker (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 205lbs/93kg Light Heavyweigh
+ t\n• Guskov: 18-3-0 | 34yo | MMA\n• Whittaker: 28-9-0 | 36yo | Brazili
+ an Jiu-Jitsu\n• Odds history: not checked yet\nEvent: UFC Fight Night: S
+ alkilld vs Saint Denis\nSource: https://www.ufc.com/event/ufc-fight-night-
+ february-06-2027\nMain calendar: https://staircasewit.github.io/mmacalenda
+ r/ufc.ics\nEvent status: Scheduled
+LOCATION:Afterpay Arena\, Sydney Olympic Park\, Australia
+URL:https://www.ufc.com/event/ufc-fight-night-february-06-2027
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-february-06-2027-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
