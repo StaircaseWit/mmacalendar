@@ -6652,7 +6652,7 @@
     "bouts": [
       {
         "id": "1582",
-        "order": 14,
+        "order": 12,
         "red": {
           "name": "Vadim Nemkov",
           "profileUrl": "https://pflmma.com/wt-fighter/vadim-nemkov",
@@ -6676,7 +6676,7 @@
       },
       {
         "id": "1598",
-        "order": 13,
+        "order": 11,
         "red": {
           "name": "Patrick Habirora",
           "profileUrl": "https://pflmma.com/wt-fighter/patrick-habirora",
@@ -6700,7 +6700,7 @@
       },
       {
         "id": "1583",
-        "order": 12,
+        "order": 10,
         "red": {
           "name": "Pouya Rahmani",
           "profileUrl": "https://pflmma.com/wt-fighter/pouya-rahmani",
@@ -6723,32 +6723,8 @@
         "oddsHistory": []
       },
       {
-        "id": "1591",
-        "order": 11,
-        "red": {
-          "name": "Abubakar Nurmagomedov",
-          "profileUrl": "https://pflmma.com/wt-fighter/abubakar-nurmagomedov",
-          "countryCode": null,
-          "birthDate": "1989-11-11",
-          "record": "17-4-1",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "David Martinez",
-          "profileUrl": "https://pflmma.com/wt-fighter/david-martinez",
-          "countryCode": null,
-          "birthDate": "1993-08-20",
-          "record": "17-6-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "170lbs/77kg Welterweight",
-        "oddsHistory": []
-      },
-      {
         "id": "1586",
-        "order": 10,
+        "order": 9,
         "red": {
           "name": "Sergio Pettis",
           "profileUrl": "https://pflmma.com/wt-fighter/sergio-pettis",
@@ -6768,30 +6744,6 @@
           "odds": null
         },
         "details": "135lbs/61kg Bantamweight",
-        "oddsHistory": []
-      },
-      {
-        "id": "1608",
-        "order": 9,
-        "red": {
-          "name": "Shem Rock",
-          "profileUrl": "https://pflmma.com/wt-fighter/shem-rock",
-          "countryCode": null,
-          "birthDate": "1993-11-04",
-          "record": "12-3-1",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Connor Hughes",
-          "profileUrl": "https://pflmma.com/wt-fighter/connor-hughes",
-          "countryCode": "GB",
-          "birthDate": "1997-06-04",
-          "record": "12-3-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "155lbs/70kg Lightweight",
         "oddsHistory": []
       },
       {
@@ -6819,23 +6771,27 @@
         "oddsHistory": []
       },
       {
-        "id": "1605",
+        "id": "1608",
         "order": 7,
         "red": {
-          "name": "TBD TBD",
-          "profileUrl": "https://pflmma.com/wt-fighter/tbd-tbd-4023",
-          "odds": null
-        },
-        "blue": {
-          "name": "Movlid Khaybulaev",
-          "profileUrl": "https://pflmma.com/wt-fighter/movlid-khaybulaev",
+          "name": "Shem Rock",
+          "profileUrl": "https://pflmma.com/wt-fighter/shem-rock",
           "countryCode": null,
-          "birthDate": "1990-10-15",
-          "record": "23-0-1",
+          "birthDate": "1993-11-04",
+          "record": "12-3-1",
           "style": null,
           "odds": null
         },
-        "details": "145lbs/66kg Featherweight",
+        "blue": {
+          "name": "Connor Hughes",
+          "profileUrl": "https://pflmma.com/wt-fighter/connor-hughes",
+          "countryCode": "GB",
+          "birthDate": "1997-06-04",
+          "record": "12-3-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight",
         "oddsHistory": []
       },
       {
@@ -7058,6 +7014,52 @@
         "details": "145lbs/66kg Featherweight",
         "oddsHistory": [],
         "note": "Removed from the official PFL card"
+      },
+      {
+        "id": "1591",
+        "order": 11,
+        "red": {
+          "name": "Abubakar Nurmagomedov",
+          "profileUrl": "https://pflmma.com/wt-fighter/abubakar-nurmagomedov",
+          "countryCode": null,
+          "birthDate": "1989-11-11",
+          "record": "17-4-1",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "David Martinez",
+          "profileUrl": "https://pflmma.com/wt-fighter/david-martinez",
+          "countryCode": null,
+          "birthDate": "1993-08-20",
+          "record": "17-6-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight",
+        "oddsHistory": [],
+        "note": "Removed from the official PFL card"
+      },
+      {
+        "id": "1605",
+        "order": 7,
+        "red": {
+          "name": "TBD TBD",
+          "profileUrl": "https://pflmma.com/wt-fighter/tbd-tbd-4023",
+          "odds": null
+        },
+        "blue": {
+          "name": "Movlid Khaybulaev",
+          "profileUrl": "https://pflmma.com/wt-fighter/movlid-khaybulaev",
+          "countryCode": null,
+          "birthDate": "1990-10-15",
+          "record": "23-0-1",
+          "style": null,
+          "odds": null
+        },
+        "details": "145lbs/66kg Featherweight",
+        "oddsHistory": [],
+        "note": "Removed from the official PFL card"
       }
     ]
   },
@@ -7185,9 +7187,9 @@
         "blue": {
           "name": "Mehdi Saadi",
           "profileUrl": "https://pflmma.com/mena-fighter/mehdi-saadi",
-          "countryCode": "FR",
-          "birthDate": "1993-03-05",
-          "record": "7-2-0",
+          "countryCode": "TN",
+          "birthDate": "1993-03-06",
+          "record": "8-2-0",
           "style": null,
           "odds": null
         },
@@ -7374,7 +7376,7 @@
     "bouts": [
       {
         "id": "1585",
-        "order": 7,
+        "order": 8,
         "red": {
           "name": "Taylor Lapilus",
           "profileUrl": "https://pflmma.com/wt-fighter/taylor-lapilus",
@@ -7398,7 +7400,7 @@
       },
       {
         "id": "1589",
-        "order": 6,
+        "order": 7,
         "red": {
           "name": "Boris Atangana",
           "profileUrl": "https://pflmma.com/wt-fighter/boris-atangana",
@@ -7422,7 +7424,7 @@
       },
       {
         "id": "1600",
-        "order": 5,
+        "order": 6,
         "red": {
           "name": "Abdoul Abdouraguimov",
           "profileUrl": "https://pflmma.com/wt-fighter/abdoul-abdouraguimov",
@@ -7446,7 +7448,7 @@
       },
       {
         "id": "1601",
-        "order": 4,
+        "order": 5,
         "red": {
           "name": "Fabian Edwards",
           "profileUrl": "https://pflmma.com/wt-fighter/fabian-edwards",
@@ -7470,7 +7472,7 @@
       },
       {
         "id": "1673",
-        "order": 3,
+        "order": 4,
         "red": {
           "name": "Bafode Gassama",
           "profileUrl": "https://pflmma.com/wt-fighter/bafode-gassama",
@@ -7490,6 +7492,30 @@
           "odds": null
         },
         "details": "205lbs/93kg Light Heavyweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1678",
+        "order": 3,
+        "red": {
+          "name": "Dean Garnett",
+          "profileUrl": "https://pflmma.com/wt-fighter/dean-garnett",
+          "countryCode": "GB",
+          "birthDate": "1988-07-24",
+          "record": "15-4-1",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Bryce Meredith",
+          "profileUrl": "https://pflmma.com/wt-fighter/bryce-meredith",
+          "countryCode": "US",
+          "birthDate": "1995-04-28",
+          "record": "8-1-0",
+          "style": "Grappler",
+          "odds": null
+        },
+        "details": "135lbs/61kg Bantamweight",
         "oddsHistory": []
       },
       {

@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-02T16:02:26.576Z",
+  "lastCheckedAt": "2026-11-06T14:21:26.351Z",
   "fights": {
     "ufc-fight-night-september-12-2026::edgar chairez--tim elliott": [
       {
@@ -1639,6 +1639,19 @@
           "ciryl gane": "Ciryl Gane",
           "josh hokit": "Josh Hokit"
         }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4370",
+        "odds": {
+          "ciryl gane": "-194",
+          "josh hokit": "+210"
+        },
+        "names": {
+          "ciryl gane": "Ciryl Gane",
+          "josh hokit": "Josh Hokit"
+        }
       }
     ],
     "ufc-334::amanda nunes--kayla harrison": [
@@ -2127,6 +2140,19 @@
         "names": {
           "sergei pavlovich": "Sergei Pavlovich",
           "alex pereira": "Alex Pereira"
+        }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC 335: Oliveira vs Lopes",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-335-4394",
+        "odds": {
+          "alex pereira": "+163",
+          "sergei pavlovich": "-200"
+        },
+        "names": {
+          "alex pereira": "Alex Pereira",
+          "sergei pavlovich": "Sergei Pavlovich"
         }
       }
     ],
@@ -3205,6 +3231,19 @@
           "carlos prates": "Carlos Prates",
           "michael morales": "Michael Morales"
         }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC 336: Van vs Kape",
+        "sourceUrl": "https://www.bestfightodds.com/events/future-events-197",
+        "odds": {
+          "carlos prates": "-150",
+          "michael morales": "+142"
+        },
+        "names": {
+          "carlos prates": "Carlos Prates",
+          "michael morales": "Michael Morales"
+        }
       }
     ],
     "ufc-fight-night-november-07-2026::gabriella fernandes--karine silva": [
@@ -3228,6 +3267,19 @@
         "odds": {
           "karine silva": "-186",
           "gabriella fernandes": "+178"
+        },
+        "names": {
+          "karine silva": "Karine Silva",
+          "gabriella fernandes": "Gabriella Fernandes"
+        }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC Fight Night: Cortes Acosta vs Walker",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4439",
+        "odds": {
+          "karine silva": "-213",
+          "gabriella fernandes": "+203"
         },
         "names": {
           "karine silva": "Karine Silva",
@@ -3261,6 +3313,19 @@
           "mitch raposo": "Mitch Raposo",
           "marcos degli": "Marcos Degli"
         }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC Fight Night: Cortes Acosta vs Walker",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4437",
+        "odds": {
+          "mitch raposo": "+213",
+          "marcos degli": "-223"
+        },
+        "names": {
+          "mitch raposo": "Mitch Raposo",
+          "marcos degli": "Marcos Degli"
+        }
       }
     ],
     "ufc-fight-night-november-07-2026::jose delano--murtazali magomedov": [
@@ -3289,6 +3354,19 @@
           "jose delano": "Jose Delano",
           "murtazali magomedov": "Murtazali Magomedov"
         }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC Fight Night: Cortes Acosta vs Walker",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4439",
+        "odds": {
+          "jose delano": "-108",
+          "murtazali magomedov": "+105"
+        },
+        "names": {
+          "jose delano": "Jose Delano",
+          "murtazali magomedov": "Murtazali Magomedov"
+        }
       }
     ],
     "ufc-fight-night-november-07-2026::keiichiro nakamura--ollie schmid": [
@@ -3311,6 +3389,19 @@
         "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4439",
         "odds": {
           "keiichiro nakamura": "-335",
+          "ollie schmid": "+300"
+        },
+        "names": {
+          "keiichiro nakamura": "Keiichiro Nakamura",
+          "ollie schmid": "Ollie Schmid"
+        }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC Fight Night: Cortes Acosta vs Walker",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4439",
+        "odds": {
+          "keiichiro nakamura": "-317",
           "ollie schmid": "+300"
         },
         "names": {
@@ -3345,6 +3436,19 @@
           "priscila cachoeira": "Priscila Cachoeira",
           "nina milosevic": "Nina Milošević"
         }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC Fight Night: Cortes Acosta vs Walker",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4439",
+        "odds": {
+          "priscila cachoeira": "+426",
+          "nina milosevic": "-456"
+        },
+        "names": {
+          "priscila cachoeira": "Priscila Cachoeira",
+          "nina milosevic": "Nina Milošević"
+        }
       }
     ],
     "ufc-fight-night-november-07-2026::jonny parsons--jose souza": [
@@ -3368,6 +3472,19 @@
         "odds": {
           "jonny parsons": "+186",
           "jose souza": "-194"
+        },
+        "names": {
+          "jonny parsons": "Jonny Parsons",
+          "jose souza": "José Souza"
+        }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC Fight Night: Cortes Acosta vs Walker",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4439",
+        "odds": {
+          "jonny parsons": "+213",
+          "jose souza": "-223"
         },
         "names": {
           "jonny parsons": "Jonny Parsons",
@@ -3418,6 +3535,19 @@
           "seokhyeon ko": "Seokhyeon Ko",
           "wellington turman": "Wellington Turman"
         }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC Fight Night: Cortes Acosta vs Walker",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4439",
+        "odds": {
+          "seokhyeon ko": "-525",
+          "wellington turman": "+650"
+        },
+        "names": {
+          "seokhyeon ko": "Seokhyeon Ko",
+          "wellington turman": "Wellington Turman"
+        }
       }
     ],
     "ufc-fight-night-november-07-2026::billy elekana--lucas fernando": [
@@ -3441,6 +3571,19 @@
         "odds": {
           "billy elekana": "+245",
           "lucas fernando": "-250"
+        },
+        "names": {
+          "billy elekana": "Billy Elekana",
+          "lucas fernando": "Lucas Fernando"
+        }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC Fight Night: Cortes Acosta vs Walker",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4437",
+        "odds": {
+          "billy elekana": "+300",
+          "lucas fernando": "-315"
         },
         "names": {
           "billy elekana": "Billy Elekana",
@@ -3474,6 +3617,19 @@
           "caio borralho": "Caio Borralho",
           "yousri belgaroui": "Yousri Belgaroui"
         }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4370",
+        "odds": {
+          "caio borralho": "-144",
+          "yousri belgaroui": "+138"
+        },
+        "names": {
+          "caio borralho": "Caio Borralho",
+          "yousri belgaroui": "Yousri Belgaroui"
+        }
       }
     ],
     "ufc-334::kevin holland--uros medic": [
@@ -3497,6 +3653,19 @@
         "odds": {
           "uros medic": "-150",
           "kevin holland": "+144"
+        },
+        "names": {
+          "uros medic": "Uroš Medić",
+          "kevin holland": "Kevin Holland"
+        }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4370",
+        "odds": {
+          "uros medic": "-163",
+          "kevin holland": "+170"
         },
         "names": {
           "uros medic": "Uroš Medić",
@@ -3530,6 +3699,19 @@
           "bilal hasan": "Bilal Hasan",
           "luis gurule": "Luis Gurule"
         }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4370",
+        "odds": {
+          "bilal hasan": "-567",
+          "luis gurule": "+600"
+        },
+        "names": {
+          "bilal hasan": "Bilal Hasan",
+          "luis gurule": "Luis Gurule"
+        }
       }
     ],
     "ufc-fight-night-november-07-2026::gabriel lorenco--thomas petersen": [
@@ -3545,6 +3727,19 @@
           "gabriel lorenco": "Gabriel Lorenco",
           "thomas petersen": "Thomas Petersen"
         }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC Fight Night: Cortes Acosta vs Walker",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4437",
+        "odds": {
+          "gabriel lorenco": "+156",
+          "thomas petersen": "-163"
+        },
+        "names": {
+          "gabriel lorenco": "Gabriel Lorenço",
+          "thomas petersen": "Thomas Petersen"
+        }
       }
     ],
     "ufc-fight-night-november-07-2026::johnny walker--waldo cortes acosta": [
@@ -3555,6 +3750,19 @@
         "odds": {
           "waldo cortes acosta": "-178",
           "johnny walker": "+170"
+        },
+        "names": {
+          "waldo cortes acosta": "Waldo Cortes Acosta",
+          "johnny walker": "Johnny Walker"
+        }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC Fight Night: Cortes Acosta vs Walker",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4437",
+        "odds": {
+          "waldo cortes acosta": "-203",
+          "johnny walker": "+198"
         },
         "names": {
           "waldo cortes acosta": "Waldo Cortes Acosta",
@@ -3575,6 +3783,19 @@
           "davey grant": "Davey Grant",
           "elijah smith": "Elijah Smith"
         }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC Fight Night: Cortes Acosta vs Walker",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4437",
+        "odds": {
+          "davey grant": "+270",
+          "elijah smith": "-285"
+        },
+        "names": {
+          "davey grant": "Davey Grant",
+          "elijah smith": "Elijah Smith"
+        }
       }
     ],
     "ufc-fight-night-november-07-2026::andre petroski--mantas kondratavicius": [
@@ -3585,6 +3806,19 @@
         "odds": {
           "mantas kondratavicius": "-285",
           "andre petroski": "+270"
+        },
+        "names": {
+          "mantas kondratavicius": "Mantas Kondratavičius",
+          "andre petroski": "Andre Petroski"
+        }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC Fight Night: Cortes Acosta vs Walker",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4439",
+        "odds": {
+          "mantas kondratavicius": "-270",
+          "andre petroski": "+257"
         },
         "names": {
           "mantas kondratavicius": "Mantas Kondratavičius",
@@ -3605,6 +3839,19 @@
           "macy chiasson": "Macy Chiasson",
           "bia mesquita": "Bia Mesquita"
         }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4433",
+        "odds": {
+          "macy chiasson": "+186",
+          "bia mesquita": "-194"
+        },
+        "names": {
+          "macy chiasson": "Macy Chiasson",
+          "bia mesquita": "Bia Mesquita"
+        }
       }
     ],
     "ufc-334::charles radtke--stephen thompson": [
@@ -3615,6 +3862,19 @@
         "odds": {
           "stephen thompson": "-117",
           "charles radtke": "+113"
+        },
+        "names": {
+          "stephen thompson": "Stephen Thompson",
+          "charles radtke": "Charles Radtke"
+        }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4433",
+        "odds": {
+          "stephen thompson": "-117",
+          "charles radtke": "+118"
         },
         "names": {
           "stephen thompson": "Stephen Thompson",
@@ -3635,6 +3895,19 @@
           "drew dober": "Drew Dober",
           "chris duncan": "Chris Duncan"
         }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4433",
+        "odds": {
+          "drew dober": "+144",
+          "chris duncan": "-150"
+        },
+        "names": {
+          "drew dober": "Drew Dober",
+          "chris duncan": "Chris Duncan"
+        }
       }
     ],
     "ufc-334::jim miller--terrance mckinney": [
@@ -3645,6 +3918,19 @@
         "odds": {
           "jim miller": "+186",
           "terrance mckinney": "-194"
+        },
+        "names": {
+          "jim miller": "Jim Miller",
+          "terrance mckinney": "Terrance McKinney"
+        }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4433",
+        "odds": {
+          "jim miller": "+203",
+          "terrance mckinney": "-213"
         },
         "names": {
           "jim miller": "Jim Miller",
@@ -3664,6 +3950,94 @@
         "names": {
           "donte johnson": "Donte Johnson",
           "cesar almeida": "Cesar Almeida"
+        }
+      },
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4433",
+        "odds": {
+          "donte johnson": "-180",
+          "cesar almeida": "+178"
+        },
+        "names": {
+          "donte johnson": "Donte Johnson",
+          "cesar almeida": "Cesar Almeida"
+        }
+      }
+    ],
+    "ufc-fight-night-november-07-2026::austin bashi--carlos calderon": [
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC Fight Night: Cortes Acosta vs Walker",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-vegas-124-4439",
+        "odds": {
+          "austin bashi": "-456",
+          "carlos calderon": "+430"
+        },
+        "names": {
+          "austin bashi": "Austin Bashi",
+          "carlos calderon": "Carlos Calderon"
+        }
+      }
+    ],
+    "ufc-334::jared gordon--melquizael costa": [
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4433",
+        "odds": {
+          "jared gordon": "+376",
+          "melquizael costa": "-380"
+        },
+        "names": {
+          "jared gordon": "Jared Gordon",
+          "melquizael costa": "Melquizael Costa"
+        }
+      }
+    ],
+    "ufc-334::evan elder--samuel sanches": [
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4433",
+        "odds": {
+          "evan elder": "-117",
+          "samuel sanches": "+113"
+        },
+        "names": {
+          "evan elder": "Evan Elder",
+          "samuel sanches": "Samuel Sanches"
+        }
+      }
+    ],
+    "ufc-fight-night-november-21-2026::jiri prochazka--navajo stirling": [
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC Fight Night: Prochazka vs Stirling",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-doha-4440",
+        "odds": {
+          "jiri prochazka": "+110",
+          "navajo stirling": "-138"
+        },
+        "names": {
+          "jiri prochazka": "Jiří Procházka",
+          "navajo stirling": "Navajo Stirling"
+        }
+      }
+    ],
+    "ufc-fight-night-february-06-2027::benoit saint denis--quillan salkilld": [
+      {
+        "checkedAt": "2026-11-06T14:21:26.351Z",
+        "eventName": "UFC Fight Night: Salkilld vs Saint Denis",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-sydney-4436",
+        "odds": {
+          "quillan salkilld": "-275",
+          "benoit saint denis": "+200"
+        },
+        "names": {
+          "quillan salkilld": "Quillan Salkilld",
+          "benoit saint denis": "Benoît Saint Denis"
         }
       }
     ]

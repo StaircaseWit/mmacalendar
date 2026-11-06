@@ -1143,10 +1143,10 @@
     },
     "https://www.onefc.com/athletes/prajanchai/": {
       "country": "Thailand",
-      "age": 31,
-      "record": "7-2-0",
+      "age": 32,
+      "record": "7-3-0",
       "style": "Striker",
-      "checkedAt": "2026-09-18T11:20:58.725Z"
+      "checkedAt": "2026-11-06T14:21:26.351Z"
     },
     "https://www.onefc.com/athletes/wang-junguang/": {
       "country": "China",
@@ -2301,14 +2301,14 @@
       "age": null,
       "record": null,
       "style": null,
-      "checkedAt": "2026-11-04T14:37:57.238Z"
+      "checkedAt": "2026-11-06T14:21:26.351Z"
     },
     "https://www.onefc.com/athletes/devhonte-johnson/": {
       "country": null,
       "age": null,
       "record": null,
       "style": null,
-      "checkedAt": "2026-11-04T14:37:57.238Z"
+      "checkedAt": "2026-11-06T14:21:26.351Z"
     },
     "https://www.onefc.com/athletes/kalandar-tabarov/": {
       "country": "Tajikistan",
@@ -2464,13 +2464,6 @@
       "style": null,
       "checkedAt": "2026-11-02T16:02:26.576Z"
     },
-    "https://www.onefc.com/athletes/marats-jankovskis/": {
-      "country": "Latvia",
-      "age": null,
-      "record": null,
-      "style": null,
-      "checkedAt": "2026-11-02T16:02:26.576Z"
-    },
     "https://www.onefc.com/athletes/komawut-fa-group/": {
       "country": "Thailand",
       "age": 27,
@@ -2603,6 +2596,48 @@
       "record": null,
       "style": null,
       "checkedAt": "2026-11-04T14:37:57.238Z"
+    },
+    "https://www.onefc.com/athletes/lucas-gabriel/": {
+      "country": "Brazil",
+      "age": 26,
+      "record": "5-0-0",
+      "style": "Grappler",
+      "checkedAt": "2026-11-06T14:21:26.351Z"
+    },
+    "https://www.onefc.com/athletes/magomed-magomedov-3/": {
+      "country": "Bahrain",
+      "age": null,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-06T14:21:26.351Z"
+    },
+    "https://www.onefc.com/athletes/bogdan-shumarov/": {
+      "country": "Bulgaria",
+      "age": 30,
+      "record": "3-1-0",
+      "style": "Striker",
+      "checkedAt": "2026-11-06T14:21:26.351Z"
+    },
+    "https://www.onefc.com/athletes/gasham-mammadov/": {
+      "country": "Azerbaijan",
+      "age": 23,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-06T14:21:26.351Z"
+    },
+    "https://www.onefc.com/athletes/nico-carrillo/": {
+      "country": "Scotland",
+      "age": 28,
+      "record": "8-1-0",
+      "style": "Striker",
+      "checkedAt": "2026-11-06T14:21:26.351Z"
+    },
+    "https://www.onefc.com/athletes/aliff-sor-dechapan/": {
+      "country": "Malaysia / Thailand",
+      "age": 22,
+      "record": "10-2-0",
+      "style": "Striker",
+      "checkedAt": "2026-11-06T14:21:26.351Z"
     }
   }
 }

@@ -2547,23 +2547,39 @@
         "red": {
           "name": "Naoki Inoue",
           "profileUrl": "https://jp.rizinff.com/_tags/%E4%BA%95%E4%B8%8A%E7%9B%B4%E6%A8%B9",
-          "style": "Striker",
+          "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1997-06-14",
           "record": "10-3-0",
-          "odds": null
+          "odds": "-150"
         },
         "blue": {
           "name": "Yrysbek Tilenov",
           "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%99%E3%82%AF%E3%83%BB%E3%83%86%E3%82%A3%E3%83%AC%E3%83%8E%E3%83%95",
-          "style": "Grappler",
+          "style": "All-rounder",
           "countryCode": "KG",
           "birthDate": "2003-12-14",
           "record": "1-0-0",
-          "odds": null
+          "odds": "+110"
         },
         "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-06T14:21:26.351Z",
+            "eventName": "RIZIN.55",
+            "sourceUrl": "https://www.bestfightodds.com/events/rizin-4451",
+            "promotion": "rizin",
+            "eventId": "17852466",
+            "odds": {
+              "naoki inoue": "-150",
+              "yrysbek tilenov": "+110"
+            },
+            "names": {
+              "naoki inoue": "Naoki Inoue",
+              "yrysbek tilenov": "Yrysbek Tilenov"
+            }
+          }
+        ]
       },
       {
         "order": 11,
@@ -2571,11 +2587,11 @@
         "red": {
           "name": "Ryuya Fukuda",
           "profileUrl": "https://jp.rizinff.com/_tags/%E7%A6%8F%E7%94%B0%E9%BE%8D%E5%BD%8C",
-          "style": "All-rounder",
+          "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1992-06-12",
           "record": "4-2-0",
-          "odds": null
+          "odds": "+130"
         },
         "blue": {
           "name": "Soo Chul Kim",
@@ -2584,10 +2600,26 @@
           "countryCode": "KR",
           "birthDate": "1991-12-10",
           "record": "3-3-0",
-          "odds": null
+          "odds": "-175"
         },
         "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-06T14:21:26.351Z",
+            "eventName": "RIZIN.55",
+            "sourceUrl": "https://www.bestfightodds.com/events/rizin-4451",
+            "promotion": "rizin",
+            "eventId": "17852466",
+            "odds": {
+              "ryuya fukuda": "+130",
+              "soo chul kim": "-175"
+            },
+            "names": {
+              "ryuya fukuda": "Ryuya Fukuda",
+              "soo chul kim": "Soo Chul Kim"
+            }
+          }
+        ]
       },
       {
         "order": 10,
@@ -2599,7 +2631,7 @@
           "countryCode": "JP",
           "birthDate": "2001-08-12",
           "record": "2-2-0",
-          "odds": null
+          "odds": "-225"
         },
         "blue": {
           "name": "Shinobu Ota",
@@ -2608,10 +2640,26 @@
           "countryCode": "JP",
           "birthDate": "1993-12-28",
           "record": "7-6-1",
-          "odds": null
+          "odds": "+163"
         },
         "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-06T14:21:26.351Z",
+            "eventName": "RIZIN.55",
+            "sourceUrl": "https://www.bestfightodds.com/events/rizin-4451",
+            "promotion": "rizin",
+            "eventId": "17852466",
+            "odds": {
+              "jinnosuke kashimura": "-225",
+              "shinobu ota": "+163"
+            },
+            "names": {
+              "jinnosuke kashimura": "Jinnosuke Kashimura",
+              "shinobu ota": "Shinobu Ota"
+            }
+          }
+        ]
       },
       {
         "order": 9,
@@ -2623,7 +2671,7 @@
           "countryCode": "US",
           "birthDate": "1995-11-25",
           "record": null,
-          "odds": null
+          "odds": "+200"
         },
         "blue": {
           "name": "Kazuki Aimoto",
@@ -2632,10 +2680,26 @@
           "countryCode": "JP",
           "birthDate": "2001-01-23",
           "record": null,
-          "odds": null
+          "odds": "-275"
         },
         "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-06T14:21:26.351Z",
+            "eventName": "RIZIN.55",
+            "sourceUrl": "https://www.bestfightodds.com/events/rizin-4451",
+            "promotion": "rizin",
+            "eventId": "17852466",
+            "odds": {
+              "abijah kaleo meheula": "+200",
+              "kazuki aimoto": "-275"
+            },
+            "names": {
+              "abijah kaleo meheula": "Abijah Kaleo Meheula",
+              "kazuki aimoto": "Kazuki Aimoto"
+            }
+          }
+        ]
       },
       {
         "order": 8,
@@ -2647,7 +2711,7 @@
           "countryCode": "JP",
           "birthDate": "1995-02-28",
           "record": "3-4-0",
-          "odds": null
+          "odds": "+225"
         },
         "blue": {
           "name": "Kaiwen Li",
@@ -2656,10 +2720,26 @@
           "countryCode": "CN",
           "birthDate": "1995-10-16",
           "record": "1-1-0",
-          "odds": null
+          "odds": "-333"
         },
         "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-06T14:21:26.351Z",
+            "eventName": "RIZIN.55",
+            "sourceUrl": "https://www.bestfightodds.com/events/rizin-4451",
+            "promotion": "rizin",
+            "eventId": "17852466",
+            "odds": {
+              "juntaro ushiku": "+225",
+              "kaiwen li": "-333"
+            },
+            "names": {
+              "juntaro ushiku": "Juntaro Ushiku",
+              "kaiwen li": "Kaiwen Li"
+            }
+          }
+        ]
       },
       {
         "order": 7,
@@ -2667,7 +2747,7 @@
         "red": {
           "name": "Kyung Pyo Kim",
           "profileUrl": "https://jp.rizinff.com/_tags/%E3%82%AD%E3%83%A0%E3%83%BB%E3%82%AE%E3%83%A7%E3%83%B3%E3%83%94%E3%83%A7",
-          "style": "All-rounder",
+          "style": "Grappler",
           "countryCode": "KR",
           "birthDate": "1992-01-29",
           "record": "4-1-0",
@@ -2676,7 +2756,7 @@
         "blue": {
           "name": "Nurkhan Zhumagazy",
           "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%8C%E3%83%AB%E3%83%8F%E3%83%B3%E3%83%BB%E3%82%BA%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%BC",
-          "style": "All-rounder",
+          "style": "Striker",
           "countryCode": "KZ",
           "birthDate": "2001-01-06",
           "record": "2-0-0",
@@ -2691,7 +2771,7 @@
         "red": {
           "name": "Mac Papalii",
           "profileUrl": "https://jp.rizinff.com/_tags/%E3%83%9E%E3%83%83%E3%82%AF%E3%83%BB%E3%83%91%E3%83%91%E3%83%AA%E3%82%A4",
-          "style": "All-rounder",
+          "style": "Striker",
           "countryCode": "WS",
           "birthDate": "1999-03-12",
           "record": null,
@@ -2715,7 +2795,7 @@
         "red": {
           "name": "Hiroaki Suzuki",
           "profileUrl": "https://jp.rizinff.com/_tags/%E9%88%B4%E6%9C%A8%E5%8D%9A%E6%98%AD",
-          "style": "All-rounder",
+          "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1984-12-06",
           "record": "7-6-0",
@@ -2724,7 +2804,7 @@
         "blue": {
           "name": "Chiharu",
           "profileUrl": "https://jp.rizinff.com/_tags/%E5%8D%83%E6%98%A5",
-          "style": "All-rounder",
+          "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "2001-06-03",
           "record": null,
@@ -2739,7 +2819,7 @@
         "red": {
           "name": "Taichi Nakajima",
           "profileUrl": "https://jp.rizinff.com/_tags/%E4%B8%AD%E5%B3%B6%E5%A4%AA%E4%B8%80",
-          "style": "Grappler",
+          "style": "Striker",
           "countryCode": "JP",
           "birthDate": "1989-03-19",
           "record": "2-3-0",
@@ -2787,7 +2867,7 @@
         "red": {
           "name": "Takumi Hamada",
           "profileUrl": "https://jp.rizinff.com/_tags/%E6%BF%B1%E7%94%B0%E5%B7%A7",
-          "style": "Striker",
+          "style": "All-rounder",
           "countryCode": "JP",
           "birthDate": "1994-12-08",
           "record": null,
@@ -2811,7 +2891,7 @@
         "red": {
           "name": "Rikiya",
           "profileUrl": "https://jp.rizinff.com/_tags/%E5%8A%9B%E4%B9%9F2",
-          "style": "All-rounder",
+          "style": "Grappler",
           "countryCode": "JP",
           "birthDate": "1992-12-21",
           "record": null,
@@ -2820,13 +2900,13 @@
         "blue": {
           "name": "Rio Kimura",
           "profileUrl": "https://jp.rizinff.com/_tags/%E6%9C%A8%E6%9D%91%E7%90%89%E9%9F%B3",
-          "style": "All-rounder",
+          "style": "Striker",
           "countryCode": "JP",
           "birthDate": "2004-09-15",
           "record": null,
           "odds": null
         },
-        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds",
+        "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds · Title bout",
         "oddsHistory": []
       },
       {
