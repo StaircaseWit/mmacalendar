@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-06T14:21:26.351Z",
+  "lastCheckedAt": "2026-11-09T16:28:05.706Z",
   "fights": {
     "one::693657db2fbf6a23229602bf::selina flores--stamp fairtex": [
       {
@@ -3500,6 +3500,74 @@
         "names": {
           "naoki inoue": "Naoki Inoue",
           "yrysbek tilenov": "Yrysbek Tilenov"
+        }
+      }
+    ],
+    "rizin::17852466::kyung pyo kim--nurkhan zhumagazy": [
+      {
+        "checkedAt": "2026-11-09T16:28:05.706Z",
+        "eventName": "RIZIN.55",
+        "sourceUrl": "https://www.bestfightodds.com/events/rizin-4451",
+        "promotion": "rizin",
+        "eventId": "17852466",
+        "odds": {
+          "kyung pyo kim": "+200",
+          "nurkhan zhumagazy": "-275"
+        },
+        "names": {
+          "kyung pyo kim": "Kyung Pyo Kim",
+          "nurkhan zhumagazy": "Nurkhan Zhumagazy"
+        }
+      }
+    ],
+    "rizin::17852466::taichi nakajima--tsukasa mizoguchi": [
+      {
+        "checkedAt": "2026-11-09T16:28:05.706Z",
+        "eventName": "RIZIN.55",
+        "sourceUrl": "https://www.bestfightodds.com/events/rizin-4451",
+        "promotion": "rizin",
+        "eventId": "17852466",
+        "odds": {
+          "taichi nakajima": "-105",
+          "tsukasa mizoguchi": "-125"
+        },
+        "names": {
+          "taichi nakajima": "Taichi Nakajima",
+          "tsukasa mizoguchi": "Tsukasa Mizoguchi"
+        }
+      }
+    ],
+    "rizin::17852466::daigo kuramoto--tatsuya “yanbo” saika": [
+      {
+        "checkedAt": "2026-11-09T16:28:05.706Z",
+        "eventName": "RIZIN.55",
+        "sourceUrl": "https://www.bestfightodds.com/events/rizin-4451",
+        "promotion": "rizin",
+        "eventId": "17852466",
+        "odds": {
+          "tatsuya “yanbo” saika": "+110",
+          "daigo kuramoto": "-150"
+        },
+        "names": {
+          "tatsuya “yanbo” saika": "Tatsuya “Yanbo” Saika",
+          "daigo kuramoto": "Daigo Kuramoto"
+        }
+      }
+    ],
+    "rizin::17852466::sho sekihara--takumi hamada": [
+      {
+        "checkedAt": "2026-11-09T16:28:05.706Z",
+        "eventName": "RIZIN.55",
+        "sourceUrl": "https://www.bestfightodds.com/events/rizin-4451",
+        "promotion": "rizin",
+        "eventId": "17852466",
+        "odds": {
+          "takumi hamada": "-138",
+          "sho sekihara": "+105"
+        },
+        "names": {
+          "takumi hamada": "Takumi Hamada",
+          "sho sekihara": "Sho Sekihara"
         }
       }
     ]

@@ -7376,7 +7376,7 @@
     "bouts": [
       {
         "id": "1585",
-        "order": 8,
+        "order": 9,
         "red": {
           "name": "Taylor Lapilus",
           "profileUrl": "https://pflmma.com/wt-fighter/taylor-lapilus",
@@ -7400,7 +7400,7 @@
       },
       {
         "id": "1589",
-        "order": 7,
+        "order": 8,
         "red": {
           "name": "Boris Atangana",
           "profileUrl": "https://pflmma.com/wt-fighter/boris-atangana",
@@ -7424,7 +7424,7 @@
       },
       {
         "id": "1600",
-        "order": 6,
+        "order": 7,
         "red": {
           "name": "Abdoul Abdouraguimov",
           "profileUrl": "https://pflmma.com/wt-fighter/abdoul-abdouraguimov",
@@ -7440,6 +7440,30 @@
           "countryCode": "RO",
           "birthDate": "1996-09-12",
           "record": "12-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1680",
+        "order": 6,
+        "red": {
+          "name": "Oualy Tandia",
+          "profileUrl": "https://pflmma.com/wt-fighter/oualy-tandia",
+          "countryCode": null,
+          "birthDate": "2002-05-12",
+          "record": "6-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Alex Lohoré",
+          "profileUrl": "https://pflmma.com/wt-fighter/alex-lohor%C3%A9",
+          "countryCode": "GB",
+          "birthDate": "1989-12-18",
+          "record": "26-12-0",
           "style": null,
           "odds": null
         },

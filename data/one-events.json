@@ -9896,7 +9896,7 @@
   {
     "uid": "6a968ba710c90c3a3d15f98b",
     "start": "20261106T113018Z",
-    "end": "20261106T163018Z",
+    "end": "20261106T163041Z",
     "summary": "ONE Friday Fights 177 & The Inner Circle 37",
     "location": "Lumpinee Stadium, Bangkok",
     "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-177\n\nIsannuea Sor Sasiwat vs. Jack Siatanyokkrok PK | Muay Thai | Bantamweight\n\nSaksri Superlek Muaythai vs. Superball Sitcho | Muay Thai | Flyweight\n\nChatpet NP Suablackmuaythai vs. Saipetlek Rongsamak Orborjor Udon Thani | Muay Thai | Atomweight\n\nPetdam BS Muaythai vs. Chaisongkram Looksuan | Muay Thai | Atomweight\n\nKlinphaka Por Thaisong vs. Ran Longshu | Muay Thai | Atomweight\n\nPhun Suea Muang vs. Kazuteru Yamazaki | Kickboxing | Flyweight\n\nBos Chayut vs. Kentaro Okumura | Mixed Martial Arts | Bantamweight\n\nOkazaki Silkmuaythai vs. Yuto | Kickboxing | Atomweight\n\nMarat Jankovskij vs. Retsu Sashida | Kickboxing | Flyweight\n\nChristian Lee vs. Tye Ruotolo | Lightweight World Championship\n\nKomawut FA Group vs. Yodphupa Petkiatpet | Muay Thai | Bantamweight\n\nKongchai Chanaidonmueang  vs. Tantawy Ahmed | Muay Thai | Flyweight\n\nTitus Proctor vs. Maciej Karpinski | Muay Thai | Lightweight\n\nCal Cook vs. Dabdam Por Tor Tor Thongtawee | Muay Thai | Strawweight\n\nDownload the ONE Super App Now!",
@@ -10289,7 +10289,7 @@
   {
     "uid": "693659a52fbf6a23229602c3",
     "start": "20261107T020000Z",
-    "end": "20261107T080000Z",
+    "end": "20261107T055137Z",
     "summary": "ONE Fight Night 49",
     "location": "Lumpinee Stadium, Bangkok",
     "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/onefightnight49\n\nLucas Gabriel vs. Magomed  Magomedov | Mixed Martial Arts | Lightweight\n\nKongthoranee Sor Sommai vs. Taiki Naito | Kickboxing | Flyweight\n\nLee Seung Cheol vs. Nazareth Lalthazuala | Mixed Martial Arts | Strawweight\n\nNontachai Jitmuangnon vs. Felipe Lobo | Muay Thai | Bantamweight\n\nZhou  Jiaqiang vs. Mamuka Usubyan | Kickboxing | Featherweight\n\nVick Souza vs. Magdalena Czaban | Mixed Martial Arts | Atomweight\n\nBogdan Shumarov vs. Gasham  Mammadov | Kickboxing | Lightweight\n\nVictor  Hugo vs. Devhonte Johnson | Submission Grappling | Openweight\n\nKalandar Tabarov vs. Ilmadi Israilov | Mixed Martial Arts | Bantamweight\n\nDownload the ONE Super App Now!",
@@ -10517,8 +10517,8 @@
         "details": "Openweight Submission Grappling",
         "redProfileUrl": "https://www.onefc.com/athletes/victor-hugo-costa-marques/",
         "blueProfileUrl": "https://www.onefc.com/athletes/devhonte-johnson/",
-        "redCountry": null,
-        "blueCountry": null,
+        "redCountry": "Brazil",
+        "blueCountry": "United States",
         "redStyle": "Grappler",
         "blueStyle": "Grappler",
         "redOdds": "-800",
@@ -10539,7 +10539,11 @@
               "devhonte johnson": "Devhonte Johnson"
             }
           }
-        ]
+        ],
+        "redAge": 29,
+        "redRecord": "1-0-0",
+        "blueAge": 32,
+        "blueRecord": "0-1-0"
       },
       {
         "redName": "Kalandar Tabarov",
@@ -10928,7 +10932,7 @@
       {
         "redName": "Nico Carrillo",
         "blueName": "Nabil Anane",
-        "details": "Featherweight Muay Thai World Championship",
+        "details": "Featherweight World Championship",
         "redProfileUrl": "https://www.onefc.com/athletes/nico-carrillo/",
         "blueProfileUrl": "https://www.onefc.com/athletes/nabil-anane/",
         "redCountry": "Scotland",
@@ -10946,7 +10950,7 @@
       {
         "redName": "Prajanchai Pongsuphan PK",
         "blueName": "Aliff Sor Dechapan",
-        "details": "Strawweight Muay Thai World Championship Unification",
+        "details": "Strawweight World Championship",
         "redProfileUrl": "https://www.onefc.com/athletes/prajanchai/",
         "blueProfileUrl": "https://www.onefc.com/athletes/aliff-sor-dechapan/",
         "redCountry": "Thailand",

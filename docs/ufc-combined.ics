@@ -3727,8 +3727,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-combined@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261106T142126Z
-SEQUENCE:12
+LAST-MODIFIED:20261109T162805Z
+SEQUENCE:13
 DTSTART:20261114T220000Z
 DTEND:20261115T050000Z
 SUMMARY:UFC 334: Gane vs Hokit
@@ -3739,10 +3739,10 @@ DESCRIPTION:UFC · Complete Event · 13 announced bouts\n📍 Madison Squar
  𝘂𝘁𝘀 ──\n\n🥊 13. 𝗖𝗶𝗿𝘆𝗹 𝗚𝗮𝗻𝗲 (C) 
  🇫🇷 vs. 𝗝𝗼𝘀𝗵 𝗛𝗼𝗸𝗶𝘁 (#4) 🇺🇸\n• 265l
  bs/120kg Heavyweight · Title Bout\n• Gane: 14-2-0 | 36yo | Muay Thai | 
- -194 (1.52)\n• Hokit: 10-0-0 | 29yo | Wrestling | +210 (3.10)\n• Odds 
- history:\n  ◦ 30 Oct: Gane 🟢 -250 (1.40) | Hokit 🔴 +210 (3.10)\n  
- ◦ 2 Nov: Gane 🟢 -213 (1.47) | Hokit 🔴 +210 (3.10)\n  ◦ 6 Nov: Ga
- ne 🟢 -194 (1.52) | Hokit 🔴 +210 (3.10)\n  ◦ Earlier changes: see f
+ -186 (1.54)\n• Hokit: 10-0-0 | 29yo | Wrestling | +186 (2.86)\n• Odds 
+ history:\n  ◦ 2 Nov: Gane 🟢 -213 (1.47) | Hokit 🔴 +210 (3.10)\n  
+ ◦ 6 Nov: Gane 🟢 -194 (1.52) | Hokit 🔴 +210 (3.10)\n  ◦ 9 Nov: Ga
+ ne 🟢 -186 (1.54) | Hokit 🔴 +186 (2.86)\n  ◦ Earlier changes: see f
  ull odds log\n\n🥊 12. 𝗞𝗮𝘆𝗹𝗮 𝗛𝗮𝗿𝗿𝗶𝘀𝗼
  𝗻 (C) 🇺🇸 vs. 𝗔𝗺𝗮𝗻𝗱𝗮 𝗡𝘂𝗻𝗲𝘀 🇧
  🇷\n• 135lbs/61kg Women's Bantamweight · Title Bout\n• Harrison: 19
@@ -3752,75 +3752,82 @@ DESCRIPTION:UFC · Complete Event · 13 announced bouts\n📍 Madison Squar
  163 (2.63)\n\n🥊 11. 𝗖𝗮𝗶𝗼 𝗕𝗼𝗿𝗿𝗮𝗹𝗵𝗼 (
  #5) 🇧🇷 vs. 𝗬𝗼𝘂𝘀𝗿𝗶 𝗕𝗲𝗹𝗴𝗮𝗿𝗼𝘂
  𝗶 🇳🇱\n• 185lbs/84kg Middleweight\n• Borralho: 18-2-0 | 33yo |
-  MMA | -144 (1.69)\n• Belgaroui: 11-3-0 | 34yo | Striker | +138 (2.38)\n
- • Odds history:\n  ◦ 30 Oct: Borralho 🟢 -137 (1.73) | Belgaroui 
- 🔴 +112 (2.12)\n  ◦ 2 Nov: Borralho 🟢 -138 (1.72) | Belgaroui 🔴 
- +144 (2.44)\n  ◦ 6 Nov: Borralho 🟢 -144 (1.69) | Belgaroui 🔴 +138 
- (2.38)\n\n🥊 10. 𝗨𝗿𝗼š 𝗠𝗲𝗱𝗶ć (#12) 🇷🇸 vs. 
- 𝗞𝗲𝘃𝗶𝗻 𝗛𝗼𝗹𝗹𝗮𝗻𝗱 (#15) 🇺🇸\n• 170l
- bs/77kg Welterweight\n• Medic: 14-3-0 | 33yo | MMA | -163 (1.61)\n• Ho
- lland: 29-15-0 | 34yo | Kung Fu | +170 (2.70)\n• Odds history:\n  ◦ 30
-  Oct: Medic 🟢 -162 (1.62) | Holland 🔴 +130 (2.30)\n  ◦ 2 Nov: Medi
- c 🟢 -150 (1.67) | Holland 🔴 +144 (2.44)\n  ◦ 6 Nov: Medic 🟢 -16
- 3 (1.61) | Holland 🔴 +170 (2.70)\n\n🥊 9. 𝗕𝗶𝗹𝗮𝗹 𝗛
- 𝗮𝘀𝗮𝗻 🇮🇩 vs. 𝗟𝘂𝗶𝘀 𝗚𝘂𝗿𝘂𝗹𝗲 
- 🇺🇸\n• 125lbs/57kg Flyweight\n• Hasan: 10-0-0 | 25yo | MMA | -567
-  (1.18)\n• Gurule: 11-3-0 | 32yo | +600 (7.00)\n• Odds history:\n  ◦
-  30 Oct: Hasan 🟢 -910 (1.11) | Gurule 🔴 +600 (7.00)\n  ◦ 2 Nov: Ha
- san 🟢 -809 (1.12) | Gurule 🔴 +733 (8.33)\n  ◦ 6 Nov: Hasan 🟢 -5
- 67 (1.18) | Gurule 🔴 +600 (7.00)\n\n── 𝗣𝗥𝗘𝗟𝗜𝗠𝗦
-  · 𝟰 𝗯𝗼𝘂𝘁𝘀 ──\n\n🥊 8. 𝗦𝘁𝗲𝗽𝗵𝗲
- 𝗻 𝗧𝗵𝗼𝗺𝗽𝘀𝗼𝗻 🇺🇸 vs. 𝗖𝗵𝗮𝗿𝗹
- 𝗲𝘀 𝗥𝗮𝗱𝘁𝗸𝗲 🇺🇸\n• 170lbs/77kg Welterweight\n
- • Thompson: 17-9-1 | 43yo | Karate | -117 (1.85)\n• Radtke: 12-5-0 | 3
- 6yo | +118 (2.18)\n• Odds history:\n  ◦ 2 Nov: Thompson 🟢 -117 (1.8
- 5) | Radtke 🔴 +113 (2.13)\n  ◦ 6 Nov: Thompson 🟢 -117 (1.85) | Rad
- tke 🔴 +118 (2.18)\n\n🥊 7. 𝗗𝗿𝗲𝘄 𝗗𝗼𝗯𝗲𝗿 🇺
- 🇸 vs. 𝗖𝗵𝗿𝗶𝘀 𝗗𝘂𝗻𝗰𝗮𝗻 🇸🇫\n• 155lb
- s/70kg Lightweight\n• Dober: 29-15-0 | 38yo | Freestyle | +144 (2.44)\n
- • Duncan: 15-3-0 | 33yo | Striker | -150 (1.67)\n• Odds history:\n  
- ◦ 2 Nov: Dober 🔴 +133 (2.33) | Duncan 🟢 -138 (1.72)\n  ◦ 6 Nov: 
- Dober 🔴 +144 (2.44) | Duncan 🟢 -150 (1.67)\n\n🥊 6. 𝗝𝗶𝗺 
- 𝗠𝗶𝗹𝗹𝗲𝗿 🇺🇸 vs. 𝗧𝗲𝗿𝗿𝗮𝗻𝗰𝗲 
- 𝗠𝗰𝗞𝗶𝗻𝗻𝗲𝘆 🇺🇸\n• 155lbs/70kg Lightweight\n
- • Miller: 39-19-0 | 43yo | Jiu-Jitsu | +203 (3.03)\n• McKinney: 18-9-0
-  | 32yo | MMA | -213 (1.47)\n• Odds history:\n  ◦ 2 Nov: Miller 🔴 +
- 186 (2.86) | McKinney 🟢 -194 (1.52)\n  ◦ 6 Nov: Miller 🔴 +203 (3.0
- 3) | McKinney 🟢 -213 (1.47)\n\n🥊 5. 𝗗𝗼𝗻𝘁𝗲 𝗝𝗼
- 𝗵𝗻𝘀𝗼𝗻 🇺🇸 vs. 𝗖𝗲𝘀𝗮𝗿 𝗔𝗹𝗺𝗲
- 𝗶𝗱𝗮 🇧🇷\n• 185lbs/84kg Middleweight\n• Johnson: 9-0-0 | 
- 27yo | MMA | -180 (1.56)\n• Almeida: 7-3-0 | 38yo | Striker | +178 (2.78
- )\n• Odds history:\n  ◦ 2 Nov: Johnson 🟢 -150 (1.67) | Almeida 🔴
-  +144 (2.44)\n  ◦ 6 Nov: Johnson 🟢 -180 (1.56) | Almeida 🔴 +178 (2
- .78)\n\n── 𝗘𝗔𝗥𝗟𝗬 𝗣𝗥𝗘𝗟𝗜𝗠𝗦 · 𝟰 
- 𝗯𝗼𝘂𝘁𝘀 ──\n\n🥊 4. 𝗝𝗮𝗿𝗲𝗱 𝗚𝗼𝗿
- 𝗱𝗼𝗻 🇺🇸 vs. 𝗠𝗲𝗹𝗾𝘂𝗶𝘇𝗮𝗲𝗹 𝗖
- 𝗼𝘀𝘁𝗮 🇧🇷\n• 155lbs/70kg Lightweight\n• Gordon: 21-9-0
-  | 38yo | Freestyle | +376 (4.76)\n• Costa: 26-7-0 | 30yo | MMA | -380 (
- 1.26)\n• Odds history:\n  ◦ 6 Nov: Gordon 🔴 +376 (4.76) | Costa 
- 🟢 -380 (1.26)\n\n🥊 3. 𝗠𝗮𝗰𝘆 𝗖𝗵𝗶𝗮𝘀𝘀𝗼
- 𝗻 (#9) 🇺🇸 vs. 𝗕𝗶𝗮 𝗠𝗲𝘀𝗾𝘂𝗶𝘁𝗮 (#11)
-  🇧🇷\n• 135lbs/61kg Women's Bantamweight\n• Chiasson: 11-6-0 | 35
- yo | MMA | +186 (2.86)\n• Mesquita: 8-0-0 | 35yo | Brazilian Jiu-Jitsu |
-  -194 (1.52)\n• Odds history:\n  ◦ 2 Nov: Chiasson 🔴 +194 (2.94) | 
- Mesquita 🟢 -203 (1.49)\n  ◦ 6 Nov: Chiasson 🔴 +186 (2.86) | Mesqui
- ta 🟢 -194 (1.52)\n\n🥊 2. 𝗔𝗱𝗿𝗶𝗮𝗻 𝗬𝗮𝗻𝗲
- 𝘇 🇺🇸 vs. 𝗝𝘂𝗮𝗻 𝗗𝗶𝗮𝘇 🇵🇪\n• 135lbs/6
- 1kg Bantamweight\n• Yanez: 18-6-1 | 32yo | Boxer\n• Diaz: 16-1-1 | 28y
- o | MMA\n• Odds history: not checked yet\n\n🥊 1. 𝗘𝘃𝗮𝗻 
- 𝗘𝗹𝗱𝗲𝗿 🇺🇸 vs. 𝗦𝗮𝗺𝘂𝗲𝗹 𝗦𝗮𝗻
- 𝗰𝗵𝗲𝘀 🇧🇷\n• 155lbs/70kg Lightweight\n• Elder: 10-2-0 
- | 29yo | MMA | -117 (1.85)\n• Sanches: 1-0-0 | 23yo | +113 (2.13)\n• O
- dds history:\n  ◦ 6 Nov: Elder 🟢 -117 (1.85) | Sanches 🔴 +113 (2.1
- 3)\n\n--------------------------------\n𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘
- 𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢𝗨𝗧𝗦\n-
- -------------------------------\n✕ Donte Johnson vs. Baisangur Susurkaev
-  · 185lbs/84kg Middleweight | Removed from the UFC card\n✕ Nazim Sadykh
- ov vs. Jefferson Nascimento · 155lbs/70kg Lightweight | Removed from the 
- UFC card\n\n--------------------------------\nSource: https://www.ufc.com/
- event/ufc-334\nOdds source: https://www.bestfightodds.com/ · best availab
- le line · checked Monday and Friday\nFull odds log: https://staircasewit.
- github.io/mmacalendar/odds-history.html\nEvent status: Scheduled
+  MMA | -150 (1.67)\n• Belgaroui: 11-3-0 | 34yo | Striker | +144 (2.44)\n
+ • Odds history:\n  ◦ 2 Nov: Borralho 🟢 -138 (1.72) | Belgaroui 🔴
+  +144 (2.44)\n  ◦ 6 Nov: Borralho 🟢 -144 (1.69) | Belgaroui 🔴 +138
+  (2.38)\n  ◦ 9 Nov: Borralho 🟢 -150 (1.67) | Belgaroui 🔴 +144 (2.4
+ 4)\n  ◦ Earlier changes: see full odds log\n\n🥊 10. 𝗨𝗿𝗼š 
+ 𝗠𝗲𝗱𝗶ć (#12) 🇷🇸 vs. 𝗞𝗲𝘃𝗶𝗻 𝗛𝗼𝗹
+ 𝗹𝗮𝗻𝗱 (#15) 🇺🇸\n• 170lbs/77kg Welterweight\n• Medic: 
+ 14-3-0 | 33yo | MMA | -144 (1.69)\n• Holland: 29-15-0 | 34yo | Kung Fu |
+  +138 (2.38)\n• Odds history:\n  ◦ 2 Nov: Medic 🟢 -150 (1.67) | Hol
+ land 🔴 +144 (2.44)\n  ◦ 6 Nov: Medic 🟢 -163 (1.61) | Holland 🔴 
+ +170 (2.70)\n  ◦ 9 Nov: Medic 🟢 -144 (1.69) | Holland 🔴 +138 (2.38
+ )\n  ◦ Earlier changes: see full odds log\n\n🥊 9. 𝗕𝗶𝗹𝗮
+ 𝗹 𝗛𝗮𝘀𝗮𝗻 🇮🇩 vs. 𝗟𝘂𝗶𝘀 𝗚𝘂𝗿𝘂
+ 𝗹𝗲 🇺🇸\n• 125lbs/57kg Flyweight\n• Hasan: 10-0-0 | 25yo | M
+ MA | -809 (1.12)\n• Gurule: 11-3-0 | 32yo | +733 (8.33)\n• Odds histor
+ y:\n  ◦ 2 Nov: Hasan 🟢 -809 (1.12) | Gurule 🔴 +733 (8.33)\n  ◦ 6
+  Nov: Hasan 🟢 -567 (1.18) | Gurule 🔴 +600 (7.00)\n  ◦ 9 Nov: Hasan
+  🟢 -809 (1.12) | Gurule 🔴 +733 (8.33)\n  ◦ Earlier changes: see fu
+ ll odds log\n\n── 𝗣𝗥𝗘𝗟𝗜𝗠𝗦 · 𝟰 𝗯𝗼𝘂
+ 𝘁𝘀 ──\n\n🥊 8. 𝗦𝘁𝗲𝗽𝗵𝗲𝗻 𝗧𝗵𝗼𝗺
+ 𝗽𝘀𝗼𝗻 🇺🇸 vs. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗥𝗮𝗱
+ 𝘁𝗸𝗲 🇺🇸\n• 170lbs/77kg Welterweight\n• Thompson: 17-9-1 
+ | 43yo | Karate | -137 (1.73)\n• Radtke: 12-5-0 | 36yo | +127 (2.27)\n
+ • Odds history:\n  ◦ 2 Nov: Thompson 🟢 -117 (1.85) | Radtke 🔴 +1
+ 13 (2.13)\n  ◦ 6 Nov: Thompson 🟢 -117 (1.85) | Radtke 🔴 +118 (2.18
+ )\n  ◦ 9 Nov: Thompson 🟢 -137 (1.73) | Radtke 🔴 +127 (2.27)\n\n
+ 🥊 7. 𝗗𝗿𝗲𝘄 𝗗𝗼𝗯𝗲𝗿 🇺🇸 vs. 𝗖𝗵𝗿
+ 𝗶𝘀 𝗗𝘂𝗻𝗰𝗮𝗻 🇸🇫\n• 155lbs/70kg Lightweight\n
+ • Dober: 29-15-0 | 38yo | Freestyle | +144 (2.44)\n• Duncan: 15-3-0 | 
+ 33yo | Striker | -150 (1.67)\n• Odds history:\n  ◦ 2 Nov: Dober 🔴 +
+ 133 (2.33) | Duncan 🟢 -138 (1.72)\n  ◦ 6 Nov: Dober 🔴 +144 (2.44) 
+ | Duncan 🟢 -150 (1.67)\n\n🥊 6. 𝗝𝗶𝗺 𝗠𝗶𝗹𝗹𝗲𝗿
+  🇺🇸 vs. 𝗧𝗲𝗿𝗿𝗮𝗻𝗰𝗲 𝗠𝗰𝗞𝗶𝗻𝗻
+ 𝗲𝘆 🇺🇸\n• 155lbs/70kg Lightweight\n• Miller: 39-19-0 | 43yo
+  | Jiu-Jitsu | +186 (2.86)\n• McKinney: 18-9-0 | 32yo | MMA | -194 (1.52
+ )\n• Odds history:\n  ◦ 2 Nov: Miller 🔴 +186 (2.86) | McKinney 🟢
+  -194 (1.52)\n  ◦ 6 Nov: Miller 🔴 +203 (3.03) | McKinney 🟢 -213 (1
+ .47)\n  ◦ 9 Nov: Miller 🔴 +186 (2.86) | McKinney 🟢 -194 (1.52)\n\n
+ 🥊 5. 𝗗𝗼𝗻𝘁𝗲 𝗝𝗼𝗵𝗻𝘀𝗼𝗻 🇺🇸 vs. 
+ 𝗖𝗲𝘀𝗮𝗿 𝗔𝗹𝗺𝗲𝗶𝗱𝗮 🇧🇷\n• 185lbs/84k
+ g Middleweight\n• Johnson: 9-0-0 | 27yo | MMA | -180 (1.56)\n• Almeida
+ : 7-3-0 | 38yo | Striker | +178 (2.78)\n• Odds history:\n  ◦ 2 Nov: Jo
+ hnson 🟢 -150 (1.67) | Almeida 🔴 +144 (2.44)\n  ◦ 6 Nov: Johnson 
+ 🟢 -180 (1.56) | Almeida 🔴 +178 (2.78)\n\n── 𝗘𝗔𝗥𝗟𝗬
+  𝗣𝗥𝗘𝗟𝗜𝗠𝗦 · 𝟰 𝗯𝗼𝘂𝘁𝘀 ──\n\n🥊 
+ 4. 𝗝𝗮𝗿𝗲𝗱 𝗚𝗼𝗿𝗱𝗼𝗻 🇺🇸 vs. 𝗠𝗲𝗹
+ 𝗾𝘂𝗶𝘇𝗮𝗲𝗹 𝗖𝗼𝘀𝘁𝗮 🇧🇷\n• 155lbs/70k
+ g Lightweight\n• Gordon: 21-9-0 | 38yo | Freestyle | +317 (4.17)\n• Co
+ sta: 26-7-0 | 30yo | MMA | -350 (1.29)\n• Odds history:\n  ◦ 6 Nov: Go
+ rdon 🔴 +376 (4.76) | Costa 🟢 -380 (1.26)\n  ◦ 9 Nov: Gordon 🔴 +
+ 317 (4.17) | Costa 🟢 -350 (1.29)\n\n🥊 3. 𝗠𝗮𝗰𝘆 𝗖𝗵
+ 𝗶𝗮𝘀𝘀𝗼𝗻 (#9) 🇺🇸 vs. 𝗕𝗶𝗮 𝗠𝗲𝘀𝗾
+ 𝘂𝗶𝘁𝗮 (#11) 🇧🇷\n• 135lbs/61kg Women's Bantamweight\n•
+  Chiasson: 11-6-0 | 35yo | MMA | +223 (3.23)\n• Mesquita: 8-0-0 | 35yo |
+  Brazilian Jiu-Jitsu | -215 (1.47)\n• Odds history:\n  ◦ 2 Nov: Chiass
+ on 🔴 +194 (2.94) | Mesquita 🟢 -203 (1.49)\n  ◦ 6 Nov: Chiasson 
+ 🔴 +186 (2.86) | Mesquita 🟢 -194 (1.52)\n  ◦ 9 Nov: Chiasson 🔴 +
+ 223 (3.23) | Mesquita 🟢 -215 (1.47)\n\n🥊 2. 𝗔𝗱𝗿𝗶𝗮𝗻
+  𝗬𝗮𝗻𝗲𝘇 🇺🇸 vs. 𝗝𝘂𝗮𝗻 𝗗𝗶𝗮𝘇 🇵
+ 🇪\n• 135lbs/61kg Bantamweight\n• Yanez: 18-6-1 | 32yo | Boxer\n• 
+ Diaz: 16-1-1 | 28yo | MMA\n• Odds history: not checked yet\n\n🥊 1. 
+ 𝗘𝘃𝗮𝗻 𝗘𝗹𝗱𝗲𝗿 🇺🇸 vs. 𝗦𝗮𝗺𝘂𝗲
+ 𝗹 𝗦𝗮𝗻𝗰𝗵𝗲𝘀 🇧🇷\n• 155lbs/70kg Lightweight\n
+ • Elder: 10-2-0 | 29yo | MMA | -100 (2.00)\n• Sanches: 1-0-0 | 23yo | 
+ -107 (1.93)\n• Odds history:\n  ◦ 6 Nov: Elder 🟢 -117 (1.85) | Sanc
+ hes 🔴 +113 (2.13)\n  ◦ 9 Nov: Elder 🔴 -100 (2.00) | Sanches 🟢 -
+ 107 (1.93)\n\n--------------------------------\n𝗖𝗔𝗡𝗖𝗘𝗟
+ 𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢𝗨
+ 𝗧𝗦\n--------------------------------\n✕ Donte Johnson vs. Baisangu
+ r Susurkaev · 185lbs/84kg Middleweight | Removed from the UFC card\n✕ N
+ azim Sadykhov vs. Jefferson Nascimento · 155lbs/70kg Lightweight | Remove
+ d from the UFC card\n\n--------------------------------\nSource: https://w
+ ww.ufc.com/event/ufc-334\nOdds source: https://www.bestfightodds.com/ · b
+ est available line · checked Monday and Friday\nFull odds log: https://st
+ aircasewit.github.io/mmacalendar/odds-history.html\nEvent status: Schedule
+ d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 13 ann
  ounced bouts<br>📍 Madison Square Garden\, New York\, United States<br>
  🕒 22:00–Sun 05:00 Ireland<br><br>--------------------------------<br>
@@ -3828,11 +3835,11 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 13 ann
  𝗠𝗔𝗜𝗡 𝗖𝗔𝗥𝗗 · 𝟱 𝗯𝗼𝘂𝘁𝘀 ──<br><
  br>🥊 13. 𝗖𝗶𝗿𝘆𝗹 𝗚𝗮𝗻𝗲 (C) 🇫🇷 vs. 𝗝
  𝗼𝘀𝗵 𝗛𝗼𝗸𝗶𝘁 (#4) 🇺🇸<br>• 265lbs/120kg Heavyw
- eight · Title Bout<br>• Gane: 14-2-0 | 36yo | Muay Thai | -194 (1.52)<b
- r>• Hokit: 10-0-0 | 29yo | Wrestling | +210 (3.10)<br>• Odds history:<
- br>  ◦ 30 Oct: Gane 🟢 -250 (1.40) | Hokit 🔴 +210 (3.10)<br>  ◦ 2
-  Nov: Gane 🟢 -213 (1.47) | Hokit 🔴 +210 (3.10)<br>  ◦ 6 Nov: Gane 
- 🟢 -194 (1.52) | Hokit 🔴 +210 (3.10)<br>  ◦ Earlier changes: see fu
+ eight · Title Bout<br>• Gane: 14-2-0 | 36yo | Muay Thai | -186 (1.54)<b
+ r>• Hokit: 10-0-0 | 29yo | Wrestling | +186 (2.86)<br>• Odds history:<
+ br>  ◦ 2 Nov: Gane 🟢 -213 (1.47) | Hokit 🔴 +210 (3.10)<br>  ◦ 6 
+ Nov: Gane 🟢 -194 (1.52) | Hokit 🔴 +210 (3.10)<br>  ◦ 9 Nov: Gane 
+ 🟢 -186 (1.54) | Hokit 🔴 +186 (2.86)<br>  ◦ Earlier changes: see fu
  ll odds log<br><br>🥊 12. 𝗞𝗮𝘆𝗹𝗮 𝗛𝗮𝗿𝗿𝗶𝘀
  𝗼𝗻 (C) 🇺🇸 vs. 𝗔𝗺𝗮𝗻𝗱𝗮 𝗡𝘂𝗻𝗲𝘀 
  🇧🇷<br>• 135lbs/61kg Women&#39\;s Bantamweight · Title Bout<br>•
@@ -3842,79 +3849,85 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 13 ann
  70 (1.59) | Nunes 🔴 +163 (2.63)<br><br>🥊 11. 𝗖𝗮𝗶𝗼 𝗕
  𝗼𝗿𝗿𝗮𝗹𝗵𝗼 (#5) 🇧🇷 vs. 𝗬𝗼𝘂𝘀𝗿𝗶 
  𝗕𝗲𝗹𝗴𝗮𝗿𝗼𝘂𝗶 🇳🇱<br>• 185lbs/84kg Middlewei
- ght<br>• Borralho: 18-2-0 | 33yo | MMA | -144 (1.69)<br>• Belgaroui: 1
- 1-3-0 | 34yo | Striker | +138 (2.38)<br>• Odds history:<br>  ◦ 30 Oct:
-  Borralho 🟢 -137 (1.73) | Belgaroui 🔴 +112 (2.12)<br>  ◦ 2 Nov: Bo
- rralho 🟢 -138 (1.72) | Belgaroui 🔴 +144 (2.44)<br>  ◦ 6 Nov: Borra
- lho 🟢 -144 (1.69) | Belgaroui 🔴 +138 (2.38)<br><br>🥊 10. 𝗨𝗿
- 𝗼š 𝗠𝗲𝗱𝗶ć (#12) 🇷🇸 vs. 𝗞𝗲𝘃𝗶𝗻 𝗛𝗼
- 𝗹𝗹𝗮𝗻𝗱 (#15) 🇺🇸<br>• 170lbs/77kg Welterweight<br>•
-  Medic: 14-3-0 | 33yo | MMA | -163 (1.61)<br>• Holland: 29-15-0 | 34yo |
-  Kung Fu | +170 (2.70)<br>• Odds history:<br>  ◦ 30 Oct: Medic 🟢 -1
- 62 (1.62) | Holland 🔴 +130 (2.30)<br>  ◦ 2 Nov: Medic 🟢 -150 (1.67
- ) | Holland 🔴 +144 (2.44)<br>  ◦ 6 Nov: Medic 🟢 -163 (1.61) | Holl
- and 🔴 +170 (2.70)<br><br>🥊 9. 𝗕𝗶𝗹𝗮𝗹 𝗛𝗮𝘀𝗮
- 𝗻 🇮🇩 vs. 𝗟𝘂𝗶𝘀 𝗚𝘂𝗿𝘂𝗹𝗲 🇺🇸<br>
- • 125lbs/57kg Flyweight<br>• Hasan: 10-0-0 | 25yo | MMA | -567 (1.18)<
- br>• Gurule: 11-3-0 | 32yo | +600 (7.00)<br>• Odds history:<br>  ◦ 3
- 0 Oct: Hasan 🟢 -910 (1.11) | Gurule 🔴 +600 (7.00)<br>  ◦ 2 Nov: Ha
- san 🟢 -809 (1.12) | Gurule 🔴 +733 (8.33)<br>  ◦ 6 Nov: Hasan 🟢 
- -567 (1.18) | Gurule 🔴 +600 (7.00)<br><br>── 𝗣𝗥𝗘𝗟𝗜
- 𝗠𝗦 · 𝟰 𝗯𝗼𝘂𝘁𝘀 ──<br><br>🥊 8. 𝗦𝘁𝗲
- 𝗽𝗵𝗲𝗻 𝗧𝗵𝗼𝗺𝗽𝘀𝗼𝗻 🇺🇸 vs. 𝗖𝗵
- 𝗮𝗿𝗹𝗲𝘀 𝗥𝗮𝗱𝘁𝗸𝗲 🇺🇸<br>• 170lbs/77kg 
- Welterweight<br>• Thompson: 17-9-1 | 43yo | Karate | -117 (1.85)<br>• 
- Radtke: 12-5-0 | 36yo | +118 (2.18)<br>• Odds history:<br>  ◦ 2 Nov: T
- hompson 🟢 -117 (1.85) | Radtke 🔴 +113 (2.13)<br>  ◦ 6 Nov: Thompso
- n 🟢 -117 (1.85) | Radtke 🔴 +118 (2.18)<br><br>🥊 7. 𝗗𝗿𝗲
- 𝘄 𝗗𝗼𝗯𝗲𝗿 🇺🇸 vs. 𝗖𝗵𝗿𝗶𝘀 𝗗𝘂𝗻
- 𝗰𝗮𝗻 🇸🇫<br>• 155lbs/70kg Lightweight<br>• Dober: 29-15-0
-  | 38yo | Freestyle | +144 (2.44)<br>• Duncan: 15-3-0 | 33yo | Striker |
-  -150 (1.67)<br>• Odds history:<br>  ◦ 2 Nov: Dober 🔴 +133 (2.33) |
-  Duncan 🟢 -138 (1.72)<br>  ◦ 6 Nov: Dober 🔴 +144 (2.44) | Duncan 
- 🟢 -150 (1.67)<br><br>🥊 6. 𝗝𝗶𝗺 𝗠𝗶𝗹𝗹𝗲𝗿 🇺
- 🇸 vs. 𝗧𝗲𝗿𝗿𝗮𝗻𝗰𝗲 𝗠𝗰𝗞𝗶𝗻𝗻𝗲𝘆
-  🇺🇸<br>• 155lbs/70kg Lightweight<br>• Miller: 39-19-0 | 43yo | J
- iu-Jitsu | +203 (3.03)<br>• McKinney: 18-9-0 | 32yo | MMA | -213 (1.47)<
- br>• Odds history:<br>  ◦ 2 Nov: Miller 🔴 +186 (2.86) | McKinney 
- 🟢 -194 (1.52)<br>  ◦ 6 Nov: Miller 🔴 +203 (3.03) | McKinney 🟢 -
- 213 (1.47)<br><br>🥊 5. 𝗗𝗼𝗻𝘁𝗲 𝗝𝗼𝗵𝗻𝘀𝗼
- 𝗻 🇺🇸 vs. 𝗖𝗲𝘀𝗮𝗿 𝗔𝗹𝗺𝗲𝗶𝗱𝗮 🇧
- 🇷<br>• 185lbs/84kg Middleweight<br>• Johnson: 9-0-0 | 27yo | MMA | 
- -180 (1.56)<br>• Almeida: 7-3-0 | 38yo | Striker | +178 (2.78)<br>• Od
- ds history:<br>  ◦ 2 Nov: Johnson 🟢 -150 (1.67) | Almeida 🔴 +144 (
- 2.44)<br>  ◦ 6 Nov: Johnson 🟢 -180 (1.56) | Almeida 🔴 +178 (2.78)<
- br><br>── 𝗘𝗔𝗥𝗟𝗬 𝗣𝗥𝗘𝗟𝗜𝗠𝗦 · 𝟰 
- 𝗯𝗼𝘂𝘁𝘀 ──<br><br>🥊 4. 𝗝𝗮𝗿𝗲𝗱 𝗚𝗼
- 𝗿𝗱𝗼𝗻 🇺🇸 vs. 𝗠𝗲𝗹𝗾𝘂𝗶𝘇𝗮𝗲𝗹 
- 𝗖𝗼𝘀𝘁𝗮 🇧🇷<br>• 155lbs/70kg Lightweight<br>• Gordon
- : 21-9-0 | 38yo | Freestyle | +376 (4.76)<br>• Costa: 26-7-0 | 30yo | MM
- A | -380 (1.26)<br>• Odds history:<br>  ◦ 6 Nov: Gordon 🔴 +376 (4.7
- 6) | Costa 🟢 -380 (1.26)<br><br>🥊 3. 𝗠𝗮𝗰𝘆 𝗖𝗵𝗶
- 𝗮𝘀𝘀𝗼𝗻 (#9) 🇺🇸 vs. 𝗕𝗶𝗮 𝗠𝗲𝘀𝗾𝘂
- 𝗶𝘁𝗮 (#11) 🇧🇷<br>• 135lbs/61kg Women&#39\;s Bantamweight<b
- r>• Chiasson: 11-6-0 | 35yo | MMA | +186 (2.86)<br>• Mesquita: 8-0-0 |
-  35yo | Brazilian Jiu-Jitsu | -194 (1.52)<br>• Odds history:<br>  ◦ 2 
- Nov: Chiasson 🔴 +194 (2.94) | Mesquita 🟢 -203 (1.49)<br>  ◦ 6 Nov:
-  Chiasson 🔴 +186 (2.86) | Mesquita 🟢 -194 (1.52)<br><br>🥊 2. 𝗔
- 𝗱𝗿𝗶𝗮𝗻 𝗬𝗮𝗻𝗲𝘇 🇺🇸 vs. 𝗝𝘂𝗮𝗻 
- 𝗗𝗶𝗮𝘇 🇵🇪<br>• 135lbs/61kg Bantamweight<br>• Yanez: 18
- -6-1 | 32yo | Boxer<br>• Diaz: 16-1-1 | 28yo | MMA<br>• Odds history: 
- not checked yet<br><br>🥊 1. 𝗘𝘃𝗮𝗻 𝗘𝗹𝗱𝗲𝗿 🇺
- 🇸 vs. 𝗦𝗮𝗺𝘂𝗲𝗹 𝗦𝗮𝗻𝗰𝗵𝗲𝘀 🇧🇷<br
- >• 155lbs/70kg Lightweight<br>• Elder: 10-2-0 | 29yo | MMA | -117 (1.8
- 5)<br>• Sanches: 1-0-0 | 23yo | +113 (2.13)<br>• Odds history:<br>  
- ◦ 6 Nov: Elder 🟢 -117 (1.85) | Sanches 🔴 +113 (2.13)<br><br>------
- --------------------------<br>𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢
- 𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢𝗨𝗧𝗦<br>--------
- ------------------------<br>✕ Donte Johnson vs. Baisangur Susurkaev · 1
- 85lbs/84kg Middleweight | Removed from the UFC card<br>✕ Nazim Sadykhov 
- vs. Jefferson Nascimento · 155lbs/70kg Lightweight | Removed from the UFC
-  card<br><br>--------------------------------<br>Source: https://www.ufc.c
- om/event/ufc-334<br>Odds source: https://www.bestfightodds.com/ · best av
- ailable line · checked Monday and Friday<br>Full odds log: https://stairc
- asewit.github.io/mmacalendar/odds-history.html<br>Event status: Scheduled<
- /p></body></html>
+ ght<br>• Borralho: 18-2-0 | 33yo | MMA | -150 (1.67)<br>• Belgaroui: 1
+ 1-3-0 | 34yo | Striker | +144 (2.44)<br>• Odds history:<br>  ◦ 2 Nov: 
+ Borralho 🟢 -138 (1.72) | Belgaroui 🔴 +144 (2.44)<br>  ◦ 6 Nov: Bor
+ ralho 🟢 -144 (1.69) | Belgaroui 🔴 +138 (2.38)<br>  ◦ 9 Nov: Borral
+ ho 🟢 -150 (1.67) | Belgaroui 🔴 +144 (2.44)<br>  ◦ Earlier changes:
+  see full odds log<br><br>🥊 10. 𝗨𝗿𝗼š 𝗠𝗲𝗱𝗶ć (#12)
+  🇷🇸 vs. 𝗞𝗲𝘃𝗶𝗻 𝗛𝗼𝗹𝗹𝗮𝗻𝗱 (#15) 🇺
+ 🇸<br>• 170lbs/77kg Welterweight<br>• Medic: 14-3-0 | 33yo | MMA | -
+ 144 (1.69)<br>• Holland: 29-15-0 | 34yo | Kung Fu | +138 (2.38)<br>• O
+ dds history:<br>  ◦ 2 Nov: Medic 🟢 -150 (1.67) | Holland 🔴 +144 (2
+ .44)<br>  ◦ 6 Nov: Medic 🟢 -163 (1.61) | Holland 🔴 +170 (2.70)<br>
+   ◦ 9 Nov: Medic 🟢 -144 (1.69) | Holland 🔴 +138 (2.38)<br>  ◦ Ea
+ rlier changes: see full odds log<br><br>🥊 9. 𝗕𝗶𝗹𝗮𝗹 𝗛
+ 𝗮𝘀𝗮𝗻 🇮🇩 vs. 𝗟𝘂𝗶𝘀 𝗚𝘂𝗿𝘂𝗹𝗲 
+ 🇺🇸<br>• 125lbs/57kg Flyweight<br>• Hasan: 10-0-0 | 25yo | MMA | 
+ -809 (1.12)<br>• Gurule: 11-3-0 | 32yo | +733 (8.33)<br>• Odds history
+ :<br>  ◦ 2 Nov: Hasan 🟢 -809 (1.12) | Gurule 🔴 +733 (8.33)<br>  
+ ◦ 6 Nov: Hasan 🟢 -567 (1.18) | Gurule 🔴 +600 (7.00)<br>  ◦ 9 Nov
+ : Hasan 🟢 -809 (1.12) | Gurule 🔴 +733 (8.33)<br>  ◦ Earlier change
+ s: see full odds log<br><br>── 𝗣𝗥𝗘𝗟𝗜𝗠𝗦 · 𝟰 
+ 𝗯𝗼𝘂𝘁𝘀 ──<br><br>🥊 8. 𝗦𝘁𝗲𝗽𝗵𝗲𝗻 
+ 𝗧𝗵𝗼𝗺𝗽𝘀𝗼𝗻 🇺🇸 vs. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀
+  𝗥𝗮𝗱𝘁𝗸𝗲 🇺🇸<br>• 170lbs/77kg Welterweight<br>• 
+ Thompson: 17-9-1 | 43yo | Karate | -137 (1.73)<br>• Radtke: 12-5-0 | 36y
+ o | +127 (2.27)<br>• Odds history:<br>  ◦ 2 Nov: Thompson 🟢 -117 (1
+ .85) | Radtke 🔴 +113 (2.13)<br>  ◦ 6 Nov: Thompson 🟢 -117 (1.85) |
+  Radtke 🔴 +118 (2.18)<br>  ◦ 9 Nov: Thompson 🟢 -137 (1.73) | Radtk
+ e 🔴 +127 (2.27)<br><br>🥊 7. 𝗗𝗿𝗲𝘄 𝗗𝗼𝗯𝗲𝗿 
+ 🇺🇸 vs. 𝗖𝗵𝗿𝗶𝘀 𝗗𝘂𝗻𝗰𝗮𝗻 🇸🇫<br>•
+  155lbs/70kg Lightweight<br>• Dober: 29-15-0 | 38yo | Freestyle | +144 (
+ 2.44)<br>• Duncan: 15-3-0 | 33yo | Striker | -150 (1.67)<br>• Odds his
+ tory:<br>  ◦ 2 Nov: Dober 🔴 +133 (2.33) | Duncan 🟢 -138 (1.72)<br>
+   ◦ 6 Nov: Dober 🔴 +144 (2.44) | Duncan 🟢 -150 (1.67)<br><br>🥊 
+ 6. 𝗝𝗶𝗺 𝗠𝗶𝗹𝗹𝗲𝗿 🇺🇸 vs. 𝗧𝗲𝗿𝗿𝗮
+ 𝗻𝗰𝗲 𝗠𝗰𝗞𝗶𝗻𝗻𝗲𝘆 🇺🇸<br>• 155lbs/70kg 
+ Lightweight<br>• Miller: 39-19-0 | 43yo | Jiu-Jitsu | +186 (2.86)<br>•
+  McKinney: 18-9-0 | 32yo | MMA | -194 (1.52)<br>• Odds history:<br>  ◦
+  2 Nov: Miller 🔴 +186 (2.86) | McKinney 🟢 -194 (1.52)<br>  ◦ 6 Nov
+ : Miller 🔴 +203 (3.03) | McKinney 🟢 -213 (1.47)<br>  ◦ 9 Nov: Mill
+ er 🔴 +186 (2.86) | McKinney 🟢 -194 (1.52)<br><br>🥊 5. 𝗗𝗼
+ 𝗻𝘁𝗲 𝗝𝗼𝗵𝗻𝘀𝗼𝗻 🇺🇸 vs. 𝗖𝗲𝘀𝗮
+ 𝗿 𝗔𝗹𝗺𝗲𝗶𝗱𝗮 🇧🇷<br>• 185lbs/84kg Middleweight
+ <br>• Johnson: 9-0-0 | 27yo | MMA | -180 (1.56)<br>• Almeida: 7-3-0 | 
+ 38yo | Striker | +178 (2.78)<br>• Odds history:<br>  ◦ 2 Nov: Johnson 
+ 🟢 -150 (1.67) | Almeida 🔴 +144 (2.44)<br>  ◦ 6 Nov: Johnson 🟢 -
+ 180 (1.56) | Almeida 🔴 +178 (2.78)<br><br>── 𝗘𝗔𝗥𝗟𝗬 
+ 𝗣𝗥𝗘𝗟𝗜𝗠𝗦 · 𝟰 𝗯𝗼𝘂𝘁𝘀 ──<br><br>
+ 🥊 4. 𝗝𝗮𝗿𝗲𝗱 𝗚𝗼𝗿𝗱𝗼𝗻 🇺🇸 vs. 𝗠
+ 𝗲𝗹𝗾𝘂𝗶𝘇𝗮𝗲𝗹 𝗖𝗼𝘀𝘁𝗮 🇧🇷<br>• 
+ 155lbs/70kg Lightweight<br>• Gordon: 21-9-0 | 38yo | Freestyle | +317 (4
+ .17)<br>• Costa: 26-7-0 | 30yo | MMA | -350 (1.29)<br>• Odds history:<
+ br>  ◦ 6 Nov: Gordon 🔴 +376 (4.76) | Costa 🟢 -380 (1.26)<br>  ◦ 
+ 9 Nov: Gordon 🔴 +317 (4.17) | Costa 🟢 -350 (1.29)<br><br>🥊 3. 
+ 𝗠𝗮𝗰𝘆 𝗖𝗵𝗶𝗮𝘀𝘀𝗼𝗻 (#9) 🇺🇸 vs. 𝗕
+ 𝗶𝗮 𝗠𝗲𝘀𝗾𝘂𝗶𝘁𝗮 (#11) 🇧🇷<br>• 135lbs/61k
+ g Women&#39\;s Bantamweight<br>• Chiasson: 11-6-0 | 35yo | MMA | +223 (3
+ .23)<br>• Mesquita: 8-0-0 | 35yo | Brazilian Jiu-Jitsu | -215 (1.47)<br>
+ • Odds history:<br>  ◦ 2 Nov: Chiasson 🔴 +194 (2.94) | Mesquita 
+ 🟢 -203 (1.49)<br>  ◦ 6 Nov: Chiasson 🔴 +186 (2.86) | Mesquita 🟢
+  -194 (1.52)<br>  ◦ 9 Nov: Chiasson 🔴 +223 (3.23) | Mesquita 🟢 -21
+ 5 (1.47)<br><br>🥊 2. 𝗔𝗱𝗿𝗶𝗮𝗻 𝗬𝗮𝗻𝗲𝘇 🇺
+ 🇸 vs. 𝗝𝘂𝗮𝗻 𝗗𝗶𝗮𝘇 🇵🇪<br>• 135lbs/61kg Ban
+ tamweight<br>• Yanez: 18-6-1 | 32yo | Boxer<br>• Diaz: 16-1-1 | 28yo |
+  MMA<br>• Odds history: not checked yet<br><br>🥊 1. 𝗘𝘃𝗮𝗻 
+ 𝗘𝗹𝗱𝗲𝗿 🇺🇸 vs. 𝗦𝗮𝗺𝘂𝗲𝗹 𝗦𝗮𝗻
+ 𝗰𝗵𝗲𝘀 🇧🇷<br>• 155lbs/70kg Lightweight<br>• Elder: 10-
+ 2-0 | 29yo | MMA | -100 (2.00)<br>• Sanches: 1-0-0 | 23yo | -107 (1.93)<
+ br>• Odds history:<br>  ◦ 6 Nov: Elder 🟢 -117 (1.85) | Sanches 🔴
+  +113 (2.13)<br>  ◦ 9 Nov: Elder 🔴 -100 (2.00) | Sanches 🟢 -107 (1
+ .93)<br><br>--------------------------------<br>𝗖𝗔𝗡𝗖𝗘𝗟
+ 𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢𝗨
+ 𝗧𝗦<br>--------------------------------<br>✕ Donte Johnson vs. Bais
+ angur Susurkaev · 185lbs/84kg Middleweight | Removed from the UFC card<br
+ >✕ Nazim Sadykhov vs. Jefferson Nascimento · 155lbs/70kg Lightweight | 
+ Removed from the UFC card<br><br>--------------------------------<br>Sourc
+ e: https://www.ufc.com/event/ufc-334<br>Odds source: https://www.bestfight
+ odds.com/ · best available line · checked Monday and Friday<br>Full odds
+  log: https://staircasewit.github.io/mmacalendar/odds-history.html<br>Even
+ t status: Scheduled</p></body></html>
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Complete Event
@@ -3923,8 +3936,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-november-21-2026-combined@ufc-detailed-calendar
 DTSTAMP:20260918T112058Z
-LAST-MODIFIED:20261106T142126Z
-SEQUENCE:4
+LAST-MODIFIED:20261109T162805Z
+SEQUENCE:5
 DTSTART:20261121T150000Z
 DTEND:20261121T210000Z
 SUMMARY:UFC Fight Night: Prochazka vs Stirling
@@ -3934,17 +3947,19 @@ DESCRIPTION:UFC · Complete Event · 9 announced bouts\n📍 ABHA Arena\, D
  𝗔𝗜𝗡 𝗖𝗔𝗥𝗗 · 𝟱 𝗯𝗼𝘂𝘁𝘀 ──\n\n🥊 
  9. 𝗝𝗶ří 𝗣𝗿𝗼𝗰𝗵á𝘇𝗸𝗮 (#2) 🇨🇿 vs. 𝗡
  𝗮𝘃𝗮𝗷𝗼 𝗦𝘁𝗶𝗿𝗹𝗶𝗻𝗴 (#5) 🇳🇿\n• 2
- 05lbs/93kg Light Heavyweight\n• Prochazka: 32-6-1 | 34yo | Karate | +110
-  (2.10)\n• Stirling: 11-0-0 | 29yo | Kickboxer | -138 (1.72)\n• Odds h
+ 05lbs/93kg Light Heavyweight\n• Prochazka: 32-6-1 | 34yo | Karate | +122
+  (2.22)\n• Stirling: 11-0-0 | 29yo | Kickboxer | -127 (1.79)\n• Odds h
  istory:\n  ◦ 6 Nov: Prochazka 🔴 +110 (2.10) | Stirling 🟢 -138 (1.7
- 2)\n\n🥊 8. 𝗔𝗹𝗷𝗮𝗺𝗮𝗶𝗻 𝗦𝘁𝗲𝗿𝗹𝗶
- 𝗻𝗴 (#4) 🇺🇸 vs. 𝗞𝗲𝘃𝗶𝗻 𝗩𝗮𝗹𝗹𝗲𝗷
- 𝗼𝘀 (#9) 🇦🇷\n• 145lbs/66kg Featherweight\n• Sterling: 26-5-
- 0 | 37yo | Kickboxer\n• Vallejos: 17-1-0 | 24yo | Striker\n• Odds hist
- ory: not checked yet\n\n🥊 7. 𝗗𝗮𝗻 𝗛𝗼𝗼𝗸𝗲𝗿 (#14
- ) 🇳🇿 vs. 𝗕𝗿𝗶𝗮𝗻 𝗢𝗿𝘁𝗲𝗴𝗮 🇺🇸\n•
-  155lbs/70kg Lightweight\n• Hooker: 24-15-0 | 36yo | MMA\n• Ortega: 16
- -5-0 | 35yo | Jiu-Jitsu\n• Odds history: not checked yet\n\n🥊 6. 𝗞
+ 2)\n  ◦ 9 Nov: Prochazka 🔴 +122 (2.22) | Stirling 🟢 -127 (1.79)\n\
+ n🥊 8. 𝗔𝗹𝗷𝗮𝗺𝗮𝗶𝗻 𝗦𝘁𝗲𝗿𝗹𝗶𝗻𝗴
+  (#4) 🇺🇸 vs. 𝗞𝗲𝘃𝗶𝗻 𝗩𝗮𝗹𝗹𝗲𝗷𝗼𝘀 (
+ #9) 🇦🇷\n• 145lbs/66kg Featherweight\n• Sterling: 26-5-0 | 37yo |
+  Kickboxer | +113 (2.13)\n• Vallejos: 17-1-0 | 24yo | Striker | -117 (1.
+ 85)\n• Odds history:\n  ◦ 9 Nov: Sterling 🔴 +113 (2.13) | Vallejos 
+ 🟢 -117 (1.85)\n\n🥊 7. 𝗗𝗮𝗻 𝗛𝗼𝗼𝗸𝗲𝗿 (#14) 
+ 🇳🇿 vs. 𝗕𝗿𝗶𝗮𝗻 𝗢𝗿𝘁𝗲𝗴𝗮 🇺🇸\n• 1
+ 55lbs/70kg Lightweight\n• Hooker: 24-15-0 | 36yo | MMA\n• Ortega: 16-5
+ -0 | 35yo | Jiu-Jitsu\n• Odds history: not checked yet\n\n🥊 6. 𝗞
  𝘆𝗼𝗷𝗶 𝗛𝗼𝗿𝗶𝗴𝘂𝗰𝗵𝗶 (#5) 🇯🇵 vs. 
  𝗔𝘀𝘂 𝗔𝗹𝗺𝗮𝗯𝗮𝘆𝗲𝘃 (#7) 🇰🇿\n• 125lb
  s/57kg Flyweight\n• Horiguchi: 36-6-0 | 36yo | MMA\n• Almabayev: 24-3-
@@ -3981,48 +3996,50 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 9 anno
  𝗗 · 𝟱 𝗯𝗼𝘂𝘁𝘀 ──<br><br>🥊 9. 𝗝𝗶ří 𝗣
  𝗿𝗼𝗰𝗵á𝘇𝗸𝗮 (#2) 🇨🇿 vs. 𝗡𝗮𝘃𝗮𝗷𝗼 
  𝗦𝘁𝗶𝗿𝗹𝗶𝗻𝗴 (#5) 🇳🇿<br>• 205lbs/93kg Light He
- avyweight<br>• Prochazka: 32-6-1 | 34yo | Karate | +110 (2.10)<br>• St
- irling: 11-0-0 | 29yo | Kickboxer | -138 (1.72)<br>• Odds history:<br>  
- ◦ 6 Nov: Prochazka 🔴 +110 (2.10) | Stirling 🟢 -138 (1.72)<br><br>
- 🥊 8. 𝗔𝗹𝗷𝗮𝗺𝗮𝗶𝗻 𝗦𝘁𝗲𝗿𝗹𝗶𝗻𝗴 
- (#4) 🇺🇸 vs. 𝗞𝗲𝘃𝗶𝗻 𝗩𝗮𝗹𝗹𝗲𝗷𝗼𝘀 (#
- 9) 🇦🇷<br>• 145lbs/66kg Featherweight<br>• Sterling: 26-5-0 | 37y
- o | Kickboxer<br>• Vallejos: 17-1-0 | 24yo | Striker<br>• Odds history
- : not checked yet<br><br>🥊 7. 𝗗𝗮𝗻 𝗛𝗼𝗼𝗸𝗲𝗿 (#1
- 4) 🇳🇿 vs. 𝗕𝗿𝗶𝗮𝗻 𝗢𝗿𝘁𝗲𝗴𝗮 🇺🇸<br>
- • 155lbs/70kg Lightweight<br>• Hooker: 24-15-0 | 36yo | MMA<br>• Ort
- ega: 16-5-0 | 35yo | Jiu-Jitsu<br>• Odds history: not checked yet<br><br
- >🥊 6. 𝗞𝘆𝗼𝗷𝗶 𝗛𝗼𝗿𝗶𝗴𝘂𝗰𝗵𝗶 (#5) 
- 🇯🇵 vs. 𝗔𝘀𝘂 𝗔𝗹𝗺𝗮𝗯𝗮𝘆𝗲𝘃 (#7) 🇰
- 🇿<br>• 125lbs/57kg Flyweight<br>• Horiguchi: 36-6-0 | 36yo | MMA<br
- >• Almabayev: 24-3-0 | 32yo | Jiu-Jitsu<br>• Odds history: not checked
-  yet<br><br>🥊 5. 𝗝𝗮𝗿𝗲𝗱 𝗖𝗮𝗻𝗻𝗼𝗻𝗶𝗲
- 𝗿 (#12) 🇺🇸 vs. 𝗜𝗸𝗿𝗮𝗺 𝗔𝗹𝗶𝘀𝗸𝗲𝗿
- 𝗼𝘃 (#13) 🇷🇺<br>• 185lbs/84kg Middleweight<br>• Cannonier: 
- 18-10-0 | 42yo | Striker<br>• Aliskerov: 18-2-0 | 33yo | Sambo<br>• Od
- ds history: not checked yet<br><br>── 𝗣𝗥𝗘𝗟𝗜𝗠𝗦 · 
- 𝟰 𝗯𝗼𝘂𝘁𝘀 ──<br><br>🥊 4. 𝗔𝗹𝗲𝗸𝘀𝗮
- 𝗻𝗱𝗿𝗲 𝗧𝗼𝗽𝘂𝗿𝗶𝗮 🇬🇪 vs. 𝗦𝗮𝗻
- 𝘁𝗶𝗮𝗴𝗼 𝗟𝘂𝗻𝗮 🇲🇽<br>• 135lbs/61kg Bantamwe
- ight<br>• Topuria: 7-1-0 | 30yo | Boxing<br>• Luna: 8-1-0 | 22yo | MMA
- <br>• Odds history: not checked yet<br><br>🥊 3. 𝗦𝗵𝗮𝗺𝗶
- 𝗹 𝗚𝗮𝘇𝗶𝗲𝘃 🇧🇭 vs. 𝗧𝗮𝗹𝗹𝗶𝘀𝗼
- 𝗻 𝗧𝗲𝗶𝘅𝗲𝗶𝗿𝗮 🇧🇷<br>• 265lbs/120kg Heavywe
- ight<br>• Gaziev: 15-3-0 | 36yo | MMA<br>• Teixeira: 9-2-0 | 26yo | St
- riker<br>• Odds history: not checked yet<br><br>🥊 2. 𝗔𝗺𝗶𝗿
-  𝗔𝗹𝗯𝗮𝘇𝗶 (#9) 🇮🇶 vs. 𝗔𝗹𝗲𝘀𝘀𝗮𝗻
- 𝗱𝗿𝗼 𝗖𝗼𝘀𝘁𝗮 🇧🇷<br>• 125lbs/57kg Flyweight<br
- >• Albazi: 17-3-0 | 33yo | Jiu-Jitsu<br>• Costa: 17-5-0 | 30yo | Jiu-J
- itsu<br>• Odds history: not checked yet<br><br>🥊 1. 𝗝𝗮𝗸𝗲 
- 𝗠𝗮𝘁𝘁𝗵𝗲𝘄𝘀 🇦🇺 vs. 𝗧𝗮𝗵𝗶𝗿 𝗔
- 𝗯𝗱𝘂𝗹𝗹𝗮𝘆𝗲𝘃 🇦🇿<br>• 170lbs/77kg Welterwei
- ght<br>• Matthews: 23-8-0 | 32yo | Freestyle<br>• Abdullayev: 20-3-0 |
-  29yo<br>• Odds history: not checked yet<br><br>------------------------
- --------<br>Source: https://www.ufc.com/event/ufc-fight-night-november-21-
- 2026<br>Odds source: https://www.bestfightodds.com/ · best available line
-  · checked Monday and Friday<br>Full odds log: https://staircasewit.githu
- b.io/mmacalendar/odds-history.html<br>Event status: Rescheduled\; previous
- ly 21 Nov 2026</p></body></html>
+ avyweight<br>• Prochazka: 32-6-1 | 34yo | Karate | +122 (2.22)<br>• St
+ irling: 11-0-0 | 29yo | Kickboxer | -127 (1.79)<br>• Odds history:<br>  
+ ◦ 6 Nov: Prochazka 🔴 +110 (2.10) | Stirling 🟢 -138 (1.72)<br>  ◦
+  9 Nov: Prochazka 🔴 +122 (2.22) | Stirling 🟢 -127 (1.79)<br><br>🥊
+  8. 𝗔𝗹𝗷𝗮𝗺𝗮𝗶𝗻 𝗦𝘁𝗲𝗿𝗹𝗶𝗻𝗴 (#4)
+  🇺🇸 vs. 𝗞𝗲𝘃𝗶𝗻 𝗩𝗮𝗹𝗹𝗲𝗷𝗼𝘀 (#9) 
+ 🇦🇷<br>• 145lbs/66kg Featherweight<br>• Sterling: 26-5-0 | 37yo |
+  Kickboxer | +113 (2.13)<br>• Vallejos: 17-1-0 | 24yo | Striker | -117 (
+ 1.85)<br>• Odds history:<br>  ◦ 9 Nov: Sterling 🔴 +113 (2.13) | Val
+ lejos 🟢 -117 (1.85)<br><br>🥊 7. 𝗗𝗮𝗻 𝗛𝗼𝗼𝗸𝗲
+ 𝗿 (#14) 🇳🇿 vs. 𝗕𝗿𝗶𝗮𝗻 𝗢𝗿𝘁𝗲𝗴𝗮 🇺
+ 🇸<br>• 155lbs/70kg Lightweight<br>• Hooker: 24-15-0 | 36yo | MMA<br
+ >• Ortega: 16-5-0 | 35yo | Jiu-Jitsu<br>• Odds history: not checked ye
+ t<br><br>🥊 6. 𝗞𝘆𝗼𝗷𝗶 𝗛𝗼𝗿𝗶𝗴𝘂𝗰𝗵𝗶
+  (#5) 🇯🇵 vs. 𝗔𝘀𝘂 𝗔𝗹𝗺𝗮𝗯𝗮𝘆𝗲𝘃 (#7) 
+ 🇰🇿<br>• 125lbs/57kg Flyweight<br>• Horiguchi: 36-6-0 | 36yo | MM
+ A<br>• Almabayev: 24-3-0 | 32yo | Jiu-Jitsu<br>• Odds history: not che
+ cked yet<br><br>🥊 5. 𝗝𝗮𝗿𝗲𝗱 𝗖𝗮𝗻𝗻𝗼𝗻𝗶
+ 𝗲𝗿 (#12) 🇺🇸 vs. 𝗜𝗸𝗿𝗮𝗺 𝗔𝗹𝗶𝘀𝗸𝗲
+ 𝗿𝗼𝘃 (#13) 🇷🇺<br>• 185lbs/84kg Middleweight<br>• Cannoni
+ er: 18-10-0 | 42yo | Striker<br>• Aliskerov: 18-2-0 | 33yo | Sambo<br>
+ • Odds history: not checked yet<br><br>── 𝗣𝗥𝗘𝗟𝗜𝗠
+ 𝗦 · 𝟰 𝗯𝗼𝘂𝘁𝘀 ──<br><br>🥊 4. 𝗔𝗹𝗲𝗸
+ 𝘀𝗮𝗻𝗱𝗿𝗲 𝗧𝗼𝗽𝘂𝗿𝗶𝗮 🇬🇪 vs. 𝗦
+ 𝗮𝗻𝘁𝗶𝗮𝗴𝗼 𝗟𝘂𝗻𝗮 🇲🇽<br>• 135lbs/61kg 
+ Bantamweight<br>• Topuria: 7-1-0 | 30yo | Boxing<br>• Luna: 8-1-0 | 22
+ yo | MMA<br>• Odds history: not checked yet<br><br>🥊 3. 𝗦𝗵𝗮
+ 𝗺𝗶𝗹 𝗚𝗮𝘇𝗶𝗲𝘃 🇧🇭 vs. 𝗧𝗮𝗹𝗹𝗶
+ 𝘀𝗼𝗻 𝗧𝗲𝗶𝘅𝗲𝗶𝗿𝗮 🇧🇷<br>• 265lbs/120kg
+  Heavyweight<br>• Gaziev: 15-3-0 | 36yo | MMA<br>• Teixeira: 9-2-0 | 2
+ 6yo | Striker<br>• Odds history: not checked yet<br><br>🥊 2. 𝗔𝗺
+ 𝗶𝗿 𝗔𝗹𝗯𝗮𝘇𝗶 (#9) 🇮🇶 vs. 𝗔𝗹𝗲𝘀𝘀
+ 𝗮𝗻𝗱𝗿𝗼 𝗖𝗼𝘀𝘁𝗮 🇧🇷<br>• 125lbs/57kg Flyw
+ eight<br>• Albazi: 17-3-0 | 33yo | Jiu-Jitsu<br>• Costa: 17-5-0 | 30yo
+  | Jiu-Jitsu<br>• Odds history: not checked yet<br><br>🥊 1. 𝗝𝗮
+ 𝗸𝗲 𝗠𝗮𝘁𝘁𝗵𝗲𝘄𝘀 🇦🇺 vs. 𝗧𝗮𝗵𝗶
+ 𝗿 𝗔𝗯𝗱𝘂𝗹𝗹𝗮𝘆𝗲𝘃 🇦🇿<br>• 170lbs/77kg 
+ Welterweight<br>• Matthews: 23-8-0 | 32yo | Freestyle<br>• Abdullayev:
+  20-3-0 | 29yo<br>• Odds history: not checked yet<br><br>---------------
+ -----------------<br>Source: https://www.ufc.com/event/ufc-fight-night-nov
+ ember-21-2026<br>Odds source: https://www.bestfightodds.com/ · best avail
+ able line · checked Monday and Friday<br>Full odds log: https://staircase
+ wit.github.io/mmacalendar/odds-history.html<br>Event status: Rescheduled\;
+  previously 21 Nov 2026</p></body></html>
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
 CATEGORIES:UFC,Complete Event
@@ -4162,8 +4179,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-336-combined@ufc-detailed-calendar
 DTSTAMP:20261021T115556Z
-LAST-MODIFIED:20261106T142126Z
-SEQUENCE:4
+LAST-MODIFIED:20261109T162805Z
+SEQUENCE:5
 DTSTART:20270130T220000Z
 DTEND:20270131T050000Z
 SUMMARY:UFC 336: Van vs Kape
@@ -4174,24 +4191,25 @@ DESCRIPTION:UFC · Complete Event · 2 announced bouts\n📍 Scotiabank Are
  ─\n\n🥊 2. 𝗝𝗼𝘀𝗵𝘂𝗮 𝗩𝗮𝗻 (C) 🇲🇲 vs. 𝗠
  𝗮𝗻𝗲𝗹 𝗞𝗮𝗽𝗲 (#2) 🇵🇹\n• 125lbs/57kg Flyweight
   · Title Bout\n• Van: 18-2-0 | 25yo | Freestyle | -121 (1.83)\n• Kape
- : 23-7-0 | 33yo | MMA | +108 (2.08)\n• Odds history:\n  ◦ 26 Oct: Van 
+ : 23-7-0 | 33yo | MMA | +110 (2.10)\n• Odds history:\n  ◦ 26 Oct: Van 
  🟢 -121 (1.83) | Kape 🔴 -103 (1.97)\n  ◦ 30 Oct: Van 🟢 -121 (1.8
- 3) | Kape 🔴 +108 (2.08)\n\n🥊 1. 𝗖𝗮𝗿𝗹𝗼𝘀 𝗣𝗿
- 𝗮𝘁𝗲𝘀 (#2) 🇧🇷 vs. 𝗠𝗶𝗰𝗵𝗮𝗲𝗹 𝗠𝗼
- 𝗿𝗮𝗹𝗲𝘀 (#3) 🇪🇨\n• 170lbs/77kg Welterweight · Title 
- Bout\n• Prates: 24-7-0 | 33yo | Striker | -150 (1.67)\n• Morales: 19-0
- -0 | 27yo | Striker | +142 (2.42)\n• Odds history:\n  ◦ 26 Oct: Prates
-  🟢 -150 (1.67) | Morales 🔴 +128 (2.28)\n  ◦ 30 Oct: Prates 🟢 -1
- 38 (1.72) | Morales 🔴 +142 (2.42)\n  ◦ 6 Nov: Prates 🟢 -150 (1.67)
-  | Morales 🔴 +142 (2.42)\n\n── 𝗣𝗥𝗘𝗟𝗜𝗠𝗦 · 𝗳
- 𝗶𝗴𝗵𝘁 𝗰𝗮𝗿𝗱 𝗧𝗕𝗗 ──\n\nNo bouts assigned
-  yet.\n\n── 𝗘𝗔𝗥𝗟𝗬 𝗣𝗥𝗘𝗟𝗜𝗠𝗦 · 𝗳
- 𝗶𝗴𝗵𝘁 𝗰𝗮𝗿𝗱 𝗧𝗕𝗗 ──\n\nNo bouts assigned
-  yet.\n\n--------------------------------\nSource: https://www.ufc.com/eve
- nt/ufc-336\nOdds source: https://www.bestfightodds.com/ · best available 
- line · checked Monday and Friday\nFull odds log: https://staircasewit.git
- hub.io/mmacalendar/odds-history.html\nEvent status: Rescheduled\; previous
- ly 31 Jan 2027
+ 3) | Kape 🔴 +108 (2.08)\n  ◦ 9 Nov: Van 🟢 -121 (1.83) | Kape 🔴 
+ +110 (2.10)\n\n🥊 1. 𝗖𝗮𝗿𝗹𝗼𝘀 𝗣𝗿𝗮𝘁𝗲𝘀 (
+ #2) 🇧🇷 vs. 𝗠𝗶𝗰𝗵𝗮𝗲𝗹 𝗠𝗼𝗿𝗮𝗹𝗲𝘀
+  (#3) 🇪🇨\n• 170lbs/77kg Welterweight · Title Bout\n• Prates: 24
+ -7-0 | 33yo | Striker | -167 (1.60)\n• Morales: 19-0-0 | 27yo | Striker 
+ | +142 (2.42)\n• Odds history:\n  ◦ 30 Oct: Prates 🟢 -138 (1.72) | 
+ Morales 🔴 +142 (2.42)\n  ◦ 6 Nov: Prates 🟢 -150 (1.67) | Morales 
+ 🔴 +142 (2.42)\n  ◦ 9 Nov: Prates 🟢 -167 (1.60) | Morales 🔴 +142
+  (2.42)\n  ◦ Earlier changes: see full odds log\n\n── 𝗣𝗥𝗘
+ 𝗟𝗜𝗠𝗦 · 𝗳𝗶𝗴𝗵𝘁 𝗰𝗮𝗿𝗱 𝗧𝗕𝗗 ─
+ ─\n\nNo bouts assigned yet.\n\n── 𝗘𝗔𝗥𝗟𝗬 𝗣𝗥𝗘
+ 𝗟𝗜𝗠𝗦 · 𝗳𝗶𝗴𝗵𝘁 𝗰𝗮𝗿𝗱 𝗧𝗕𝗗 ─
+ ─\n\nNo bouts assigned yet.\n\n--------------------------------\nSource:
+  https://www.ufc.com/event/ufc-336\nOdds source: https://www.bestfightodds
+ .com/ · best available line · checked Monday and Friday\nFull odds log: 
+ https://staircasewit.github.io/mmacalendar/odds-history.html\nEvent status
+ : Rescheduled\; previously 31 Jan 2027
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 2 anno
  unced bouts<br>📍 Scotiabank Arena\, Toronto\, Canada<br>🕒 22:00–Su
  n 05:00 Ireland<br><br>--------------------------------<br>𝗕𝗢𝗨
@@ -4200,25 +4218,26 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Complete Event · 2 anno
  𝗝𝗼𝘀𝗵𝘂𝗮 𝗩𝗮𝗻 (C) 🇲🇲 vs. 𝗠𝗮𝗻𝗲
  𝗹 𝗞𝗮𝗽𝗲 (#2) 🇵🇹<br>• 125lbs/57kg Flyweight · Title 
  Bout<br>• Van: 18-2-0 | 25yo | Freestyle | -121 (1.83)<br>• Kape: 23-7
- -0 | 33yo | MMA | +108 (2.08)<br>• Odds history:<br>  ◦ 26 Oct: Van 
+ -0 | 33yo | MMA | +110 (2.10)<br>• Odds history:<br>  ◦ 26 Oct: Van 
  🟢 -121 (1.83) | Kape 🔴 -103 (1.97)<br>  ◦ 30 Oct: Van 🟢 -121 (1
- .83) | Kape 🔴 +108 (2.08)<br><br>🥊 1. 𝗖𝗮𝗿𝗹𝗼𝘀 𝗣
- 𝗿𝗮𝘁𝗲𝘀 (#2) 🇧🇷 vs. 𝗠𝗶𝗰𝗵𝗮𝗲𝗹 𝗠
- 𝗼𝗿𝗮𝗹𝗲𝘀 (#3) 🇪🇨<br>• 170lbs/77kg Welterweight · 
- Title Bout<br>• Prates: 24-7-0 | 33yo | Striker | -150 (1.67)<br>• Mor
- ales: 19-0-0 | 27yo | Striker | +142 (2.42)<br>• Odds history:<br>  ◦ 
- 26 Oct: Prates 🟢 -150 (1.67) | Morales 🔴 +128 (2.28)<br>  ◦ 30 Oct
- : Prates 🟢 -138 (1.72) | Morales 🔴 +142 (2.42)<br>  ◦ 6 Nov: Prate
- s 🟢 -150 (1.67) | Morales 🔴 +142 (2.42)<br><br>── 𝗣𝗥𝗘
- 𝗟𝗜𝗠𝗦 · 𝗳𝗶𝗴𝗵𝘁 𝗰𝗮𝗿𝗱 𝗧𝗕𝗗 ─
- ─<br><br>No bouts assigned yet.<br><br>── 𝗘𝗔𝗥𝗟𝗬 𝗣
- 𝗥𝗘𝗟𝗜𝗠𝗦 · 𝗳𝗶𝗴𝗵𝘁 𝗰𝗮𝗿𝗱 𝗧𝗕
- 𝗗 ──<br><br>No bouts assigned yet.<br><br>-------------------------
- -------<br>Source: https://www.ufc.com/event/ufc-336<br>Odds source: https
- ://www.bestfightodds.com/ · best available line · checked Monday and Fri
- day<br>Full odds log: https://staircasewit.github.io/mmacalendar/odds-hist
- ory.html<br>Event status: Rescheduled\; previously 31 Jan 2027</p></body><
- /html>
+ .83) | Kape 🔴 +108 (2.08)<br>  ◦ 9 Nov: Van 🟢 -121 (1.83) | Kape 
+ 🔴 +110 (2.10)<br><br>🥊 1. 𝗖𝗮𝗿𝗹𝗼𝘀 𝗣𝗿𝗮𝘁
+ 𝗲𝘀 (#2) 🇧🇷 vs. 𝗠𝗶𝗰𝗵𝗮𝗲𝗹 𝗠𝗼𝗿𝗮
+ 𝗹𝗲𝘀 (#3) 🇪🇨<br>• 170lbs/77kg Welterweight · Title Bout<b
+ r>• Prates: 24-7-0 | 33yo | Striker | -167 (1.60)<br>• Morales: 19-0-0
+  | 27yo | Striker | +142 (2.42)<br>• Odds history:<br>  ◦ 30 Oct: Prat
+ es 🟢 -138 (1.72) | Morales 🔴 +142 (2.42)<br>  ◦ 6 Nov: Prates 🟢
+  -150 (1.67) | Morales 🔴 +142 (2.42)<br>  ◦ 9 Nov: Prates 🟢 -167 (
+ 1.60) | Morales 🔴 +142 (2.42)<br>  ◦ Earlier changes: see full odds l
+ og<br><br>── 𝗣𝗥𝗘𝗟𝗜𝗠𝗦 · 𝗳𝗶𝗴𝗵𝘁 𝗰
+ 𝗮𝗿𝗱 𝗧𝗕𝗗 ──<br><br>No bouts assigned yet.<br><br>─
+ ─ 𝗘𝗔𝗥𝗟𝗬 𝗣𝗥𝗘𝗟𝗜𝗠𝗦 · 𝗳𝗶𝗴𝗵
+ 𝘁 𝗰𝗮𝗿𝗱 𝗧𝗕𝗗 ──<br><br>No bouts assigned yet.<br
+ ><br>--------------------------------<br>Source: https://www.ufc.com/event
+ /ufc-336<br>Odds source: https://www.bestfightodds.com/ · best available 
+ line · checked Monday and Friday<br>Full odds log: https://staircasewit.g
+ ithub.io/mmacalendar/odds-history.html<br>Event status: Rescheduled\; prev
+ iously 31 Jan 2027</p></body></html>
 LOCATION:Scotiabank Arena\, Toronto\, Canada
 URL:https://www.ufc.com/event/ufc-336
 CATEGORIES:UFC,Complete Event

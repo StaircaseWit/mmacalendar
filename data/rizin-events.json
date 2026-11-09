@@ -2751,7 +2751,7 @@
           "countryCode": "KR",
           "birthDate": "1992-01-29",
           "record": "4-1-0",
-          "odds": null
+          "odds": "+200"
         },
         "blue": {
           "name": "Nurkhan Zhumagazy",
@@ -2760,10 +2760,26 @@
           "countryCode": "KZ",
           "birthDate": "2001-01-06",
           "record": "2-0-0",
-          "odds": null
+          "odds": "-275"
         },
         "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-09T16:28:05.706Z",
+            "eventName": "RIZIN.55",
+            "sourceUrl": "https://www.bestfightodds.com/events/rizin-4451",
+            "promotion": "rizin",
+            "eventId": "17852466",
+            "odds": {
+              "kyung pyo kim": "+200",
+              "nurkhan zhumagazy": "-275"
+            },
+            "names": {
+              "kyung pyo kim": "Kyung Pyo Kim",
+              "nurkhan zhumagazy": "Nurkhan Zhumagazy"
+            }
+          }
+        ]
       },
       {
         "order": 6,
@@ -2823,7 +2839,7 @@
           "countryCode": "JP",
           "birthDate": "1989-03-19",
           "record": "2-3-0",
-          "odds": null
+          "odds": "-105"
         },
         "blue": {
           "name": "Tsukasa Mizoguchi",
@@ -2832,10 +2848,26 @@
           "countryCode": "JP",
           "birthDate": "2003-06-07",
           "record": null,
-          "odds": null
+          "odds": "-125"
         },
         "details": "61kg Bantamweight · RIZIN MMA · 3 × 5 min rounds",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-09T16:28:05.706Z",
+            "eventName": "RIZIN.55",
+            "sourceUrl": "https://www.bestfightodds.com/events/rizin-4451",
+            "promotion": "rizin",
+            "eventId": "17852466",
+            "odds": {
+              "taichi nakajima": "-105",
+              "tsukasa mizoguchi": "-125"
+            },
+            "names": {
+              "taichi nakajima": "Taichi Nakajima",
+              "tsukasa mizoguchi": "Tsukasa Mizoguchi"
+            }
+          }
+        ]
       },
       {
         "order": 3,
@@ -2847,7 +2879,7 @@
           "countryCode": "JP",
           "birthDate": "1990-09-18",
           "record": "1-4-0",
-          "odds": null
+          "odds": "+110"
         },
         "blue": {
           "name": "Daigo Kuramoto",
@@ -2856,10 +2888,26 @@
           "countryCode": "JP",
           "birthDate": "1994-07-10",
           "record": "0-1-0",
-          "odds": null
+          "odds": "-150"
         },
         "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-09T16:28:05.706Z",
+            "eventName": "RIZIN.55",
+            "sourceUrl": "https://www.bestfightodds.com/events/rizin-4451",
+            "promotion": "rizin",
+            "eventId": "17852466",
+            "odds": {
+              "tatsuya “yanbo” saika": "+110",
+              "daigo kuramoto": "-150"
+            },
+            "names": {
+              "tatsuya “yanbo” saika": "Tatsuya “Yanbo” Saika",
+              "daigo kuramoto": "Daigo Kuramoto"
+            }
+          }
+        ]
       },
       {
         "order": 2,
@@ -2871,7 +2919,7 @@
           "countryCode": "JP",
           "birthDate": "1994-12-08",
           "record": null,
-          "odds": null
+          "odds": "-138"
         },
         "blue": {
           "name": "Sho Sekihara",
@@ -2880,10 +2928,26 @@
           "countryCode": "JP",
           "birthDate": "1993-09-03",
           "record": "1-0-0",
-          "odds": null
+          "odds": "+105"
         },
         "details": "57kg Flyweight · RIZIN MMA · 3 × 5 min rounds",
-        "oddsHistory": []
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-09T16:28:05.706Z",
+            "eventName": "RIZIN.55",
+            "sourceUrl": "https://www.bestfightodds.com/events/rizin-4451",
+            "promotion": "rizin",
+            "eventId": "17852466",
+            "odds": {
+              "takumi hamada": "-138",
+              "sho sekihara": "+105"
+            },
+            "names": {
+              "takumi hamada": "Takumi Hamada",
+              "sho sekihara": "Sho Sekihara"
+            }
+          }
+        ]
       },
       {
         "order": 1,
@@ -3011,7 +3075,7 @@
     "timeIsTentative": true,
     "bouts": [
       {
-        "order": 10,
+        "order": 11,
         "section": "Main Card",
         "red": {
           "name": "Razhabali Shaidulloev",
@@ -3035,7 +3099,7 @@
         "oddsHistory": []
       },
       {
-        "order": 9,
+        "order": 10,
         "section": "Main Card",
         "red": {
           "name": "Luiz Gustavo",
@@ -3059,6 +3123,30 @@
         "oddsHistory": []
       },
       {
+        "order": 9,
+        "section": "Main Card",
+        "red": {
+          "name": "Shinya Aoki",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%9D%92%E6%9C%A8%E7%9C%9F%E4%B9%9F",
+          "style": "Grappler",
+          "countryCode": "JP",
+          "birthDate": "1983-05-09",
+          "record": "1-1-0",
+          "odds": null
+        },
+        "blue": {
+          "name": "Taisei Sakuraba",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E6%A1%9C%E5%BA%AD%E5%A4%A7%E4%B8%96",
+          "style": "All-rounder",
+          "countryCode": "JP",
+          "birthDate": "1998-11-12",
+          "record": "2-2-0",
+          "odds": null
+        },
+        "details": "71kg Lightweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": []
+      },
+      {
         "order": 8,
         "section": "Main Card",
         "red": {
@@ -3071,8 +3159,12 @@
           "odds": null
         },
         "blue": {
-          "name": "YAMAN",
-          "profileUrl": "https://jp.rizinff.com/_tags/YAMAN",
+          "name": "YA-MAN",
+          "profileUrl": "https://jp.rizinff.com/_tags/YA-MAN",
+          "style": "All-rounder",
+          "countryCode": "JP",
+          "birthDate": "1996-05-31",
+          "record": "4-3-0",
           "odds": null
         },
         "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
@@ -3247,6 +3339,28 @@
         "oddsHistory": []
       }
     ],
-    "cancelledBouts": []
+    "cancelledBouts": [
+      {
+        "order": 8,
+        "section": "Main Card",
+        "red": {
+          "name": "Chihiro Suzuki",
+          "profileUrl": "https://jp.rizinff.com/_tags/%E9%88%B4%E6%9C%A8%E5%8D%83%E8%A3%95",
+          "style": "All-rounder",
+          "countryCode": "JP",
+          "birthDate": "1999-05-14",
+          "record": "8-4-0",
+          "odds": null
+        },
+        "blue": {
+          "name": "YAMAN",
+          "profileUrl": "https://jp.rizinff.com/_tags/YAMAN",
+          "odds": null
+        },
+        "details": "66kg Featherweight · RIZIN MMA · 3 × 5 min rounds",
+        "oddsHistory": [],
+        "note": "Removed from the official RIZIN card"
+      }
+    ]
   }
 ]

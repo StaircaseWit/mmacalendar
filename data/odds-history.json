@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-06T14:21:26.351Z",
+  "lastCheckedAt": "2026-11-09T16:28:05.706Z",
   "fights": {
     "ufc-fight-night-september-12-2026::edgar chairez--tim elliott": [
       {
@@ -1652,6 +1652,19 @@
           "ciryl gane": "Ciryl Gane",
           "josh hokit": "Josh Hokit"
         }
+      },
+      {
+        "checkedAt": "2026-11-09T16:28:05.706Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4370",
+        "odds": {
+          "ciryl gane": "-186",
+          "josh hokit": "+186"
+        },
+        "names": {
+          "ciryl gane": "Ciryl Gane",
+          "josh hokit": "Josh Hokit"
+        }
       }
     ],
     "ufc-334::amanda nunes--kayla harrison": [
@@ -3203,6 +3216,19 @@
           "joshua van": "Joshua Van",
           "manel kape": "Manel Kape"
         }
+      },
+      {
+        "checkedAt": "2026-11-09T16:28:05.706Z",
+        "eventName": "UFC 336: Van vs Kape",
+        "sourceUrl": "https://www.bestfightodds.com/events/future-events-197",
+        "odds": {
+          "joshua van": "-121",
+          "manel kape": "+110"
+        },
+        "names": {
+          "joshua van": "Joshua Van",
+          "manel kape": "Manel Kape"
+        }
       }
     ],
     "ufc-336::carlos prates--michael morales": [
@@ -3238,6 +3264,19 @@
         "sourceUrl": "https://www.bestfightodds.com/events/future-events-197",
         "odds": {
           "carlos prates": "-150",
+          "michael morales": "+142"
+        },
+        "names": {
+          "carlos prates": "Carlos Prates",
+          "michael morales": "Michael Morales"
+        }
+      },
+      {
+        "checkedAt": "2026-11-09T16:28:05.706Z",
+        "eventName": "UFC 336: Van vs Kape",
+        "sourceUrl": "https://www.bestfightodds.com/events/future-events-197",
+        "odds": {
+          "carlos prates": "-167",
           "michael morales": "+142"
         },
         "names": {
@@ -3630,6 +3669,19 @@
           "caio borralho": "Caio Borralho",
           "yousri belgaroui": "Yousri Belgaroui"
         }
+      },
+      {
+        "checkedAt": "2026-11-09T16:28:05.706Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4370",
+        "odds": {
+          "caio borralho": "-150",
+          "yousri belgaroui": "+144"
+        },
+        "names": {
+          "caio borralho": "Caio Borralho",
+          "yousri belgaroui": "Yousri Belgaroui"
+        }
       }
     ],
     "ufc-334::kevin holland--uros medic": [
@@ -3671,6 +3723,19 @@
           "uros medic": "Uroš Medić",
           "kevin holland": "Kevin Holland"
         }
+      },
+      {
+        "checkedAt": "2026-11-09T16:28:05.706Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4370",
+        "odds": {
+          "uros medic": "-144",
+          "kevin holland": "+138"
+        },
+        "names": {
+          "uros medic": "Uroš Medić",
+          "kevin holland": "Kevin Holland"
+        }
       }
     ],
     "ufc-334::bilal hasan--luis gurule": [
@@ -3707,6 +3772,19 @@
         "odds": {
           "bilal hasan": "-567",
           "luis gurule": "+600"
+        },
+        "names": {
+          "bilal hasan": "Bilal Hasan",
+          "luis gurule": "Luis Gurule"
+        }
+      },
+      {
+        "checkedAt": "2026-11-09T16:28:05.706Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4370",
+        "odds": {
+          "bilal hasan": "-809",
+          "luis gurule": "+733"
         },
         "names": {
           "bilal hasan": "Bilal Hasan",
@@ -3852,6 +3930,19 @@
           "macy chiasson": "Macy Chiasson",
           "bia mesquita": "Bia Mesquita"
         }
+      },
+      {
+        "checkedAt": "2026-11-09T16:28:05.706Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4433",
+        "odds": {
+          "macy chiasson": "+223",
+          "bia mesquita": "-215"
+        },
+        "names": {
+          "macy chiasson": "Macy Chiasson",
+          "bia mesquita": "Bia Mesquita"
+        }
       }
     ],
     "ufc-334::charles radtke--stephen thompson": [
@@ -3875,6 +3966,19 @@
         "odds": {
           "stephen thompson": "-117",
           "charles radtke": "+118"
+        },
+        "names": {
+          "stephen thompson": "Stephen Thompson",
+          "charles radtke": "Charles Radtke"
+        }
+      },
+      {
+        "checkedAt": "2026-11-09T16:28:05.706Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4433",
+        "odds": {
+          "stephen thompson": "-137",
+          "charles radtke": "+127"
         },
         "names": {
           "stephen thompson": "Stephen Thompson",
@@ -3931,6 +4035,19 @@
         "odds": {
           "jim miller": "+203",
           "terrance mckinney": "-213"
+        },
+        "names": {
+          "jim miller": "Jim Miller",
+          "terrance mckinney": "Terrance McKinney"
+        }
+      },
+      {
+        "checkedAt": "2026-11-09T16:28:05.706Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4433",
+        "odds": {
+          "jim miller": "+186",
+          "terrance mckinney": "-194"
         },
         "names": {
           "jim miller": "Jim Miller",
@@ -3994,6 +4111,19 @@
           "jared gordon": "Jared Gordon",
           "melquizael costa": "Melquizael Costa"
         }
+      },
+      {
+        "checkedAt": "2026-11-09T16:28:05.706Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4433",
+        "odds": {
+          "jared gordon": "+317",
+          "melquizael costa": "-350"
+        },
+        "names": {
+          "jared gordon": "Jared Gordon",
+          "melquizael costa": "Melquizael Costa"
+        }
       }
     ],
     "ufc-334::evan elder--samuel sanches": [
@@ -4004,6 +4134,19 @@
         "odds": {
           "evan elder": "-117",
           "samuel sanches": "+113"
+        },
+        "names": {
+          "evan elder": "Evan Elder",
+          "samuel sanches": "Samuel Sanches"
+        }
+      },
+      {
+        "checkedAt": "2026-11-09T16:28:05.706Z",
+        "eventName": "UFC 334: Gane vs Hokit",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-334-4433",
+        "odds": {
+          "evan elder": "-100",
+          "samuel sanches": "-107"
         },
         "names": {
           "evan elder": "Evan Elder",
@@ -4024,6 +4167,19 @@
           "jiri prochazka": "Jiří Procházka",
           "navajo stirling": "Navajo Stirling"
         }
+      },
+      {
+        "checkedAt": "2026-11-09T16:28:05.706Z",
+        "eventName": "UFC Fight Night: Prochazka vs Stirling",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-doha-4440",
+        "odds": {
+          "jiri prochazka": "+122",
+          "navajo stirling": "-127"
+        },
+        "names": {
+          "jiri prochazka": "Jiří Procházka",
+          "navajo stirling": "Navajo Stirling"
+        }
       }
     ],
     "ufc-fight-night-february-06-2027::benoit saint denis--quillan salkilld": [
@@ -4038,6 +4194,21 @@
         "names": {
           "quillan salkilld": "Quillan Salkilld",
           "benoit saint denis": "Benoît Saint Denis"
+        }
+      }
+    ],
+    "ufc-fight-night-november-21-2026::aljamain sterling--kevin vallejos": [
+      {
+        "checkedAt": "2026-11-09T16:28:05.706Z",
+        "eventName": "UFC Fight Night: Prochazka vs Stirling",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-doha-4440",
+        "odds": {
+          "aljamain sterling": "+113",
+          "kevin vallejos": "-117"
+        },
+        "names": {
+          "aljamain sterling": "Aljamain Sterling",
+          "kevin vallejos": "Kevin Vallejos"
         }
       }
     ]

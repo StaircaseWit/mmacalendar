@@ -2791,10 +2791,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a968ba710c90c3a3d15f98b@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261106T142126Z
-SEQUENCE:6
+LAST-MODIFIED:20261109T162805Z
+SEQUENCE:7
 DTSTART:20261106T113018Z
-DTEND:20261106T163018Z
+DTEND:20261106T163041Z
 SUMMARY:ONE Friday Fights 177 & The Inner Circle 37
 DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
@@ -2878,10 +2878,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:693659a52fbf6a23229602c3@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261106T142126Z
-SEQUENCE:3
+LAST-MODIFIED:20261109T162805Z
+SEQUENCE:4
 DTSTART:20261107T020000Z
-DTEND:20261107T080000Z
+DTEND:20261107T055137Z
 SUMMARY:ONE Fight Night 49
 DESCRIPTION:ONE Championship · Complete Event · 9 bouts\n📍 Lumpinee St
  adium\, Bangkok\nTimes display automatically in your calendar time zone.\n
@@ -2921,17 +2921,18 @@ DESCRIPTION:ONE Championship · Complete Event · 9 bouts\n📍 Lumpinee St
  g\n• Shumarov: ONE 3-1-0 | 30yo | Striker | -196 (1.51)\n• Mammadov: 2
  3yo | Striker | +164 (2.64)\n• Odds history:\n  ◦ 6 Nov: Shumarov 🟢
   -196 (1.51) | Mammadov 🔴 +164 (2.64)\n\n🥊 2. 𝗩𝗶𝗰𝘁𝗼
- 𝗿 𝗛𝘂𝗴𝗼 vs. 𝗗𝗲𝘃𝗵𝗼𝗻𝘁𝗲 𝗝𝗼𝗵
- 𝗻𝘀𝗼𝗻\n• Openweight Submission Grappling\n• Hugo: Grappler 
- | -800 (1.13)\n• Johnson: Grappler | +610 (7.10)\n• Odds history:\n  
- ◦ 6 Nov: Hugo 🟢 -800 (1.13) | Johnson 🔴 +610 (7.10)\n\n🥊 1. 
- 𝗞𝗮𝗹𝗮𝗻𝗱𝗮𝗿 𝗧𝗮𝗯𝗮𝗿𝗼𝘃 🇹🇯 vs.
-  𝗜𝗹𝗺𝗮𝗱𝗶 𝗜𝘀𝗿𝗮𝗶𝗹𝗼𝘃 🇷🇺\n• 1
- 45lbs/65.8kg Bantamweight MMA\n• Tabarov: 27yo | +205 (3.05)\n• Israil
- ov: 23yo | -250 (1.40)\n• Odds history:\n  ◦ 6 Nov: Tabarov 🔴 +205 
- (3.05) | Israilov 🟢 -250 (1.40)\n\n--------------------------------\nSo
- urce: https://www.onefc.com/events/onefightnight49/\nOdds source: https://
- www.bestfightodds.com/ · best available line · checked Monday and Friday
+ 𝗿 𝗛𝘂𝗴𝗼 🇧🇷 vs. 𝗗𝗲𝘃𝗵𝗼𝗻𝘁𝗲 𝗝
+ 𝗼𝗵𝗻𝘀𝗼𝗻 🇺🇸\n• Openweight Submission Grappling\n
+ • Hugo: ONE 1-0-0 | 29yo | Grappler | -800 (1.13)\n• Johnson: ONE 0-1-
+ 0 | 32yo | Grappler | +610 (7.10)\n• Odds history:\n  ◦ 6 Nov: Hugo 
+ 🟢 -800 (1.13) | Johnson 🔴 +610 (7.10)\n\n🥊 1. 𝗞𝗮𝗹𝗮
+ 𝗻𝗱𝗮𝗿 𝗧𝗮𝗯𝗮𝗿𝗼𝘃 🇹🇯 vs. 𝗜𝗹𝗺
+ 𝗮𝗱𝗶 𝗜𝘀𝗿𝗮𝗶𝗹𝗼𝘃 🇷🇺\n• 145lbs/65.8kg 
+ Bantamweight MMA\n• Tabarov: 27yo | +205 (3.05)\n• Israilov: 23yo | -2
+ 50 (1.40)\n• Odds history:\n  ◦ 6 Nov: Tabarov 🔴 +205 (3.05) | Isra
+ ilov 🟢 -250 (1.40)\n\n--------------------------------\nSource: https:/
+ /www.onefc.com/events/onefightnight49/\nOdds source: https://www.bestfight
+ odds.com/ · best available line · checked Monday and Friday
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/onefightnight49
 CATEGORIES:ONE Championship
@@ -3122,8 +3123,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a968d70687675b16b9f8e3f@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261106T142126Z
-SEQUENCE:2
+LAST-MODIFIED:20261109T162805Z
+SEQUENCE:3
 DTSTART:20261218T113016Z
 DTEND:20261218T163016Z
 SUMMARY:ONE Friday Fights 183 & The Inner Circle 43
@@ -3132,15 +3133,14 @@ DESCRIPTION:ONE Championship · Complete Event · 2 bouts\n📍 Lumpinee St
  \n--------------------------------\n𝗕𝗢𝗨𝗧𝗦\n----------------
  ----------------\n\n🥊 2. 𝗡𝗶𝗰𝗼 𝗖𝗮𝗿𝗿𝗶𝗹𝗹
  𝗼 🇬🇧 vs. 𝗡𝗮𝗯𝗶𝗹 𝗔𝗻𝗮𝗻𝗲 🇩🇿/🇹
- 🇭\n• 155lbs/70.3kg Featherweight Muay Thai World Championship\n• Ca
- rrillo: ONE 8-1-0 | 28yo | Striker\n• Anane: ONE 8-3-0 | 22yo | Striker\
- n\n🥊 1. 𝗣𝗿𝗮𝗷𝗮𝗻𝗰𝗵𝗮𝗶 𝗣𝗼𝗻𝗴𝘀
- 𝘂𝗽𝗵𝗮𝗻 𝗣𝗞 🇹🇭 vs. 𝗔𝗹𝗶𝗳𝗳 𝗦𝗼
- 𝗿 𝗗𝗲𝗰𝗵𝗮𝗽𝗮𝗻 🇲🇾/🇹🇭\n• 125lbs/56.7kg
-  Strawweight Muay Thai World Championship Unification\n• PK: ONE 7-3-0 |
-  32yo | Striker\n• Dechapan: ONE 10-2-0 | 22yo | Striker\n\n------------
- --------------------\nSource: https://www.onefc.com/events/one-friday-figh
- ts-183/
+ 🇭\n• 155lbs/70.3kg Featherweight World Championship\n• Carrillo: ON
+ E 8-1-0 | 28yo | Striker\n• Anane: ONE 8-3-0 | 22yo | Striker\n\n🥊 1.
+  𝗣𝗿𝗮𝗷𝗮𝗻𝗰𝗵𝗮𝗶 𝗣𝗼𝗻𝗴𝘀𝘂𝗽𝗵
+ 𝗮𝗻 𝗣𝗞 🇹🇭 vs. 𝗔𝗹𝗶𝗳𝗳 𝗦𝗼𝗿 𝗗𝗲
+ 𝗰𝗵𝗮𝗽𝗮𝗻 🇲🇾/🇹🇭\n• 125lbs/56.7kg Strawweight 
+ World Championship\n• PK: ONE 7-3-0 | 32yo | Striker\n• Dechapan: ONE 
+ 10-2-0 | 22yo | Striker\n\n--------------------------------\nSource: https
+ ://www.onefc.com/events/one-friday-fights-183/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-183
 CATEGORIES:ONE Championship
