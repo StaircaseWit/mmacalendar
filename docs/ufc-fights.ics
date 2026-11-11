@@ -13,8 +13,8 @@ X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:ufc-334-fight-13235@ufc-detailed-calendar
 DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:1
 DTSTART:20261114T233000Z
 DTEND:20261115T000000Z
 SUMMARY:🥊 4. Jared Gordon vs. Melquizael Costa (estimated)
@@ -23,9 +23,9 @@ DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
  on: 21-9-0 | 38yo | Freestyle | +317 (4.17)\n• Costa: 26-7-0 | 30yo | MM
  A | -350 (1.29)\n• Odds history:\n  ◦ 6 Nov: Gordon 🔴 +376 (4.76) |
   Costa 🟢 -380 (1.26)\n  ◦ 9 Nov: Gordon 🔴 +317 (4.17) | Costa 🟢
-  -350 (1.29)\nEvent: UFC 334: Gane vs Hokit\nSource: https://www.ufc.com/e
- vent/ufc-334\nMain calendar: https://staircasewit.github.io/mmacalendar/uf
- c.ics\nEvent status: Scheduled
+  -350 (1.29)\nEvent: Polymarket UFC 334: Gane vs Hokit\nSource: https://ww
+ w.ufc.com/event/ufc-334\nMain calendar: https://staircasewit.github.io/mma
+ calendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -35,8 +35,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-13149@ufc-detailed-calendar
 DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:1
 DTSTART:20261114T230000Z
 DTEND:20261114T233000Z
 SUMMARY:🥊 3. Macy Chiasson vs. Bia Mesquita (estimated)
@@ -46,9 +46,9 @@ DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
  yo | Brazilian Jiu-Jitsu | -215 (1.47)\n• Odds history:\n  ◦ 2 Nov: Ch
  iasson 🔴 +194 (2.94) | Mesquita 🟢 -203 (1.49)\n  ◦ 6 Nov: Chiasson
   🔴 +186 (2.86) | Mesquita 🟢 -194 (1.52)\n  ◦ 9 Nov: Chiasson 🔴 
- +223 (3.23) | Mesquita 🟢 -215 (1.47)\nEvent: UFC 334: Gane vs Hokit\nSo
- urce: https://www.ufc.com/event/ufc-334\nMain calendar: https://staircasew
- it.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ +223 (3.23) | Mesquita 🟢 -215 (1.47)\nEvent: Polymarket UFC 334: Gane v
+ s Hokit\nSource: https://www.ufc.com/event/ufc-334\nMain calendar: https:/
+ /staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -56,19 +56,19 @@ RELATED-TO:ufc-334-early-prelims@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-334-fight-13150@ufc-detailed-calendar
-DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261109T162805Z
+UID:ufc-334-fight-13257@ufc-detailed-calendar
+DTSTAMP:20261111T142813Z
+LAST-MODIFIED:20261111T142813Z
 SEQUENCE:0
 DTSTART:20261114T223000Z
 DTEND:20261114T230000Z
-SUMMARY:🥊 2. Adrian Yanez vs. Juan Diaz (estimated)
+SUMMARY:🥊 2. Alatengheili vs. Juan Diaz (estimated)
 DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
-  may move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Yan
- ez: 18-6-1 | 32yo | Boxer\n• Diaz: 16-1-1 | 28yo | MMA\n• Odds history
- : not checked yet\nEvent: UFC 334: Gane vs Hokit\nSource: https://www.ufc.
- com/event/ufc-334\nMain calendar: https://staircasewit.github.io/mmacalend
- ar/ufc.ics\nEvent status: Scheduled
+  may move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Ala
+ teng: 18-10-2 | 34yo | Wrestling\n• Diaz: 16-1-1 | 28yo | MMA\n• Odds 
+ history: not checked yet\nEvent: Polymarket UFC 334: Gane vs Hokit\nSource
+ : https://www.ufc.com/event/ufc-334\nMain calendar: https://staircasewit.g
+ ithub.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -78,8 +78,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-13236@ufc-detailed-calendar
 DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:1
 DTSTART:20261114T220000Z
 DTEND:20261114T223000Z
 SUMMARY:🥊 1. Evan Elder vs. Samuel Sanches (estimated)
@@ -88,9 +88,9 @@ DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
  r: 10-2-0 | 29yo | MMA | -100 (2.00)\n• Sanches: 1-0-0 | 23yo | -107 (1.
  93)\n• Odds history:\n  ◦ 6 Nov: Elder 🟢 -117 (1.85) | Sanches 🔴
   +113 (2.13)\n  ◦ 9 Nov: Elder 🔴 -100 (2.00) | Sanches 🟢 -107 (1.9
- 3)\nEvent: UFC 334: Gane vs Hokit\nSource: https://www.ufc.com/event/ufc-3
- 34\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEve
- nt status: Scheduled
+ 3)\nEvent: Polymarket UFC 334: Gane vs Hokit\nSource: https://www.ufc.com/
+ event/ufc-334\nMain calendar: https://staircasewit.github.io/mmacalendar/u
+ fc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -100,8 +100,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-13145@ufc-detailed-calendar
 DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:1
 DTSTART:20261115T013000Z
 DTEND:20261115T020000Z
 SUMMARY:🥊 4. Stephen Thompson vs. Charles Radtke (estimated)
@@ -111,29 +111,7 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  .27)\n• Odds history:\n  ◦ 2 Nov: Thompson 🟢 -117 (1.85) | Radtke 
  🔴 +113 (2.13)\n  ◦ 6 Nov: Thompson 🟢 -117 (1.85) | Radtke 🔴 +11
  8 (2.18)\n  ◦ 9 Nov: Thompson 🟢 -137 (1.73) | Radtke 🔴 +127 (2.27)
- \nEvent: UFC 334: Gane vs Hokit\nSource: https://www.ufc.com/event/ufc-334
- \nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent
-  status: Scheduled
-LOCATION:Madison Square Garden\, New York\, United States
-URL:https://www.ufc.com/event/ufc-334
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-334-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-334-fight-13146@ufc-detailed-calendar
-DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:0
-DTSTART:20261115T010000Z
-DTEND:20261115T013000Z
-SUMMARY:🥊 3. Drew Dober vs. Chris Duncan (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Dober: 29-
- 15-0 | 38yo | Freestyle | +144 (2.44)\n• Duncan: 15-3-0 | 33yo | Striker
-  | -150 (1.67)\n• Odds history:\n  ◦ 2 Nov: Dober 🔴 +133 (2.33) | D
- uncan 🟢 -138 (1.72)\n  ◦ 6 Nov: Dober 🔴 +144 (2.44) | Duncan 🟢 
- -150 (1.67)\nEvent: UFC 334: Gane vs Hokit\nSource: https://www.ufc.com/ev
+ \nEvent: Polymarket UFC 334: Gane vs Hokit\nSource: https://www.ufc.com/ev
  ent/ufc-334\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc
  .ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
@@ -143,10 +121,32 @@ RELATED-TO:ufc-334-prelims@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:ufc-334-fight-13146@ufc-detailed-calendar
+DTSTAMP:20261109T162805Z
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:1
+DTSTART:20261115T010000Z
+DTEND:20261115T013000Z
+SUMMARY:🥊 3. Drew Dober vs. Chris Duncan (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Dober: 29-
+ 15-0 | 38yo | Freestyle | +144 (2.44)\n• Duncan: 15-3-0 | 33yo | Striker
+  | -150 (1.67)\n• Odds history:\n  ◦ 2 Nov: Dober 🔴 +133 (2.33) | D
+ uncan 🟢 -138 (1.72)\n  ◦ 6 Nov: Dober 🔴 +144 (2.44) | Duncan 🟢 
+ -150 (1.67)\nEvent: Polymarket UFC 334: Gane vs Hokit\nSource: https://www
+ .ufc.com/event/ufc-334\nMain calendar: https://staircasewit.github.io/mmac
+ alendar/ufc.ics\nEvent status: Scheduled
+LOCATION:Madison Square Garden\, New York\, United States
+URL:https://www.ufc.com/event/ufc-334
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-334-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-334-fight-13147@ufc-detailed-calendar
 DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:1
 DTSTART:20261115T003000Z
 DTEND:20261115T010000Z
 SUMMARY:🥊 2. Jim Miller vs. Terrance McKinney (estimated)
@@ -156,9 +156,9 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  | -194 (1.52)\n• Odds history:\n  ◦ 2 Nov: Miller 🔴 +186 (2.86) | M
  cKinney 🟢 -194 (1.52)\n  ◦ 6 Nov: Miller 🔴 +203 (3.03) | McKinney 
  🟢 -213 (1.47)\n  ◦ 9 Nov: Miller 🔴 +186 (2.86) | McKinney 🟢 -19
- 4 (1.52)\nEvent: UFC 334: Gane vs Hokit\nSource: https://www.ufc.com/event
- /ufc-334\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ic
- s\nEvent status: Scheduled
+ 4 (1.52)\nEvent: Polymarket UFC 334: Gane vs Hokit\nSource: https://www.uf
+ c.com/event/ufc-334\nMain calendar: https://staircasewit.github.io/mmacale
+ ndar/ufc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -168,8 +168,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-13234@ufc-detailed-calendar
 DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:1
 DTSTART:20261115T000000Z
 DTEND:20261115T003000Z
 SUMMARY:🥊 1. Donte Johnson vs. Cesar Almeida (estimated)
@@ -178,9 +178,9 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  9-0-0 | 27yo | MMA | -180 (1.56)\n• Almeida: 7-3-0 | 38yo | Striker | +1
  78 (2.78)\n• Odds history:\n  ◦ 2 Nov: Johnson 🟢 -150 (1.67) | Alme
  ida 🔴 +144 (2.44)\n  ◦ 6 Nov: Johnson 🟢 -180 (1.56) | Almeida 🔴
-  +178 (2.78)\nEvent: UFC 334: Gane vs Hokit\nSource: https://www.ufc.com/e
- vent/ufc-334\nMain calendar: https://staircasewit.github.io/mmacalendar/uf
- c.ics\nEvent status: Scheduled
+  +178 (2.78)\nEvent: Polymarket UFC 334: Gane vs Hokit\nSource: https://ww
+ w.ufc.com/event/ufc-334\nMain calendar: https://staircasewit.github.io/mma
+ calendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -190,8 +190,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-13140@ufc-detailed-calendar
 DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:1
 DTSTART:20261115T042500Z
 DTEND:20261115T045500Z
 SUMMARY:🥊 5. Ciryl Gane vs. Josh Hokit (estimated)
@@ -201,9 +201,10 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
  29yo | Wrestling | +186 (2.86)\n• Odds history:\n  ◦ 2 Nov: Gane 🟢 
  -213 (1.47) | Hokit 🔴 +210 (3.10)\n  ◦ 6 Nov: Gane 🟢 -194 (1.52) |
   Hokit 🔴 +210 (3.10)\n  ◦ 9 Nov: Gane 🟢 -186 (1.54) | Hokit 🔴 +
- 186 (2.86)\n  ◦ Earlier changes: see full odds log\nEvent: UFC 334: Gane
-  vs Hokit\nSource: https://www.ufc.com/event/ufc-334\nMain calendar: https
- ://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ 186 (2.86)\n  ◦ Earlier changes: see full odds log\nEvent: Polymarket UF
+ C 334: Gane vs Hokit\nSource: https://www.ufc.com/event/ufc-334\nMain cale
+ ndar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sc
+ heduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -213,8 +214,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-13141@ufc-detailed-calendar
 DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:1
 DTSTART:20261115T035000Z
 DTEND:20261115T042000Z
 SUMMARY:🥊 4. Kayla Harrison vs. Amanda Nunes (estimated)
@@ -223,9 +224,9 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
  itle Bout\n• Harrison: 19-1-0 | 36yo | Judo | -170 (1.59)\n• Nunes: 23
  -5-0 | 38yo | Striker | +163 (2.63)\n• Odds history:\n  ◦ 25 Sep: Harr
  ison 🟢 -200 (1.50) | Nunes 🔴 +163 (2.63)\n  ◦ 2 Nov: Harrison 🟢
-  -170 (1.59) | Nunes 🔴 +163 (2.63)\nEvent: UFC 334: Gane vs Hokit\nSour
- ce: https://www.ufc.com/event/ufc-334\nMain calendar: https://staircasewit
- .github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+  -170 (1.59) | Nunes 🔴 +163 (2.63)\nEvent: Polymarket UFC 334: Gane vs 
+ Hokit\nSource: https://www.ufc.com/event/ufc-334\nMain calendar: https://s
+ taircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -235,8 +236,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-13142@ufc-detailed-calendar
 DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:1
 DTSTART:20261115T031000Z
 DTEND:20261115T034000Z
 SUMMARY:🥊 3. Caio Borralho vs. Yousri Belgaroui (estimated)
@@ -246,10 +247,10 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
  er | +144 (2.44)\n• Odds history:\n  ◦ 2 Nov: Borralho 🟢 -138 (1.72
  ) | Belgaroui 🔴 +144 (2.44)\n  ◦ 6 Nov: Borralho 🟢 -144 (1.69) | B
  elgaroui 🔴 +138 (2.38)\n  ◦ 9 Nov: Borralho 🟢 -150 (1.67) | Belgar
- oui 🔴 +144 (2.44)\n  ◦ Earlier changes: see full odds log\nEvent: UFC
-  334: Gane vs Hokit\nSource: https://www.ufc.com/event/ufc-334\nMain calen
- dar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sch
- eduled
+ oui 🔴 +144 (2.44)\n  ◦ Earlier changes: see full odds log\nEvent: Pol
+ ymarket UFC 334: Gane vs Hokit\nSource: https://www.ufc.com/event/ufc-334\
+ nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent 
+ status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -259,8 +260,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-13143@ufc-detailed-calendar
 DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:1
 DTSTART:20261115T023500Z
 DTEND:20261115T030500Z
 SUMMARY:🥊 2. Uroš Medić vs. Kevin Holland (estimated)
@@ -270,9 +271,9 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   +138 (2.38)\n• Odds history:\n  ◦ 2 Nov: Medic 🟢 -150 (1.67) | Hol
  land 🔴 +144 (2.44)\n  ◦ 6 Nov: Medic 🟢 -163 (1.61) | Holland 🔴 
  +170 (2.70)\n  ◦ 9 Nov: Medic 🟢 -144 (1.69) | Holland 🔴 +138 (2.38
- )\n  ◦ Earlier changes: see full odds log\nEvent: UFC 334: Gane vs Hokit
- \nSource: https://www.ufc.com/event/ufc-334\nMain calendar: https://stairc
- asewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+ )\n  ◦ Earlier changes: see full odds log\nEvent: Polymarket UFC 334: Ga
+ ne vs Hokit\nSource: https://www.ufc.com/event/ufc-334\nMain calendar: htt
+ ps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -282,8 +283,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-fight-13144@ufc-detailed-calendar
 DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:0
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:1
 DTSTART:20261115T020000Z
 DTEND:20261115T023000Z
 SUMMARY:🥊 1. Bilal Hasan vs. Luis Gurule (estimated)
@@ -293,9 +294,9 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
  • Odds history:\n  ◦ 2 Nov: Hasan 🟢 -809 (1.12) | Gurule 🔴 +733 
  (8.33)\n  ◦ 6 Nov: Hasan 🟢 -567 (1.18) | Gurule 🔴 +600 (7.00)\n  
  ◦ 9 Nov: Hasan 🟢 -809 (1.12) | Gurule 🔴 +733 (8.33)\n  ◦ Earlier
-  changes: see full odds log\nEvent: UFC 334: Gane vs Hokit\nSource: https:
- //www.ufc.com/event/ufc-334\nMain calendar: https://staircasewit.github.io
- /mmacalendar/ufc.ics\nEvent status: Scheduled
+  changes: see full odds log\nEvent: Polymarket UFC 334: Gane vs Hokit\nSou
+ rce: https://www.ufc.com/event/ufc-334\nMain calendar: https://staircasewi
+ t.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -492,6 +493,258 @@ LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
 RELATED-TO:ufc-fight-night-november-21-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-december-05-2026-fight-13245@ufc-detailed-calendar
+DTSTAMP:20261111T142813Z
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:0
+DTSTART:20261205T203000Z
+DTEND:20261205T210000Z
+SUMMARY:🥊 12. Israel Adesanya vs. Shara Magomedov (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
+ • Adesanya: 24-6-0 | 37yo | Freestyle\n• Magomedov: 17-1-0 | 32yo\n•
+  Odds history: not checked yet\nEvent: UFC Fight Night: Adesanya vs Magome
+ dov\nSource: https://www.ufc.com/event/ufc-fight-night-december-05-2026\nM
+ ain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent st
+ atus: Scheduled
+LOCATION:The Venue\, Riyadh\, Saudi Arabia
+URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-december-05-2026-fight-13246@ufc-detailed-calendar
+DTSTAMP:20261111T142813Z
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:0
+DTSTART:20261205T200000Z
+DTEND:20261205T203000Z
+SUMMARY:🥊 11. Ian Machado Garry vs. Yaroslav Amosov (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Machado Garry: 17-2-0 | 29yo\n• Amosov: 29-1-0 | 33yo\n• Odds hist
+ ory: not checked yet\nEvent: UFC Fight Night: Adesanya vs Magomedov\nSourc
+ e: https://www.ufc.com/event/ufc-fight-night-december-05-2026\nMain calend
+ ar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sche
+ duled
+LOCATION:The Venue\, Riyadh\, Saudi Arabia
+URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-december-05-2026-fight-13247@ufc-detailed-calendar
+DTSTAMP:20261111T142813Z
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:0
+DTSTART:20261205T193000Z
+DTEND:20261205T200000Z
+SUMMARY:🥊 10. Serghei Spivac vs. Mario Pinto (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n
+ • Spivac: 18-7-0 | 31yo | Sambo\n• Pinto: 13-0-0 | 28yo | MMA\n• Odd
+ s history: not checked yet\nEvent: UFC Fight Night: Adesanya vs Magomedov\
+ nSource: https://www.ufc.com/event/ufc-fight-night-december-05-2026\nMain 
+ calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status
+ : Scheduled
+LOCATION:The Venue\, Riyadh\, Saudi Arabia
+URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-december-05-2026-fight-13248@ufc-detailed-calendar
+DTSTAMP:20261111T142813Z
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:0
+DTSTART:20261205T190000Z
+DTEND:20261205T193000Z
+SUMMARY:🥊 9. Levan Chokheli vs. Islam Dulatov (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Chokheli: 15-3-0 | 30yo | MMA\n• Dulatov: 12-1-0 | 28yo | MMA\n• O
+ dds history: not checked yet\nEvent: UFC Fight Night: Adesanya vs Magomedo
+ v\nSource: https://www.ufc.com/event/ufc-fight-night-december-05-2026\nMai
+ n calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent stat
+ us: Scheduled
+LOCATION:The Venue\, Riyadh\, Saudi Arabia
+URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-december-05-2026-fight-13249@ufc-detailed-calendar
+DTSTAMP:20261111T142813Z
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:0
+DTSTART:20261205T183000Z
+DTEND:20261205T190000Z
+SUMMARY:🥊 8. Mairon Santos vs. Akbar Abdullaev (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n•
+  Santos: 18-1-0 | 26yo | Striker\n• Abdullaev: 1-0-0 | 29yo\n• Odds hi
+ story: not checked yet\nEvent: UFC Fight Night: Adesanya vs Magomedov\nSou
+ rce: https://www.ufc.com/event/ufc-fight-night-december-05-2026\nMain cale
+ ndar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sc
+ heduled
+LOCATION:The Venue\, Riyadh\, Saudi Arabia
+URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-december-05-2026-fight-13250@ufc-detailed-calendar
+DTSTAMP:20261111T142813Z
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:0
+DTSTART:20261205T180000Z
+DTEND:20261205T183000Z
+SUMMARY:🥊 7. Magomed Tuchalov vs. Ion Cutelaba (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 205lbs/93kg Light Heavyweigh
+ t\n• Tuchalov: 7-0-0 | 26yo | Striker\n• Cutelaba: 20-12-1 | 32yo | Sa
+ mbo\n• Odds history: not checked yet\nEvent: UFC Fight Night: Adesanya v
+ s Magomedov\nSource: https://www.ufc.com/event/ufc-fight-night-december-05
+ -2026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\n
+ Event status: Scheduled
+LOCATION:The Venue\, Riyadh\, Saudi Arabia
+URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-december-05-2026-fight-13251@ufc-detailed-calendar
+DTSTAMP:20261111T142813Z
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:0
+DTSTART:20261205T173000Z
+DTEND:20261205T180000Z
+SUMMARY:🥊 6. Bruno Silva vs. Jafel Filho (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 125lbs/57kg Flyweight\n• S
+ ilva: 15-9-2 | 36yo | Grappler\n• Filho: 17-5-0 | 33yo | Grappler\n• O
+ dds history: not checked yet\nEvent: UFC Fight Night: Adesanya vs Magomedo
+ v\nSource: https://www.ufc.com/event/ufc-fight-night-december-05-2026\nMai
+ n calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent stat
+ us: Scheduled
+LOCATION:The Venue\, Riyadh\, Saudi Arabia
+URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-december-05-2026-fight-13252@ufc-detailed-calendar
+DTSTAMP:20261111T142813Z
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:0
+DTSTART:20261205T170000Z
+DTEND:20261205T173000Z
+SUMMARY:🥊 5. Uran Satybaldiev vs. Ivan Gnizditskiy (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 205lbs/93kg Light Heavyweigh
+ t\n• Satybaldiev: 9-1-0 | 32yo | MMA\n• Gnizditskiy: 0-0-0 | 30yo\n•
+  Odds history: not checked yet\nEvent: UFC Fight Night: Adesanya vs Magome
+ dov\nSource: https://www.ufc.com/event/ufc-fight-night-december-05-2026\nM
+ ain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent st
+ atus: Scheduled
+LOCATION:The Venue\, Riyadh\, Saudi Arabia
+URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-december-05-2026-fight-13253@ufc-detailed-calendar
+DTSTAMP:20261111T142813Z
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:0
+DTSTART:20261205T163000Z
+DTEND:20261205T170000Z
+SUMMARY:🥊 4. Marco Tulio vs. JunYong Park (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
+ • Tulio: 14-3-0 | 32yo | Striker\n• Park: 19-7-0 | 35yo | Boxing\n• 
+ Odds history: not checked yet\nEvent: UFC Fight Night: Adesanya vs Magomed
+ ov\nSource: https://www.ufc.com/event/ufc-fight-night-december-05-2026\nMa
+ in calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent sta
+ tus: Scheduled
+LOCATION:The Venue\, Riyadh\, Saudi Arabia
+URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-december-05-2026-fight-13254@ufc-detailed-calendar
+DTSTAMP:20261111T142813Z
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:0
+DTSTART:20261205T160000Z
+DTEND:20261205T163000Z
+SUMMARY:🥊 3. Pavel Andrusca vs. Mahammadali Osmanli (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n
+ • Andrusca: 9-0-0 | 24yo\n• Osmanli: 13-2-0 | 22yo | MMA\n• Odds his
+ tory: not checked yet\nEvent: UFC Fight Night: Adesanya vs Magomedov\nSour
+ ce: https://www.ufc.com/event/ufc-fight-night-december-05-2026\nMain calen
+ dar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sch
+ eduled
+LOCATION:The Venue\, Riyadh\, Saudi Arabia
+URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-december-05-2026-fight-13255@ufc-detailed-calendar
+DTSTAMP:20261111T142813Z
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:0
+DTSTART:20261205T153000Z
+DTEND:20261205T160000Z
+SUMMARY:🥊 2. Modestino Rodrigues vs. Matthieu Duclos (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
+ • Rodrigues: 1-0-0 | 23yo\n• Duclos: 11-3-0 | 31yo | MMA\n• Odds his
+ tory: not checked yet\nEvent: UFC Fight Night: Adesanya vs Magomedov\nSour
+ ce: https://www.ufc.com/event/ufc-fight-night-december-05-2026\nMain calen
+ dar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sch
+ eduled
+LOCATION:The Venue\, Riyadh\, Saudi Arabia
+URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-december-05-2026-fight-13256@ufc-detailed-calendar
+DTSTAMP:20261111T142813Z
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:0
+DTSTART:20261205T150000Z
+DTEND:20261205T153000Z
+SUMMARY:🥊 1. Abdul Hussein vs. Hecher Sosa (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n
+ • Hussein: 16-2-0 | 29yo | Brazilian Jiu-Jitsu\n• Sosa: 15-1-0 | 31yo 
+ | MMA\n• Odds history: not checked yet\nEvent: UFC Fight Night: Adesanya
+  vs Magomedov\nSource: https://www.ufc.com/event/ufc-fight-night-december-
+ 05-2026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics
+ \nEvent status: Scheduled
+LOCATION:The Venue\, Riyadh\, Saudi Arabia
+URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT

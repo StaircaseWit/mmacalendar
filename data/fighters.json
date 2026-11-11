@@ -388,9 +388,9 @@
     "https://www.ufc.com/athlete/heili-alateng": {
       "birthDate": "1991-12-14",
       "familyName": "Alateng",
-      "record": "17-10-2",
+      "record": "18-10-2",
       "fightingStyle": "Wrestling",
-      "checkedAt": "2026-09-21T12:54:10.490Z"
+      "checkedAt": "2026-11-11T14:28:13.039Z"
     },
     "https://www.ufc.com/athlete/norma-dumont": {
       "birthDate": "1990-10-01",
@@ -1384,7 +1384,7 @@
       "familyName": "Tuchalov",
       "record": "7-0-0",
       "fightingStyle": "Striker",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
+      "checkedAt": "2026-11-11T14:28:13.039Z"
     },
     "https://www.ufc.com/athlete/brendson-ribeiro": {
       "birthDate": "1996-09-08",
@@ -1412,7 +1412,7 @@
       "familyName": "Hussein",
       "record": "16-2-0",
       "fightingStyle": "Brazilian Jiu-Jitsu",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
+      "checkedAt": "2026-11-11T14:28:13.039Z"
     },
     "https://www.ufc.com/athlete/magomed-ankalaev": {
       "birthDate": "1992-06-02",
@@ -1937,7 +1937,7 @@
       "familyName": "Machado Garry",
       "record": "17-2-0",
       "fightingStyle": null,
-      "checkedAt": "2026-09-13T08:04:44.499Z"
+      "checkedAt": "2026-11-11T14:28:13.039Z"
     },
     "https://www.ufc.com/athlete/mackenzie-dern": {
       "birthDate": "1993-03-24",
@@ -2098,7 +2098,7 @@
       "familyName": "Spivac",
       "record": "18-7-0",
       "fightingStyle": "Sambo",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
+      "checkedAt": "2026-11-11T14:28:13.039Z"
     },
     "https://www.ufc.com/athlete/vitor-petrino": {
       "birthDate": "1997-08-28",
@@ -2287,7 +2287,7 @@
       "familyName": "Pinto",
       "record": "13-0-0",
       "fightingStyle": "MMA",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
+      "checkedAt": "2026-11-11T14:28:13.039Z"
     },
     "https://www.ufc.com/athlete/ryan-spann": {
       "birthDate": "1991-08-24",
@@ -2315,7 +2315,7 @@
       "familyName": "Andrusca",
       "record": "9-0-0",
       "fightingStyle": null,
-      "checkedAt": "2026-09-13T08:04:44.499Z"
+      "checkedAt": "2026-11-11T14:28:13.039Z"
     },
     "https://www.ufc.com/athlete/michael-aljarouj": {
       "birthDate": "1997-08-21",
@@ -2364,7 +2364,7 @@
       "familyName": "Letho Duclos",
       "record": "11-3-0",
       "fightingStyle": "MMA",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
+      "checkedAt": "2026-11-11T14:28:13.039Z"
     },
     "https://www.ufc.com/athlete/delphine-benouaich": {
       "birthDate": "1995-03-21",
@@ -2840,7 +2840,7 @@
       "familyName": "Osmanli",
       "record": "13-2-0",
       "fightingStyle": "MMA",
-      "checkedAt": "2026-10-02T12:41:53.475Z"
+      "checkedAt": "2026-11-11T14:28:13.039Z"
     },
     "https://www.ufc.com/athlete/natalia-silva": {
       "birthDate": "1997-02-03",
@@ -3345,6 +3345,118 @@
       "record": "15-4-1",
       "fightingStyle": "Freestyle",
       "checkedAt": "2026-11-06T14:21:26.351Z"
+    },
+    "https://www.ufc.com/athlete/shara-magomedov": {
+      "birthDate": "1994-05-16",
+      "familyName": "Magomedov",
+      "record": "17-1-0",
+      "fightingStyle": null,
+      "checkedAt": "2026-11-11T14:28:13.039Z"
+    },
+    "https://www.ufc.com/athlete/israel-adesanya": {
+      "birthDate": "1989-07-22",
+      "familyName": "Adesanya",
+      "record": "24-6-0",
+      "fightingStyle": "Freestyle",
+      "checkedAt": "2026-11-11T14:28:13.039Z"
+    },
+    "https://www.ufc.com/athlete/levan-chokheli": {
+      "birthDate": "1996-10-02",
+      "familyName": "Chokheli",
+      "record": "15-3-0",
+      "fightingStyle": "MMA",
+      "checkedAt": "2026-11-11T14:28:13.039Z"
+    },
+    "https://www.ufc.com/athlete/mairon-santos-alves": {
+      "birthDate": "2000-06-10",
+      "familyName": "Santos Alves",
+      "record": "18-1-0",
+      "fightingStyle": "Striker",
+      "checkedAt": "2026-11-11T14:28:13.039Z"
+    },
+    "https://www.ufc.com/athlete/akbar-abdullaev": {
+      "birthDate": "1997-09-21",
+      "familyName": "Abdullaev",
+      "record": "1-0-0",
+      "fightingStyle": null,
+      "checkedAt": "2026-11-11T14:28:13.039Z"
+    },
+    "https://www.ufc.com/athlete/yaroslav-amosov": {
+      "birthDate": "1993-09-09",
+      "familyName": "Amosov",
+      "record": "29-1-0",
+      "fightingStyle": null,
+      "checkedAt": "2026-11-11T14:28:13.039Z"
+    },
+    "https://www.ufc.com/athlete/bruno-silva": {
+      "birthDate": "1990-03-16",
+      "familyName": "Silva",
+      "record": "15-9-2",
+      "fightingStyle": "Grappler",
+      "checkedAt": "2026-11-11T14:28:13.039Z"
+    },
+    "https://www.ufc.com/athlete/islam-dulatov": {
+      "birthDate": "1998-08-02",
+      "familyName": "Dulatov",
+      "record": "12-1-0",
+      "fightingStyle": "MMA",
+      "checkedAt": "2026-11-11T14:28:13.039Z"
+    },
+    "https://www.ufc.com/athlete/ivan-gnizditskiy": {
+      "birthDate": "1996-05-10",
+      "familyName": "Gnizditskiy",
+      "record": "0-0-0",
+      "fightingStyle": null,
+      "checkedAt": "2026-11-11T14:28:13.039Z"
+    },
+    "https://www.ufc.com/athlete/uran-satybaldiev": {
+      "birthDate": "1994-08-10",
+      "familyName": "Satybaldiev",
+      "record": "9-1-0",
+      "fightingStyle": "MMA",
+      "checkedAt": "2026-11-11T14:28:13.039Z"
+    },
+    "https://www.ufc.com/athlete/jafel-filho": {
+      "birthDate": "1993-05-05",
+      "familyName": "Filho",
+      "record": "17-5-0",
+      "fightingStyle": "Grappler",
+      "checkedAt": "2026-11-11T14:28:13.039Z"
+    },
+    "https://www.ufc.com/athlete/ion-cutelaba": {
+      "birthDate": "1993-12-14",
+      "familyName": "Cutelaba",
+      "record": "20-12-1",
+      "fightingStyle": "Sambo",
+      "checkedAt": "2026-11-11T14:28:13.039Z"
+    },
+    "https://www.ufc.com/athlete/modestino-rodrigues": {
+      "birthDate": "2003-10-09",
+      "familyName": "Rodrigues",
+      "record": "1-0-0",
+      "fightingStyle": null,
+      "checkedAt": "2026-11-11T14:28:13.039Z"
+    },
+    "https://www.ufc.com/athlete/marco-tulio": {
+      "birthDate": "1994-06-13",
+      "familyName": "Tulio",
+      "record": "14-3-0",
+      "fightingStyle": "Striker",
+      "checkedAt": "2026-11-11T14:28:13.039Z"
+    },
+    "https://www.ufc.com/athlete/jun-yong-park": {
+      "birthDate": "1990-12-11",
+      "familyName": "Park",
+      "record": "19-7-0",
+      "fightingStyle": "Boxing",
+      "checkedAt": "2026-11-11T14:28:13.039Z"
+    },
+    "https://www.ufc.com/athlete/hecher-sosa": {
+      "birthDate": "1995-08-25",
+      "familyName": "Sosa",
+      "record": "15-1-0",
+      "fightingStyle": "MMA",
+      "checkedAt": "2026-11-11T14:28:13.039Z"
     }
   }
 }

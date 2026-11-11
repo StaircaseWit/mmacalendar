@@ -4572,11 +4572,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-early-prelims@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:9
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:10
 DTSTART:20261114T220000Z
 DTEND:20261115T000000Z
-SUMMARY:Early Prelims – UFC 334: Gane vs Hokit
+SUMMARY:Early Prelims – Polymarket UFC 334: Gane vs Hokit
 DESCRIPTION:UFC · Early Prelims · 4 bouts\n📍 Madison Square Garden\, N
  ew York\, United States\n🕒 22:00–Sun 00:00 Ireland\n\n---------------
  -----------------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\
@@ -4592,25 +4592,26 @@ DESCRIPTION:UFC · Early Prelims · 4 bouts\n📍 Madison Square Garden\, N
  | 35yo | Brazilian Jiu-Jitsu | -215 (1.47)\n• Odds history:\n  ◦ 2 Nov
  : Chiasson 🔴 +194 (2.94) | Mesquita 🟢 -203 (1.49)\n  ◦ 6 Nov: Chia
  sson 🔴 +186 (2.86) | Mesquita 🟢 -194 (1.52)\n  ◦ 9 Nov: Chiasson 
- 🔴 +223 (3.23) | Mesquita 🟢 -215 (1.47)\n\n🥊 2. 𝗔𝗱𝗿𝗶
- 𝗮𝗻 𝗬𝗮𝗻𝗲𝘇 🇺🇸 vs. 𝗝𝘂𝗮𝗻 𝗗𝗶𝗮
- 𝘇 🇵🇪\n• 135lbs/61kg Bantamweight\n• Yanez: 18-6-1 | 32yo | Bo
- xer\n• Diaz: 16-1-1 | 28yo | MMA\n• Odds history: not checked yet\n\n
- 🥊 1. 𝗘𝘃𝗮𝗻 𝗘𝗹𝗱𝗲𝗿 🇺🇸 vs. 𝗦𝗮𝗺
- 𝘂𝗲𝗹 𝗦𝗮𝗻𝗰𝗵𝗲𝘀 🇧🇷\n• 155lbs/70kg Lightw
- eight\n• Elder: 10-2-0 | 29yo | MMA | -100 (2.00)\n• Sanches: 1-0-0 | 
- 23yo | -107 (1.93)\n• Odds history:\n  ◦ 6 Nov: Elder 🟢 -117 (1.85)
-  | Sanches 🔴 +113 (2.13)\n  ◦ 9 Nov: Elder 🔴 -100 (2.00) | Sanches
-  🟢 -107 (1.93)\n\n--------------------------------\n𝗖𝗔𝗡𝗖
- 𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕
- 𝗢𝗨𝗧𝗦\n--------------------------------\n✕ Donte Johnson vs. 
- Baisangur Susurkaev · 185lbs/84kg Middleweight | Removed from the UFC car
- d\n✕ Nazim Sadykhov vs. Jefferson Nascimento · 155lbs/70kg Lightweight 
- | Removed from the UFC card\n\n--------------------------------\nSource: h
- ttps://www.ufc.com/event/ufc-334\nOdds source: https://www.bestfightodds.c
- om/ · best available line · checked Monday and Friday\nFull odds log: ht
- tps://staircasewit.github.io/mmacalendar/odds-history.html\nEvent status: 
- Scheduled
+ 🔴 +223 (3.23) | Mesquita 🟢 -215 (1.47)\n\n🥊 2. 𝗔𝗹𝗮𝘁
+ 𝗲𝗻𝗴𝗵𝗲𝗶𝗹𝗶 🇨🇳 vs. 𝗝𝘂𝗮𝗻 𝗗𝗶
+ 𝗮𝘇 🇵🇪\n• 135lbs/61kg Bantamweight\n• Alateng: 18-10-2 | 34
+ yo | Wrestling\n• Diaz: 16-1-1 | 28yo | MMA\n• Odds history: not check
+ ed yet\n\n🥊 1. 𝗘𝘃𝗮𝗻 𝗘𝗹𝗱𝗲𝗿 🇺🇸 vs. 𝗦
+ 𝗮𝗺𝘂𝗲𝗹 𝗦𝗮𝗻𝗰𝗵𝗲𝘀 🇧🇷\n• 155lbs/70k
+ g Lightweight\n• Elder: 10-2-0 | 29yo | MMA | -100 (2.00)\n• Sanches: 
+ 1-0-0 | 23yo | -107 (1.93)\n• Odds history:\n  ◦ 6 Nov: Elder 🟢 -11
+ 7 (1.85) | Sanches 🔴 +113 (2.13)\n  ◦ 9 Nov: Elder 🔴 -100 (2.00) |
+  Sanches 🟢 -107 (1.93)\n\n--------------------------------\n𝗖𝗔
+ 𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡
+  𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n✕ Donte Johnson
+  vs. Baisangur Susurkaev · 185lbs/84kg Middleweight | Removed from the UF
+ C card\n✕ Nazim Sadykhov vs. Jefferson Nascimento · 155lbs/70kg Lightwe
+ ight | Removed from the UFC card\n✕ Adrian Yanez vs. Juan Diaz · 135lbs
+ /61kg Bantamweight | Removed from the UFC card\n\n------------------------
+ --------\nSource: https://www.ufc.com/event/ufc-334\nOdds source: https://
+ www.bestfightodds.com/ · best available line · checked Monday and Friday
+ \nFull odds log: https://staircasewit.github.io/mmacalendar/odds-history.h
+ tml\nEvent status: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · 4 bouts
  <br>📍 Madison Square Garden\, New York\, United States<br>🕒 22:00–
  Sun 00:00 Ireland</p><p>--------------------------------<br><strong>𝗕
@@ -4628,27 +4629,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · 4 bouts
   -215 (1.47)<br>• Odds history:<br>◦ 2 Nov: Chiasson 🔴 +194 (2.94) 
  | Mesquita 🟢 -203 (1.49)<br>◦ 6 Nov: Chiasson 🔴 +186 (2.86) | Mesq
  uita 🟢 -194 (1.52)<br>◦ 9 Nov: Chiasson 🔴 +223 (3.23) | Mesquita 
- 🟢 -215 (1.47)</p><p><strong>🥊 2. 𝗔𝗱𝗿𝗶𝗮𝗻 𝗬𝗮
- 𝗻𝗲𝘇 🇺🇸 vs. 𝗝𝘂𝗮𝗻 𝗗𝗶𝗮𝘇 🇵🇪</stro
- ng><br>• 135lbs/61kg Bantamweight<br>• Yanez: 18-6-1 | 32yo | Boxer<br
- >• Diaz: 16-1-1 | 28yo | MMA<br>• Odds history: not checked yet</p><p>
- <strong>🥊 1. 𝗘𝘃𝗮𝗻 𝗘𝗹𝗱𝗲𝗿 🇺🇸 vs. 𝗦
- 𝗮𝗺𝘂𝗲𝗹 𝗦𝗮𝗻𝗰𝗵𝗲𝘀 🇧🇷</strong><br>•
-  155lbs/70kg Lightweight<br>• Elder: 10-2-0 | 29yo | MMA | -100 (2.00)<b
- r>• Sanches: 1-0-0 | 23yo | -107 (1.93)<br>• Odds history:<br>◦ 6 No
- v: Elder 🟢 -117 (1.85) | Sanches 🔴 +113 (2.13)<br>◦ 9 Nov: Elder 
- 🔴 -100 (2.00) | Sanches 🟢 -107 (1.93)</p><p>------------------------
- --------<br><strong>𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜
- 𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢𝗨𝗧𝗦</strong><br>------------
- --------------------<br>✕ Donte Johnson vs. Baisangur Susurkaev · 185lb
- s/84kg Middleweight | Removed from the UFC card<br>✕ Nazim Sadykhov vs. 
- Jefferson Nascimento · 155lbs/70kg Lightweight | Removed from the UFC car
- d</p><p>--------------------------------<br>Source: <a href="https://www.u
- fc.com/event/ufc-334">UFC.com</a><br>Odds source: <a href="https://www.bes
- tfightodds.com/">BestFightOdds</a> · best available line · checked Monda
- y and Friday<br>Full odds log: <a href="https://staircasewit.github.io/mma
- calendar/odds-history.html">view history</a><br>Event status: Scheduled</p
- ></body></html>
+ 🟢 -215 (1.47)</p><p><strong>🥊 2. 𝗔𝗹𝗮𝘁𝗲𝗻𝗴𝗵
+ 𝗲𝗶𝗹𝗶 🇨🇳 vs. 𝗝𝘂𝗮𝗻 𝗗𝗶𝗮𝘇 🇵🇪</
+ strong><br>• 135lbs/61kg Bantamweight<br>• Alateng: 18-10-2 | 34yo | W
+ restling<br>• Diaz: 16-1-1 | 28yo | MMA<br>• Odds history: not checked
+  yet</p><p><strong>🥊 1. 𝗘𝘃𝗮𝗻 𝗘𝗹𝗱𝗲𝗿 🇺🇸 
+ vs. 𝗦𝗮𝗺𝘂𝗲𝗹 𝗦𝗮𝗻𝗰𝗵𝗲𝘀 🇧🇷</strong
+ ><br>• 155lbs/70kg Lightweight<br>• Elder: 10-2-0 | 29yo | MMA | -100 
+ (2.00)<br>• Sanches: 1-0-0 | 23yo | -107 (1.93)<br>• Odds history:<br>
+ ◦ 6 Nov: Elder 🟢 -117 (1.85) | Sanches 🔴 +113 (2.13)<br>◦ 9 Nov:
+  Elder 🔴 -100 (2.00) | Sanches 🟢 -107 (1.93)</p><p>-----------------
+ ---------------<br><strong>𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 
+ 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢𝗨𝗧𝗦</strong><br>----
+ ----------------------------<br>✕ Donte Johnson vs. Baisangur Susurkaev 
+ · 185lbs/84kg Middleweight | Removed from the UFC card<br>✕ Nazim Sadyk
+ hov vs. Jefferson Nascimento · 155lbs/70kg Lightweight | Removed from the
+  UFC card<br>✕ Adrian Yanez vs. Juan Diaz · 135lbs/61kg Bantamweight | 
+ Removed from the UFC card</p><p>--------------------------------<br>Source
+ : <a href="https://www.ufc.com/event/ufc-334">UFC.com</a><br>Odds source: 
+ <a href="https://www.bestfightodds.com/">BestFightOdds</a> · best availab
+ le line · checked Monday and Friday<br>Full odds log: <a href="https://st
+ aircasewit.github.io/mmacalendar/odds-history.html">view history</a><br>Ev
+ ent status: Scheduled</p></body></html>
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Early Prelims
@@ -4657,11 +4659,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-prelims@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:9
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:10
 DTSTART:20261115T000000Z
 DTEND:20261115T020000Z
-SUMMARY:Prelims – UFC 334: Gane vs Hokit
+SUMMARY:Prelims – Polymarket UFC 334: Gane vs Hokit
 DESCRIPTION:UFC · Prelims · 4 bouts\n📍 Madison Square Garden\, New Yor
  k\, United States\n🕒 00:00–02:00 Ireland\n\n-------------------------
  -------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 4.
@@ -4694,10 +4696,12 @@ DESCRIPTION:UFC · Prelims · 4 bouts\n📍 Madison Square Garden\, New Yor
  𝗦\n--------------------------------\n✕ Donte Johnson vs. Baisangur Su
  surkaev · 185lbs/84kg Middleweight | Removed from the UFC card\n✕ Nazim
   Sadykhov vs. Jefferson Nascimento · 155lbs/70kg Lightweight | Removed fr
- om the UFC card\n\n--------------------------------\nSource: https://www.u
- fc.com/event/ufc-334\nOdds source: https://www.bestfightodds.com/ · best 
- available line · checked Monday and Friday\nFull odds log: https://stairc
- asewit.github.io/mmacalendar/odds-history.html\nEvent status: Scheduled
+ om the UFC card\n✕ Adrian Yanez vs. Juan Diaz · 135lbs/61kg Bantamweigh
+ t | Removed from the UFC card\n\n--------------------------------\nSource:
+  https://www.ufc.com/event/ufc-334\nOdds source: https://www.bestfightodds
+ .com/ · best available line · checked Monday and Friday\nFull odds log: 
+ https://staircasewit.github.io/mmacalendar/odds-history.html\nEvent status
+ : Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 4 bouts<br>
  📍 Madison Square Garden\, New York\, United States<br>🕒 00:00–02:0
  0 Ireland</p><p>--------------------------------<br><strong>𝗕𝗢𝗨
@@ -4732,13 +4736,14 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 4 bouts<br>
  𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢𝗨𝗧𝗦</strong><br>----------------
  ----------------<br>✕ Donte Johnson vs. Baisangur Susurkaev · 185lbs/84
  kg Middleweight | Removed from the UFC card<br>✕ Nazim Sadykhov vs. Jeff
- erson Nascimento · 155lbs/70kg Lightweight | Removed from the UFC card</p
- ><p>--------------------------------<br>Source: <a href="https://www.ufc.c
- om/event/ufc-334">UFC.com</a><br>Odds source: <a href="https://www.bestfig
- htodds.com/">BestFightOdds</a> · best available line · checked Monday an
- d Friday<br>Full odds log: <a href="https://staircasewit.github.io/mmacale
- ndar/odds-history.html">view history</a><br>Event status: Scheduled</p></b
- ody></html>
+ erson Nascimento · 155lbs/70kg Lightweight | Removed from the UFC card<br
+ >✕ Adrian Yanez vs. Juan Diaz · 135lbs/61kg Bantamweight | Removed from
+  the UFC card</p><p>--------------------------------<br>Source: <a href="h
+ ttps://www.ufc.com/event/ufc-334">UFC.com</a><br>Odds source: <a href="htt
+ ps://www.bestfightodds.com/">BestFightOdds</a> · best available line · c
+ hecked Monday and Friday<br>Full odds log: <a href="https://staircasewit.g
+ ithub.io/mmacalendar/odds-history.html">view history</a><br>Event status: 
+ Scheduled</p></body></html>
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Prelims
@@ -4747,11 +4752,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-334-main-card@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:13
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:14
 DTSTART:20261115T020000Z
 DTEND:20261115T050000Z
-SUMMARY:Main Card – UFC 334: Gane vs Hokit
+SUMMARY:Main Card – Polymarket UFC 334: Gane vs Hokit
 DESCRIPTION:UFC · Main Card · 5 bouts\n📍 Madison Square Garden\, New Y
  ork\, United States\n🕒 02:00–05:00 Ireland\n\n-----------------------
  ---------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 
@@ -4793,11 +4798,12 @@ DESCRIPTION:UFC · Main Card · 5 bouts\n📍 Madison Square Garden\, New Y
  𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢𝗨𝗧𝗦\n-------------------
  -------------\n✕ Donte Johnson vs. Baisangur Susurkaev · 185lbs/84kg Mi
  ddleweight | Removed from the UFC card\n✕ Nazim Sadykhov vs. Jefferson N
- ascimento · 155lbs/70kg Lightweight | Removed from the UFC card\n\n------
- --------------------------\nSource: https://www.ufc.com/event/ufc-334\nOdd
- s source: https://www.bestfightodds.com/ · best available line · checked
-  Monday and Friday\nFull odds log: https://staircasewit.github.io/mmacalen
- dar/odds-history.html\nEvent status: Scheduled
+ ascimento · 155lbs/70kg Lightweight | Removed from the UFC card\n✕ Adri
+ an Yanez vs. Juan Diaz · 135lbs/61kg Bantamweight | Removed from the UFC 
+ card\n\n--------------------------------\nSource: https://www.ufc.com/even
+ t/ufc-334\nOdds source: https://www.bestfightodds.com/ · best available l
+ ine · checked Monday and Friday\nFull odds log: https://staircasewit.gith
+ ub.io/mmacalendar/odds-history.html\nEvent status: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  📍 Madison Square Garden\, New York\, United States<br>🕒 02:00–05:0
  0 Ireland</p><p>--------------------------------<br><strong>𝗕𝗢𝗨
@@ -4843,12 +4849,13 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  ------------------------<br>✕ Donte Johnson vs. Baisangur Susurkaev · 1
  85lbs/84kg Middleweight | Removed from the UFC card<br>✕ Nazim Sadykhov 
  vs. Jefferson Nascimento · 155lbs/70kg Lightweight | Removed from the UFC
-  card</p><p>--------------------------------<br>Source: <a href="https://w
- ww.ufc.com/event/ufc-334">UFC.com</a><br>Odds source: <a href="https://www
- .bestfightodds.com/">BestFightOdds</a> · best available line · checked M
- onday and Friday<br>Full odds log: <a href="https://staircasewit.github.io
- /mmacalendar/odds-history.html">view history</a><br>Event status: Schedule
- d</p></body></html>
+  card<br>✕ Adrian Yanez vs. Juan Diaz · 135lbs/61kg Bantamweight | Remo
+ ved from the UFC card</p><p>--------------------------------<br>Source: <a
+  href="https://www.ufc.com/event/ufc-334">UFC.com</a><br>Odds source: <a h
+ ref="https://www.bestfightodds.com/">BestFightOdds</a> · best available l
+ ine · checked Monday and Friday<br>Full odds log: <a href="https://stairc
+ asewit.github.io/mmacalendar/odds-history.html">view history</a><br>Event 
+ status: Scheduled</p></body></html>
 LOCATION:Madison Square Garden\, New York\, United States
 URL:https://www.ufc.com/event/ufc-334
 CATEGORIES:UFC,Main Card
@@ -4994,6 +5001,160 @@ CATEGORIES:UFC,Main Card
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:ufc-fight-night-december-05-2026-prelims@ufc-detailed-calendar
+DTSTAMP:20261111T142813Z
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:0
+DTSTART:20261205T150000Z
+DTEND:20261205T180000Z
+SUMMARY:Prelims – UFC Fight Night: Adesanya vs Magomedov
+DESCRIPTION:UFC · Prelims · fight card TBD\n📍 The Venue\, Riyadh\, Sau
+ di Arabia\n🕒 15:00–18:00 Ireland\nThis provisional entry updates auto
+ matically as UFC finalises the card.\n\n--------------------------------\n
+ 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\nNo bouts announc
+ ed yet.\n\n--------------------------------\nSource: https://www.ufc.com/e
+ vent/ufc-fight-night-december-05-2026\nFull odds log: https://staircasewit
+ .github.io/mmacalendar/odds-history.html\nEvent status: Scheduled
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · fight card TB
+ D<br>📍 The Venue\, Riyadh\, Saudi Arabia<br>🕒 15:00–18:00 Ireland<
+ br>This provisional entry updates automatically as UFC finalises the card.
+ </p><p>--------------------------------<br><strong>𝗕𝗢𝗨𝗧𝗦</s
+ trong><br>--------------------------------</p><p>No bouts announced yet.</
+ p><p>--------------------------------<br>Source: <a href="https://www.ufc.
+ com/event/ufc-fight-night-december-05-2026">UFC.com</a><br>Full odds log: 
+ <a href="https://staircasewit.github.io/mmacalendar/odds-history.html">vie
+ w history</a><br>Event status: Scheduled</p></body></html>
+LOCATION:The Venue\, Riyadh\, Saudi Arabia
+URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
+CATEGORIES:UFC,Prelims
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
+DTSTAMP:20261111T142813Z
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:0
+DTSTART:20261205T180000Z
+DTEND:20261205T210000Z
+SUMMARY:Main Card – UFC Fight Night: Adesanya vs Magomedov
+DESCRIPTION:UFC · Main Card · 12 bouts announced · placement TBD\n📍 T
+ he Venue\, Riyadh\, Saudi Arabia\n🕒 18:00–21:00 Ireland\nThis provisi
+ onal entry updates automatically as UFC finalises the card.\n\n-----------
+ ---------------------\n𝗕𝗢𝗨𝗧𝗦\n-----------------------------
+ ---\n\n🥊 12. 𝗜𝘀𝗿𝗮𝗲𝗹 𝗔𝗱𝗲𝘀𝗮𝗻𝘆𝗮 
+ (#9) 🇳🇬 vs. 𝗦𝗵𝗮𝗿𝗮 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝗼
+ 𝘃 (#15) 🇷🇺\n• 185lbs/84kg Middleweight\n• Adesanya: 24-6-0 | 
+ 37yo | Freestyle\n• Magomedov: 17-1-0 | 32yo\n• Odds history: not chec
+ ked yet\n\n🥊 11. 𝗜𝗮𝗻 𝗠𝗮𝗰𝗵𝗮𝗱𝗼 𝗚𝗮𝗿
+ 𝗿𝘆 (#1) 🇮🇪 vs. 𝗬𝗮𝗿𝗼𝘀𝗹𝗮𝘃 𝗔𝗺𝗼
+ 𝘀𝗼𝘃 (#11) 🇺🇦\n• 170lbs/77kg Welterweight\n• Machado Gar
+ ry: 17-2-0 | 29yo\n• Amosov: 29-1-0 | 33yo\n• Odds history: not checke
+ d yet\n\n🥊 10. 𝗦𝗲𝗿𝗴𝗵𝗲𝗶 𝗦𝗽𝗶𝘃𝗮𝗰 (#
+ 9) 🇲🇩 vs. 𝗠𝗮𝗿𝗶𝗼 𝗣𝗶𝗻𝘁𝗼 (#15) 🇵🇹\n
+ • 265lbs/120kg Heavyweight\n• Spivac: 18-7-0 | 31yo | Sambo\n• Pinto
+ : 13-0-0 | 28yo | MMA\n• Odds history: not checked yet\n\n🥊 9. 𝗟
+ 𝗲𝘃𝗮𝗻 𝗖𝗵𝗼𝗸𝗵𝗲𝗹𝗶 🇬🇪 vs. 𝗜𝘀
+ 𝗹𝗮𝗺 𝗗𝘂𝗹𝗮𝘁𝗼𝘃 🇹🇷\n• 170lbs/77kg Welter
+ weight\n• Chokheli: 15-3-0 | 30yo | MMA\n• Dulatov: 12-1-0 | 28yo | MM
+ A\n• Odds history: not checked yet\n\n🥊 8. 𝗠𝗮𝗶𝗿𝗼𝗻 
+ 𝗦𝗮𝗻𝘁𝗼𝘀 🇧🇷 vs. 𝗔𝗸𝗯𝗮𝗿 𝗔𝗯𝗱
+ 𝘂𝗹𝗹𝗮𝗲𝘃 🇰🇬\n• 155lbs/70kg Lightweight\n• Santos
+ : 18-1-0 | 26yo | Striker\n• Abdullaev: 1-0-0 | 29yo\n• Odds history: 
+ not checked yet\n\n🥊 7. 𝗠𝗮𝗴𝗼𝗺𝗲𝗱 𝗧𝘂𝗰𝗵
+ 𝗮𝗹𝗼𝘃 🇷🇺 vs. 𝗜𝗼𝗻 𝗖𝘂𝘁𝗲𝗹𝗮𝗯
+ 𝗮 🇲🇩\n• 205lbs/93kg Light Heavyweight\n• Tuchalov: 7-0-0 | 26
+ yo | Striker\n• Cutelaba: 20-12-1 | 32yo | Sambo\n• Odds history: not 
+ checked yet\n\n🥊 6. 𝗕𝗿𝘂𝗻𝗼 𝗦𝗶𝗹𝘃𝗮 🇧🇷 
+ vs. 𝗝𝗮𝗳𝗲𝗹 𝗙𝗶𝗹𝗵𝗼 🇧🇷\n• 125lbs/57kg Fl
+ yweight\n• Silva: 15-9-2 | 36yo | Grappler\n• Filho: 17-5-0 | 33yo | G
+ rappler\n• Odds history: not checked yet\n\n🥊 5. 𝗨𝗿𝗮𝗻 
+ 𝗦𝗮𝘁𝘆𝗯𝗮𝗹𝗱𝗶𝗲𝘃 🇰🇬 vs. 𝗜𝘃𝗮𝗻
+  𝗚𝗻𝗶𝘇𝗱𝗶𝘁𝘀𝗸𝗶𝘆\n• 205lbs/93kg Light Heavy
+ weight\n• Satybaldiev: 9-1-0 | 32yo | MMA\n• Gnizditskiy: 0-0-0 | 30yo
+ \n• Odds history: not checked yet\n\n🥊 4. 𝗠𝗮𝗿𝗰𝗼 𝗧
+ 𝘂𝗹𝗶𝗼 🇧🇷 vs. 𝗝𝘂𝗻𝗬𝗼𝗻𝗴 𝗣𝗮𝗿
+ 𝗸 🇰🇷\n• 185lbs/84kg Middleweight\n• Tulio: 14-3-0 | 32yo | St
+ riker\n• Park: 19-7-0 | 35yo | Boxing\n• Odds history: not checked yet
+ \n\n🥊 3. 𝗣𝗮𝘃𝗲𝗹 𝗔𝗻𝗱𝗿𝘂𝘀𝗰𝗮 🇲🇩
+  vs. 𝗠𝗮𝗵𝗮𝗺𝗺𝗮𝗱𝗮𝗹𝗶 𝗢𝘀𝗺𝗮𝗻𝗹
+ 𝗶 🇦🇿\n• 135lbs/61kg Bantamweight\n• Andrusca: 9-0-0 | 24yo\n
+ • Osmanli: 13-2-0 | 22yo | MMA\n• Odds history: not checked yet\n\n
+ 🥊 2. 𝗠𝗼𝗱𝗲𝘀𝘁𝗶𝗻𝗼 𝗥𝗼𝗱𝗿𝗶𝗴𝘂
+ 𝗲𝘀 🇧🇷 vs. 𝗠𝗮𝘁𝘁𝗵𝗶𝗲𝘂 𝗗𝘂𝗰𝗹
+ 𝗼𝘀 🇫🇷\n• 185lbs/84kg Middleweight\n• Rodrigues: 1-0-0 | 23
+ yo\n• Duclos: 11-3-0 | 31yo | MMA\n• Odds history: not checked yet\n\n
+ 🥊 1. 𝗔𝗯𝗱𝘂𝗹 𝗛𝘂𝘀𝘀𝗲𝗶𝗻 🇫🇮 vs. 
+ 𝗛𝗲𝗰𝗵𝗲𝗿 𝗦𝗼𝘀𝗮 🇪🇸\n• 135lbs/61kg Bantam
+ weight\n• Hussein: 16-2-0 | 29yo | Brazilian Jiu-Jitsu\n• Sosa: 15-1-0
+  | 31yo | MMA\n• Odds history: not checked yet\n\n----------------------
+ ----------\nSource: https://www.ufc.com/event/ufc-fight-night-december-05-
+ 2026\nFull odds log: https://staircasewit.github.io/mmacalendar/odds-histo
+ ry.html\nEvent status: Scheduled
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 12 bouts an
+ nounced · placement TBD<br>📍 The Venue\, Riyadh\, Saudi Arabia<br>🕒
+  18:00–21:00 Ireland<br>This provisional entry updates automatically as 
+ UFC finalises the card.</p><p>--------------------------------<br><strong>
+ 𝗕𝗢𝗨𝗧𝗦</strong><br>--------------------------------</p><p><s
+ trong>🥊 12. 𝗜𝘀𝗿𝗮𝗲𝗹 𝗔𝗱𝗲𝘀𝗮𝗻𝘆𝗮 (
+ #9) 🇳🇬 vs. 𝗦𝗵𝗮𝗿𝗮 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝗼𝘃
+  (#15) 🇷🇺</strong><br>• 185lbs/84kg Middleweight<br>• Adesanya: 
+ 24-6-0 | 37yo | Freestyle<br>• Magomedov: 17-1-0 | 32yo<br>• Odds hist
+ ory: not checked yet</p><p><strong>🥊 11. 𝗜𝗮𝗻 𝗠𝗮𝗰𝗵
+ 𝗮𝗱𝗼 𝗚𝗮𝗿𝗿𝘆 (#1) 🇮🇪 vs. 𝗬𝗮𝗿𝗼𝘀
+ 𝗹𝗮𝘃 𝗔𝗺𝗼𝘀𝗼𝘃 (#11) 🇺🇦</strong><br>• 170lb
+ s/77kg Welterweight<br>• Machado Garry: 17-2-0 | 29yo<br>• Amosov: 29-
+ 1-0 | 33yo<br>• Odds history: not checked yet</p><p><strong>🥊 10. 
+ 𝗦𝗲𝗿𝗴𝗵𝗲𝗶 𝗦𝗽𝗶𝘃𝗮𝗰 (#9) 🇲🇩 vs. 
+ 𝗠𝗮𝗿𝗶𝗼 𝗣𝗶𝗻𝘁𝗼 (#15) 🇵🇹</strong><br>• 2
+ 65lbs/120kg Heavyweight<br>• Spivac: 18-7-0 | 31yo | Sambo<br>• Pinto:
+  13-0-0 | 28yo | MMA<br>• Odds history: not checked yet</p><p><strong>
+ 🥊 9. 𝗟𝗲𝘃𝗮𝗻 𝗖𝗵𝗼𝗸𝗵𝗲𝗹𝗶 🇬🇪 vs.
+  𝗜𝘀𝗹𝗮𝗺 𝗗𝘂𝗹𝗮𝘁𝗼𝘃 🇹🇷</strong><br>
+ • 170lbs/77kg Welterweight<br>• Chokheli: 15-3-0 | 30yo | MMA<br>• D
+ ulatov: 12-1-0 | 28yo | MMA<br>• Odds history: not checked yet</p><p><st
+ rong>🥊 8. 𝗠𝗮𝗶𝗿𝗼𝗻 𝗦𝗮𝗻𝘁𝗼𝘀 🇧🇷 vs
+ . 𝗔𝗸𝗯𝗮𝗿 𝗔𝗯𝗱𝘂𝗹𝗹𝗮𝗲𝘃 🇰🇬</stro
+ ng><br>• 155lbs/70kg Lightweight<br>• Santos: 18-1-0 | 26yo | Striker<
+ br>• Abdullaev: 1-0-0 | 29yo<br>• Odds history: not checked yet</p><p>
+ <strong>🥊 7. 𝗠𝗮𝗴𝗼𝗺𝗲𝗱 𝗧𝘂𝗰𝗵𝗮𝗹𝗼
+ 𝘃 🇷🇺 vs. 𝗜𝗼𝗻 𝗖𝘂𝘁𝗲𝗹𝗮𝗯𝗮 🇲🇩</
+ strong><br>• 205lbs/93kg Light Heavyweight<br>• Tuchalov: 7-0-0 | 26yo
+  | Striker<br>• Cutelaba: 20-12-1 | 32yo | Sambo<br>• Odds history: no
+ t checked yet</p><p><strong>🥊 6. 𝗕𝗿𝘂𝗻𝗼 𝗦𝗶𝗹𝘃
+ 𝗮 🇧🇷 vs. 𝗝𝗮𝗳𝗲𝗹 𝗙𝗶𝗹𝗵𝗼 🇧🇷</stro
+ ng><br>• 125lbs/57kg Flyweight<br>• Silva: 15-9-2 | 36yo | Grappler<br
+ >• Filho: 17-5-0 | 33yo | Grappler<br>• Odds history: not checked yet<
+ /p><p><strong>🥊 5. 𝗨𝗿𝗮𝗻 𝗦𝗮𝘁𝘆𝗯𝗮𝗹𝗱
+ 𝗶𝗲𝘃 🇰🇬 vs. 𝗜𝘃𝗮𝗻 𝗚𝗻𝗶𝘇𝗱𝗶𝘁
+ 𝘀𝗸𝗶𝘆</strong><br>• 205lbs/93kg Light Heavyweight<br>• Saty
+ baldiev: 9-1-0 | 32yo | MMA<br>• Gnizditskiy: 0-0-0 | 30yo<br>• Odds h
+ istory: not checked yet</p><p><strong>🥊 4. 𝗠𝗮𝗿𝗰𝗼 𝗧
+ 𝘂𝗹𝗶𝗼 🇧🇷 vs. 𝗝𝘂𝗻𝗬𝗼𝗻𝗴 𝗣𝗮𝗿
+ 𝗸 🇰🇷</strong><br>• 185lbs/84kg Middleweight<br>• Tulio: 14-3-
+ 0 | 32yo | Striker<br>• Park: 19-7-0 | 35yo | Boxing<br>• Odds history
+ : not checked yet</p><p><strong>🥊 3. 𝗣𝗮𝘃𝗲𝗹 𝗔𝗻𝗱
+ 𝗿𝘂𝘀𝗰𝗮 🇲🇩 vs. 𝗠𝗮𝗵𝗮𝗺𝗺𝗮𝗱𝗮𝗹
+ 𝗶 𝗢𝘀𝗺𝗮𝗻𝗹𝗶 🇦🇿</strong><br>• 135lbs/61kg Ban
+ tamweight<br>• Andrusca: 9-0-0 | 24yo<br>• Osmanli: 13-2-0 | 22yo | MM
+ A<br>• Odds history: not checked yet</p><p><strong>🥊 2. 𝗠𝗼𝗱
+ 𝗲𝘀𝘁𝗶𝗻𝗼 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘀 🇧🇷 vs.
+  𝗠𝗮𝘁𝘁𝗵𝗶𝗲𝘂 𝗗𝘂𝗰𝗹𝗼𝘀 🇫🇷</stron
+ g><br>• 185lbs/84kg Middleweight<br>• Rodrigues: 1-0-0 | 23yo<br>• D
+ uclos: 11-3-0 | 31yo | MMA<br>• Odds history: not checked yet</p><p><str
+ ong>🥊 1. 𝗔𝗯𝗱𝘂𝗹 𝗛𝘂𝘀𝘀𝗲𝗶𝗻 🇫🇮 vs.
+  𝗛𝗲𝗰𝗵𝗲𝗿 𝗦𝗼𝘀𝗮 🇪🇸</strong><br>• 135lbs
+ /61kg Bantamweight<br>• Hussein: 16-2-0 | 29yo | Brazilian Jiu-Jitsu<br>
+ • Sosa: 15-1-0 | 31yo | MMA<br>• Odds history: not checked yet</p><p>-
+ -------------------------------<br>Source: <a href="https://www.ufc.com/ev
+ ent/ufc-fight-night-december-05-2026">UFC.com</a><br>Full odds log: <a hre
+ f="https://staircasewit.github.io/mmacalendar/odds-history.html">view hist
+ ory</a><br>Event status: Scheduled</p></body></html>
+LOCATION:The Venue\, Riyadh\, Saudi Arabia
+URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
+CATEGORIES:UFC,Main Card
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-335-early-prelims@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
 LAST-MODIFIED:20261007T133000Z
@@ -5054,8 +5215,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-335-main-card@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261106T142126Z
-SEQUENCE:9
+LAST-MODIFIED:20261111T142813Z
+SEQUENCE:10
 DTSTART:20261213T020000Z
 DTEND:20261213T050000Z
 SUMMARY:Main Card – UFC 335: Oliveira vs Lopes
@@ -5079,22 +5240,22 @@ DESCRIPTION:UFC · Main Card · 5 bouts announced · placement TBD\n📍 T-
  v: Pereira 🔴 +163 (2.63) | Pavlovich 🟢 -200 (1.50)\n  ◦ Earlier ch
  anges: see full odds log\n\n🥊 3. 𝗕𝗿𝗮𝗻𝗱𝗼𝗻 𝗠𝗼
  𝗿𝗲𝗻𝗼 (#8) 🇲🇽 vs. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗝𝗼
- 𝗵𝗻𝘀𝗼𝗻 🇺🇸\n• 125lbs/57kg Flyweight\n• Moreno: 24-1
- 0-2 | 33yo | Jiu-Jitsu\n• Johnson: 20-9-0 | 35yo\n• Odds history: not 
- checked yet\n\n🥊 2. 𝗤𝘂𝗲𝗻𝘁𝗶𝗻 𝗣𝗮𝘀𝗹𝗲
- 𝘆 🇺🇸 vs. 𝗝𝘂𝗻𝗶𝗼𝗿 𝗧𝗮𝗳𝗮 🇦🇺\n• 
- 205lbs/93kg Light Heavyweight\n• Pasley: 1-0-0 | 25yo\n• Tafa: 7-6-0 |
-  30yo | Kickboxer\n• Odds history: not checked yet\n\n🥊 1. 𝗝𝗼
- 𝗲 𝗣𝘆𝗳𝗲𝗿 (#6) 🇺🇸 vs. 𝗕𝗼 𝗡𝗶𝗰𝗸𝗮
- 𝗹 (#14) 🇺🇸\n• 185lbs/84kg Middleweight\n• Pyfer: 16-3-0 | 30y
- o | Boxing | -200 (1.50)\n• Nickal: 9-1-0 | 30yo | Wrestler | +160 (2.60
- )\n• Odds history:\n  ◦ 9 Oct: Pyfer 🟢 -157 (1.64) | Nickal 🔴 +1
- 25 (2.25)\n  ◦ 12 Oct: Pyfer 🟢 -182 (1.55) | Nickal 🔴 +145 (2.45)\
- n  ◦ 23 Oct: Pyfer 🟢 -200 (1.50) | Nickal 🔴 +160 (2.60)\n\n-------
- -------------------------\nSource: https://www.ufc.com/event/ufc-335\nOdds
-  source: https://www.bestfightodds.com/ · best available line · checked 
- Monday and Friday\nFull odds log: https://staircasewit.github.io/mmacalend
- ar/odds-history.html\nEvent status: Scheduled
+ 𝗵𝗻𝘀𝗼𝗻 (#14) 🇺🇸\n• 125lbs/57kg Flyweight\n• Moreno
+ : 24-10-2 | 33yo | Jiu-Jitsu\n• Johnson: 20-9-0 | 35yo\n• Odds history
+ : not checked yet\n\n🥊 2. 𝗤𝘂𝗲𝗻𝘁𝗶𝗻 𝗣𝗮𝘀𝗹
+ 𝗲𝘆 🇺🇸 vs. 𝗝𝘂𝗻𝗶𝗼𝗿 𝗧𝗮𝗳𝗮 🇦🇺\n
+ • 205lbs/93kg Light Heavyweight\n• Pasley: 1-0-0 | 25yo\n• Tafa: 7-6
+ -0 | 30yo | Kickboxer\n• Odds history: not checked yet\n\n🥊 1. 𝗝
+ 𝗼𝗲 𝗣𝘆𝗳𝗲𝗿 (#6) 🇺🇸 vs. 𝗕𝗼 𝗡𝗶𝗰𝗸
+ 𝗮𝗹 (#14) 🇺🇸\n• 185lbs/84kg Middleweight\n• Pyfer: 16-3-0 |
+  30yo | Boxing | -200 (1.50)\n• Nickal: 9-1-0 | 30yo | Wrestler | +160 (
+ 2.60)\n• Odds history:\n  ◦ 9 Oct: Pyfer 🟢 -157 (1.64) | Nickal 
+ 🔴 +125 (2.25)\n  ◦ 12 Oct: Pyfer 🟢 -182 (1.55) | Nickal 🔴 +145 
+ (2.45)\n  ◦ 23 Oct: Pyfer 🟢 -200 (1.50) | Nickal 🔴 +160 (2.60)\n\n
+ --------------------------------\nSource: https://www.ufc.com/event/ufc-33
+ 5\nOdds source: https://www.bestfightodds.com/ · best available line · c
+ hecked Monday and Friday\nFull odds log: https://staircasewit.github.io/mm
+ acalendar/odds-history.html\nEvent status: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts ann
  ounced · placement TBD<br>📍 T-Mobile Arena\, Las Vegas\, United States
  <br>🕒 02:00–05:00 Ireland<br>This provisional entry updates automatic
@@ -5117,24 +5278,24 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts ann
  | Pavlovich 🟢 -200 (1.50)<br>◦ Earlier changes: see full odds log</p>
  <p><strong>🥊 3. 𝗕𝗿𝗮𝗻𝗱𝗼𝗻 𝗠𝗼𝗿𝗲𝗻𝗼 (
  #8) 🇲🇽 vs. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗝𝗼𝗵𝗻𝘀𝗼𝗻
-  🇺🇸</strong><br>• 125lbs/57kg Flyweight<br>• Moreno: 24-10-2 | 3
- 3yo | Jiu-Jitsu<br>• Johnson: 20-9-0 | 35yo<br>• Odds history: not che
- cked yet</p><p><strong>🥊 2. 𝗤𝘂𝗲𝗻𝘁𝗶𝗻 𝗣𝗮𝘀
- 𝗹𝗲𝘆 🇺🇸 vs. 𝗝𝘂𝗻𝗶𝗼𝗿 𝗧𝗮𝗳𝗮 🇦
- 🇺</strong><br>• 205lbs/93kg Light Heavyweight<br>• Pasley: 1-0-0 | 
- 25yo<br>• Tafa: 7-6-0 | 30yo | Kickboxer<br>• Odds history: not checke
- d yet</p><p><strong>🥊 1. 𝗝𝗼𝗲 𝗣𝘆𝗳𝗲𝗿 (#6) 🇺
- 🇸 vs. 𝗕𝗼 𝗡𝗶𝗰𝗸𝗮𝗹 (#14) 🇺🇸</strong><br>• 
- 185lbs/84kg Middleweight<br>• Pyfer: 16-3-0 | 30yo | Boxing | -200 (1.50
- )<br>• Nickal: 9-1-0 | 30yo | Wrestler | +160 (2.60)<br>• Odds history
- :<br>◦ 9 Oct: Pyfer 🟢 -157 (1.64) | Nickal 🔴 +125 (2.25)<br>◦ 12
-  Oct: Pyfer 🟢 -182 (1.55) | Nickal 🔴 +145 (2.45)<br>◦ 23 Oct: Pyfe
- r 🟢 -200 (1.50) | Nickal 🔴 +160 (2.60)</p><p>-----------------------
- ---------<br>Source: <a href="https://www.ufc.com/event/ufc-335">UFC.com</
- a><br>Odds source: <a href="https://www.bestfightodds.com/">BestFightOdds<
- /a> · best available line · checked Monday and Friday<br>Full odds log: 
- <a href="https://staircasewit.github.io/mmacalendar/odds-history.html">vie
- w history</a><br>Event status: Scheduled</p></body></html>
+  (#14) 🇺🇸</strong><br>• 125lbs/57kg Flyweight<br>• Moreno: 24-10
+ -2 | 33yo | Jiu-Jitsu<br>• Johnson: 20-9-0 | 35yo<br>• Odds history: n
+ ot checked yet</p><p><strong>🥊 2. 𝗤𝘂𝗲𝗻𝘁𝗶𝗻 𝗣𝗮
+ 𝘀𝗹𝗲𝘆 🇺🇸 vs. 𝗝𝘂𝗻𝗶𝗼𝗿 𝗧𝗮𝗳𝗮 
+ 🇦🇺</strong><br>• 205lbs/93kg Light Heavyweight<br>• Pasley: 1-0-
+ 0 | 25yo<br>• Tafa: 7-6-0 | 30yo | Kickboxer<br>• Odds history: not ch
+ ecked yet</p><p><strong>🥊 1. 𝗝𝗼𝗲 𝗣𝘆𝗳𝗲𝗿 (#6) 
+ 🇺🇸 vs. 𝗕𝗼 𝗡𝗶𝗰𝗸𝗮𝗹 (#14) 🇺🇸</strong><br>
+ • 185lbs/84kg Middleweight<br>• Pyfer: 16-3-0 | 30yo | Boxing | -200 (
+ 1.50)<br>• Nickal: 9-1-0 | 30yo | Wrestler | +160 (2.60)<br>• Odds his
+ tory:<br>◦ 9 Oct: Pyfer 🟢 -157 (1.64) | Nickal 🔴 +125 (2.25)<br>
+ ◦ 12 Oct: Pyfer 🟢 -182 (1.55) | Nickal 🔴 +145 (2.45)<br>◦ 23 Oct
+ : Pyfer 🟢 -200 (1.50) | Nickal 🔴 +160 (2.60)</p><p>-----------------
+ ---------------<br>Source: <a href="https://www.ufc.com/event/ufc-335">UFC
+ .com</a><br>Odds source: <a href="https://www.bestfightodds.com/">BestFigh
+ tOdds</a> · best available line · checked Monday and Friday<br>Full odds
+  log: <a href="https://staircasewit.github.io/mmacalendar/odds-history.htm
+ l">view history</a><br>Event status: Scheduled</p></body></html>
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
 CATEGORIES:UFC,Main Card

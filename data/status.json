@@ -1,72 +1,72 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:28:05.706Z",
+  "generatedAt": "2026-11-11T14:28:13.039Z",
   "overall": "healthy",
   "sources": {
     "ufc": {
       "status": "fresh",
-      "checkedAt": "2026-11-09T16:28:05.706Z",
-      "lastSuccessAt": "2026-11-09T16:28:05.706Z",
-      "eventCount": 24,
-      "boutCount": 253,
+      "checkedAt": "2026-11-11T14:28:13.039Z",
+      "lastSuccessAt": "2026-11-11T14:28:13.039Z",
+      "eventCount": 25,
+      "boutCount": 265,
       "previousEventCount": 24,
       "previousBoutCount": 276
     },
     "one": {
       "status": "fresh",
-      "checkedAt": "2026-11-09T16:28:05.706Z",
-      "lastSuccessAt": "2026-11-09T16:28:05.706Z",
+      "checkedAt": "2026-11-11T14:28:13.039Z",
+      "lastSuccessAt": "2026-11-11T14:28:13.039Z",
       "eventCount": 44,
-      "boutCount": 431,
-      "previousEventCount": 57,
-      "previousBoutCount": 431
+      "boutCount": 442,
+      "previousEventCount": 56,
+      "previousBoutCount": 418
     },
     "rizin": {
       "status": "fresh",
-      "checkedAt": "2026-11-09T16:28:05.706Z",
-      "lastSuccessAt": "2026-11-09T16:28:05.706Z",
+      "checkedAt": "2026-11-11T14:28:13.039Z",
+      "lastSuccessAt": "2026-11-11T14:28:13.039Z",
       "eventCount": 7,
       "boutCount": 89,
       "previousEventCount": 8,
-      "previousBoutCount": 89
+      "previousBoutCount": 91
     },
     "pfl": {
       "status": "fresh",
-      "checkedAt": "2026-11-09T16:28:05.706Z",
-      "lastSuccessAt": "2026-11-09T16:28:05.706Z",
+      "checkedAt": "2026-11-11T14:28:13.039Z",
+      "lastSuccessAt": "2026-11-11T14:28:13.039Z",
       "eventCount": 17,
-      "boutCount": 167,
+      "boutCount": 169,
       "previousEventCount": 18,
-      "previousBoutCount": 193
+      "previousBoutCount": 194
     },
     "bestfightodds": {
-      "status": "fresh",
-      "checkedAt": "2026-11-09T16:28:05.706Z",
+      "status": "skipped",
+      "checkedAt": "2026-11-11T14:28:13.039Z",
       "lastSuccessAt": "2026-11-09T16:28:05.706Z",
-      "eventCount": 10,
-      "boutCount": 66
+      "message": "Twice-weekly refresh is not due yet",
+      "boutCount": 210
     }
   },
   "feeds": {
     "ufc.ics": {
       "status": "valid",
-      "eventCount": 68,
-      "bytes": 369671
+      "eventCount": 70,
+      "bytes": 380849
     },
     "ufc-combined.ics": {
       "status": "valid",
-      "eventCount": 31,
-      "bytes": 308461
+      "eventCount": 32,
+      "bytes": 317754
     },
     "ufc-fights.ics": {
       "status": "valid",
-      "eventCount": 33,
-      "bytes": 35433
+      "eventCount": 45,
+      "bytes": 47620
     },
     "one.ics": {
       "status": "valid",
       "eventCount": 68,
-      "bytes": 217725
+      "bytes": 220713
     },
     "rizin.ics": {
       "status": "valid",
@@ -76,7 +76,7 @@
     "pfl.ics": {
       "status": "valid",
       "eventCount": 24,
-      "bytes": 84049
+      "bytes": 84795
     }
   }
 }
