@@ -14,7 +14,7 @@
       "birthDate": "1993-07-06",
       "record": "20-4-0",
       "style": "Striker",
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/fabian-edwards": {
       "name": "Fabian Edwards",
@@ -22,7 +22,7 @@
       "birthDate": "1993-03-23",
       "record": "16-5-0",
       "style": "Striker",
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/aj-mckee": {
       "name": "AJ McKee",
@@ -182,7 +182,7 @@
       "birthDate": "1994-09-20",
       "record": "13-3-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/ariane-lipskidasilva": {
       "name": "Ariane Lipski da Silva",
@@ -230,7 +230,7 @@
       "birthDate": "2001-05-10",
       "record": "8-0-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/lazaro-dayron": {
       "name": "Lazaro Dayron",
@@ -298,11 +298,11 @@
     },
     "https://pflmma.com/wt-fighter/ernesto-rodriguez": {
       "name": "Ernesto Rodriguez",
-      "countryCode": "CU",
+      "countryCode": null,
       "birthDate": "1997-08-08",
       "record": "11-2-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/natan-schulte": {
       "name": "Natan Schulte",
@@ -550,7 +550,7 @@
       "birthDate": "1997-12-23",
       "record": "11-0-0",
       "style": "Grappler",
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/sergio-pettis": {
       "name": "Sergio Pettis",
@@ -558,7 +558,7 @@
       "birthDate": "1993-08-17",
       "record": "25-8-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/raufeon-stots": {
       "name": "Raufeon Stots",
@@ -638,7 +638,7 @@
       "birthDate": "1995-04-04",
       "record": "16-6-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/kana-watanabe": {
       "name": "Kana Watanabe",
@@ -710,7 +710,7 @@
       "birthDate": "1995-09-09",
       "record": "15-7-1",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/darragh-kelly": {
       "name": "Darragh Kelly",
@@ -838,7 +838,7 @@
       "birthDate": "1993-08-20",
       "record": "17-6-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/giannis-bachar": {
       "name": "Giannis Bachar",
@@ -862,7 +862,7 @@
       "birthDate": "1999-05-31",
       "record": "13-6-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/eoghan-masoliver": {
       "name": "Eoghan Masoliver",
@@ -1086,7 +1086,7 @@
       "birthDate": "1991-01-18",
       "record": "9-2-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/karl-williams": {
       "name": "Karl Williams",
@@ -1102,7 +1102,7 @@
       "birthDate": "2001-03-25",
       "record": "9-0-0",
       "style": "Striker",
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/taylor-lapilus": {
       "name": "Taylor Lapilus",
@@ -1110,7 +1110,7 @@
       "birthDate": "1992-04-07",
       "record": "25-4-0",
       "style": "All-rounder",
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/jake-hadley": {
       "name": "Jake Hadley",
@@ -1142,7 +1142,7 @@
       "birthDate": "1999-04-30",
       "record": "9-0-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/marcirley-alves": {
       "name": "Marcirley Alves",
@@ -1158,7 +1158,7 @@
       "birthDate": "1999-01-15",
       "record": "11-1-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/baris-adiguzel": {
       "name": "Baris Adiguzel",
@@ -1166,7 +1166,7 @@
       "birthDate": "1999-04-30",
       "record": "10-2-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/donegi-abena": {
       "name": "Donegi Abena",
@@ -1222,7 +1222,7 @@
       "birthDate": "1996-09-23",
       "record": "6-1-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/luca-poclit": {
       "name": "Luca Poclit",
@@ -1238,7 +1238,7 @@
       "birthDate": "1996-07-28",
       "record": "11-3-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/keweny-lopes": {
       "name": "Keweny Lopes",
@@ -1326,7 +1326,7 @@
       "birthDate": "1995-07-29",
       "record": "6-1-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/mena-fighter/ahmed-elsisy": {
       "name": "Ahmed El Sisy",
@@ -1654,7 +1654,7 @@
       "birthDate": "2000-06-09",
       "record": "11-0-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/rob-wilkinson": {
       "name": "Rob Wilkinson",
@@ -1782,7 +1782,7 @@
       "birthDate": null,
       "record": "9-2-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/mena-fighter/shadi-kabbani": {
       "name": "Shadi Kabbani",
@@ -1798,7 +1798,7 @@
       "birthDate": "1996-10-27",
       "record": "12-4-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/mena-fighter/ahmed-tarek": {
       "name": "Ahmed Tarek",
@@ -1822,7 +1822,7 @@
       "birthDate": "1993-10-16",
       "record": "21-9-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/mena-fighter/eslam-mostafa": {
       "name": "Eslam Mostafa",
@@ -1862,7 +1862,7 @@
       "birthDate": "2000-10-23",
       "record": "13-2-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/joseph-ruquet": {
       "name": "Joseph Ruquet",
@@ -2174,7 +2174,7 @@
       "birthDate": "1990-06-09",
       "record": "37-9-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/valentin-moldavsky": {
       "name": "Valentin Moldavsky",
@@ -2334,7 +2334,7 @@
       "birthDate": "1996-03-07",
       "record": "21-9-1",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/timur-khizriev": {
       "name": "Timur Khizriev",
@@ -2350,7 +2350,7 @@
       "birthDate": "1992-07-26",
       "record": "6-0-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/vadim-nemkov": {
       "name": "Vadim Nemkov",
@@ -2358,15 +2358,15 @@
       "birthDate": "1992-06-19",
       "record": "20-2-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/wt-fighter/oleg-popov": {
       "name": "Oleg Popov",
       "countryCode": "RU",
       "birthDate": "1992-01-01",
-      "record": "22-2-0",
+      "record": "23-2-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/mena-fighter/saher-qasmieh-2": {
       "name": "Saher Qasmieh",
@@ -2404,9 +2404,9 @@
       "name": "Ylies Djiroun",
       "countryCode": null,
       "birthDate": null,
-      "record": "16-6-0",
+      "record": "26-9-0",
       "style": null,
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-13T14:39:03.976Z"
     },
     "https://pflmma.com/mena-fighter/rayan-atmani-2": {
       "name": "Rayan Atmani",

@@ -10584,7 +10584,7 @@
     "end": "20261113T163058Z",
     "summary": "ONE Friday Fights 178 & The Inner Circle 38",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-178\n\nSuperlek Jitmuangnon  vs. Anar Mammadov | Muay Thai | Bantamweight\n\nPetubon Sor Teanchai vs. Songpandin Chor Kaewwiset | Muay Thai | Flyweight\n\nKyaw Swar Win vs. Sherzodi Sadullo | Muay Thai | Bantamweight\n\nSuperchamp Wutdychonburipraleasing vs. Saiyok Kiatpraison | Muay Thai | Strawweight\n\nPek Por Tor Tor Thongtawee vs. Cihan Dogu | Muay Thai | Atomweight\n\nKumanngern Jitmuangnon vs. Ali Al-Kinani | Muay Thai | Strawweight\n\nNattakorn Kesorn vs. Mathew Gesto | Mixed Martial Arts | Strawweight\n\nNongnuk Sor Dechapan  vs. Giorgia Pieropan | Muay Thai | Atomweight\n\nSuhyeon Kim vs. Takumi Fukamachi | Mixed Martial Arts | Bantamweight\n\nRodtang Jitmuangnon vs. Nong-O Hama | Muay Thai | Flyweight\n\nShimon Yoshinari vs. Ramadan Ondash | Muay Thai | Flyweight\n\nPTT Apichart Farm vs. Hamza Rachid | Muay Thai | Bantamweight\n\nLenny Blasi vs. Adam Benwarwar | Muay Thai | Bantamweight\n\nBanluelok Sitwatcharachai vs. Mya Lone Chaw | Muay Thai | Atomweight\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-178\n\nSuperlek Jitmuangnon  vs. Anar Mammadov | Muay Thai | Bantamweight\n\nKyaw Swar Win vs. Sherzodi Sadullo | Muay Thai | Bantamweight\n\nPek Por Tor Tor Thongtawee vs. Cihan Dogu | Muay Thai | Atomweight\n\nKumanngern Jitmuangnon vs. Ali Al-Kinani | Muay Thai | Strawweight\n\nNatakorn Kesorn vs. Mathew Gesto | Mixed Martial Arts | Strawweight\n\nSuperchamp Wutdychonburipraleasing vs. Superjeng Sor Rungsak | Muay Thai | Flyweight\n\nSuhyeon Kim vs. Takumi Fukamachi | Mixed Martial Arts | Bantamweight\n\nNongnuk Sor Dechapan  vs. Giorgia Pieropan | Muay Thai | Atomweight\n\nShimon Yoshinari vs. Ramadan Ondash | Muay Thai | Flyweight\n\nRodtang Jitmuangnon vs. Nong-O Hama | Muay Thai | Flyweight\n\nPTT Apichart Farm vs. Hamza Rachid | Muay Thai | Bantamweight\n\nLenny Blasi vs. Adam Benwarwar | Muay Thai | Bantamweight\n\nPetubon Sor Teanchai vs. Songpandin Chor Kaewwiset | Muay Thai | Flyweight\n\nBanluelok Sitwatcharachai vs. Mya Lone Chaw | Muay Thai | Atomweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/one-friday-fights-178",
     "status": "CONFIRMED",
     "bouts": [
@@ -10607,45 +10607,10 @@
         "oddsHistory": []
       },
       {
-        "redName": "Petubon Sor Teanchai",
-        "blueName": "Songpandin Chor Kaewwiset",
-        "details": "Flyweight Muay Thai",
-        "redProfileUrl": "https://www.onefc.com/athletes/petubon-sor-teanchai/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/songpandin-chor-kaewwiset/",
-        "redCountry": "Thailand",
-        "blueCountry": "Laos",
-        "redAge": 24,
-        "redRecord": "2-0-0",
-        "redStyle": "Striker",
-        "blueAge": 19,
-        "blueRecord": "5-3-0",
-        "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
-      },
-      {
         "redName": "Kyaw Swar Win",
         "blueName": "Sherzodi Sadullo",
         "details": "Bantamweight Muay Thai",
         "redStyle": "Striker",
-        "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
-      },
-      {
-        "redName": "Superchamp Wutdychonburipraleasing",
-        "blueName": "Saiyok Kiatpraison",
-        "details": "Strawweight Muay Thai",
-        "redProfileUrl": "https://www.onefc.com/athletes/superchamp-wutdychonburipraleasing/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/saiyok-kiatpraison/",
-        "redCountry": "Thailand",
-        "blueCountry": "Thailand",
-        "redAge": 19,
-        "redRecord": "1-0-0",
-        "redStyle": "Striker",
-        "blueAge": 25,
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
@@ -10664,9 +10629,25 @@
         "blueAge": 20,
         "blueRecord": "0-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-175",
+        "blueOdds": "+130",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-13T14:39:03.976Z",
+            "eventName": "ONE Friday Fights 178 & The Inner Circle 38",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-championship-4458",
+            "promotion": "one",
+            "eventId": "6a968c464f4a09743472c796",
+            "odds": {
+              "pek por tor tor thongtawee": "-175",
+              "cihan dogu": "+130"
+            },
+            "names": {
+              "pek por tor tor thongtawee": "Pek Por Tor Tor Thongtawee",
+              "cihan dogu": "Cihan Dogu"
+            }
+          }
+        ]
       },
       {
         "redName": "Kumanngern Jitmuangnon",
@@ -10680,21 +10661,71 @@
         "blueAge": 29,
         "blueRecord": "0-2-0",
         "blueStyle": "Striker",
+        "redOdds": "-105",
+        "blueOdds": "-125",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-13T14:39:03.976Z",
+            "eventName": "ONE Friday Fights 178 & The Inner Circle 38",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-championship-4458",
+            "promotion": "one",
+            "eventId": "6a968c464f4a09743472c796",
+            "odds": {
+              "kumanngern jitmuangnon": "-105",
+              "ali al kinani": "-125"
+            },
+            "names": {
+              "kumanngern jitmuangnon": "Kumanngern Jitmuangnon",
+              "ali al kinani": "Ali Al-Kinani"
+            }
+          }
+        ]
+      },
+      {
+        "redName": "Natakorn Kesorn",
+        "blueName": "Mathew Gesto",
+        "details": "Strawweight Mixed Martial Arts",
         "redOdds": null,
         "blueOdds": null,
         "oddsHistory": []
       },
       {
-        "redName": "Nattakorn Kesorn",
-        "blueName": "Mathew Gesto",
-        "details": "Strawweight MMA",
-        "redProfileUrl": "https://www.onefc.com/athletes/nattakorn-kesorn/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/mathew-gesto/",
-        "redCountry": "Thailand",
-        "blueCountry": "Philippines",
+        "redName": "Superchamp Wutdychonburipraleasing",
+        "blueName": "Superjeng Sor Rungsak",
+        "details": "Flyweight Muay Thai",
+        "redStyle": "Striker",
+        "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
         "oddsHistory": []
+      },
+      {
+        "redName": "Suhyeon Kim",
+        "blueName": "Takumi Fukamachi",
+        "details": "Bantamweight MMA",
+        "redProfileUrl": "https://www.onefc.com/athletes/suhyeon-kim/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/takumi-fukamachi/",
+        "redCountry": "South Korea",
+        "blueCountry": "Japan",
+        "redOdds": "+130",
+        "blueOdds": "-175",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-13T14:39:03.976Z",
+            "eventName": "ONE Friday Fights 178 & The Inner Circle 38",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-championship-4458",
+            "promotion": "one",
+            "eventId": "6a968c464f4a09743472c796",
+            "odds": {
+              "suhyeon kim": "+130",
+              "takumi fukamachi": "-175"
+            },
+            "names": {
+              "suhyeon kim": "Suhyeon Kim",
+              "takumi fukamachi": "Takumi Fukamachi"
+            }
+          }
+        ]
       },
       {
         "redName": "Nongnuk Sor Dechapan",
@@ -10710,39 +10741,25 @@
         "blueAge": 21,
         "blueRecord": "1-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
-      },
-      {
-        "redName": "Suhyeon Kim",
-        "blueName": "Takumi Fukamachi",
-        "details": "Bantamweight MMA",
-        "redProfileUrl": "https://www.onefc.com/athletes/suhyeon-kim/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/takumi-fukamachi/",
-        "redCountry": "South Korea",
-        "blueCountry": "Japan",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
-      },
-      {
-        "redName": "Rodtang Jitmuangnon",
-        "blueName": "Nong-O Hama",
-        "details": "Flyweight Muay Thai",
-        "redProfileUrl": "https://www.onefc.com/athletes/rodtang/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/nong-o/",
-        "redCountry": "Thailand",
-        "blueCountry": "Thailand",
-        "redAge": 29,
-        "redRecord": "17-3-0",
-        "redStyle": "Striker",
-        "blueAge": 39,
-        "blueRecord": "13-5-0",
-        "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+110",
+        "blueOdds": "-150",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-13T14:39:03.976Z",
+            "eventName": "ONE Friday Fights 178 & The Inner Circle 38",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-championship-4458",
+            "promotion": "one",
+            "eventId": "6a968c464f4a09743472c796",
+            "odds": {
+              "nongnuk sor dechapan": "+110",
+              "giorgia pieropan": "-150"
+            },
+            "names": {
+              "nongnuk sor dechapan": "Nongnuk Sor Dechapan",
+              "giorgia pieropan": "Giorgia Pieropan"
+            }
+          }
+        ]
       },
       {
         "redName": "Shimon Yoshinari",
@@ -10757,6 +10774,40 @@
         "redStyle": "Striker",
         "blueAge": 19,
         "blueRecord": "6-1-0",
+        "blueStyle": "Striker",
+        "redOdds": "-350",
+        "blueOdds": "+225",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-13T14:39:03.976Z",
+            "eventName": "ONE Friday Fights 178 & The Inner Circle 38",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-championship-4458",
+            "promotion": "one",
+            "eventId": "6a968c464f4a09743472c796",
+            "odds": {
+              "shimon yoshinari": "-350",
+              "ramadan ondash": "+225"
+            },
+            "names": {
+              "shimon yoshinari": "Shimon Yoshinari",
+              "ramadan ondash": "Ramadan Ondash"
+            }
+          }
+        ]
+      },
+      {
+        "redName": "Rodtang Jitmuangnon",
+        "blueName": "Nong-O Hama",
+        "details": "Flyweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/rodtang/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/nong-o/",
+        "redCountry": "Thailand",
+        "blueCountry": "Thailand",
+        "redAge": 29,
+        "redRecord": "17-3-0",
+        "redStyle": "Striker",
+        "blueAge": 39,
+        "blueRecord": "13-5-0",
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
@@ -10794,9 +10845,59 @@
         "blueAge": 23,
         "blueRecord": "2-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-150",
+        "blueOdds": "+110",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-13T14:39:03.976Z",
+            "eventName": "ONE Friday Fights 178 & The Inner Circle 38",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-championship-4458",
+            "promotion": "one",
+            "eventId": "6a968c464f4a09743472c796",
+            "odds": {
+              "lenny blasi": "-150",
+              "adam benwarwar": "+110"
+            },
+            "names": {
+              "lenny blasi": "Lenny Blasi",
+              "adam benwarwar": "Adam Benwarwar"
+            }
+          }
+        ]
+      },
+      {
+        "redName": "Petubon Sor Teanchai",
+        "blueName": "Songpandin Chor Kaewwiset",
+        "details": "Flyweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/petubon-sor-teanchai/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/songpandin-chor-kaewwiset/",
+        "redCountry": "Thailand",
+        "blueCountry": "Laos",
+        "redAge": 24,
+        "redRecord": "2-0-0",
+        "redStyle": "Striker",
+        "blueAge": 19,
+        "blueRecord": "5-3-0",
+        "blueStyle": "Striker",
+        "redOdds": "+140",
+        "blueOdds": "-175",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-13T14:39:03.976Z",
+            "eventName": "ONE Friday Fights 178 & The Inner Circle 38",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-championship-4458",
+            "promotion": "one",
+            "eventId": "6a968c464f4a09743472c796",
+            "odds": {
+              "petubon sor teanchai": "+140",
+              "songpandin chor kaewwiset": "-175"
+            },
+            "names": {
+              "petubon sor teanchai": "Petubon Sor Teanchai",
+              "songpandin chor kaewwiset": "Songpandin Chor Kaewwiset"
+            }
+          }
+        ]
       },
       {
         "redName": "Banluelok Sitwatcharachai",
@@ -10810,9 +10911,25 @@
         "redRecord": "6-1-0",
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-333",
+        "blueOdds": "+225",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-13T14:39:03.976Z",
+            "eventName": "ONE Friday Fights 178 & The Inner Circle 38",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-championship-4458",
+            "promotion": "one",
+            "eventId": "6a968c464f4a09743472c796",
+            "odds": {
+              "banluelok sitwatcharachai": "-333",
+              "mya lone chaw": "+225"
+            },
+            "names": {
+              "banluelok sitwatcharachai": "Banluelok Sitwatcharachai",
+              "mya lone chaw": "Mya Lone Chaw"
+            }
+          }
+        ]
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-178/"
@@ -10830,7 +10947,7 @@
       {
         "redName": "Joshua Pacio",
         "blueName": "Keito Yamakita",
-        "details": "Strawweight MMA World Championship",
+        "details": "Strawweight World Championship",
         "redCountry": "Philippines",
         "blueCountry": "Japan",
         "redProfileUrl": "https://www.onefc.com/athletes/joshua-pacio/",
@@ -10863,7 +10980,7 @@
       {
         "redName": "Tatsumitsu Wada",
         "blueName": "Jarred Brooks",
-        "details": "Strawweight MMA",
+        "details": "Strawweight Mixed Martial Arts",
         "redProfileUrl": "https://www.onefc.com/athletes/tatsumitsu-wada/",
         "blueProfileUrl": "https://www.onefc.com/athletes/jarred-brooks/",
         "redCountry": "Japan",
@@ -10916,7 +11033,7 @@
       {
         "redName": "Ryugo Takeuchi",
         "blueName": "Brandon Hashimoto",
-        "details": "Heavyweight MMA",
+        "details": "Heavyweight Mixed Martial Arts",
         "redProfileUrl": "https://www.onefc.com/athletes/ryugo-takeuchi/",
         "blueProfileUrl": "https://www.onefc.com/athletes/brandon-hashimoto/",
         "redCountry": "Japan",
@@ -10982,7 +11099,7 @@
       {
         "redName": "Shosuke Kinoshita",
         "blueName": "Takuya Shibamura",
-        "details": "Featherweight MMA",
+        "details": "Featherweight Mixed Martial Arts",
         "redProfileUrl": "https://www.onefc.com/athletes/shosuke-kinoshita/",
         "blueProfileUrl": "https://www.onefc.com/athletes/takuya-shibamura/",
         "redCountry": "Japan",
@@ -11129,7 +11246,7 @@
         "redRecord": "8-1-0",
         "redStyle": "Striker",
         "blueAge": 22,
-        "blueRecord": "8-3-0",
+        "blueRecord": "9-3-0",
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,

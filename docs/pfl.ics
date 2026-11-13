@@ -1122,8 +1122,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pfl-returns-to-dubai@mma-calendar-pfl
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261111T142813Z
-SEQUENCE:16
+LAST-MODIFIED:20261113T143903Z
+SEQUENCE:17
 DTSTART:20261114T140000Z
 DTEND:20261114T210000Z
 SUMMARY:PFL Dubai
@@ -1137,50 +1137,69 @@ DESCRIPTION:Professional Fighters League · Complete Event · 13 announced
  Bilostenniy: 15-4-0 | 31yo\n\n🥊 12. 𝗣𝗮𝘁𝗿𝗶𝗰𝗸 𝗛
  𝗮𝗯𝗶𝗿𝗼𝗿𝗮 🇧🇪 vs. 𝗢𝗺𝗮𝗿 𝗘𝗹 𝗗
  𝗮𝗳𝗿𝗮𝘄𝘆\n• 170lbs/77kg Welterweight\n• Habirora: 9-0-
- 0 | 25yo | Striker\n• Dafrawy: 16-6-0 | 31yo\n\n🥊 11. 𝗣𝗼𝘂
- 𝘆𝗮 𝗥𝗮𝗵𝗺𝗮𝗻𝗶 vs. 𝗢𝗹𝗲𝗴 𝗣𝗼𝗽
- 𝗼𝘃 🇷🇺\n• 265lbs/120kg Heavyweight\n• Rahmani: 6-0-0 | 34yo
- \n• Popov: 22-2-0 | 34yo\n\n🥊 10. 𝗦𝗲𝗿𝗴𝗶𝗼 𝗣𝗲
+ 0 | 25yo | Striker | -649 (1.15)\n• Dafrawy: 16-6-0 | 31yo | +470 (5.70)
+ \n• Odds history:\n  ◦ 13 Nov: Habirora 🟢 -649 (1.15) | Dafrawy 
+ 🔴 +470 (5.70)\n\n🥊 11. 𝗣𝗼𝘂𝘆𝗮 𝗥𝗮𝗵𝗺𝗮𝗻
+ 𝗶 vs. 𝗢𝗹𝗲𝗴 𝗣𝗼𝗽𝗼𝘃 🇷🇺\n• 265lbs/120kg 
+ Heavyweight\n• Rahmani: 6-0-0 | 34yo | -225 (1.44)\n• Popov: 23-2-0 | 
+ 34yo | +210 (3.10)\n• Odds history:\n  ◦ 13 Nov: Rahmani 🟢 -225 (1.
+ 44) | Popov 🔴 +210 (3.10)\n\n🥊 10. 𝗦𝗲𝗿𝗴𝗶𝗼 𝗣𝗲
  𝘁𝘁𝗶𝘀 🇺🇸 vs. 𝗝𝗼𝗷𝗶 𝗚𝗼𝘁𝗼\n• 135lb
- s/61kg Bantamweight\n• Pettis: 25-8-0 | 33yo\n• Goto: 21-9-1 | 30yo\n\
- n🥊 9. 𝗟𝗲𝘄𝗶𝘀 𝗠𝗰𝗚𝗿𝗶𝗹𝗹𝗲𝗻 🇬
- 🇧 vs. 𝗡𝗮𝘄𝗿𝗮𝘀 𝗔𝗯𝘇𝗮𝗸𝗵 🇯🇴\n• 1
- 35lbs/61kg Bantamweight\n• McGrillen: 13-2-0 | 26yo\n• Abzakh: 15-6-0 
- | 34yo\n\n🥊 8. 𝗦𝗵𝗲𝗺 𝗥𝗼𝗰𝗸 vs. 𝗖𝗼𝗻𝗻
- 𝗼𝗿 𝗛𝘂𝗴𝗵𝗲𝘀 🇬🇧\n• 155lbs/70kg Lightweight\n
- • Rock: 12-3-1 | 33yo\n• Hughes: 12-3-0 | 29yo\n\n🥊 7. 𝗦𝗮𝘆
- 𝗴𝗶𝗱 𝗜𝘇𝗮𝗴𝗮𝗸𝗵𝗺𝗮𝗲𝘃 vs. 𝗗𝗮𝘃
- 𝗶𝗱 𝗠𝗮𝗿𝘁𝗶𝗻𝗲𝘇\n• 170lbs/77kg Welterweight\n
- • Izagakhmaev: 22-4-0 | 32yo\n• Martinez: 17-6-0 | 33yo\n\n🥊 6. 
- 𝗔𝗹𝗲𝘅𝗲𝗶 𝗣𝗲𝗿𝗴𝗮𝗻𝗱𝗲 🇺🇸 vs. 
- 𝗔𝗸𝗵𝗺𝗲𝗱 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝗼𝘃 🇷🇺\n
- • 155lbs/70kg Lightweight\n• Pergande: 8-0-0 | 25yo\n• Magomedov: 11
- -2-0 | 30yo\n\n🥊 5. 𝗞𝗵𝗮𝘀𝗮𝗻 𝗠𝗮𝗴𝗼𝗺𝗲
- 𝗱𝘀𝗵𝗮𝗿𝗶𝗽𝗼𝘃 vs. 𝗔𝗱𝗮𝗺 𝗕𝗼𝗿𝗶
- 𝗰𝘀 🇭🇺\n• 145lbs/66kg Featherweight\n• Magomedsharipov: 11-
- 0-0 | 26yo\n• Borics: 20-4-0 | 33yo | Striker\n\n🥊 4. 𝗗𝗲𝗻
- 𝗶𝘀 𝗚𝗼𝗹𝘁𝘀𝗼𝘃 🇷🇺 vs. 𝗠𝗮𝘅𝘄𝗲
- 𝗹𝗹 𝗗𝗷𝗮𝗻𝘁𝗼𝘂 𝗡𝗮𝗻𝗮 🇨🇲\n• 265lb
- s/120kg Heavyweight\n• Goltsov: 37-9-0 | 36yo\n• Nana: 9-2-0 | 35yo\n\
- n🥊 3. 𝗘𝗿𝗻𝗲𝘀𝘁𝗼 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇
-  🇨🇺 vs. 𝗥𝗵𝘆𝘀 𝗠𝗰𝗞𝗲𝗲\n• 170lbs/77kg Welte
- rweight\n• Rodriguez: 11-2-0 | 29yo\n• McKee: 15-7-1 | 31yo\n\n🥊 2.
-  𝗞𝗵𝗮𝗯𝗶𝗯 𝗡𝗮𝗯𝗶𝗲𝘃 vs. 𝗦𝘁𝘆𝘃
- 𝗲 𝗡𝗴𝗼𝗻𝗼 🇨🇲\n• 205lbs/93kg Light Heavyweight\n•
-  Nabiev: 12-0-0 | 29yo\n• Ngono: 8-1-0 | 27yo\n\n🥊 1. 𝗔𝗹𝗲
- 𝗸𝘀𝗮𝗻𝗱𝗿𝗮 𝗦𝗮𝘃𝗶𝗰𝗵𝗲𝘃𝗮 🇷🇺
-  vs. 𝗝𝗮𝗰𝗶𝗻𝘁𝗮 𝗔𝘂𝘀𝘁𝗶𝗻 🇦🇺\n• W
- omen's Strawweight\n• Savicheva: 8-2-0 | 28yo\n• Austin: 9-2-0 | 32yo\
- n\n--------------------------------\n𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 
- 𝗢𝗥 𝗣𝗢𝗦𝗧𝗣𝗢𝗡𝗘𝗗 𝗕𝗢𝗨𝗧𝗦\n------
- --------------------------\n\n✕ Vadim Nemkov vs. Sergey Bilostenniy\n•
-  Removed from the official PFL card\n\n✕ Khamzat Abaev vs. Leon Hill\n
- • Removed from the official PFL card\n\n✕ Asaël Adjoudj vs. Movlid Kh
- aybulaev\n• Removed from the official PFL card\n\n✕ Abubakar Nurmagome
- dov vs. David Martinez\n• Removed from the official PFL card\n\n✕ TBD 
- TBD vs. Movlid Khaybulaev\n• Removed from the official PFL card\n\n-----
- ---------------------------\nSource: https://pflmma.com/event/pfl-returns-
- to-dubai
+ s/61kg Bantamweight\n• Pettis: 25-8-0 | 33yo | -165 (1.61)\n• Goto: 21
+ -9-1 | 30yo | +140 (2.40)\n• Odds history:\n  ◦ 13 Nov: Pettis 🟢 -1
+ 65 (1.61) | Goto 🔴 +140 (2.40)\n\n🥊 9. 𝗟𝗲𝘄𝗶𝘀 𝗠𝗰
+ 𝗚𝗿𝗶𝗹𝗹𝗲𝗻 🇬🇧 vs. 𝗡𝗮𝘄𝗿𝗮𝘀 𝗔
+ 𝗯𝘇𝗮𝗸𝗵 🇯🇴\n• 135lbs/61kg Bantamweight\n• McGrillen
+ : 13-2-0 | 26yo | -385 (1.26)\n• Abzakh: 15-6-0 | 34yo | +340 (4.40)\n
+ • Odds history:\n  ◦ 13 Nov: McGrillen 🟢 -385 (1.26) | Abzakh 🔴 
+ +340 (4.40)\n\n🥊 8. 𝗦𝗵𝗲𝗺 𝗥𝗼𝗰𝗸 vs. 𝗖𝗼𝗻
+ 𝗻𝗼𝗿 𝗛𝘂𝗴𝗵𝗲𝘀 🇬🇧\n• 155lbs/70kg Lightweigh
+ t\n• Rock: 12-3-1 | 33yo | +160 (2.60)\n• Hughes: 12-3-0 | 29yo | -180
+  (1.56)\n• Odds history:\n  ◦ 13 Nov: Rock 🔴 +160 (2.60) | Hughes 
+ 🟢 -180 (1.56)\n\n🥊 7. 𝗦𝗮𝘆𝗴𝗶𝗱 𝗜𝘇𝗮𝗴𝗮
+ 𝗸𝗵𝗺𝗮𝗲𝘃 vs. 𝗗𝗮𝘃𝗶𝗱 𝗠𝗮𝗿𝘁𝗶𝗻
+ 𝗲𝘇\n• 170lbs/77kg Welterweight\n• Izagakhmaev: 22-4-0 | 32yo | -
+ 200 (1.50)\n• Martinez: 17-6-0 | 33yo | +190 (2.90)\n• Odds history:\n
+   ◦ 13 Nov: Izagakhmaev 🟢 -200 (1.50) | Martinez 🔴 +190 (2.90)\n\n
+ 🥊 6. 𝗔𝗹𝗲𝘅𝗲𝗶 𝗣𝗲𝗿𝗴𝗮𝗻𝗱𝗲 🇺🇸
+  vs. 𝗔𝗸𝗵𝗺𝗲𝗱 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝗼𝘃 🇷
+ 🇺\n• 155lbs/70kg Lightweight\n• Pergande: 8-0-0 | 25yo | -165 (1.61
+ )\n• Magomedov: 11-2-0 | 30yo | +144 (2.44)\n• Odds history:\n  ◦ 13
+  Nov: Pergande 🟢 -165 (1.61) | Magomedov 🔴 +144 (2.44)\n\n🥊 5. 
+ 𝗞𝗵𝗮𝘀𝗮𝗻 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝘀𝗵𝗮𝗿𝗶
+ 𝗽𝗼𝘃 vs. 𝗔𝗱𝗮𝗺 𝗕𝗼𝗿𝗶𝗰𝘀 🇭🇺\n• 1
+ 45lbs/66kg Featherweight\n• Magomedsharipov: 11-0-0 | 26yo | -250 (1.40)
+ \n• Borics: 20-4-0 | 33yo | Striker | +210 (3.10)\n• Odds history:\n  
+ ◦ 13 Nov: Magomedsharipov 🟢 -250 (1.40) | Borics 🔴 +210 (3.10)\n\n
+ 🥊 4. 𝗗𝗲𝗻𝗶𝘀 𝗚𝗼𝗹𝘁𝘀𝗼𝘃 🇷🇺 vs. 
+ 𝗠𝗮𝘅𝘄𝗲𝗹𝗹 𝗗𝗷𝗮𝗻𝘁𝗼𝘂 𝗡𝗮𝗻𝗮
+  🇨🇲\n• 265lbs/120kg Heavyweight\n• Goltsov: 37-9-0 | 36yo | -350
+  (1.29)\n• Nana: 9-2-0 | 35yo | +320 (4.20)\n• Odds history:\n  ◦ 13
+  Nov: Goltsov 🟢 -350 (1.29) | Nana 🔴 +320 (4.20)\n\n🥊 3. 𝗘𝗿
+ 𝗻𝗲𝘀𝘁𝗼 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 vs. 𝗥𝗵𝘆
+ 𝘀 𝗠𝗰𝗞𝗲𝗲\n• 170lbs/77kg Welterweight\n• Rodriguez: 11
+ -2-0 | 29yo | -125 (1.80)\n• McKee: 15-7-1 | 31yo | +105 (2.05)\n• Odd
+ s history:\n  ◦ 13 Nov: Rodriguez 🟢 -125 (1.80) | McKee 🔴 +105 (2.
+ 05)\n\n🥊 2. 𝗞𝗵𝗮𝗯𝗶𝗯 𝗡𝗮𝗯𝗶𝗲𝘃 vs. 𝗦
+ 𝘁𝘆𝘃𝗲 𝗡𝗴𝗼𝗻𝗼 🇨🇲\n• 205lbs/93kg Light Heav
+ yweight\n• Nabiev: 12-0-0 | 29yo | -549 (1.18)\n• Ngono: 8-1-0 | 27yo 
+ | +460 (5.60)\n• Odds history:\n  ◦ 13 Nov: Nabiev 🟢 -549 (1.18) | 
+ Ngono 🔴 +460 (5.60)\n\n🥊 1. 𝗔𝗹𝗲𝗸𝘀𝗮𝗻𝗱𝗿𝗮
+  𝗦𝗮𝘃𝗶𝗰𝗵𝗲𝘃𝗮 🇷🇺 vs. 𝗝𝗮𝗰𝗶𝗻
+ 𝘁𝗮 𝗔𝘂𝘀𝘁𝗶𝗻 🇦🇺\n• Women's Strawweight\n• S
+ avicheva: 8-2-0 | 28yo | +220 (3.20)\n• Austin: 9-2-0 | 32yo | -250 (1.4
+ 0)\n• Odds history:\n  ◦ 13 Nov: Savicheva 🔴 +220 (3.20) | Austin 
+ 🟢 -250 (1.40)\n\n--------------------------------\n𝗖𝗔𝗡𝗖𝗘
+ 𝗟𝗟𝗘𝗗 𝗢𝗥 𝗣𝗢𝗦𝗧𝗣𝗢𝗡𝗘𝗗 𝗕𝗢
+ 𝗨𝗧𝗦\n--------------------------------\n\n✕ Vadim Nemkov vs. Ser
+ gey Bilostenniy\n• Removed from the official PFL card\n\n✕ Khamzat Aba
+ ev vs. Leon Hill\n• Removed from the official PFL card\n\n✕ Asaël Adj
+ oudj vs. Movlid Khaybulaev\n• Removed from the official PFL card\n\n✕ 
+ Abubakar Nurmagomedov vs. David Martinez\n• Removed from the official PF
+ L card\n\n✕ TBD TBD vs. Movlid Khaybulaev\n• Removed from the official
+  PFL card\n\n--------------------------------\nSource: https://pflmma.com/
+ event/pfl-returns-to-dubai\nOdds source: https://www.bestfightodds.com/ ·
+  best available line · checked Monday and Friday
 LOCATION:Coca-Cola Arena\, Dubai
 URL:https://pflmma.com/event/pfl-returns-to-dubai
 CATEGORIES:Professional Fighters League
