@@ -2941,10 +2941,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a968c464f4a09743472c796@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:3
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:4
 DTSTART:20261113T113058Z
-DTEND:20261113T163058Z
+DTEND:20261113T163508Z
 SUMMARY:ONE Friday Fights 178 & The Inner Circle 38
 DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
@@ -3075,8 +3075,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a968c7d10c90c3a3d15f98f@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261030T130053Z
-SEQUENCE:3
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:4
 DTSTART:20261120T113014Z
 DTEND:20261120T163014Z
 SUMMARY:ONE Friday Fights 179 & The Inner Circle 39
@@ -3090,7 +3090,7 @@ DESCRIPTION:ONE Championship · Complete Event · 2 bouts\n📍 Lumpinee St
  v: ONE 10-1-0 | 23yo | Striker\n\n🥊 1. 𝗕𝗹𝗮𝗰𝗸 𝗣𝗮
  𝗻𝘁𝗵𝗲𝗿 🇹🇭 vs. 𝗨𝗯𝗮𝗶𝗱 𝗛𝘂𝘀𝘀
  𝗮𝗶𝗻 🇵🇰/🇬🇧\n• 135lbs/61.2kg Flyweight Muay Thai\n•
-  Panther: ONE 6-1-0 | 26yo | Striker\n• Hussain: ONE 8-0-0 | 20yo | Stri
+  Panther: ONE 6-1-0 | 26yo | Striker\n• Hussain: ONE 8-0-0 | 21yo | Stri
  ker\n\n--------------------------------\nSource: https://www.onefc.com/eve
  nts/one-friday-fights-179/
 LOCATION:Lumpinee Stadium\, Bangkok
@@ -3120,8 +3120,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a854312744b2bfc37290f0c@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261111T142813Z
-SEQUENCE:3
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:4
 DTSTART:20261202T083023Z
 DTEND:20261202T143023Z
 SUMMARY:ONE Samurai 6
@@ -3132,7 +3132,7 @@ DESCRIPTION:ONE Championship · Complete Event · 1 bout\n📍 Yokohama Bun
  𝗱𝗮 🇯🇵 vs. 𝗔𝗻𝗮𝘀𝘁𝗮𝘀𝗶𝗮 𝗡𝗶𝗸
  𝗼𝗹𝗮𝗸𝗮𝗸𝗼𝘀 🇨🇦\n• 115lbs/52.2kg Atomweight Wo
  rld Championship\n• Sawada: ONE 7-1-0 | 28yo | Grappler\n• Nikolakakos
- : ONE 2-0-0 | 36yo\n\n--------------------------------\nSource: https://ww
+ : ONE 2-0-0 | 37yo\n\n--------------------------------\nSource: https://ww
  w.onefc.com/events/one-samurai-6/
 LOCATION:Yokohama Buntai\, Yokohama
 URL:https://watch.onefc.com/events/one-samurai-6

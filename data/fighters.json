@@ -40,7 +40,7 @@
       "familyName": "Bahamondes",
       "record": "18-7-0",
       "fightingStyle": "Freestyle",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
+      "checkedAt": "2026-11-16T15:53:09.022Z"
     },
     "https://www.ufc.com/athlete/drakkar-klose": {
       "birthDate": "1988-03-09",
@@ -605,9 +605,9 @@
     "https://www.ufc.com/athlete/roberto-soldic": {
       "birthDate": "1995-01-25",
       "familyName": "Soldic",
-      "record": "0-0-0",
-      "fightingStyle": null,
-      "checkedAt": "2026-09-28T14:01:47.609Z"
+      "record": "22-4-0",
+      "fightingStyle": "MMA",
+      "checkedAt": "2026-11-16T15:53:09.022Z"
     },
     "https://www.ufc.com/athlete/ateba-gautier": {
       "birthDate": "2002-04-10",
@@ -796,7 +796,7 @@
       "familyName": "Bonfim",
       "record": "20-1-0",
       "fightingStyle": "Striker",
-      "checkedAt": "2026-10-28T13:01:15.055Z"
+      "checkedAt": "2026-11-16T15:53:09.022Z"
     },
     "https://www.ufc.com/athlete/fares-ziam": {
       "birthDate": "1997-03-21",
@@ -994,20 +994,6 @@
       "fightingStyle": null,
       "checkedAt": "2026-11-13T14:39:03.976Z"
     },
-    "https://www.ufc.com/athlete/jefferson-nascimento": {
-      "birthDate": "1998-11-19",
-      "familyName": "Nascimento",
-      "record": "13-1-0",
-      "fightingStyle": "Freestyle",
-      "checkedAt": "2026-10-30T13:00:53.522Z"
-    },
-    "https://www.ufc.com/athlete/nazim-sadykhov": {
-      "birthDate": "1994-05-16",
-      "familyName": "Sadykhov",
-      "record": "11-3-1",
-      "fightingStyle": "Freestyle",
-      "checkedAt": "2026-10-30T13:00:53.522Z"
-    },
     "https://www.ufc.com/athlete/matheus-camilo": {
       "birthDate": "2001-01-02",
       "familyName": "Camilo",
@@ -1043,33 +1029,12 @@
       "fightingStyle": "MMA",
       "checkedAt": "2026-10-21T11:55:56.716Z"
     },
-    "https://www.ufc.com/athlete/tracy-cortez": {
-      "birthDate": "1993-12-10",
-      "familyName": "Cortez",
-      "record": "12-4-0",
-      "fightingStyle": "MMA",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
     "https://www.ufc.com/athlete/cesar-almeida": {
       "birthDate": "1988-03-28",
       "familyName": "Almeida",
       "record": "7-3-0",
       "fightingStyle": "Striker",
       "checkedAt": "2026-11-13T14:39:03.976Z"
-    },
-    "https://www.ufc.com/athlete/john-garza": {
-      "birthDate": "2002-10-30",
-      "familyName": "Garza",
-      "record": "6-2-0",
-      "fightingStyle": "Striker",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
-    "https://www.ufc.com/athlete/farid-basharat": {
-      "birthDate": "1997-08-02",
-      "familyName": "Basharat",
-      "record": "16-0-0",
-      "fightingStyle": "MMA",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
     },
     "https://www.ufc.com/athlete/zachary-reese": {
       "birthDate": "1994-03-24",
@@ -1099,82 +1064,12 @@
       "fightingStyle": "Brazilian Jiu-Jitsu",
       "checkedAt": "2026-11-13T14:39:03.976Z"
     },
-    "https://www.ufc.com/athlete/elisha-ellison": {
-      "birthDate": "1997-03-05",
-      "familyName": "Ellison",
-      "record": "5-3-0",
-      "fightingStyle": "Striker",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
-    "https://www.ufc.com/athlete/adrian-yanez": {
-      "birthDate": "1993-11-29",
-      "familyName": "Yanez",
-      "record": "18-6-1",
-      "fightingStyle": "Boxer",
-      "checkedAt": "2026-11-06T14:21:26.351Z"
-    },
-    "https://www.ufc.com/athlete/luke-riley": {
-      "birthDate": "1999-06-30",
-      "familyName": "Riley",
-      "record": "14-0-0",
-      "fightingStyle": "Striker",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
-    "https://www.ufc.com/athlete/cody-garbrandt": {
-      "birthDate": "1991-07-07",
-      "familyName": "Garbrandt",
-      "record": "15-8-0",
-      "fightingStyle": "Freestyle",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
-    "https://www.ufc.com/athlete/conor-mcgregor": {
-      "birthDate": "1988-07-14",
-      "familyName": "McGregor",
-      "record": "22-7-0",
-      "fightingStyle": null,
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
-    "https://www.ufc.com/athlete/max-holloway": {
-      "birthDate": "1991-12-04",
-      "familyName": "Holloway",
-      "record": "27-9-0",
-      "fightingStyle": "Muay Thai",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
     "https://www.ufc.com/athlete/benoit-saint-denis": {
       "birthDate": "1995-12-18",
       "familyName": "Saint Denis",
       "record": "17-4-0",
       "fightingStyle": "MMA",
       "checkedAt": "2026-11-13T14:39:03.976Z"
-    },
-    "https://www.ufc.com/athlete/paddy-pimblett": {
-      "birthDate": "1995-01-03",
-      "familyName": "Pimblett",
-      "record": "24-4-0",
-      "fightingStyle": null,
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
-    "https://www.ufc.com/athlete/cory-sandhagen": {
-      "birthDate": "1992-04-20",
-      "familyName": "Sandhagen",
-      "record": "18-7-0",
-      "fightingStyle": "MMA",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
-    "https://www.ufc.com/athlete/mario-bautista": {
-      "birthDate": "1993-07-01",
-      "familyName": "Bautista",
-      "record": "18-3-0",
-      "fightingStyle": "Freestyle",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
-    "https://www.ufc.com/athlete/brandon-royval": {
-      "birthDate": "1992-08-16",
-      "familyName": "Royval",
-      "record": "18-9-0",
-      "fightingStyle": "Brawler",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
     },
     "https://www.ufc.com/athlete/loneer-kavanagh": {
       "birthDate": "1999-06-09",
@@ -1218,33 +1113,12 @@
       "fightingStyle": "Striker",
       "checkedAt": "2026-09-13T08:04:44.499Z"
     },
-    "https://www.ufc.com/athlete/ezra-elliot": {
-      "birthDate": "2000-05-18",
-      "familyName": "Elliot",
-      "record": "8-0-0",
-      "fightingStyle": null,
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
     "https://www.ufc.com/athlete/felipe-franco": {
       "birthDate": "2001-01-22",
       "familyName": "Franco",
       "record": "11-2-0",
       "fightingStyle": "MMA",
       "checkedAt": "2026-10-07T13:30:00.229Z"
-    },
-    "https://www.ufc.com/athlete/stewart-nicoll": {
-      "birthDate": "1994-11-04",
-      "familyName": "Nicoll",
-      "record": "8-4-0",
-      "fightingStyle": "Grappler",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
-    "https://www.ufc.com/athlete/damien-anderson": {
-      "birthDate": "1997-01-04",
-      "familyName": "Anderson",
-      "record": "5-1-0",
-      "fightingStyle": "Grappler",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
     },
     "https://www.ufc.com/athlete/rj-harris": {
       "birthDate": "1998-10-01",
@@ -1253,41 +1127,6 @@
       "fightingStyle": "Wrestling",
       "checkedAt": "2026-10-07T13:30:00.229Z"
     },
-    "https://www.ufc.com/athlete/dricus-du-plessis": {
-      "birthDate": "1994-01-14",
-      "familyName": "Du Plessis",
-      "record": "24-3-0",
-      "fightingStyle": "MMA",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
-    "https://www.ufc.com/athlete/alvin-hines": {
-      "birthDate": "1991-10-20",
-      "familyName": "Hines",
-      "record": "7-2-0",
-      "fightingStyle": "MMA",
-      "checkedAt": "2026-10-30T13:00:53.522Z"
-    },
-    "https://www.ufc.com/athlete/anna-melisano": {
-      "birthDate": "1997-05-20",
-      "familyName": "Melisano",
-      "record": "6-2-0",
-      "fightingStyle": "Striker",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
-    "https://www.ufc.com/athlete/dione-barbosa": {
-      "birthDate": "1992-05-08",
-      "familyName": "Barbosa",
-      "record": "10-4-0",
-      "fightingStyle": "Grappler",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
-    "https://www.ufc.com/athlete/kamaru-usman": {
-      "birthDate": "1987-05-11",
-      "familyName": "Usman",
-      "record": "21-5-0",
-      "fightingStyle": "Freestyle",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
     "https://www.ufc.com/athlete/jared-cannonier": {
       "birthDate": "1984-03-16",
       "familyName": "Cannonier",
@@ -1295,47 +1134,12 @@
       "fightingStyle": "Striker",
       "checkedAt": "2026-11-13T14:39:03.976Z"
     },
-    "https://www.ufc.com/athlete/chase-hooper": {
-      "birthDate": "1999-09-13",
-      "familyName": "Hooper",
-      "record": "17-5-1",
-      "fightingStyle": "Grappler",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
     "https://www.ufc.com/athlete/christian-leroy-duncan": {
       "birthDate": "1995-07-24",
       "familyName": "Duncan",
       "record": "15-2-0",
       "fightingStyle": "MMA",
       "checkedAt": "2026-10-05T14:47:16.208Z"
-    },
-    "https://www.ufc.com/athlete/mitch-ramirez": {
-      "birthDate": "1992-11-03",
-      "familyName": "Ramirez",
-      "record": "8-4-0",
-      "fightingStyle": "MMA",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
-    "https://www.ufc.com/athlete/tabatha-ricci": {
-      "birthDate": "1995-02-21",
-      "familyName": "Ricci",
-      "record": "12-5-0",
-      "fightingStyle": "Judo",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
-    "https://www.ufc.com/athlete/fatima-kline": {
-      "birthDate": "2000-07-12",
-      "familyName": "Kline",
-      "record": "10-1-0",
-      "fightingStyle": "Grappler",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
-    },
-    "https://www.ufc.com/athlete/alberto-montes": {
-      "birthDate": "1994-05-31",
-      "familyName": "Montes",
-      "record": "12-2-0",
-      "fightingStyle": "Striker",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
     },
     "https://www.ufc.com/athlete/thomas-petersen": {
       "birthDate": "1995-03-30",
@@ -1622,7 +1426,7 @@
       "familyName": "Rodriguez",
       "record": "20-6-0",
       "fightingStyle": "Freestyle",
-      "checkedAt": "2026-09-13T08:04:44.499Z"
+      "checkedAt": "2026-11-16T15:53:09.022Z"
     },
     "https://www.ufc.com/athlete/jan-blachowicz": {
       "birthDate": "1983-02-24",
@@ -2686,7 +2490,7 @@
       "familyName": "Njokuani",
       "record": "26-12-0",
       "fightingStyle": "MMA",
-      "checkedAt": "2026-09-13T08:10:04.621Z"
+      "checkedAt": "2026-11-16T15:53:09.022Z"
     },
     "https://www.ufc.com/athlete/elise-reed": {
       "birthDate": "1992-12-05",
@@ -3457,6 +3261,27 @@
       "record": "15-1-0",
       "fightingStyle": "MMA",
       "checkedAt": "2026-11-11T14:28:13.039Z"
+    },
+    "https://www.ufc.com/athlete/yair-rodriguez": {
+      "birthDate": "1992-10-06",
+      "familyName": "Rodriguez",
+      "record": "21-5-0",
+      "fightingStyle": "Freestyle",
+      "checkedAt": "2026-11-16T15:53:09.022Z"
+    },
+    "https://www.ufc.com/athlete/steve-garcia": {
+      "birthDate": "1992-05-22",
+      "familyName": "Garcia",
+      "record": "19-6-0",
+      "fightingStyle": "Freestyle",
+      "checkedAt": "2026-11-16T15:53:09.022Z"
+    },
+    "https://www.ufc.com/athlete/sean-brady": {
+      "birthDate": "1992-11-23",
+      "familyName": "Brady",
+      "record": "19-2-0",
+      "fightingStyle": "Jiu-Jitsu",
+      "checkedAt": "2026-11-16T15:53:09.022Z"
     }
   }
 }

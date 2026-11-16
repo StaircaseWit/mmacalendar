@@ -11,319 +11,42 @@ X-APPLE-CALENDAR-COLOR:#D8070C
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:ufc-334-fight-13235@ufc-detailed-calendar
-DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:2
-DTSTART:20261114T233000Z
-DTEND:20261115T000000Z
-SUMMARY:🥊 4. Jared Gordon vs. Melquizael Costa (estimated)
-DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
-  may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Gord
- on: 21-9-0 | 38yo | Freestyle | +335 (4.35)\n• Costa: 26-7-0 | 30yo | MM
- A | -355 (1.28)\n• Odds history:\n  ◦ 6 Nov: Gordon 🔴 +376 (4.76) |
-  Costa 🟢 -380 (1.26)\n  ◦ 9 Nov: Gordon 🔴 +317 (4.17) | Costa 🟢
-  -350 (1.29)\n  ◦ 13 Nov: Gordon 🔴 +335 (4.35) | Costa 🟢 -355 (1.2
- 8)\nEvent: Polymarket UFC 334: Gane vs Hokit\nSource: https://www.ufc.com/
- event/ufc-334\nMain calendar: https://staircasewit.github.io/mmacalendar/u
- fc.ics\nEvent status: Scheduled
-LOCATION:Madison Square Garden\, New York\, United States
-URL:https://www.ufc.com/event/ufc-334
-CATEGORIES:UFC,Estimated Fight,Early Prelims
-RELATED-TO:ufc-334-early-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-334-fight-13149@ufc-detailed-calendar
-DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:2
-DTSTART:20261114T230000Z
-DTEND:20261114T233000Z
-SUMMARY:🥊 3. Macy Chiasson vs. Bia Mesquita (estimated)
-DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
-  may move as earlier fights finish.\n• 135lbs/61kg Women's Bantamweight\
- n• Chiasson: 11-6-0 | 35yo | MMA | +223 (3.23)\n• Mesquita: 8-0-0 | 35
- yo | Brazilian Jiu-Jitsu | -233 (1.43)\n• Odds history:\n  ◦ 6 Nov: Ch
- iasson 🔴 +186 (2.86) | Mesquita 🟢 -194 (1.52)\n  ◦ 9 Nov: Chiasson
-  🔴 +223 (3.23) | Mesquita 🟢 -215 (1.47)\n  ◦ 13 Nov: Chiasson 🔴
-  +223 (3.23) | Mesquita 🟢 -233 (1.43)\n  ◦ Earlier changes: see full 
- odds log\nEvent: Polymarket UFC 334: Gane vs Hokit\nSource: https://www.uf
- c.com/event/ufc-334\nMain calendar: https://staircasewit.github.io/mmacale
- ndar/ufc.ics\nEvent status: Scheduled
-LOCATION:Madison Square Garden\, New York\, United States
-URL:https://www.ufc.com/event/ufc-334
-CATEGORIES:UFC,Estimated Fight,Early Prelims
-RELATED-TO:ufc-334-early-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-334-fight-13257@ufc-detailed-calendar
-DTSTAMP:20261111T142813Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:1
-DTSTART:20261114T223000Z
-DTEND:20261114T230000Z
-SUMMARY:🥊 2. Alatengheili vs. Juan Diaz (estimated)
-DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
-  may move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Ala
- teng: 18-10-2 | 34yo | Wrestling | +355 (4.55)\n• Diaz: 16-1-1 | 28yo | 
- MMA | -333 (1.30)\n• Odds history:\n  ◦ 13 Nov: Alateng 🔴 +355 (4.5
- 5) | Diaz 🟢 -333 (1.30)\nEvent: Polymarket UFC 334: Gane vs Hokit\nSour
- ce: https://www.ufc.com/event/ufc-334\nMain calendar: https://staircasewit
- .github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Madison Square Garden\, New York\, United States
-URL:https://www.ufc.com/event/ufc-334
-CATEGORIES:UFC,Estimated Fight,Early Prelims
-RELATED-TO:ufc-334-early-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-334-fight-13236@ufc-detailed-calendar
-DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:2
-DTSTART:20261114T220000Z
-DTEND:20261114T223000Z
-SUMMARY:🥊 1. Evan Elder vs. Samuel Sanches (estimated)
-DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
-  may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Elde
- r: 10-2-0 | 29yo | MMA | +108 (2.08)\n• Sanches: 11-1-0 | 23yo | Striker
-  | -110 (1.91)\n• Odds history:\n  ◦ 6 Nov: Elder 🟢 -117 (1.85) | S
- anches 🔴 +113 (2.13)\n  ◦ 9 Nov: Elder 🔴 -100 (2.00) | Sanches 
- 🟢 -107 (1.93)\n  ◦ 13 Nov: Elder 🔴 +108 (2.08) | Sanches 🟢 -110
-  (1.91)\nEvent: Polymarket UFC 334: Gane vs Hokit\nSource: https://www.ufc
- .com/event/ufc-334\nMain calendar: https://staircasewit.github.io/mmacalen
- dar/ufc.ics\nEvent status: Scheduled
-LOCATION:Madison Square Garden\, New York\, United States
-URL:https://www.ufc.com/event/ufc-334
-CATEGORIES:UFC,Estimated Fight,Early Prelims
-RELATED-TO:ufc-334-early-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-334-fight-13145@ufc-detailed-calendar
-DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:2
-DTSTART:20261115T013000Z
-DTEND:20261115T020000Z
-SUMMARY:🥊 4. Stephen Thompson vs. Charles Radtke (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Thompson:
-  17-9-1 | 43yo | Karate | -138 (1.72)\n• Radtke: 12-5-0 | 36yo | +135 (2
- .35)\n• Odds history:\n  ◦ 6 Nov: Thompson 🟢 -117 (1.85) | Radtke 
- 🔴 +118 (2.18)\n  ◦ 9 Nov: Thompson 🟢 -137 (1.73) | Radtke 🔴 +12
- 7 (2.27)\n  ◦ 13 Nov: Thompson 🟢 -138 (1.72) | Radtke 🔴 +135 (2.35
- )\n  ◦ Earlier changes: see full odds log\nEvent: Polymarket UFC 334: Ga
- ne vs Hokit\nSource: https://www.ufc.com/event/ufc-334\nMain calendar: htt
- ps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Madison Square Garden\, New York\, United States
-URL:https://www.ufc.com/event/ufc-334
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-334-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-334-fight-13146@ufc-detailed-calendar
-DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:2
-DTSTART:20261115T010000Z
-DTEND:20261115T013000Z
-SUMMARY:🥊 3. Drew Dober vs. Chris Duncan (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Dober: 29-
- 15-0 | 38yo | Freestyle | +163 (2.63)\n• Duncan: 15-3-0 | 33yo | Striker
-  | -170 (1.59)\n• Odds history:\n  ◦ 2 Nov: Dober 🔴 +133 (2.33) | D
- uncan 🟢 -138 (1.72)\n  ◦ 6 Nov: Dober 🔴 +144 (2.44) | Duncan 🟢 
- -150 (1.67)\n  ◦ 13 Nov: Dober 🔴 +163 (2.63) | Duncan 🟢 -170 (1.59
- )\nEvent: Polymarket UFC 334: Gane vs Hokit\nSource: https://www.ufc.com/e
- vent/ufc-334\nMain calendar: https://staircasewit.github.io/mmacalendar/uf
- c.ics\nEvent status: Scheduled
-LOCATION:Madison Square Garden\, New York\, United States
-URL:https://www.ufc.com/event/ufc-334
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-334-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-334-fight-13147@ufc-detailed-calendar
-DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:2
-DTSTART:20261115T003000Z
-DTEND:20261115T010000Z
-SUMMARY:🥊 2. Jim Miller vs. Terrance McKinney (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Miller: 39
- -19-0 | 43yo | Jiu-Jitsu | +194 (2.94)\n• McKinney: 18-9-0 | 32yo | MMA 
- | -200 (1.50)\n• Odds history:\n  ◦ 6 Nov: Miller 🔴 +203 (3.03) | M
- cKinney 🟢 -213 (1.47)\n  ◦ 9 Nov: Miller 🔴 +186 (2.86) | McKinney 
- 🟢 -194 (1.52)\n  ◦ 13 Nov: Miller 🔴 +194 (2.94) | McKinney 🟢 -2
- 00 (1.50)\n  ◦ Earlier changes: see full odds log\nEvent: Polymarket UFC
-  334: Gane vs Hokit\nSource: https://www.ufc.com/event/ufc-334\nMain calen
- dar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Sch
- eduled
-LOCATION:Madison Square Garden\, New York\, United States
-URL:https://www.ufc.com/event/ufc-334
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-334-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-334-fight-13234@ufc-detailed-calendar
-DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:2
-DTSTART:20261115T000000Z
-DTEND:20261115T003000Z
-SUMMARY:🥊 1. Donte Johnson vs. Cesar Almeida (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• Catchweight\n• Johnson: 9-0-0 | 27yo 
- | MMA | -170 (1.59)\n• Almeida: 7-3-0 | 38yo | Striker | +163 (2.63)\n
- • Odds history:\n  ◦ 2 Nov: Johnson 🟢 -150 (1.67) | Almeida 🔴 +1
- 44 (2.44)\n  ◦ 6 Nov: Johnson 🟢 -180 (1.56) | Almeida 🔴 +178 (2.78
- )\n  ◦ 13 Nov: Johnson 🟢 -170 (1.59) | Almeida 🔴 +163 (2.63)\nEven
- t: Polymarket UFC 334: Gane vs Hokit\nSource: https://www.ufc.com/event/uf
- c-334\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\n
- Event status: Scheduled
-LOCATION:Madison Square Garden\, New York\, United States
-URL:https://www.ufc.com/event/ufc-334
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-334-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-334-fight-13140@ufc-detailed-calendar
-DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:2
-DTSTART:20261115T042500Z
-DTEND:20261115T045500Z
-SUMMARY:🥊 5. Ciryl Gane vs. Josh Hokit (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 265lbs/120kg Heavyweight · Title Bou
- t\n• Gane: 14-2-0 | 36yo | Muay Thai | -188 (1.53)\n• Hokit: 10-0-0 | 
- 29yo | Wrestling | +186 (2.86)\n• Odds history:\n  ◦ 6 Nov: Gane 🟢 
- -194 (1.52) | Hokit 🔴 +210 (3.10)\n  ◦ 9 Nov: Gane 🟢 -186 (1.54) |
-  Hokit 🔴 +186 (2.86)\n  ◦ 13 Nov: Gane 🟢 -188 (1.53) | Hokit 🔴 
- +186 (2.86)\n  ◦ Earlier changes: see full odds log\nEvent: Polymarket U
- FC 334: Gane vs Hokit\nSource: https://www.ufc.com/event/ufc-334\nMain cal
- endar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: S
- cheduled
-LOCATION:Madison Square Garden\, New York\, United States
-URL:https://www.ufc.com/event/ufc-334
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-334-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-334-fight-13141@ufc-detailed-calendar
-DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:2
-DTSTART:20261115T035000Z
-DTEND:20261115T042000Z
-SUMMARY:🥊 4. Kayla Harrison vs. Amanda Nunes (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 135lbs/61kg Women's Bantamweight · T
- itle Bout\n• Harrison: 19-1-0 | 36yo | Judo | -156 (1.64)\n• Nunes: 23
- -5-0 | 38yo | Striker | +155 (2.55)\n• Odds history:\n  ◦ 25 Sep: Harr
- ison 🟢 -200 (1.50) | Nunes 🔴 +163 (2.63)\n  ◦ 2 Nov: Harrison 🟢
-  -170 (1.59) | Nunes 🔴 +163 (2.63)\n  ◦ 13 Nov: Harrison 🟢 -156 (1
- .64) | Nunes 🔴 +155 (2.55)\nEvent: Polymarket UFC 334: Gane vs Hokit\nS
- ource: https://www.ufc.com/event/ufc-334\nMain calendar: https://staircase
- wit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Madison Square Garden\, New York\, United States
-URL:https://www.ufc.com/event/ufc-334
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-334-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-334-fight-13142@ufc-detailed-calendar
-DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:2
-DTSTART:20261115T031000Z
-DTEND:20261115T034000Z
-SUMMARY:🥊 3. Caio Borralho vs. Yousri Belgaroui (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Borralh
- o: 18-2-0 | 33yo | MMA | -144 (1.69)\n• Belgaroui: 11-3-0 | 34yo | Strik
- er | +138 (2.38)\n• Odds history:\n  ◦ 6 Nov: Borralho 🟢 -144 (1.69
- ) | Belgaroui 🔴 +138 (2.38)\n  ◦ 9 Nov: Borralho 🟢 -150 (1.67) | B
- elgaroui 🔴 +144 (2.44)\n  ◦ 13 Nov: Borralho 🟢 -144 (1.69) | Belga
- roui 🔴 +138 (2.38)\n  ◦ Earlier changes: see full odds log\nEvent: Po
- lymarket UFC 334: Gane vs Hokit\nSource: https://www.ufc.com/event/ufc-334
- \nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent
-  status: Scheduled
-LOCATION:Madison Square Garden\, New York\, United States
-URL:https://www.ufc.com/event/ufc-334
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-334-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-334-fight-13143@ufc-detailed-calendar
-DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:2
-DTSTART:20261115T023500Z
-DTEND:20261115T030500Z
-SUMMARY:🥊 2. Uroš Medić vs. Kevin Holland (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Medic: 
- 14-3-0 | 33yo | MMA | -150 (1.67)\n• Holland: 29-15-0 | 34yo | Kung Fu |
-  +144 (2.44)\n• Odds history:\n  ◦ 6 Nov: Medic 🟢 -163 (1.61) | Hol
- land 🔴 +170 (2.70)\n  ◦ 9 Nov: Medic 🟢 -144 (1.69) | Holland 🔴 
- +138 (2.38)\n  ◦ 13 Nov: Medic 🟢 -150 (1.67) | Holland 🔴 +144 (2.4
- 4)\n  ◦ Earlier changes: see full odds log\nEvent: Polymarket UFC 334: G
- ane vs Hokit\nSource: https://www.ufc.com/event/ufc-334\nMain calendar: ht
- tps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Madison Square Garden\, New York\, United States
-URL:https://www.ufc.com/event/ufc-334
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-334-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:ufc-334-fight-13144@ufc-detailed-calendar
-DTSTAMP:20261109T162805Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:2
-DTSTART:20261115T020000Z
-DTEND:20261115T023000Z
-SUMMARY:🥊 1. Bilal Hasan vs. Luis Gurule (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 125lbs/57kg Flyweight\n• Hasan: 10-
- 0-0 | 25yo | MMA | -733 (1.14)\n• Gurule: 11-4-0 | 32yo | +710 (8.10)\n
- • Odds history:\n  ◦ 6 Nov: Hasan 🟢 -567 (1.18) | Gurule 🔴 +600 
- (7.00)\n  ◦ 9 Nov: Hasan 🟢 -809 (1.12) | Gurule 🔴 +733 (8.33)\n  
- ◦ 13 Nov: Hasan 🟢 -733 (1.14) | Gurule 🔴 +710 (8.10)\n  ◦ Earlie
- r changes: see full odds log\nEvent: Polymarket UFC 334: Gane vs Hokit\nSo
- urce: https://www.ufc.com/event/ufc-334\nMain calendar: https://staircasew
- it.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
-LOCATION:Madison Square Garden\, New York\, United States
-URL:https://www.ufc.com/event/ufc-334
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-334-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:ufc-fight-night-november-21-2026-fight-13194@ufc-detailed-calendar
 DTSTAMP:20260930T124052Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:3
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:4
 DTSTART:20261121T171500Z
 DTEND:20261121T174500Z
 SUMMARY:🥊 4. Aleksandre Topuria vs. Santiago Luna (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Topuria: 
- 7-1-0 | 30yo | Boxing | -213 (1.47)\n• Luna: 8-1-0 | 22yo | MMA | +203 (
- 3.03)\n• Odds history:\n  ◦ 13 Nov: Topuria 🟢 -213 (1.47) | Luna 
- 🔴 +203 (3.03)\nEvent: UFC Fight Night: Prochazka vs Stirling\nSource: h
+ 7-1-0 | 30yo | Boxing | -240 (1.42)\n• Luna: 8-1-0 | 22yo | MMA | +233 (
+ 3.33)\n• Odds history:\n  ◦ 13 Nov: Topuria 🟢 -213 (1.47) | Luna 
+ 🔴 +203 (3.03)\n  ◦ 16 Nov: Topuria 🟢 -240 (1.42) | Luna 🔴 +233 
+ (3.33)\nEvent: UFC Fight Night: Prochazka vs Stirling\nSource: https://www
+ .ufc.com/event/ufc-fight-night-november-21-2026\nMain calendar: https://st
+ aircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Rescheduled\; prev
+ iously 21 Nov 2026
+LOCATION:ABHA Arena\, Doha\, Qatar
+URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-fight-night-november-21-2026-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-21-2026-fight-13200@ufc-detailed-calendar
+DTSTAMP:20261005T144716Z
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:3
+DTSTART:20261121T163000Z
+DTEND:20261121T170000Z
+SUMMARY:🥊 3. Shamil Gaziev vs. Tallison Teixeira (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 265lbs/120kg Heavyweight\n• Gaziev: 1
+ 5-3-0 | 36yo | MMA | -178 (1.56)\n• Teixeira: 9-2-0 | 26yo | Striker | +
+ 170 (2.70)\n• Odds history:\n  ◦ 13 Nov: Gaziev 🟢 -194 (1.52) | Tei
+ xeira 🔴 +186 (2.86)\n  ◦ 16 Nov: Gaziev 🟢 -178 (1.56) | Teixeira 
+ 🔴 +170 (2.70)\nEvent: UFC Fight Night: Prochazka vs Stirling\nSource: h
  ttps://www.ufc.com/event/ufc-fight-night-november-21-2026\nMain calendar: 
  https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Reschedu
  led\; previously 21 Nov 2026
@@ -334,43 +57,22 @@ RELATED-TO:ufc-fight-night-november-21-2026-prelims@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-fight-night-november-21-2026-fight-13200@ufc-detailed-calendar
-DTSTAMP:20261005T144716Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:2
-DTSTART:20261121T163000Z
-DTEND:20261121T170000Z
-SUMMARY:🥊 3. Shamil Gaziev vs. Tallison Teixeira (estimated)
-DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
- ove as earlier fights finish.\n• 265lbs/120kg Heavyweight\n• Gaziev: 1
- 5-3-0 | 36yo | MMA | -194 (1.52)\n• Teixeira: 9-2-0 | 26yo | Striker | +
- 186 (2.86)\n• Odds history:\n  ◦ 13 Nov: Gaziev 🟢 -194 (1.52) | Tei
- xeira 🔴 +186 (2.86)\nEvent: UFC Fight Night: Prochazka vs Stirling\nSou
- rce: https://www.ufc.com/event/ufc-fight-night-november-21-2026\nMain cale
- ndar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Re
- scheduled\; previously 21 Nov 2026
-LOCATION:ABHA Arena\, Doha\, Qatar
-URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
-CATEGORIES:UFC,Estimated Fight,Prelims
-RELATED-TO:ufc-fight-night-november-21-2026-prelims@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:ufc-fight-night-november-21-2026-fight-13196@ufc-detailed-calendar
 DTSTAMP:20260930T124052Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:3
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:4
 DTSTART:20261121T154500Z
 DTEND:20261121T161500Z
 SUMMARY:🥊 2. Amir Albazi vs. Alessandro Costa (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 125lbs/57kg Flyweight\n• Albazi: 17-3
- -0 | 33yo | Jiu-Jitsu | +163 (2.63)\n• Costa: 17-5-0 | 30yo | Jiu-Jitsu 
- | -170 (1.59)\n• Odds history:\n  ◦ 13 Nov: Albazi 🔴 +163 (2.63) | 
- Costa 🟢 -170 (1.59)\nEvent: UFC Fight Night: Prochazka vs Stirling\nSou
- rce: https://www.ufc.com/event/ufc-fight-night-november-21-2026\nMain cale
- ndar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Re
- scheduled\; previously 21 Nov 2026
+ -0 | 33yo | Jiu-Jitsu | +102 (2.02)\n• Costa: 17-5-0 | 30yo | Jiu-Jitsu 
+ | -104 (1.96)\n• Odds history:\n  ◦ 13 Nov: Albazi 🔴 +163 (2.63) | 
+ Costa 🟢 -170 (1.59)\n  ◦ 16 Nov: Albazi 🔴 +102 (2.02) | Costa 🟢
+  -104 (1.96)\nEvent: UFC Fight Night: Prochazka vs Stirling\nSource: https
+ ://www.ufc.com/event/ufc-fight-night-november-21-2026\nMain calendar: http
+ s://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Rescheduled\
+ ; previously 21 Nov 2026
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -380,19 +82,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-november-21-2026-fight-13193@ufc-detailed-calendar
 DTSTAMP:20260930T124052Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:3
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:4
 DTSTART:20261121T150000Z
 DTEND:20261121T153000Z
 SUMMARY:🥊 1. Jake Matthews vs. Tahir Abdullayev (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Matthews:
-  23-8-0 | 32yo | Freestyle | -144 (1.69)\n• Abdullayev: 20-3-0 | 29yo | 
- +138 (2.38)\n• Odds history:\n  ◦ 13 Nov: Matthews 🟢 -144 (1.69) | 
- Abdullayev 🔴 +138 (2.38)\nEvent: UFC Fight Night: Prochazka vs Stirling
- \nSource: https://www.ufc.com/event/ufc-fight-night-november-21-2026\nMain
-  calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent statu
- s: Rescheduled\; previously 21 Nov 2026
+  23-8-0 | 32yo | Freestyle | -230 (1.43)\n• Abdullayev: 20-3-0 | 29yo | 
+ +223 (3.23)\n• Odds history:\n  ◦ 13 Nov: Matthews 🟢 -144 (1.69) | 
+ Abdullayev 🔴 +138 (2.38)\n  ◦ 16 Nov: Matthews 🟢 -230 (1.43) | Abd
+ ullayev 🔴 +223 (3.23)\nEvent: UFC Fight Night: Prochazka vs Stirling\nS
+ ource: https://www.ufc.com/event/ufc-fight-night-november-21-2026\nMain ca
+ lendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: 
+ Rescheduled\; previously 21 Nov 2026
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -402,21 +105,22 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-november-21-2026-fight-13197@ufc-detailed-calendar
 DTSTAMP:20261005T144716Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:3
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:4
 DTSTART:20261121T202500Z
 DTEND:20261121T205500Z
 SUMMARY:🥊 5. Jiří Procházka vs. Navajo Stirling (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• Pr
- ochazka: 32-6-1 | 34yo | Karate | +133 (2.33)\n• Stirling: 11-0-0 | 29yo
-  | Kickboxer | -138 (1.72)\n• Odds history:\n  ◦ 6 Nov: Prochazka 🔴
-  +110 (2.10) | Stirling 🟢 -138 (1.72)\n  ◦ 9 Nov: Prochazka 🔴 +122
-  (2.22) | Stirling 🟢 -127 (1.79)\n  ◦ 13 Nov: Prochazka 🔴 +133 (2.
- 33) | Stirling 🟢 -138 (1.72)\nEvent: UFC Fight Night: Prochazka vs Stir
- ling\nSource: https://www.ufc.com/event/ufc-fight-night-november-21-2026\n
- Main calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent s
- tatus: Rescheduled\; previously 21 Nov 2026
+ ochazka: 32-6-1 | 34yo | Karate | +144 (2.44)\n• Stirling: 11-0-0 | 29yo
+  | Kickboxer | -150 (1.67)\n• Odds history:\n  ◦ 9 Nov: Prochazka 🔴
+  +122 (2.22) | Stirling 🟢 -127 (1.79)\n  ◦ 13 Nov: Prochazka 🔴 +13
+ 3 (2.33) | Stirling 🟢 -138 (1.72)\n  ◦ 16 Nov: Prochazka 🔴 +144 (2
+ .44) | Stirling 🟢 -150 (1.67)\n  ◦ Earlier changes: see full odds log
+ \nEvent: UFC Fight Night: Prochazka vs Stirling\nSource: https://www.ufc.c
+ om/event/ufc-fight-night-november-21-2026\nMain calendar: https://staircas
+ ewit.github.io/mmacalendar/ufc.ics\nEvent status: Rescheduled\; previously
+  21 Nov 2026
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -426,19 +130,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-november-21-2026-fight-13198@ufc-detailed-calendar
 DTSTAMP:20261005T144716Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:2
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:3
 DTSTART:20261121T195000Z
 DTEND:20261121T202000Z
 SUMMARY:🥊 4. Aljamain Sterling vs. Kevin Vallejos (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 145lbs/66kg Featherweight\n• Sterli
- ng: 26-5-0 | 37yo | Kickboxer | +113 (2.13)\n• Vallejos: 17-1-0 | 24yo |
-  Striker | -117 (1.85)\n• Odds history:\n  ◦ 9 Nov: Sterling 🔴 +113
-  (2.13) | Vallejos 🟢 -117 (1.85)\nEvent: UFC Fight Night: Prochazka vs 
- Stirling\nSource: https://www.ufc.com/event/ufc-fight-night-november-21-20
- 26\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEve
- nt status: Rescheduled\; previously 21 Nov 2026
+ ng: 26-5-0 | 37yo | Kickboxer | +125 (2.25)\n• Vallejos: 17-1-0 | 24yo |
+  Striker | -127 (1.79)\n• Odds history:\n  ◦ 9 Nov: Sterling 🔴 +113
+  (2.13) | Vallejos 🟢 -117 (1.85)\n  ◦ 16 Nov: Sterling 🔴 +125 (2.2
+ 5) | Vallejos 🟢 -127 (1.79)\nEvent: UFC Fight Night: Prochazka vs Stirl
+ ing\nSource: https://www.ufc.com/event/ufc-fight-night-november-21-2026\nM
+ ain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent st
+ atus: Rescheduled\; previously 21 Nov 2026
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -448,19 +153,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-november-21-2026-fight-13199@ufc-detailed-calendar
 DTSTAMP:20261005T144716Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:2
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:3
 DTSTART:20261121T191000Z
 DTEND:20261121T194000Z
 SUMMARY:🥊 3. Dan Hooker vs. Brian Ortega (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Hooker: 
- 24-15-0 | 36yo | MMA | -133 (1.75)\n• Ortega: 16-5-0 | 35yo | Jiu-Jitsu 
- | +127 (2.27)\n• Odds history:\n  ◦ 13 Nov: Hooker 🟢 -133 (1.75) | 
- Ortega 🔴 +127 (2.27)\nEvent: UFC Fight Night: Prochazka vs Stirling\nSo
- urce: https://www.ufc.com/event/ufc-fight-night-november-21-2026\nMain cal
- endar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: R
- escheduled\; previously 21 Nov 2026
+ 24-15-0 | 36yo | MMA | -156 (1.64)\n• Ortega: 16-5-0 | 35yo | Jiu-Jitsu 
+ | +160 (2.60)\n• Odds history:\n  ◦ 13 Nov: Hooker 🟢 -133 (1.75) | 
+ Ortega 🔴 +127 (2.27)\n  ◦ 16 Nov: Hooker 🟢 -156 (1.64) | Ortega 
+ 🔴 +160 (2.60)\nEvent: UFC Fight Night: Prochazka vs Stirling\nSource: h
+ ttps://www.ufc.com/event/ufc-fight-night-november-21-2026\nMain calendar: 
+ https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Reschedu
+ led\; previously 21 Nov 2026
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -470,19 +176,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-november-21-2026-fight-13195@ufc-detailed-calendar
 DTSTAMP:20260930T124052Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:3
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:4
 DTSTART:20261121T183500Z
 DTEND:20261121T190500Z
 SUMMARY:🥊 2. Kyoji Horiguchi vs. Asu Almabayev (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 125lbs/57kg Flyweight\n• Horiguchi:
-  36-6-0 | 36yo | MMA | -170 (1.59)\n• Almabayev: 24-3-0 | 32yo | Jiu-Jit
- su | +163 (2.63)\n• Odds history:\n  ◦ 13 Nov: Horiguchi 🟢 -170 (1.
- 59) | Almabayev 🔴 +163 (2.63)\nEvent: UFC Fight Night: Prochazka vs Sti
- rling\nSource: https://www.ufc.com/event/ufc-fight-night-november-21-2026\
- nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent 
- status: Rescheduled\; previously 21 Nov 2026
+  36-6-0 | 36yo | MMA | -186 (1.54)\n• Almabayev: 24-3-0 | 32yo | Jiu-Jit
+ su | +178 (2.78)\n• Odds history:\n  ◦ 13 Nov: Horiguchi 🟢 -170 (1.
+ 59) | Almabayev 🔴 +163 (2.63)\n  ◦ 16 Nov: Horiguchi 🟢 -186 (1.54)
+  | Almabayev 🔴 +178 (2.78)\nEvent: UFC Fight Night: Prochazka vs Stirli
+ ng\nSource: https://www.ufc.com/event/ufc-fight-night-november-21-2026\nMa
+ in calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent sta
+ tus: Rescheduled\; previously 21 Nov 2026
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -492,19 +199,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-november-21-2026-fight-13192@ufc-detailed-calendar
 DTSTAMP:20260930T124052Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:3
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:4
 DTSTART:20261121T180000Z
 DTEND:20261121T183000Z
 SUMMARY:🥊 1. Jared Cannonier vs. Ikram Aliskerov (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Cannoni
- er: 18-10-0 | 42yo | Striker | +285 (3.85)\n• Aliskerov: 18-2-0 | 33yo |
-  Sambo | -300 (1.33)\n• Odds history:\n  ◦ 13 Nov: Cannonier 🔴 +285
-  (3.85) | Aliskerov 🟢 -300 (1.33)\nEvent: UFC Fight Night: Prochazka vs
-  Stirling\nSource: https://www.ufc.com/event/ufc-fight-night-november-21-2
- 026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEv
- ent status: Rescheduled\; previously 21 Nov 2026
+ er: 18-10-0 | 42yo | Striker | +270 (3.70)\n• Aliskerov: 18-2-0 | 33yo |
+  Sambo | -285 (1.35)\n• Odds history:\n  ◦ 13 Nov: Cannonier 🔴 +285
+  (3.85) | Aliskerov 🟢 -300 (1.33)\n  ◦ 16 Nov: Cannonier 🔴 +270 (3
+ .70) | Aliskerov 🟢 -285 (1.35)\nEvent: UFC Fight Night: Prochazka vs St
+ irling\nSource: https://www.ufc.com/event/ufc-fight-night-november-21-2026
+ \nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent
+  status: Rescheduled\; previously 21 Nov 2026
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -514,19 +222,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-december-05-2026-fight-13245@ufc-detailed-calendar
 DTSTAMP:20261111T142813Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:1
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:2
 DTSTART:20261205T203000Z
 DTEND:20261205T210000Z
 SUMMARY:🥊 12. Israel Adesanya vs. Shara Magomedov (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
- • Adesanya: 24-6-0 | 37yo | Freestyle | -157 (1.64)\n• Magomedov: 17-1
+ • Adesanya: 24-6-0 | 37yo | Freestyle | -150 (1.67)\n• Magomedov: 17-1
  -0 | 32yo | +130 (2.30)\n• Odds history:\n  ◦ 13 Nov: Adesanya 🟢 -1
- 57 (1.64) | Magomedov 🔴 +130 (2.30)\nEvent: UFC Fight Night: Adesanya v
- s Magomedov\nSource: https://www.ufc.com/event/ufc-fight-night-december-05
- -2026\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\n
- Event status: Scheduled
+ 57 (1.64) | Magomedov 🔴 +130 (2.30)\n  ◦ 16 Nov: Adesanya 🟢 -150 (
+ 1.67) | Magomedov 🔴 +130 (2.30)\nEvent: UFC Fight Night: Adesanya vs Ma
+ gomedov\nSource: https://www.ufc.com/event/ufc-fight-night-december-05-202
+ 6\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEven
+ t status: Scheduled
 LOCATION:The Venue\, Riyadh\, Saudi Arabia
 URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -536,19 +245,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-december-05-2026-fight-13246@ufc-detailed-calendar
 DTSTAMP:20261111T142813Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:1
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:2
 DTSTART:20261205T200000Z
 DTEND:20261205T203000Z
 SUMMARY:🥊 11. Ian Machado Garry vs. Yaroslav Amosov (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
  • Machado Garry: 17-2-0 | 29yo | -175 (1.57)\n• Amosov: 29-1-0 | 33yo 
- | +140 (2.40)\n• Odds history:\n  ◦ 13 Nov: Machado Garry 🟢 -175 (1
- .57) | Amosov 🔴 +140 (2.40)\nEvent: UFC Fight Night: Adesanya vs Magome
- dov\nSource: https://www.ufc.com/event/ufc-fight-night-december-05-2026\nM
- ain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent st
- atus: Scheduled
+ | +148 (2.48)\n• Odds history:\n  ◦ 13 Nov: Machado Garry 🟢 -175 (1
+ .57) | Amosov 🔴 +140 (2.40)\n  ◦ 16 Nov: Machado Garry 🟢 -175 (1.5
+ 7) | Amosov 🔴 +148 (2.48)\nEvent: UFC Fight Night: Adesanya vs Magomedo
+ v\nSource: https://www.ufc.com/event/ufc-fight-night-december-05-2026\nMai
+ n calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent stat
+ us: Scheduled
 LOCATION:The Venue\, Riyadh\, Saudi Arabia
 URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -876,6 +586,90 @@ RELATED-TO:ufc-335-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:ufc-fight-night-january-16-2027-fight-13266@ufc-detailed-calendar
+DTSTAMP:20261116T155309Z
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:0
+DTSTART:20270117T020000Z
+DTEND:20270117T023000Z
+SUMMARY:🥊 3. Yair Rodriguez vs. Steve Garcia (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n
+ • Rodriguez: 21-5-0 | 34yo | Freestyle\n• Garcia: 19-6-0 | 34yo | Free
+ style\n• Odds history: not checked yet\nEvent: UFC Fight Night: Rodrigue
+ z vs Garcia\nSource: https://www.ufc.com/event/ufc-fight-night-january-16-
+ 2027\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nE
+ vent status: Scheduled
+LOCATION:American Airlines Center\, Dallas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-january-16-2027
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-january-16-2027-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-january-16-2027-fight-13267@ufc-detailed-calendar
+DTSTAMP:20261116T155309Z
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:0
+DTSTART:20270117T000000Z
+DTEND:20270117T003000Z
+SUMMARY:🥊 2. Daniel Rodriguez vs. Roberto Soldić (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Rodriguez: 20-6-0 | 40yo | Freestyle\n• Soldic: 22-4-0 | 31yo | MMA\
+ n• Odds history: not checked yet\nEvent: UFC Fight Night: Rodriguez vs G
+ arcia\nSource: https://www.ufc.com/event/ufc-fight-night-january-16-2027\n
+ Main calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent s
+ tatus: Scheduled
+LOCATION:American Airlines Center\, Dallas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-january-16-2027
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-january-16-2027-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-january-16-2027-fight-13268@ufc-detailed-calendar
+DTSTAMP:20261116T155309Z
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:0
+DTSTART:20270116T220000Z
+DTEND:20270116T223000Z
+SUMMARY:🥊 1. Chidi Njokuani vs. Ignacio Bahamondes (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Njokuani: 26-12-0 | 38yo | MMA\n• Bahamondes: 18-7-0 | 29yo | Freest
+ yle\n• Odds history: not checked yet\nEvent: UFC Fight Night: Rodriguez 
+ vs Garcia\nSource: https://www.ufc.com/event/ufc-fight-night-january-16-20
+ 27\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEve
+ nt status: Scheduled
+LOCATION:American Airlines Center\, Dallas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-january-16-2027
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-january-16-2027-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-january-23-2027-fight-13265@ufc-detailed-calendar
+DTSTAMP:20261116T155309Z
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:0
+DTSTART:20270123T220000Z
+DTEND:20270123T223000Z
+SUMMARY:🥊 1. Gabriel Bonfim vs. Sean Brady (estimated)
+DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
+  move as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Bonfim:
+  20-1-0 | 29yo | Striker\n• Brady: 19-2-0 | 34yo | Jiu-Jitsu\n• Odds h
+ istory: not checked yet\nEvent: UFC Fight Night: Bonfim vs Brady\nSource: 
+ https://www.ufc.com/event/ufc-fight-night-january-23-2027\nMain calendar: 
+ https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedule
+ d
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-january-23-2027
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-january-23-2027-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-336-fight-13231@ufc-detailed-calendar
 DTSTAMP:20261028T130115Z
 LAST-MODIFIED:20261109T162805Z
@@ -925,19 +719,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-february-06-2027-fight-13240@ufc-detailed-calendar
 DTSTAMP:20261104T143757Z
-LAST-MODIFIED:20261106T142126Z
-SEQUENCE:1
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:2
 DTSTART:20270206T234500Z
 DTEND:20270207T001500Z
 SUMMARY:🥊 4. Quillan Salkilld vs. Benoît Saint Denis (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n•
   Salkilld: 13-1-0 | 27yo | MMA | -275 (1.36)\n• Saint Denis: 17-4-0 | 31
- yo | MMA | +200 (3.00)\n• Odds history:\n  ◦ 6 Nov: Salkilld 🟢 -275
-  (1.36) | Saint Denis 🔴 +200 (3.00)\nEvent: UFC Fight Night: Salkilld v
- s Saint Denis\nSource: https://www.ufc.com/event/ufc-fight-night-february-
- 06-2027\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics
- \nEvent status: Scheduled
+ yo | MMA | +210 (3.10)\n• Odds history:\n  ◦ 6 Nov: Salkilld 🟢 -275
+  (1.36) | Saint Denis 🔴 +200 (3.00)\n  ◦ 16 Nov: Salkilld 🟢 -275 (
+ 1.36) | Saint Denis 🔴 +210 (3.10)\nEvent: UFC Fight Night: Salkilld vs 
+ Saint Denis\nSource: https://www.ufc.com/event/ufc-fight-night-february-06
+ -2027\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\n
+ Event status: Scheduled
 LOCATION:Afterpay Arena\, Sydney Olympic Park\, Australia
 URL:https://www.ufc.com/event/ufc-fight-night-february-06-2027
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -947,19 +742,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-february-06-2027-fight-13241@ufc-detailed-calendar
 DTSTAMP:20261104T143757Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:2
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:3
 DTSTART:20270206T223000Z
 DTEND:20270206T230000Z
 SUMMARY:🥊 3. Bogdan Guskov vs. Robert Whittaker (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 205lbs/93kg Light Heavyweigh
- t\n• Guskov: 18-3-0 | 34yo | MMA | +110 (2.10)\n• Whittaker: 28-9-0 | 
+ t\n• Guskov: 18-3-0 | 34yo | MMA | +118 (2.18)\n• Whittaker: 28-9-0 | 
  36yo | Brazilian Jiu-Jitsu | -138 (1.72)\n• Odds history:\n  ◦ 13 Nov:
-  Guskov 🔴 +110 (2.10) | Whittaker 🟢 -138 (1.72)\nEvent: UFC Fight Ni
- ght: Salkilld vs Saint Denis\nSource: https://www.ufc.com/event/ufc-fight-
- night-february-06-2027\nMain calendar: https://staircasewit.github.io/mmac
- alendar/ufc.ics\nEvent status: Scheduled
+  Guskov 🔴 +110 (2.10) | Whittaker 🟢 -138 (1.72)\n  ◦ 16 Nov: Gusko
+ v 🔴 +118 (2.18) | Whittaker 🟢 -138 (1.72)\nEvent: UFC Fight Night: S
+ alkilld vs Saint Denis\nSource: https://www.ufc.com/event/ufc-fight-night-
+ february-06-2027\nMain calendar: https://staircasewit.github.io/mmacalenda
+ r/ufc.ics\nEvent status: Scheduled
 LOCATION:Afterpay Arena\, Sydney Olympic Park\, Australia
 URL:https://www.ufc.com/event/ufc-fight-night-february-06-2027
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -1006,6 +802,27 @@ LOCATION:Afterpay Arena\, Sydney Olympic Park\, Australia
 URL:https://www.ufc.com/event/ufc-fight-night-february-06-2027
 CATEGORIES:UFC,Estimated Fight,Main Card
 RELATED-TO:ufc-fight-night-february-06-2027-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-february-13-2027-fight-13264@ufc-detailed-calendar
+DTSTAMP:20261116T155309Z
+LAST-MODIFIED:20261116T155309Z
+SEQUENCE:0
+DTSTART:20270213T200000Z
+DTEND:20270213T203000Z
+SUMMARY:🥊 1. Joe Pyfer vs. Bo Nickal (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
+ • Pyfer: 16-3-0 | 30yo | Boxing\n• Nickal: 9-1-0 | 31yo | Wrestler\n
+ • Odds history: not checked yet\nEvent: UFC Fight Night: Pyfer vs Nickal
+ \nSource: https://www.ufc.com/event/ufc-fight-night-february-13-2027\nMain
+  calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent statu
+ s: Scheduled
+LOCATION:Rocket Arena\, Cleveland\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-february-13-2027
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-february-13-2027-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
