@@ -3684,77 +3684,91 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-november-21-2026-prelims@ufc-detailed-calendar
 DTSTAMP:20261002T124153Z
-LAST-MODIFIED:20261116T155309Z
-SEQUENCE:3
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:4
 DTSTART:20261121T150000Z
 DTEND:20261121T180000Z
 SUMMARY:Prelims – UFC Fight Night: Prochazka vs Stirling
-DESCRIPTION:UFC · Prelims · 4 bouts\n📍 ABHA Arena\, Doha\, Qatar\n🕒
+DESCRIPTION:UFC · Prelims · 6 bouts\n📍 ABHA Arena\, Doha\, Qatar\n🕒
   15:00–18:00 Ireland\n\n--------------------------------\n𝗕𝗢𝗨
- 𝗧𝗦\n--------------------------------\n\n🥊 4. 𝗔𝗹𝗲𝗸𝘀
+ 𝗧𝗦\n--------------------------------\n\n🥊 6. 𝗔𝗹𝗲𝗸𝘀
  𝗮𝗻𝗱𝗿𝗲 𝗧𝗼𝗽𝘂𝗿𝗶𝗮 🇬🇪 vs. 𝗦𝗮
  𝗻𝘁𝗶𝗮𝗴𝗼 𝗟𝘂𝗻𝗮 🇲🇽\n• 135lbs/61kg Bantam
  weight\n• Topuria: 7-1-0 | 30yo | Boxing | -240 (1.42)\n• Luna: 8-1-0 
  | 22yo | MMA | +233 (3.33)\n• Odds history:\n  ◦ 13 Nov: Topuria 🟢 
  -213 (1.47) | Luna 🔴 +203 (3.03)\n  ◦ 16 Nov: Topuria 🟢 -240 (1.42
- ) | Luna 🔴 +233 (3.33)\n\n🥊 3. 𝗦𝗵𝗮𝗺𝗶𝗹 𝗚𝗮𝘇
+ ) | Luna 🔴 +233 (3.33)\n\n🥊 5. 𝗦𝗵𝗮𝗺𝗶𝗹 𝗚𝗮𝘇
  𝗶𝗲𝘃 🇧🇭 vs. 𝗧𝗮𝗹𝗹𝗶𝘀𝗼𝗻 𝗧𝗲𝗶
  𝘅𝗲𝗶𝗿𝗮 🇧🇷\n• 265lbs/120kg Heavyweight\n• Gaziev: 1
  5-3-0 | 36yo | MMA | -178 (1.56)\n• Teixeira: 9-2-0 | 26yo | Striker | +
  170 (2.70)\n• Odds history:\n  ◦ 13 Nov: Gaziev 🟢 -194 (1.52) | Tei
  xeira 🔴 +186 (2.86)\n  ◦ 16 Nov: Gaziev 🟢 -178 (1.56) | Teixeira 
- 🔴 +170 (2.70)\n\n🥊 2. 𝗔𝗺𝗶𝗿 𝗔𝗹𝗯𝗮𝘇𝗶 (#9)
+ 🔴 +170 (2.70)\n\n🥊 4. 𝗔𝗺𝗶𝗿 𝗔𝗹𝗯𝗮𝘇𝗶 (#9)
   🇮🇶 vs. 𝗔𝗹𝗲𝘀𝘀𝗮𝗻𝗱𝗿𝗼 𝗖𝗼𝘀𝘁
  𝗮 🇧🇷\n• 125lbs/57kg Flyweight\n• Albazi: 17-3-0 | 33yo | Jiu-
  Jitsu | +102 (2.02)\n• Costa: 17-5-0 | 30yo | Jiu-Jitsu | -104 (1.96)\n
  • Odds history:\n  ◦ 13 Nov: Albazi 🔴 +163 (2.63) | Costa 🟢 -170
   (1.59)\n  ◦ 16 Nov: Albazi 🔴 +102 (2.02) | Costa 🟢 -104 (1.96)\n\
- n🥊 1. 𝗝𝗮𝗸𝗲 𝗠𝗮𝘁𝘁𝗵𝗲𝘄𝘀 🇦🇺 vs. 
+ n🥊 3. 𝗝𝗮𝗸𝗲 𝗠𝗮𝘁𝘁𝗵𝗲𝘄𝘀 🇦🇺 vs. 
  𝗧𝗮𝗵𝗶𝗿 𝗔𝗯𝗱𝘂𝗹𝗹𝗮𝘆𝗲𝘃 🇦🇿\n
  • 170lbs/77kg Welterweight\n• Matthews: 23-8-0 | 32yo | Freestyle | -2
  30 (1.43)\n• Abdullayev: 20-3-0 | 29yo | +223 (3.23)\n• Odds history:\
  n  ◦ 13 Nov: Matthews 🟢 -144 (1.69) | Abdullayev 🔴 +138 (2.38)\n  
- ◦ 16 Nov: Matthews 🟢 -230 (1.43) | Abdullayev 🔴 +223 (3.23)\n\n---
- -----------------------------\nSource: https://www.ufc.com/event/ufc-fight
- -night-november-21-2026\nOdds source: https://www.bestfightodds.com/ · be
- st available line · checked Monday and Friday\nFull odds log: https://sta
- ircasewit.github.io/mmacalendar/odds-history.html\nEvent status: Reschedul
- ed\; previously 21 Nov 2026
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 4 bouts<br>
+ ◦ 16 Nov: Matthews 🟢 -230 (1.43) | Abdullayev 🔴 +223 (3.23)\n\n
+ 🥊 2. 𝗡𝗶𝗸𝗼𝗹𝗮𝘀 𝗠𝗼𝘁𝘁𝗮 🇺🇸 vs. 
+ 𝗗𝗼𝗺 𝗠𝗮𝗿 𝗙𝗮𝗻 🇦🇺\n• 155lbs/70kg Lightweig
+ ht\n• Motta: 15-6-0 | 33yo | Kickboxer\n• Mar Fan: 9-3-0 | 26yo | MMA\
+ n• Odds history: not checked yet\n\n🥊 1. 𝗗𝗶𝘆𝗮𝗿 𝗡
+ 𝘂𝗿𝗴𝗼𝘇𝗵𝗮𝘆 🇰🇿 vs. 𝗔𝗹𝗶𝗸 𝗟𝗼
+ 𝗿𝗲𝗻𝘇 🇺🇸\n• 205lbs/93kg Light Heavyweight\n• Nurgozha
+ y: 12-2-0 | 29yo\n• Lorenz: 1-1-0 | 29yo\n• Odds history: not checked 
+ yet\n\n--------------------------------\nSource: https://www.ufc.com/event
+ /ufc-fight-night-november-21-2026\nOdds source: https://www.bestfightodds.
+ com/ · best available line · checked Monday and Friday\nFull odds log: h
+ ttps://staircasewit.github.io/mmacalendar/odds-history.html\nEvent status:
+  Rescheduled\; previously 21 Nov 2026
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 6 bouts<br>
  📍 ABHA Arena\, Doha\, Qatar<br>🕒 15:00–18:00 Ireland</p><p>-------
  -------------------------<br><strong>𝗕𝗢𝗨𝗧𝗦</strong><br>----
- ----------------------------</p><p><strong>🥊 4. 𝗔𝗹𝗲𝗸𝘀
+ ----------------------------</p><p><strong>🥊 6. 𝗔𝗹𝗲𝗸𝘀
  𝗮𝗻𝗱𝗿𝗲 𝗧𝗼𝗽𝘂𝗿𝗶𝗮 🇬🇪 vs. 𝗦𝗮
  𝗻𝘁𝗶𝗮𝗴𝗼 𝗟𝘂𝗻𝗮 🇲🇽</strong><br>• 135lbs/
  61kg Bantamweight<br>• Topuria: 7-1-0 | 30yo | Boxing | -240 (1.42)<br>
  • Luna: 8-1-0 | 22yo | MMA | +233 (3.33)<br>• Odds history:<br>◦ 13 
  Nov: Topuria 🟢 -213 (1.47) | Luna 🔴 +203 (3.03)<br>◦ 16 Nov: Topur
- ia 🟢 -240 (1.42) | Luna 🔴 +233 (3.33)</p><p><strong>🥊 3. 𝗦𝗵
+ ia 🟢 -240 (1.42) | Luna 🔴 +233 (3.33)</p><p><strong>🥊 5. 𝗦𝗵
  𝗮𝗺𝗶𝗹 𝗚𝗮𝘇𝗶𝗲𝘃 🇧🇭 vs. 𝗧𝗮𝗹𝗹
  𝗶𝘀𝗼𝗻 𝗧𝗲𝗶𝘅𝗲𝗶𝗿𝗮 🇧🇷</strong><br>•
   265lbs/120kg Heavyweight<br>• Gaziev: 15-3-0 | 36yo | MMA | -178 (1.56)
  <br>• Teixeira: 9-2-0 | 26yo | Striker | +170 (2.70)<br>• Odds history
  :<br>◦ 13 Nov: Gaziev 🟢 -194 (1.52) | Teixeira 🔴 +186 (2.86)<br>
  ◦ 16 Nov: Gaziev 🟢 -178 (1.56) | Teixeira 🔴 +170 (2.70)</p><p><str
- ong>🥊 2. 𝗔𝗺𝗶𝗿 𝗔𝗹𝗯𝗮𝘇𝗶 (#9) 🇮🇶 vs. 
+ ong>🥊 4. 𝗔𝗺𝗶𝗿 𝗔𝗹𝗯𝗮𝘇𝗶 (#9) 🇮🇶 vs. 
  𝗔𝗹𝗲𝘀𝘀𝗮𝗻𝗱𝗿𝗼 𝗖𝗼𝘀𝘁𝗮 🇧🇷</st
  rong><br>• 125lbs/57kg Flyweight<br>• Albazi: 17-3-0 | 33yo | Jiu-Jits
  u | +102 (2.02)<br>• Costa: 17-5-0 | 30yo | Jiu-Jitsu | -104 (1.96)<br>
  • Odds history:<br>◦ 13 Nov: Albazi 🔴 +163 (2.63) | Costa 🟢 -170
   (1.59)<br>◦ 16 Nov: Albazi 🔴 +102 (2.02) | Costa 🟢 -104 (1.96)</p
- ><p><strong>🥊 1. 𝗝𝗮𝗸𝗲 𝗠𝗮𝘁𝘁𝗵𝗲𝘄𝘀 🇦
+ ><p><strong>🥊 3. 𝗝𝗮𝗸𝗲 𝗠𝗮𝘁𝘁𝗵𝗲𝘄𝘀 🇦
  🇺 vs. 𝗧𝗮𝗵𝗶𝗿 𝗔𝗯𝗱𝘂𝗹𝗹𝗮𝘆𝗲𝘃 
  🇦🇿</strong><br>• 170lbs/77kg Welterweight<br>• Matthews: 23-8-0 
  | 32yo | Freestyle | -230 (1.43)<br>• Abdullayev: 20-3-0 | 29yo | +223 (
  3.23)<br>• Odds history:<br>◦ 13 Nov: Matthews 🟢 -144 (1.69) | Abdu
  llayev 🔴 +138 (2.38)<br>◦ 16 Nov: Matthews 🟢 -230 (1.43) | Abdulla
- yev 🔴 +223 (3.23)</p><p>--------------------------------<br>Source: <a 
- href="https://www.ufc.com/event/ufc-fight-night-november-21-2026">UFC.com<
- /a><br>Odds source: <a href="https://www.bestfightodds.com/">BestFightOdds
- </a> · best available line · checked Monday and Friday<br>Full odds log:
-  <a href="https://staircasewit.github.io/mmacalendar/odds-history.html">vi
- ew history</a><br>Event status: Rescheduled\; previously 21 Nov 2026</p></
- body></html>
+ yev 🔴 +223 (3.23)</p><p><strong>🥊 2. 𝗡𝗶𝗸𝗼𝗹𝗮𝘀 
+ 𝗠𝗼𝘁𝘁𝗮 🇺🇸 vs. 𝗗𝗼𝗺 𝗠𝗮𝗿 𝗙𝗮𝗻 
+ 🇦🇺</strong><br>• 155lbs/70kg Lightweight<br>• Motta: 15-6-0 | 33
+ yo | Kickboxer<br>• Mar Fan: 9-3-0 | 26yo | MMA<br>• Odds history: not
+  checked yet</p><p><strong>🥊 1. 𝗗𝗶𝘆𝗮𝗿 𝗡𝘂𝗿𝗴
+ 𝗼𝘇𝗵𝗮𝘆 🇰🇿 vs. 𝗔𝗹𝗶𝗸 𝗟𝗼𝗿𝗲𝗻
+ 𝘇 🇺🇸</strong><br>• 205lbs/93kg Light Heavyweight<br>• Nurgozh
+ ay: 12-2-0 | 29yo<br>• Lorenz: 1-1-0 | 29yo<br>• Odds history: not che
+ cked yet</p><p>--------------------------------<br>Source: <a href="https:
+ //www.ufc.com/event/ufc-fight-night-november-21-2026">UFC.com</a><br>Odds 
+ source: <a href="https://www.bestfightodds.com/">BestFightOdds</a> · best
+  available line · checked Monday and Friday<br>Full odds log: <a href="ht
+ tps://staircasewit.github.io/mmacalendar/odds-history.html">view history</
+ a><br>Event status: Rescheduled\; previously 21 Nov 2026</p></body></html>
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
 CATEGORIES:UFC,Prelims
@@ -3887,8 +3901,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
 DTSTAMP:20261111T142813Z
-LAST-MODIFIED:20261116T155309Z
-SEQUENCE:2
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:3
 DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:Main Card – UFC Fight Night: Adesanya vs Magomedov
@@ -3909,7 +3923,7 @@ DESCRIPTION:UFC · Main Card · 12 bouts announced · placement TBD\n📍 T
  (2.48)\n• Odds history:\n  ◦ 13 Nov: Machado Garry 🟢 -175 (1.57) | 
  Amosov 🔴 +140 (2.40)\n  ◦ 16 Nov: Machado Garry 🟢 -175 (1.57) | Am
  osov 🔴 +148 (2.48)\n\n🥊 10. 𝗦𝗲𝗿𝗴𝗵𝗲𝗶 𝗦𝗽
- 𝗶𝘃𝗮𝗰 (#9) 🇲🇩 vs. 𝗠𝗮𝗿𝗶𝗼 𝗣𝗶𝗻𝘁
+ 𝗶𝘃𝗮𝗰 (#10) 🇲🇩 vs. 𝗠𝗮𝗿𝗶𝗼 𝗣𝗶𝗻𝘁
  𝗼 (#15) 🇵🇹\n• 265lbs/120kg Heavyweight\n• Spivac: 18-7-0 | 31
  yo | Sambo\n• Pinto: 13-0-0 | 28yo | MMA\n• Odds history: not checked 
  yet\n\n🥊 9. 𝗟𝗲𝘃𝗮𝗻 𝗖𝗵𝗼𝗸𝗵𝗲𝗹𝗶 🇬
@@ -3968,7 +3982,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 12 bouts an
  br>• Amosov: 29-1-0 | 33yo | +148 (2.48)<br>• Odds history:<br>◦ 13 
  Nov: Machado Garry 🟢 -175 (1.57) | Amosov 🔴 +140 (2.40)<br>◦ 16 No
  v: Machado Garry 🟢 -175 (1.57) | Amosov 🔴 +148 (2.48)</p><p><strong>
- 🥊 10. 𝗦𝗲𝗿𝗴𝗵𝗲𝗶 𝗦𝗽𝗶𝘃𝗮𝗰 (#9) 🇲
+ 🥊 10. 𝗦𝗲𝗿𝗴𝗵𝗲𝗶 𝗦𝗽𝗶𝘃𝗮𝗰 (#10) 🇲
  🇩 vs. 𝗠𝗮𝗿𝗶𝗼 𝗣𝗶𝗻𝘁𝗼 (#15) 🇵🇹</strong>
  <br>• 265lbs/120kg Heavyweight<br>• Spivac: 18-7-0 | 31yo | Sambo<br>
  • Pinto: 13-0-0 | 28yo | MMA<br>• Odds history: not checked yet</p><p>
@@ -4023,8 +4037,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-335-early-prelims@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261007T133000Z
-SEQUENCE:3
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:4
 DTSTART:20261212T220000Z
 DTEND:20261213T000000Z
 SUMMARY:Early Prelims – UFC 335: Oliveira vs Lopes
@@ -4032,18 +4046,26 @@ DESCRIPTION:UFC · Early Prelims · fight card TBD\n📍 T-Mobile Arena\, L
  as Vegas\, United States\n🕒 22:00–Sun 00:00 Ireland\nThis provisional
   entry updates automatically as UFC finalises the card.\n\n---------------
  -----------------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\
- n\nNo bouts announced yet.\n\n--------------------------------\nSource: ht
- tps://www.ufc.com/event/ufc-335\nFull odds log: https://staircasewit.githu
- b.io/mmacalendar/odds-history.html\nEvent status: Scheduled
+ n\nNo bouts announced yet.\n\n--------------------------------\n𝗖𝗔
+ 𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡
+  𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n✕ Joe Pyfer vs.
+  Bo Nickal · 185lbs/84kg Middleweight | Removed from the UFC card\n\n----
+ ----------------------------\nSource: https://www.ufc.com/event/ufc-335\nF
+ ull odds log: https://staircasewit.github.io/mmacalendar/odds-history.html
+ \nEvent status: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Early Prelims · fight c
  ard TBD<br>📍 T-Mobile Arena\, Las Vegas\, United States<br>🕒 22:00
  –Sun 00:00 Ireland<br>This provisional entry updates automatically as UF
  C finalises the card.</p><p>--------------------------------<br><strong>
  𝗕𝗢𝗨𝗧𝗦</strong><br>--------------------------------</p><p>No
-  bouts announced yet.</p><p>--------------------------------<br>Source: <a
-  href="https://www.ufc.com/event/ufc-335">UFC.com</a><br>Full odds log: <a
-  href="https://staircasewit.github.io/mmacalendar/odds-history.html">view 
- history</a><br>Event status: Scheduled</p></body></html>
+  bouts announced yet.</p><p>--------------------------------<br><strong>
+ 𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔
+ 𝗪𝗡 𝗕𝗢𝗨𝗧𝗦</strong><br>--------------------------------
+ <br>✕ Joe Pyfer vs. Bo Nickal · 185lbs/84kg Middleweight | Removed from
+  the UFC card</p><p>--------------------------------<br>Source: <a href="h
+ ttps://www.ufc.com/event/ufc-335">UFC.com</a><br>Full odds log: <a href="h
+ ttps://staircasewit.github.io/mmacalendar/odds-history.html">view history<
+ /a><br>Event status: Scheduled</p></body></html>
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
 CATEGORIES:UFC,Early Prelims
@@ -4052,8 +4074,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-335-prelims@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261007T133000Z
-SEQUENCE:3
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:4
 DTSTART:20261213T000000Z
 DTEND:20261213T020000Z
 SUMMARY:Prelims – UFC 335: Oliveira vs Lopes
@@ -4061,18 +4083,26 @@ DESCRIPTION:UFC · Prelims · fight card TBD\n📍 T-Mobile Arena\, Las Veg
  as\, United States\n🕒 00:00–02:00 Ireland\nThis provisional entry upd
  ates automatically as UFC finalises the card.\n\n-------------------------
  -------\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\nNo bout
- s announced yet.\n\n--------------------------------\nSource: https://www.
- ufc.com/event/ufc-335\nFull odds log: https://staircasewit.github.io/mmaca
- lendar/odds-history.html\nEvent status: Scheduled
+ s announced yet.\n\n--------------------------------\n𝗖𝗔𝗡𝗖𝗘
+ 𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕𝗢
+ 𝗨𝗧𝗦\n--------------------------------\n✕ Joe Pyfer vs. Bo Nicka
+ l · 185lbs/84kg Middleweight | Removed from the UFC card\n\n-------------
+ -------------------\nSource: https://www.ufc.com/event/ufc-335\nFull odds 
+ log: https://staircasewit.github.io/mmacalendar/odds-history.html\nEvent s
+ tatus: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · fight card TB
  D<br>📍 T-Mobile Arena\, Las Vegas\, United States<br>🕒 00:00–02:00
   Ireland<br>This provisional entry updates automatically as UFC finalises 
  the card.</p><p>--------------------------------<br><strong>𝗕𝗢𝗨
  𝗧𝗦</strong><br>--------------------------------</p><p>No bouts annou
- nced yet.</p><p>--------------------------------<br>Source: <a href="https
- ://www.ufc.com/event/ufc-335">UFC.com</a><br>Full odds log: <a href="https
- ://staircasewit.github.io/mmacalendar/odds-history.html">view history</a><
- br>Event status: Scheduled</p></body></html>
+ nced yet.</p><p>--------------------------------<br><strong>𝗖𝗔𝗡
+ 𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 
+ 𝗕𝗢𝗨𝗧𝗦</strong><br>--------------------------------<br>✕ J
+ oe Pyfer vs. Bo Nickal · 185lbs/84kg Middleweight | Removed from the UFC 
+ card</p><p>--------------------------------<br>Source: <a href="https://ww
+ w.ufc.com/event/ufc-335">UFC.com</a><br>Full odds log: <a href="https://st
+ aircasewit.github.io/mmacalendar/odds-history.html">view history</a><br>Ev
+ ent status: Scheduled</p></body></html>
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
 CATEGORIES:UFC,Prelims
@@ -4081,60 +4111,65 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-335-main-card@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261111T142813Z
-SEQUENCE:10
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:11
 DTSTART:20261213T020000Z
 DTEND:20261213T050000Z
 SUMMARY:Main Card – UFC 335: Oliveira vs Lopes
-DESCRIPTION:UFC · Main Card · 5 bouts announced · placement TBD\n📍 T-
+DESCRIPTION:UFC · Main Card · 6 bouts announced · placement TBD\n📍 T-
  Mobile Arena\, Las Vegas\, United States\n🕒 02:00–05:00 Ireland\nThis
   provisional entry updates automatically as UFC finalises the card.\n\n---
  -----------------------------\n𝗕𝗢𝗨𝗧𝗦\n---------------------
- -----------\n\n🥊 5. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗢𝗹𝗶𝘃𝗲
+ -----------\n\n🥊 6. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗢𝗹𝗶𝘃𝗲
  𝗶𝗿𝗮 (#3) 🇧🇷 vs. 𝗗𝗶𝗲𝗴𝗼 𝗟𝗼𝗽𝗲𝘀 
  🇧🇷\n• 155lbs/70kg Lightweight\n• Oliveira: 37-11-0 | 37yo | Jiu-
  Jitsu | -150 (1.67)\n• Lopes: 28-8-0 | 31yo | Jiu-Jitsu | +126 (2.26)\n
  • Odds history:\n  ◦ 9 Oct: Oliveira 🟢 -155 (1.65) | Lopes 🔴 +14
  5 (2.45)\n  ◦ 16 Oct: Oliveira 🟢 -150 (1.67) | Lopes 🔴 +125 (2.25)
  \n  ◦ 23 Oct: Oliveira 🟢 -150 (1.67) | Lopes 🔴 +126 (2.26)\n\n🥊
-  4. 𝗔𝗹𝗲𝘅 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 🇧🇷 vs. 𝗦𝗲
+  5. 𝗔𝗹𝗲𝘅 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 🇧🇷 vs. 𝗦𝗲
  𝗿𝗴𝗲𝗶 𝗣𝗮𝘃𝗹𝗼𝘃𝗶𝗰𝗵 (#3) 🇷🇺\n• 2
  65lbs/120kg Heavyweight\n• Pereira: 13-4-0 | 39yo | Kickboxer | +163 (2.
  63)\n• Pavlovich: 21-3-0 | 34yo | MMA | -200 (1.50)\n• Odds history:\n
    ◦ 16 Oct: Pereira 🔴 +163 (2.63) | Pavlovich 🟢 -175 (1.57)\n  ◦
   23 Oct: Pereira 🔴 +163 (2.63) | Pavlovich 🟢 -200 (1.50)\n  ◦ 6 No
  v: Pereira 🔴 +163 (2.63) | Pavlovich 🟢 -200 (1.50)\n  ◦ Earlier ch
- anges: see full odds log\n\n🥊 3. 𝗕𝗿𝗮𝗻𝗱𝗼𝗻 𝗠𝗼
+ anges: see full odds log\n\n🥊 4. 𝗕𝗿𝗮𝗻𝗱𝗼𝗻 𝗠𝗼
  𝗿𝗲𝗻𝗼 (#8) 🇲🇽 vs. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗝𝗼
  𝗵𝗻𝘀𝗼𝗻 (#14) 🇺🇸\n• 125lbs/57kg Flyweight\n• Moreno
  : 24-10-2 | 33yo | Jiu-Jitsu\n• Johnson: 20-9-0 | 35yo\n• Odds history
- : not checked yet\n\n🥊 2. 𝗤𝘂𝗲𝗻𝘁𝗶𝗻 𝗣𝗮𝘀𝗹
- 𝗲𝘆 🇺🇸 vs. 𝗝𝘂𝗻𝗶𝗼𝗿 𝗧𝗮𝗳𝗮 🇦🇺\n
- • 205lbs/93kg Light Heavyweight\n• Pasley: 1-0-0 | 25yo\n• Tafa: 7-6
- -0 | 30yo | Kickboxer\n• Odds history: not checked yet\n\n🥊 1. 𝗝
- 𝗼𝗲 𝗣𝘆𝗳𝗲𝗿 (#6) 🇺🇸 vs. 𝗕𝗼 𝗡𝗶𝗰𝗸
- 𝗮𝗹 (#14) 🇺🇸\n• 185lbs/84kg Middleweight\n• Pyfer: 16-3-0 |
-  30yo | Boxing | -200 (1.50)\n• Nickal: 9-1-0 | 30yo | Wrestler | +160 (
- 2.60)\n• Odds history:\n  ◦ 9 Oct: Pyfer 🟢 -157 (1.64) | Nickal 
- 🔴 +125 (2.25)\n  ◦ 12 Oct: Pyfer 🟢 -182 (1.55) | Nickal 🔴 +145 
- (2.45)\n  ◦ 23 Oct: Pyfer 🟢 -200 (1.50) | Nickal 🔴 +160 (2.60)\n\n
- --------------------------------\nSource: https://www.ufc.com/event/ufc-33
- 5\nOdds source: https://www.bestfightodds.com/ · best available line · c
- hecked Monday and Friday\nFull odds log: https://staircasewit.github.io/mm
- acalendar/odds-history.html\nEvent status: Scheduled
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts ann
+ : not checked yet\n\n🥊 3. 𝗞𝘆𝗹𝗲𝗿 𝗣𝗵𝗶𝗹𝗹𝗶
+ 𝗽𝘀 🇺🇸 vs. 𝗘𝘁𝗵𝘆𝗻 𝗘𝘄𝗶𝗻𝗴 🇺🇸\n
+ • 135lbs/61kg Bantamweight\n• Phillips: 12-5-0 | 31yo\n• Ewing: 10-2
+ -0 | 28yo | MMA\n• Odds history: not checked yet\n\n🥊 2. 𝗤𝘂𝗲
+ 𝗻𝘁𝗶𝗻 𝗣𝗮𝘀𝗹𝗲𝘆 🇺🇸 vs. 𝗝𝘂𝗻𝗶
+ 𝗼𝗿 𝗧𝗮𝗳𝗮 🇦🇺\n• 205lbs/93kg Light Heavyweight\n•
+  Pasley: 1-0-0 | 25yo\n• Tafa: 7-6-0 | 30yo | Kickboxer\n• Odds histor
+ y: not checked yet\n\n🥊 1. 𝗗𝗮𝗺𝗶𝗮𝗻 𝗣𝗶𝗻𝗮
+ 𝘀 🇦🇼 vs. 𝗕𝗮𝗶𝘀𝗮𝗻𝗴𝘂𝗿 𝗦𝘂𝘀𝘂
+ 𝗿𝗸𝗮𝗲𝘃 🇷🇺\n• 185lbs/84kg Middleweight\n• Pinas: 11
+ -1-0 | 24yo | MMA\n• Susurkaev: 12-0-0 | 25yo | Striker\n• Odds histor
+ y: not checked yet\n\n--------------------------------\n𝗖𝗔𝗡𝗖
+ 𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔𝗪𝗡 𝗕
+ 𝗢𝗨𝗧𝗦\n--------------------------------\n✕ Joe Pyfer vs. Bo N
+ ickal · 185lbs/84kg Middleweight | Removed from the UFC card\n\n---------
+ -----------------------\nSource: https://www.ufc.com/event/ufc-335\nOdds s
+ ource: https://www.bestfightodds.com/ · best available line · checked Mo
+ nday and Friday\nFull odds log: https://staircasewit.github.io/mmacalendar
+ /odds-history.html\nEvent status: Scheduled
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts ann
  ounced · placement TBD<br>📍 T-Mobile Arena\, Las Vegas\, United States
  <br>🕒 02:00–05:00 Ireland<br>This provisional entry updates automatic
  ally as UFC finalises the card.</p><p>--------------------------------<br>
  <strong>𝗕𝗢𝗨𝗧𝗦</strong><br>--------------------------------<
- /p><p><strong>🥊 5. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗢𝗹𝗶𝘃𝗲
+ /p><p><strong>🥊 6. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗢𝗹𝗶𝘃𝗲
  𝗶𝗿𝗮 (#3) 🇧🇷 vs. 𝗗𝗶𝗲𝗴𝗼 𝗟𝗼𝗽𝗲𝘀 
  🇧🇷</strong><br>• 155lbs/70kg Lightweight<br>• Oliveira: 37-11-0 
  | 37yo | Jiu-Jitsu | -150 (1.67)<br>• Lopes: 28-8-0 | 31yo | Jiu-Jitsu |
   +126 (2.26)<br>• Odds history:<br>◦ 9 Oct: Oliveira 🟢 -155 (1.65) 
  | Lopes 🔴 +145 (2.45)<br>◦ 16 Oct: Oliveira 🟢 -150 (1.67) | Lopes 
  🔴 +125 (2.25)<br>◦ 23 Oct: Oliveira 🟢 -150 (1.67) | Lopes 🔴 +12
- 6 (2.26)</p><p><strong>🥊 4. 𝗔𝗹𝗲𝘅 𝗣𝗲𝗿𝗲𝗶𝗿
+ 6 (2.26)</p><p><strong>🥊 5. 𝗔𝗹𝗲𝘅 𝗣𝗲𝗿𝗲𝗶𝗿
  𝗮 🇧🇷 vs. 𝗦𝗲𝗿𝗴𝗲𝗶 𝗣𝗮𝘃𝗹𝗼𝘃𝗶
  𝗰𝗵 (#3) 🇷🇺</strong><br>• 265lbs/120kg Heavyweight<br>• Per
  eira: 13-4-0 | 39yo | Kickboxer | +163 (2.63)<br>• Pavlovich: 21-3-0 | 3
@@ -4142,26 +4177,32 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts ann
  163 (2.63) | Pavlovich 🟢 -175 (1.57)<br>◦ 23 Oct: Pereira 🔴 +163 (
  2.63) | Pavlovich 🟢 -200 (1.50)<br>◦ 6 Nov: Pereira 🔴 +163 (2.63) 
  | Pavlovich 🟢 -200 (1.50)<br>◦ Earlier changes: see full odds log</p>
- <p><strong>🥊 3. 𝗕𝗿𝗮𝗻𝗱𝗼𝗻 𝗠𝗼𝗿𝗲𝗻𝗼 (
+ <p><strong>🥊 4. 𝗕𝗿𝗮𝗻𝗱𝗼𝗻 𝗠𝗼𝗿𝗲𝗻𝗼 (
  #8) 🇲🇽 vs. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗝𝗼𝗵𝗻𝘀𝗼𝗻
   (#14) 🇺🇸</strong><br>• 125lbs/57kg Flyweight<br>• Moreno: 24-10
  -2 | 33yo | Jiu-Jitsu<br>• Johnson: 20-9-0 | 35yo<br>• Odds history: n
- ot checked yet</p><p><strong>🥊 2. 𝗤𝘂𝗲𝗻𝘁𝗶𝗻 𝗣𝗮
- 𝘀𝗹𝗲𝘆 🇺🇸 vs. 𝗝𝘂𝗻𝗶𝗼𝗿 𝗧𝗮𝗳𝗮 
- 🇦🇺</strong><br>• 205lbs/93kg Light Heavyweight<br>• Pasley: 1-0-
- 0 | 25yo<br>• Tafa: 7-6-0 | 30yo | Kickboxer<br>• Odds history: not ch
- ecked yet</p><p><strong>🥊 1. 𝗝𝗼𝗲 𝗣𝘆𝗳𝗲𝗿 (#6) 
- 🇺🇸 vs. 𝗕𝗼 𝗡𝗶𝗰𝗸𝗮𝗹 (#14) 🇺🇸</strong><br>
- • 185lbs/84kg Middleweight<br>• Pyfer: 16-3-0 | 30yo | Boxing | -200 (
- 1.50)<br>• Nickal: 9-1-0 | 30yo | Wrestler | +160 (2.60)<br>• Odds his
- tory:<br>◦ 9 Oct: Pyfer 🟢 -157 (1.64) | Nickal 🔴 +125 (2.25)<br>
- ◦ 12 Oct: Pyfer 🟢 -182 (1.55) | Nickal 🔴 +145 (2.45)<br>◦ 23 Oct
- : Pyfer 🟢 -200 (1.50) | Nickal 🔴 +160 (2.60)</p><p>-----------------
- ---------------<br>Source: <a href="https://www.ufc.com/event/ufc-335">UFC
- .com</a><br>Odds source: <a href="https://www.bestfightodds.com/">BestFigh
- tOdds</a> · best available line · checked Monday and Friday<br>Full odds
-  log: <a href="https://staircasewit.github.io/mmacalendar/odds-history.htm
- l">view history</a><br>Event status: Scheduled</p></body></html>
+ ot checked yet</p><p><strong>🥊 3. 𝗞𝘆𝗹𝗲𝗿 𝗣𝗵𝗶𝗹
+ 𝗹𝗶𝗽𝘀 🇺🇸 vs. 𝗘𝘁𝗵𝘆𝗻 𝗘𝘄𝗶𝗻𝗴 
+ 🇺🇸</strong><br>• 135lbs/61kg Bantamweight<br>• Phillips: 12-5-0 
+ | 31yo<br>• Ewing: 10-2-0 | 28yo | MMA<br>• Odds history: not checked 
+ yet</p><p><strong>🥊 2. 𝗤𝘂𝗲𝗻𝘁𝗶𝗻 𝗣𝗮𝘀𝗹
+ 𝗲𝘆 🇺🇸 vs. 𝗝𝘂𝗻𝗶𝗼𝗿 𝗧𝗮𝗳𝗮 🇦🇺</
+ strong><br>• 205lbs/93kg Light Heavyweight<br>• Pasley: 1-0-0 | 25yo<b
+ r>• Tafa: 7-6-0 | 30yo | Kickboxer<br>• Odds history: not checked yet<
+ /p><p><strong>🥊 1. 𝗗𝗮𝗺𝗶𝗮𝗻 𝗣𝗶𝗻𝗮𝘀 🇦
+ 🇼 vs. 𝗕𝗮𝗶𝘀𝗮𝗻𝗴𝘂𝗿 𝗦𝘂𝘀𝘂𝗿𝗸𝗮
+ 𝗲𝘃 🇷🇺</strong><br>• 185lbs/84kg Middleweight<br>• Pinas: 1
+ 1-1-0 | 24yo | MMA<br>• Susurkaev: 12-0-0 | 25yo | Striker<br>• Odds h
+ istory: not checked yet</p><p>--------------------------------<br><strong>
+ 𝗖𝗔𝗡𝗖𝗘𝗟𝗟𝗘𝗗 𝗢𝗥 𝗪𝗜𝗧𝗛𝗗𝗥𝗔
+ 𝗪𝗡 𝗕𝗢𝗨𝗧𝗦</strong><br>--------------------------------
+ <br>✕ Joe Pyfer vs. Bo Nickal · 185lbs/84kg Middleweight | Removed from
+  the UFC card</p><p>--------------------------------<br>Source: <a href="h
+ ttps://www.ufc.com/event/ufc-335">UFC.com</a><br>Odds source: <a href="htt
+ ps://www.bestfightodds.com/">BestFightOdds</a> · best available line · c
+ hecked Monday and Friday<br>Full odds log: <a href="https://staircasewit.g
+ ithub.io/mmacalendar/odds-history.html">view history</a><br>Event status: 
+ Scheduled</p></body></html>
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
 CATEGORIES:UFC,Main Card
@@ -4201,8 +4242,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-january-16-2027-main-card@ufc-detailed-calendar
 DTSTAMP:20261030T130053Z
-LAST-MODIFIED:20261116T155309Z
-SEQUENCE:1
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:2
 DTSTART:20270117T010000Z
 DTEND:20270117T040000Z
 SUMMARY:Main Card – UFC Fight Night: Rodriguez vs Garcia
@@ -4215,7 +4256,7 @@ DESCRIPTION:UFC · Main Card · 3 bouts announced · placement TBD\n📍 Am
  𝗮 (#10) 🇺🇸\n• 145lbs/66kg Featherweight\n• Rodriguez: 21-5-0 
  | 34yo | Freestyle\n• Garcia: 19-6-0 | 34yo | Freestyle\n• Odds histor
  y: not checked yet\n\n🥊 2. 𝗗𝗮𝗻𝗶𝗲𝗹 𝗥𝗼𝗱𝗿
- 𝗶𝗴𝘂𝗲𝘇 (#14) 🇺🇸 vs. 𝗥𝗼𝗯𝗲𝗿𝘁𝗼 𝗦
+ 𝗶𝗴𝘂𝗲𝘇 (#15) 🇺🇸 vs. 𝗥𝗼𝗯𝗲𝗿𝘁𝗼 𝗦
  𝗼𝗹𝗱𝗶ć 🇭🇷\n• 170lbs/77kg Welterweight\n• Rodriguez: 
  20-6-0 | 40yo | Freestyle\n• Soldic: 22-4-0 | 31yo | MMA\n• Odds histo
  ry: not checked yet\n\n🥊 1. 𝗖𝗵𝗶𝗱𝗶 𝗡𝗷𝗼𝗸𝘂
@@ -4236,7 +4277,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 3 bouts ann
  #10) 🇺🇸</strong><br>• 145lbs/66kg Featherweight<br>• Rodriguez: 
  21-5-0 | 34yo | Freestyle<br>• Garcia: 19-6-0 | 34yo | Freestyle<br>• 
  Odds history: not checked yet</p><p><strong>🥊 2. 𝗗𝗮𝗻𝗶𝗲
- 𝗹 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 (#14) 🇺🇸 vs. 𝗥𝗼𝗯
+ 𝗹 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 (#15) 🇺🇸 vs. 𝗥𝗼𝗯
  𝗲𝗿𝘁𝗼 𝗦𝗼𝗹𝗱𝗶ć 🇭🇷</strong><br>• 170lbs/77
  kg Welterweight<br>• Rodriguez: 20-6-0 | 40yo | Freestyle<br>• Soldic:
   22-4-0 | 31yo | MMA<br>• Odds history: not checked yet</p><p><strong>
@@ -4381,60 +4422,86 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-336-main-card@ufc-detailed-calendar
 DTSTAMP:20261021T115556Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:5
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:6
 DTSTART:20270131T020000Z
 DTEND:20270131T050000Z
 SUMMARY:Main Card – UFC 336: Van vs Kape
-DESCRIPTION:UFC · Main Card · 2 bouts\n📍 Scotiabank Arena\, Toronto\, 
- Canada\n🕒 02:00–05:00 Ireland\n\n--------------------------------\n
- 𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 2. 𝗝𝗼
- 𝘀𝗵𝘂𝗮 𝗩𝗮𝗻 (C) 🇲🇲 vs. 𝗠𝗮𝗻𝗲𝗹 𝗞
- 𝗮𝗽𝗲 (#2) 🇵🇹\n• 125lbs/57kg Flyweight · Title Bout\n• V
- an: 18-2-0 | 25yo | Freestyle | -121 (1.83)\n• Kape: 23-7-0 | 33yo | MMA
-  | +110 (2.10)\n• Odds history:\n  ◦ 26 Oct: Van 🟢 -121 (1.83) | Ka
- pe 🔴 -103 (1.97)\n  ◦ 30 Oct: Van 🟢 -121 (1.83) | Kape 🔴 +108 (
- 2.08)\n  ◦ 9 Nov: Van 🟢 -121 (1.83) | Kape 🔴 +110 (2.10)\n\n🥊 1
- . 𝗖𝗮𝗿𝗹𝗼𝘀 𝗣𝗿𝗮𝘁𝗲𝘀 (#2) 🇧🇷 vs. 𝗠
- 𝗶𝗰𝗵𝗮𝗲𝗹 𝗠𝗼𝗿𝗮𝗹𝗲𝘀 (#3) 🇪🇨\n• 1
- 70lbs/77kg Welterweight · Title Bout\n• Prates: 24-7-0 | 33yo | Striker
-  | -167 (1.60)\n• Morales: 19-0-0 | 27yo | Striker | +142 (2.42)\n• Od
- ds history:\n  ◦ 30 Oct: Prates 🟢 -138 (1.72) | Morales 🔴 +142 (2.
- 42)\n  ◦ 6 Nov: Prates 🟢 -150 (1.67) | Morales 🔴 +142 (2.42)\n  
- ◦ 9 Nov: Prates 🟢 -167 (1.60) | Morales 🔴 +142 (2.42)\n  ◦ Earli
- er changes: see full odds log\n\n--------------------------------\nSource:
-  https://www.ufc.com/event/ufc-336\nOdds source: https://www.bestfightodds
- .com/ · best available line · checked Monday and Friday\nFull odds log: 
- https://staircasewit.github.io/mmacalendar/odds-history.html\nEvent status
- : Rescheduled\; previously 31 Jan 2027
-X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 2 bouts<br>
- 📍 Scotiabank Arena\, Toronto\, Canada<br>🕒 02:00–05:00 Ireland</p>
- <p>--------------------------------<br><strong>𝗕𝗢𝗨𝗧𝗦</stron
- g><br>--------------------------------</p><p><strong>🥊 2. 𝗝𝗼𝘀
- 𝗵𝘂𝗮 𝗩𝗮𝗻 (C) 🇲🇲 vs. 𝗠𝗮𝗻𝗲𝗹 𝗞𝗮
- 𝗽𝗲 (#2) 🇵🇹</strong><br>• 125lbs/57kg Flyweight · Title Bout
- <br>• Van: 18-2-0 | 25yo | Freestyle | -121 (1.83)<br>• Kape: 23-7-0 |
-  33yo | MMA | +110 (2.10)<br>• Odds history:<br>◦ 26 Oct: Van 🟢 -12
- 1 (1.83) | Kape 🔴 -103 (1.97)<br>◦ 30 Oct: Van 🟢 -121 (1.83) | Kap
- e 🔴 +108 (2.08)<br>◦ 9 Nov: Van 🟢 -121 (1.83) | Kape 🔴 +110 (2.
- 10)</p><p><strong>🥊 1. 𝗖𝗮𝗿𝗹𝗼𝘀 𝗣𝗿𝗮𝘁𝗲
+DESCRIPTION:UFC · Main Card · 5 bouts announced · placement TBD\n📍 Sc
+ otiabank Arena\, Toronto\, Canada\n🕒 02:00–05:00 Ireland\nThis provis
+ ional entry updates automatically as UFC finalises the card.\n\n----------
+ ----------------------\n𝗕𝗢𝗨𝗧𝗦\n----------------------------
+ ----\n\n🥊 5. 𝗝𝗼𝘀𝗵𝘂𝗮 𝗩𝗮𝗻 (C) 🇲🇲 vs. 
+ 𝗠𝗮𝗻𝗲𝗹 𝗞𝗮𝗽𝗲 (#2) 🇵🇹\n• 125lbs/57kg Flywe
+ ight · Title Bout\n• Van: 18-2-0 | 25yo | Freestyle | -121 (1.83)\n• 
+ Kape: 23-7-0 | 33yo | MMA | +110 (2.10)\n• Odds history:\n  ◦ 26 Oct: 
+ Van 🟢 -121 (1.83) | Kape 🔴 -103 (1.97)\n  ◦ 30 Oct: Van 🟢 -121 
+ (1.83) | Kape 🔴 +108 (2.08)\n  ◦ 9 Nov: Van 🟢 -121 (1.83) | Kape 
+ 🔴 +110 (2.10)\n\n🥊 4. 𝗖𝗮𝗿𝗹𝗼𝘀 𝗣𝗿𝗮𝘁𝗲
  𝘀 (#2) 🇧🇷 vs. 𝗠𝗶𝗰𝗵𝗮𝗲𝗹 𝗠𝗼𝗿𝗮𝗹
- 𝗲𝘀 (#3) 🇪🇨</strong><br>• 170lbs/77kg Welterweight · Title B
- out<br>• Prates: 24-7-0 | 33yo | Striker | -167 (1.60)<br>• Morales: 1
- 9-0-0 | 27yo | Striker | +142 (2.42)<br>• Odds history:<br>◦ 30 Oct: P
- rates 🟢 -138 (1.72) | Morales 🔴 +142 (2.42)<br>◦ 6 Nov: Prates 
- 🟢 -150 (1.67) | Morales 🔴 +142 (2.42)<br>◦ 9 Nov: Prates 🟢 -167
-  (1.60) | Morales 🔴 +142 (2.42)<br>◦ Earlier changes: see full odds l
- og</p><p>--------------------------------<br>Source: <a href="https://www.
- ufc.com/event/ufc-336">UFC.com</a><br>Odds source: <a href="https://www.be
- stfightodds.com/">BestFightOdds</a> · best available line · checked Mond
- ay and Friday<br>Full odds log: <a href="https://staircasewit.github.io/mm
- acalendar/odds-history.html">view history</a><br>Event status: Rescheduled
- \; previously 31 Jan 2027</p></body></html>
+ 𝗲𝘀 (#3) 🇪🇨\n• 170lbs/77kg Welterweight · Title Bout\n• Pr
+ ates: 24-7-0 | 33yo | Striker | -167 (1.60)\n• Morales: 19-0-0 | 27yo | 
+ Striker | +142 (2.42)\n• Odds history:\n  ◦ 30 Oct: Prates 🟢 -138 (
+ 1.72) | Morales 🔴 +142 (2.42)\n  ◦ 6 Nov: Prates 🟢 -150 (1.67) | M
+ orales 🔴 +142 (2.42)\n  ◦ 9 Nov: Prates 🟢 -167 (1.60) | Morales 
+ 🔴 +142 (2.42)\n  ◦ Earlier changes: see full odds log\n\n🥊 3. 𝗟
+ 𝗮𝗻𝗰𝗲 𝗚𝗶𝗯𝘀𝗼𝗻 𝗝𝗿. 🇨🇦 vs. 𝗠𝗶
+ 𝗰𝗵𝗮𝗲𝗹 𝗝𝗼𝗵𝗻𝘀𝗼𝗻 🇺🇸\n• 155lbs/70k
+ g Lightweight\n• Gibson Jr.: 10-2-0 | 31yo\n• Johnson: 25-20-0 | 40yo 
+ | Boxing\n• Odds history: not checked yet\n\n🥊 2. 𝗦𝗲𝗿𝗵
+ 𝗶𝘆 𝗦𝗶𝗱𝗲𝘆 🇺🇦 vs. 𝗟𝗼𝘂𝗶𝘀 𝗟𝗲
+ 𝗲 𝗦𝗰𝗼𝘁𝘁 🇪🇳\n• 135lbs/61kg Bantamweight\n• Side
+ y: 12-2-0 | 30yo | Freestyle\n• Lee Scott: 1-0-0 | 26yo\n• Odds histor
+ y: not checked yet\n\n🥊 1. 𝗖𝗮𝗺 𝗡𝗲𝗹𝘀𝗼𝗻 🇨
+ 🇦 vs. 𝗦𝗲𝗮𝗻 𝗖𝗹𝗮𝗻𝗰𝘆 𝗝𝗿. 🇸🇫\n•
+  170lbs/77kg Welterweight\n• Nelson: 8-1-0 | 28yo | MMA\n• Clancy Jr.:
+  1-0-0 | 24yo\n• Odds history: not checked yet\n\n----------------------
+ ----------\nSource: https://www.ufc.com/event/ufc-336\nOdds source: https:
+ //www.bestfightodds.com/ · best available line · checked Monday and Frid
+ ay\nFull odds log: https://staircasewit.github.io/mmacalendar/odds-history
+ .html\nEvent status: Rescheduled\; previously 31 Jan 2027
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts ann
+ ounced · placement TBD<br>📍 Scotiabank Arena\, Toronto\, Canada<br>
+ 🕒 02:00–05:00 Ireland<br>This provisional entry updates automatically
+  as UFC finalises the card.</p><p>--------------------------------<br><str
+ ong>𝗕𝗢𝗨𝗧𝗦</strong><br>--------------------------------</p><
+ p><strong>🥊 5. 𝗝𝗼𝘀𝗵𝘂𝗮 𝗩𝗮𝗻 (C) 🇲🇲 vs. 
+ 𝗠𝗮𝗻𝗲𝗹 𝗞𝗮𝗽𝗲 (#2) 🇵🇹</strong><br>• 125lbs
+ /57kg Flyweight · Title Bout<br>• Van: 18-2-0 | 25yo | Freestyle | -121
+  (1.83)<br>• Kape: 23-7-0 | 33yo | MMA | +110 (2.10)<br>• Odds history
+ :<br>◦ 26 Oct: Van 🟢 -121 (1.83) | Kape 🔴 -103 (1.97)<br>◦ 30 Oc
+ t: Van 🟢 -121 (1.83) | Kape 🔴 +108 (2.08)<br>◦ 9 Nov: Van 🟢 -12
+ 1 (1.83) | Kape 🔴 +110 (2.10)</p><p><strong>🥊 4. 𝗖𝗮𝗿𝗹
+ 𝗼𝘀 𝗣𝗿𝗮𝘁𝗲𝘀 (#2) 🇧🇷 vs. 𝗠𝗶𝗰𝗵𝗮
+ 𝗲𝗹 𝗠𝗼𝗿𝗮𝗹𝗲𝘀 (#3) 🇪🇨</strong><br>• 170lbs
+ /77kg Welterweight · Title Bout<br>• Prates: 24-7-0 | 33yo | Striker | 
+ -167 (1.60)<br>• Morales: 19-0-0 | 27yo | Striker | +142 (2.42)<br>• O
+ dds history:<br>◦ 30 Oct: Prates 🟢 -138 (1.72) | Morales 🔴 +142 (2
+ .42)<br>◦ 6 Nov: Prates 🟢 -150 (1.67) | Morales 🔴 +142 (2.42)<br>
+ ◦ 9 Nov: Prates 🟢 -167 (1.60) | Morales 🔴 +142 (2.42)<br>◦ Earli
+ er changes: see full odds log</p><p><strong>🥊 3. 𝗟𝗮𝗻𝗰𝗲 
+ 𝗚𝗶𝗯𝘀𝗼𝗻 𝗝𝗿. 🇨🇦 vs. 𝗠𝗶𝗰𝗵𝗮𝗲
+ 𝗹 𝗝𝗼𝗵𝗻𝘀𝗼𝗻 🇺🇸</strong><br>• 155lbs/70kg Lig
+ htweight<br>• Gibson Jr.: 10-2-0 | 31yo<br>• Johnson: 25-20-0 | 40yo |
+  Boxing<br>• Odds history: not checked yet</p><p><strong>🥊 2. 𝗦
+ 𝗲𝗿𝗵𝗶𝘆 𝗦𝗶𝗱𝗲𝘆 🇺🇦 vs. 𝗟𝗼𝘂𝗶
+ 𝘀 𝗟𝗲𝗲 𝗦𝗰𝗼𝘁𝘁 🇪🇳</strong><br>• 135lbs/61k
+ g Bantamweight<br>• Sidey: 12-2-0 | 30yo | Freestyle<br>• Lee Scott: 1
+ -0-0 | 26yo<br>• Odds history: not checked yet</p><p><strong>🥊 1. 
+ 𝗖𝗮𝗺 𝗡𝗲𝗹𝘀𝗼𝗻 🇨🇦 vs. 𝗦𝗲𝗮𝗻 𝗖
+ 𝗹𝗮𝗻𝗰𝘆 𝗝𝗿. 🇸🇫</strong><br>• 170lbs/77kg Welter
+ weight<br>• Nelson: 8-1-0 | 28yo | MMA<br>• Clancy Jr.: 1-0-0 | 24yo<b
+ r>• Odds history: not checked yet</p><p>--------------------------------
+ <br>Source: <a href="https://www.ufc.com/event/ufc-336">UFC.com</a><br>Odd
+ s source: <a href="https://www.bestfightodds.com/">BestFightOdds</a> · be
+ st available line · checked Monday and Friday<br>Full odds log: <a href="
+ https://staircasewit.github.io/mmacalendar/odds-history.html">view history
+ </a><br>Event status: Rescheduled\; previously 31 Jan 2027</p></body></htm
+ l>
 LOCATION:Scotiabank Arena\, Toronto\, Canada
 URL:https://www.ufc.com/event/ufc-336
 CATEGORIES:UFC,Main Card
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-february-06-2027-prelims@ufc-detailed-calendar
@@ -4470,8 +4537,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-february-06-2027-main-card@ufc-detailed-calendar
 DTSTAMP:20260930T124052Z
-LAST-MODIFIED:20261116T155309Z
-SEQUENCE:4
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:5
 DTSTART:20270206T220000Z
 DTEND:20270207T010000Z
 SUMMARY:Main Card – UFC Fight Night: Salkilld vs Saint Denis
@@ -4487,7 +4554,7 @@ DESCRIPTION:UFC · Main Card · 4 bouts announced · placement TBD\n📍 Af
  275 (1.36) | Saint Denis 🔴 +200 (3.00)\n  ◦ 16 Nov: Salkilld 🟢 -27
  5 (1.36) | Saint Denis 🔴 +210 (3.10)\n\n🥊 3. 𝗕𝗼𝗴𝗱𝗮
  𝗻 𝗚𝘂𝘀𝗸𝗼𝘃 (#8) 🇺🇿 vs. 𝗥𝗼𝗯𝗲𝗿𝘁 
- 𝗪𝗵𝗶𝘁𝘁𝗮𝗸𝗲𝗿 (#11) 🇦🇺\n• 205lbs/93kg Light
+ 𝗪𝗵𝗶𝘁𝘁𝗮𝗸𝗲𝗿 (#10) 🇦🇺\n• 205lbs/93kg Light
   Heavyweight\n• Guskov: 18-3-0 | 34yo | MMA | +118 (2.18)\n• Whittaker
  : 28-9-0 | 36yo | Brazilian Jiu-Jitsu | -138 (1.72)\n• Odds history:\n  
  ◦ 13 Nov: Guskov 🔴 +110 (2.10) | Whittaker 🟢 -138 (1.72)\n  ◦ 16
@@ -4517,7 +4584,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 4 bouts ann
  : Salkilld 🟢 -275 (1.36) | Saint Denis 🔴 +200 (3.00)<br>◦ 16 Nov: 
  Salkilld 🟢 -275 (1.36) | Saint Denis 🔴 +210 (3.10)</p><p><strong>
  🥊 3. 𝗕𝗼𝗴𝗱𝗮𝗻 𝗚𝘂𝘀𝗸𝗼𝘃 (#8) 🇺🇿 vs
- . 𝗥𝗼𝗯𝗲𝗿𝘁 𝗪𝗵𝗶𝘁𝘁𝗮𝗸𝗲𝗿 (#11) 🇦
+ . 𝗥𝗼𝗯𝗲𝗿𝘁 𝗪𝗵𝗶𝘁𝘁𝗮𝗸𝗲𝗿 (#10) 🇦
  🇺</strong><br>• 205lbs/93kg Light Heavyweight<br>• Guskov: 18-3-0 |
   34yo | MMA | +118 (2.18)<br>• Whittaker: 28-9-0 | 36yo | Brazilian Jiu-
  Jitsu | -138 (1.72)<br>• Odds history:<br>◦ 13 Nov: Guskov 🔴 +110 (

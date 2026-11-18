@@ -2916,14 +2916,18 @@
           "name": "Abderrahman Errachidy",
           "profileUrl": "https://pflmma.com/africa-fighter/abderrahman-errachidy",
           "countryCode": "MA",
-          "birthDate": "2001-02-03",
-          "record": "5-2-0",
+          "birthDate": "2001-02-02",
+          "record": "6-2-0",
           "style": null,
           "odds": "+142"
         },
         "blue": {
           "name": "Hussain Al Kurdi",
-          "profileUrl": "https://pflmma.com/africa-fighter/hussain-al-kurdi",
+          "profileUrl": "https://pflmma.com/africa-fighter/hussain-alkurdi",
+          "countryCode": "BH",
+          "birthDate": "2001-06-05",
+          "record": "3-0-0",
+          "style": null,
           "odds": "-168"
         },
         "details": "Winner: Hussain Al Kurdi by Submission",
@@ -3146,6 +3150,43 @@
           "birthDate": "2001-06-07",
           "record": "3-0-0",
           "style": null,
+          "odds": "-168"
+        },
+        "details": "Winner: Hussain Al Kurdi by Submission",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-09-13T12:23:20.090Z",
+            "eventName": "PFL Africa Nigeria",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-africa-4228",
+            "odds": {
+              "abderrahman errachidy": "+142",
+              "hussain al kurdi": "-168"
+            },
+            "names": {
+              "abderrahman errachidy": "Abderrahman Errachidy",
+              "hussain al kurdi": "Hussain Al Kurdi"
+            },
+            "promotion": "pfl",
+            "eventId": "pfl-africa-nigeria"
+          }
+        ],
+        "note": "Removed from the official PFL card"
+      },
+      {
+        "id": "1499",
+        "order": 6,
+        "red": {
+          "name": "Abderrahman Errachidy",
+          "profileUrl": "https://pflmma.com/africa-fighter/abderrahman-errachidy",
+          "countryCode": "MA",
+          "birthDate": "2001-02-03",
+          "record": "5-2-0",
+          "style": null,
+          "odds": "+142"
+        },
+        "blue": {
+          "name": "Hussain Al Kurdi",
+          "profileUrl": "https://pflmma.com/africa-fighter/hussain-al-kurdi",
           "odds": "-168"
         },
         "details": "Winner: Hussain Al Kurdi by Submission",
@@ -5561,7 +5602,11 @@
         "red": {
           "name": "Shido Boris Esperança",
           "profileUrl": "https://pflmma.com/africa-fighter/shido-boris-esperana",
-          "odds": null
+          "odds": null,
+          "countryCode": "AO",
+          "birthDate": "1994-12-21",
+          "record": "13-2-0",
+          "style": null
         },
         "blue": {
           "name": "Peace Nguphane",
@@ -5661,12 +5706,20 @@
         "red": {
           "name": "Yabna N’tchala",
           "profileUrl": "https://pflmma.com/africa-fighter/yabna-ntchala",
-          "odds": null
+          "odds": null,
+          "countryCode": "GW",
+          "birthDate": "1997-08-03",
+          "record": "14-4-1",
+          "style": null
         },
         "blue": {
           "name": "Mouhamed Tafsir Ba",
           "profileUrl": "https://pflmma.com/africa-fighter/mouhamed-tafsir-ba",
-          "odds": null
+          "odds": null,
+          "countryCode": "SN",
+          "birthDate": "2002-12-16",
+          "record": "4-1-0",
+          "style": null
         },
         "details": "170lbs/77kg Welterweight",
         "oddsHistory": []
@@ -5758,17 +5811,21 @@
           "name": "Demba Seck",
           "profileUrl": "https://pflmma.com/africa-fighter/demba-seck",
           "countryCode": null,
-          "birthDate": "1994-07-19",
+          "birthDate": "1994-07-17",
           "record": "11-3-0",
           "style": null,
           "odds": null
         },
         "blue": {
           "name": "Hussain Al Kurdi",
-          "profileUrl": "https://pflmma.com/africa-fighter/hussain-al-kurdi",
+          "profileUrl": "https://pflmma.com/africa-fighter/hussain-alkurdi",
+          "countryCode": "BH",
+          "birthDate": "2001-06-05",
+          "record": "3-0-0",
+          "style": null,
           "odds": null
         },
-        "details": "155lbs/70kg Lightweight",
+        "details": "155lbs/70kg Lightweight · Semifinal",
         "oddsHistory": []
       },
       {
@@ -5997,6 +6054,27 @@
             }
           }
         ],
+        "note": "Removed from the official PFL card"
+      },
+      {
+        "id": "1612",
+        "order": 3,
+        "red": {
+          "name": "Demba Seck",
+          "profileUrl": "https://pflmma.com/africa-fighter/demba-seck",
+          "countryCode": null,
+          "birthDate": "1994-07-19",
+          "record": "11-3-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Hussain Al Kurdi",
+          "profileUrl": "https://pflmma.com/africa-fighter/hussain-al-kurdi",
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight",
+        "oddsHistory": [],
         "note": "Removed from the official PFL card"
       }
     ]
@@ -7282,16 +7360,16 @@
   {
     "uid": "pflmena-12",
     "date": "2026-12-11",
-    "summary": "PFL Khobar",
+    "summary": "PFL MENA 12",
     "location": "Dhahran Expo, Khobar, Saudi Arabia",
     "url": "https://pflmma.com/event/pflmena-12",
-    "start": "20261211T150000Z",
-    "end": "20261211T180000Z",
-    "status": "CONFIRMED",
+    "start": null,
+    "end": null,
+    "status": "TENTATIVE",
     "bouts": [
       {
         "id": "1618",
-        "order": 3,
+        "order": 8,
         "red": {
           "name": "Abdelkrim Zouad",
           "profileUrl": "https://pflmma.com/mena-fighter/abdelkrim-zouad",
@@ -7315,7 +7393,7 @@
       },
       {
         "id": "1617",
-        "order": 2,
+        "order": 7,
         "red": {
           "name": "Mohammad Fahmi",
           "profileUrl": "https://pflmma.com/mena-fighter/mohammad-fahmi",
@@ -7339,7 +7417,7 @@
       },
       {
         "id": "1616",
-        "order": 1,
+        "order": 6,
         "red": {
           "name": "Elias Boudegzdame",
           "profileUrl": "https://pflmma.com/mena-fighter/elias-boudegzdame",
@@ -7359,6 +7437,126 @@
           "odds": null
         },
         "details": "145lbs/66kg Featherweight · Finals",
+        "oddsHistory": []
+      },
+      {
+        "id": "1684",
+        "order": 5,
+        "red": {
+          "name": "Ahmed Albrahim",
+          "profileUrl": "https://pflmma.com/mena-fighter/ahmed-albrahim",
+          "countryCode": "SA",
+          "birthDate": "1996-09-17",
+          "record": "1-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Hassan Ahmed Moustafa",
+          "profileUrl": "https://pflmma.com/mena-fighter/hassan-ahmedmoustafa",
+          "countryCode": "EG",
+          "birthDate": "2004-03-23",
+          "record": "4-1-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "170lbs/77kg Welterweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1685",
+        "order": 4,
+        "red": {
+          "name": "Malik Basahel",
+          "profileUrl": "https://pflmma.com/mena-fighter/malik-basahel",
+          "countryCode": "SA",
+          "birthDate": "2001-11-14",
+          "record": "4-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Ahmed Taha",
+          "profileUrl": "https://pflmma.com/mena-fighter/ahmed-taha",
+          "countryCode": "EG",
+          "birthDate": "2003-10-15",
+          "record": "3-1-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "125lbs/57kg Flyweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1686",
+        "order": 3,
+        "red": {
+          "name": "Fatima Al Ammari",
+          "profileUrl": "https://pflmma.com/mena-fighter/fatima-alammari",
+          "countryCode": "SA",
+          "birthDate": "2008-09-15",
+          "record": "1-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Anna Wakim",
+          "profileUrl": "https://pflmma.com/mena-fighter/anna-wakim",
+          "countryCode": "LB",
+          "birthDate": "2000-07-18",
+          "record": "0-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "Amateur Catchweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1687",
+        "order": 2,
+        "red": {
+          "name": "Hamad Marhoon",
+          "profileUrl": "https://pflmma.com/mena-fighter/hamad-marhoon",
+          "countryCode": "BH",
+          "birthDate": "2003-12-26",
+          "record": "1-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Ayoub Grimes",
+          "profileUrl": "https://pflmma.com/mena-fighter/ayoub-grimes1",
+          "countryCode": "DZ",
+          "birthDate": "2005-10-25",
+          "record": "1-0-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "125lbs/57kg Flyweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1688",
+        "order": 1,
+        "red": {
+          "name": "Zamzam Al-Hammadi",
+          "profileUrl": "https://pflmma.com/mena-fighter/zamzam-al-hammadi",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "3-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Lilia Osmani",
+          "profileUrl": "https://pflmma.com/mena-fighter/lilia-osmani-2",
+          "countryCode": "DZ",
+          "birthDate": "2005-04-20",
+          "record": "0-1-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "Amateur Catchweight",
         "oddsHistory": []
       }
     ],
@@ -7443,7 +7641,11 @@
         "red": {
           "name": "Shido Boris Esperança",
           "profileUrl": "https://pflmma.com/africa-fighter/shido-boris-esperana",
-          "odds": null
+          "odds": null,
+          "countryCode": "AO",
+          "birthDate": "1994-12-21",
+          "record": "13-2-0",
+          "style": null
         },
         "blue": {
           "name": "David Samuel",
@@ -7847,7 +8049,11 @@
         "blue": {
           "name": "Miracle Chipito",
           "profileUrl": "https://pflmma.com/wt-fighter/shelda-chipito",
-          "odds": null
+          "odds": null,
+          "countryCode": "ZM",
+          "birthDate": "1999-02-15",
+          "record": "2-0-0",
+          "style": null
         },
         "details": "Women's Strawweight",
         "oddsHistory": []

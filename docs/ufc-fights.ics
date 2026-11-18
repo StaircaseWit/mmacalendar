@@ -13,11 +13,11 @@ X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:ufc-fight-night-november-21-2026-fight-13194@ufc-detailed-calendar
 DTSTAMP:20260930T124052Z
-LAST-MODIFIED:20261116T155309Z
-SEQUENCE:4
-DTSTART:20261121T171500Z
-DTEND:20261121T174500Z
-SUMMARY:🥊 4. Aleksandre Topuria vs. Santiago Luna (estimated)
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:5
+DTSTART:20261121T173000Z
+DTEND:20261121T180000Z
+SUMMARY:🥊 6. Aleksandre Topuria vs. Santiago Luna (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Topuria: 
  7-1-0 | 30yo | Boxing | -240 (1.42)\n• Luna: 8-1-0 | 22yo | MMA | +233 (
@@ -36,11 +36,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-november-21-2026-fight-13200@ufc-detailed-calendar
 DTSTAMP:20261005T144716Z
-LAST-MODIFIED:20261116T155309Z
-SEQUENCE:3
-DTSTART:20261121T163000Z
-DTEND:20261121T170000Z
-SUMMARY:🥊 3. Shamil Gaziev vs. Tallison Teixeira (estimated)
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:4
+DTSTART:20261121T170000Z
+DTEND:20261121T173000Z
+SUMMARY:🥊 5. Shamil Gaziev vs. Tallison Teixeira (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 265lbs/120kg Heavyweight\n• Gaziev: 1
  5-3-0 | 36yo | MMA | -178 (1.56)\n• Teixeira: 9-2-0 | 26yo | Striker | +
@@ -59,11 +59,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-november-21-2026-fight-13196@ufc-detailed-calendar
 DTSTAMP:20260930T124052Z
-LAST-MODIFIED:20261116T155309Z
-SEQUENCE:4
-DTSTART:20261121T154500Z
-DTEND:20261121T161500Z
-SUMMARY:🥊 2. Amir Albazi vs. Alessandro Costa (estimated)
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:5
+DTSTART:20261121T163000Z
+DTEND:20261121T170000Z
+SUMMARY:🥊 4. Amir Albazi vs. Alessandro Costa (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 125lbs/57kg Flyweight\n• Albazi: 17-3
  -0 | 33yo | Jiu-Jitsu | +102 (2.02)\n• Costa: 17-5-0 | 30yo | Jiu-Jitsu 
@@ -82,11 +82,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-november-21-2026-fight-13193@ufc-detailed-calendar
 DTSTAMP:20260930T124052Z
-LAST-MODIFIED:20261116T155309Z
-SEQUENCE:4
-DTSTART:20261121T150000Z
-DTEND:20261121T153000Z
-SUMMARY:🥊 1. Jake Matthews vs. Tahir Abdullayev (estimated)
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:5
+DTSTART:20261121T160000Z
+DTEND:20261121T163000Z
+SUMMARY:🥊 3. Jake Matthews vs. Tahir Abdullayev (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Matthews:
   23-8-0 | 32yo | Freestyle | -230 (1.43)\n• Abdullayev: 20-3-0 | 29yo | 
@@ -96,6 +96,48 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ource: https://www.ufc.com/event/ufc-fight-night-november-21-2026\nMain ca
  lendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: 
  Rescheduled\; previously 21 Nov 2026
+LOCATION:ABHA Arena\, Doha\, Qatar
+URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-fight-night-november-21-2026-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-21-2026-fight-13262@ufc-detailed-calendar
+DTSTAMP:20261118T154408Z
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:0
+DTSTART:20261121T153000Z
+DTEND:20261121T160000Z
+SUMMARY:🥊 2. Nikolas Motta vs. Dom Mar Fan (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Motta: 15-
+ 6-0 | 33yo | Kickboxer\n• Mar Fan: 9-3-0 | 26yo | MMA\n• Odds history:
+  not checked yet\nEvent: UFC Fight Night: Prochazka vs Stirling\nSource: h
+ ttps://www.ufc.com/event/ufc-fight-night-november-21-2026\nMain calendar: 
+ https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Reschedu
+ led\; previously 21 Nov 2026
+LOCATION:ABHA Arena\, Doha\, Qatar
+URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-fight-night-november-21-2026-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-november-21-2026-fight-13263@ufc-detailed-calendar
+DTSTAMP:20261118T154408Z
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:0
+DTSTART:20261121T150000Z
+DTEND:20261121T153000Z
+SUMMARY:🥊 1. Diyar Nurgozhay vs. Alik Lorenz (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• Nurg
+ ozhay: 12-2-0 | 29yo\n• Lorenz: 1-1-0 | 29yo\n• Odds history: not chec
+ ked yet\nEvent: UFC Fight Night: Prochazka vs Stirling\nSource: https://ww
+ w.ufc.com/event/ufc-fight-night-november-21-2026\nMain calendar: https://s
+ taircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Rescheduled\; pre
+ viously 21 Nov 2026
 LOCATION:ABHA Arena\, Doha\, Qatar
 URL:https://www.ufc.com/event/ufc-fight-night-november-21-2026
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -478,11 +520,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-335-fight-13207@ufc-detailed-calendar
 DTSTAMP:20261007T133000Z
-LAST-MODIFIED:20261023T114422Z
-SEQUENCE:4
-DTSTART:20261213T033500Z
-DTEND:20261213T040500Z
-SUMMARY:🥊 5. Charles Oliveira vs. Diego Lopes (estimated)
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:5
+DTSTART:20261213T035000Z
+DTEND:20261213T042000Z
+SUMMARY:🥊 6. Charles Oliveira vs. Diego Lopes (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n•
   Oliveira: 37-11-0 | 37yo | Jiu-Jitsu | -150 (1.67)\n• Lopes: 28-8-0 | 3
@@ -501,11 +543,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-335-fight-13208@ufc-detailed-calendar
 DTSTAMP:20261007T133000Z
-LAST-MODIFIED:20261106T142126Z
-SEQUENCE:6
-DTSTART:20261213T021000Z
-DTEND:20261213T024000Z
-SUMMARY:🥊 4. Alex Pereira vs. Sergei Pavlovich (estimated)
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:7
+DTSTART:20261213T024000Z
+DTEND:20261213T031000Z
+SUMMARY:🥊 5. Alex Pereira vs. Sergei Pavlovich (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n
  • Pereira: 13-4-0 | 39yo | Kickboxer | +163 (2.63)\n• Pavlovich: 21-3-
@@ -525,11 +567,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-335-fight-13219@ufc-detailed-calendar
 DTSTAMP:20261014T115830Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:1
-DTSTART:20261213T005000Z
-DTEND:20261213T012000Z
-SUMMARY:🥊 3. Brandon Moreno vs. Charles Johnson (estimated)
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:2
+DTSTART:20261213T013000Z
+DTEND:20261213T020000Z
+SUMMARY:🥊 4. Brandon Moreno vs. Charles Johnson (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 125lbs/57kg Flyweight\n• M
  oreno: 24-10-2 | 33yo | Jiu-Jitsu\n• Johnson: 20-9-0 | 35yo\n• Odds hi
@@ -543,12 +585,32 @@ RELATED-TO:ufc-335-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:ufc-335-fight-13269@ufc-detailed-calendar
+DTSTAMP:20261118T154408Z
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:0
+DTSTART:20261213T002000Z
+DTEND:20261213T005000Z
+SUMMARY:🥊 3. Kyler Phillips vs. Ethyn Ewing (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n
+ • Phillips: 12-5-0 | 31yo\n• Ewing: 10-2-0 | 28yo | MMA\n• Odds hist
+ ory: not checked yet\nEvent: UFC 335: Oliveira vs Lopes\nSource: https://w
+ ww.ufc.com/event/ufc-335\nMain calendar: https://staircasewit.github.io/mm
+ acalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:T-Mobile Arena\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-335
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-335-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-335-fight-13223@ufc-detailed-calendar
 DTSTAMP:20261016T112942Z
-LAST-MODIFIED:20261016T112942Z
-SEQUENCE:0
-DTSTART:20261212T232500Z
-DTEND:20261212T235500Z
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:1
+DTSTART:20261212T231000Z
+DTEND:20261212T234000Z
 SUMMARY:🥊 2. Quentin Pasley vs. Junior Tafa (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 205lbs/93kg Light Heavyweigh
@@ -563,22 +625,19 @@ RELATED-TO:ufc-335-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-335-fight-13209@ufc-detailed-calendar
-DTSTAMP:20261007T133000Z
-LAST-MODIFIED:20261023T114422Z
-SEQUENCE:4
+UID:ufc-335-fight-13270@ufc-detailed-calendar
+DTSTAMP:20261118T154408Z
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:0
 DTSTART:20261212T220000Z
 DTEND:20261212T223000Z
-SUMMARY:🥊 1. Joe Pyfer vs. Bo Nickal (estimated)
+SUMMARY:🥊 1. Damian Pinas vs. Baisangur Susurkaev (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
- • Pyfer: 16-3-0 | 30yo | Boxing | -200 (1.50)\n• Nickal: 9-1-0 | 30yo 
- | Wrestler | +160 (2.60)\n• Odds history:\n  ◦ 9 Oct: Pyfer 🟢 -157 
- (1.64) | Nickal 🔴 +125 (2.25)\n  ◦ 12 Oct: Pyfer 🟢 -182 (1.55) | N
- ickal 🔴 +145 (2.45)\n  ◦ 23 Oct: Pyfer 🟢 -200 (1.50) | Nickal 🔴
-  +160 (2.60)\nEvent: UFC 335: Oliveira vs Lopes\nSource: https://www.ufc.c
- om/event/ufc-335\nMain calendar: https://staircasewit.github.io/mmacalenda
- r/ufc.ics\nEvent status: Scheduled
+ • Pinas: 11-1-0 | 24yo | MMA\n• Susurkaev: 12-0-0 | 25yo | Striker\n
+ • Odds history: not checked yet\nEvent: UFC 335: Oliveira vs Lopes\nSour
+ ce: https://www.ufc.com/event/ufc-335\nMain calendar: https://staircasewit
+ .github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -672,20 +731,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-336-fight-13231@ufc-detailed-calendar
 DTSTAMP:20261028T130115Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:2
-DTSTART:20270131T033000Z
-DTEND:20270131T040000Z
-SUMMARY:🥊 2. Joshua Van vs. Manel Kape (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 125lbs/57kg Flyweight · Title Bout\n
- • Van: 18-2-0 | 25yo | Freestyle | -121 (1.83)\n• Kape: 23-7-0 | 33yo 
- | MMA | +110 (2.10)\n• Odds history:\n  ◦ 26 Oct: Van 🟢 -121 (1.83)
-  | Kape 🔴 -103 (1.97)\n  ◦ 30 Oct: Van 🟢 -121 (1.83) | Kape 🔴 +
- 108 (2.08)\n  ◦ 9 Nov: Van 🟢 -121 (1.83) | Kape 🔴 +110 (2.10)\nEve
- nt: UFC 336: Van vs Kape\nSource: https://www.ufc.com/event/ufc-336\nMain 
- calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status
- : Rescheduled\; previously 31 Jan 2027
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:3
+DTSTART:20270131T033500Z
+DTEND:20270131T040500Z
+SUMMARY:🥊 5. Joshua Van vs. Manel Kape (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 125lbs/57kg Flyweight · Tit
+ le Bout\n• Van: 18-2-0 | 25yo | Freestyle | -121 (1.83)\n• Kape: 23-7-
+ 0 | 33yo | MMA | +110 (2.10)\n• Odds history:\n  ◦ 26 Oct: Van 🟢 -1
+ 21 (1.83) | Kape 🔴 -103 (1.97)\n  ◦ 30 Oct: Van 🟢 -121 (1.83) | Ka
+ pe 🔴 +108 (2.08)\n  ◦ 9 Nov: Van 🟢 -121 (1.83) | Kape 🔴 +110 (2
+ .10)\nEvent: UFC 336: Van vs Kape\nSource: https://www.ufc.com/event/ufc-3
+ 36\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEve
+ nt status: Rescheduled\; previously 31 Jan 2027
 LOCATION:Scotiabank Arena\, Toronto\, Canada
 URL:https://www.ufc.com/event/ufc-336
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -695,21 +754,81 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-336-fight-13232@ufc-detailed-calendar
 DTSTAMP:20261028T130115Z
-LAST-MODIFIED:20261109T162805Z
-SEQUENCE:3
-DTSTART:20270131T020000Z
-DTEND:20270131T023000Z
-SUMMARY:🥊 1. Carlos Prates vs. Michael Morales (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 170lbs/77kg Welterweight · Title Bou
- t\n• Prates: 24-7-0 | 33yo | Striker | -167 (1.60)\n• Morales: 19-0-0 
- | 27yo | Striker | +142 (2.42)\n• Odds history:\n  ◦ 30 Oct: Prates 
- 🟢 -138 (1.72) | Morales 🔴 +142 (2.42)\n  ◦ 6 Nov: Prates 🟢 -150
-  (1.67) | Morales 🔴 +142 (2.42)\n  ◦ 9 Nov: Prates 🟢 -167 (1.60) |
-  Morales 🔴 +142 (2.42)\n  ◦ Earlier changes: see full odds log\nEvent
- : UFC 336: Van vs Kape\nSource: https://www.ufc.com/event/ufc-336\nMain ca
- lendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: 
- Rescheduled\; previously 31 Jan 2027
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:4
+DTSTART:20270131T021000Z
+DTEND:20270131T024000Z
+SUMMARY:🥊 4. Carlos Prates vs. Michael Morales (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight · 
+ Title Bout\n• Prates: 24-7-0 | 33yo | Striker | -167 (1.60)\n• Morales
+ : 19-0-0 | 27yo | Striker | +142 (2.42)\n• Odds history:\n  ◦ 30 Oct: 
+ Prates 🟢 -138 (1.72) | Morales 🔴 +142 (2.42)\n  ◦ 6 Nov: Prates 
+ 🟢 -150 (1.67) | Morales 🔴 +142 (2.42)\n  ◦ 9 Nov: Prates 🟢 -167
+  (1.60) | Morales 🔴 +142 (2.42)\n  ◦ Earlier changes: see full odds l
+ og\nEvent: UFC 336: Van vs Kape\nSource: https://www.ufc.com/event/ufc-336
+ \nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent
+  status: Rescheduled\; previously 31 Jan 2027
+LOCATION:Scotiabank Arena\, Toronto\, Canada
+URL:https://www.ufc.com/event/ufc-336
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-336-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-336-fight-lance-gibson-jr--michael-johnson@ufc-detailed-calendar
+DTSTAMP:20261118T154408Z
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:0
+DTSTART:20270131T005000Z
+DTEND:20270131T012000Z
+SUMMARY:🥊 3. Lance Gibson Jr. vs. Michael Johnson (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n•
+  Gibson Jr.: 10-2-0 | 31yo\n• Johnson: 25-20-0 | 40yo | Boxing\n• Odds
+  history: not checked yet\nEvent: UFC 336: Van vs Kape\nSource: https://ww
+ w.ufc.com/event/ufc-336\nMain calendar: https://staircasewit.github.io/mma
+ calendar/ufc.ics\nEvent status: Rescheduled\; previously 31 Jan 2027
+LOCATION:Scotiabank Arena\, Toronto\, Canada
+URL:https://www.ufc.com/event/ufc-336
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-336-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-336-fight-louis-lee-scott-serhiy-sidey@ufc-detailed-calendar
+DTSTAMP:20261118T154408Z
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:0
+DTSTART:20270130T232500Z
+DTEND:20270130T235500Z
+SUMMARY:🥊 2. Serhiy Sidey vs. Louis Lee Scott (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n
+ • Sidey: 12-2-0 | 30yo | Freestyle\n• Lee Scott: 1-0-0 | 26yo\n• Odd
+ s history: not checked yet\nEvent: UFC 336: Van vs Kape\nSource: https://w
+ ww.ufc.com/event/ufc-336\nMain calendar: https://staircasewit.github.io/mm
+ acalendar/ufc.ics\nEvent status: Rescheduled\; previously 31 Jan 2027
+LOCATION:Scotiabank Arena\, Toronto\, Canada
+URL:https://www.ufc.com/event/ufc-336
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-336-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-336-fight-cam-nelson-sean-clancy-jr-@ufc-detailed-calendar
+DTSTAMP:20261118T154408Z
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:0
+DTSTART:20270130T220000Z
+DTEND:20270130T223000Z
+SUMMARY:🥊 1. Cam Nelson vs. Sean Clancy Jr. (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Nelson: 8-1-0 | 28yo | MMA\n• Clancy Jr.: 1-0-0 | 24yo\n• Odds his
+ tory: not checked yet\nEvent: UFC 336: Van vs Kape\nSource: https://www.uf
+ c.com/event/ufc-336\nMain calendar: https://staircasewit.github.io/mmacale
+ ndar/ufc.ics\nEvent status: Rescheduled\; previously 31 Jan 2027
 LOCATION:Scotiabank Arena\, Toronto\, Canada
 URL:https://www.ufc.com/event/ufc-336
 CATEGORIES:UFC,Estimated Fight,Main Card

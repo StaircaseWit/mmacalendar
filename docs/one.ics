@@ -1205,8 +1205,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a02cfece4595818bd34bd3e@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20260913T144507Z
-SEQUENCE:0
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:1
 DTSTART:20260710T113034Z
 DTEND:20260710T163029Z
 SUMMARY:ONE Friday Fights 161 & The Inner Circle 21
@@ -1247,19 +1247,20 @@ DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
  ppling\n• Arthinkong: Grappler\n• Han: Grappler\n\n🥊 5. 𝗠𝗶
  𝗻 𝗦𝘂𝗻𝗴 𝗞𝗮𝗻𝗴 vs. 𝗬𝘂𝘀𝗲𝗶 𝗜𝘄
  𝗮𝗸𝘂𝗿𝗮 🇯🇵\n• 170lbs/77.1kg Lightweight Mixed Martial
-  Arts\n\n🥊 4. 𝗝𝗼𝘀𝗵𝘂𝗮 𝗣𝗮𝗰𝗶𝗼 🇵🇭 vs
- . 𝗠𝗮𝗻𝘀𝘂𝗿 𝗠𝗮𝗹𝗮𝗰𝗵𝗶𝗲𝘃 🇷🇺\n
- • 125lbs/56.7kg Strawweight World Championship\n\n🥊 3. 𝗘𝗱𝘂
- 𝗮𝗿𝗱 𝗙𝗼𝗹𝗮𝘆𝗮𝗻𝗴 🇵🇭 vs. 𝗦𝗵𝗼
- 𝘇𝗼 𝗜𝘀𝗼𝗷𝗶𝗺𝗮 🇯🇵\n• 170lbs/77.1kg Lightwei
- ght Mixed Martial Arts\n\n🥊 2. 𝗗𝗲𝘁𝗰𝗵𝗮𝘄𝗮𝗹𝗶
- 𝘁 𝗦𝗶𝗹𝗸𝗺𝘂𝗮𝘆𝘁𝗵𝗮𝗶 🇹🇭 vs. 𝗧
- 𝗼𝗺 𝗖𝗮𝘀𝘀𝗲 🇫🇷\n• 145lbs/65.8kg Bantamweight Mua
- y Thai\n• Silkmuaythai: Striker\n• Casse: Striker\n\n🥊 1. 𝗘𝗹
- 𝗶𝗲𝘀 𝗔𝗯𝗱𝗲𝗹𝗮𝗹𝗶 🇫🇷 vs. 𝗔𝗹𝗶 
- 𝗞𝗲𝗹𝗮𝘁 🇹🇷\n• 155lbs/70.3kg Featherweight Muay Thai\n
- • Abdelali: Striker\n• Kelat: Striker\n\n-----------------------------
- ---\nSource: https://www.onefc.com/events/one-friday-fights-161/
+  Arts\n• Kang: ONE 1-0-0\n\n🥊 4. 𝗝𝗼𝘀𝗵𝘂𝗮 𝗣𝗮
+ 𝗰𝗶𝗼 🇵🇭 vs. 𝗠𝗮𝗻𝘀𝘂𝗿 𝗠𝗮𝗹𝗮𝗰
+ 𝗵𝗶𝗲𝘃 🇷🇺\n• 125lbs/56.7kg Strawweight World Championshi
+ p\n\n🥊 3. 𝗘𝗱𝘂𝗮𝗿𝗱 𝗙𝗼𝗹𝗮𝘆𝗮𝗻𝗴 
+ 🇵🇭 vs. 𝗦𝗵𝗼𝘇𝗼 𝗜𝘀𝗼𝗷𝗶𝗺𝗮 🇯🇵\n
+ • 170lbs/77.1kg Lightweight Mixed Martial Arts\n\n🥊 2. 𝗗𝗲𝘁
+ 𝗰𝗵𝗮𝘄𝗮𝗹𝗶𝘁 𝗦𝗶𝗹𝗸𝗺𝘂𝗮𝘆𝘁𝗵
+ 𝗮𝗶 🇹🇭 vs. 𝗧𝗼𝗺 𝗖𝗮𝘀𝘀𝗲 🇫🇷\n• 145l
+ bs/65.8kg Bantamweight Muay Thai\n• Silkmuaythai: Striker\n• Casse: St
+ riker\n\n🥊 1. 𝗘𝗹𝗶𝗲𝘀 𝗔𝗯𝗱𝗲𝗹𝗮𝗹𝗶 
+ 🇫🇷 vs. 𝗔𝗹𝗶 𝗞𝗲𝗹𝗮𝘁 🇹🇷\n• 155lbs/70.3kg
+  Featherweight Muay Thai\n• Abdelali: Striker\n• Kelat: Striker\n\n---
+ -----------------------------\nSource: https://www.onefc.com/events/one-fr
+ iday-fights-161/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-161-the-inner-circle
 CATEGORIES:ONE Championship
@@ -3024,8 +3025,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a8542c7328afe156d51ec22@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261113T143903Z
-SEQUENCE:4
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:5
 DTSTART:20261118T083035Z
 DTEND:20261118T143035Z
 SUMMARY:ONE Samurai 5
@@ -3053,20 +3054,20 @@ DESCRIPTION:ONE Championship · Complete Event · 10 bouts\n📍 EBARA WAVE
  etchfergus: ONE 4-2-0 | 40yo | Striker\n\n🥊 5. 𝗥𝘆𝘂𝗴𝗼 
  𝗧𝗮𝗸𝗲𝘂𝗰𝗵𝗶 🇯🇵 vs. 𝗕𝗿𝗮𝗻𝗱𝗼𝗻
   𝗛𝗮𝘀𝗵𝗶𝗺𝗼𝘁𝗼 🇯🇵\n• 265lbs/120.2kg Heavywe
- ight Mixed Martial Arts\n• Takeuchi: ONE 1-3-0 | 23yo\n\n🥊 4. 𝗬
+ ight Mixed Martial Arts\n• Takeuchi: ONE 1-3-0 | 23yo\n\n🥊 4. 𝗥
+ 𝗲𝗶𝗷𝗶 🇯🇵 vs. 𝗥𝘂𝗶 𝗕𝗼𝘁𝗲𝗹𝗵𝗼 
+ 🇵🇹\n• 125lbs/56.7kg Strawweight Kickboxing\n• Reiji: ONE 2-0-0 |
+  19yo | Striker\n• Botelho: ONE 4-7-0 | 31yo | Striker\n\n🥊 3. 𝗬
  𝘂𝗴𝗼 𝗞𝗮𝘁𝗼 🇯🇵 vs. 𝗝𝘂𝗿𝗮𝗶 𝗜𝘀
  𝗵𝗶𝗶 🇯🇵\n• 125lbs/56.7kg Strawweight Muay Thai\n• Kato: 
  ONE 2-0-0 | 27yo | Striker\n• Ishii: ONE 5-1-0 | 21yo | Striker\n\n🥊 
- 3. 𝗥𝗲𝗶𝗷𝗶 🇯🇵 vs. 𝗥𝘂𝗶 𝗕𝗼𝘁𝗲𝗹𝗵
- 𝗼 🇵🇹\n• 125lbs/56.7kg Strawweight Kickboxing\n• Reiji: ONE 2-
- 0-0 | 19yo | Striker\n• Botelho: ONE 4-7-0 | 31yo | Striker\n\n🥊 2. 
- 𝗚𝘂𝗺𝗽 🇯🇵 vs. 𝗦𝗵𝘂𝘁𝗼 𝗜𝗻𝘂𝗶 🇯
- 🇵\n• 145lbs/65.8kg Bantamweight Kickboxing\n• Gump: ONE 2-0-0 | 23y
- o | Striker\n• Inui: Striker\n\n🥊 1. 𝗦𝗵𝗼𝘀𝘂𝗸𝗲 
- 𝗞𝗶𝗻𝗼𝘀𝗵𝗶𝘁𝗮 🇯🇵 vs. 𝗧𝗮𝗸𝘂𝘆𝗮
-  𝗦𝗵𝗶𝗯𝗮𝗺𝘂𝗿𝗮 🇯🇵\n• 155lbs/70.3kg Featherw
- eight Mixed Martial Arts\n• Kinoshita: 30yo\n\n-------------------------
- -------\nSource: https://www.onefc.com/events/one-samurai-5/
+ 2. 𝗚𝘂𝗺𝗽 🇯🇵 vs. 𝗦𝗵𝘂𝘁𝗼 𝗜𝗻𝘂𝗶 
+ 🇯🇵\n• 145lbs/65.8kg Bantamweight Kickboxing\n• Gump: ONE 2-0-0 |
+  23yo | Striker\n• Inui: Striker\n\n🥊 1. 𝗦𝗵𝗼𝘀𝘂𝗸𝗲
+  𝗞𝗶𝗻𝗼𝘀𝗵𝗶𝘁𝗮 🇯🇵 vs. 𝗧𝗮𝗸𝘂𝘆
+ 𝗮 𝗦𝗵𝗶𝗯𝗮𝗺𝘂𝗿𝗮 🇯🇵\n• 155lbs/70.3kg Feat
+ herweight Mixed Martial Arts\n• Kinoshita: 30yo\n\n---------------------
+ -----------\nSource: https://www.onefc.com/events/one-samurai-5/
 LOCATION:EBARA WAVE Arena Ota\, Tokyo
 URL:https://watch.onefc.com/events/one-samurai-5
 CATEGORIES:ONE Championship
@@ -3075,24 +3076,70 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a968c7d10c90c3a3d15f98f@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261116T155309Z
-SEQUENCE:4
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:5
 DTSTART:20261120T113014Z
 DTEND:20261120T163014Z
 SUMMARY:ONE Friday Fights 179 & The Inner Circle 39
-DESCRIPTION:ONE Championship · Complete Event · 2 bouts\n📍 Lumpinee St
- adium\, Bangkok\nTimes display automatically in your calendar time zone.\n
- \n--------------------------------\n𝗕𝗢𝗨𝗧𝗦\n----------------
- ----------------\n\n🥊 2. 𝗔𝘀𝗮𝗱𝘂𝗹𝗮 𝗜𝗺𝗮𝗻
- 𝗴𝗮𝘇𝗮𝗹𝗶𝗲𝘃 🇷🇺 vs. 𝗔𝘀𝗹𝗮𝗺𝗷𝗼
- 𝗻 𝗢𝗿𝘁𝗶𝗸𝗼𝘃 🇺🇿\n• 135lbs/61.2kg Flyweight Wo
- rld Championship\n• Imangazaliev: ONE 9-0-0 | 23yo | Striker\n• Ortiko
- v: ONE 10-1-0 | 23yo | Striker\n\n🥊 1. 𝗕𝗹𝗮𝗰𝗸 𝗣𝗮
+DESCRIPTION:ONE Championship · Complete Event · 14 bouts\n📍 Lumpinee S
+ tadium\, Bangkok\nTimes display automatically in your calendar time zone.\
+ n\n--------------------------------\n𝗕𝗢𝗨𝗧𝗦\n---------------
+ -----------------\n\n🥊 14. 𝗖𝗵𝗮𝗿𝘁𝗽𝗮𝘆𝗮𝗸 
+ 𝗦𝗮𝗸𝘀𝗮𝘁𝗼𝗼𝗻 🇹🇭 vs. 𝗞𝗹𝗮𝗿𝗼𝗯
+  𝗡𝘂𝗶𝗖𝗮𝗳𝗲𝗯𝗼𝗿𝗮𝗻 🇹🇭\n• 135lbs/61.
+ 2kg Flyweight Muay Thai\n• Saksatoon: ONE 11-2-0 | 28yo | Striker\n• N
+ uiCafeboran: ONE 4-1-0 | 26yo | Striker\n\n🥊 13. 𝗪𝘂𝘁𝘁𝗶
+ 𝗸𝗿𝗮𝗶 𝗪𝗼𝗿 𝗖𝗵𝗮𝗸𝗿𝗮𝘄𝘂𝘁 🇹
+ 🇭 vs. 𝗦𝘂𝗽𝗲𝗿𝗷𝗲𝗻𝗴 𝗧𝗼𝗿𝗳𝘂𝗻𝗳
+ 𝗮𝗿𝗺 🇹🇭\n• 145lbs/65.8kg Bantamweight Muay Thai\n• Chakr
+ awut: ONE 5-2-0 | 25yo | Striker\n• Torfunfarm: ONE 2-2-0 | 21yo | Strik
+ er\n\n🥊 12. 𝗦𝘂𝗻𝘃𝗼 𝗧𝗼𝗿𝗳𝘂𝗻𝗳𝗮𝗿
+ 𝗺 🇹🇭 vs. 𝗥𝗮𝗵𝗶𝗺 𝗧𝗰𝗵𝗲𝗿𝗰𝗵𝗮
+ 𝗶𝗸𝗼 🇧🇪\n• 135lbs/61.2kg Flyweight Muay Thai\n• Torfunfa
+ rm: ONE 2-1-0 | 23yo | Striker\n• Tcherchaiko: ONE 2-0-0 | 22yo | Strike
+ r\n\n🥊 11. 𝗡𝗮𝘁𝘁𝘆 𝗗𝗼𝗱𝗱𝘀 🇹🇭/🇺🇸 
+ vs. 𝗖𝗵𝗮𝗹𝗮𝗺𝗸𝗮𝘄 𝗧𝗲𝗮𝗺𝗠𝗲𝗵𝗱
+ 𝗶𝗭𝗮𝘁𝗼𝘂𝘁 🇹🇭\n• 145lbs/65.8kg Bantamweight Muay
+  Thai\n• Dodds: Striker\n• TeamMehdiZatout: ONE 0-1-0 | 23yo | Striker
+ \n\n🥊 10. 𝗠𝗶𝗿𝗺𝗲𝗵𝘁𝗶 𝗠𝗶𝗿𝗶𝘆𝗲𝘃
+  vs. 𝗟𝘂𝘁𝗳𝘂𝗹𝗹𝗼 𝗦𝗼𝗵𝗶𝗯𝗻𝗮𝘇𝗮
+ 𝗿𝗼𝘃\n• 155lbs/70.3kg Featherweight Mixed Martial Arts\n\n🥊 9
+ . 𝗖𝗵𝗮𝗹𝗮𝗺𝗱𝗮𝗺 𝗬𝗼𝘁𝗵𝗮𝗿𝗮𝗸
+ 𝗺𝘂𝗮𝘆𝘁𝗵𝗮𝗶 🇹🇭 vs. 𝗖𝗵𝗮𝗶𝗵𝗲𝗻
+ 𝗴 𝗣𝗮𝘁𝗰𝗵𝗮𝗿𝗮𝗴𝘆𝗺 🇹🇭\n• 135lbs/61.
+ 2kg Flyweight Muay Thai\n• Yotharakmuaythai: Striker\n• Patcharagym: S
+ triker\n\n🥊 8. 𝗠𝗶𝗻 𝗦𝘂𝗻𝗴 𝗞𝗮𝗻𝗴 vs. 𝗛
+ 𝗲𝗿𝗼 𝗠𝗮𝗿𝗰𝗼 𝗠𝗮𝗻𝗴𝘂𝗿𝗮𝘆 🇵
+ 🇭\n• 170lbs/77.1kg Lightweight MMA\n• Kang: ONE 1-0-0\n• Manguray
+ : ONE 1-1-0 | 24yo\n\n🥊 7. 𝗞𝘄𝗮𝗻𝗸𝗵𝗮𝗼 𝗣𝗶
+ 𝘁𝗮𝗸𝗻𝗼𝗻𝗴𝗿𝘂𝗮 🇹🇭 vs. 𝗞𝗮𝗻𝗮 
+ 𝗢𝘀𝗵𝗶𝗸𝗮𝘄𝗮 🇯🇵\n• 115lbs/52.2kg Atomweight Mu
+ ay Thai\n• Pitaknongrua: Striker\n• Oshikawa: Striker\n\n🥊 6. 𝗦
+ 𝗵𝗲𝗻𝗴 𝗬𝗶 𝗬𝗮𝗻𝗴 🇨🇳 vs. 𝗙𝘂𝗴𝗮 
+ 𝗧𝗼𝗸𝗼𝗿𝗼 🇯🇵\n• 125lbs/56.7kg Strawweight Kickboxin
+ g\n• Yang: ONE 1-2-0 | 18yo | Striker\n• Tokoro: ONE 0-1-0 | 19yo | St
+ riker\n\n🥊 5. 𝗔𝘀𝗮𝗱𝘂𝗹𝗮 𝗜𝗺𝗮𝗻𝗴𝗮𝘇
+ 𝗮𝗹𝗶𝗲𝘃 🇷🇺 vs. 𝗔𝘀𝗹𝗮𝗺𝗷𝗼𝗻 𝗢
+ 𝗿𝘁𝗶𝗸𝗼𝘃 🇺🇿\n• 135lbs/61.2kg Flyweight Muay Thai W
+ orld Championship\n• Imangazaliev: ONE 9-0-0 | 23yo | Striker\n• Ortik
+ ov: ONE 10-1-0 | 23yo | Striker\n\n🥊 4. 𝗕𝗹𝗮𝗰𝗸 𝗣𝗮
  𝗻𝘁𝗵𝗲𝗿 🇹🇭 vs. 𝗨𝗯𝗮𝗶𝗱 𝗛𝘂𝘀𝘀
  𝗮𝗶𝗻 🇵🇰/🇬🇧\n• 135lbs/61.2kg Flyweight Muay Thai\n•
   Panther: ONE 6-1-0 | 26yo | Striker\n• Hussain: ONE 8-0-0 | 21yo | Stri
- ker\n\n--------------------------------\nSource: https://www.onefc.com/eve
- nts/one-friday-fights-179/
+ ker\n\n🥊 3. 𝗔𝘁𝘁𝗮𝗰𝗵𝗮𝗶 𝗞𝗲𝗹𝗮𝘀𝗽
+ 𝗼𝗿𝘁 🇹🇭 vs. 𝗣𝗲𝘁𝗻𝗮𝗺𝗸𝗵𝗼𝗻𝗴 
+ 𝗦𝗼𝗿 𝗠𝗮𝗻𝗲𝗲𝗸𝗵𝗼𝘁 🇱🇦\n• 125lbs/56.
+ 7kg Strawweight Muay Thai\n• Kelasport: ONE 3-0-0 | 24yo | Striker\n• 
+ Maneekhot: ONE 7-4-0 | 22yo | Striker\n\n🥊 2. 𝗔𝗹𝗲𝘀𝘀𝗶
+ 𝗼 𝗠𝗮𝗹𝗮𝘁𝗲𝘀𝘁𝗮 🇮🇹 vs. 𝗨𝘇𝗮𝗶
+ 𝗿 𝗜𝘀𝗺𝗼𝗶𝗹𝗷𝗼𝗻𝗼𝘃 🇺🇿\n• 155lbs/70.
+ 3kg Featherweight Muay Thai\n• Malatesta: ONE 3-4-0 | 25yo | Striker\n
+ • Ismoiljonov: ONE 2-2-0 | 27yo | Striker\n\n🥊 1. 𝗥𝗮𝗸 𝗘
+ 𝗿𝗮𝘄𝗮𝗻 🇹🇭 vs. 𝗦𝗮𝗹𝗮𝗶 𝗛𝘁𝗮𝗻 
+ 𝗞𝗵𝗲𝗲 𝗦𝗵𝗲𝗶𝗻 🇲🇲\n• 115lbs/52.2kg Atomweig
+ ht Muay Thai\n• Erawan: ONE 6-5-0 | 25yo | Striker\n• Shein: ONE 1-2-0
+  | 22yo | Striker\n\n--------------------------------\nSource: https://www
+ .onefc.com/events/one-friday-fights-179/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-179
 CATEGORIES:ONE Championship
@@ -3101,17 +3148,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6a968cbcd3539b67790ecd55@mma-calendar-one
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261030T130053Z
-SEQUENCE:1
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:2
 DTSTART:20261127T113011Z
 DTEND:20261127T163011Z
 SUMMARY:ONE Friday Fights 180 & The Inner Circle 40
-DESCRIPTION:ONE Championship · Complete Event · card details to be announ
- ced\n📍 Lumpinee Stadium\, Bangkok\nTimes display automatically in your 
- calendar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧
- 𝗦\n--------------------------------\n\nNo bouts announced yet.\n\n-----
- ---------------------------\nSource: https://watch.onefc.com/events/one-fr
- iday-fights-180
+DESCRIPTION:ONE Championship · Complete Event · 2 bouts\n📍 Lumpinee St
+ adium\, Bangkok\nTimes display automatically in your calendar time zone.\n
+ \n--------------------------------\n𝗕𝗢𝗨𝗧𝗦\n----------------
+ ----------------\n\n🥊 2. 𝗬𝗼𝗱𝗸𝗵𝘂𝗻𝗽𝗼𝗻 🇹
+ 🇭 vs. 𝗗𝗲𝘁𝗰𝗵𝗮𝘄𝗮𝗹𝗶𝘁 𝗦𝗶𝗹𝗸𝗺
+ 𝘂𝗮𝘆𝘁𝗵𝗮𝗶 🇹🇭\n• 145lbs/65.8kg Bantamweight Muay
+  Thai\n• Yodkhunpon: ONE 1-0-0 | 31yo | Striker\n• Silkmuaythai: ONE 5
+ -0-0 | 19yo | Striker\n\n🥊 1. 𝗪𝗼𝗿𝗮𝗽𝗼𝗻 𝗟𝘂𝗸
+ 𝗷𝗮𝗼𝗽𝗼𝗿𝗼𝗻𝗴𝘁𝗼𝗺 🇹🇭 vs. 𝗞𝗼𝗻
+ 𝗴𝗸𝗹𝗮𝗶 𝗦𝗼𝗿 𝗦𝗼𝗺𝗺𝗮𝗶 🇹🇭\n• 1
+ 45lbs/65.8kg Bantamweight Muay Thai\n• Lukjaoporongtom: ONE 9-6-0 | 23yo
+  | Striker\n• Sommai: Striker\n\n--------------------------------\nSourc
+ e: https://www.onefc.com/events/one-friday-fights-180/
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-180
 CATEGORIES:ONE Championship
@@ -3174,6 +3228,24 @@ DESCRIPTION:ONE Championship · Complete Event · card details to be announ
  iday-fights-182
 LOCATION:Lumpinee Stadium\, Bangkok
 URL:https://watch.onefc.com/events/one-friday-fights-182
+CATEGORIES:ONE Championship
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:691962b41a5f7bbe93610ca2@mma-calendar-one
+DTSTAMP:20261118T154408Z
+LAST-MODIFIED:20261118T154408Z
+SEQUENCE:0
+DTSTART:20261212T100000Z
+DTEND:20261212T160000Z
+SUMMARY:ONE 174: Shanghai
+DESCRIPTION:ONE Championship · Complete Event · card details to be announ
+ ced\n📍 Venue to be announced\nTimes display automatically in your calen
+ dar time zone.\n\n--------------------------------\n𝗕𝗢𝗨𝗧𝗦\n
+ --------------------------------\n\nNo bouts announced yet.\n\n-----------
+ ---------------------\nSource: https://watch.onefc.com/events/one-174
+LOCATION:
+URL:https://watch.onefc.com/events/one-174
 CATEGORIES:ONE Championship
 STATUS:CONFIRMED
 END:VEVENT

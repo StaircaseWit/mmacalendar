@@ -404,7 +404,7 @@
       "age": 23,
       "record": "2-1-0",
       "style": null,
-      "checkedAt": "2026-09-13T13:24:27.674Z"
+      "checkedAt": "2026-11-18T15:44:08.790Z"
     },
     "https://www.onefc.com/athletes/dansiam-weerasakreck/": {
       "country": "Thailand",
@@ -509,7 +509,7 @@
       "age": 25,
       "record": "6-5-0",
       "style": "Striker",
-      "checkedAt": "2026-09-13T13:26:38.921Z"
+      "checkedAt": "2026-11-18T15:44:08.790Z"
     },
     "https://www.onefc.com/athletes/hern-nf-looksuan/": {
       "country": "Thailand",
@@ -565,7 +565,7 @@
       "age": 25,
       "record": "5-2-0",
       "style": null,
-      "checkedAt": "2026-09-13T13:26:38.921Z"
+      "checkedAt": "2026-11-18T15:44:08.790Z"
     },
     "https://www.onefc.com/athletes/mohammad-habibpour/": {
       "country": "Iran",
@@ -712,7 +712,7 @@
       "age": 28,
       "record": "11-2-0",
       "style": null,
-      "checkedAt": "2026-09-13T13:29:50.544Z"
+      "checkedAt": "2026-11-18T15:44:08.790Z"
     },
     "https://www.onefc.com/athletes/isannuea-tor-tanjaroen/": {
       "country": "Thailand",
@@ -948,9 +948,9 @@
     "https://www.onefc.com/athletes/klarob-nuicafeboran/": {
       "country": "Thailand",
       "age": 26,
-      "record": "3-1-0",
+      "record": "4-1-0",
       "style": null,
-      "checkedAt": "2026-09-16T11:41:28.093Z"
+      "checkedAt": "2026-11-18T15:44:08.790Z"
     },
     "https://www.onefc.com/athletes/sornsueknoi-fa-group/": {
       "country": "Thailand",
@@ -1781,9 +1781,9 @@
     "https://www.onefc.com/athletes/attachai-kelasport/": {
       "country": "Thailand",
       "age": 24,
-      "record": "2-0-0",
+      "record": "3-0-0",
       "style": null,
-      "checkedAt": "2026-10-07T13:30:00.229Z"
+      "checkedAt": "2026-11-18T15:44:08.790Z"
     },
     "https://www.onefc.com/athletes/kojiro-shiba/": {
       "country": "Japan",
@@ -2736,6 +2736,132 @@
       "record": null,
       "style": null,
       "checkedAt": "2026-11-11T14:28:13.039Z"
+    },
+    "https://www.onefc.com/athletes/superjeng-tded99/": {
+      "country": "Thailand",
+      "age": 21,
+      "record": "2-2-0",
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://www.onefc.com/athletes/rahim-tcherchaiko/": {
+      "country": "Belgium",
+      "age": 22,
+      "record": "2-0-0",
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://www.onefc.com/athletes/natty-dodds/": {
+      "country": "Thailand / United States",
+      "age": null,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://www.onefc.com/athletes/chalamkaw-teammehdizatout/": {
+      "country": "Thailand",
+      "age": 23,
+      "record": "0-1-0",
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://www.onefc.com/athletes/chalamdam-yotharakmuaythai/": {
+      "country": "Thailand",
+      "age": null,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://www.onefc.com/athletes/chaiheng-patcharagym/": {
+      "country": "Thailand",
+      "age": null,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://www.onefc.com/athletes/min-sung-kang/": {
+      "country": null,
+      "age": null,
+      "record": "1-0-0",
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://www.onefc.com/athletes/hero-marco-manguray/": {
+      "country": "Philippines",
+      "age": 24,
+      "record": "1-1-0",
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://www.onefc.com/athletes/kwankhao-pitaknongrua/": {
+      "country": "Thailand",
+      "age": null,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://www.onefc.com/athletes/kana-oshikawa/": {
+      "country": "Japan",
+      "age": null,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://www.onefc.com/athletes/sheng-yi-yang/": {
+      "country": "China",
+      "age": 18,
+      "record": "1-2-0",
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://www.onefc.com/athletes/fuga-tokoro/": {
+      "country": "Japan",
+      "age": 19,
+      "record": "0-1-0",
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://www.onefc.com/athletes/petnamkhong-mongkolpet/": {
+      "country": "Laos",
+      "age": 22,
+      "record": "7-4-0",
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://www.onefc.com/athletes/alessio-malatesta/": {
+      "country": "Italy",
+      "age": 25,
+      "record": "3-4-0",
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://www.onefc.com/athletes/uzair-ismoiljonov/": {
+      "country": "Uzbekistan",
+      "age": 27,
+      "record": "2-2-0",
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://www.onefc.com/athletes/salai-htan-khee-shein/": {
+      "country": "Myanmar [Burma]",
+      "age": 22,
+      "record": "1-2-0",
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://www.onefc.com/athletes/yodkhunpon/": {
+      "country": "Thailand",
+      "age": 31,
+      "record": "1-0-0",
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://www.onefc.com/athletes/detchawalit-silkmuaythai/": {
+      "country": "Thailand",
+      "age": 19,
+      "record": "5-0-0",
+      "style": null,
+      "checkedAt": "2026-11-18T15:44:08.790Z"
     }
   }
 }
