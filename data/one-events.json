@@ -10938,7 +10938,7 @@
   {
     "uid": "6a8542c7328afe156d51ec22",
     "start": "20261118T083035Z",
-    "end": "20261118T143035Z",
+    "end": "20261118T124725Z",
     "summary": "ONE Samurai 5",
     "location": "EBARA WAVE Arena Ota, Tokyo",
     "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-samurai-5\n\nJoshua Pacio vs. Keito Yamakita | Strawweight World Championship\n\nRyujin Nasukawa vs. Raichi Nagai | Kickboxing | Strawweight\n\nTatsumitsu Wada vs. Jarred Brooks | Mixed Martial Arts | Strawweight\n\nMasashi Kumura vs. Ellis Badr Barboza | Kickboxing | Strawweight\n\nYutaro Asahi vs. Petchtanong Petchfergus | Kickboxing | Featherweight\n\nRyugo Takeuchi vs. Brandon  Hashimoto | Mixed Martial Arts | Heavyweight\n\nReiji vs. Rui Botelho | Kickboxing | Strawweight\n\nYugo Kato vs. Jurai Ishii | Muay Thai | Strawweight\n\nGump vs. Shuto Inui | Kickboxing | Bantamweight\n\nShosuke  Kinoshita vs. Takuya Shibamura | Mixed Martial Arts | Featherweight\n\nDownload the ONE Super App Now!",
@@ -10958,9 +10958,25 @@
         "blueAge": 30,
         "blueRecord": "6-1-0",
         "blueStyle": "Grappler",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-175",
+        "blueOdds": "+130",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Samurai 5",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-5-4464",
+            "promotion": "one",
+            "eventId": "6a8542c7328afe156d51ec22",
+            "odds": {
+              "joshua pacio": "-175",
+              "keito yamakita": "+130"
+            },
+            "names": {
+              "joshua pacio": "Joshua Pacio",
+              "keito yamakita": "Keito Yamakita"
+            }
+          }
+        ]
       },
       {
         "redName": "Ryujin Nasukawa",
@@ -10974,9 +10990,25 @@
         "redRecord": "1-0-0",
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-599",
+        "blueOdds": "+375",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Samurai 5",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-5-4464",
+            "promotion": "one",
+            "eventId": "6a8542c7328afe156d51ec22",
+            "odds": {
+              "ryujin nasukawa": "-599",
+              "raichi nagai": "+375"
+            },
+            "names": {
+              "ryujin nasukawa": "Ryujin Nasukawa",
+              "raichi nagai": "Raichi Nagai"
+            }
+          }
+        ]
       },
       {
         "redName": "Tatsumitsu Wada",
@@ -10992,9 +11024,25 @@
         "blueAge": 33,
         "blueRecord": "5-5-0",
         "blueStyle": "Grappler",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+130",
+        "blueOdds": "-175",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Samurai 5",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-5-4464",
+            "promotion": "one",
+            "eventId": "6a8542c7328afe156d51ec22",
+            "odds": {
+              "tatsumitsu wada": "+130",
+              "jarred brooks": "-175"
+            },
+            "names": {
+              "tatsumitsu wada": "Tatsumitsu Wada",
+              "jarred brooks": "Jarred Brooks"
+            }
+          }
+        ]
       },
       {
         "redName": "Masashi Kumura",
@@ -11009,9 +11057,25 @@
         "blueAge": 26,
         "blueRecord": "2-2-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-275",
+        "blueOdds": "+200",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Samurai 5",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-5-4464",
+            "promotion": "one",
+            "eventId": "6a8542c7328afe156d51ec22",
+            "odds": {
+              "masashi kumura": "-275",
+              "ellis badr barboza": "+200"
+            },
+            "names": {
+              "masashi kumura": "Masashi Kumura",
+              "ellis badr barboza": "Ellis Badr Barboza"
+            }
+          }
+        ]
       },
       {
         "redName": "Yutaro Asahi",
@@ -11027,9 +11091,25 @@
         "blueAge": 40,
         "blueRecord": "4-2-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-120",
+        "blueOdds": "-110",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Samurai 5",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-5-4464",
+            "promotion": "one",
+            "eventId": "6a8542c7328afe156d51ec22",
+            "odds": {
+              "yutaro asahi": "-120",
+              "petchtanong petchfergus": "-110"
+            },
+            "names": {
+              "yutaro asahi": "Yutaro Asahi",
+              "petchtanong petchfergus": "Petchtanong Petchfergus"
+            }
+          }
+        ]
       },
       {
         "redName": "Ryugo Takeuchi",
@@ -11041,9 +11121,25 @@
         "blueCountry": "Japan",
         "redAge": 23,
         "redRecord": "1-3-0",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-120",
+        "blueOdds": "-110",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Samurai 5",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-5-4464",
+            "promotion": "one",
+            "eventId": "6a8542c7328afe156d51ec22",
+            "odds": {
+              "ryugo takeuchi": "-120",
+              "brandon hashimoto": "-110"
+            },
+            "names": {
+              "ryugo takeuchi": "Ryugo Takeuchi",
+              "brandon hashimoto": "Brandon Hashimoto"
+            }
+          }
+        ]
       },
       {
         "redName": "Reiji",
@@ -11077,9 +11173,25 @@
         "blueAge": 21,
         "blueRecord": "5-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+110",
+        "blueOdds": "-150",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Samurai 5",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-5-4464",
+            "promotion": "one",
+            "eventId": "6a8542c7328afe156d51ec22",
+            "odds": {
+              "yugo kato": "+110",
+              "jurai ishii": "-150"
+            },
+            "names": {
+              "yugo kato": "Yugo Kato",
+              "jurai ishii": "Jurai Ishii"
+            }
+          }
+        ]
       },
       {
         "redName": "Gump",
@@ -11106,9 +11218,25 @@
         "redCountry": "Japan",
         "blueCountry": "Japan",
         "redAge": 30,
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-150",
+        "blueOdds": "+110",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Samurai 5",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-5-4464",
+            "promotion": "one",
+            "eventId": "6a8542c7328afe156d51ec22",
+            "odds": {
+              "shosuke kinoshita": "-150",
+              "takuya shibamura": "+110"
+            },
+            "names": {
+              "shosuke kinoshita": "Shosuke Kinoshita",
+              "takuya shibamura": "Takuya Shibamura"
+            }
+          }
+        ]
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-samurai-5/"
@@ -11119,7 +11247,7 @@
     "end": "20261120T163014Z",
     "summary": "ONE Friday Fights 179 & The Inner Circle 39",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-179\n\nChartpayak Saksatoon vs. Klarob NuiCafeboran | Muay Thai | Flyweight\n\nWuttikrai Wor Chakrawut vs. Superjeng Torfunfarm | Muay Thai | Bantamweight\n\nSunvo Torfunfarm vs. Rahim Tcherchaiko | Muay Thai | Flyweight\n\nNatty Dodds vs. Chalamkaw TeamMehdiZatout | Muay Thai | Bantamweight\n\nMirmehti Miriyev vs. Lutfullo Sohibnazarov | Mixed Martial Arts | Featherweight\n\nChalamdam Yotharakmuaythai vs. Chaiheng Patcharagym | Muay Thai | Flyweight\n\nMin Sung Kang vs. Hero Marco Manguray | Mixed Martial Arts | Lightweight\n\nKwankhao Pitaknongrua vs. Kana Oshikawa | Muay Thai | Atomweight\n\nSheng Yi Yang vs. Fuga Tokoro | Kickboxing | Strawweight\n\nAsadula Imangazaliev vs. Aslamjon Ortikov | Flyweight World Championship\n\nBlack Panther vs. Ubaid Hussain | Muay Thai | Flyweight\n\nAttachai Kelasport vs. Petnamkhong Sor Maneekhot  | Muay Thai | Strawweight\n\nAlessio Malatesta vs. Uzair Ismoiljonov | Muay Thai | Openweight\n\nRak  Erawan vs. Salai Htan Khee Shein | Muay Thai | Atomweight\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-179\n\nChartpayak Saksatoon vs. Klarob NuiCafeboran | Muay Thai | Flyweight\n\nWuttikrai Wor Chakrawut vs. Superjeng Torfunfarm | Muay Thai | Bantamweight\n\nSunvo Torfunfarm vs. Rahim Tcherchaiko | Muay Thai | Flyweight\n\nNatty Dodds vs. Chalamkaw TeamMehdiZatout | Muay Thai | Bantamweight\n\nMirmehti Miriyev vs. Lutfullo Sohibnazarov | Mixed Martial Arts | Featherweight\n\nChalamdam Yotharakmuaythai vs. Chaiheng Patcharagym | Muay Thai | Flyweight\n\nMin Sung Kang vs. Hero Marco Manguray | Mixed Martial Arts | Lightweight\n\nKwankhao Pitaknongrua vs. Kana Oshikawa | Muay Thai | Atomweight\n\nSheng Yi Yang vs. Fuga Tokoro | Kickboxing | Strawweight\n\nAsadula Imangazaliev vs. Aslamjon Ortikov | Flyweight World Championship\n\nBlack Panther vs. Ubaid Hussain | Muay Thai | Flyweight\n\nAttachai Kelasport vs. Petnamkhong Sor Maneekhot  | Muay Thai | Strawweight\n\nAlessio Malatesta vs. Uzair Ismoiljonov | Muay Thai | Featherweight\n\nRak  Erawan vs. Salai Htan Khee Shein | Muay Thai | Atomweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/one-friday-fights-179",
     "status": "CONFIRMED",
     "bouts": [
@@ -11137,9 +11265,25 @@
         "blueAge": 26,
         "blueRecord": "4-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-163",
+        "blueOdds": "+120",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+            "promotion": "one",
+            "eventId": "6a968c7d10c90c3a3d15f98f",
+            "odds": {
+              "chartpayak saksatoon": "-163",
+              "klarob nuicafeboran": "+120"
+            },
+            "names": {
+              "chartpayak saksatoon": "Chartpayak Saksatoon",
+              "klarob nuicafeboran": "Klarob NuiCafeboran"
+            }
+          }
+        ]
       },
       {
         "redName": "Wuttikrai Wor Chakrawut",
@@ -11155,9 +11299,25 @@
         "blueAge": 21,
         "blueRecord": "2-2-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-225",
+        "blueOdds": "+163",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+            "promotion": "one",
+            "eventId": "6a968c7d10c90c3a3d15f98f",
+            "odds": {
+              "wuttikrai wor chakrawut": "-225",
+              "superjeng torfunfarm": "+163"
+            },
+            "names": {
+              "wuttikrai wor chakrawut": "Wuttikrai Wor Chakrawut",
+              "superjeng torfunfarm": "Superjeng Torfunfarm"
+            }
+          }
+        ]
       },
       {
         "redName": "Sunvo Torfunfarm",
@@ -11173,9 +11333,25 @@
         "blueAge": 22,
         "blueRecord": "2-0-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-150",
+        "blueOdds": "+110",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+            "promotion": "one",
+            "eventId": "6a968c7d10c90c3a3d15f98f",
+            "odds": {
+              "sunvo torfunfarm": "-150",
+              "rahim tcherchaiko": "+110"
+            },
+            "names": {
+              "sunvo torfunfarm": "Sunvo Torfunfarm",
+              "rahim tcherchaiko": "Rahim Tcherchaiko"
+            }
+          }
+        ]
       },
       {
         "redName": "Natty Dodds",
@@ -11189,9 +11365,25 @@
         "blueAge": 23,
         "blueRecord": "0-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-138",
+        "blueOdds": "+105",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+            "promotion": "one",
+            "eventId": "6a968c7d10c90c3a3d15f98f",
+            "odds": {
+              "natty dodds": "-138",
+              "chalamkaw teammehdizatout": "+105"
+            },
+            "names": {
+              "natty dodds": "Natty Dodds",
+              "chalamkaw teammehdizatout": "Chalamkaw TeamMehdiZatout"
+            }
+          }
+        ]
       },
       {
         "redName": "Mirmehti Miriyev",
@@ -11211,9 +11403,25 @@
         "blueCountry": "Thailand",
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-125",
+        "blueOdds": "-105",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+            "promotion": "one",
+            "eventId": "6a968c7d10c90c3a3d15f98f",
+            "odds": {
+              "chalamdam yotharakmuaythai": "-125",
+              "chaiheng patcharagym": "-105"
+            },
+            "names": {
+              "chalamdam yotharakmuaythai": "Chalamdam Yotharakmuaythai",
+              "chaiheng patcharagym": "Chaiheng Patcharagym"
+            }
+          }
+        ]
       },
       {
         "redName": "Min Sung Kang",
@@ -11226,9 +11434,25 @@
         "redRecord": "1-0-0",
         "blueAge": 24,
         "blueRecord": "1-1-0",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+120",
+        "blueOdds": "-163",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+            "promotion": "one",
+            "eventId": "6a968c7d10c90c3a3d15f98f",
+            "odds": {
+              "min sung kang": "+120",
+              "hero marco manguray": "-163"
+            },
+            "names": {
+              "min sung kang": "Min Sung Kang",
+              "hero marco manguray": "Hero Marco Manguray"
+            }
+          }
+        ]
       },
       {
         "redName": "Kwankhao Pitaknongrua",
@@ -11240,9 +11464,25 @@
         "blueCountry": "Japan",
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+120",
+        "blueOdds": "-163",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+            "promotion": "one",
+            "eventId": "6a968c7d10c90c3a3d15f98f",
+            "odds": {
+              "kwankhao pitaknongrua": "+120",
+              "kana oshikawa": "-163"
+            },
+            "names": {
+              "kwankhao pitaknongrua": "Kwankhao Pitaknongrua",
+              "kana oshikawa": "Kana Oshikawa"
+            }
+          }
+        ]
       },
       {
         "redName": "Sheng Yi Yang",
@@ -11258,9 +11498,25 @@
         "blueAge": 19,
         "blueRecord": "0-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "+105",
+        "blueOdds": "-138",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+            "promotion": "one",
+            "eventId": "6a968c7d10c90c3a3d15f98f",
+            "odds": {
+              "sheng yi yang": "+105",
+              "fuga tokoro": "-138"
+            },
+            "names": {
+              "sheng yi yang": "Sheng Yi Yang",
+              "fuga tokoro": "Fuga Tokoro"
+            }
+          }
+        ]
       },
       {
         "redName": "Asadula Imangazaliev",
@@ -11276,9 +11532,25 @@
         "blueAge": 23,
         "blueRecord": "10-1-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-225",
+        "blueOdds": "+163",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+            "promotion": "one",
+            "eventId": "6a968c7d10c90c3a3d15f98f",
+            "odds": {
+              "asadula imangazaliev": "-225",
+              "aslamjon ortikov": "+163"
+            },
+            "names": {
+              "asadula imangazaliev": "Asadula Imangazaliev",
+              "aslamjon ortikov": "Aslamjon Ortikov"
+            }
+          }
+        ]
       },
       {
         "redName": "Black Panther",
@@ -11312,9 +11584,25 @@
         "blueAge": 22,
         "blueRecord": "7-4-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-150",
+        "blueOdds": "+110",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+            "promotion": "one",
+            "eventId": "6a968c7d10c90c3a3d15f98f",
+            "odds": {
+              "attachai kelasport": "-150",
+              "petnamkhong sor maneekhot": "+110"
+            },
+            "names": {
+              "attachai kelasport": "Attachai Kelasport",
+              "petnamkhong sor maneekhot": "Petnamkhong Sor Maneekhot"
+            }
+          }
+        ]
       },
       {
         "redName": "Alessio Malatesta",
@@ -11330,9 +11618,25 @@
         "blueAge": 27,
         "blueRecord": "2-2-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-175",
+        "blueOdds": "+130",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+            "promotion": "one",
+            "eventId": "6a968c7d10c90c3a3d15f98f",
+            "odds": {
+              "alessio malatesta": "-175",
+              "uzair ismoiljonov": "+130"
+            },
+            "names": {
+              "alessio malatesta": "Alessio Malatesta",
+              "uzair ismoiljonov": "Uzair Ismoiljonov"
+            }
+          }
+        ]
       },
       {
         "redName": "Rak Erawan",
@@ -11348,9 +11652,25 @@
         "blueAge": 22,
         "blueRecord": "1-2-0",
         "blueStyle": "Striker",
-        "redOdds": null,
-        "blueOdds": null,
-        "oddsHistory": []
+        "redOdds": "-250",
+        "blueOdds": "+175",
+        "oddsHistory": [
+          {
+            "checkedAt": "2026-11-20T15:31:40.369Z",
+            "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+            "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+            "promotion": "one",
+            "eventId": "6a968c7d10c90c3a3d15f98f",
+            "odds": {
+              "rak erawan": "-250",
+              "salai htan khee shein": "+175"
+            },
+            "names": {
+              "rak erawan": "Rak Erawan",
+              "salai htan khee shein": "Salai Htan Khee Shein"
+            }
+          }
+        ]
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-179/"
@@ -11391,13 +11711,15 @@
         "blueProfileUrl": "https://www.onefc.com/athletes/kongklai/",
         "redCountry": "Thailand",
         "blueCountry": "Thailand",
-        "redAge": 23,
+        "redAge": 24,
         "redRecord": "9-6-0",
         "redStyle": "Striker",
         "blueStyle": "Striker",
         "redOdds": null,
         "blueOdds": null,
-        "oddsHistory": []
+        "oddsHistory": [],
+        "blueAge": 28,
+        "blueRecord": "6-8-0"
       }
     ],
     "detailsUrl": "https://www.onefc.com/events/one-friday-fights-180/"
@@ -11438,10 +11760,66 @@
     "end": "20261204T163008Z",
     "summary": "ONE Friday Fights 181 & The Inner Circle 41",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-181\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-181\n\nSongchainoi Kiatsongrit vs. Rifdean Masdor | Muay Thai | Atomweight\n\nLamnamoonlek Torfunfarm vs. Panpayak Jitmuangnon | Kickboxing | Flyweight\n\nYonis Anane vs. Abdessamie Rhenimi | Muay Thai | Flyweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/one-friday-fights-181",
     "status": "CONFIRMED",
-    "bouts": []
+    "bouts": [
+      {
+        "redName": "Songchainoi Kiatsongrit",
+        "blueName": "Rifdean Masdor",
+        "details": "Atomweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/songchainoi-kiatsongrit/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/rifdean-masdor/",
+        "redCountry": "Thailand",
+        "blueCountry": "Malaysia",
+        "redAge": 26,
+        "redRecord": "10-4-0",
+        "redStyle": "Striker",
+        "blueAge": 24,
+        "blueRecord": "7-2-0",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Panpayak Jitmuangnon",
+        "blueName": "Lamnamoonlek Torfunfarm",
+        "details": "Flyweight Kickboxing",
+        "redProfileUrl": "https://www.onefc.com/athletes/panpayak/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/lamnamoonlek-tded99/",
+        "redCountry": "Thailand",
+        "blueCountry": "Thailand",
+        "redAge": 30,
+        "redRecord": "8-5-0",
+        "redStyle": "Striker",
+        "blueAge": 28,
+        "blueRecord": "4-2-0",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Yonis Anane",
+        "blueName": "Abdessamie Rhenimi",
+        "details": "Flyweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/yonis-anane/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/abdessamie-rhenimi/",
+        "redCountry": "France / Thailand",
+        "blueCountry": "Morocco",
+        "redAge": 19,
+        "redRecord": "4-2-0",
+        "redStyle": "Striker",
+        "blueAge": 20,
+        "blueRecord": "2-3-0",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      }
+    ],
+    "detailsUrl": "https://www.onefc.com/events/one-friday-fights-181/"
   },
   {
     "uid": "6a968d30d3539b67790ecd59",

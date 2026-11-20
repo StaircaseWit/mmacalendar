@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-16T15:53:09.022Z",
+  "lastCheckedAt": "2026-11-20T15:31:40.369Z",
   "fights": {
     "one::693657db2fbf6a23229602bf::selina flores--stamp fairtex": [
       {
@@ -3908,6 +3908,346 @@
         "names": {
           "aleksandra savicheva": "Aleksandra Savicheva",
           "jacinta austin": "Jacinta Austin"
+        }
+      }
+    ],
+    "one::6a968c7d10c90c3a3d15f98f::chartpayak saksatoon--klarob nuicafeboran": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+        "promotion": "one",
+        "eventId": "6a968c7d10c90c3a3d15f98f",
+        "odds": {
+          "chartpayak saksatoon": "-163",
+          "klarob nuicafeboran": "+120"
+        },
+        "names": {
+          "chartpayak saksatoon": "Chartpayak Saksatoon",
+          "klarob nuicafeboran": "Klarob NuiCafeboran"
+        }
+      }
+    ],
+    "one::6a968c7d10c90c3a3d15f98f::superjeng torfunfarm--wuttikrai wor chakrawut": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+        "promotion": "one",
+        "eventId": "6a968c7d10c90c3a3d15f98f",
+        "odds": {
+          "wuttikrai wor chakrawut": "-225",
+          "superjeng torfunfarm": "+163"
+        },
+        "names": {
+          "wuttikrai wor chakrawut": "Wuttikrai Wor Chakrawut",
+          "superjeng torfunfarm": "Superjeng Torfunfarm"
+        }
+      }
+    ],
+    "one::6a968c7d10c90c3a3d15f98f::rahim tcherchaiko--sunvo torfunfarm": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+        "promotion": "one",
+        "eventId": "6a968c7d10c90c3a3d15f98f",
+        "odds": {
+          "sunvo torfunfarm": "-150",
+          "rahim tcherchaiko": "+110"
+        },
+        "names": {
+          "sunvo torfunfarm": "Sunvo Torfunfarm",
+          "rahim tcherchaiko": "Rahim Tcherchaiko"
+        }
+      }
+    ],
+    "one::6a968c7d10c90c3a3d15f98f::chalamkaw teammehdizatout--natty dodds": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+        "promotion": "one",
+        "eventId": "6a968c7d10c90c3a3d15f98f",
+        "odds": {
+          "natty dodds": "-138",
+          "chalamkaw teammehdizatout": "+105"
+        },
+        "names": {
+          "natty dodds": "Natty Dodds",
+          "chalamkaw teammehdizatout": "Chalamkaw TeamMehdiZatout"
+        }
+      }
+    ],
+    "one::6a968c7d10c90c3a3d15f98f::chaiheng patcharagym--chalamdam yotharakmuaythai": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+        "promotion": "one",
+        "eventId": "6a968c7d10c90c3a3d15f98f",
+        "odds": {
+          "chalamdam yotharakmuaythai": "-125",
+          "chaiheng patcharagym": "-105"
+        },
+        "names": {
+          "chalamdam yotharakmuaythai": "Chalamdam Yotharakmuaythai",
+          "chaiheng patcharagym": "Chaiheng Patcharagym"
+        }
+      }
+    ],
+    "one::6a968c7d10c90c3a3d15f98f::hero marco manguray--min sung kang": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+        "promotion": "one",
+        "eventId": "6a968c7d10c90c3a3d15f98f",
+        "odds": {
+          "min sung kang": "+120",
+          "hero marco manguray": "-163"
+        },
+        "names": {
+          "min sung kang": "Min Sung Kang",
+          "hero marco manguray": "Hero Marco Manguray"
+        }
+      }
+    ],
+    "one::6a968c7d10c90c3a3d15f98f::kana oshikawa--kwankhao pitaknongrua": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+        "promotion": "one",
+        "eventId": "6a968c7d10c90c3a3d15f98f",
+        "odds": {
+          "kwankhao pitaknongrua": "+120",
+          "kana oshikawa": "-163"
+        },
+        "names": {
+          "kwankhao pitaknongrua": "Kwankhao Pitaknongrua",
+          "kana oshikawa": "Kana Oshikawa"
+        }
+      }
+    ],
+    "one::6a968c7d10c90c3a3d15f98f::fuga tokoro--sheng yi yang": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+        "promotion": "one",
+        "eventId": "6a968c7d10c90c3a3d15f98f",
+        "odds": {
+          "sheng yi yang": "+105",
+          "fuga tokoro": "-138"
+        },
+        "names": {
+          "sheng yi yang": "Sheng Yi Yang",
+          "fuga tokoro": "Fuga Tokoro"
+        }
+      }
+    ],
+    "one::6a968c7d10c90c3a3d15f98f::asadula imangazaliev--aslamjon ortikov": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+        "promotion": "one",
+        "eventId": "6a968c7d10c90c3a3d15f98f",
+        "odds": {
+          "asadula imangazaliev": "-225",
+          "aslamjon ortikov": "+163"
+        },
+        "names": {
+          "asadula imangazaliev": "Asadula Imangazaliev",
+          "aslamjon ortikov": "Aslamjon Ortikov"
+        }
+      }
+    ],
+    "one::6a968c7d10c90c3a3d15f98f::attachai kelasport--petnamkhong sor maneekhot": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+        "promotion": "one",
+        "eventId": "6a968c7d10c90c3a3d15f98f",
+        "odds": {
+          "attachai kelasport": "-150",
+          "petnamkhong sor maneekhot": "+110"
+        },
+        "names": {
+          "attachai kelasport": "Attachai Kelasport",
+          "petnamkhong sor maneekhot": "Petnamkhong Sor Maneekhot"
+        }
+      }
+    ],
+    "one::6a968c7d10c90c3a3d15f98f::alessio malatesta--uzair ismoiljonov": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+        "promotion": "one",
+        "eventId": "6a968c7d10c90c3a3d15f98f",
+        "odds": {
+          "alessio malatesta": "-175",
+          "uzair ismoiljonov": "+130"
+        },
+        "names": {
+          "alessio malatesta": "Alessio Malatesta",
+          "uzair ismoiljonov": "Uzair Ismoiljonov"
+        }
+      }
+    ],
+    "one::6a968c7d10c90c3a3d15f98f::rak erawan--salai htan khee shein": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Friday Fights 179 & The Inner Circle 39",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-179-4467",
+        "promotion": "one",
+        "eventId": "6a968c7d10c90c3a3d15f98f",
+        "odds": {
+          "rak erawan": "-250",
+          "salai htan khee shein": "+175"
+        },
+        "names": {
+          "rak erawan": "Rak Erawan",
+          "salai htan khee shein": "Salai Htan Khee Shein"
+        }
+      }
+    ],
+    "one::6a8542c7328afe156d51ec22::raichi nagai--ryujin nasukawa": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Samurai 5",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-5-4464",
+        "promotion": "one",
+        "eventId": "6a8542c7328afe156d51ec22",
+        "odds": {
+          "ryujin nasukawa": "-599",
+          "raichi nagai": "+375"
+        },
+        "names": {
+          "ryujin nasukawa": "Ryujin Nasukawa",
+          "raichi nagai": "Raichi Nagai"
+        }
+      }
+    ],
+    "one::6a8542c7328afe156d51ec22::petchtanong petchfergus--yutaro asahi": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Samurai 5",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-5-4464",
+        "promotion": "one",
+        "eventId": "6a8542c7328afe156d51ec22",
+        "odds": {
+          "yutaro asahi": "-120",
+          "petchtanong petchfergus": "-110"
+        },
+        "names": {
+          "yutaro asahi": "Yutaro Asahi",
+          "petchtanong petchfergus": "Petchtanong Petchfergus"
+        }
+      }
+    ],
+    "one::6a8542c7328afe156d51ec22::joshua pacio--keito yamakita": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Samurai 5",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-5-4464",
+        "promotion": "one",
+        "eventId": "6a8542c7328afe156d51ec22",
+        "odds": {
+          "joshua pacio": "-175",
+          "keito yamakita": "+130"
+        },
+        "names": {
+          "joshua pacio": "Joshua Pacio",
+          "keito yamakita": "Keito Yamakita"
+        }
+      }
+    ],
+    "one::6a8542c7328afe156d51ec22::jarred brooks--tatsumitsu wada": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Samurai 5",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-5-4464",
+        "promotion": "one",
+        "eventId": "6a8542c7328afe156d51ec22",
+        "odds": {
+          "tatsumitsu wada": "+130",
+          "jarred brooks": "-175"
+        },
+        "names": {
+          "tatsumitsu wada": "Tatsumitsu Wada",
+          "jarred brooks": "Jarred Brooks"
+        }
+      }
+    ],
+    "one::6a8542c7328afe156d51ec22::ellis badr barboza--masashi kumura": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Samurai 5",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-5-4464",
+        "promotion": "one",
+        "eventId": "6a8542c7328afe156d51ec22",
+        "odds": {
+          "masashi kumura": "-275",
+          "ellis badr barboza": "+200"
+        },
+        "names": {
+          "masashi kumura": "Masashi Kumura",
+          "ellis badr barboza": "Ellis Badr Barboza"
+        }
+      }
+    ],
+    "one::6a8542c7328afe156d51ec22::brandon hashimoto--ryugo takeuchi": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Samurai 5",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-5-4464",
+        "promotion": "one",
+        "eventId": "6a8542c7328afe156d51ec22",
+        "odds": {
+          "ryugo takeuchi": "-120",
+          "brandon hashimoto": "-110"
+        },
+        "names": {
+          "ryugo takeuchi": "Ryugo Takeuchi",
+          "brandon hashimoto": "Brandon Hashimoto"
+        }
+      }
+    ],
+    "one::6a8542c7328afe156d51ec22::jurai ishii--yugo kato": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Samurai 5",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-5-4464",
+        "promotion": "one",
+        "eventId": "6a8542c7328afe156d51ec22",
+        "odds": {
+          "yugo kato": "+110",
+          "jurai ishii": "-150"
+        },
+        "names": {
+          "yugo kato": "Yugo Kato",
+          "jurai ishii": "Jurai Ishii"
+        }
+      }
+    ],
+    "one::6a8542c7328afe156d51ec22::shosuke kinoshita--takuya shibamura": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "ONE Samurai 5",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-samurai-5-4464",
+        "promotion": "one",
+        "eventId": "6a8542c7328afe156d51ec22",
+        "odds": {
+          "shosuke kinoshita": "-150",
+          "takuya shibamura": "+110"
+        },
+        "names": {
+          "shosuke kinoshita": "Shosuke Kinoshita",
+          "takuya shibamura": "Takuya Shibamura"
         }
       }
     ]

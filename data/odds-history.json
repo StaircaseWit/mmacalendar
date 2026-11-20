@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-16T15:53:09.022Z",
+  "lastCheckedAt": "2026-11-20T15:31:40.369Z",
   "fights": {
     "ufc-fight-night-september-12-2026::edgar chairez--tim elliott": [
       {
@@ -4362,6 +4362,19 @@
           "jiri prochazka": "Jiří Procházka",
           "navajo stirling": "Navajo Stirling"
         }
+      },
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "UFC Fight Night: Prochazka vs Stirling",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-doha-4440",
+        "odds": {
+          "jiri prochazka": "+156",
+          "navajo stirling": "-162"
+        },
+        "names": {
+          "jiri prochazka": "Jiří Procházka",
+          "navajo stirling": "Navajo Stirling"
+        }
       }
     ],
     "ufc-fight-night-february-06-2027::benoit saint denis--quillan salkilld": [
@@ -4390,6 +4403,19 @@
           "quillan salkilld": "Quillan Salkilld",
           "benoit saint denis": "Benoît Saint Denis"
         }
+      },
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "UFC Fight Night: Salkilld vs Saint Denis",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-sydney-4436",
+        "odds": {
+          "quillan salkilld": "-275",
+          "benoit saint denis": "+255"
+        },
+        "names": {
+          "quillan salkilld": "Quillan Salkilld",
+          "benoit saint denis": "Benoît Saint Denis"
+        }
       }
     ],
     "ufc-fight-night-november-21-2026::aljamain sterling--kevin vallejos": [
@@ -4413,6 +4439,19 @@
         "odds": {
           "aljamain sterling": "+125",
           "kevin vallejos": "-127"
+        },
+        "names": {
+          "aljamain sterling": "Aljamain Sterling",
+          "kevin vallejos": "Kevin Vallejos"
+        }
+      },
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "UFC Fight Night: Prochazka vs Stirling",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-doha-4440",
+        "odds": {
+          "aljamain sterling": "+122",
+          "kevin vallejos": "-125"
         },
         "names": {
           "aljamain sterling": "Aljamain Sterling",
@@ -4461,6 +4500,19 @@
           "aleksandre topuria": "Aleksandre Topuria",
           "santiago luna": "Santiago Luna"
         }
+      },
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "UFC Fight Night: Prochazka vs Stirling",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-doha-4440",
+        "odds": {
+          "aleksandre topuria": "-275",
+          "santiago luna": "+270"
+        },
+        "names": {
+          "aleksandre topuria": "Aleksandre Topuria",
+          "santiago luna": "Santiago Luna"
+        }
       }
     ],
     "ufc-fight-night-november-21-2026::shamil gaziev--tallison teixeira": [
@@ -4489,6 +4541,19 @@
           "shamil gaziev": "Shamil Gaziev",
           "tallison teixeira": "Tallison Teixeira"
         }
+      },
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "UFC Fight Night: Prochazka vs Stirling",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-doha-4440",
+        "odds": {
+          "shamil gaziev": "-186",
+          "tallison teixeira": "+178"
+        },
+        "names": {
+          "shamil gaziev": "Shamil Gaziev",
+          "tallison teixeira": "Tallison Teixeira"
+        }
       }
     ],
     "ufc-fight-night-november-21-2026::alessandro costa--amir albazi": [
@@ -4511,6 +4576,19 @@
         "sourceUrl": "https://www.bestfightodds.com/events/ufc-doha-4440",
         "odds": {
           "amir albazi": "+102",
+          "alessandro costa": "-104"
+        },
+        "names": {
+          "amir albazi": "Amir Albazi",
+          "alessandro costa": "Alessandro Costa"
+        }
+      },
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "UFC Fight Night: Prochazka vs Stirling",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-doha-4440",
+        "odds": {
+          "amir albazi": "-100",
           "alessandro costa": "-104"
         },
         "names": {
@@ -4545,6 +4623,19 @@
           "jake matthews": "Jake Matthews",
           "tahir abdullayev": "Tahir Abdullayev"
         }
+      },
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "UFC Fight Night: Prochazka vs Stirling",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-doha-4440",
+        "odds": {
+          "jake matthews": "-233",
+          "tahir abdullayev": "+223"
+        },
+        "names": {
+          "jake matthews": "Jake Matthews",
+          "tahir abdullayev": "Tahir Abdullayev"
+        }
       }
     ],
     "ufc-fight-night-november-21-2026::brian ortega--dan hooker": [
@@ -4568,6 +4659,19 @@
         "odds": {
           "dan hooker": "-156",
           "brian ortega": "+160"
+        },
+        "names": {
+          "dan hooker": "Dan Hooker",
+          "brian ortega": "Brian Ortega"
+        }
+      },
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "UFC Fight Night: Prochazka vs Stirling",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-doha-4440",
+        "odds": {
+          "dan hooker": "-178",
+          "brian ortega": "+170"
         },
         "names": {
           "dan hooker": "Dan Hooker",
@@ -4629,6 +4733,19 @@
           "jared cannonier": "Jared Cannonier",
           "ikram aliskerov": "Ikram Aliskerov"
         }
+      },
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "UFC Fight Night: Prochazka vs Stirling",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-doha-4440",
+        "odds": {
+          "jared cannonier": "+257",
+          "ikram aliskerov": "-270"
+        },
+        "names": {
+          "jared cannonier": "Jared Cannonier",
+          "ikram aliskerov": "Ikram Aliskerov"
+        }
       }
     ],
     "ufc-fight-night-december-05-2026::israel adesanya--shara magomedov": [
@@ -4652,6 +4769,19 @@
         "odds": {
           "israel adesanya": "-150",
           "shara magomedov": "+130"
+        },
+        "names": {
+          "israel adesanya": "Israel Adesanya",
+          "shara magomedov": "Shara Magomedov"
+        }
+      },
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+        "odds": {
+          "israel adesanya": "-157",
+          "shara magomedov": "+140"
         },
         "names": {
           "israel adesanya": "Israel Adesanya",
@@ -4685,6 +4815,19 @@
           "ian machado garry": "Ian Machado Garry",
           "yaroslav amosov": "Yaroslav Amosov"
         }
+      },
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+        "odds": {
+          "ian machado garry": "-175",
+          "yaroslav amosov": "+155"
+        },
+        "names": {
+          "ian machado garry": "Ian Machado Garry",
+          "yaroslav amosov": "Yaroslav Amosov"
+        }
       }
     ],
     "ufc-fight-night-february-06-2027::bogdan guskov--robert whittaker": [
@@ -4712,6 +4855,64 @@
         "names": {
           "bogdan guskov": "Bogdan Guskov",
           "robert whittaker": "Robert Whittaker"
+        }
+      },
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "UFC Fight Night: Salkilld vs Saint Denis",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-sydney-4436",
+        "odds": {
+          "bogdan guskov": "+120",
+          "robert whittaker": "-138"
+        },
+        "names": {
+          "bogdan guskov": "Bogdan Guskov",
+          "robert whittaker": "Robert Whittaker"
+        }
+      }
+    ],
+    "ufc-fight-night-november-21-2026::dom mar fan--nikolas motta": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "UFC Fight Night: Prochazka vs Stirling",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-doha-4440",
+        "odds": {
+          "nikolas motta": "+144",
+          "dom mar fan": "-150"
+        },
+        "names": {
+          "nikolas motta": "Nikolas Motta",
+          "dom mar fan": "Dom Mar Fan"
+        }
+      }
+    ],
+    "ufc-fight-night-november-21-2026::alik lorenz--diyar nurgozhay": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "UFC Fight Night: Prochazka vs Stirling",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-doha-4440",
+        "odds": {
+          "diyar nurgozhay": "-223",
+          "alik lorenz": "+213"
+        },
+        "names": {
+          "diyar nurgozhay": "Diyar Nurgozhay",
+          "alik lorenz": "Alik Lorenz"
+        }
+      }
+    ],
+    "ufc-fight-night-november-21-2026::john mitchell--shoaib yousaf": [
+      {
+        "checkedAt": "2026-11-20T15:31:40.369Z",
+        "eventName": "UFC Fight Night: Prochazka vs Stirling",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-doha-4440",
+        "odds": {
+          "shoaib yousaf": "+138",
+          "john mitchell": "-125"
+        },
+        "names": {
+          "shoaib yousaf": "Shoaib Yousaf",
+          "john mitchell": "John Mitchell"
         }
       }
     ]

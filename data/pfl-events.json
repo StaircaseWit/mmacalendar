@@ -7660,32 +7660,8 @@
         "oddsHistory": []
       },
       {
-        "id": "1675",
-        "order": 4,
-        "red": {
-          "name": "Juliet Ukah",
-          "profileUrl": "https://pflmma.com/africa-fighter/juliet-ukah",
-          "countryCode": "NG",
-          "birthDate": "1999-05-25",
-          "record": "9-1-0",
-          "style": null,
-          "odds": null
-        },
-        "blue": {
-          "name": "Benita Van Rooij",
-          "profileUrl": "https://pflmma.com/africa-fighter/benita-vanrooij",
-          "countryCode": "NL",
-          "birthDate": "1998-11-08",
-          "record": "7-2-0",
-          "style": null,
-          "odds": null
-        },
-        "details": "Women's Strawweight",
-        "oddsHistory": []
-      },
-      {
         "id": "1671",
-        "order": 3,
+        "order": 4,
         "red": {
           "name": "Dwight Joseph",
           "profileUrl": "https://pflmma.com/africa-fighter/dwight-joseph",
@@ -7705,6 +7681,30 @@
           "odds": null
         },
         "details": "135lbs/61kg Bantamweight · Finals",
+        "oddsHistory": []
+      },
+      {
+        "id": "1675",
+        "order": 3,
+        "red": {
+          "name": "Juliet Ukah",
+          "profileUrl": "https://pflmma.com/africa-fighter/juliet-ukah",
+          "countryCode": "NG",
+          "birthDate": "1999-05-25",
+          "record": "9-1-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Benita Van Rooij",
+          "profileUrl": "https://pflmma.com/africa-fighter/benita-vanrooij",
+          "countryCode": "NL",
+          "birthDate": "1998-11-08",
+          "record": "7-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "Women's Strawweight",
         "oddsHistory": []
       },
       {
@@ -7796,7 +7796,7 @@
     "bouts": [
       {
         "id": "1585",
-        "order": 11,
+        "order": 13,
         "red": {
           "name": "Taylor Lapilus",
           "profileUrl": "https://pflmma.com/wt-fighter/taylor-lapilus",
@@ -7820,7 +7820,7 @@
       },
       {
         "id": "1589",
-        "order": 10,
+        "order": 12,
         "red": {
           "name": "Boris Atangana",
           "profileUrl": "https://pflmma.com/wt-fighter/boris-atangana",
@@ -7844,7 +7844,7 @@
       },
       {
         "id": "1600",
-        "order": 9,
+        "order": 11,
         "red": {
           "name": "Abdoul Abdouraguimov",
           "profileUrl": "https://pflmma.com/wt-fighter/abdoul-abdouraguimov",
@@ -7868,7 +7868,7 @@
       },
       {
         "id": "1680",
-        "order": 8,
+        "order": 10,
         "red": {
           "name": "Oualy Tandia",
           "profileUrl": "https://pflmma.com/wt-fighter/oualy-tandia",
@@ -7892,7 +7892,7 @@
       },
       {
         "id": "1601",
-        "order": 7,
+        "order": 9,
         "red": {
           "name": "Fabian Edwards",
           "profileUrl": "https://pflmma.com/wt-fighter/fabian-edwards",
@@ -7915,8 +7915,32 @@
         "oddsHistory": []
       },
       {
+        "id": "1689",
+        "order": 8,
+        "red": {
+          "name": "Baris Adiguzel",
+          "profileUrl": "https://pflmma.com/wt-fighter/baris-adiguzel",
+          "countryCode": "FR",
+          "birthDate": "1999-04-30",
+          "record": "10-2-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Jack Cartwright",
+          "profileUrl": "https://pflmma.com/wt-fighter/jack-cartwright",
+          "countryCode": "GB",
+          "birthDate": "1994-05-25",
+          "record": "14-2-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "135lbs/61kg Bantamweight",
+        "oddsHistory": []
+      },
+      {
         "id": "1673",
-        "order": 6,
+        "order": 7,
         "red": {
           "name": "Bafode Gassama",
           "profileUrl": "https://pflmma.com/wt-fighter/bafode-gassama",
@@ -7940,7 +7964,7 @@
       },
       {
         "id": "1678",
-        "order": 5,
+        "order": 6,
         "red": {
           "name": "Dean Garnett",
           "profileUrl": "https://pflmma.com/wt-fighter/dean-garnett",
@@ -7964,7 +7988,7 @@
       },
       {
         "id": "1683",
-        "order": 4,
+        "order": 5,
         "red": {
           "name": "Mauricio Partida",
           "profileUrl": "https://pflmma.com/wt-fighter/mauricio-partida",
@@ -7988,7 +8012,7 @@
       },
       {
         "id": "1619",
-        "order": 3,
+        "order": 4,
         "red": {
           "name": "Brandon Brachet",
           "profileUrl": "https://pflmma.com/wt-fighter/brandon-brachet",
@@ -8012,7 +8036,7 @@
       },
       {
         "id": "1682",
-        "order": 2,
+        "order": 3,
         "red": {
           "name": "Zakaria Hamou",
           "profileUrl": "https://pflmma.com/wt-fighter/zakaria-hamou",
@@ -8032,6 +8056,30 @@
           "odds": null
         },
         "details": "145lbs/66kg Featherweight",
+        "oddsHistory": []
+      },
+      {
+        "id": "1690",
+        "order": 2,
+        "red": {
+          "name": "Lorenzo Parente",
+          "profileUrl": "https://pflmma.com/wt-fighter/lorenzo-parente",
+          "countryCode": null,
+          "birthDate": "2000-12-27",
+          "record": "4-0-0",
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Stiven Shehu",
+          "profileUrl": "https://pflmma.com/wt-fighter/stiven-shehu",
+          "countryCode": null,
+          "birthDate": null,
+          "record": "4-1-0",
+          "style": null,
+          "odds": null
+        },
+        "details": "155lbs/70kg Lightweight",
         "oddsHistory": []
       },
       {

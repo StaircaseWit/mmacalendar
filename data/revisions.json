@@ -242,10 +242,10 @@
       "lastModified": "2026-11-13T14:39:03.976Z"
     },
     "ufc:split:ufc-335:early-prelims": {
-      "hash": "9809c208cb63d18f57b032b35f55060ba82b7e12f901fd0e5fef211a61c67023",
-      "sequence": 4,
+      "hash": "525ac37ed58575b510677d30ddc821b46a09d319b558eda1ad5beb67c540046c",
+      "sequence": 5,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:split:ufc-335:prelims": {
       "hash": "25c7dbaa723d800d0c9d2ebe0d9da04474367b49551ba58a633c04f86006aace",
@@ -254,10 +254,10 @@
       "lastModified": "2026-11-18T15:44:08.790Z"
     },
     "ufc:split:ufc-335:main-card": {
-      "hash": "026495845d5a0b5844f22005bd58c269c070a7cc1caddd4f904e0059b3474dd6",
-      "sequence": 11,
+      "hash": "62089c7606280263be6eb7e846c7ecd98c386c52628c83f71a3e3a3351bf632c",
+      "sequence": 12,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:combined:ufc-fight-night-july-25-2026": {
       "hash": "7c3b2814be3db231e56a55eed627c8812053b769f0441f73c331d26f6b6f1971",
@@ -368,10 +368,10 @@
       "lastModified": "2026-11-13T14:39:03.976Z"
     },
     "ufc:combined:ufc-335": {
-      "hash": "1342c72429e1c9814bf3b1c3e3f1400c183f3ded070907386a2163aa44476b09",
-      "sequence": 11,
+      "hash": "2a8cc9a25f39978a5c5ec37da0352fe8d087699176990e3b93fda5b40eea0579",
+      "sequence": 12,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "one:6936559154637b71645f64ff": {
       "hash": "ebe8f6753952813e10644bde45bcf8672266712b5124c75842055dd22d0454bb",
@@ -650,22 +650,22 @@
       "lastModified": "2026-11-16T15:53:09.022Z"
     },
     "one:6a8542c7328afe156d51ec22": {
-      "hash": "1998b5d9bfb2817adf2106e9687140cf2e6c63b70f7052a21c356dfce9f49d00",
-      "sequence": 5,
+      "hash": "fc27aceaea14c7478120ce310669bc428814e41852f45d675ac0b62e2bbce15d",
+      "sequence": 6,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "one:6a968c7d10c90c3a3d15f98f": {
-      "hash": "f62e5a7b920360cb750958ff49969cb3535295b3f4bca2e821e4511e20646c57",
-      "sequence": 5,
+      "hash": "43b5006a07cc3e7a593ab84bdc4af36b976b62ef6a895667872a6e68f284adad",
+      "sequence": 6,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "one:6a968cbcd3539b67790ecd55": {
-      "hash": "ce4edd3cf37d4b795aa6214f8b19aec2415041a9a395258a17173164cb200eb6",
-      "sequence": 2,
+      "hash": "8577ffae9e1132ed07becc87c01152374b785639e9a306e23ab01efe1bf9892f",
+      "sequence": 3,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "one:6a854312744b2bfc37290f0c": {
       "hash": "5013754af2b604b10002c80b194546aaba49a3db5ddc29b2601e3a7f8cb08b3e",
@@ -674,10 +674,10 @@
       "lastModified": "2026-11-16T15:53:09.022Z"
     },
     "one:6a968cef10c90c3a3d15f993": {
-      "hash": "b13cd8fe567081e601d5daac4c25cb92f82aa0500005ccc57534ef4cff9612d9",
-      "sequence": 1,
+      "hash": "b5f32543cbf084a65f6d464d01d8df646b9e658a36cf881e323f66bd7aa9bffa",
+      "sequence": 2,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-10-30T13:00:53.522Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "one:6a968d30d3539b67790ecd59": {
       "hash": "b4919c42fb7cd5869e55cad5d795190bcc10a555d3ca19a077fe058ec8a3b3b6",
@@ -872,22 +872,22 @@
       "lastModified": "2026-11-13T14:39:03.976Z"
     },
     "pfl:pfl-lyon-2026": {
-      "hash": "17b8b65233ff890fbbf68eb92ccb19324173f23e0f98a22434935801c209484b",
-      "sequence": 15,
+      "hash": "99f4d3001787e158282f940980a7240348eec1bc40434d20cad49e2422da274b",
+      "sequence": 16,
       "createdAt": "2026-09-13T14:45:07.860Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:split:ufc-fight-night-november-21-2026:main-card": {
-      "hash": "8fa198a1aa00c79ffd7c2935b2ccf0181b75c81db5d6b44d0e9c62c9084ac104",
-      "sequence": 6,
+      "hash": "1e6beb37905298ff38176e9d867706dbfa386e79d12be1c212c8c01ec993747f",
+      "sequence": 7,
       "createdAt": "2026-09-18T11:20:58.725Z",
-      "lastModified": "2026-11-16T15:53:09.022Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:combined:ufc-fight-night-november-21-2026": {
-      "hash": "1ae54d523c2500ec56a8a371239f1cb3858261db7f71e56c5519bb42d1ccc1a2",
-      "sequence": 8,
+      "hash": "9e369035de87ae76b7454ca708d60e0e22afa0ed43276538d3d7a951028329f0",
+      "sequence": 9,
       "createdAt": "2026-09-18T11:20:58.725Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "one:6a6227c8b99d7ab180bc5f25": {
       "hash": "87a46d3c7380b039ca3771e31119daa91f1db14ebaa5e75e79bbd577ba1ee376",
@@ -902,34 +902,34 @@
       "lastModified": "2026-11-04T14:37:57.238Z"
     },
     "ufc:split:ufc-fight-night-february-06-2027:main-card": {
-      "hash": "1a17890686fdf16a7bcd70d2802cff4c4b8dfa6e113856e6bab7542fd03cff5f",
-      "sequence": 5,
+      "hash": "dc39876ae9d7f0097d8b2e99046f3bc96a7907fb17dd42af17135c4aa65abf1d",
+      "sequence": 6,
       "createdAt": "2026-09-30T12:40:52.896Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:combined:ufc-fight-night-february-06-2027": {
-      "hash": "24da04130f46a1a4a835726d74e559d2628578ce91ed404138f0f63b2c570636",
-      "sequence": 5,
+      "hash": "9477256cac0a74779b51785b247eb12726961e5efb55b6ced0c113f8caa57112",
+      "sequence": 6,
       "createdAt": "2026-09-30T12:40:52.896Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-november-21-2026-fight-13192@ufc-detailed-calendar": {
-      "hash": "6fea917b2a8a3d2d37bd50b7ff40c7a082a65bf017acb6adde5acf2d932431e2",
-      "sequence": 4,
+      "hash": "7549762656dc0b81b24c7ac4b879a8781ddb711b11d7b3e5fd5bf04974f5d814",
+      "sequence": 5,
       "createdAt": "2026-09-30T12:40:52.896Z",
-      "lastModified": "2026-11-16T15:53:09.022Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-november-21-2026-fight-13193@ufc-detailed-calendar": {
-      "hash": "7141340331348a208b330c0e72573da1c78816fda6fa0b9cabaf70b3433c2b58",
-      "sequence": 5,
+      "hash": "03eb7eee50cc242e46704c9febccd3518ec320f496adc7c98693ea1df78af126",
+      "sequence": 6,
       "createdAt": "2026-09-30T12:40:52.896Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-november-21-2026-fight-13194@ufc-detailed-calendar": {
-      "hash": "2271531b508211fc1868fb692ebda1c9b81956fe00f27adadfb8fb0088d821f1",
-      "sequence": 5,
+      "hash": "9213b208aa7d86010de4d331eb73da9092b93b557ea7c832921c161dbea38c24",
+      "sequence": 6,
       "createdAt": "2026-09-30T12:40:52.896Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-november-21-2026-fight-13195@ufc-detailed-calendar": {
       "hash": "17a414bc27b009a3d7018bdc08b1b466872574c0e23db109f0b6798c3791de83",
@@ -938,40 +938,40 @@
       "lastModified": "2026-11-16T15:53:09.022Z"
     },
     "ufc:fight:ufc-fight-night-november-21-2026-fight-13196@ufc-detailed-calendar": {
-      "hash": "53e8eb34882fefee123150ac4a2d4c3afa4bb4997f85dc800d707df03f95e2f3",
-      "sequence": 5,
+      "hash": "efed7f395f056b4b6f32cdd1a386947a33ffcd95785e31bfebd56e98f2cfd595",
+      "sequence": 6,
       "createdAt": "2026-09-30T12:40:52.896Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:split:ufc-fight-night-november-21-2026:prelims": {
-      "hash": "9307b2f987d55ed7af31bedc68367c469ea12b2761185ae1b301549bfe4b4c3b",
-      "sequence": 4,
+      "hash": "f147c2062751f481a02883b04074e45f9797b266db329973259a902c89c3d583",
+      "sequence": 5,
       "createdAt": "2026-10-02T12:41:53.475Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-november-21-2026-fight-13197@ufc-detailed-calendar": {
-      "hash": "d1e18dd71113cf1faec42eb6eacb8762b283da6cd5c36d4439002185544cf4a2",
-      "sequence": 4,
+      "hash": "dcb8e72c5797bbb2d723e6c57739f4bc5ba325681a4e3c9dd6f8325cb0c3953a",
+      "sequence": 5,
       "createdAt": "2026-10-05T14:47:16.208Z",
-      "lastModified": "2026-11-16T15:53:09.022Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-november-21-2026-fight-13198@ufc-detailed-calendar": {
-      "hash": "2c908519ad8c577e27ee750bf46a835169b3a9e2f3becf34c8bd72dbca800228",
-      "sequence": 3,
-      "createdAt": "2026-10-05T14:47:16.208Z",
-      "lastModified": "2026-11-16T15:53:09.022Z"
-    },
-    "ufc:fight:ufc-fight-night-november-21-2026-fight-13199@ufc-detailed-calendar": {
-      "hash": "267c88219a7151c4a6c1b512563715329efcd7234ff306464d328bf11dd6a205",
-      "sequence": 3,
-      "createdAt": "2026-10-05T14:47:16.208Z",
-      "lastModified": "2026-11-16T15:53:09.022Z"
-    },
-    "ufc:fight:ufc-fight-night-november-21-2026-fight-13200@ufc-detailed-calendar": {
-      "hash": "5484ef1f1799ec464a77667aae1c3fdff6a57b24b616d17593832f297d47e6e2",
+      "hash": "b568b4c963e9840a74a3073c697bb0d6623664688144f1428c5bcba3ea41c671",
       "sequence": 4,
       "createdAt": "2026-10-05T14:47:16.208Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-fight-night-november-21-2026-fight-13199@ufc-detailed-calendar": {
+      "hash": "8c1778f1891edc545700cbe002e7f7e310ac754533e8d894f94d1baa94bd6599",
+      "sequence": 4,
+      "createdAt": "2026-10-05T14:47:16.208Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-fight-night-november-21-2026-fight-13200@ufc-detailed-calendar": {
+      "hash": "d4dece74136e07a528ff0ae7726ffa138a05bc40ee5bf576a221aea4d874a292",
+      "sequence": 5,
+      "createdAt": "2026-10-05T14:47:16.208Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "pfl:pflmena-12": {
       "hash": "155ce820add4b669743823cce27c1c58e2e85a8f683adc48a6d26c019e8c010b",
@@ -986,34 +986,34 @@
       "lastModified": "2026-10-05T14:47:16.208Z"
     },
     "ufc:fight:ufc-335-fight-13207@ufc-detailed-calendar": {
-      "hash": "3dee998fea8e19d70ea3a4204e6d98139817857627d7f800f0a84e4e5c7c4bf9",
-      "sequence": 5,
+      "hash": "ad354540763257b7cb4931f6a3915e20cf15784b460a9af274bf3d0555c76e93",
+      "sequence": 6,
       "createdAt": "2026-10-07T13:30:00.229Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-335-fight-13208@ufc-detailed-calendar": {
-      "hash": "7c6624cc03258d516e84b37baa9750a68c6aa673d208474d96630fd6cf3ad457",
-      "sequence": 7,
+      "hash": "6b5ad47e8f8976e92907ce99bd4b97f6b78978c6309f3ab2c611a0c7203f49b4",
+      "sequence": 8,
       "createdAt": "2026-10-07T13:30:00.229Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-335-fight-13219@ufc-detailed-calendar": {
-      "hash": "bb0e309461fa1014d41ed7801c592b98ccf0357a41723e71d4c814a46e280756",
-      "sequence": 2,
+      "hash": "24591d249179248d8a783dac5a02711da3b22926faeda95950b9d7c5af3f3c06",
+      "sequence": 3,
       "createdAt": "2026-10-14T11:58:30.931Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-335-fight-13223@ufc-detailed-calendar": {
-      "hash": "cf676a0d7e095675a63241149b45fa47be987f7130a0da6fee0e939459d171e5",
-      "sequence": 1,
+      "hash": "be66284a7766a78e0a5e99ed8c9aeeefb9275d744e01b0cb1f7d651a75eb25fc",
+      "sequence": 2,
       "createdAt": "2026-10-16T11:29:42.405Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "pfl:pfl-africa-kigali-2026": {
-      "hash": "d9b5ea373d2ff63053afad586605301361fa1c54710f170ace61c0e3f51f17e3",
-      "sequence": 3,
+      "hash": "fec000c17b490c24aa8732cabb599666682e34094e5fe248526cf41ad60c20d9",
+      "sequence": 4,
       "createdAt": "2026-10-19T13:24:27.664Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:split:ufc-336:prelims": {
       "hash": "76f449f3cfa5de5798923a41d1cf3dbbf907fbf8fa69968370b308453747ae9e",
@@ -1052,10 +1052,10 @@
       "lastModified": "2026-11-16T15:53:09.022Z"
     },
     "ufc:split:ufc-fight-night-january-16-2027:main-card": {
-      "hash": "ca305437b241753f0601ef1604d2fb136452468400e18ab12a63e4e559c866e2",
-      "sequence": 2,
+      "hash": "5772af0c8f9298f22ef549518f10afc1f8e710a238ad988b1c645c19fc196ed0",
+      "sequence": 3,
       "createdAt": "2026-10-30T13:00:53.522Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:split:ufc-336:early-prelims": {
       "hash": "56c45760aad7cdc0363e9c032c7ac402e0421245ca38c8a7dec467c5ca9b13df",
@@ -1064,22 +1064,22 @@
       "lastModified": "2026-10-30T13:00:53.522Z"
     },
     "ufc:combined:ufc-fight-night-january-16-2027": {
-      "hash": "87438d6d9ed489073ffedf2f6bf70423bbda4c91cb6ca962c0c1977513dc3596",
-      "sequence": 2,
+      "hash": "09262d1b198b3398d8759f40a5ff7ab11e95e1c48a2d5ab5688c21f29ccadbc9",
+      "sequence": 3,
       "createdAt": "2026-10-30T13:00:53.522Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-february-06-2027-fight-13240@ufc-detailed-calendar": {
-      "hash": "89d0992eff0d75d8ff5a96b6a488e90b49aae0b574e94c5d05861986adf6de96",
-      "sequence": 2,
-      "createdAt": "2026-11-04T14:37:57.238Z",
-      "lastModified": "2026-11-16T15:53:09.022Z"
-    },
-    "ufc:fight:ufc-fight-night-february-06-2027-fight-13241@ufc-detailed-calendar": {
-      "hash": "09aaae8d67dd31ee7916e33e649d10d982d66bdd64801a75185b9a5e76380ec1",
+      "hash": "a29833a10dedfdc1ddb20e12412ba83920f046e847222b0c8ac8853c164a9c75",
       "sequence": 3,
       "createdAt": "2026-11-04T14:37:57.238Z",
-      "lastModified": "2026-11-16T15:53:09.022Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-fight-night-february-06-2027-fight-13241@ufc-detailed-calendar": {
+      "hash": "1604e362aec0d473851e247d4925497ff2d54e0a120c8091cff315d7110f2b87",
+      "sequence": 4,
+      "createdAt": "2026-11-04T14:37:57.238Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "one:6ae98f0a181f90020ae64c39": {
       "hash": "0f421198d43fcfc0efa9a301f1dcf075dc4fea041df9db41211f5fe53434f8e3",
@@ -1166,10 +1166,10 @@
       "lastModified": "2026-11-09T16:28:05.706Z"
     },
     "ufc:fight:ufc-fight-night-february-06-2027-fight-13243@ufc-detailed-calendar": {
-      "hash": "837eb55c8827ac96de2a4f3bd90d12cf7e71d60208d768f71084f5da988f6f41",
-      "sequence": 0,
+      "hash": "27b22775c3e66873f41914b3514bbca80ae2e2d5de71fe5cacce14c09a0db02a",
+      "sequence": 1,
       "createdAt": "2026-11-06T14:21:26.351Z",
-      "lastModified": "2026-11-06T14:21:26.351Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-february-06-2027-fight-13244@ufc-detailed-calendar": {
       "hash": "26bb3a8c3df86e9957447bf5ff6291a5b3b53363058a57edadced8453b010e35",
@@ -1178,106 +1178,106 @@
       "lastModified": "2026-11-06T14:21:26.351Z"
     },
     "ufc:split:ufc-fight-night-december-05-2026:prelims": {
-      "hash": "5a0c8df1e1c71526090568d89115c642bd941f59630e24995a330619344c7eb5",
-      "sequence": 0,
+      "hash": "cb2595ecabe43b06341f5a19176b045234c823a3de9fe8c9a3578546268c8c85",
+      "sequence": 1,
       "createdAt": "2026-11-11T14:28:13.039Z",
-      "lastModified": "2026-11-11T14:28:13.039Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:split:ufc-fight-night-december-05-2026:main-card": {
-      "hash": "7abcc8e8d7e2aa9eb2e3194263ee2adcfd1a1562f504dec7c05ac06ef079a24d",
-      "sequence": 3,
+      "hash": "c15662da46b12ddd63d754b2d466963a8d518af93aeb5d6e3e6151cbf2ab1bf9",
+      "sequence": 4,
       "createdAt": "2026-11-11T14:28:13.039Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:combined:ufc-fight-night-december-05-2026": {
-      "hash": "1cf4e7c0bc60055bb1f9b1abcb6a57071399a4501f9dc83bb934c3889ce5c477",
-      "sequence": 3,
+      "hash": "c19e62fcb8defdaa3f83cd49d2feb208ec1268ca13222ed79a017eeb02c9bdde",
+      "sequence": 4,
       "createdAt": "2026-11-11T14:28:13.039Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-december-05-2026-fight-13245@ufc-detailed-calendar": {
-      "hash": "14bd046612cf1bc233f124e54e94876394468f1f2146ee74dda2cdfa988d6370",
-      "sequence": 2,
+      "hash": "7c3e2aa50e69989d876dee89ef74372080aa5aefc9261e0af36f0208c816d94c",
+      "sequence": 3,
       "createdAt": "2026-11-11T14:28:13.039Z",
-      "lastModified": "2026-11-16T15:53:09.022Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-december-05-2026-fight-13246@ufc-detailed-calendar": {
-      "hash": "4cbf3d8ebdb9cc929eba3e77b93ea81ab02c8ffa52cb9819660623b74775035c",
-      "sequence": 2,
+      "hash": "225f558364ca7461b4d5383aa799fa228114ddfea4a94cc9303958b6d2bb0843",
+      "sequence": 3,
       "createdAt": "2026-11-11T14:28:13.039Z",
-      "lastModified": "2026-11-16T15:53:09.022Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-december-05-2026-fight-13247@ufc-detailed-calendar": {
-      "hash": "33a8b92e59129e8a36dea25607e6ff44a0349ba12d31394d8a1ecf8fa9042b2d",
-      "sequence": 0,
+      "hash": "63605a79157368b5c82fb637f2fad4ee874182217263e934e6561aa9c6c69931",
+      "sequence": 1,
       "createdAt": "2026-11-11T14:28:13.039Z",
-      "lastModified": "2026-11-11T14:28:13.039Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-december-05-2026-fight-13248@ufc-detailed-calendar": {
-      "hash": "ff931bbb66d6dead71c6e48886aec35054b340878a084d745087f395927c9a0e",
-      "sequence": 0,
+      "hash": "c64d3c939502c2022cc94852c6cd95e29889ae2b3b03901c5f57bed3148e268e",
+      "sequence": 1,
       "createdAt": "2026-11-11T14:28:13.039Z",
-      "lastModified": "2026-11-11T14:28:13.039Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-december-05-2026-fight-13249@ufc-detailed-calendar": {
-      "hash": "0061c17b9ac4cd52a69436667e2bae26f7cad0efdacc0acbfb818d2a9eef453d",
-      "sequence": 0,
+      "hash": "84c11450d1fb4e9cdd10abce8e04a5a17a7e79a090f642eb095588f4b67f7121",
+      "sequence": 1,
       "createdAt": "2026-11-11T14:28:13.039Z",
-      "lastModified": "2026-11-11T14:28:13.039Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-december-05-2026-fight-13250@ufc-detailed-calendar": {
-      "hash": "2834a035cfd458b2d0e951c9ef7a63e0adaf5d7e7d90adb3b8ccfcdca66dcbee",
-      "sequence": 0,
+      "hash": "99f77b1ec4a979ccfb564695a0794e94d86d443fb7729f1ac50226ee6703c246",
+      "sequence": 1,
       "createdAt": "2026-11-11T14:28:13.039Z",
-      "lastModified": "2026-11-11T14:28:13.039Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-december-05-2026-fight-13251@ufc-detailed-calendar": {
-      "hash": "6d99d7d0caa4f839c131963dc34d0a69c5fcef1b7ce202b09ff4dd3921bd3311",
-      "sequence": 0,
+      "hash": "5ed202a84b2145646f7eab6d4876dd66e60b44c1b62d5e5a1f4c0085729b3878",
+      "sequence": 1,
       "createdAt": "2026-11-11T14:28:13.039Z",
-      "lastModified": "2026-11-11T14:28:13.039Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-december-05-2026-fight-13252@ufc-detailed-calendar": {
-      "hash": "1f553b99915b8123448508f92de19d5ec17e4483a73256b1ba753cb829f27e06",
-      "sequence": 0,
+      "hash": "a04d921d8eb5c6f279cc2ea7d22540f88b527bf5e9c531dda5fb2e8662239f7c",
+      "sequence": 1,
       "createdAt": "2026-11-11T14:28:13.039Z",
-      "lastModified": "2026-11-11T14:28:13.039Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-december-05-2026-fight-13253@ufc-detailed-calendar": {
-      "hash": "5223279af123a91a5ef166ae054fcf27aad3744b9a4ac4283deb5752430500e3",
-      "sequence": 0,
+      "hash": "e6879afea849d9f49a531c1864fe87ff0ec7dcbcb75ed01ad6725c5ac2bb0bf1",
+      "sequence": 1,
       "createdAt": "2026-11-11T14:28:13.039Z",
-      "lastModified": "2026-11-11T14:28:13.039Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-december-05-2026-fight-13254@ufc-detailed-calendar": {
-      "hash": "d60b1a177ba38820cf0b768387c7de13ae5febc1b6c9cd0f8431225e4d0a2dc6",
-      "sequence": 0,
+      "hash": "8d35e0065bbc8928fc93b8860a365eeee430762c80df7931ac82a4bb8493ae85",
+      "sequence": 1,
       "createdAt": "2026-11-11T14:28:13.039Z",
-      "lastModified": "2026-11-11T14:28:13.039Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-december-05-2026-fight-13255@ufc-detailed-calendar": {
-      "hash": "847170716b307134a6d4b4d92c3d890686b9ab0cefdb1bc6b075d08b57176b8f",
-      "sequence": 0,
+      "hash": "0282f5ddec0e9c48258f2b502d4ac18ae3b36f951af904ada71a0fa965ff9b52",
+      "sequence": 1,
       "createdAt": "2026-11-11T14:28:13.039Z",
-      "lastModified": "2026-11-11T14:28:13.039Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-december-05-2026-fight-13256@ufc-detailed-calendar": {
-      "hash": "5c69a4fcbf3904e8e48e7890d01c5cee268b1e68a08fba733d14b4ff6b7393d5",
-      "sequence": 0,
+      "hash": "6ba304100145756f7eaa21d13c0751a9f0aab907e00b726932f8a6e42cc3422f",
+      "sequence": 1,
       "createdAt": "2026-11-11T14:28:13.039Z",
-      "lastModified": "2026-11-11T14:28:13.039Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:split:ufc-fight-night-january-23-2027:prelims": {
-      "hash": "6f5397dba806892120940a89d193a257407dc3b2e31436877c021267cd969e79",
-      "sequence": 0,
+      "hash": "558cf38c0bdf7acbc7fc56f697e55afbeaf488c55039a5280805ffd968eb2309",
+      "sequence": 1,
       "createdAt": "2026-11-16T15:53:09.022Z",
-      "lastModified": "2026-11-16T15:53:09.022Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:split:ufc-fight-night-january-23-2027:main-card": {
-      "hash": "21d7de49343b4dde0c3c9c071b39adff2223ff0aa2a08a3065a55838a84bcfee",
-      "sequence": 0,
+      "hash": "12f2d8491428ca17685d52a24984b327e9d8a15ebace65f952c68619cc984c27",
+      "sequence": 1,
       "createdAt": "2026-11-16T15:53:09.022Z",
-      "lastModified": "2026-11-16T15:53:09.022Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:split:ufc-fight-night-february-13-2027:prelims": {
       "hash": "83ca96f25cc71f2609294e138b8a61518bafb170953f7c7d4a6635eebd1944a6",
@@ -1292,10 +1292,10 @@
       "lastModified": "2026-11-16T15:53:09.022Z"
     },
     "ufc:combined:ufc-fight-night-january-23-2027": {
-      "hash": "4ccc93d1ece39b490d6a5ffbda04cbeb2e70da35df4dcfd5166fc9e20d8ddb59",
-      "sequence": 0,
+      "hash": "57415a6230ead40f3f8bb67f072cb1f45a971871c40ea064a4947f8a5e6c259b",
+      "sequence": 1,
       "createdAt": "2026-11-16T15:53:09.022Z",
-      "lastModified": "2026-11-16T15:53:09.022Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:combined:ufc-fight-night-february-13-2027": {
       "hash": "b1a1d1871a7f323b15b188988e93db816e3ea79c313d23187702ae2c50094c35",
@@ -1304,28 +1304,28 @@
       "lastModified": "2026-11-16T15:53:09.022Z"
     },
     "ufc:fight:ufc-fight-night-january-16-2027-fight-13266@ufc-detailed-calendar": {
-      "hash": "f1a61313bb624818145c300eca83b23b69a5176e7cc562ce201c1fdf8f927ddc",
-      "sequence": 0,
+      "hash": "0924046d7ecd6e57daeb09ae87169612b2ba8710bf91d6bda66d660733c9f424",
+      "sequence": 1,
       "createdAt": "2026-11-16T15:53:09.022Z",
-      "lastModified": "2026-11-16T15:53:09.022Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-january-16-2027-fight-13267@ufc-detailed-calendar": {
-      "hash": "fd56cd40bed210ae1b3bc347425229af686126a362525e4f89d2455107b06f8a",
-      "sequence": 0,
+      "hash": "d54636d579881c8c2cbf1ba6179e58293adc3d92c1c419fb36f237fc687417b0",
+      "sequence": 1,
       "createdAt": "2026-11-16T15:53:09.022Z",
-      "lastModified": "2026-11-16T15:53:09.022Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-january-16-2027-fight-13268@ufc-detailed-calendar": {
-      "hash": "b6738650ec39cd29a21f7152f8a0dc91e142e6fe58400888d693b51568bc712a",
-      "sequence": 0,
+      "hash": "451292ea95c77ada6c9e1a05637312e2c3195b2e764968a8318d124c44917db0",
+      "sequence": 1,
       "createdAt": "2026-11-16T15:53:09.022Z",
-      "lastModified": "2026-11-16T15:53:09.022Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-january-23-2027-fight-13265@ufc-detailed-calendar": {
-      "hash": "ca49871b03b71d56aa4a0747a5ff28a0f6894e79bd61b1937b8554c07f07fab1",
-      "sequence": 0,
+      "hash": "1b32a655f03d69e84d3633e4224f9d5c777177fdb818e56b5bcff09e532914a0",
+      "sequence": 1,
       "createdAt": "2026-11-16T15:53:09.022Z",
-      "lastModified": "2026-11-16T15:53:09.022Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-february-13-2027-fight-13264@ufc-detailed-calendar": {
       "hash": "c0f8ad0b443adf5860c3345bb674367f2443dd1a329bfbdbda2f8f5f5f023a7d",
@@ -1334,52 +1334,286 @@
       "lastModified": "2026-11-16T15:53:09.022Z"
     },
     "ufc:fight:ufc-fight-night-november-21-2026-fight-13262@ufc-detailed-calendar": {
-      "hash": "6272548ab7ae48a03157b18c3b29c30029b8cb32b3e0dd3751ae455bc765cc86",
-      "sequence": 0,
+      "hash": "e7eb742cfb2680c0c1db7c2daa0f934751d9b15a787280e6b7f10ef957dffda7",
+      "sequence": 1,
       "createdAt": "2026-11-18T15:44:08.790Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-fight-night-november-21-2026-fight-13263@ufc-detailed-calendar": {
-      "hash": "4b78acdd3c5d8769083ff5567c090e9916dd6fed11ee0ead98942591cd58a82f",
-      "sequence": 0,
+      "hash": "c0d85dccecc7cca9ddc06b6ed8b2b4442c51e8a5793347ff20d64a807f7e4d00",
+      "sequence": 1,
       "createdAt": "2026-11-18T15:44:08.790Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-335-fight-13269@ufc-detailed-calendar": {
-      "hash": "474ba0a0499db198a3d5f2b97062c197fa47c47285fd3a2415fb6496e9fc8bf2",
-      "sequence": 0,
+      "hash": "d39b6ed34236cbdb5357c6c1e0f61e1709b64557af3f64d7a4ccc6d9ed912153",
+      "sequence": 1,
       "createdAt": "2026-11-18T15:44:08.790Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "ufc:fight:ufc-335-fight-13270@ufc-detailed-calendar": {
-      "hash": "e10efcc19523970366f7a233fbb0e9758f881dae79b3e90f8e361f27270fa2ea",
-      "sequence": 0,
+      "hash": "b00af9a3f73bdf92c955e4c4d902ea6501d54a9211068039407326e45f0e5564",
+      "sequence": 1,
       "createdAt": "2026-11-18T15:44:08.790Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
-    },
-    "ufc:fight:ufc-336-fight-lance-gibson-jr--michael-johnson@ufc-detailed-calendar": {
-      "hash": "9f59d7d4ea87d6f02a7bcac8983625f4d5b11a035c28af87256b517c91af841f",
-      "sequence": 0,
-      "createdAt": "2026-11-18T15:44:08.790Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
-    },
-    "ufc:fight:ufc-336-fight-louis-lee-scott-serhiy-sidey@ufc-detailed-calendar": {
-      "hash": "51fb633108b64ba7d8a8cfcca20a382f85e66d738ff6be0c6d62070e8b241881",
-      "sequence": 0,
-      "createdAt": "2026-11-18T15:44:08.790Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
-    },
-    "ufc:fight:ufc-336-fight-cam-nelson-sean-clancy-jr-@ufc-detailed-calendar": {
-      "hash": "4947f477583c7b49aaabeeeb67fa54f199ca429b31c695b2335aafc29b0e63fc",
-      "sequence": 0,
-      "createdAt": "2026-11-18T15:44:08.790Z",
-      "lastModified": "2026-11-18T15:44:08.790Z"
+      "lastModified": "2026-11-20T15:31:40.369Z"
     },
     "one:691962b41a5f7bbe93610ca2": {
       "hash": "31e284afb5dac397c3b9d6f3592c6d26c4e0aa0d2ce6ab121c36dd7c597b0bb1",
       "sequence": 0,
       "createdAt": "2026-11-18T15:44:08.790Z",
       "lastModified": "2026-11-18T15:44:08.790Z"
+    },
+    "ufc:split:ufc-fight-night-may-16-2026:prelims": {
+      "hash": "a86f4fd2d6c58c048ec77cf8e97e5f44c05512a77174a016898dd685df1c5116",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:split:ufc-fight-night-may-16-2026:main-card": {
+      "hash": "30d749c91630dfc1b054d9d6b67d15b5d0ee5b7bfbfa4680d2f6e38c48b60bed",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:split:ufc-fight-night-may-30-2026:prelims": {
+      "hash": "6227110116474f5a222df474e3151f14328f11be537c82c166c8d923f307b6ec",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:split:ufc-fight-night-may-30-2026:main-card": {
+      "hash": "c082fc3fdd633d587ced67e86aabaf5927da9ce60fe3d932be0eb6bc27843808",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:split:ufc-fight-night-june-06-2026:prelims": {
+      "hash": "e90de78f83fca8f0058a9235657c731c90f5510e4938ea4c002597d4b5f12276",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:split:ufc-fight-night-june-06-2026:main-card": {
+      "hash": "9cde2091f2b054edc60128e3527d4f5c8734ee8682ab40f8573e5969a586995f",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:split:ufc-freedom-250:main-card": {
+      "hash": "e5e57ae1740daedc3df03b6a14ba47e5fc433921491e8d83b8951ae58f52aa94",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:split:ufc-fight-night-june-20-2026:prelims": {
+      "hash": "f2343c19a1114bfb4543e1fae9fe7c893b8236c2f2344a0ad1fe226e9a0df0e3",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:split:ufc-fight-night-june-20-2026:main-card": {
+      "hash": "8ffc95f0ce89ddb7458524b97acc8aa041ffb797f60280843e8e8c54e1c80c38",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:split:ufc-fight-night-june-27-2026:prelims": {
+      "hash": "285c8d456a1f9efc478566595048430aa2468a6d6a2c53b9ed2885366d4350af",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:split:ufc-fight-night-june-27-2026:main-card": {
+      "hash": "af067b4f68af6dcbc0c130bdc285bbdc8835583c5459750645ecc4ed604858b4",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:split:ufc-329:early-prelims": {
+      "hash": "7ef2a52699de5c5ea604c2e4dfa29761eeacc9808984be5b4dffb15e72bf0469",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:split:ufc-329:prelims": {
+      "hash": "665b877fcc5aab76684c02029cb3b9a00ec834750025cd0a319983b41a97961b",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:split:ufc-329:main-card": {
+      "hash": "1a79261fb55cb6334bd0e9cfbde9b38fd4c7b1e2a9a4987afe12be52b018fdca",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:split:ufc-fight-night-july-18-2026:prelims": {
+      "hash": "8ff905613bf4d711876aa3ddd114c6a124055c9d759c1a903e4f2996e8bc7b09",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:split:ufc-fight-night-july-18-2026:main-card": {
+      "hash": "22086d27b74d1c97a4a2823414b2765089d1e89dd69a5fd2a043f6a4e9cd86ba",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:split:ufc-337:prelims": {
+      "hash": "2c34d163f57aefcecbf5617cf5a8e22f90fa58e63f72d3eacd86d0b7f75752d7",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:split:ufc-337:main-card": {
+      "hash": "5b9e88363505cc0e4b65167a3d917421066867df2994b75a1ad01a609d4be83d",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:combined:ufc-fight-night-may-16-2026": {
+      "hash": "8412a864c0f0861c1e433bbae6c9321a1b7c617921bcaa83e4264dbef680d111",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:combined:ufc-fight-night-may-30-2026": {
+      "hash": "d4bf54d8db055f622817abf3c865a4cb86a196435d7b36d5710c1476b4482710",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:combined:ufc-fight-night-june-06-2026": {
+      "hash": "937bb56dac6fa55b918405ae01aacfc538d7f335045679eed9cce01d340b97de",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:combined:ufc-freedom-250": {
+      "hash": "d05211ff310785b9c986b8365d69cea3a9217857eb6eba230046857a57bd1124",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:combined:ufc-fight-night-june-20-2026": {
+      "hash": "edfd655d5014ff12fa1b231f5e993722674c346beb67ea41c6b4366cfb35ddac",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:combined:ufc-fight-night-june-27-2026": {
+      "hash": "6148f7571c7bfda14dd3f17fe4cecb4d6436ea5717252dd959a8564a2b49b9c6",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:combined:ufc-329": {
+      "hash": "6c210bf2aec3a5594c15001995b472116f2a14b60653adae034854e73109fdb0",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:combined:ufc-fight-night-july-18-2026": {
+      "hash": "839c8c251867b86f4708eda14bbbabfc8eec5556df756cee1ab23a2f236ab41b",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:combined:ufc-337": {
+      "hash": "c0ae880b58ea80acaab7ab070c5d0c0b098ba4aeef2d0f0bbeeeda5f95d5175c",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-fight-night-november-21-2026-fight-13274@ufc-detailed-calendar": {
+      "hash": "420873efcacb244fdf3735bff31e846d258cea36a9603f950ee02cc07cea69b7",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-fight-night-january-16-2027-fight-chris-curtis-geoff-neal@ufc-detailed-calendar": {
+      "hash": "c489219724ae30b6e755ecc6e301ad825ad974421052225f6d49ee6909bd4075",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-fight-night-january-16-2027-fight-louie-sutherland-ryan-spann@ufc-detailed-calendar": {
+      "hash": "5d50a3dd7565f6a5bace549183167a6c77668ba6e2e5832ee4e8798544fdf804",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-fight-night-january-16-2027-fight-elisha-ellison-kennedy-nzechukwu@ufc-detailed-calendar": {
+      "hash": "83a1e5a8954f253cdd8910b1b3a2739da0e1318ae8774dc4ff9b4a704bf9baf5",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-fight-night-january-16-2027-fight-gilbert-urbina-robert-valentin@ufc-detailed-calendar": {
+      "hash": "5459515d7a03d2f95c0157ff57e1560afb661d323788b5bcbe3fecc06e55428c",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-fight-night-january-16-2027-fight-alden-coria-michael-aljarouj@ufc-detailed-calendar": {
+      "hash": "102421e965e5808c0c05b4a79b1678c48fc1e5961ed93c9afcfe68be46d5565b",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-fight-night-january-16-2027-fight-diego-ferreira-marquel-mederos@ufc-detailed-calendar": {
+      "hash": "5e5b7929d90da4763558bdf31f4fbabad8ed192974908bfdcb0f7dc17cd6dbd3",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-fight-night-january-16-2027-fight-magomed-zaynukov-piero-guaylupo@ufc-detailed-calendar": {
+      "hash": "39fbfd9f4d397a0772abb9bcf8fb46f7d07db37c66cc737a6776de9b0fdaef12",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-fight-night-january-16-2027-fight-john-garza-toshiomi-kazama@ufc-detailed-calendar": {
+      "hash": "01838e8bfb041b84b62a758f887a150fbe0c57670d4f26836ab25c707dca9ced",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-fight-night-january-16-2027-fight-gokhan-saricam-steven-asplund@ufc-detailed-calendar": {
+      "hash": "982a2eebf1cf6429394acf5b29888cfc7bbca1677ba5758041ad65d9e3cf7bf6",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-fight-night-january-16-2027-fight-karolina-kowalkiewicz-sam-hughes@ufc-detailed-calendar": {
+      "hash": "511c75a03bcec1796ac8a822f36f0aa812c50709dda89976dbf9addbc205acb6",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-336-fight-13271@ufc-detailed-calendar": {
+      "hash": "9f59d7d4ea87d6f02a7bcac8983625f4d5b11a035c28af87256b517c91af841f",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-336-fight-13272@ufc-detailed-calendar": {
+      "hash": "51fb633108b64ba7d8a8cfcca20a382f85e66d738ff6be0c6d62070e8b241881",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-336-fight-13273@ufc-detailed-calendar": {
+      "hash": "4947f477583c7b49aaabeeeb67fa54f199ca429b31c695b2335aafc29b0e63fc",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
+    },
+    "ufc:fight:ufc-fight-night-february-06-2027-fight-jonathan-micallef-sam-patterson@ufc-detailed-calendar": {
+      "hash": "ee84ef2ff9f08915a16119aec707ae7688e826a5deb12eaae6444b58c6ad743d",
+      "sequence": 0,
+      "createdAt": "2026-11-20T15:31:40.369Z",
+      "lastModified": "2026-11-20T15:31:40.369Z"
     }
   }
 }

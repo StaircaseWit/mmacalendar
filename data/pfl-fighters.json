@@ -270,7 +270,7 @@
       "birthDate": "1994-05-25",
       "record": "14-2-0",
       "style": null,
-      "checkedAt": "2026-09-13T10:10:12.597Z"
+      "checkedAt": "2026-11-20T15:31:40.369Z"
     },
     "https://pflmma.com/wt-fighter/jakub-kaszuba": {
       "name": "Jakub Kaszuba",
@@ -2879,6 +2879,22 @@
       "record": "2-0-0",
       "style": null,
       "checkedAt": "2026-11-18T15:44:08.790Z"
+    },
+    "https://pflmma.com/wt-fighter/lorenzo-parente": {
+      "name": "Lorenzo Parente",
+      "countryCode": null,
+      "birthDate": "2000-12-27",
+      "record": "4-0-0",
+      "style": null,
+      "checkedAt": "2026-11-20T15:31:40.369Z"
+    },
+    "https://pflmma.com/wt-fighter/stiven-shehu": {
+      "name": "Stiven Shehu",
+      "countryCode": null,
+      "birthDate": null,
+      "record": "4-1-0",
+      "style": null,
+      "checkedAt": "2026-11-20T15:31:40.369Z"
     }
   }
 }
