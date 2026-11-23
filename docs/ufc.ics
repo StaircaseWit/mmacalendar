@@ -5093,8 +5093,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-december-05-2026-prelims@ufc-detailed-calendar
 DTSTAMP:20261111T142813Z
-LAST-MODIFIED:20261120T153140Z
-SEQUENCE:1
+LAST-MODIFIED:20261123T181702Z
+SEQUENCE:2
 DTSTART:20261205T150000Z
 DTEND:20261205T180000Z
 SUMMARY:Prelims – UFC Fight Night: Adesanya vs Magomedov
@@ -5103,62 +5103,78 @@ DESCRIPTION:UFC · Prelims · 6 bouts\n📍 The Venue\, Riyadh\, Saudi Arab
  𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 6. 𝗕𝗿𝘂
  𝗻𝗼 𝗦𝗶𝗹𝘃𝗮 🇧🇷 vs. 𝗝𝗮𝗳𝗲𝗹 𝗙𝗶
  𝗹𝗵𝗼 🇧🇷\n• 125lbs/57kg Flyweight\n• Silva: 15-9-2 | 36yo
-  | Grappler\n• Filho: 17-5-0 | 33yo | Grappler\n• Odds history: not ch
- ecked yet\n\n🥊 5. 𝗨𝗿𝗮𝗻 𝗦𝗮𝘁𝘆𝗯𝗮𝗹𝗱𝗶
- 𝗲𝘃 🇰🇬 vs. 𝗜𝘃𝗮𝗻 𝗚𝗻𝗶𝘇𝗱𝗶𝘁𝘀
- 𝗸𝗶𝘆\n• 205lbs/93kg Light Heavyweight\n• Satybaldiev: 9-1-0 | 
- 32yo | MMA\n• Gnizditskiy: 0-0-0 | 30yo\n• Odds history: not checked y
- et\n\n🥊 4. 𝗠𝗮𝗿𝗰𝗼 𝗧𝘂𝗹𝗶𝗼 🇧🇷 vs. 𝗝
- 𝘂𝗻𝗬𝗼𝗻𝗴 𝗣𝗮𝗿𝗸 🇰🇷\n• 185lbs/84kg Middle
- weight\n• Tulio: 14-3-0 | 32yo | Striker\n• Park: 19-7-0 | 35yo | Boxi
- ng\n• Odds history: not checked yet\n\n🥊 3. 𝗣𝗮𝘃𝗲𝗹 𝗔
- 𝗻𝗱𝗿𝘂𝘀𝗰𝗮 🇲🇩 vs. 𝗠𝗮𝗵𝗮𝗺𝗺𝗮𝗱
- 𝗮𝗹𝗶 𝗢𝘀𝗺𝗮𝗻𝗹𝗶 🇦🇿\n• 135lbs/61kg Bantam
- weight\n• Andrusca: 9-0-0 | 24yo\n• Osmanli: 13-2-0 | 22yo | MMA\n• 
- Odds history: not checked yet\n\n🥊 2. 𝗠𝗼𝗱𝗲𝘀𝘁𝗶𝗻
- 𝗼 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘀 🇧🇷 vs. 𝗠𝗮𝘁𝘁
- 𝗵𝗶𝗲𝘂 𝗗𝘂𝗰𝗹𝗼𝘀 🇫🇷\n• 185lbs/84kg Middle
- weight\n• Rodrigues: 1-0-0 | 23yo\n• Duclos: 11-3-0 | 31yo | MMA\n• 
- Odds history: not checked yet\n\n🥊 1. 𝗔𝗯𝗱𝘂𝗹 𝗛𝘂𝘀
- 𝘀𝗲𝗶𝗻 🇫🇮 vs. 𝗛𝗲𝗰𝗵𝗲𝗿 𝗦𝗼𝘀𝗮 
- 🇪🇸\n• 135lbs/61kg Bantamweight\n• Hussein: 16-2-0 | 29yo | Brazi
- lian Jiu-Jitsu\n• Sosa: 15-1-0 | 31yo | MMA\n• Odds history: not check
- ed yet\n\n--------------------------------\nSource: https://www.ufc.com/ev
- ent/ufc-fight-night-december-05-2026\nFull odds log: https://staircasewit.
- github.io/mmacalendar/odds-history.html\nEvent status: Scheduled
+  | Grappler | +126 (2.26)\n• Filho: 17-5-0 | 33yo | Grappler | -127 (1.7
+ 9)\n• Odds history:\n  ◦ 23 Nov: Silva 🔴 +126 (2.26) | Filho 🟢 -
+ 127 (1.79)\n\n🥊 5. 𝗨𝗿𝗮𝗻 𝗦𝗮𝘁𝘆𝗯𝗮𝗹𝗱
+ 𝗶𝗲𝘃 🇰🇬 vs. 𝗜𝘃𝗮𝗻 𝗚𝗻𝗶𝘇𝗱𝗶𝘁
+ 𝘀𝗸𝗶𝘆\n• 205lbs/93kg Light Heavyweight\n• Satybaldiev: 9-1-
+ 0 | 32yo | MMA | +118 (2.18)\n• Gnizditskiy: 0-0-0 | 30yo | -117 (1.85)\
+ n• Odds history:\n  ◦ 23 Nov: Satybaldiev 🔴 +118 (2.18) | Gnizditsk
+ iy 🟢 -117 (1.85)\n\n🥊 4. 𝗠𝗮𝗿𝗰𝗼 𝗧𝘂𝗹𝗶𝗼 
+ 🇧🇷 vs. 𝗝𝘂𝗻𝗬𝗼𝗻𝗴 𝗣𝗮𝗿𝗸 🇰🇷\n• 1
+ 85lbs/84kg Middleweight\n• Tulio: 14-3-0 | 32yo | Striker | -180 (1.56)\
+ n• Park: 19-7-0 | 35yo | Boxing | +186 (2.86)\n• Odds history:\n  ◦ 
+ 23 Nov: Tulio 🟢 -180 (1.56) | Park 🔴 +186 (2.86)\n\n🥊 3. 𝗣𝗮
+ 𝘃𝗲𝗹 𝗔𝗻𝗱𝗿𝘂𝘀𝗰𝗮 🇲🇩 vs. 𝗠𝗮𝗵
+ 𝗮𝗺𝗺𝗮𝗱𝗮𝗹𝗶 𝗢𝘀𝗺𝗮𝗻𝗹𝗶 🇦🇿\n
+ • 135lbs/61kg Bantamweight\n• Andrusca: 9-0-0 | 24yo | -130 (1.77)\n
+ • Osmanli: 13-2-0 | 22yo | MMA | +133 (2.33)\n• Odds history:\n  ◦ 2
+ 3 Nov: Andrusca 🟢 -130 (1.77) | Osmanli 🔴 +133 (2.33)\n\n🥊 2. 
+ 𝗠𝗼𝗱𝗲𝘀𝘁𝗶𝗻𝗼 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘀 
+ 🇧🇷 vs. 𝗠𝗮𝘁𝘁𝗵𝗶𝗲𝘂 𝗗𝘂𝗰𝗹𝗼𝘀 
+ 🇫🇷\n• 185lbs/84kg Middleweight\n• Rodrigues: 1-0-0 | 23yo | +126
+  (2.26)\n• Duclos: 11-3-0 | 31yo | MMA | -122 (1.82)\n• Odds history:\
+ n  ◦ 23 Nov: Rodrigues 🔴 +126 (2.26) | Duclos 🟢 -122 (1.82)\n\n
+ 🥊 1. 𝗔𝗯𝗱𝘂𝗹 𝗛𝘂𝘀𝘀𝗲𝗶𝗻 🇫🇮 vs. 
+ 𝗛𝗲𝗰𝗵𝗲𝗿 𝗦𝗼𝘀𝗮 🇪🇸\n• 135lbs/61kg Bantam
+ weight\n• Hussein: 16-2-0 | 29yo | Brazilian Jiu-Jitsu | -163 (1.61)\n
+ • Sosa: 15-1-0 | 31yo | MMA | +150 (2.50)\n• Odds history:\n  ◦ 23 N
+ ov: Hussein 🟢 -163 (1.61) | Sosa 🔴 +150 (2.50)\n\n------------------
+ --------------\nSource: https://www.ufc.com/event/ufc-fight-night-december
+ -05-2026\nOdds source: https://www.bestfightodds.com/ · best available li
+ ne · checked Monday and Friday\nFull odds log: https://staircasewit.githu
+ b.io/mmacalendar/odds-history.html\nEvent status: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Prelims · 6 bouts<br>
  📍 The Venue\, Riyadh\, Saudi Arabia<br>🕒 15:00–18:00 Ireland</p><p
  >--------------------------------<br><strong>𝗕𝗢𝗨𝗧𝗦</strong>
  <br>--------------------------------</p><p><strong>🥊 6. 𝗕𝗿𝘂
  𝗻𝗼 𝗦𝗶𝗹𝘃𝗮 🇧🇷 vs. 𝗝𝗮𝗳𝗲𝗹 𝗙𝗶
  𝗹𝗵𝗼 🇧🇷</strong><br>• 125lbs/57kg Flyweight<br>• Silva: 
- 15-9-2 | 36yo | Grappler<br>• Filho: 17-5-0 | 33yo | Grappler<br>• Odd
- s history: not checked yet</p><p><strong>🥊 5. 𝗨𝗿𝗮𝗻 𝗦𝗮
- 𝘁𝘆𝗯𝗮𝗹𝗱𝗶𝗲𝘃 🇰🇬 vs. 𝗜𝘃𝗮𝗻 𝗚
- 𝗻𝗶𝘇𝗱𝗶𝘁𝘀𝗸𝗶𝘆</strong><br>• 205lbs/93kg Light
-  Heavyweight<br>• Satybaldiev: 9-1-0 | 32yo | MMA<br>• Gnizditskiy: 0-
- 0-0 | 30yo<br>• Odds history: not checked yet</p><p><strong>🥊 4. 𝗠
- 𝗮𝗿𝗰𝗼 𝗧𝘂𝗹𝗶𝗼 🇧🇷 vs. 𝗝𝘂𝗻𝗬𝗼
- 𝗻𝗴 𝗣𝗮𝗿𝗸 🇰🇷</strong><br>• 185lbs/84kg Middleweigh
- t<br>• Tulio: 14-3-0 | 32yo | Striker<br>• Park: 19-7-0 | 35yo | Boxin
- g<br>• Odds history: not checked yet</p><p><strong>🥊 3. 𝗣𝗮𝘃
- 𝗲𝗹 𝗔𝗻𝗱𝗿𝘂𝘀𝗰𝗮 🇲🇩 vs. 𝗠𝗮𝗵𝗮
- 𝗺𝗺𝗮𝗱𝗮𝗹𝗶 𝗢𝘀𝗺𝗮𝗻𝗹𝗶 🇦🇿</strong
- ><br>• 135lbs/61kg Bantamweight<br>• Andrusca: 9-0-0 | 24yo<br>• Osm
- anli: 13-2-0 | 22yo | MMA<br>• Odds history: not checked yet</p><p><stro
- ng>🥊 2. 𝗠𝗼𝗱𝗲𝘀𝘁𝗶𝗻𝗼 𝗥𝗼𝗱𝗿𝗶𝗴
- 𝘂𝗲𝘀 🇧🇷 vs. 𝗠𝗮𝘁𝘁𝗵𝗶𝗲𝘂 𝗗𝘂𝗰
- 𝗹𝗼𝘀 🇫🇷</strong><br>• 185lbs/84kg Middleweight<br>• Rodr
- igues: 1-0-0 | 23yo<br>• Duclos: 11-3-0 | 31yo | MMA<br>• Odds history
- : not checked yet</p><p><strong>🥊 1. 𝗔𝗯𝗱𝘂𝗹 𝗛𝘂𝘀
- 𝘀𝗲𝗶𝗻 🇫🇮 vs. 𝗛𝗲𝗰𝗵𝗲𝗿 𝗦𝗼𝘀𝗮 
- 🇪🇸</strong><br>• 135lbs/61kg Bantamweight<br>• Hussein: 16-2-0 |
-  29yo | Brazilian Jiu-Jitsu<br>• Sosa: 15-1-0 | 31yo | MMA<br>• Odds h
- istory: not checked yet</p><p>--------------------------------<br>Source: 
- <a href="https://www.ufc.com/event/ufc-fight-night-december-05-2026">UFC.c
- om</a><br>Full odds log: <a href="https://staircasewit.github.io/mmacalend
- ar/odds-history.html">view history</a><br>Event status: Scheduled</p></bod
- y></html>
+ 15-9-2 | 36yo | Grappler | +126 (2.26)<br>• Filho: 17-5-0 | 33yo | Grapp
+ ler | -127 (1.79)<br>• Odds history:<br>◦ 23 Nov: Silva 🔴 +126 (2.2
+ 6) | Filho 🟢 -127 (1.79)</p><p><strong>🥊 5. 𝗨𝗿𝗮𝗻 𝗦
+ 𝗮𝘁𝘆𝗯𝗮𝗹𝗱𝗶𝗲𝘃 🇰🇬 vs. 𝗜𝘃𝗮𝗻 
+ 𝗚𝗻𝗶𝘇𝗱𝗶𝘁𝘀𝗸𝗶𝘆</strong><br>• 205lbs/93kg L
+ ight Heavyweight<br>• Satybaldiev: 9-1-0 | 32yo | MMA | +118 (2.18)<br>
+ • Gnizditskiy: 0-0-0 | 30yo | -117 (1.85)<br>• Odds history:<br>◦ 23
+  Nov: Satybaldiev 🔴 +118 (2.18) | Gnizditskiy 🟢 -117 (1.85)</p><p><s
+ trong>🥊 4. 𝗠𝗮𝗿𝗰𝗼 𝗧𝘂𝗹𝗶𝗼 🇧🇷 vs. 𝗝
+ 𝘂𝗻𝗬𝗼𝗻𝗴 𝗣𝗮𝗿𝗸 🇰🇷</strong><br>• 185lbs/
+ 84kg Middleweight<br>• Tulio: 14-3-0 | 32yo | Striker | -180 (1.56)<br>
+ • Park: 19-7-0 | 35yo | Boxing | +186 (2.86)<br>• Odds history:<br>◦
+  23 Nov: Tulio 🟢 -180 (1.56) | Park 🔴 +186 (2.86)</p><p><strong>🥊
+  3. 𝗣𝗮𝘃𝗲𝗹 𝗔𝗻𝗱𝗿𝘂𝘀𝗰𝗮 🇲🇩 vs. 
+ 𝗠𝗮𝗵𝗮𝗺𝗺𝗮𝗱𝗮𝗹𝗶 𝗢𝘀𝗺𝗮𝗻𝗹𝗶 
+ 🇦🇿</strong><br>• 135lbs/61kg Bantamweight<br>• Andrusca: 9-0-0 |
+  24yo | -130 (1.77)<br>• Osmanli: 13-2-0 | 22yo | MMA | +133 (2.33)<br>
+ • Odds history:<br>◦ 23 Nov: Andrusca 🟢 -130 (1.77) | Osmanli 🔴 
+ +133 (2.33)</p><p><strong>🥊 2. 𝗠𝗼𝗱𝗲𝘀𝘁𝗶𝗻𝗼 
+ 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘀 🇧🇷 vs. 𝗠𝗮𝘁𝘁𝗵𝗶
+ 𝗲𝘂 𝗗𝘂𝗰𝗹𝗼𝘀 🇫🇷</strong><br>• 185lbs/84kg Mid
+ dleweight<br>• Rodrigues: 1-0-0 | 23yo | +126 (2.26)<br>• Duclos: 11-3
+ -0 | 31yo | MMA | -122 (1.82)<br>• Odds history:<br>◦ 23 Nov: Rodrigue
+ s 🔴 +126 (2.26) | Duclos 🟢 -122 (1.82)</p><p><strong>🥊 1. 𝗔
+ 𝗯𝗱𝘂𝗹 𝗛𝘂𝘀𝘀𝗲𝗶𝗻 🇫🇮 vs. 𝗛𝗲𝗰
+ 𝗵𝗲𝗿 𝗦𝗼𝘀𝗮 🇪🇸</strong><br>• 135lbs/61kg Bantamw
+ eight<br>• Hussein: 16-2-0 | 29yo | Brazilian Jiu-Jitsu | -163 (1.61)<br
+ >• Sosa: 15-1-0 | 31yo | MMA | +150 (2.50)<br>• Odds history:<br>◦ 2
+ 3 Nov: Hussein 🟢 -163 (1.61) | Sosa 🔴 +150 (2.50)</p><p>------------
+ --------------------<br>Source: <a href="https://www.ufc.com/event/ufc-fig
+ ht-night-december-05-2026">UFC.com</a><br>Odds source: <a href="https://ww
+ w.bestfightodds.com/">BestFightOdds</a> · best available line · checked 
+ Monday and Friday<br>Full odds log: <a href="https://staircasewit.github.i
+ o/mmacalendar/odds-history.html">view history</a><br>Event status: Schedul
+ ed</p></body></html>
 LOCATION:The Venue\, Riyadh\, Saudi Arabia
 URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
 CATEGORIES:UFC,Prelims
@@ -5167,8 +5183,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
 DTSTAMP:20261111T142813Z
-LAST-MODIFIED:20261120T153140Z
-SEQUENCE:4
+LAST-MODIFIED:20261123T181702Z
+SEQUENCE:5
 DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
 SUMMARY:Main Card – UFC Fight Night: Adesanya vs Magomedov
@@ -5177,37 +5193,43 @@ DESCRIPTION:UFC · Main Card · 6 bouts\n📍 The Venue\, Riyadh\, Saudi Ar
  𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 6. 𝗜𝘀𝗿
  𝗮𝗲𝗹 𝗔𝗱𝗲𝘀𝗮𝗻𝘆𝗮 (#9) 🇳🇬 vs. 𝗦𝗵
  𝗮𝗿𝗮 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝗼𝘃 (#15) 🇷🇺\n• 185l
- bs/84kg Middleweight\n• Adesanya: 24-6-0 | 37yo | Freestyle | -157 (1.64
- )\n• Magomedov: 17-1-0 | 32yo | +140 (2.40)\n• Odds history:\n  ◦ 13
-  Nov: Adesanya 🟢 -157 (1.64) | Magomedov 🔴 +130 (2.30)\n  ◦ 16 Nov
- : Adesanya 🟢 -150 (1.67) | Magomedov 🔴 +130 (2.30)\n  ◦ 20 Nov: Ad
- esanya 🟢 -157 (1.64) | Magomedov 🔴 +140 (2.40)\n\n🥊 5. 𝗜𝗮
- 𝗻 𝗠𝗮𝗰𝗵𝗮𝗱𝗼 𝗚𝗮𝗿𝗿𝘆 (#1) 🇮🇪 vs. 
- 𝗬𝗮𝗿𝗼𝘀𝗹𝗮𝘃 𝗔𝗺𝗼𝘀𝗼𝘃 (#11) 🇺🇦\n
- • 170lbs/77kg Welterweight\n• Machado Garry: 17-2-0 | 29yo | -175 (1.5
- 7)\n• Amosov: 29-1-0 | 33yo | +155 (2.55)\n• Odds history:\n  ◦ 13 N
- ov: Machado Garry 🟢 -175 (1.57) | Amosov 🔴 +140 (2.40)\n  ◦ 16 Nov
- : Machado Garry 🟢 -175 (1.57) | Amosov 🔴 +148 (2.48)\n  ◦ 20 Nov: 
- Machado Garry 🟢 -175 (1.57) | Amosov 🔴 +155 (2.55)\n\n🥊 4. 𝗦
- 𝗲𝗿𝗴𝗵𝗲𝗶 𝗦𝗽𝗶𝘃𝗮𝗰 (#10) 🇲🇩 vs. 𝗠
- 𝗮𝗿𝗶𝗼 𝗣𝗶𝗻𝘁𝗼 (#15) 🇵🇹\n• 265lbs/120kg Hea
- vyweight\n• Spivac: 18-7-0 | 31yo | Sambo\n• Pinto: 13-0-0 | 28yo | MM
- A\n• Odds history: not checked yet\n\n🥊 3. 𝗟𝗲𝘃𝗮𝗻 𝗖
- 𝗵𝗼𝗸𝗵𝗲𝗹𝗶 🇬🇪 vs. 𝗜𝘀𝗹𝗮𝗺 𝗗𝘂
- 𝗹𝗮𝘁𝗼𝘃 🇹🇷\n• 170lbs/77kg Welterweight\n• Chokheli:
-  15-3-0 | 30yo | MMA\n• Dulatov: 12-1-0 | 28yo | MMA\n• Odds history: 
- not checked yet\n\n🥊 2. 𝗠𝗮𝗶𝗿𝗼𝗻 𝗦𝗮𝗻𝘁𝗼
- 𝘀 🇧🇷 vs. 𝗔𝗸𝗯𝗮𝗿 𝗔𝗯𝗱𝘂𝗹𝗹𝗮𝗲
- 𝘃 🇰🇬\n• 155lbs/70kg Lightweight\n• Santos: 18-1-0 | 26yo | St
- riker\n• Abdullaev: 1-0-0 | 29yo\n• Odds history: not checked yet\n\n
- 🥊 1. 𝗠𝗮𝗴𝗼𝗺𝗲𝗱 𝗧𝘂𝗰𝗵𝗮𝗹𝗼𝘃 🇷
- 🇺 vs. 𝗜𝗼𝗻 𝗖𝘂𝘁𝗲𝗹𝗮𝗯𝗮 🇲🇩\n• 205lb
- s/93kg Light Heavyweight\n• Tuchalov: 7-0-0 | 26yo | Striker\n• Cutela
- ba: 20-12-1 | 32yo | Sambo\n• Odds history: not checked yet\n\n---------
- -----------------------\nSource: https://www.ufc.com/event/ufc-fight-night
- -december-05-2026\nOdds source: https://www.bestfightodds.com/ · best ava
- ilable line · checked Monday and Friday\nFull odds log: https://staircase
- wit.github.io/mmacalendar/odds-history.html\nEvent status: Scheduled
+ bs/84kg Middleweight\n• Adesanya: 24-6-0 | 37yo | Freestyle | -144 (1.69
+ )\n• Magomedov: 17-1-0 | 32yo | +142 (2.42)\n• Odds history:\n  ◦ 16
+  Nov: Adesanya 🟢 -150 (1.67) | Magomedov 🔴 +130 (2.30)\n  ◦ 20 Nov
+ : Adesanya 🟢 -157 (1.64) | Magomedov 🔴 +140 (2.40)\n  ◦ 23 Nov: Ad
+ esanya 🟢 -144 (1.69) | Magomedov 🔴 +142 (2.42)\n  ◦ Earlier change
+ s: see full odds log\n\n🥊 5. 𝗜𝗮𝗻 𝗠𝗮𝗰𝗵𝗮𝗱𝗼 
+ 𝗚𝗮𝗿𝗿𝘆 (#1) 🇮🇪 vs. 𝗬𝗮𝗿𝗼𝘀𝗹𝗮𝘃 
+ 𝗔𝗺𝗼𝘀𝗼𝘃 (#11) 🇺🇦\n• 170lbs/77kg Welterweight\n•
+  Machado Garry: 17-2-0 | 29yo | -175 (1.57)\n• Amosov: 29-1-0 | 33yo | +
+ 203 (3.03)\n• Odds history:\n  ◦ 16 Nov: Machado Garry 🟢 -175 (1.57
+ ) | Amosov 🔴 +148 (2.48)\n  ◦ 20 Nov: Machado Garry 🟢 -175 (1.57) 
+ | Amosov 🔴 +155 (2.55)\n  ◦ 23 Nov: Machado Garry 🟢 -175 (1.57) | 
+ Amosov 🔴 +203 (3.03)\n  ◦ Earlier changes: see full odds log\n\n🥊 
+ 4. 𝗦𝗲𝗿𝗴𝗵𝗲𝗶 𝗦𝗽𝗶𝘃𝗮𝗰 (#10) 🇲🇩 vs
+ . 𝗠𝗮𝗿𝗶𝗼 𝗣𝗶𝗻𝘁𝗼 (#15) 🇵🇹\n• 265lbs/120
+ kg Heavyweight\n• Spivac: 18-7-0 | 31yo | Sambo | +300 (4.00)\n• Pinto
+ : 13-0-0 | 28yo | MMA | -317 (1.32)\n• Odds history:\n  ◦ 23 Nov: Spiv
+ ac 🔴 +300 (4.00) | Pinto 🟢 -317 (1.32)\n\n🥊 3. 𝗟𝗲𝘃𝗮
+ 𝗻 𝗖𝗵𝗼𝗸𝗵𝗲𝗹𝗶 🇬🇪 vs. 𝗜𝘀𝗹𝗮𝗺 
+ 𝗗𝘂𝗹𝗮𝘁𝗼𝘃 🇹🇷\n• 170lbs/77kg Welterweight\n• C
+ hokheli: 15-3-0 | 30yo | MMA | +190 (2.90)\n• Dulatov: 12-1-0 | 28yo | M
+ MA | -170 (1.59)\n• Odds history:\n  ◦ 23 Nov: Chokheli 🔴 +190 (2.9
+ 0) | Dulatov 🟢 -170 (1.59)\n\n🥊 2. 𝗠𝗮𝗶𝗿𝗼𝗻 𝗦𝗮
+ 𝗻𝘁𝗼𝘀 🇧🇷 vs. 𝗔𝗸𝗯𝗮𝗿 𝗔𝗯𝗱𝘂𝗹
+ 𝗹𝗮𝗲𝘃 🇰🇬\n• 155lbs/70kg Lightweight\n• Santos: 18-1-0
+  | 26yo | Striker | +257 (3.57)\n• Abdullaev: 1-0-0 | 29yo | -270 (1.37)
+ \n• Odds history:\n  ◦ 23 Nov: Santos 🔴 +257 (3.57) | Abdullaev 
+ 🟢 -270 (1.37)\n\n🥊 1. 𝗠𝗮𝗴𝗼𝗺𝗲𝗱 𝗧𝘂𝗰𝗵
+ 𝗮𝗹𝗼𝘃 🇷🇺 vs. 𝗜𝗼𝗻 𝗖𝘂𝘁𝗲𝗹𝗮𝗯
+ 𝗮 🇲🇩\n• 205lbs/93kg Light Heavyweight\n• Tuchalov: 7-0-0 | 26
+ yo | Striker | -188 (1.53)\n• Cutelaba: 20-12-1 | 32yo | Sambo | +146 (2
+ .46)\n• Odds history:\n  ◦ 23 Nov: Tuchalov 🟢 -188 (1.53) | Cutelab
+ a 🔴 +146 (2.46)\n\n--------------------------------\nSource: https://ww
+ w.ufc.com/event/ufc-fight-night-december-05-2026\nOdds source: https://www
+ .bestfightodds.com/ · best available line · checked Monday and Friday\nF
+ ull odds log: https://staircasewit.github.io/mmacalendar/odds-history.html
+ \nEvent status: Scheduled
 X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  📍 The Venue\, Riyadh\, Saudi Arabia<br>🕒 18:00–21:00 Ireland</p><p
  >--------------------------------<br><strong>𝗕𝗢𝗨𝗧𝗦</strong>
@@ -5215,40 +5237,45 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 6 bouts<br>
  𝗮𝗲𝗹 𝗔𝗱𝗲𝘀𝗮𝗻𝘆𝗮 (#9) 🇳🇬 vs. 𝗦𝗵
  𝗮𝗿𝗮 𝗠𝗮𝗴𝗼𝗺𝗲𝗱𝗼𝘃 (#15) 🇷🇺</strong><
  br>• 185lbs/84kg Middleweight<br>• Adesanya: 24-6-0 | 37yo | Freestyle
-  | -157 (1.64)<br>• Magomedov: 17-1-0 | 32yo | +140 (2.40)<br>• Odds h
- istory:<br>◦ 13 Nov: Adesanya 🟢 -157 (1.64) | Magomedov 🔴 +130 (2.
- 30)<br>◦ 16 Nov: Adesanya 🟢 -150 (1.67) | Magomedov 🔴 +130 (2.30)<
- br>◦ 20 Nov: Adesanya 🟢 -157 (1.64) | Magomedov 🔴 +140 (2.40)</p><
- p><strong>🥊 5. 𝗜𝗮𝗻 𝗠𝗮𝗰𝗵𝗮𝗱𝗼 𝗚𝗮𝗿
- 𝗿𝘆 (#1) 🇮🇪 vs. 𝗬𝗮𝗿𝗼𝘀𝗹𝗮𝘃 𝗔𝗺𝗼
- 𝘀𝗼𝘃 (#11) 🇺🇦</strong><br>• 170lbs/77kg Welterweight<br>
- • Machado Garry: 17-2-0 | 29yo | -175 (1.57)<br>• Amosov: 29-1-0 | 33y
- o | +155 (2.55)<br>• Odds history:<br>◦ 13 Nov: Machado Garry 🟢 -17
- 5 (1.57) | Amosov 🔴 +140 (2.40)<br>◦ 16 Nov: Machado Garry 🟢 -175 
- (1.57) | Amosov 🔴 +148 (2.48)<br>◦ 20 Nov: Machado Garry 🟢 -175 (1
- .57) | Amosov 🔴 +155 (2.55)</p><p><strong>🥊 4. 𝗦𝗲𝗿𝗴𝗵
- 𝗲𝗶 𝗦𝗽𝗶𝘃𝗮𝗰 (#10) 🇲🇩 vs. 𝗠𝗮𝗿𝗶𝗼 
- 𝗣𝗶𝗻𝘁𝗼 (#15) 🇵🇹</strong><br>• 265lbs/120kg Heavyweig
- ht<br>• Spivac: 18-7-0 | 31yo | Sambo<br>• Pinto: 13-0-0 | 28yo | MMA<
- br>• Odds history: not checked yet</p><p><strong>🥊 3. 𝗟𝗲𝘃
- 𝗮𝗻 𝗖𝗵𝗼𝗸𝗵𝗲𝗹𝗶 🇬🇪 vs. 𝗜𝘀𝗹𝗮
- 𝗺 𝗗𝘂𝗹𝗮𝘁𝗼𝘃 🇹🇷</strong><br>• 170lbs/77kg Wel
- terweight<br>• Chokheli: 15-3-0 | 30yo | MMA<br>• Dulatov: 12-1-0 | 28
- yo | MMA<br>• Odds history: not checked yet</p><p><strong>🥊 2. 𝗠
- 𝗮𝗶𝗿𝗼𝗻 𝗦𝗮𝗻𝘁𝗼𝘀 🇧🇷 vs. 𝗔𝗸𝗯
- 𝗮𝗿 𝗔𝗯𝗱𝘂𝗹𝗹𝗮𝗲𝘃 🇰🇬</strong><br>• 155
- lbs/70kg Lightweight<br>• Santos: 18-1-0 | 26yo | Striker<br>• Abdulla
- ev: 1-0-0 | 29yo<br>• Odds history: not checked yet</p><p><strong>🥊 1
- . 𝗠𝗮𝗴𝗼𝗺𝗲𝗱 𝗧𝘂𝗰𝗵𝗮𝗹𝗼𝘃 🇷🇺 v
- s. 𝗜𝗼𝗻 𝗖𝘂𝘁𝗲𝗹𝗮𝗯𝗮 🇲🇩</strong><br>• 
- 205lbs/93kg Light Heavyweight<br>• Tuchalov: 7-0-0 | 26yo | Striker<br>
- • Cutelaba: 20-12-1 | 32yo | Sambo<br>• Odds history: not checked yet<
- /p><p>--------------------------------<br>Source: <a href="https://www.ufc
- .com/event/ufc-fight-night-december-05-2026">UFC.com</a><br>Odds source: <
- a href="https://www.bestfightodds.com/">BestFightOdds</a> · best availabl
- e line · checked Monday and Friday<br>Full odds log: <a href="https://sta
- ircasewit.github.io/mmacalendar/odds-history.html">view history</a><br>Eve
- nt status: Scheduled</p></body></html>
+  | -144 (1.69)<br>• Magomedov: 17-1-0 | 32yo | +142 (2.42)<br>• Odds h
+ istory:<br>◦ 16 Nov: Adesanya 🟢 -150 (1.67) | Magomedov 🔴 +130 (2.
+ 30)<br>◦ 20 Nov: Adesanya 🟢 -157 (1.64) | Magomedov 🔴 +140 (2.40)<
+ br>◦ 23 Nov: Adesanya 🟢 -144 (1.69) | Magomedov 🔴 +142 (2.42)<br>
+ ◦ Earlier changes: see full odds log</p><p><strong>🥊 5. 𝗜𝗮𝗻 
+ 𝗠𝗮𝗰𝗵𝗮𝗱𝗼 𝗚𝗮𝗿𝗿𝘆 (#1) 🇮🇪 vs. 𝗬
+ 𝗮𝗿𝗼𝘀𝗹𝗮𝘃 𝗔𝗺𝗼𝘀𝗼𝘃 (#11) 🇺🇦</stro
+ ng><br>• 170lbs/77kg Welterweight<br>• Machado Garry: 17-2-0 | 29yo | 
+ -175 (1.57)<br>• Amosov: 29-1-0 | 33yo | +203 (3.03)<br>• Odds history
+ :<br>◦ 16 Nov: Machado Garry 🟢 -175 (1.57) | Amosov 🔴 +148 (2.48)<
+ br>◦ 20 Nov: Machado Garry 🟢 -175 (1.57) | Amosov 🔴 +155 (2.55)<br
+ >◦ 23 Nov: Machado Garry 🟢 -175 (1.57) | Amosov 🔴 +203 (3.03)<br>
+ ◦ Earlier changes: see full odds log</p><p><strong>🥊 4. 𝗦𝗲𝗿
+ 𝗴𝗵𝗲𝗶 𝗦𝗽𝗶𝘃𝗮𝗰 (#10) 🇲🇩 vs. 𝗠𝗮𝗿
+ 𝗶𝗼 𝗣𝗶𝗻𝘁𝗼 (#15) 🇵🇹</strong><br>• 265lbs/120kg 
+ Heavyweight<br>• Spivac: 18-7-0 | 31yo | Sambo | +300 (4.00)<br>• Pint
+ o: 13-0-0 | 28yo | MMA | -317 (1.32)<br>• Odds history:<br>◦ 23 Nov: S
+ pivac 🔴 +300 (4.00) | Pinto 🟢 -317 (1.32)</p><p><strong>🥊 3. 𝗟
+ 𝗲𝘃𝗮𝗻 𝗖𝗵𝗼𝗸𝗵𝗲𝗹𝗶 🇬🇪 vs. 𝗜𝘀
+ 𝗹𝗮𝗺 𝗗𝘂𝗹𝗮𝘁𝗼𝘃 🇹🇷</strong><br>• 170lbs/
+ 77kg Welterweight<br>• Chokheli: 15-3-0 | 30yo | MMA | +190 (2.90)<br>
+ • Dulatov: 12-1-0 | 28yo | MMA | -170 (1.59)<br>• Odds history:<br>◦
+  23 Nov: Chokheli 🔴 +190 (2.90) | Dulatov 🟢 -170 (1.59)</p><p><stron
+ g>🥊 2. 𝗠𝗮𝗶𝗿𝗼𝗻 𝗦𝗮𝗻𝘁𝗼𝘀 🇧🇷 vs. 
+ 𝗔𝗸𝗯𝗮𝗿 𝗔𝗯𝗱𝘂𝗹𝗹𝗮𝗲𝘃 🇰🇬</strong
+ ><br>• 155lbs/70kg Lightweight<br>• Santos: 18-1-0 | 26yo | Striker | 
+ +257 (3.57)<br>• Abdullaev: 1-0-0 | 29yo | -270 (1.37)<br>• Odds histo
+ ry:<br>◦ 23 Nov: Santos 🔴 +257 (3.57) | Abdullaev 🟢 -270 (1.37)</p
+ ><p><strong>🥊 1. 𝗠𝗮𝗴𝗼𝗺𝗲𝗱 𝗧𝘂𝗰𝗵𝗮𝗹
+ 𝗼𝘃 🇷🇺 vs. 𝗜𝗼𝗻 𝗖𝘂𝘁𝗲𝗹𝗮𝗯𝗮 🇲
+ 🇩</strong><br>• 205lbs/93kg Light Heavyweight<br>• Tuchalov: 7-0-0 
+ | 26yo | Striker | -188 (1.53)<br>• Cutelaba: 20-12-1 | 32yo | Sambo | +
+ 146 (2.46)<br>• Odds history:<br>◦ 23 Nov: Tuchalov 🟢 -188 (1.53) |
+  Cutelaba 🔴 +146 (2.46)</p><p>--------------------------------<br>Sourc
+ e: <a href="https://www.ufc.com/event/ufc-fight-night-december-05-2026">UF
+ C.com</a><br>Odds source: <a href="https://www.bestfightodds.com/">BestFig
+ htOdds</a> · best available line · checked Monday and Friday<br>Full odd
+ s log: <a href="https://staircasewit.github.io/mmacalendar/odds-history.ht
+ ml">view history</a><br>Event status: Scheduled</p></body></html>
 LOCATION:The Venue\, Riyadh\, Saudi Arabia
 URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
 CATEGORIES:UFC,Main Card
@@ -5335,8 +5362,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-335-main-card@ufc-detailed-calendar
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261120T153140Z
-SEQUENCE:12
+LAST-MODIFIED:20261123T181702Z
+SEQUENCE:13
 DTSTART:20261213T020000Z
 DTEND:20261213T050000Z
 SUMMARY:Main Card – UFC 335: Oliveira vs Lopes
@@ -5353,10 +5380,10 @@ DESCRIPTION:UFC · Main Card · 5 bouts\n📍 T-Mobile Arena\, Las Vegas\,
  𝗣𝗲𝗿𝗲𝗶𝗿𝗮 🇧🇷 vs. 𝗦𝗲𝗿𝗴𝗲𝗶 𝗣
  𝗮𝘃𝗹𝗼𝘃𝗶𝗰𝗵 (#3) 🇷🇺\n• 265lbs/120kg Heavyweig
  ht\n• Pereira: 13-4-0 | 39yo | Kickboxer | +163 (2.63)\n• Pavlovich: 2
- 1-3-0 | 34yo | MMA | -200 (1.50)\n• Odds history:\n  ◦ 16 Oct: Pereira
-  🔴 +163 (2.63) | Pavlovich 🟢 -175 (1.57)\n  ◦ 23 Oct: Pereira 🔴
-  +163 (2.63) | Pavlovich 🟢 -200 (1.50)\n  ◦ 6 Nov: Pereira 🔴 +163 
- (2.63) | Pavlovich 🟢 -200 (1.50)\n  ◦ Earlier changes: see full odds 
+ 1-3-0 | 34yo | MMA | -190 (1.53)\n• Odds history:\n  ◦ 23 Oct: Pereira
+  🔴 +163 (2.63) | Pavlovich 🟢 -200 (1.50)\n  ◦ 6 Nov: Pereira 🔴 
+ +163 (2.63) | Pavlovich 🟢 -200 (1.50)\n  ◦ 23 Nov: Pereira 🔴 +163 
+ (2.63) | Pavlovich 🟢 -190 (1.53)\n  ◦ Earlier changes: see full odds 
  log\n\n🥊 3. 𝗕𝗿𝗮𝗻𝗱𝗼𝗻 𝗠𝗼𝗿𝗲𝗻𝗼 (#8) 
  🇲🇽 vs. 𝗖𝗵𝗮𝗿𝗹𝗲𝘀 𝗝𝗼𝗵𝗻𝘀𝗼𝗻 (#1
  4) 🇺🇸\n• 125lbs/57kg Flyweight\n• Moreno: 24-10-2 | 33yo | Jiu-J
@@ -5390,10 +5417,10 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 5 bouts<br>
  4. 𝗔𝗹𝗲𝘅 𝗣𝗲𝗿𝗲𝗶𝗿𝗮 🇧🇷 vs. 𝗦𝗲𝗿
  𝗴𝗲𝗶 𝗣𝗮𝘃𝗹𝗼𝘃𝗶𝗰𝗵 (#3) 🇷🇺</strong><b
  r>• 265lbs/120kg Heavyweight<br>• Pereira: 13-4-0 | 39yo | Kickboxer |
-  +163 (2.63)<br>• Pavlovich: 21-3-0 | 34yo | MMA | -200 (1.50)<br>• Od
- ds history:<br>◦ 16 Oct: Pereira 🔴 +163 (2.63) | Pavlovich 🟢 -175 
- (1.57)<br>◦ 23 Oct: Pereira 🔴 +163 (2.63) | Pavlovich 🟢 -200 (1.50
- )<br>◦ 6 Nov: Pereira 🔴 +163 (2.63) | Pavlovich 🟢 -200 (1.50)<br>
+  +163 (2.63)<br>• Pavlovich: 21-3-0 | 34yo | MMA | -190 (1.53)<br>• Od
+ ds history:<br>◦ 23 Oct: Pereira 🔴 +163 (2.63) | Pavlovich 🟢 -200 
+ (1.50)<br>◦ 6 Nov: Pereira 🔴 +163 (2.63) | Pavlovich 🟢 -200 (1.50)
+ <br>◦ 23 Nov: Pereira 🔴 +163 (2.63) | Pavlovich 🟢 -190 (1.53)<br>
  ◦ Earlier changes: see full odds log</p><p><strong>🥊 3. 𝗕𝗿𝗮
  𝗻𝗱𝗼𝗻 𝗠𝗼𝗿𝗲𝗻𝗼 (#8) 🇲🇽 vs. 𝗖𝗵𝗮
  𝗿𝗹𝗲𝘀 𝗝𝗼𝗵𝗻𝘀𝗼𝗻 (#14) 🇺🇸</strong><br>
@@ -5948,8 +5975,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-february-13-2027-main-card@ufc-detailed-calendar
 DTSTAMP:20261116T155309Z
-LAST-MODIFIED:20261116T155309Z
-SEQUENCE:0
+LAST-MODIFIED:20261123T181702Z
+SEQUENCE:1
 DTSTART:20270213T220000Z
 DTEND:20270214T010000Z
 SUMMARY:Main Card – UFC Fight Night: Pyfer vs Nickal
@@ -5958,8 +5985,8 @@ DESCRIPTION:UFC · Main Card · 1 bout announced · placement TBD\n📍 Roc
  s provisional entry updates automatically as UFC finalises the card.\n\n--
  ------------------------------\n𝗕𝗢𝗨𝗧𝗦\n--------------------
  ------------\n\n🥊 1. 𝗝𝗼𝗲 𝗣𝘆𝗳𝗲𝗿 (#6) 🇺🇸 vs
- . 𝗕𝗼 𝗡𝗶𝗰𝗸𝗮𝗹 (#14) 🇺🇸\n• 185lbs/84kg Middle
- weight\n• Pyfer: 16-3-0 | 30yo | Boxing\n• Nickal: 9-1-0 | 31yo | Wres
+ . 𝗕𝗼 𝗡𝗶𝗰𝗸𝗮𝗹 (#14) 🇺🇸\n• Weight class unava
+ ilable\n• Pyfer: 16-3-0 | 30yo | Boxing\n• Nickal: 9-1-0 | 31yo | Wres
  tler\n• Odds history: not checked yet\n\n-------------------------------
  -\nSource: https://www.ufc.com/event/ufc-fight-night-february-13-2027\nFul
  l odds log: https://staircasewit.github.io/mmacalendar/odds-history.html\n
@@ -5970,8 +5997,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><p>UFC · Main Card · 1 bout anno
  cally as UFC finalises the card.</p><p>--------------------------------<br
  ><strong>𝗕𝗢𝗨𝗧𝗦</strong><br>--------------------------------
  </p><p><strong>🥊 1. 𝗝𝗼𝗲 𝗣𝘆𝗳𝗲𝗿 (#6) 🇺🇸 vs.
-  𝗕𝗼 𝗡𝗶𝗰𝗸𝗮𝗹 (#14) 🇺🇸</strong><br>• 185lbs/8
- 4kg Middleweight<br>• Pyfer: 16-3-0 | 30yo | Boxing<br>• Nickal: 9-1-0
+  𝗕𝗼 𝗡𝗶𝗰𝗸𝗮𝗹 (#14) 🇺🇸</strong><br>• Weight c
+ lass unavailable<br>• Pyfer: 16-3-0 | 30yo | Boxing<br>• Nickal: 9-1-0
   | 31yo | Wrestler<br>• Odds history: not checked yet</p><p>------------
  --------------------<br>Source: <a href="https://www.ufc.com/event/ufc-fig
  ht-night-february-13-2027">UFC.com</a><br>Full odds log: <a href="https://

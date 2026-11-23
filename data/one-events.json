@@ -3408,20 +3408,16 @@
     "end": "20260627T042935Z",
     "summary": "ONE Fight Night 44",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/onefightnight44\n\nGeorge Jarvis vs. Rungrawee Sitsongpeenong | Muay Thai | Lightweight\n\nOk Rae Yoon vs. Lucas Gabriel | Mixed Martial Arts | Lightweight\n\nAkif Guluzada vs. Johan Estupinan | Kickboxing | Flyweight\n\nSam Fitzgerald vs. Charlie Guest | Muay Thai | Featherweight\n\nNakrob Fairtex vs. Jacob Smith | Muay Thai | Bantamweight\n\nFabricio Andrey vs. Owen Jones | Submission Grappling | Featherweight\n\nKaren Ghazaryan vs. Hisashi Ezaki | Mixed Martial Arts | Strawweight\n\nFerrari Fairtex vs. Shinji Suzuki | Muay Thai | Bantamweight\n\nPaul Elliott vs. Regan  Upshaw | Mixed Martial Arts | Heavyweight\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/onefightnight44\n\nGeorge Jarvis vs. Rungrawee Tingnotepadriew PK | Muay Thai | Lightweight\n\nOk Rae Yoon vs. Lucas Gabriel | Mixed Martial Arts | Lightweight\n\nAkif Guluzada vs. Johan Estupinan | Kickboxing | Flyweight\n\nSam Fitzgerald vs. Charlie Guest | Muay Thai | Featherweight\n\nNakrob Fairtex vs. Jacob Smith | Muay Thai | Bantamweight\n\nFabricio Andrey vs. Owen Jones | Submission Grappling | Featherweight\n\nKaren Ghazaryan vs. Hisashi Ezaki | Mixed Martial Arts | Strawweight\n\nFerrari Fairtex vs. Shinji Suzuki | Muay Thai | Bantamweight\n\nPaul Elliott vs. Regan  Upshaw | Mixed Martial Arts | Heavyweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/onefightnight44",
     "status": "CONFIRMED",
     "bouts": [
       {
         "redName": "George Jarvis",
-        "blueName": "Rungrawee Sitsongpeenong",
+        "blueName": "Rungrawee Tingnotepadriew PK",
         "details": "Lightweight Muay Thai",
-        "redCountry": "England",
-        "blueCountry": "Thailand",
         "redStyle": "Striker",
         "blueStyle": "Striker",
-        "redProfileUrl": "https://www.onefc.com/athletes/george-jarvis/",
-        "blueProfileUrl": "https://www.onefc.com/athletes/rungrawee-sitsongpeenong/",
         "redOdds": null,
         "blueOdds": null,
         "oddsHistory": []
@@ -11244,7 +11240,7 @@
   {
     "uid": "6a968c7d10c90c3a3d15f98f",
     "start": "20261120T113014Z",
-    "end": "20261120T163014Z",
+    "end": "20261120T163122Z",
     "summary": "ONE Friday Fights 179 & The Inner Circle 39",
     "location": "Lumpinee Stadium, Bangkok",
     "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-179\n\nChartpayak Saksatoon vs. Klarob NuiCafeboran | Muay Thai | Flyweight\n\nWuttikrai Wor Chakrawut vs. Superjeng Torfunfarm | Muay Thai | Bantamweight\n\nSunvo Torfunfarm vs. Rahim Tcherchaiko | Muay Thai | Flyweight\n\nNatty Dodds vs. Chalamkaw TeamMehdiZatout | Muay Thai | Bantamweight\n\nMirmehti Miriyev vs. Lutfullo Sohibnazarov | Mixed Martial Arts | Featherweight\n\nChalamdam Yotharakmuaythai vs. Chaiheng Patcharagym | Muay Thai | Flyweight\n\nMin Sung Kang vs. Hero Marco Manguray | Mixed Martial Arts | Lightweight\n\nKwankhao Pitaknongrua vs. Kana Oshikawa | Muay Thai | Atomweight\n\nSheng Yi Yang vs. Fuga Tokoro | Kickboxing | Strawweight\n\nAsadula Imangazaliev vs. Aslamjon Ortikov | Flyweight World Championship\n\nBlack Panther vs. Ubaid Hussain | Muay Thai | Flyweight\n\nAttachai Kelasport vs. Petnamkhong Sor Maneekhot  | Muay Thai | Strawweight\n\nAlessio Malatesta vs. Uzair Ismoiljonov | Muay Thai | Featherweight\n\nRak  Erawan vs. Salai Htan Khee Shein | Muay Thai | Atomweight\n\nDownload the ONE Super App Now!",
@@ -11783,8 +11779,8 @@
         "oddsHistory": []
       },
       {
-        "redName": "Panpayak Jitmuangnon",
-        "blueName": "Lamnamoonlek Torfunfarm",
+        "redName": "Lamnamoonlek Torfunfarm",
+        "blueName": "Panpayak Jitmuangnon",
         "details": "Flyweight Kickboxing",
         "redProfileUrl": "https://www.onefc.com/athletes/panpayak/",
         "blueProfileUrl": "https://www.onefc.com/athletes/lamnamoonlek-tded99/",
@@ -11827,10 +11823,30 @@
     "end": "20261211T163007Z",
     "summary": "ONE Friday Fights 182 & The Inner Circle 42",
     "location": "Lumpinee Stadium, Bangkok",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-182\n\nDownload the ONE Super App Now!",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-friday-fights-182\n\nJohan Ghazali vs. Johan Estupinan | Muay Thai | Flyweight\n\nDownload the ONE Super App Now!",
     "url": "https://watch.onefc.com/events/one-friday-fights-182",
     "status": "CONFIRMED",
-    "bouts": []
+    "bouts": [
+      {
+        "redName": "Johan Ghazali",
+        "blueName": "Johan Estupinan",
+        "details": "Flyweight Muay Thai",
+        "redProfileUrl": "https://www.onefc.com/athletes/johan-ghazali/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/johan-estupinan/",
+        "redCountry": "Malaysia / United States",
+        "blueCountry": "Colombia",
+        "redAge": 20,
+        "redRecord": "9-5-0",
+        "redStyle": "Striker",
+        "blueAge": 24,
+        "blueRecord": "6-2-0",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      }
+    ],
+    "detailsUrl": "https://www.onefc.com/events/one-friday-fights-182/"
   },
   {
     "uid": "691962b41a5f7bbe93610ca2",
@@ -11838,10 +11854,48 @@
     "end": "20261212T160000Z",
     "summary": "ONE 174: Shanghai",
     "location": "",
-    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one-174\n\nDownload the ONE Super App Now!",
-    "url": "https://watch.onefc.com/events/one-174",
+    "description": "Join us for an electrifying night of action at https://watch.onefc.com/events/one174\n\nTang Kai vs. Enkh-Orgil Baatarkhuu | Featherweight World Championship\n\nJonathan  Di Bella vs. Wang Junguang | Strawweight World Championship\n\nDownload the ONE Super App Now!",
+    "url": "https://watch.onefc.com/events/one174",
     "status": "CONFIRMED",
-    "bouts": []
+    "bouts": [
+      {
+        "redName": "Tang Kai",
+        "blueName": "Enkh-Orgil Baatarkhuu",
+        "details": "Featherweight MMA World Championship",
+        "redProfileUrl": "https://www.onefc.com/athletes/tang-kai/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/enkh-orgil-baatarkhuu/",
+        "redCountry": "China",
+        "blueCountry": "Mongolia",
+        "redAge": 30,
+        "redRecord": "9-1-0",
+        "redStyle": "Grappler",
+        "blueAge": 37,
+        "blueRecord": "7-2-0",
+        "blueStyle": "Grappler",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      },
+      {
+        "redName": "Jonathan Di Bella",
+        "blueName": "Wang Junguang",
+        "details": "Strawweight Kickboxing World Championship",
+        "redProfileUrl": "https://www.onefc.com/athletes/jonathan-di-bella/",
+        "blueProfileUrl": "https://www.onefc.com/athletes/wang-junguang/",
+        "redCountry": "Canada / Italy",
+        "blueCountry": "China",
+        "redAge": 30,
+        "redRecord": "6-1-0",
+        "redStyle": "Striker",
+        "blueAge": 31,
+        "blueRecord": "2-2-0",
+        "blueStyle": "Striker",
+        "redOdds": null,
+        "blueOdds": null,
+        "oddsHistory": []
+      }
+    ],
+    "detailsUrl": "https://www.onefc.com/events/one174/"
   },
   {
     "uid": "6a968d70687675b16b9f8e3f",

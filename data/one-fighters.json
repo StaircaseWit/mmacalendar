@@ -1151,9 +1151,9 @@
     "https://www.onefc.com/athletes/wang-junguang/": {
       "country": "China",
       "age": 31,
-      "record": "1-2-0",
+      "record": "2-2-0",
       "style": "Striker",
-      "checkedAt": "2026-09-18T11:20:58.725Z"
+      "checkedAt": "2026-11-23T18:17:02.229Z"
     },
     "https://www.onefc.com/athletes/superlek-jitmuangnon/": {
       "country": "Thailand",
@@ -1794,10 +1794,10 @@
     },
     "https://www.onefc.com/athletes/johan-ghazali/": {
       "country": "Malaysia / United States",
-      "age": 19,
-      "record": "8-5-0",
+      "age": 20,
+      "record": "9-5-0",
       "style": "Striker",
-      "checkedAt": "2026-10-09T13:22:33.422Z"
+      "checkedAt": "2026-11-23T18:17:02.229Z"
     },
     "https://www.onefc.com/athletes/diego-paez/": {
       "country": "Colombia / United States",
@@ -2876,6 +2876,34 @@
       "record": "10-4-0",
       "style": null,
       "checkedAt": "2026-11-20T15:31:40.369Z"
+    },
+    "https://www.onefc.com/athletes/johan-estupinan/": {
+      "country": "Colombia",
+      "age": 24,
+      "record": "6-2-0",
+      "style": "Striker",
+      "checkedAt": "2026-11-23T18:17:02.229Z"
+    },
+    "https://www.onefc.com/athletes/tang-kai/": {
+      "country": "China",
+      "age": 30,
+      "record": "9-1-0",
+      "style": "Grappler",
+      "checkedAt": "2026-11-23T18:17:02.229Z"
+    },
+    "https://www.onefc.com/athletes/enkh-orgil-baatarkhuu/": {
+      "country": "Mongolia",
+      "age": 37,
+      "record": "7-2-0",
+      "style": "Grappler",
+      "checkedAt": "2026-11-23T18:17:02.229Z"
+    },
+    "https://www.onefc.com/athletes/jonathan-di-bella/": {
+      "country": "Canada / Italy",
+      "age": 30,
+      "record": "6-1-0",
+      "style": "Striker",
+      "checkedAt": "2026-11-23T18:17:02.229Z"
     }
   }
 }

@@ -24,8 +24,8 @@
       "countryCode": "US",
       "birthDate": "1993-03-31",
       "record": "5-1-0",
-      "style": "Grappler",
-      "checkedAt": "2026-09-13T12:47:10.519Z"
+      "style": "All-rounder",
+      "checkedAt": "2026-11-23T18:17:02.229Z"
     },
     "https://jp.rizinff.com/_tags/%E5%A0%80%E6%B1%9F%E5%9C%AD%E5%8A%9F": {
       "name": "Yoshinori Horie",
@@ -466,7 +466,7 @@
       "birthDate": "2003-03-03",
       "record": "1-0-0",
       "style": "All-rounder",
-      "checkedAt": "2026-09-13T12:47:10.519Z"
+      "checkedAt": "2026-11-23T18:17:02.229Z"
     },
     "https://jp.rizinff.com/_tags/%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%AD%E3%83%B3%E3%82%B9": {
       "name": "Jake Wilkins",
@@ -779,9 +779,9 @@
       "origin": "キルギス",
       "countryCode": "KG",
       "birthDate": "2003-12-14",
-      "record": "1-0-0",
+      "record": "2-0-0",
       "style": "Grappler",
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-23T18:17:02.229Z"
     },
     "https://jp.rizinff.com/_tags/%E3%83%92%E3%83%AD%E3%83%A4": {
       "name": "Hiroya",
@@ -988,7 +988,7 @@
       "birthDate": "1989-10-16",
       "record": "10-5-0",
       "style": "Grappler",
-      "checkedAt": "2026-09-13T12:47:10.519Z"
+      "checkedAt": "2026-11-23T18:17:02.229Z"
     },
     "https://jp.rizinff.com/_tags/%E7%A7%8B%E5%85%83%E5%BC%B7%E7%9C%9F": {
       "name": "Kyoma Akimoto",
@@ -1211,9 +1211,9 @@
       "origin": "日本 宮崎県",
       "countryCode": "JP",
       "birthDate": "2000-12-29",
-      "record": "1-1-0",
+      "record": "2-1-0",
       "style": "All-rounder",
-      "checkedAt": "2026-09-13T12:47:10.519Z"
+      "checkedAt": "2026-11-23T18:17:02.229Z"
     },
     "https://jp.rizinff.com/_tags/%E4%B8%8A%E7%94%B0%E5%B0%86%E5%B9%B4": {
       "name": "Masatoshi Ueda",
@@ -1292,9 +1292,9 @@
       "origin": "ブラジル サンパウロ",
       "countryCode": "BR",
       "birthDate": "1986-04-04",
-      "record": "5-2-0",
+      "record": "6-2-0",
       "style": "All-rounder",
-      "checkedAt": "2026-09-13T12:47:10.519Z"
+      "checkedAt": "2026-11-23T18:17:02.229Z"
     },
     "https://jp.rizinff.com/_tags/%E3%83%8F%E3%83%B3%E3%83%88%E3%83%BB%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BA": {
       "name": "Hunt Rangers",
@@ -1535,10 +1535,10 @@
       "birthDate": null,
       "record": null,
       "style": null,
-      "checkedAt": "2026-11-20T15:31:40.369Z"
+      "checkedAt": "2026-11-23T18:17:02.229Z"
     },
     "https://jp.rizinff.com/_tags/YAMAN": {
-      "checkedAt": "2026-11-20T15:31:40.369Z"
+      "checkedAt": "2026-11-23T18:17:02.229Z"
     },
     "https://jp.rizinff.com/_tags/%E6%9D%91%E5%85%83%E5%8F%8B%E5%A4%AA%E9%83%8E": {
       "name": "Yutaro Muramoto",
@@ -1593,6 +1593,60 @@
       "record": "2-2-0",
       "style": "All-rounder",
       "checkedAt": "2026-11-09T16:28:05.706Z"
+    },
+    "https://jp.rizinff.com/_tags/%E3%83%9B%E3%82%BB%E3%83%BB%E3%83%88%E3%83%BC%E3%83%AC%E3%82%B9": {
+      "name": "Jose Torres",
+      "origin": "アメリカ合衆国 イリノイ州",
+      "countryCode": "US",
+      "birthDate": "1992-08-02",
+      "record": "1-2-0",
+      "style": "All-rounder",
+      "checkedAt": "2026-11-23T18:17:02.229Z"
+    },
+    "https://jp.rizinff.com/_tags/%E3%83%A4%E3%83%9E%E3%82%B6%E3%83%88%E3%83%BB%E3%82%A8%E3%83%B3%E3%82%BE%E3%83%BB%E3%83%9E%E3%82%B5%E3%83%9F": {
+      "name": "Enzo Massami Iamazato",
+      "origin": "ブラジル",
+      "countryCode": "BR",
+      "birthDate": "2009-11-18",
+      "record": "1-0-0",
+      "style": "All-rounder",
+      "checkedAt": "2026-11-23T18:17:02.229Z"
+    },
+    "https://jp.rizinff.com/_tags/%E5%B1%B1%E6%9C%AC%E6%9C%89%E4%BA%BA": {
+      "name": "Arihito Yamamoto",
+      "origin": "日本 岐阜県",
+      "countryCode": "JP",
+      "birthDate": "1993-09-04",
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-23T18:17:02.229Z"
+    },
+    "https://jp.rizinff.com/_tags/%E5%B0%8F%E6%9E%97%E5%A4%A7%E4%BB%8B": {
+      "name": "Daisuke Kobayashi",
+      "origin": "日本 愛知県",
+      "countryCode": "JP",
+      "birthDate": "1994-04-19",
+      "record": "1-0-0",
+      "style": null,
+      "checkedAt": "2026-11-23T18:17:02.229Z"
+    },
+    "https://jp.rizinff.com/_tags/%E9%87%91%E7%94%B0%E4%B8%80%E5%AD%9D%E4%BB%8B": {
+      "name": "Kosuke Kindaichi",
+      "origin": "日本 愛知県",
+      "countryCode": "JP",
+      "birthDate": "1989-08-29",
+      "record": "0-1-0",
+      "style": null,
+      "checkedAt": "2026-11-23T18:17:02.229Z"
+    },
+    "https://jp.rizinff.com/_tags/%E7%A8%B2%E7%94%B0%E5%B0%86": {
+      "name": "Masashi Inada",
+      "origin": "日本 愛知県",
+      "countryCode": "JP",
+      "birthDate": "1989-06-22",
+      "record": "1-1-0",
+      "style": "Grappler",
+      "checkedAt": "2026-11-23T18:17:02.229Z"
     }
   }
 }

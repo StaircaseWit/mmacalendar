@@ -434,7 +434,7 @@
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
       "lastSeenAt": "2026-09-13T16:46:47.900Z",
       "previousStart": null,
-      "missingChecks": 26
+      "missingChecks": 27
     },
     "ufc-fight-night-may-30-2026": {
       "event": {
@@ -869,7 +869,7 @@
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
       "lastSeenAt": "2026-09-25T11:55:05.698Z",
       "previousStart": null,
-      "missingChecks": 19
+      "missingChecks": 20
     },
     "ufc-fight-night-june-06-2026": {
       "event": {
@@ -1274,7 +1274,7 @@
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
       "lastSeenAt": "2026-10-02T12:41:53.475Z",
       "previousStart": null,
-      "missingChecks": 16
+      "missingChecks": 17
     },
     "ufc-freedom-250": {
       "event": {
@@ -1516,7 +1516,7 @@
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
       "lastSeenAt": "2026-10-12T15:33:38.535Z",
       "previousStart": null,
-      "missingChecks": 12
+      "missingChecks": 13
     },
     "ufc-fight-night-june-20-2026": {
       "event": {
@@ -1922,7 +1922,7 @@
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
       "lastSeenAt": "2026-10-16T11:29:42.405Z",
       "previousStart": null,
-      "missingChecks": 10
+      "missingChecks": 11
     },
     "ufc-fight-night-june-27-2026": {
       "event": {
@@ -2357,7 +2357,7 @@
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
       "lastSeenAt": "2026-10-23T11:44:22.443Z",
       "previousStart": null,
-      "missingChecks": 8
+      "missingChecks": 9
     },
     "ufc-329": {
       "event": {
@@ -2833,7 +2833,7 @@
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
       "lastSeenAt": "2026-11-06T14:21:26.351Z",
       "previousStart": null,
-      "missingChecks": 4
+      "missingChecks": 5
     },
     "ufc-fight-night-july-18-2026": {
       "event": {
@@ -3239,7 +3239,7 @@
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
       "lastSeenAt": "2026-11-13T14:39:03.976Z",
       "previousStart": null,
-      "missingChecks": 1
+      "missingChecks": 2
     },
     "ufc-fight-night-july-25-2026": {
       "event": {
@@ -3644,7 +3644,7 @@
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
       "lastSeenAt": "2026-11-20T15:31:40.369Z",
       "previousStart": null,
-      "missingChecks": 0
+      "missingChecks": 1
     },
     "ufc-fight-night-august-01-2026": {
       "event": {
@@ -4108,7 +4108,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -4515,7 +4515,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -4929,7 +4929,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -5364,7 +5364,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -5452,7 +5452,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -5888,7 +5888,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -6355,7 +6355,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -6961,7 +6961,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -7742,7 +7742,7 @@
       },
       "status": "rescheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": "2026-09-19T21:00:00.000Z",
       "missingChecks": 0
     },
@@ -8427,7 +8427,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -9505,7 +9505,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -10207,7 +10207,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -11008,7 +11008,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -11932,7 +11932,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -12624,7 +12624,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -13570,7 +13570,7 @@
       },
       "status": "rescheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": "2026-11-07T20:00:00.000Z",
       "missingChecks": 0
     },
@@ -14717,7 +14717,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -14883,7 +14883,7 @@
                   "birthDate": "1992-05-13",
                   "familyName": "Pavlovich",
                   "fightingStyle": "MMA",
-                  "odds": "-200"
+                  "odds": "-190"
                 },
                 "oddsHistory": [
                   {
@@ -14945,6 +14945,19 @@
                     "odds": {
                       "alex pereira": "+163",
                       "sergei pavlovich": "-200"
+                    },
+                    "names": {
+                      "alex pereira": "Alex Pereira",
+                      "sergei pavlovich": "Sergei Pavlovich"
+                    }
+                  },
+                  {
+                    "checkedAt": "2026-11-23T18:17:02.229Z",
+                    "eventName": "UFC 335: Oliveira vs Lopes",
+                    "sourceUrl": "https://www.bestfightodds.com/events/ufc-335-4394",
+                    "odds": {
+                      "alex pereira": "+163",
+                      "sergei pavlovich": "-190"
                     },
                     "names": {
                       "alex pereira": "Alex Pereira",
@@ -15063,7 +15076,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-09-12T11:18:51.708Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -15321,7 +15334,6 @@
                   "record": "20-3-0",
                   "birthDate": "1997-02-02",
                   "familyName": "Abdullayev",
-                  "fightingStyle": null,
                   "odds": "+223"
                 },
                 "oddsHistory": [
@@ -15424,7 +15436,6 @@
                   "record": "12-2-0",
                   "birthDate": "1997-04-22",
                   "familyName": "Nurgozhay",
-                  "fightingStyle": null,
                   "odds": "-223"
                 },
                 "blue": {
@@ -15437,7 +15448,6 @@
                   "record": "1-1-0",
                   "birthDate": "1997-01-25",
                   "familyName": "Lorenz",
-                  "fightingStyle": null,
                   "odds": "+213"
                 },
                 "oddsHistory": [
@@ -15886,7 +15896,7 @@
       },
       "status": "rescheduled",
       "firstSeenAt": "2026-09-18T11:20:58.725Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": "2026-11-21T22:00:00.000Z",
       "missingChecks": 0
     },
@@ -16158,7 +16168,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-09-30T12:40:52.896Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -16452,7 +16462,7 @@
       },
       "status": "rescheduled",
       "firstSeenAt": "2026-10-21T11:55:56.716Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": "2027-01-31T00:00:00.000Z",
       "missingChecks": 0
     },
@@ -16892,7 +16902,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-10-30T13:00:53.522Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -16925,7 +16935,7 @@
                   "birthDate": "1990-03-16",
                   "familyName": "Silva",
                   "fightingStyle": "Grappler",
-                  "odds": null
+                  "odds": "+126"
                 },
                 "blue": {
                   "name": "Jafel Filho",
@@ -16938,9 +16948,23 @@
                   "birthDate": "1993-05-05",
                   "familyName": "Filho",
                   "fightingStyle": "Grappler",
-                  "odds": null
+                  "odds": "-127"
                 },
-                "oddsHistory": []
+                "oddsHistory": [
+                  {
+                    "checkedAt": "2026-11-23T18:17:02.229Z",
+                    "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+                    "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+                    "odds": {
+                      "bruno silva": "+126",
+                      "jafel filho": "-127"
+                    },
+                    "names": {
+                      "bruno silva": "Bruno Silva",
+                      "jafel filho": "Jafel Filho"
+                    }
+                  }
+                ]
               },
               {
                 "id": "13252",
@@ -16956,7 +16980,7 @@
                   "birthDate": "1994-08-10",
                   "familyName": "Satybaldiev",
                   "fightingStyle": "MMA",
-                  "odds": null
+                  "odds": "+118"
                 },
                 "blue": {
                   "name": "Ivan Gnizditskiy",
@@ -16969,9 +16993,23 @@
                   "birthDate": "1996-05-10",
                   "familyName": "Gnizditskiy",
                   "fightingStyle": null,
-                  "odds": null
+                  "odds": "-117"
                 },
-                "oddsHistory": []
+                "oddsHistory": [
+                  {
+                    "checkedAt": "2026-11-23T18:17:02.229Z",
+                    "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+                    "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+                    "odds": {
+                      "uran satybaldiev": "+118",
+                      "ivan gnizditskiy": "-117"
+                    },
+                    "names": {
+                      "uran satybaldiev": "Uran Satybaldiev",
+                      "ivan gnizditskiy": "Ivan Gnizditskiy"
+                    }
+                  }
+                ]
               },
               {
                 "id": "13253",
@@ -16987,7 +17025,7 @@
                   "birthDate": "1994-06-13",
                   "familyName": "Tulio",
                   "fightingStyle": "Striker",
-                  "odds": null
+                  "odds": "-180"
                 },
                 "blue": {
                   "name": "JunYong Park",
@@ -17000,9 +17038,23 @@
                   "birthDate": "1990-12-11",
                   "familyName": "Park",
                   "fightingStyle": "Boxing",
-                  "odds": null
+                  "odds": "+186"
                 },
-                "oddsHistory": []
+                "oddsHistory": [
+                  {
+                    "checkedAt": "2026-11-23T18:17:02.229Z",
+                    "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+                    "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+                    "odds": {
+                      "marco tulio": "-180",
+                      "junyong park": "+186"
+                    },
+                    "names": {
+                      "marco tulio": "Marco Tulio",
+                      "junyong park": "JunYong Park"
+                    }
+                  }
+                ]
               },
               {
                 "id": "13254",
@@ -17018,7 +17070,7 @@
                   "birthDate": "2002-05-08",
                   "familyName": "Andrusca",
                   "fightingStyle": null,
-                  "odds": null
+                  "odds": "-130"
                 },
                 "blue": {
                   "name": "Mahammadali Osmanli",
@@ -17031,9 +17083,23 @@
                   "birthDate": "2004-08-05",
                   "familyName": "Osmanli",
                   "fightingStyle": "MMA",
-                  "odds": null
+                  "odds": "+133"
                 },
-                "oddsHistory": []
+                "oddsHistory": [
+                  {
+                    "checkedAt": "2026-11-23T18:17:02.229Z",
+                    "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+                    "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+                    "odds": {
+                      "pavel andrusca": "-130",
+                      "mahammadali osmanli": "+133"
+                    },
+                    "names": {
+                      "pavel andrusca": "Pavel Andrusca",
+                      "mahammadali osmanli": "Mahammadali Osmanli"
+                    }
+                  }
+                ]
               },
               {
                 "id": "13255",
@@ -17049,7 +17115,7 @@
                   "birthDate": "2003-10-09",
                   "familyName": "Rodrigues",
                   "fightingStyle": null,
-                  "odds": null
+                  "odds": "+126"
                 },
                 "blue": {
                   "name": "Matthieu Duclos",
@@ -17062,9 +17128,23 @@
                   "birthDate": "1995-04-04",
                   "familyName": "Letho Duclos",
                   "fightingStyle": "MMA",
-                  "odds": null
+                  "odds": "-122"
                 },
-                "oddsHistory": []
+                "oddsHistory": [
+                  {
+                    "checkedAt": "2026-11-23T18:17:02.229Z",
+                    "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+                    "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+                    "odds": {
+                      "modestino rodrigues": "+126",
+                      "matthieu duclos": "-122"
+                    },
+                    "names": {
+                      "modestino rodrigues": "Modestino Rodrigues",
+                      "matthieu duclos": "Matthieu Duclos"
+                    }
+                  }
+                ]
               },
               {
                 "id": "13256",
@@ -17080,7 +17160,7 @@
                   "birthDate": "1997-08-02",
                   "familyName": "Hussein",
                   "fightingStyle": "Brazilian Jiu-Jitsu",
-                  "odds": null
+                  "odds": "-163"
                 },
                 "blue": {
                   "name": "Hecher Sosa",
@@ -17093,9 +17173,23 @@
                   "birthDate": "1995-08-25",
                   "familyName": "Sosa",
                   "fightingStyle": "MMA",
-                  "odds": null
+                  "odds": "+150"
                 },
-                "oddsHistory": []
+                "oddsHistory": [
+                  {
+                    "checkedAt": "2026-11-23T18:17:02.229Z",
+                    "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+                    "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+                    "odds": {
+                      "abdul hussein": "-163",
+                      "hecher sosa": "+150"
+                    },
+                    "names": {
+                      "abdul hussein": "Abdul Hussein",
+                      "hecher sosa": "Hecher Sosa"
+                    }
+                  }
+                ]
               }
             ]
           },
@@ -17115,12 +17209,12 @@
                   "profileUrl": "https://www.ufc.com/athlete/israel-adesanya",
                   "country": "Nigeria",
                   "countryCode": "NG",
-                  "sourceOdds": "-155",
+                  "sourceOdds": "-165",
                   "record": "24-6-0",
                   "birthDate": "1989-07-22",
                   "familyName": "Adesanya",
                   "fightingStyle": "Freestyle",
-                  "odds": "-157"
+                  "odds": "-144"
                 },
                 "blue": {
                   "name": "Shara Magomedov",
@@ -17128,12 +17222,12 @@
                   "profileUrl": "https://www.ufc.com/athlete/shara-magomedov",
                   "country": "Russia",
                   "countryCode": "RU",
-                  "sourceOdds": "+130",
+                  "sourceOdds": "+140",
                   "record": "17-1-0",
                   "birthDate": "1994-05-16",
                   "familyName": "Magomedov",
                   "fightingStyle": null,
-                  "odds": "+140"
+                  "odds": "+142"
                 },
                 "oddsHistory": [
                   {
@@ -17174,6 +17268,19 @@
                       "israel adesanya": "Israel Adesanya",
                       "shara magomedov": "Shara Magomedov"
                     }
+                  },
+                  {
+                    "checkedAt": "2026-11-23T18:17:02.229Z",
+                    "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+                    "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+                    "odds": {
+                      "israel adesanya": "-144",
+                      "shara magomedov": "+142"
+                    },
+                    "names": {
+                      "israel adesanya": "Israel Adesanya",
+                      "shara magomedov": "Shara Magomedov"
+                    }
                   }
                 ]
               },
@@ -17186,7 +17293,7 @@
                   "profileUrl": "https://www.ufc.com/athlete/ian-machado-garry",
                   "country": "Ireland",
                   "countryCode": "IE",
-                  "sourceOdds": "-205",
+                  "sourceOdds": "-190",
                   "record": "17-2-0",
                   "birthDate": "1997-11-17",
                   "familyName": "Machado Garry",
@@ -17199,12 +17306,12 @@
                   "profileUrl": "https://www.ufc.com/athlete/yaroslav-amosov",
                   "country": "Ukraine",
                   "countryCode": "UA",
-                  "sourceOdds": "+170",
+                  "sourceOdds": "+160",
                   "record": "29-1-0",
                   "birthDate": "1993-09-09",
                   "familyName": "Amosov",
                   "fightingStyle": null,
-                  "odds": "+155"
+                  "odds": "+203"
                 },
                 "oddsHistory": [
                   {
@@ -17245,6 +17352,19 @@
                       "ian machado garry": "Ian Machado Garry",
                       "yaroslav amosov": "Yaroslav Amosov"
                     }
+                  },
+                  {
+                    "checkedAt": "2026-11-23T18:17:02.229Z",
+                    "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+                    "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+                    "odds": {
+                      "ian machado garry": "-175",
+                      "yaroslav amosov": "+203"
+                    },
+                    "names": {
+                      "ian machado garry": "Ian Machado Garry",
+                      "yaroslav amosov": "Yaroslav Amosov"
+                    }
                   }
                 ]
               },
@@ -17262,7 +17382,7 @@
                   "birthDate": "1995-01-24",
                   "familyName": "Spivac",
                   "fightingStyle": "Sambo",
-                  "odds": null
+                  "odds": "+300"
                 },
                 "blue": {
                   "name": "Mario Pinto",
@@ -17275,9 +17395,23 @@
                   "birthDate": "1998-03-14",
                   "familyName": "Pinto",
                   "fightingStyle": "MMA",
-                  "odds": null
+                  "odds": "-317"
                 },
-                "oddsHistory": []
+                "oddsHistory": [
+                  {
+                    "checkedAt": "2026-11-23T18:17:02.229Z",
+                    "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+                    "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+                    "odds": {
+                      "serghei spivac": "+300",
+                      "mario pinto": "-317"
+                    },
+                    "names": {
+                      "serghei spivac": "Serghei Spivac",
+                      "mario pinto": "Mario Pinto"
+                    }
+                  }
+                ]
               },
               {
                 "id": "13248",
@@ -17293,7 +17427,7 @@
                   "birthDate": "1996-10-02",
                   "familyName": "Chokheli",
                   "fightingStyle": "MMA",
-                  "odds": null
+                  "odds": "+190"
                 },
                 "blue": {
                   "name": "Islam Dulatov",
@@ -17306,9 +17440,23 @@
                   "birthDate": "1998-08-02",
                   "familyName": "Dulatov",
                   "fightingStyle": "MMA",
-                  "odds": null
+                  "odds": "-170"
                 },
-                "oddsHistory": []
+                "oddsHistory": [
+                  {
+                    "checkedAt": "2026-11-23T18:17:02.229Z",
+                    "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+                    "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+                    "odds": {
+                      "levan chokheli": "+190",
+                      "islam dulatov": "-170"
+                    },
+                    "names": {
+                      "levan chokheli": "Levan Chokheli",
+                      "islam dulatov": "Islam Dulatov"
+                    }
+                  }
+                ]
               },
               {
                 "id": "13249",
@@ -17324,7 +17472,7 @@
                   "birthDate": "2000-06-10",
                   "familyName": "Santos Alves",
                   "fightingStyle": "Striker",
-                  "odds": null
+                  "odds": "+257"
                 },
                 "blue": {
                   "name": "Akbar Abdullaev",
@@ -17337,9 +17485,23 @@
                   "birthDate": "1997-09-21",
                   "familyName": "Abdullaev",
                   "fightingStyle": null,
-                  "odds": null
+                  "odds": "-270"
                 },
-                "oddsHistory": []
+                "oddsHistory": [
+                  {
+                    "checkedAt": "2026-11-23T18:17:02.229Z",
+                    "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+                    "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+                    "odds": {
+                      "mairon santos": "+257",
+                      "akbar abdullaev": "-270"
+                    },
+                    "names": {
+                      "mairon santos": "Mairon Santos",
+                      "akbar abdullaev": "Akbar Abdullaev"
+                    }
+                  }
+                ]
               },
               {
                 "id": "13250",
@@ -17355,7 +17517,7 @@
                   "birthDate": "1999-12-30",
                   "familyName": "Tuchalov",
                   "fightingStyle": "Striker",
-                  "odds": null
+                  "odds": "-188"
                 },
                 "blue": {
                   "name": "Ion Cutelaba",
@@ -17368,9 +17530,23 @@
                   "birthDate": "1993-12-14",
                   "familyName": "Cutelaba",
                   "fightingStyle": "Sambo",
-                  "odds": null
+                  "odds": "+146"
                 },
-                "oddsHistory": []
+                "oddsHistory": [
+                  {
+                    "checkedAt": "2026-11-23T18:17:02.229Z",
+                    "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+                    "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+                    "odds": {
+                      "magomed tuchalov": "-188",
+                      "ion cutelaba": "+146"
+                    },
+                    "names": {
+                      "magomed tuchalov": "Magomed Tuchalov",
+                      "ion cutelaba": "Ion Cutelaba"
+                    }
+                  }
+                ]
               }
             ]
           }
@@ -17380,7 +17556,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-11-11T14:28:13.039Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -17447,7 +17623,7 @@
       },
       "status": "rescheduled",
       "firstSeenAt": "2026-11-16T15:53:09.022Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": "2027-01-23T20:00:00.000Z",
       "missingChecks": 0
     },
@@ -17477,7 +17653,7 @@
             "fights": [
               {
                 "id": "13264",
-                "weightClass": "Middleweight Bout",
+                "weightClass": "",
                 "red": {
                   "name": "Joe Pyfer",
                   "rank": "6",
@@ -17515,7 +17691,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-11-16T15:53:09.022Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     },
@@ -17551,7 +17727,7 @@
       },
       "status": "scheduled",
       "firstSeenAt": "2026-11-20T15:31:40.369Z",
-      "lastSeenAt": "2026-11-20T15:31:40.369Z",
+      "lastSeenAt": "2026-11-23T18:17:02.229Z",
       "previousStart": null,
       "missingChecks": 0
     }

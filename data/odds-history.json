@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-20T15:31:40.369Z",
+  "lastCheckedAt": "2026-11-23T18:17:02.229Z",
   "fights": {
     "ufc-fight-night-september-12-2026::edgar chairez--tim elliott": [
       {
@@ -2188,6 +2188,19 @@
         "odds": {
           "alex pereira": "+163",
           "sergei pavlovich": "-200"
+        },
+        "names": {
+          "alex pereira": "Alex Pereira",
+          "sergei pavlovich": "Sergei Pavlovich"
+        }
+      },
+      {
+        "checkedAt": "2026-11-23T18:17:02.229Z",
+        "eventName": "UFC 335: Oliveira vs Lopes",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-335-4394",
+        "odds": {
+          "alex pereira": "+163",
+          "sergei pavlovich": "-190"
         },
         "names": {
           "alex pereira": "Alex Pereira",
@@ -4787,6 +4800,19 @@
           "israel adesanya": "Israel Adesanya",
           "shara magomedov": "Shara Magomedov"
         }
+      },
+      {
+        "checkedAt": "2026-11-23T18:17:02.229Z",
+        "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+        "odds": {
+          "israel adesanya": "-144",
+          "shara magomedov": "+142"
+        },
+        "names": {
+          "israel adesanya": "Israel Adesanya",
+          "shara magomedov": "Shara Magomedov"
+        }
       }
     ],
     "ufc-fight-night-december-05-2026::ian machado garry--yaroslav amosov": [
@@ -4823,6 +4849,19 @@
         "odds": {
           "ian machado garry": "-175",
           "yaroslav amosov": "+155"
+        },
+        "names": {
+          "ian machado garry": "Ian Machado Garry",
+          "yaroslav amosov": "Yaroslav Amosov"
+        }
+      },
+      {
+        "checkedAt": "2026-11-23T18:17:02.229Z",
+        "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+        "odds": {
+          "ian machado garry": "-175",
+          "yaroslav amosov": "+203"
         },
         "names": {
           "ian machado garry": "Ian Machado Garry",
@@ -4913,6 +4952,156 @@
         "names": {
           "shoaib yousaf": "Shoaib Yousaf",
           "john mitchell": "John Mitchell"
+        }
+      }
+    ],
+    "ufc-fight-night-december-05-2026::bruno silva--jafel filho": [
+      {
+        "checkedAt": "2026-11-23T18:17:02.229Z",
+        "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+        "odds": {
+          "bruno silva": "+126",
+          "jafel filho": "-127"
+        },
+        "names": {
+          "bruno silva": "Bruno Silva",
+          "jafel filho": "Jafel Filho"
+        }
+      }
+    ],
+    "ufc-fight-night-december-05-2026::ivan gnizditskiy--uran satybaldiev": [
+      {
+        "checkedAt": "2026-11-23T18:17:02.229Z",
+        "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+        "odds": {
+          "uran satybaldiev": "+118",
+          "ivan gnizditskiy": "-117"
+        },
+        "names": {
+          "uran satybaldiev": "Uran Satybaldiev",
+          "ivan gnizditskiy": "Ivan Gnizditskiy"
+        }
+      }
+    ],
+    "ufc-fight-night-december-05-2026::junyong park--marco tulio": [
+      {
+        "checkedAt": "2026-11-23T18:17:02.229Z",
+        "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+        "odds": {
+          "marco tulio": "-180",
+          "junyong park": "+186"
+        },
+        "names": {
+          "marco tulio": "Marco Tulio",
+          "junyong park": "JunYong Park"
+        }
+      }
+    ],
+    "ufc-fight-night-december-05-2026::mahammadali osmanli--pavel andrusca": [
+      {
+        "checkedAt": "2026-11-23T18:17:02.229Z",
+        "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+        "odds": {
+          "pavel andrusca": "-130",
+          "mahammadali osmanli": "+133"
+        },
+        "names": {
+          "pavel andrusca": "Pavel Andrusca",
+          "mahammadali osmanli": "Mahammadali Osmanli"
+        }
+      }
+    ],
+    "ufc-fight-night-december-05-2026::matthieu duclos--modestino rodrigues": [
+      {
+        "checkedAt": "2026-11-23T18:17:02.229Z",
+        "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+        "odds": {
+          "modestino rodrigues": "+126",
+          "matthieu duclos": "-122"
+        },
+        "names": {
+          "modestino rodrigues": "Modestino Rodrigues",
+          "matthieu duclos": "Matthieu Duclos"
+        }
+      }
+    ],
+    "ufc-fight-night-december-05-2026::abdul hussein--hecher sosa": [
+      {
+        "checkedAt": "2026-11-23T18:17:02.229Z",
+        "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+        "odds": {
+          "abdul hussein": "-163",
+          "hecher sosa": "+150"
+        },
+        "names": {
+          "abdul hussein": "Abdul Hussein",
+          "hecher sosa": "Hecher Sosa"
+        }
+      }
+    ],
+    "ufc-fight-night-december-05-2026::mario pinto--serghei spivac": [
+      {
+        "checkedAt": "2026-11-23T18:17:02.229Z",
+        "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+        "odds": {
+          "serghei spivac": "+300",
+          "mario pinto": "-317"
+        },
+        "names": {
+          "serghei spivac": "Serghei Spivac",
+          "mario pinto": "Mario Pinto"
+        }
+      }
+    ],
+    "ufc-fight-night-december-05-2026::islam dulatov--levan chokheli": [
+      {
+        "checkedAt": "2026-11-23T18:17:02.229Z",
+        "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+        "odds": {
+          "levan chokheli": "+190",
+          "islam dulatov": "-170"
+        },
+        "names": {
+          "levan chokheli": "Levan Chokheli",
+          "islam dulatov": "Islam Dulatov"
+        }
+      }
+    ],
+    "ufc-fight-night-december-05-2026::akbar abdullaev--mairon santos": [
+      {
+        "checkedAt": "2026-11-23T18:17:02.229Z",
+        "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+        "odds": {
+          "mairon santos": "+257",
+          "akbar abdullaev": "-270"
+        },
+        "names": {
+          "mairon santos": "Mairon Santos",
+          "akbar abdullaev": "Akbar Abdullaev"
+        }
+      }
+    ],
+    "ufc-fight-night-december-05-2026::ion cutelaba--magomed tuchalov": [
+      {
+        "checkedAt": "2026-11-23T18:17:02.229Z",
+        "eventName": "UFC Fight Night: Adesanya vs Magomedov",
+        "sourceUrl": "https://www.bestfightodds.com/events/ufc-saudi-arabia-4453",
+        "odds": {
+          "magomed tuchalov": "-188",
+          "ion cutelaba": "+146"
+        },
+        "names": {
+          "magomed tuchalov": "Magomed Tuchalov",
+          "ion cutelaba": "Ion Cutelaba"
         }
       }
     ]
