@@ -2006,7 +2006,7 @@
       "birthDate": "1994-10-25",
       "record": "6-4-0",
       "style": null,
-      "checkedAt": "2026-10-26T13:10:05.194Z"
+      "checkedAt": "2026-11-25T17:18:01.789Z"
     },
     "https://pflmma.com/wt-fighter/noah-hermosillo": {
       "name": "Noah Hermosillo",
@@ -2430,7 +2430,7 @@
       "birthDate": "1989-11-11",
       "record": "17-4-1",
       "style": null,
-      "checkedAt": "2026-10-19T13:24:27.664Z"
+      "checkedAt": "2026-11-25T17:18:01.789Z"
     },
     "https://pflmma.com/wt-fighter/oualy-tandia": {
       "name": "Oualy Tandia",
@@ -2526,7 +2526,7 @@
       "birthDate": "1996-11-12",
       "record": "8-1-0",
       "style": null,
-      "checkedAt": "2026-10-26T13:10:05.194Z"
+      "checkedAt": "2026-11-25T17:18:01.789Z"
     },
     "https://pflmma.com/mena-fighter/islam-youssef": {
       "name": "Islam Youssef",
@@ -2716,25 +2716,25 @@
       "name": "Sergei Bilostenniy",
       "countryCode": "RU",
       "birthDate": "1995-10-22",
-      "record": "15-4-0",
+      "record": "16-4-0",
       "style": null,
-      "checkedAt": "2026-10-21T11:55:56.716Z"
+      "checkedAt": "2026-11-25T17:18:01.789Z"
     },
     "https://pflmma.com/wt-fighter/khabib-nabiev": {
       "name": "Khabib Nabiev",
       "countryCode": null,
       "birthDate": "1997-08-11",
-      "record": "12-0-0",
+      "record": "13-0-0",
       "style": null,
-      "checkedAt": "2026-10-23T11:44:22.443Z"
+      "checkedAt": "2026-11-25T17:18:01.789Z"
     },
     "https://pflmma.com/wt-fighter/styve-ngono": {
       "name": "Styve Ngono",
       "countryCode": "CM",
       "birthDate": "1999-09-18",
-      "record": "8-1-0",
+      "record": "8-3-0",
       "style": null,
-      "checkedAt": "2026-10-23T11:44:22.443Z"
+      "checkedAt": "2026-11-25T17:18:01.789Z"
     },
     "https://pflmma.com/wt-fighter/bafode-gassama": {
       "name": "Bafode Gassama",
@@ -2742,7 +2742,7 @@
       "birthDate": null,
       "record": "4-0-0",
       "style": null,
-      "checkedAt": "2026-10-26T13:10:05.194Z"
+      "checkedAt": "2026-11-25T17:18:01.789Z"
     },
     "https://pflmma.com/africa-fighter/benita-vanrooij": {
       "name": "Benita Van Rooij",
@@ -2895,6 +2895,46 @@
       "record": "4-1-0",
       "style": null,
       "checkedAt": "2026-11-20T15:31:40.369Z"
+    },
+    "https://pflmma.com/wt-fighter/alistair-overeem": {
+      "name": "Alistair Overeem",
+      "countryCode": null,
+      "birthDate": null,
+      "record": "47-19-0",
+      "style": null,
+      "checkedAt": "2026-11-25T17:18:01.789Z"
+    },
+    "https://pflmma.com/wt-fighter/jahmal-harvey": {
+      "name": "Jahmal Harvey",
+      "countryCode": null,
+      "birthDate": null,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-25T17:18:01.789Z"
+    },
+    "https://pflmma.com/wt-fighter/craig-morgan": {
+      "name": "Craig Morgan",
+      "countryCode": null,
+      "birthDate": null,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-25T17:18:01.789Z"
+    },
+    "https://pflmma.com/wt-fighter/tbd-tbd-4023": {
+      "name": "TBD TBD",
+      "countryCode": null,
+      "birthDate": null,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-25T17:18:01.789Z"
+    },
+    "https://pflmma.com/wt-fighter/babajami-manuwa": {
+      "name": "Babajami Manuwa",
+      "countryCode": null,
+      "birthDate": null,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-25T17:18:01.789Z"
     }
   }
 }

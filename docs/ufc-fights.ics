@@ -11,13 +11,34 @@ X-APPLE-CALENDAR-COLOR:#D8070C
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
+UID:ufc-fight-night-december-05-2026-fight-13286@ufc-detailed-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20261205T174000Z
+DTEND:20261205T181000Z
+SUMMARY:🥊 8. Luke Riley vs. Gabriel Santos (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 145lbs/66kg Featherweight\n• Riley: 1
+ 4-0-0 | 27yo | Striker\n• Santos: 12-2-0 | 30yo | MMA\n• Odds history:
+  not checked yet\nEvent: UFC Fight Night: Adesanya vs Magomedov\nSource: h
+ ttps://www.ufc.com/event/ufc-fight-night-december-05-2026\nMain calendar: 
+ https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedule
+ d
+LOCATION:The Venue\, Riyadh\, Saudi Arabia
+URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-fight-night-december-05-2026-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-fight-night-december-05-2026-fight-13251@ufc-detailed-calendar
 DTSTAMP:20261111T142813Z
-LAST-MODIFIED:20261123T181702Z
-SEQUENCE:2
-DTSTART:20261205T173000Z
-DTEND:20261205T180000Z
-SUMMARY:🥊 6. Bruno Silva vs. Jafel Filho (estimated)
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:3
+DTSTART:20261205T171500Z
+DTEND:20261205T174500Z
+SUMMARY:🥊 7. Bruno Silva vs. Jafel Filho (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 125lbs/57kg Flyweight\n• Silva: 15-9-
  2 | 36yo | Grappler | +126 (2.26)\n• Filho: 17-5-0 | 33yo | Grappler | -
@@ -35,11 +56,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-december-05-2026-fight-13252@ufc-detailed-calendar
 DTSTAMP:20261111T142813Z
-LAST-MODIFIED:20261123T181702Z
-SEQUENCE:2
-DTSTART:20261205T170000Z
-DTEND:20261205T173000Z
-SUMMARY:🥊 5. Uran Satybaldiev vs. Ivan Gnizditskiy (estimated)
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:3
+DTSTART:20261205T165500Z
+DTEND:20261205T172500Z
+SUMMARY:🥊 6. Uran Satybaldiev vs. Ivan Gnizditskiy (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n• Saty
  baldiev: 9-1-0 | 32yo | MMA | +118 (2.18)\n• Gnizditskiy: 0-0-0 | 30yo |
@@ -57,11 +78,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-december-05-2026-fight-13253@ufc-detailed-calendar
 DTSTAMP:20261111T142813Z
-LAST-MODIFIED:20261123T181702Z
-SEQUENCE:2
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:3
 DTSTART:20261205T163000Z
 DTEND:20261205T170000Z
-SUMMARY:🥊 4. Marco Tulio vs. JunYong Park (estimated)
+SUMMARY:🥊 5. Marco Tulio vs. JunYong Park (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Tulio: 14
  -3-0 | 32yo | Striker | -180 (1.56)\n• Park: 19-7-0 | 35yo | Boxing | +1
@@ -79,11 +100,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-december-05-2026-fight-13254@ufc-detailed-calendar
 DTSTAMP:20261111T142813Z
-LAST-MODIFIED:20261123T181702Z
-SEQUENCE:2
-DTSTART:20261205T160000Z
-DTEND:20261205T163000Z
-SUMMARY:🥊 3. Pavel Andrusca vs. Mahammadali Osmanli (estimated)
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:3
+DTSTART:20261205T161000Z
+DTEND:20261205T164000Z
+SUMMARY:🥊 4. Pavel Andrusca vs. Mahammadali Osmanli (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Andrusca:
   9-0-0 | 24yo | -130 (1.77)\n• Osmanli: 13-2-0 | 22yo | MMA | +133 (2.33
@@ -101,11 +122,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-december-05-2026-fight-13255@ufc-detailed-calendar
 DTSTAMP:20261111T142813Z
-LAST-MODIFIED:20261123T181702Z
-SEQUENCE:2
-DTSTART:20261205T153000Z
-DTEND:20261205T160000Z
-SUMMARY:🥊 2. Modestino Rodrigues vs. Matthieu Duclos (estimated)
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:3
+DTSTART:20261205T154500Z
+DTEND:20261205T161500Z
+SUMMARY:🥊 3. Modestino Rodrigues vs. Matthieu Duclos (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Rodrigues
  : 1-0-0 | 23yo | +126 (2.26)\n• Duclos: 11-3-0 | 31yo | MMA | -122 (1.82
@@ -123,11 +144,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-december-05-2026-fight-13256@ufc-detailed-calendar
 DTSTAMP:20261111T142813Z
-LAST-MODIFIED:20261123T181702Z
-SEQUENCE:2
-DTSTART:20261205T150000Z
-DTEND:20261205T153000Z
-SUMMARY:🥊 1. Abdul Hussein vs. Hecher Sosa (estimated)
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:3
+DTSTART:20261205T152500Z
+DTEND:20261205T155500Z
+SUMMARY:🥊 2. Abdul Hussein vs. Hecher Sosa (estimated)
 DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ove as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Hussein: 
  16-2-0 | 29yo | Brazilian Jiu-Jitsu | -163 (1.61)\n• Sosa: 15-1-0 | 31yo
@@ -136,6 +157,27 @@ DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
  ov\nSource: https://www.ufc.com/event/ufc-fight-night-december-05-2026\nMa
  in calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent sta
  tus: Scheduled
+LOCATION:The Venue\, Riyadh\, Saudi Arabia
+URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
+CATEGORIES:UFC,Estimated Fight,Prelims
+RELATED-TO:ufc-fight-night-december-05-2026-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-december-05-2026-fight-13287@ufc-detailed-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20261205T150000Z
+DTEND:20261205T153000Z
+SUMMARY:🥊 1. Mateusz Rębecki vs. Elves Brener (estimated)
+DESCRIPTION:Estimated bout time · UFC · Prelims\nThe scheduled time may m
+ ove as earlier fights finish.\n• 155lbs/70kg Lightweight\n• Rebecki: 2
+ 1-5-0 | 34yo | Brazilian Jiu-Jitsu\n• Brener: 17-6-0 | 29yo | Jiu-Jitsu\
+ n• Odds history: not checked yet\nEvent: UFC Fight Night: Adesanya vs Ma
+ gomedov\nSource: https://www.ufc.com/event/ufc-fight-night-december-05-202
+ 6\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEven
+ t status: Scheduled
 LOCATION:The Venue\, Riyadh\, Saudi Arabia
 URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
 CATEGORIES:UFC,Estimated Fight,Prelims
@@ -191,35 +233,13 @@ RELATED-TO:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-fight-night-december-05-2026-fight-13247@ufc-detailed-calendar
-DTSTAMP:20261111T142813Z
-LAST-MODIFIED:20261123T181702Z
-SEQUENCE:2
-DTSTART:20261205T193000Z
-DTEND:20261205T200000Z
-SUMMARY:🥊 4. Serghei Spivac vs. Mario Pinto (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n• Spivac:
-  18-7-0 | 31yo | Sambo | +300 (4.00)\n• Pinto: 13-0-0 | 28yo | MMA | -31
- 7 (1.32)\n• Odds history:\n  ◦ 23 Nov: Spivac 🔴 +300 (4.00) | Pinto
-  🟢 -317 (1.32)\nEvent: UFC Fight Night: Adesanya vs Magomedov\nSource: 
- https://www.ufc.com/event/ufc-fight-night-december-05-2026\nMain calendar:
-  https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedul
- ed
-LOCATION:The Venue\, Riyadh\, Saudi Arabia
-URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
-CATEGORIES:UFC,Estimated Fight,Main Card
-RELATED-TO:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:ufc-fight-night-december-05-2026-fight-13248@ufc-detailed-calendar
 DTSTAMP:20261111T142813Z
-LAST-MODIFIED:20261123T181702Z
-SEQUENCE:2
-DTSTART:20261205T190000Z
-DTEND:20261205T193000Z
-SUMMARY:🥊 3. Levan Chokheli vs. Islam Dulatov (estimated)
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:3
+DTSTART:20261205T193000Z
+DTEND:20261205T200000Z
+SUMMARY:🥊 4. Levan Chokheli vs. Islam Dulatov (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
   move as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Chokhel
  i: 15-3-0 | 30yo | MMA | +190 (2.90)\n• Dulatov: 12-1-0 | 28yo | MMA | -
@@ -228,6 +248,28 @@ DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
  urce: https://www.ufc.com/event/ufc-fight-night-december-05-2026\nMain cal
  endar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: S
  cheduled
+LOCATION:The Venue\, Riyadh\, Saudi Arabia
+URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-december-05-2026-fight-13247@ufc-detailed-calendar
+DTSTAMP:20261111T142813Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:3
+DTSTART:20261205T190000Z
+DTEND:20261205T193000Z
+SUMMARY:🥊 3. Serghei Spivac vs. Mario Pinto (estimated)
+DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
+  move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n• Spivac:
+  18-7-0 | 31yo | Sambo | +300 (4.00)\n• Pinto: 13-0-0 | 28yo | MMA | -31
+ 7 (1.32)\n• Odds history:\n  ◦ 23 Nov: Spivac 🔴 +300 (4.00) | Pinto
+  🟢 -317 (1.32)\nEvent: UFC Fight Night: Adesanya vs Magomedov\nSource: 
+ https://www.ufc.com/event/ufc-fight-night-december-05-2026\nMain calendar:
+  https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Schedul
+ ed
 LOCATION:The Venue\, Riyadh\, Saudi Arabia
 URL:https://www.ufc.com/event/ufc-fight-night-december-05-2026
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -279,19 +321,60 @@ RELATED-TO:ufc-fight-night-december-05-2026-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:ufc-335-fight-jacqueline-cavalcanti-michelle-montague@ufc-detailed-cale
+ ndar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20261212T232000Z
+DTEND:20261212T235000Z
+SUMMARY:🥊 3. Jacqueline Cavalcanti vs. Michelle Montague (estimated)
+DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
+  may move as earlier fights finish.\n• 135lbs/61kg Women's Bantamweight\
+ n• Cavalcanti: 10-2-0 | 29yo | Striker\n• Montague: 8-0-0 | 33yo | Wre
+ stling\n• Odds history: not checked yet\nEvent: UFC 335: Oliveira vs Lop
+ es\nSource: https://www.ufc.com/event/ufc-335\nMain calendar: https://stai
+ rcasewit.github.io/mmacalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:T-Mobile Arena\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-335
+CATEGORIES:UFC,Estimated Fight,Early Prelims
+RELATED-TO:ufc-335-early-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-335-fight-13223@ufc-detailed-calendar
 DTSTAMP:20261016T112942Z
-LAST-MODIFIED:20261120T153140Z
-SEQUENCE:2
-DTSTART:20261212T220000Z
-DTEND:20261212T223000Z
-SUMMARY:🥊 1. Quentin Pasley vs. Junior Tafa (estimated)
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:3
+DTSTART:20261212T224000Z
+DTEND:20261212T231000Z
+SUMMARY:🥊 2. Quentin Pasley vs. Junior Tafa (estimated)
 DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
   may move as earlier fights finish.\n• 205lbs/93kg Light Heavyweight\n
  • Pasley: 1-0-0 | 25yo\n• Tafa: 7-6-0 | 30yo | Kickboxer\n• Odds his
  tory: not checked yet\nEvent: UFC 335: Oliveira vs Lopes\nSource: https://
  www.ufc.com/event/ufc-335\nMain calendar: https://staircasewit.github.io/m
  macalendar/ufc.ics\nEvent status: Scheduled
+LOCATION:T-Mobile Arena\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-335
+CATEGORIES:UFC,Estimated Fight,Early Prelims
+RELATED-TO:ufc-335-early-prelims@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-335-fight-nilson-rojas-roque-conceicao@ufc-detailed-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20261212T220000Z
+DTEND:20261212T223000Z
+SUMMARY:🥊 1. Roque Conceicao vs. Nilson Rojas (estimated)
+DESCRIPTION:Estimated bout time · UFC · Early Prelims\nThe scheduled time
+  may move as earlier fights finish.\n• 125lbs/57kg Flyweight\n• Concei
+ cao: 1-1-0 | 27yo\n• Rojas: 9-1-0 | 27yo | Freestyle\n• Odds history: 
+ not checked yet\nEvent: UFC 335: Oliveira vs Lopes\nSource: https://www.uf
+ c.com/event/ufc-335\nMain calendar: https://staircasewit.github.io/mmacale
+ ndar/ufc.ics\nEvent status: Scheduled
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
 CATEGORIES:UFC,Estimated Fight,Early Prelims
@@ -366,19 +449,19 @@ RELATED-TO:ufc-335-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-335-fight-13269@ufc-detailed-calendar
+UID:ufc-335-fight-13270@ufc-detailed-calendar
 DTSTAMP:20261118T154408Z
-LAST-MODIFIED:20261120T153140Z
-SEQUENCE:1
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:2
 DTSTART:20261213T023500Z
 DTEND:20261213T030500Z
-SUMMARY:🥊 2. Kyler Phillips vs. Ethyn Ewing (estimated)
+SUMMARY:🥊 2. Damian Pinas vs. Baisangur Susurkaev (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Phillip
- s: 12-5-0 | 31yo\n• Ewing: 10-2-0 | 28yo | MMA\n• Odds history: not ch
- ecked yet\nEvent: UFC 335: Oliveira vs Lopes\nSource: https://www.ufc.com/
- event/ufc-335\nMain calendar: https://staircasewit.github.io/mmacalendar/u
- fc.ics\nEvent status: Scheduled
+  move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Pinas: 
+ 11-1-0 | 24yo | MMA\n• Susurkaev: 12-0-0 | 25yo | Striker\n• Odds hist
+ ory: not checked yet\nEvent: UFC 335: Oliveira vs Lopes\nSource: https://w
+ ww.ufc.com/event/ufc-335\nMain calendar: https://staircasewit.github.io/mm
+ acalendar/ufc.ics\nEvent status: Scheduled
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -386,19 +469,19 @@ RELATED-TO:ufc-335-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-335-fight-13270@ufc-detailed-calendar
+UID:ufc-335-fight-13269@ufc-detailed-calendar
 DTSTAMP:20261118T154408Z
-LAST-MODIFIED:20261120T153140Z
-SEQUENCE:1
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:2
 DTSTART:20261213T020000Z
 DTEND:20261213T023000Z
-SUMMARY:🥊 1. Damian Pinas vs. Baisangur Susurkaev (estimated)
+SUMMARY:🥊 1. Kyler Phillips vs. Ethyn Ewing (estimated)
 DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 185lbs/84kg Middleweight\n• Pinas: 
- 11-1-0 | 24yo | MMA\n• Susurkaev: 12-0-0 | 25yo | Striker\n• Odds hist
- ory: not checked yet\nEvent: UFC 335: Oliveira vs Lopes\nSource: https://w
- ww.ufc.com/event/ufc-335\nMain calendar: https://staircasewit.github.io/mm
- acalendar/ufc.ics\nEvent status: Scheduled
+  move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n• Phillip
+ s: 12-5-0 | 31yo\n• Ewing: 10-2-0 | 28yo | MMA\n• Odds history: not ch
+ ecked yet\nEvent: UFC 335: Oliveira vs Lopes\nSource: https://www.ufc.com/
+ event/ufc-335\nMain calendar: https://staircasewit.github.io/mmacalendar/u
+ fc.ics\nEvent status: Scheduled
 LOCATION:T-Mobile Arena\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-335
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -691,18 +774,238 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-january-23-2027-fight-13265@ufc-detailed-calendar
 DTSTAMP:20261116T155309Z
-LAST-MODIFIED:20261120T153140Z
-SEQUENCE:1
-DTSTART:20270124T010000Z
-DTEND:20270124T013000Z
-SUMMARY:🥊 1. Gabriel Bonfim vs. Sean Brady (estimated)
-DESCRIPTION:Estimated bout time · UFC · Main Card\nThe scheduled time may
-  move as earlier fights finish.\n• 170lbs/77kg Welterweight\n• Bonfim:
-  20-1-0 | 29yo | Striker\n• Brady: 19-2-0 | 34yo | Jiu-Jitsu\n• Odds h
- istory: not checked yet\nEvent: UFC Fight Night: Bonfim vs Brady\nSource: 
- https://www.ufc.com/event/ufc-fight-night-january-23-2027\nMain calendar: 
- https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Reschedu
- led\; previously 23 Jan 2027
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:2
+DTSTART:20270124T032500Z
+DTEND:20270124T035500Z
+SUMMARY:🥊 11. Sean Brady vs. Gabriel Bonfim (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Brady: 19-2-0 | 34yo | Jiu-Jitsu\n• Bonfim: 20-1-0 | 29yo | Striker\
+ n• Odds history: not checked yet\nEvent: UFC Fight Night: Brady vs Bonfi
+ m\nSource: https://www.ufc.com/event/ufc-fight-night-january-23-2027\nMain
+  calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent statu
+ s: Rescheduled\; previously 23 Jan 2027
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-january-23-2027
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-january-23-2027-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-january-23-2027-fight-pat-sabatini-vinicius-oliveira@uf
+ c-detailed-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20270124T025500Z
+DTEND:20270124T032500Z
+SUMMARY:🥊 10. Pat Sabatini vs. Vinicius Oliveira (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n
+ • Sabatini: 22-5-0 | 36yo | Brazilian Jiu-Jitsu\n• Oliveira: 24-4-0 | 
+ 31yo | MMA\n• Odds history: not checked yet\nEvent: UFC Fight Night: Bra
+ dy vs Bonfim\nSource: https://www.ufc.com/event/ufc-fight-night-january-23
+ -2027\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\n
+ Event status: Rescheduled\; previously 23 Jan 2027
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-january-23-2027
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-january-23-2027-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-january-23-2027-fight-daniil-donchenko-neil-magny@ufc-d
+ etailed-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20270124T022000Z
+DTEND:20270124T025000Z
+SUMMARY:🥊 9. Neil Magny vs. Daniil Donchenko (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Magny: 32-15-0 | 39yo\n• Donchenko: 16-2-0 | 25yo | Kickboxer\n• O
+ dds history: not checked yet\nEvent: UFC Fight Night: Brady vs Bonfim\nSou
+ rce: https://www.ufc.com/event/ufc-fight-night-january-23-2027\nMain calen
+ dar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Res
+ cheduled\; previously 23 Jan 2027
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-january-23-2027
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-january-23-2027-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-january-23-2027-fight-azamat-bekoev-eric-mcconico@ufc-d
+ etailed-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20270124T015000Z
+DTEND:20270124T022000Z
+SUMMARY:🥊 8. Azamat Bekoev vs. Eric McConico (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
+ • Bekoev: 20-5-0 | 31yo | MMA\n• McConico: 11-5-1 | 36yo | Freestyle\n
+ • Odds history: not checked yet\nEvent: UFC Fight Night: Brady vs Bonfim
+ \nSource: https://www.ufc.com/event/ufc-fight-night-january-23-2027\nMain 
+ calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status
+ : Rescheduled\; previously 23 Jan 2027
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-january-23-2027
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-january-23-2027-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-january-23-2027-fight-ezra-elliot-yadier-del-valle@ufc-
+ detailed-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20270124T011500Z
+DTEND:20270124T014500Z
+SUMMARY:🥊 7. Yadier del Valle vs. Ezra Elliot (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n
+ • del Valle: 11-1-0 | 30yo | MMA\n• Elliot: 8-0-0 | 26yo\n• Odds his
+ tory: not checked yet\nEvent: UFC Fight Night: Brady vs Bonfim\nSource: ht
+ tps://www.ufc.com/event/ufc-fight-night-january-23-2027\nMain calendar: ht
+ tps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Reschedule
+ d\; previously 23 Jan 2027
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-january-23-2027
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-january-23-2027-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-january-23-2027-fight-nick-klein-trent-miller@ufc-detai
+ led-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20270124T004500Z
+DTEND:20270124T011500Z
+SUMMARY:🥊 6. Trent Miller vs. Nick Klein (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
+ • Miller: 1-1-0 | 31yo\n• Klein: 6-4-0 | 31yo | Freestyle\n• Odds hi
+ story: not checked yet\nEvent: UFC Fight Night: Brady vs Bonfim\nSource: h
+ ttps://www.ufc.com/event/ufc-fight-night-january-23-2027\nMain calendar: h
+ ttps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Reschedul
+ ed\; previously 23 Jan 2027
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-january-23-2027
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-january-23-2027-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-january-23-2027-fight-ramon-taveras-roman-puga@ufc-deta
+ iled-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20270124T001000Z
+DTEND:20270124T004000Z
+SUMMARY:🥊 5. Ramon Taveras vs. Roman Puga (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n
+ • Taveras: 10-4-0 | 33yo | MMA\n• Puga: 1-0-0 | 30yo\n• Odds history
+ : not checked yet\nEvent: UFC Fight Night: Brady vs Bonfim\nSource: https:
+ //www.ufc.com/event/ufc-fight-night-january-23-2027\nMain calendar: https:
+ //staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Rescheduled\; 
+ previously 23 Jan 2027
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-january-23-2027
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-january-23-2027-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-january-23-2027-fight-jamall-emmers-ramiro-jimenez@ufc-
+ detailed-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20270123T234000Z
+DTEND:20270124T001000Z
+SUMMARY:🥊 4. Jamall Emmers vs. Ramiro Jimenez (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n
+ • Emmers: 23-8-0 | 37yo | Kickboxer\n• Jimenez: 1-0-0 | 28yo\n• Odds
+  history: not checked yet\nEvent: UFC Fight Night: Brady vs Bonfim\nSource
+ : https://www.ufc.com/event/ufc-fight-night-january-23-2027\nMain calendar
+ : https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Resche
+ duled\; previously 23 Jan 2027
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-january-23-2027
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-january-23-2027-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-january-23-2027-fight-anna-melisano-marina-spasic@ufc-d
+ etailed-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20270123T230500Z
+DTEND:20270123T233500Z
+SUMMARY:🥊 3. Anna Melisano vs. Marina Spasić (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 115lbs/52kg Women's Strawwei
+ ght\n• Melisano: 6-2-0 | 29yo | Striker\n• Spasic: 7-2-0 | 32yo | Stri
+ ker\n• Odds history: not checked yet\nEvent: UFC Fight Night: Brady vs B
+ onfim\nSource: https://www.ufc.com/event/ufc-fight-night-january-23-2027\n
+ Main calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent s
+ tatus: Rescheduled\; previously 23 Jan 2027
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-january-23-2027
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-january-23-2027-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-january-23-2027-fight-christopher-alvidrez-ty-miller@uf
+ c-detailed-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20270123T223500Z
+DTEND:20270123T230500Z
+SUMMARY:🥊 2. Ty Miller vs. Christopher Alvidrez (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
+ • Miller: 8-0-0 | 26yo | Boxing\n• Alvidrez: 1-0-0 | 30yo\n• Odds hi
+ story: not checked yet\nEvent: UFC Fight Night: Brady vs Bonfim\nSource: h
+ ttps://www.ufc.com/event/ufc-fight-night-january-23-2027\nMain calendar: h
+ ttps://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Reschedul
+ ed\; previously 23 Jan 2027
+LOCATION:Meta APEX\, Las Vegas\, United States
+URL:https://www.ufc.com/event/ufc-fight-night-january-23-2027
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-fight-night-january-23-2027-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-fight-night-january-23-2027-fight-melissa-mullins-smilla-sundell@uf
+ c-detailed-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20270123T220000Z
+DTEND:20270123T223000Z
+SUMMARY:🥊 1. Smilla Sundell vs. Melissa Mullins (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 135lbs/61kg Women's Bantamwe
+ ight\n• Sundell: 1-0-0 | 22yo\n• Mullins: 7-3-0 | 35yo | MMA\n• Odds
+  history: not checked yet\nEvent: UFC Fight Night: Brady vs Bonfim\nSource
+ : https://www.ufc.com/event/ufc-fight-night-january-23-2027\nMain calendar
+ : https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent status: Resche
+ duled\; previously 23 Jan 2027
 LOCATION:Meta APEX\, Las Vegas\, United States
 URL:https://www.ufc.com/event/ufc-fight-night-january-23-2027
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -712,11 +1015,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-336-fight-13231@ufc-detailed-calendar
 DTSTAMP:20261028T130115Z
-LAST-MODIFIED:20261118T154408Z
-SEQUENCE:3
-DTSTART:20270131T033500Z
-DTEND:20270131T040500Z
-SUMMARY:🥊 5. Joshua Van vs. Manel Kape (estimated)
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:4
+DTSTART:20270131T041500Z
+DTEND:20270131T044500Z
+SUMMARY:🥊 9. Joshua Van vs. Manel Kape (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 125lbs/57kg Flyweight · Tit
  le Bout\n• Van: 18-2-0 | 25yo | Freestyle | -121 (1.83)\n• Kape: 23-7-
@@ -735,11 +1038,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-336-fight-13232@ufc-detailed-calendar
 DTSTAMP:20261028T130115Z
-LAST-MODIFIED:20261118T154408Z
-SEQUENCE:4
-DTSTART:20270131T021000Z
-DTEND:20270131T024000Z
-SUMMARY:🥊 4. Carlos Prates vs. Michael Morales (estimated)
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:5
+DTSTART:20270131T032500Z
+DTEND:20270131T035500Z
+SUMMARY:🥊 8. Carlos Prates vs. Michael Morales (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 170lbs/77kg Welterweight · 
  Title Bout\n• Prates: 24-7-0 | 33yo | Striker | -167 (1.60)\n• Morales
@@ -759,11 +1062,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-336-fight-13271@ufc-detailed-calendar
 DTSTAMP:20261120T153140Z
-LAST-MODIFIED:20261120T153140Z
-SEQUENCE:0
-DTSTART:20270131T005000Z
-DTEND:20270131T012000Z
-SUMMARY:🥊 3. Lance Gibson Jr. vs. Michael Johnson (estimated)
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:1
+DTSTART:20270131T024000Z
+DTEND:20270131T031000Z
+SUMMARY:🥊 7. Lance Gibson Jr. vs. Michael Johnson (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n•
   Gibson Jr.: 10-2-0 | 31yo\n• Johnson: 25-20-0 | 40yo | Boxing\n• Odds
@@ -777,13 +1080,74 @@ RELATED-TO:ufc-336-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:ufc-336-fight-jose-montanha-tanner-boser@ufc-detailed-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20270131T015500Z
+DTEND:20270131T022500Z
+SUMMARY:🥊 6. Tanner Boser vs. José Montanha (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n
+ • Boser: 23-11-1 | 35yo | Karate\n• Montanha: 7-1-0 | 30yo | MMA\n• 
+ Odds history: not checked yet\nEvent: UFC 336: Van vs Kape\nSource: https:
+ //www.ufc.com/event/ufc-336\nMain calendar: https://staircasewit.github.io
+ /mmacalendar/ufc.ics\nEvent status: Rescheduled\; previously 31 Jan 2027
+LOCATION:Scotiabank Arena\, Toronto\, Canada
+URL:https://www.ufc.com/event/ufc-336
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-336-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-336-fight-marc-andre-barriault-tresean-gore@ufc-detailed-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20270131T010500Z
+DTEND:20270131T013500Z
+SUMMARY:🥊 5. Marc-Andre Barriault vs. Tresean Gore (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
+ • Barriault: 18-11-0 | 36yo | Striker\n• Gore: 8-4-0 | 32yo | Boxing\n
+ • Odds history: not checked yet\nEvent: UFC 336: Van vs Kape\nSource: ht
+ tps://www.ufc.com/event/ufc-336\nMain calendar: https://staircasewit.githu
+ b.io/mmacalendar/ufc.ics\nEvent status: Rescheduled\; previously 31 Jan 20
+ 27
+LOCATION:Scotiabank Arena\, Toronto\, Canada
+URL:https://www.ufc.com/event/ufc-336
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-336-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-336-fight-gable-steveson-terrance-chatman@ufc-detailed-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20270131T002000Z
+DTEND:20270131T005000Z
+SUMMARY:🥊 4. Gable Steveson vs. Terrance Chatman (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 265lbs/120kg Heavyweight\n
+ • Steveson: 4-1-0 | 26yo | Wrestler\n• Chatman: 5-2-0 | 29yo\n• Odds
+  history: not checked yet\nEvent: UFC 336: Van vs Kape\nSource: https://ww
+ w.ufc.com/event/ufc-336\nMain calendar: https://staircasewit.github.io/mma
+ calendar/ufc.ics\nEvent status: Rescheduled\; previously 31 Jan 2027
+LOCATION:Scotiabank Arena\, Toronto\, Canada
+URL:https://www.ufc.com/event/ufc-336
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-336-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-336-fight-13272@ufc-detailed-calendar
 DTSTAMP:20261120T153140Z
-LAST-MODIFIED:20261120T153140Z
-SEQUENCE:0
-DTSTART:20270130T232500Z
-DTEND:20270130T235500Z
-SUMMARY:🥊 2. Serhiy Sidey vs. Louis Lee Scott (estimated)
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:1
+DTSTART:20270130T233500Z
+DTEND:20270131T000500Z
+SUMMARY:🥊 3. Serhiy Sidey vs. Louis Lee Scott (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 135lbs/61kg Bantamweight\n
  • Sidey: 12-2-0 | 30yo | Freestyle\n• Lee Scott: 1-0-0 | 26yo\n• Odd
@@ -799,11 +1163,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-336-fight-13273@ufc-detailed-calendar
 DTSTAMP:20261120T153140Z
-LAST-MODIFIED:20261120T153140Z
-SEQUENCE:0
-DTSTART:20270130T220000Z
-DTEND:20270130T223000Z
-SUMMARY:🥊 1. Cam Nelson vs. Sean Clancy Jr. (estimated)
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:1
+DTSTART:20270130T224500Z
+DTEND:20270130T231500Z
+SUMMARY:🥊 2. Cam Nelson vs. Sean Clancy Jr. (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
  • Nelson: 8-1-0 | 28yo | MMA\n• Clancy Jr.: 1-0-0 | 24yo\n• Odds his
@@ -817,12 +1181,32 @@ RELATED-TO:ufc-336-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:ufc-336-fight-julien-leblanc-vlasto-cepo@ufc-detailed-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:0
+DTSTART:20270130T220000Z
+DTEND:20270130T223000Z
+SUMMARY:🥊 1. Julien Leblanc vs. Vlasto Čepo (estimated)
+DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
+  time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
+ • Leblanc: 10-4-0 | 35yo\n• Cepo: 14-4-0 | 32yo | Boxer\n• Odds hist
+ ory: not checked yet\nEvent: UFC 336: Van vs Kape\nSource: https://www.ufc
+ .com/event/ufc-336\nMain calendar: https://staircasewit.github.io/mmacalen
+ dar/ufc.ics\nEvent status: Rescheduled\; previously 31 Jan 2027
+LOCATION:Scotiabank Arena\, Toronto\, Canada
+URL:https://www.ufc.com/event/ufc-336
+CATEGORIES:UFC,Estimated Fight,Main Card
+RELATED-TO:ufc-336-main-card@ufc-detailed-calendar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:ufc-fight-night-february-06-2027-fight-13240@ufc-detailed-calendar
 DTSTAMP:20261104T143757Z
-LAST-MODIFIED:20261120T153140Z
-SEQUENCE:3
-DTSTART:20270207T000000Z
-DTEND:20270207T003000Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:4
+DTSTART:20270207T025000Z
+DTEND:20270207T032000Z
 SUMMARY:🥊 5. Quillan Salkilld vs. Benoît Saint Denis (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 155lbs/70kg Lightweight\n•
@@ -833,7 +1217,7 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  36) | Saint Denis 🔴 +255 (3.55)\nEvent: UFC Fight Night: Salkilld vs Sa
  int Denis\nSource: https://www.ufc.com/event/ufc-fight-night-february-06-2
  027\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEv
- ent status: Scheduled
+ ent status: Rescheduled\; previously 6 Feb 2027
 LOCATION:Afterpay Arena\, Sydney Olympic Park\, Australia
 URL:https://www.ufc.com/event/ufc-fight-night-february-06-2027
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -843,10 +1227,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-february-06-2027-fight-13241@ufc-detailed-calendar
 DTSTAMP:20261104T143757Z
-LAST-MODIFIED:20261120T153140Z
-SEQUENCE:4
-DTSTART:20270206T230000Z
-DTEND:20270206T233000Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:5
+DTSTART:20270207T013500Z
+DTEND:20270207T020500Z
 SUMMARY:🥊 4. Bogdan Guskov vs. Robert Whittaker (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 205lbs/93kg Light Heavyweigh
@@ -857,7 +1241,7 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   +120 (2.20) | Whittaker 🟢 -138 (1.72)\nEvent: UFC Fight Night: Salkill
  d vs Saint Denis\nSource: https://www.ufc.com/event/ufc-fight-night-februa
  ry-06-2027\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.
- ics\nEvent status: Scheduled
+ ics\nEvent status: Rescheduled\; previously 6 Feb 2027
 LOCATION:Afterpay Arena\, Sydney Olympic Park\, Australia
 URL:https://www.ufc.com/event/ufc-fight-night-february-06-2027
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -865,13 +1249,12 @@ RELATED-TO:ufc-fight-night-february-06-2027-main-card@ufc-detailed-calendar
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:ufc-fight-night-february-06-2027-fight-jonathan-micallef-sam-patterson@
- ufc-detailed-calendar
-DTSTAMP:20261120T153140Z
-LAST-MODIFIED:20261120T153140Z
+UID:ufc-fight-night-february-06-2027-fight-13275@ufc-detailed-calendar
+DTSTAMP:20261125T171801Z
+LAST-MODIFIED:20261125T171801Z
 SEQUENCE:0
-DTSTART:20270206T220000Z
-DTEND:20270206T223000Z
+DTSTART:20270207T002500Z
+DTEND:20270207T005500Z
 SUMMARY:🥊 3. Jonathan Micallef vs. Sam Patterson (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 170lbs/77kg Welterweight\n
@@ -879,7 +1262,7 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   Odds history: not checked yet\nEvent: UFC Fight Night: Salkilld vs Saint 
  Denis\nSource: https://www.ufc.com/event/ufc-fight-night-february-06-2027\
  nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent 
- status: Scheduled
+ status: Rescheduled\; previously 6 Feb 2027
 LOCATION:Afterpay Arena\, Sydney Olympic Park\, Australia
 URL:https://www.ufc.com/event/ufc-fight-night-february-06-2027
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -889,10 +1272,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-february-06-2027-fight-13243@ufc-detailed-calendar
 DTSTAMP:20261106T142126Z
-LAST-MODIFIED:20261120T153140Z
-SEQUENCE:1
-DTSTART:20270206T210000Z
-DTEND:20270206T213000Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:2
+DTSTART:20270206T231000Z
+DTEND:20270206T234000Z
 SUMMARY:🥊 2. Marwan Rahiki vs. JooSang Yoo (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n
@@ -900,7 +1283,7 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   Odds history: not checked yet\nEvent: UFC Fight Night: Salkilld vs Saint 
  Denis\nSource: https://www.ufc.com/event/ufc-fight-night-february-06-2027\
  nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEvent 
- status: Scheduled
+ status: Rescheduled\; previously 6 Feb 2027
 LOCATION:Afterpay Arena\, Sydney Olympic Park\, Australia
 URL:https://www.ufc.com/event/ufc-fight-night-february-06-2027
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -910,10 +1293,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-february-06-2027-fight-13244@ufc-detailed-calendar
 DTSTAMP:20261106T142126Z
-LAST-MODIFIED:20261106T142126Z
-SEQUENCE:0
-DTSTART:20270206T200000Z
-DTEND:20270206T203000Z
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:1
+DTSTART:20270206T220000Z
+DTEND:20270206T223000Z
 SUMMARY:🥊 1. Kaan Ofli vs. Joanderson Brito (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
   time may move as earlier fights finish.\n• 145lbs/66kg Featherweight\n
@@ -921,7 +1304,7 @@ DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
  • Odds history: not checked yet\nEvent: UFC Fight Night: Salkilld vs Sai
  nt Denis\nSource: https://www.ufc.com/event/ufc-fight-night-february-06-20
  27\nMain calendar: https://staircasewit.github.io/mmacalendar/ufc.ics\nEve
- nt status: Scheduled
+ nt status: Rescheduled\; previously 6 Feb 2027
 LOCATION:Afterpay Arena\, Sydney Olympic Park\, Australia
 URL:https://www.ufc.com/event/ufc-fight-night-february-06-2027
 CATEGORIES:UFC,Estimated Fight,Main Card
@@ -931,13 +1314,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ufc-fight-night-february-13-2027-fight-13264@ufc-detailed-calendar
 DTSTAMP:20261116T155309Z
-LAST-MODIFIED:20261123T181702Z
-SEQUENCE:1
+LAST-MODIFIED:20261125T171801Z
+SEQUENCE:2
 DTSTART:20270213T200000Z
 DTEND:20270213T203000Z
 SUMMARY:🥊 1. Joe Pyfer vs. Bo Nickal (estimated)
 DESCRIPTION:Estimated bout time · UFC · card placement TBD\nThe scheduled
-  time may move as earlier fights finish.\n• Weight class unavailable\n
+  time may move as earlier fights finish.\n• 185lbs/84kg Middleweight\n
  • Pyfer: 16-3-0 | 30yo | Boxing\n• Nickal: 9-1-0 | 31yo | Wrestler\n
  • Odds history: not checked yet\nEvent: UFC Fight Night: Pyfer vs Nickal
  \nSource: https://www.ufc.com/event/ufc-fight-night-february-13-2027\nMain
