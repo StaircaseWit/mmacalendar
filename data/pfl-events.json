@@ -6720,7 +6720,7 @@
   },
   {
     "uid": "pfl-returns-to-dubai",
-    "date": "2026-11-25",
+    "date": "2026-11-27",
     "summary": "PFL Dubai",
     "location": "Dubai, United Arab Emirates",
     "url": "https://pflmma.com/event/pfl-dubai-2026",
@@ -6938,7 +6938,7 @@
           "birthDate": "2001-03-25",
           "record": "9-0-0",
           "style": "Striker",
-          "odds": "-649"
+          "odds": "-549"
         },
         "blue": {
           "name": "Omar El Dafrawy",
@@ -6947,7 +6947,7 @@
           "birthDate": "1995-04-04",
           "record": "16-6-0",
           "style": null,
-          "odds": "+470"
+          "odds": "+410"
         },
         "details": "170lbs/77kg Welterweight",
         "oddsHistory": [
@@ -6960,6 +6960,21 @@
             "odds": {
               "patrick habirora": "-649",
               "omar el dafrawy": "+470"
+            },
+            "names": {
+              "patrick habirora": "Patrick Habirora",
+              "omar el dafrawy": "Omar El Dafrawy"
+            }
+          },
+          {
+            "checkedAt": "2026-11-27T16:44:11.269Z",
+            "eventName": "PFL Dubai",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+            "promotion": "pfl",
+            "eventId": "pfl-returns-to-dubai",
+            "odds": {
+              "patrick habirora": "-549",
+              "omar el dafrawy": "+410"
             },
             "names": {
               "patrick habirora": "Patrick Habirora",
@@ -6979,7 +6994,7 @@
           "birthDate": "1992-07-26",
           "record": "6-0-0",
           "style": null,
-          "odds": "-225"
+          "odds": "-240"
         },
         "blue": {
           "name": "Oleg Popov",
@@ -6988,7 +7003,7 @@
           "birthDate": "1992-01-01",
           "record": "23-2-0",
           "style": null,
-          "odds": "+210"
+          "odds": "+215"
         },
         "details": "265lbs/120kg Heavyweight",
         "oddsHistory": [
@@ -7001,6 +7016,21 @@
             "odds": {
               "pouya rahmani": "-225",
               "oleg popov": "+210"
+            },
+            "names": {
+              "pouya rahmani": "Pouya Rahmani",
+              "oleg popov": "Oleg Popov"
+            }
+          },
+          {
+            "checkedAt": "2026-11-27T16:44:11.269Z",
+            "eventName": "PFL Dubai",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+            "promotion": "pfl",
+            "eventId": "pfl-returns-to-dubai",
+            "odds": {
+              "pouya rahmani": "-240",
+              "oleg popov": "+215"
             },
             "names": {
               "pouya rahmani": "Pouya Rahmani",
@@ -7020,7 +7050,7 @@
           "birthDate": "1993-08-17",
           "record": "25-8-0",
           "style": null,
-          "odds": "-165"
+          "odds": "-150"
         },
         "blue": {
           "name": "Joji Goto",
@@ -7047,6 +7077,21 @@
               "sergio pettis": "Sergio Pettis",
               "joji goto": "Joji Goto"
             }
+          },
+          {
+            "checkedAt": "2026-11-27T16:44:11.269Z",
+            "eventName": "PFL Dubai",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+            "promotion": "pfl",
+            "eventId": "pfl-returns-to-dubai",
+            "odds": {
+              "sergio pettis": "-150",
+              "joji goto": "+140"
+            },
+            "names": {
+              "sergio pettis": "Sergio Pettis",
+              "joji goto": "Joji Goto"
+            }
           }
         ],
         "note": "Removed from the official PFL card"
@@ -7061,7 +7106,7 @@
           "birthDate": "2000-10-23",
           "record": "13-2-0",
           "style": null,
-          "odds": "-385"
+          "odds": "-400"
         },
         "blue": {
           "name": "Nawras Abzakh",
@@ -7088,6 +7133,21 @@
               "lewis mcgrillen": "Lewis McGrillen",
               "nawras abzakh": "Nawras Abzakh"
             }
+          },
+          {
+            "checkedAt": "2026-11-27T16:44:11.269Z",
+            "eventName": "PFL Dubai",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+            "promotion": "pfl",
+            "eventId": "pfl-returns-to-dubai",
+            "odds": {
+              "lewis mcgrillen": "-400",
+              "nawras abzakh": "+340"
+            },
+            "names": {
+              "lewis mcgrillen": "Lewis McGrillen",
+              "nawras abzakh": "Nawras Abzakh"
+            }
           }
         ],
         "note": "Removed from the official PFL card"
@@ -7102,7 +7162,7 @@
           "birthDate": "1993-11-04",
           "record": "12-3-1",
           "style": null,
-          "odds": "+160"
+          "odds": "+176"
         },
         "blue": {
           "name": "Connor Hughes",
@@ -7111,7 +7171,7 @@
           "birthDate": "1997-06-04",
           "record": "12-3-0",
           "style": null,
-          "odds": "-180"
+          "odds": "-188"
         },
         "details": "155lbs/70kg Lightweight",
         "oddsHistory": [
@@ -7124,6 +7184,21 @@
             "odds": {
               "shem rock": "+160",
               "connor hughes": "-180"
+            },
+            "names": {
+              "shem rock": "Shem Rock",
+              "connor hughes": "Connor Hughes"
+            }
+          },
+          {
+            "checkedAt": "2026-11-27T16:44:11.269Z",
+            "eventName": "PFL Dubai",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+            "promotion": "pfl",
+            "eventId": "pfl-returns-to-dubai",
+            "odds": {
+              "shem rock": "+176",
+              "connor hughes": "-188"
             },
             "names": {
               "shem rock": "Shem Rock",
@@ -7143,7 +7218,7 @@
           "birthDate": "1994-09-02",
           "record": "22-4-0",
           "style": null,
-          "odds": "-200"
+          "odds": "-225"
         },
         "blue": {
           "name": "David Martinez",
@@ -7152,7 +7227,7 @@
           "birthDate": "1993-08-20",
           "record": "17-6-0",
           "style": null,
-          "odds": "+190"
+          "odds": "+200"
         },
         "details": "170lbs/77kg Welterweight",
         "oddsHistory": [
@@ -7165,6 +7240,21 @@
             "odds": {
               "saygid izagakhmaev": "-200",
               "david martinez": "+190"
+            },
+            "names": {
+              "saygid izagakhmaev": "Saygid Izagakhmaev",
+              "david martinez": "David Martinez"
+            }
+          },
+          {
+            "checkedAt": "2026-11-27T16:44:11.269Z",
+            "eventName": "PFL Dubai",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+            "promotion": "pfl",
+            "eventId": "pfl-returns-to-dubai",
+            "odds": {
+              "saygid izagakhmaev": "-225",
+              "david martinez": "+200"
             },
             "names": {
               "saygid izagakhmaev": "Saygid Izagakhmaev",
@@ -7184,7 +7274,7 @@
           "birthDate": "2001-05-10",
           "record": "8-0-0",
           "style": null,
-          "odds": "-165"
+          "odds": "-188"
         },
         "blue": {
           "name": "Akhmed Magomedov",
@@ -7193,7 +7283,7 @@
           "birthDate": "1996-04-26",
           "record": "11-2-0",
           "style": null,
-          "odds": "+144"
+          "odds": "+176"
         },
         "details": "155lbs/70kg Lightweight",
         "oddsHistory": [
@@ -7206,6 +7296,21 @@
             "odds": {
               "alexei pergande": "-165",
               "akhmed magomedov": "+144"
+            },
+            "names": {
+              "alexei pergande": "Alexei Pergande",
+              "akhmed magomedov": "Akhmed Magomedov"
+            }
+          },
+          {
+            "checkedAt": "2026-11-27T16:44:11.269Z",
+            "eventName": "PFL Dubai",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+            "promotion": "pfl",
+            "eventId": "pfl-returns-to-dubai",
+            "odds": {
+              "alexei pergande": "-188",
+              "akhmed magomedov": "+176"
             },
             "names": {
               "alexei pergande": "Alexei Pergande",
@@ -7234,7 +7339,7 @@
           "birthDate": "1993-07-06",
           "record": "20-4-0",
           "style": "Striker",
-          "odds": "+210"
+          "odds": "+220"
         },
         "details": "145lbs/66kg Featherweight",
         "oddsHistory": [
@@ -7247,6 +7352,21 @@
             "odds": {
               "khasan magomedsharipov": "-250",
               "adam borics": "+210"
+            },
+            "names": {
+              "khasan magomedsharipov": "Khasan Magomedsharipov",
+              "adam borics": "Adam Borics"
+            }
+          },
+          {
+            "checkedAt": "2026-11-27T16:44:11.269Z",
+            "eventName": "PFL Dubai",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+            "promotion": "pfl",
+            "eventId": "pfl-returns-to-dubai",
+            "odds": {
+              "khasan magomedsharipov": "-250",
+              "adam borics": "+220"
             },
             "names": {
               "khasan magomedsharipov": "Khasan Magomedsharipov",
@@ -7275,7 +7395,7 @@
           "birthDate": "1991-01-18",
           "record": "9-2-0",
           "style": null,
-          "odds": "+320"
+          "odds": "+340"
         },
         "details": "265lbs/120kg Heavyweight",
         "oddsHistory": [
@@ -7288,6 +7408,21 @@
             "odds": {
               "denis goltsov": "-350",
               "maxwell djantou nana": "+320"
+            },
+            "names": {
+              "denis goltsov": "Denis Goltsov",
+              "maxwell djantou nana": "Maxwell Djantou Nana"
+            }
+          },
+          {
+            "checkedAt": "2026-11-27T16:44:11.269Z",
+            "eventName": "PFL Dubai",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+            "promotion": "pfl",
+            "eventId": "pfl-returns-to-dubai",
+            "odds": {
+              "denis goltsov": "-350",
+              "maxwell djantou nana": "+340"
             },
             "names": {
               "denis goltsov": "Denis Goltsov",
@@ -7316,7 +7451,7 @@
           "birthDate": "1995-09-09",
           "record": "15-7-1",
           "style": null,
-          "odds": "+105"
+          "odds": "+154"
         },
         "details": "170lbs/77kg Welterweight",
         "oddsHistory": [
@@ -7329,6 +7464,21 @@
             "odds": {
               "ernesto rodriguez": "-125",
               "rhys mckee": "+105"
+            },
+            "names": {
+              "ernesto rodriguez": "Ernesto Rodriguez",
+              "rhys mckee": "Rhys McKee"
+            }
+          },
+          {
+            "checkedAt": "2026-11-27T16:44:11.269Z",
+            "eventName": "PFL Dubai",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+            "promotion": "pfl",
+            "eventId": "pfl-returns-to-dubai",
+            "odds": {
+              "ernesto rodriguez": "-125",
+              "rhys mckee": "+154"
             },
             "names": {
               "ernesto rodriguez": "Ernesto Rodriguez",
@@ -7357,7 +7507,7 @@
           "birthDate": "1999-09-18",
           "record": "8-3-0",
           "style": null,
-          "odds": "+460"
+          "odds": "+500"
         },
         "details": "205lbs/93kg Light Heavyweight",
         "oddsHistory": [
@@ -7370,6 +7520,21 @@
             "odds": {
               "khabib nabiev": "-549",
               "styve ngono": "+460"
+            },
+            "names": {
+              "khabib nabiev": "Khabib Nabiev",
+              "styve ngono": "Styve Ngono"
+            }
+          },
+          {
+            "checkedAt": "2026-11-27T16:44:11.269Z",
+            "eventName": "PFL Dubai",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+            "promotion": "pfl",
+            "eventId": "pfl-returns-to-dubai",
+            "odds": {
+              "khabib nabiev": "-549",
+              "styve ngono": "+500"
             },
             "names": {
               "khabib nabiev": "Khabib Nabiev",
@@ -7389,7 +7554,7 @@
           "birthDate": "1998-05-28",
           "record": "8-2-0",
           "style": null,
-          "odds": "+220"
+          "odds": "+200"
         },
         "blue": {
           "name": "Jacinta Austin",
@@ -7398,7 +7563,7 @@
           "birthDate": "1994-10-19",
           "record": "9-2-0",
           "style": null,
-          "odds": "-250"
+          "odds": "-230"
         },
         "details": "Women's Strawweight",
         "oddsHistory": [
@@ -7416,11 +7581,63 @@
               "aleksandra savicheva": "Aleksandra Savicheva",
               "jacinta austin": "Jacinta Austin"
             }
+          },
+          {
+            "checkedAt": "2026-11-27T16:44:11.269Z",
+            "eventName": "PFL Dubai",
+            "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+            "promotion": "pfl",
+            "eventId": "pfl-returns-to-dubai",
+            "odds": {
+              "aleksandra savicheva": "+200",
+              "jacinta austin": "-230"
+            },
+            "names": {
+              "aleksandra savicheva": "Aleksandra Savicheva",
+              "jacinta austin": "Jacinta Austin"
+            }
           }
         ],
         "note": "Removed from the official PFL card"
       }
     ]
+  },
+  {
+    "uid": "pfl-san-juan-2027",
+    "date": "2026-11-27",
+    "summary": "PFL San Juan",
+    "location": "San Juan, Puerto Rico",
+    "url": "https://pflmma.com/event/pfl-san-juan-2027",
+    "start": null,
+    "end": null,
+    "status": "TENTATIVE",
+    "bouts": [
+      {
+        "id": "1693",
+        "order": 1,
+        "red": {
+          "name": "Amanda Serrano",
+          "profileUrl": "https://pflmma.com/wt-fighter/amanda-serrano",
+          "countryCode": null,
+          "birthDate": null,
+          "record": null,
+          "style": null,
+          "odds": null
+        },
+        "blue": {
+          "name": "Skye Falzon",
+          "profileUrl": "https://pflmma.com/wt-fighter/skye-falzon",
+          "countryCode": null,
+          "birthDate": null,
+          "record": null,
+          "style": null,
+          "odds": null
+        },
+        "details": "Women's Featherweight · PFL World Title",
+        "oddsHistory": []
+      }
+    ],
+    "cancelledBouts": []
   },
   {
     "uid": "pflmena-12",

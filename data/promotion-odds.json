@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T18:17:02.229Z",
+  "lastCheckedAt": "2026-11-27T16:44:11.269Z",
   "fights": {
     "one::693657db2fbf6a23229602bf::selina flores--stamp fairtex": [
       {
@@ -3722,6 +3722,21 @@
           "patrick habirora": "Patrick Habirora",
           "omar el dafrawy": "Omar El Dafrawy"
         }
+      },
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "PFL Dubai",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+        "promotion": "pfl",
+        "eventId": "pfl-returns-to-dubai",
+        "odds": {
+          "patrick habirora": "-549",
+          "omar el dafrawy": "+410"
+        },
+        "names": {
+          "patrick habirora": "Patrick Habirora",
+          "omar el dafrawy": "Omar El Dafrawy"
+        }
       }
     ],
     "pfl::pfl returns to dubai::oleg popov--pouya rahmani": [
@@ -3739,6 +3754,21 @@
           "pouya rahmani": "Pouya Rahmani",
           "oleg popov": "Oleg Popov"
         }
+      },
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "PFL Dubai",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+        "promotion": "pfl",
+        "eventId": "pfl-returns-to-dubai",
+        "odds": {
+          "pouya rahmani": "-240",
+          "oleg popov": "+215"
+        },
+        "names": {
+          "pouya rahmani": "Pouya Rahmani",
+          "oleg popov": "Oleg Popov"
+        }
       }
     ],
     "pfl::pfl returns to dubai::joji goto--sergio pettis": [
@@ -3750,6 +3780,21 @@
         "eventId": "pfl-returns-to-dubai",
         "odds": {
           "sergio pettis": "-165",
+          "joji goto": "+140"
+        },
+        "names": {
+          "sergio pettis": "Sergio Pettis",
+          "joji goto": "Joji Goto"
+        }
+      },
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "PFL Dubai",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+        "promotion": "pfl",
+        "eventId": "pfl-returns-to-dubai",
+        "odds": {
+          "sergio pettis": "-150",
           "joji goto": "+140"
         },
         "names": {
@@ -3773,6 +3818,21 @@
           "lewis mcgrillen": "Lewis McGrillen",
           "nawras abzakh": "Nawras Abzakh"
         }
+      },
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "PFL Dubai",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+        "promotion": "pfl",
+        "eventId": "pfl-returns-to-dubai",
+        "odds": {
+          "lewis mcgrillen": "-400",
+          "nawras abzakh": "+340"
+        },
+        "names": {
+          "lewis mcgrillen": "Lewis McGrillen",
+          "nawras abzakh": "Nawras Abzakh"
+        }
       }
     ],
     "pfl::pfl returns to dubai::connor hughes--shem rock": [
@@ -3785,6 +3845,21 @@
         "odds": {
           "shem rock": "+160",
           "connor hughes": "-180"
+        },
+        "names": {
+          "shem rock": "Shem Rock",
+          "connor hughes": "Connor Hughes"
+        }
+      },
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "PFL Dubai",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+        "promotion": "pfl",
+        "eventId": "pfl-returns-to-dubai",
+        "odds": {
+          "shem rock": "+176",
+          "connor hughes": "-188"
         },
         "names": {
           "shem rock": "Shem Rock",
@@ -3807,6 +3882,21 @@
           "alexei pergande": "Alexei Pergande",
           "akhmed magomedov": "Akhmed Magomedov"
         }
+      },
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "PFL Dubai",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+        "promotion": "pfl",
+        "eventId": "pfl-returns-to-dubai",
+        "odds": {
+          "alexei pergande": "-188",
+          "akhmed magomedov": "+176"
+        },
+        "names": {
+          "alexei pergande": "Alexei Pergande",
+          "akhmed magomedov": "Akhmed Magomedov"
+        }
       }
     ],
     "pfl::pfl returns to dubai::david martinez--saygid izagakhmaev": [
@@ -3819,6 +3909,21 @@
         "odds": {
           "saygid izagakhmaev": "-200",
           "david martinez": "+190"
+        },
+        "names": {
+          "saygid izagakhmaev": "Saygid Izagakhmaev",
+          "david martinez": "David Martinez"
+        }
+      },
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "PFL Dubai",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+        "promotion": "pfl",
+        "eventId": "pfl-returns-to-dubai",
+        "odds": {
+          "saygid izagakhmaev": "-225",
+          "david martinez": "+200"
         },
         "names": {
           "saygid izagakhmaev": "Saygid Izagakhmaev",
@@ -3841,6 +3946,21 @@
           "khasan magomedsharipov": "Khasan Magomedsharipov",
           "adam borics": "Adam Borics"
         }
+      },
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "PFL Dubai",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+        "promotion": "pfl",
+        "eventId": "pfl-returns-to-dubai",
+        "odds": {
+          "khasan magomedsharipov": "-250",
+          "adam borics": "+220"
+        },
+        "names": {
+          "khasan magomedsharipov": "Khasan Magomedsharipov",
+          "adam borics": "Adam Borics"
+        }
       }
     ],
     "pfl::pfl returns to dubai::denis goltsov--maxwell djantou nana": [
@@ -3853,6 +3973,21 @@
         "odds": {
           "denis goltsov": "-350",
           "maxwell djantou nana": "+320"
+        },
+        "names": {
+          "denis goltsov": "Denis Goltsov",
+          "maxwell djantou nana": "Maxwell Djantou Nana"
+        }
+      },
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "PFL Dubai",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+        "promotion": "pfl",
+        "eventId": "pfl-returns-to-dubai",
+        "odds": {
+          "denis goltsov": "-350",
+          "maxwell djantou nana": "+340"
         },
         "names": {
           "denis goltsov": "Denis Goltsov",
@@ -3875,6 +4010,21 @@
           "ernesto rodriguez": "Ernesto Rodriguez",
           "rhys mckee": "Rhys McKee"
         }
+      },
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "PFL Dubai",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+        "promotion": "pfl",
+        "eventId": "pfl-returns-to-dubai",
+        "odds": {
+          "ernesto rodriguez": "-125",
+          "rhys mckee": "+154"
+        },
+        "names": {
+          "ernesto rodriguez": "Ernesto Rodriguez",
+          "rhys mckee": "Rhys McKee"
+        }
       }
     ],
     "pfl::pfl returns to dubai::khabib nabiev--styve ngono": [
@@ -3892,6 +4042,21 @@
           "khabib nabiev": "Khabib Nabiev",
           "styve ngono": "Styve Ngono"
         }
+      },
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "PFL Dubai",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+        "promotion": "pfl",
+        "eventId": "pfl-returns-to-dubai",
+        "odds": {
+          "khabib nabiev": "-549",
+          "styve ngono": "+500"
+        },
+        "names": {
+          "khabib nabiev": "Khabib Nabiev",
+          "styve ngono": "Styve Ngono"
+        }
       }
     ],
     "pfl::pfl returns to dubai::aleksandra savicheva--jacinta austin": [
@@ -3904,6 +4069,21 @@
         "odds": {
           "aleksandra savicheva": "+220",
           "jacinta austin": "-250"
+        },
+        "names": {
+          "aleksandra savicheva": "Aleksandra Savicheva",
+          "jacinta austin": "Jacinta Austin"
+        }
+      },
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "PFL Dubai",
+        "sourceUrl": "https://www.bestfightodds.com/events/pfl-dubai-4455",
+        "promotion": "pfl",
+        "eventId": "pfl-returns-to-dubai",
+        "odds": {
+          "aleksandra savicheva": "+200",
+          "jacinta austin": "-230"
         },
         "names": {
           "aleksandra savicheva": "Aleksandra Savicheva",
@@ -4248,6 +4428,176 @@
         "names": {
           "shosuke kinoshita": "Shosuke Kinoshita",
           "takuya shibamura": "Takuya Shibamura"
+        }
+      }
+    ],
+    "one::6a968cbcd3539b67790ecd55::petthanawat sor jaruwan--saencherngnoi tor muangsema": [
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "ONE Friday Fights 180 & The Inner Circle 40",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-180-4473",
+        "promotion": "one",
+        "eventId": "6a968cbcd3539b67790ecd55",
+        "odds": {
+          "saencherngnoi tor muangsema": "-125",
+          "petthanawat sor jaruwan": "-105"
+        },
+        "names": {
+          "saencherngnoi tor muangsema": "Saencherngnoi Tor Muangsema",
+          "petthanawat sor jaruwan": "Petthanawat Sor Jaruwan"
+        }
+      }
+    ],
+    "one::6a968cbcd3539b67790ecd55::jaxson hayman--sixten larsson": [
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "ONE Friday Fights 180 & The Inner Circle 40",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-180-4473",
+        "promotion": "one",
+        "eventId": "6a968cbcd3539b67790ecd55",
+        "odds": {
+          "jaxson hayman": "+110",
+          "sixten larsson": "-150"
+        },
+        "names": {
+          "jaxson hayman": "Jaxson Hayman",
+          "sixten larsson": "Sixten Larsson"
+        }
+      }
+    ],
+    "one::6a968cbcd3539b67790ecd55::alistair fitzharris--bhupen mutum": [
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "ONE Friday Fights 180 & The Inner Circle 40",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-180-4473",
+        "promotion": "one",
+        "eventId": "6a968cbcd3539b67790ecd55",
+        "odds": {
+          "alistair fitzharris": "-163",
+          "bhupen mutum": "+120"
+        },
+        "names": {
+          "alistair fitzharris": "Alistair Fitzharris",
+          "bhupen mutum": "Bhupen Mutum"
+        }
+      }
+    ],
+    "one::6a968cbcd3539b67790ecd55::panpet sor dechapan--youssef erraji": [
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "ONE Friday Fights 180 & The Inner Circle 40",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-180-4473",
+        "promotion": "one",
+        "eventId": "6a968cbcd3539b67790ecd55",
+        "odds": {
+          "panpet sor dechapan": "+105",
+          "youssef erraji": "-138"
+        },
+        "names": {
+          "panpet sor dechapan": "Panpet Sor Dechapan",
+          "youssef erraji": "Youssef Erraji"
+        }
+      }
+    ],
+    "one::6a968cbcd3539b67790ecd55::arti khatri--norika ryu": [
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "ONE Friday Fights 180 & The Inner Circle 40",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-180-4473",
+        "promotion": "one",
+        "eventId": "6a968cbcd3539b67790ecd55",
+        "odds": {
+          "arti khatri": "+150",
+          "norika ryu": "-200"
+        },
+        "names": {
+          "arti khatri": "Arti Khatri",
+          "norika ryu": "Norika Ryu"
+        }
+      }
+    ],
+    "one::6a968cbcd3539b67790ecd55::efe caliskan--fuga onodera": [
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "ONE Friday Fights 180 & The Inner Circle 40",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-180-4473",
+        "promotion": "one",
+        "eventId": "6a968cbcd3539b67790ecd55",
+        "odds": {
+          "efe caliskan": "+140",
+          "fuga onodera": "-188"
+        },
+        "names": {
+          "efe caliskan": "Efe Caliskan",
+          "fuga onodera": "Fuga Onodera"
+        }
+      }
+    ],
+    "one::6a968cbcd3539b67790ecd55::chen jiayi--taku takaiwa": [
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "ONE Friday Fights 180 & The Inner Circle 40",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-180-4473",
+        "promotion": "one",
+        "eventId": "6a968cbcd3539b67790ecd55",
+        "odds": {
+          "chen jiayi": "-120",
+          "taku takaiwa": "-110"
+        },
+        "names": {
+          "chen jiayi": "Chen Jiayi",
+          "taku takaiwa": "Taku Takaiwa"
+        }
+      }
+    ],
+    "one::6a968cbcd3539b67790ecd55::kongklai sor sommai--worapon lukjaoporongtom": [
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "ONE Friday Fights 180 & The Inner Circle 40",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-180-4473",
+        "promotion": "one",
+        "eventId": "6a968cbcd3539b67790ecd55",
+        "odds": {
+          "worapon lukjaoporongtom": "-175",
+          "kongklai sor sommai": "+130"
+        },
+        "names": {
+          "worapon lukjaoporongtom": "Worapon Lukjaoporongtom",
+          "kongklai sor sommai": "Kongklai Sor Sommai"
+        }
+      }
+    ],
+    "one::6a968cbcd3539b67790ecd55::abdelali zahidi--tom keogh": [
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "ONE Friday Fights 180 & The Inner Circle 40",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-180-4473",
+        "promotion": "one",
+        "eventId": "6a968cbcd3539b67790ecd55",
+        "odds": {
+          "tom keogh": "-225",
+          "abdelali zahidi": "+163"
+        },
+        "names": {
+          "tom keogh": "Tom Keogh",
+          "abdelali zahidi": "Abdelali Zahidi"
+        }
+      }
+    ],
+    "one::6a968cbcd3539b67790ecd55::enzo clarisse--petprapaporn sor dechapan": [
+      {
+        "checkedAt": "2026-11-27T16:44:11.269Z",
+        "eventName": "ONE Friday Fights 180 & The Inner Circle 40",
+        "sourceUrl": "https://www.bestfightodds.com/events/one-friday-fights-180-4473",
+        "promotion": "one",
+        "eventId": "6a968cbcd3539b67790ecd55",
+        "odds": {
+          "petprapaporn sor dechapan": "-120",
+          "enzo clarisse": "-110"
+        },
+        "names": {
+          "petprapaporn sor dechapan": "Petprapaporn Sor Dechapan",
+          "enzo clarisse": "Enzo Clarisse"
         }
       }
     ]

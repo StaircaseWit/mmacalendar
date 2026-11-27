@@ -61,7 +61,7 @@
       "age": 27,
       "record": "5-4-0",
       "style": "Grappler",
-      "checkedAt": "2026-09-13T12:47:10.519Z"
+      "checkedAt": "2026-11-27T16:44:11.269Z"
     },
     "https://www.onefc.com/athletes/yuta-miyazawa/": {
       "country": "Japan",
@@ -75,7 +75,7 @@
       "age": 26,
       "record": "4-0-0",
       "style": null,
-      "checkedAt": "2026-09-13T12:47:10.519Z"
+      "checkedAt": "2026-11-27T16:44:11.269Z"
     },
     "https://www.onefc.com/athletes/chokdee-maxjandee/": {
       "country": "Thailand",
@@ -334,7 +334,7 @@
       "age": 34,
       "record": "2-1-0",
       "style": null,
-      "checkedAt": "2026-09-13T13:20:20.773Z"
+      "checkedAt": "2026-11-27T16:44:11.269Z"
     },
     "https://www.onefc.com/athletes/jaosuayai/": {
       "country": "Thailand",
@@ -871,9 +871,9 @@
     "https://www.onefc.com/athletes/mohammad-siasarani/": {
       "country": "Iran",
       "age": 24,
-      "record": "10-2-0",
+      "record": "10-3-0",
       "style": "Striker",
-      "checkedAt": "2026-10-14T11:58:30.931Z"
+      "checkedAt": "2026-11-27T16:44:11.269Z"
     },
     "https://www.onefc.com/athletes/marat-grigorian/": {
       "country": "Armenia",
@@ -1577,10 +1577,10 @@
     },
     "https://www.onefc.com/athletes/duangdawnoi/": {
       "country": "Thailand",
-      "age": 27,
-      "record": "3-0-0",
+      "age": 28,
+      "record": "4-0-0",
       "style": null,
-      "checkedAt": "2026-09-28T14:01:47.609Z"
+      "checkedAt": "2026-11-27T16:44:11.269Z"
     },
     "https://www.onefc.com/athletes/aline-seiberth/": {
       "country": "Switzerland",
@@ -1928,9 +1928,9 @@
     "https://www.onefc.com/athletes/shosuke-iwanaga/": {
       "country": "Japan",
       "age": 22,
-      "record": null,
+      "record": "1-0-0",
       "style": null,
-      "checkedAt": "2026-10-12T15:33:38.535Z"
+      "checkedAt": "2026-11-27T16:44:11.269Z"
     },
     "https://www.onefc.com/athletes/jaradchai-maxjandee/": {
       "country": "Thailand",
@@ -2063,13 +2063,6 @@
       "age": 26,
       "record": "6-1-0",
       "style": "Striker",
-      "checkedAt": "2026-11-16T15:53:09.022Z"
-    },
-    "https://www.onefc.com/athletes/chihiro-sawada/": {
-      "country": "Japan",
-      "age": 28,
-      "record": "7-1-0",
-      "style": "Grappler",
       "checkedAt": "2026-11-16T15:53:09.022Z"
     },
     "https://www.onefc.com/athletes/anastasia-nikolakakos/": {
@@ -2243,9 +2236,9 @@
     "https://www.onefc.com/athletes/ranma/": {
       "country": "Japan",
       "age": 22,
-      "record": "3-1-0",
-      "style": null,
-      "checkedAt": "2026-10-28T13:01:15.055Z"
+      "record": "4-1-0",
+      "style": "Striker",
+      "checkedAt": "2026-11-27T16:44:11.269Z"
     },
     "https://www.onefc.com/athletes/taiki-naito/": {
       "country": "Japan",
@@ -2904,6 +2897,69 @@
       "record": "6-1-0",
       "style": "Striker",
       "checkedAt": "2026-11-23T18:17:02.229Z"
+    },
+    "https://www.onefc.com/athletes/hiromi-wajima/": {
+      "country": "Japan",
+      "age": 31,
+      "record": "1-1-0",
+      "style": null,
+      "checkedAt": "2026-11-27T16:44:11.269Z"
+    },
+    "https://www.onefc.com/athletes/taiju-shiratori/": {
+      "country": "Japan",
+      "age": 30,
+      "record": null,
+      "style": null,
+      "checkedAt": "2026-11-27T16:44:11.269Z"
+    },
+    "https://www.onefc.com/athletes/shota-tezuka/": {
+      "country": "Japan",
+      "age": 24,
+      "record": "1-0-0",
+      "style": null,
+      "checkedAt": "2026-11-27T16:44:11.269Z"
+    },
+    "https://www.onefc.com/athletes/thongpoon-pk-saenchai/": {
+      "country": "Thailand",
+      "age": 29,
+      "record": "5-5-0",
+      "style": "Striker",
+      "checkedAt": "2026-11-27T16:44:11.269Z"
+    },
+    "https://www.onefc.com/athletes/masahito-okuyama/": {
+      "country": "Japan",
+      "age": 23,
+      "record": "1-1-0",
+      "style": null,
+      "checkedAt": "2026-11-27T16:44:11.269Z"
+    },
+    "https://www.onefc.com/athletes/misaki/": {
+      "country": "Japan",
+      "age": 30,
+      "record": "2-0-0",
+      "style": null,
+      "checkedAt": "2026-11-27T16:44:11.269Z"
+    },
+    "https://www.onefc.com/athletes/taiga-orii/": {
+      "country": "Japan",
+      "age": null,
+      "record": "2-0-0",
+      "style": null,
+      "checkedAt": "2026-11-27T16:44:11.269Z"
+    },
+    "https://www.onefc.com/athletes/ryo-hirayama/": {
+      "country": "Japan",
+      "age": 27,
+      "record": "0-1-0",
+      "style": null,
+      "checkedAt": "2026-11-27T16:44:11.269Z"
+    },
+    "https://www.onefc.com/athletes/sora-tanazawa/": {
+      "country": "Japan",
+      "age": 19,
+      "record": "1-0-0",
+      "style": null,
+      "checkedAt": "2026-11-27T16:44:11.269Z"
     }
   }
 }

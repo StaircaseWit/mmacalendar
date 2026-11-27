@@ -1126,10 +1126,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pfl-returns-to-dubai@mma-calendar-pfl
 DTSTAMP:20260913T144507Z
-LAST-MODIFIED:20261125T171801Z
-SEQUENCE:18
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
+LAST-MODIFIED:20261127T164411Z
+SEQUENCE:19
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
 SUMMARY:PFL Dubai
 DESCRIPTION:Professional Fighters League · Complete Event · 2 announced b
@@ -1166,6 +1166,28 @@ DESCRIPTION:Professional Fighters League · Complete Event · 2 announced b
  ----\nSource: https://pflmma.com/event/pfl-dubai-2026
 LOCATION:Dubai\, United Arab Emirates
 URL:https://pflmma.com/event/pfl-dubai-2026
+CATEGORIES:Professional Fighters League
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:pfl-san-juan-2027@mma-calendar-pfl
+DTSTAMP:20261127T164411Z
+LAST-MODIFIED:20261127T164411Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:PFL San Juan
+DESCRIPTION:Professional Fighters League · Complete Event · 1 announced b
+ out\n📍 San Juan\, Puerto Rico\nCard times have not been announced. This
+  date-only entry will update automatically.\n\n---------------------------
+ -----\n𝗕𝗢𝗨𝗧𝗦\n--------------------------------\n\n🥊 1. 
+ 𝗔𝗺𝗮𝗻𝗱𝗮 𝗦𝗲𝗿𝗿𝗮𝗻𝗼 vs. 𝗦𝗸𝘆𝗲
+  𝗙𝗮𝗹𝘇𝗼𝗻\n• Women's Featherweight · PFL World Title\n\
+ n--------------------------------\nSource: https://pflmma.com/event/pfl-sa
+ n-juan-2027
+LOCATION:San Juan\, Puerto Rico
+URL:https://pflmma.com/event/pfl-san-juan-2027
 CATEGORIES:Professional Fighters League
 STATUS:TENTATIVE
 END:VEVENT
